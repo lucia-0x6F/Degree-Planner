@@ -1,8 +1,6 @@
 # Degree Planner
 
-***Degree Planner is an automatic course generator that helps you create a semester schedule.***
-
-*If you find it difficult to choose courses while fulfilling both major and graduation requirements, this tool can help you plan your path elegantly.*
+*Degree Planner is an automatic course generator that helps you create a semester schedule. If you find it difficult to choose courses while fulfilling both major and graduation requirements, this tool can help you plan your path elegantly.*
 
 ## How to Use
 - **Choose a major** (e.g., Computer Science)
