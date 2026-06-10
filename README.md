@@ -17,3 +17,10 @@
 
 ### Backend / Database
 - **Supabase**: PostgreSQL database and user authentication.
+
+## Data Source
+
+- UBC PAIR Grade Dataset  
+  https://github.com/DonneyF/ubc-pair-grade-data  
+
+Used for course and grade analytics in this project.
