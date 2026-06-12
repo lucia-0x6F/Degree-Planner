@@ -1,21 +1,32 @@
 /*
  npm init -y && npm i playwright
  npx playwright install chromium
- node course_scraper.js UBCV_subjects.json courseInfo.json
+ node course_scraper.js
  */
 
 import { chromium } from "playwright";
-import { readFileSync, writeFileSync } from "fs";
+import { writeFileSync } from "fs";
 
 const BASE_URL = "https://vancouver.calendar.ubc.ca/course-descriptions/subject/";
 const DELAY_MS = 800;
 const TIMEOUT  = 15_000;
 
-const [inputPath = "UBCV_subjects.json", outputPath = "courseInfo.json"] = process.argv.slice(2);
+const [outputPath = "courseInfo.json"] = process.argv.slice(2);
 
-const raw = JSON.parse(readFileSync(inputPath, "utf-8"));
-const subjects = Array.isArray(raw) ? raw : Object.values(raw).find(Array.isArray);
-const codes = subjects.map((s) => s.code);
+const browser = await chromium.launch({ headless: true });
+const page = await browser.newPage();
+
+// extract subject codes 
+const SUBJECT_LIST_URL = "https://vancouver.calendar.ubc.ca/course-descriptions/courses-subject";
+await page.goto(SUBJECT_LIST_URL, { timeout: TIMEOUT });
+await page.waitForSelector("ol li a", { timeout: TIMEOUT });
+const codes = await page.evaluate(() => {
+  const seen = new Set();
+  return [...document.querySelectorAll("ol > li > a")]
+    .map(a => a.textContent.trim().split(" - ")[0].replace("_V", "").trim())
+    .filter(code => seen.has(code) ? false : seen.add(code));
+});
+
 console.log(`extracted ${codes.length} subject codes\n`);
 
 // extract courses
@@ -36,14 +47,14 @@ function extractCourses() {
 }
 
 // title parser
-const TITLE = /^(\w+)_V\s+(\d+)\s+\((\d+(?:-\d+)?)\)\s+(.+)$/; 
+const TITLE = /^(\w+)_V\s+(\d+)\s+\((\d+(?:\.\d+)?(?:-\d+(?:\.\d+)?)?)\)\s+(.+)$/;
 
 function parseHeading(heading, subjectCode) {
   const result = heading.match(TITLE);
   if (!result) return null;
   return {
-    subject_code: subjectCode,
-    course_code: `${result[1]} ${result[2]}`,
+    subject_code: `${result[1]}`,
+    course_code: `${result[2]}`,
     credit: result[3],
     course_name: result[4].trim(),
   };
@@ -53,8 +64,6 @@ function parseHeading(heading, subjectCode) {
 // extract DOM in browser → parse with regex in Node → store results →
 // sleep → next code
 
-const browser = await chromium.launch({ headless: true });
-const page = await browser.newPage();
 const allCourses = [];
 const failed = [];
 
@@ -67,13 +76,21 @@ for (let i = 0; i < codes.length; i++) {
     await page.goto(url, { timeout: TIMEOUT });
     await page.waitForSelector("ol li", { timeout: TIMEOUT });
 
+    const faculty = await page.evaluate(() => {
+    const h1 = document.querySelector("h1");
+    if (!h1) return "";
+    const parts = h1.textContent.split(",");
+    return parts.length > 1 ? parts.slice(1).join(",").trim() : "";
+    });
+
+
     const rawContent = await page.evaluate(extractCourses);
 
     let count = 0;
     for (const { heading, text } of rawContent) {
         const parsed = parseHeading(heading, code);
         if (parsed) {
-            allCourses.push({ ...parsed, description: text });
+            allCourses.push({ ...parsed, faculty, description: text });
             count++;
         }
     }
