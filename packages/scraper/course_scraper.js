@@ -67,7 +67,7 @@ function parseHeading(heading, subjectCode) {
 const allCourses = [];
 const failed = [];
 
-for (let i = 0; i < codes.length; i++) {
+for (let i = 2; i < codes.length; i++) {
   const code = codes[i];
   const url = BASE_URL + code.toLowerCase() + "v";
   process.stdout.write(`[${i + 1}/${codes.length}] ${code} ... `);
@@ -76,13 +76,10 @@ for (let i = 0; i < codes.length; i++) {
     await page.goto(url, { timeout: TIMEOUT });
     await page.waitForSelector("ol li", { timeout: TIMEOUT });
 
-    const faculty = await page.evaluate(() => {
-    const h1 = document.querySelector("h1");
-    if (!h1) return "";
-    const parts = h1.textContent.split(",");
-    return parts.length > 1 ? parts.slice(1).join(",").trim() : "";
-    });
-
+    //extract faculty name
+    const h1Text = (await page.evaluate(() => document.querySelector("h1")?.textContent ?? "")).trim();
+    const match = h1Text.match(/,\s*((?:Faculty of|School of|Peter A\.|Vancouver School|Vantage College).+)$/);
+    const faculty = match ? match[1].trim() : "";
 
     const rawContent = await page.evaluate(extractCourses);
 

@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/lucia-0x6F/Auto-Course-Generator.git"
+    "url": "git+https://github.com/lucia-0x6F/Degree-Planner.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "type": "module",
   "bugs": {
-    "url": "https://github.com/lucia-0x6F/Auto-Course-Generator/issues"
+    "url": "https://github.com/lucia-0x6F/Defree-Planner/issues"
   },
-  "homepage": "https://github.com/lucia-0x6F/Auto-Course-Generator#readme",
+  "homepage": "https://github.com/lucia-0x6F/Degree-Planner#readme",
   "dependencies": {
     "playwright": "^1.60.0"
   }
