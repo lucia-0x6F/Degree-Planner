@@ -11,7 +11,7 @@ const BASE_URL = "https://vancouver.calendar.ubc.ca/course-descriptions/subject/
 const DELAY_MS = 800;
 const TIMEOUT  = 15_000;
 
-const [outputPath = "courseInfo.json"] = process.argv.slice(2);
+const [outputPath = "courses.json"] = process.argv.slice(2);
 
 const browser = await chromium.launch({ headless: true });
 const page = await browser.newPage();
