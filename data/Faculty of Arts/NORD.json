@@ -1,0 +1,130 @@
+{
+  "NORD 332": {
+    "subject_code": "NORD",
+    "course_code": "332",
+    "credit": "3-6",
+    "course_name": "Nordic Studies in Focus",
+    "faculty": "Faculty of Arts",
+    "description": "Topics that respond to current events and emerging research in Nordic cultural studies. Find out which special topic will be explored in the current or coming year at https://cenes.ubc.ca/courses. A maximum of 6 credits will be granted for SCAN_V 332 or NORD_V 332. Equivalency: SCAN_V 332."
+  },
+  "NORD 333": {
+    "subject_code": "NORD",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Nordic Literary Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary and historical Nordic literatures that reflect the major societal, political and cultural aspects of the circumpolar North. Credit will be granted for only one of SCAN_V 333 or NORD_V 333. Equivalency: SCAN_V 333."
+  },
+  "NORD 334": {
+    "subject_code": "NORD",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Nordic Contemporary Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Explore Nordic societies through recent literature translated from Danish, Swedish, Norwegian, Finnish, Sámi languages, Icelandic, and other Nordic languages. Credit will be granted for only one of SCAN_V 334 or NORD_V 334. Equivalency: SCAN_V 334."
+  },
+  "NORD 336": {
+    "subject_code": "NORD",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Nordic Crime Fiction, Film and Television",
+    "faculty": "Faculty of Arts",
+    "description": "Explore Nordic crime stories as a mirror and critique of their societies. Credit will be granted for only one of SCAN_V 336 or NORD_V 336. Equivalency: SCAN_V 336."
+  },
+  "NORD 337": {
+    "subject_code": "NORD",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Nordic Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Examine the technical, narrative, and aesthetic features of Northern European films. Credit will be granted for only one of SCAN_V 337 or NORD_V 337. Equivalency: SCAN_V 337."
+  },
+  "NORD 338": {
+    "subject_code": "NORD",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "The Viking World",
+    "faculty": "Faculty of Arts",
+    "description": "Wars, migrations and settlements of the Viking Age (800-1100) as seen through the Icelandic sagas, and the afterlife of the Viking world in modern culture."
+  },
+  "NORD 339": {
+    "subject_code": "NORD",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "Norse Mythology",
+    "faculty": "Faculty of Arts",
+    "description": "The pagan mythology of pre-Christian Scandinavia and its later appropriations and recycling."
+  },
+  "NORD 340": {
+    "subject_code": "NORD",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Sámi Histories and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural history of the Sámi peoples, the Indigenous peoples of northern Norway, Sweden, Finland and Russias Kola Peninsula. Focus on traditional culture, colonization, and decolonization."
+  },
+  "NORD 341": {
+    "subject_code": "NORD",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Indigenous Activism",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of contemporary political and social conflicts in the circumpolar north, focusing on ways Indigenous people have used art, performance and activism as a tool for resistance and decolonization. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NORD 399": {
+    "subject_code": "NORD",
+    "course_code": "399",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of readings and research undertaking topics of Nordic Studies, with the agreement and under the supervision of a faculty member with relevant expertise. Restricted to Nordic Studies students with approval from the Director of Undergraduate Studies."
+  },
+  "NORD 411": {
+    "subject_code": "NORD",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Nordic Drama and Film",
+    "faculty": "Faculty of Arts",
+    "description": "Examine the origins of Nordic drama and film and their influences on these art forms worldwide. Credit will be granted for only one of SCAN_V 411 or NORD_V 411. Equivalency: SCAN_V 411."
+  },
+  "NORD 412": {
+    "subject_code": "NORD",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Epics of Northern Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Explore epics of Northern Europe, their connections to nationalism, and their re-imaginings in contemporary Nordic literature. Credit will be granted for only one of SCAN_V 412 or NORD_V 412. Equivalency: SCAN_V 412."
+  },
+  "NORD 413": {
+    "subject_code": "NORD",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Baltic Cultures and Literatures",
+    "faculty": "Faculty of Arts",
+    "description": "Examination through literature of the historical, cultural, and ethnic elements that have made the Baltic area (Estonia, Latvia and Lithuania) the crossroads of northeastern Europe. Credit will be granted for only one of SCAN_V 413 or NORD_V 413. Equivalency: SCAN_V 413."
+  },
+  "NORD 414": {
+    "subject_code": "NORD",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Topics in Northern European Cultural Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics for advanced study, such as activism, ethnicity, gender, identity, migration, sexuality, and justice across Northern Europe. Credit will be granted for only one of SCAN_V 414 or NORD_V 414. Equivalency: SCAN_V 414."
+  },
+  "NORD 415": {
+    "subject_code": "NORD",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "The World of the Sagas",
+    "faculty": "Faculty of Arts",
+    "description": "Explore the medieval and early modern world of the Nordic region through the Icelandic sagas and their literary, cultural, and historical context. Credit will be granted for only one of SCAN_V 415 or NORD_V 415. Equivalency: SCAN_V 415."
+  },
+  "NORD 499": {
+    "subject_code": "NORD",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research undertaking topics of Nordic Studies, with the agreement and under the supervision, of a faculty member with relevant expertise. Restricted to Nordic Studies students with approval from the Director of Undergraduate Studies."
+  }
+}

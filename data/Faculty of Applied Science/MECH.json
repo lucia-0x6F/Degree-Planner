@@ -1,0 +1,1050 @@
+{
+  "MECH 220": {
+    "subject_code": "MECH",
+    "course_code": "220",
+    "credit": "4",
+    "course_name": "Technical Skills Practicum",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineering graphics, spatial visualization, CAD, equation solvers, machine shop practice, electronic circuit construction and troubleshooting, elements of engineering science. [1-3-3]. Prerequisite: All of APSC_V 160, MATH_V 100, MATH_V 101, MATH_V 152, PHYS_V 157, PHYS_V 158, PHYS_V 170 and one of BMEG_V 102, PHYS_V 159 and one of APSC_O 176, ENGL_V 112, WRDS_V 150. Corequisite: MECH_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 221": {
+    "subject_code": "MECH",
+    "course_code": "221",
+    "credit": "12",
+    "course_name": "Engineering Science I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Rigid body kinetics and kinematics, basic electrical circuits, work and power, stress and strain, torsion, bending, engineering materials, probability and statistics. This course includes the content of ELEC_V 203. [11-2-1] Prerequisite: All of MATH_V 100, MATH_V 101, MATH_V 152, PHYS_V 157, PHYS_V 158, PHYS_V 170; and one of BMEG_V 102, PHYS_V 159; and one of APSC_O 176, ENGL_V 112, WRDS_V 150. Corequisite: All of MECH_V 220, MECH_V 224. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 222": {
+    "subject_code": "MECH",
+    "course_code": "222",
+    "credit": "6",
+    "course_name": "Engineering Science II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fluid properties, equations of state. Pressure, buoyancy, hydrostatic forces. Conservation of mass, momentum, and energy. Work and heat; internal energy and enthalpy. Bernoulli's equation. Dimensional analysis, modelling. Turbulent flow in pipes; turbomachinery. Second law and the Carnot cycle; entropy; first and second law analysis of systems. [5-2-1]. Prerequisite: MECH_V 220. Corequisite: MECH_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 223": {
+    "subject_code": "MECH",
+    "course_code": "223",
+    "credit": "7",
+    "course_name": "Introduction to the Mechanical Design Process",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design methodology, synthesis and analysis. Design projects representing both mechanical mechanism design and thermofluid systems. [3-8-0]. Prerequisite: MECH_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 224": {
+    "subject_code": "MECH",
+    "course_code": "224",
+    "credit": "1",
+    "course_name": "Integration of Engineering Concepts I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Integration of the theory and practice of Mechanical Engineering to illustrate the commonality and conceptual connectivity of seemingly different technical areas. Emphasis on dynamics, solid mechanics, materials, electronics, and mathematics. [1-0-1]. Corequisite: MECH_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 225": {
+    "subject_code": "MECH",
+    "course_code": "225",
+    "credit": "1",
+    "course_name": "Integration of Engineering Concepts II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Integration of the theory and practice of Mechanical Engineering to illustrate the commonality and conceptual connectivity of seemingly different technical areas. Emphasis on thermodynamics, fluid mechanics, and mathematics. [1-0-1]. Corequisite: MECH_V 222. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 226": {
+    "subject_code": "MECH",
+    "course_code": "226",
+    "credit": "3",
+    "course_name": "Technical Communication for Mechanical Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication. Preparation of design reports, business correspondence, verbal, online, and visual presentation of technical material. Restricted to students in the second year of Mechanical Engineering. Credit will be granted for only one of MECH_V 226 or MECH_V 227. [1-0-1;1-0-1] Prerequisite: ENGL_V 112, WRDS_V 150, or APSC_O 176. Corequisite: All of MECH_V 220, MECH_V 221, MECH_V 222, MECH_V 223, MECH_V 224, MECH_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 227": {
+    "subject_code": "MECH",
+    "course_code": "227",
+    "credit": "5",
+    "course_name": "Approaches to Technical Communication for Mechanical Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication. Preparation of design, business correspondence, verbal, online and visual presentation of technical material. Focus on the linguistic structure and style of technical communication. Restricted to students in Mechanical Engineering. Credit will be granted for only one of MECH_V 226 or MECH_V 227. [3-0-4]. Prerequisite: MECH_V 220 and one of APSC_O 176, ENGL_V 112, WRDS_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 230": {
+    "subject_code": "MECH",
+    "course_code": "230",
+    "credit": "2",
+    "course_name": "Technical Skills Practicum I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineering graphics, spatial visualization, CAD, equation solvers, elements of engineering science. [1-1-1]. Prerequisite: All of APSC_V 160, MATH_V 101, MATH_V 152, PHYS_V 158, PHYS_V 170; and one of APSC_V 100, APSC_V 150, APSC_V 151; and one of BMEG_V 102, PHYS_V 159; and one of APSC_O 176, ENGL_V 112, WRDS_V 150. Corequisite: MECH_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 231": {
+    "subject_code": "MECH",
+    "course_code": "231",
+    "credit": "2",
+    "course_name": "Technical Skills Practicum II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Machine shop practice, electronic circuit construction and troubleshooting. [0-2-2] Prerequisite: MECH_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 232": {
+    "subject_code": "MECH",
+    "course_code": "232",
+    "credit": "2",
+    "course_name": "Introduction to the Mechanical Design Process I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to design methodology, synthesis and analysis. [2-0-0] Prerequisite: All of APSC_V 160, MATH_V 101, MATH_V 152, PHYS_V 158, PHYS_V 170; and one of APSC_V 100, APSC_V 150, APSC_V 151; and one of BMEG_V 102, PHYS_V 159; and one of APSC_O 176, ENGL_V 112, WRDS_V 150. Corequisite: MECH_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 233": {
+    "subject_code": "MECH",
+    "course_code": "233",
+    "credit": "5",
+    "course_name": "Introduction to the Mechanical Design Process II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Intermediate design methodology, synthesis and analysis. Design project representing mechanical mechanism design and thermofluid systems. [1-8-0] Prerequisite: MECH_V 232. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 234": {
+    "subject_code": "MECH",
+    "course_code": "234",
+    "credit": "1",
+    "course_name": "Technical Skills Practicum IIA",
+    "faculty": "Faculty of Applied Science",
+    "description": "Electronic circuit construction and troubleshooting. [0-1-1]. Prerequisite: MECH_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 235": {
+    "subject_code": "MECH",
+    "course_code": "235",
+    "credit": "1",
+    "course_name": "Technical Skills Practicum IIB",
+    "faculty": "Faculty of Applied Science",
+    "description": "Machine shop practice. [0-1-1]. Prerequisite: MECH_V 234. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 260": {
+    "subject_code": "MECH",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Introduction to Mechanics of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Statically determinate frames and trusses; normal and shear stresses and strains; shear force and bending moment diagrams; theory of beam bending, torsion of circular rods; transformation of stress and strain in two and three dimensions, Mohr's circle; yield and ultimate failure criteria. [3-0-1]. Prerequisite: Either (a) all of MATH_V 101, PHYS_V 170 or (b) all of APSC_O 172, APSC_O 173, APSC_O 180. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 280": {
+    "subject_code": "MECH",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Introduction to Fluid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fluid properties; statics; kinematics, dynamics, energy, and momentum principles for control volumes; dimensional analysis and similarity; laminar and turbulent flow; pipe flow; principles of centrifugal pumps. [3-0-1]. Prerequisite: All of MATH_V 152, PHYS_V 170 and one of MATH_V 217, MATH_V 253; and either (a) PHYS_V 131 and one of PHYS_V 108, PHYS_V 118; or (b) PHYS_V 153 or (c) all of PHYS_V 157, PHYS_V 158, PHYS_V 159. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 305": {
+    "subject_code": "MECH",
+    "course_code": "305",
+    "credit": "6",
+    "course_name": "Data Analysis and Mechanical Engineering Laboratories",
+    "faculty": "Faculty of Applied Science",
+    "description": "The use of probability and statistical methods for engineering applications. Mechanics of materials, heat transfer, and fluid dynamics. Instrumentation, data acquisition, and data manipulation using modern computational tools. [3-5-1*] Prerequisite: All of MECH_V 220, MECH_V 223, MECH_V 224, MECH_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 306": {
+    "subject_code": "MECH",
+    "course_code": "306",
+    "credit": "4",
+    "course_name": "Data Analysis and Mechatronics Laboratories",
+    "faculty": "Faculty of Applied Science",
+    "description": "The use of probability and statistical methods for engineering applications. Mechanics of materials and heat transfer. Instrumentation, data acquisition, and data manipulation using modern computational tools. Common mechanical devices. For students in the Mechatronics Option only. [3-3*-1*] Prerequisite: All of MECH_V 220, MECH_V 223, MECH_V 224, MECH_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 325": {
+    "subject_code": "MECH",
+    "course_code": "325",
+    "credit": "4",
+    "course_name": "Machine Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selection of flexible drives, bearings, fluid power system components, and couplings. Design of shafts, bolted joints and power screws. Design and selection of gears, gear trains, and mechanisms. Recommended co-requisite: MECH_V 360. [3-0-3]. Prerequisite: One of MECH_V 223, MECH_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 327": {
+    "subject_code": "MECH",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Thermodynamics II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Air standard and vapor cycles; first and second law of cycles. Exergy. Gas mixtures. Energy conservation. Equilibrium. Reacting systems. Application to thermofluid systems such as power plants. [3-0-1]. Prerequisite: Either (a) MECH_V 225 or (b) one of CHBE_V 241, ENPH_V 257 and one of CHBE_V 251, CIVL_V 215, MECH_V 280. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 328": {
+    "subject_code": "MECH",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Mechanical Engineering Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Applying the design process, making educated assumptions and decisions, and working in teams to provide a new mechanical design. Weekly lecture discussing product development and various factors affecting the design. Restricted to students with third-year standing or higher in Mechanical Engineering. [1-4-1] Prerequisite: MECH_V 223. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 329": {
+    "subject_code": "MECH",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Materials for Mechanical Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selection of material properties for mechanical design. Metals and alloys, ceramics, polymers, composites and other hybrid materials. [3-0-1]. Prerequisite: Either (a) MECH_V 224 or (b) all of APSC_V 278, MECH_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 358": {
+    "subject_code": "MECH",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "Engineering Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fourier series; auto- and cross-correlation; power spectra; discrete Fourier transform; boundary-value problems; numerical methods; partial differential equations; heat, wave, Laplace, Poisson, and wave equations. Applications to mechanical engineering and practical computing emphasized. [3-1-0]. Prerequisite: All of MECH_V 224, MECH_V 225. Equivalency: MATH_V 358. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 359": {
+    "subject_code": "MECH",
+    "course_code": "359",
+    "credit": "4",
+    "course_name": "Computational Methods for Mechanical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Computational methods for solving mechanical engineering problems. Numerical computation of linear and nonlinear algebraic equations; interpolation and extrapolation; numerical integration and differentiation; numerical solution of differential equations. Credit will be granted for only one of MECH_V 358 or MECH_V 359. [3-1-1] Prerequisite: All of MECH_V 224, MECH_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 360": {
+    "subject_code": "MECH",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Mechanics of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Beam deflections, singularity functions; use of tabulated solutions; column buckling; Castigliano's theorem, statically indeterminate beams, bending of beams with asymmetric cross-sections, shear centre; principal stresses and stress invariants in three dimensions. [3-0-1]. Prerequisite: One of MECH_V 224, MECH_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 366": {
+    "subject_code": "MECH",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "Modelling of Mechatronic Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling of mechanical, electrical, thermal, fluid elements and mixed mechatronic systems. Signal processing, signal conditioning. Sensors, data acquisition systems, actuators. [2-2-0] Prerequisite: All of MECH_V 220, MECH_V 223, MECH_V 224, MECH_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 368": {
+    "subject_code": "MECH",
+    "course_code": "368",
+    "credit": "4",
+    "course_name": "Engineering Measurements and Instrumentation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Industrial measurement needs including: architecture of electronic instrumentation systems; electrical representation of physical quantities; sensors and actuators; analog signal processing using linear and non-linear circuits; computer-based readout including programming for user-interface and data acquisition. [2-3-1] Prerequisite: Either (a) two of MECH_V 220, MECH_V 224, ELEC_V 203 or (b) all of MANU_V 230, ELEC_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 375": {
+    "subject_code": "MECH",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Heat Transfer",
+    "faculty": "Faculty of Applied Science",
+    "description": "Steady and transient conduction. Radiation heat transfer. Convective heat and mass transfer in pipes and from external surfaces. Design of heat exchangers. [3-0-1]. Prerequisite: Either (a) MECH_V 225 or (b) one of CHBE_V 241, ENPH_V 257, PHYS_V 203 and one of CHBE_V 251, CIVL_V 215, MECH_V 280. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 380": {
+    "subject_code": "MECH",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Fluid Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Review of principles, compressible flow, potential flow, simple laminar viscous flow, boundary layers, flow around bluff bodies. [3-0-1] Prerequisite: Either (a) MECH_V 225 or (b) one of MATH_V 255 or MATH_V 256 and one of CHBE_V 251, CIVL_V 215, MECH_V 280 and one of CHBE_V 241, ENPH_V 257, PHYS_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 392": {
+    "subject_code": "MECH",
+    "course_code": "392",
+    "credit": "2",
+    "course_name": "Manufacturing Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Manufacturing characteristics of materials and their control. Metal forming processes, plastic deformations, rolling, forging, drawing, extrusion, sheet metal forming. Machining processes and machine tools, turning, milling, drilling, grinding. Metal fabrication, welding and casting. An introduction to process planning. [2-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 400": {
+    "subject_code": "MECH",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Professionalism and Ethics in Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Professionalism, ethical frameworks, decolonization, equity, diversity, inclusion, law. Obligations of the engineer. [2-0-3] Prerequisite: Fourth-year standing in B.A.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 410": {
+    "subject_code": "MECH",
+    "course_code": "410",
+    "credit": "2-12",
+    "course_name": "Special Topics in Mechanical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Lectures and readings on specialized topics of current interest in Mechanical Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 411": {
+    "subject_code": "MECH",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Air Pollution, Technology and Society",
+    "faculty": "Faculty of Applied Science",
+    "description": "Causes and effects of air pollution in the context of technology and society. Topics include: impact of air pollutants on air quality and climate, atmospheric science, public policy, collective action, environmental justice, science communication, economic externalities, and ethical engineering design. Recommended pre-requisite: third-year standing. [3-0-0]. Prerequisite: Second-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 412": {
+    "subject_code": "MECH",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Engineering in Society and Technological Stewardship",
+    "faculty": "Faculty of Applied Science",
+    "description": "Societal influences that affect engineering activities, including interactions between engineering and the economic, health, safety, legal, and cultural aspects of society; uncertainties in the prediction of such interactions; industrial policy; sustainable development; entrepreneurship; and environmental and technological stewardship. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 420": {
+    "subject_code": "MECH",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Sensors and Actuators",
+    "faculty": "Faculty of Applied Science",
+    "description": "Measurement of motion, stress, force, torque, temperature, flow and pressure; principles of sensors and signal conditioning methods; actuators. [ 2-2*-1] Prerequisite: All of MECH_V 360, MECH_V 463, ELEC_V 343. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 421": {
+    "subject_code": "MECH",
+    "course_code": "421",
+    "credit": "4",
+    "course_name": "Mechatronics System Instrumentation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Architecture of mechatronics devices; integration of mechanical, electronics, sensors, actuators, computer and real time software systems; PLC and PC based systems; discrete and continuous automation system design. [2-2-2]. Prerequisite: MECH_V 366. Corequisite: MECH_V 420. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 422": {
+    "subject_code": "MECH",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Introduction to Microelectromechanical Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of MEMS (MicroElectroMechanical Systems). Microfabrication of MEMS with solid-state technology. LIGA and micro injection molding. Physics of MEMS. Operational principles of various MEMS devices. [2-3--0]. Prerequisite: One of MECH_V 224, ELEC_V 204 and all of MECH_V 360, MECH_V 368. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 423": {
+    "subject_code": "MECH",
+    "course_code": "423",
+    "credit": "4",
+    "course_name": "Mechatronic Product Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of mechatronic systems for industrial and human-centric applications compliant structures; electronic circuits to interface with sensors and actuators; embedded systems; precision timing and control; data acquisition and processing; user interfaces; and product innovation. [1-3-4] Prerequisite: All of MECH_V 366, ELEC_V 302, CPEN_V 312. and 4th year standing. Corequisite: CPEN_V 333, MECH_V 421. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 426": {
+    "subject_code": "MECH",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Mechanical Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of shafts and welded joints. Fatigue and fracture considerations in design: failure types, failure under static and dynamic loading, fatigue failure, crack initiation, and propagation. Introduction to the FEM in mechanical design. Students can only receive credit for one of MECH_V 326 or MECH_V 426. [2-0-3] Prerequisite: One of MECH_V 223, MECH_V 260. Corequisite: MECH_V 360. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 430": {
+    "subject_code": "MECH",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Engineering Data Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "The use of probability and statistical methods for engineering applications. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 431": {
+    "subject_code": "MECH",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Engineering Economics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Discounted cash flows. Sources of funds, cost of capital. Effects of depreciation, taxes, inflation. Evaluation and comparison of economic models for engineering projects. Replacement decisions. Public project analysis. Risk analysis. Project control, inventory analysis, simulation. Recommended pre-requisite: third-year standing. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 433": {
+    "subject_code": "MECH",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Biofluids",
+    "faculty": "Faculty of Applied Science",
+    "description": "Review of principles, Navier-Stokes equations, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in human body. Credit will be granted for only one of MECH_V 433 or MECH_V 533. [3-0-1]. Prerequisite: Either (a) MECH_V 225 or (b) one of MATH_V 255, MATH_V 256 and one of CHBE_V 251, CIVL_V 215, MECH_V 280. Equivalency: MECH_V 533. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 435": {
+    "subject_code": "MECH",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Orthopaedic Biomechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Musculoskeletal anatomy. Muscle and joint loads. Muscle mechanics. Musculoskeletal dynamics. Gait. Tissue mechanics of tendon, ligament, articular cartilage, and bone. Biomaterials. Application examples in orthopaedics including joint replacement and fracture fixation. Credit will be granted for only one of MECH_V 435 or MECH_V 535. Students who have received credit for BMEG_V 230 or 330 cannot also receive credit for MECH_V 435. [3-0-1]. Prerequisite: Either (a) MECH_V 221 or (b) all of APSC_V 278, MECH_V 260. Equivalency: MECH_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 436": {
+    "subject_code": "MECH",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Fundamentals of Injury Biomechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to injury biomechanics. Anatomy. Impact experiments. Multi-body dynamic simulation and finite element analysis. Skull, face, brain, spine, eye, pelvis, abdomen, and extremity injury. Anthropomorphic test devices, seat belts, airbags, child restraints, and helmets. Recommended pre-requisites: MECH_V 224, or all of MECH_V 260 and BMEG_V 330. Credit will be granted for only one of MECH_V 436 or MECH_V 536. [3-0-1]. Equivalency: MECH_V 536. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 439": {
+    "subject_code": "MECH",
+    "course_code": "439",
+    "credit": "1",
+    "course_name": "Biomechanics Research",
+    "faculty": "Faculty of Applied Science",
+    "description": "Seminar in Biomechanics research. [1-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 445": {
+    "subject_code": "MECH",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Fuel Cell Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Energy system architecture and electrochemical energy conversion: fuel cell thermodynamics and electrochemistry; Proton Exchange Membrane Fuel Cells (PMFCs) and Solid Oxide Fuel Cells (SOFCSs); hydrogen production, storage, and distribution. Recommended prerequisites: MECH_V 327 and MECH_V 375. Credit will be granted for only one of MECH_V 445 or MECH_V 577. [3-0-1] Prerequisite: Either (a) MECH_V 225 or (b) one of CHBE_V 241, ENPH_V 257 and one of CHBE_V 251, CIVL_V 215, MECH_V 280. Equivalency: MECH_V 577. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 453": {
+    "subject_code": "MECH",
+    "course_code": "453",
+    "credit": "6",
+    "course_name": "Aerospace Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone course to provide students experience in the design/development of practical mechanical and aerospace devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459, MECH_V 490. [1-2-2; 1-2-2]. Prerequisite: All of MECH_V 327, MECH_V 328, MECH_V 360, MECH_V 426. And fourth-year standing in the Aerospace Option. Equivalency: MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 454": {
+    "subject_code": "MECH",
+    "course_code": "454",
+    "credit": "6",
+    "course_name": "Thermofluids Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone course to provide students experience in the design/development of practical mechanical and thermofluids devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH 453, MECH 454, MECH 455, MECH 456, MECH 457, MECH 458, MECH 459, MECH 490. [1-2-2; 1-2-2] Prerequisite: All of MECH 325, MECH 327, MECH 328, MECH 360. and fourth-year standing in the Thermofluids Option. Equivalency: MECH 453, MECH 454, MECH 455, MECH 456, MECH 457, MECH 458, MECH 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 455": {
+    "subject_code": "MECH",
+    "course_code": "455",
+    "credit": "6",
+    "course_name": "Naval Architecture and Marine Engineering Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone course to provide students experience in the design/development of practical naval architecture and marine engineering devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459, or MECH_V 490. [1-2-2; 1-2-2]. Prerequisite: All of MECH_V 325, MECH_V 328, MECH_V 360, MECH_V 380. And fourth-year standing in the Naval Architecture and Marine Engineering Option. Equivalency: MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 456": {
+    "subject_code": "MECH",
+    "course_code": "456",
+    "credit": "6",
+    "course_name": "Energy and Environment Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone course to provide students experience in the design/development of practical energy and environment devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459, or MECH_V 490. [1-2-2; 1-2-2]. Prerequisite: All of MECH_V 325, MECH_V 327, MECH_V 328, MECH_V 360. and fourth-year standing in the Energy and Environment Option. Equivalency: MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 457": {
+    "subject_code": "MECH",
+    "course_code": "457",
+    "credit": "6",
+    "course_name": "Flex Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone design project designed to give students experience in the design/development of practical mechanical devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459, or MECH_V 490. [1-2-2; 1-2-2-] Prerequisite: All of MECH_V 325, MECH_V 328, MECH_V 360 and fourth-year standing in Mechanical Engineering. Equivalency: MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 458": {
+    "subject_code": "MECH",
+    "course_code": "458",
+    "credit": "6",
+    "course_name": "Mechatronics Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone design program designed to give students experience in the design/development of practical mechanical and mechatronics devices. Projects are provided by local industry and engineering research laboratories. Credit will be granted for only one of MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459, or MECH_V 490. [1-2-2; 1-2-2] Prerequisite: All of MECH_V 325, MECH_V 328, MECH_V 360 and fourth-year standing in the Mechatronics Option. Equivalency: MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 459": {
+    "subject_code": "MECH",
+    "course_code": "459",
+    "credit": "6",
+    "course_name": "Biomechanics and Medical Devices Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone design program designed to give students experience in the design and development of practical biomedical devices. Projects are provided by local industry and engineering research laboratories. For students in the Biomechanics and Medical Devices Option only. Credit will be granted for only one of MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459, or MECH_V 490. [1-2-2; 1-2- 2-] Prerequisite: All of MECH_V 325, MECH_V 328, MECH_V 360 and fourth-year standing in the Biomechanics and Medical Devices Option. Equivalency: MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, MECH_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 460": {
+    "subject_code": "MECH",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Advanced Mechanics of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mechanics of rubber, tissue, and gels at large viscoelastic deformation; large plastic deformations and damage of materials; mechanical characterization of materials (property extraction from mechanical tests); selected problems in linear elasticity. [3-0-1] Prerequisite: MECH_V 360 This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 462": {
+    "subject_code": "MECH",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Finite Element Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and element selection. Virtual work and weighted residual formulation. Linear elastic analysis. Heat transfer analysis. Isoparametric elements. Development of computer programs for simple problems. Utilization of existing computer packages. Application to mechanical engineering problems. Recommended prerequisite: MECH 360. Credit will be granted for only one of MECH_V 462 or MECH_V 514. [2-3*-0] Prerequisite: One of MECH_V 224 or MECH_V 260. Equivalency: MECH_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 463": {
+    "subject_code": "MECH",
+    "course_code": "463",
+    "credit": "4",
+    "course_name": "Mechanical Vibrations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory of vibration of mechanical systems. Undamped 1 degree of freedom vibration, forced vibrations and resonance, damping, multiple degree of freedom systems, mode shapes and orthogonality, continuous systems, vibration measuring instruments and frequency spectrum analysis.[3-2*-1] Prerequisite: One of MECH_V 224, MECH_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 464": {
+    "subject_code": "MECH",
+    "course_code": "464",
+    "credit": "3",
+    "course_name": "Industrial Robotics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Definition and classification of industrial robotic devices. Selection and implementation issues. Workcell environments. Forward and inverse kinematics, dynamics, trajectory planning. Sensing and manipulation tasks. Control architectures. Recommended co-requisite: MECH_V 466 or MECH_V 467. Credit will be granted for only one of ELEC_V 442, EECE_V 571R, EECE_V 589, MECH_V 464 or MECH_V 563. [3-0-1]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 466": {
+    "subject_code": "MECH",
+    "course_code": "466",
+    "credit": "4",
+    "course_name": "Control Systems I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to control systems: system modelling and transfer functions; block diagrams; principles of feedback; stability; Bode plots; root locus methods; frequency response; control design. Laboratory experiments to support the lecture content. Credit will be granted for only one of MECH_V 466, ELEC_V 341, or MECH_V 467. [3-1-0] Prerequisite: Either (a) all of MECH_V 220, MECH_V 224 or (b) MATH_V 255 and one of ELEC_V 201, ELEC_V 202, ELEC_V 204, EECE_V 251, EECE_V 253; or (c) all of ELEC_V 204, ELEC_V 221, ENPH_V 270, MATH_V 255. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 467": {
+    "subject_code": "MECH",
+    "course_code": "467",
+    "credit": "4",
+    "course_name": "Computer Control of Mechatronics Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Block diagrams and transfer functions, continuous and discrete domain transformations, feedback control system characteristics, control design in both continuous and discrete domain, absolute and relative stability, laboratory examples of Mechatronic systems design. Credit will be granted for only one of MECH_V 467 or MECH_V 541. Credit cannot be obtained for both MECH_V 466 and MECH_V 467. [3-2*-2] Prerequisite: One of MECH_V 366, MANU_V 386. Equivalency: MECH_V 541. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 468": {
+    "subject_code": "MECH",
+    "course_code": "468",
+    "credit": "3",
+    "course_name": "Control Systems II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to state space control methods for linear systems including modal control, controllability, observability, linear quadratic regulators, optimal control. Recommended co-requisite: MECH_V 366. Prerequisite: MECH_V 466, ELEC_V 341, or CHBE_V 356. Credit will be granted for only one of MECH_V 468 or MECH_V 509. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 469": {
+    "subject_code": "MECH",
+    "course_code": "469",
+    "credit": "3",
+    "course_name": "Dynamic System Modelling",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling of mechanical, electrical, fluid, and thermal systems; analytical models; model representations such as linear and bond graphs; response analysis; digital simulation. Recommended pre-requisite: third-year standing. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 470": {
+    "subject_code": "MECH",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Energy Conversion Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Energy supply and demand. Energy conversion chain. Electrical power generation using thermal power plants, renewable energy, and fuel cells. Rankine cycle steam power. Brayton cycle gas turbine power plants, intercooling, reheat, and regeneration. Internal combustion engines. Exhaust gas after treatment. Combined and binary cycles. Nuclear power. Recommended pre-requisites: All of MECH_V 327, MECH_V 375. [3-0-1]. Prerequisite: Either (a) MECH_V 225 or (b) one of CHBE_V 241, ENPH_V 257 and one of CHBE_V 251, CIVL_V 215, MECH_V 280. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 471": {
+    "subject_code": "MECH",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "An Introduction to Pulp and Papermaking",
+    "faculty": "Faculty of Applied Science",
+    "description": "Overview of pulp and paper operations. Conversion of wood to fibre through mechanical or chemical pulping, processing of recycled fibre, the papermaking process and paper converting operations. Contemporary developments. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 473": {
+    "subject_code": "MECH",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Heating, Ventilating and Air Conditioning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles of air conditioning; psychometrics and refrigeration. Heat transfer through building materials. Estimation of heating and cooling loads including the use of current software. System design. Ground, air and water source heat pumps. [3-0-1]. Prerequisite: MECH_V 375. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 477": {
+    "subject_code": "MECH",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Aerospace Propulsion",
+    "faculty": "Faculty of Applied Science",
+    "description": "Cycle analysis of jet engines, thermodynamic cycles, mechanics and thermodynamics of combustion, components and the performance characteristics of chemical rockets. The detailed analysis of operating characteristics of turbojet, turbofan, turboprop, afterburning, and ramjet propulsion systems. [3-0-1]. Prerequisite: All of MECH_V 327, MECH_V 375, MECH_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 478": {
+    "subject_code": "MECH",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Internal Combustion Engines",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of spark and compression ignition engines. Calculation of fuel economy, power, and emission. Practical and regulatory considerations in engine design. Engine emission and control systems. Recommended pre-requisite: MECH_V 327. Credit will be granted for only one of MECH_V 478 or MECH_V 578. [3-0-0]. Prerequisite: Either (a) MECH_V 225 or (b) one of CHBE_V 241, ENPH_V 257 and one of CHBE_V 251, CIVL_V 215, MECH_V 280. Equivalency: MECH_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 479": {
+    "subject_code": "MECH",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "Introduction to Computational Fluid Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Techniques for numerical solution of ordinary and partial differential equations, including an introduction to the finite difference, finite volume and finite element approaches. Simulation of laminar and turbulent flows, including common turbulent models. Validation techniques. Recommended pre-requisite: MECH_V 380. [3-1-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 481": {
+    "subject_code": "MECH",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Aerodynamics of Aircraft",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of airfoils and wings. Potential flow, thin airfoil theory, lifting line analysis of wings. Predicting viscous drag. Numerical methods for analysis and design of airfoils and wings. Subsonic, transonic, supersonic, and hypersonic flow. Credit will be granted for only one of MECH_V 481 or MECH_V 581. [3-1*-0] Prerequisite: MECH_V 380 Equivalency: MECH_V 581 This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 484": {
+    "subject_code": "MECH",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "Aircraft Stability and Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Basics of subsonic flight in the atmosphere; aircraft performance, stability and control, loading and air worthiness. Detailed example. [2-0-2] Corequisite: MECH_V 481 or MECH_V 581. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 485": {
+    "subject_code": "MECH",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Aircraft Design: Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Structural components of aircraft, introduction to the finite element method, bending and buckling of thin plates. Design of aircraft wing and fuselage structures, moments of inertia for complex shapes. [3-0-1]. Prerequisite: One of MECH_V 224, MECH_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 486": {
+    "subject_code": "MECH",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Introduction to Ship Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course introduces the ship design process from a Systems Engineering point of view. Topics include ship operational requirements, space and weight estimation, parametric design, optimization techniques, and the impacts of ship design on economics and the environment. Credit will be granted for only one of MECH_V 486 or NAME_V 581. [3-0-0] Prerequisite: Either (a) MECH_V 380 or (b) CIVL_V 315. Corequisite: All of MECH_V 488, CIVL_V 435. Equivalency: NAME_V 581 This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 488": {
+    "subject_code": "MECH",
+    "course_code": "488",
+    "credit": "3",
+    "course_name": "Introduction to Ship Hydrodynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Ship terminology, lines plans, ship hydrostatics, transverse and longitudinal stability of ships, dimensional analysis, ship resistance prediction; ship propulsion methods, propeller selection and design. Recommended prerequisites: One of MECH 380_V or CIVL 315_V, or enrollment in the NAME MEng or NAME MEL program. Prerequisite: One of MECH_V 225, MECH_V 280, or CIVL_V 215. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 489": {
+    "subject_code": "MECH",
+    "course_code": "489",
+    "credit": "4",
+    "course_name": "Experimental Thermofluids",
+    "faculty": "Faculty of Applied Science",
+    "description": "Experimental uncertainty. Design of experiments. Test facilities. Temperature and pressure measurement techniques and instrumentation. Velocity and flow rate measurement techniques. Flow visualization. Case studies of industrial and research experimental practice. Credit will be granted for only one of MECH_V 489 or MECH_V 582. [3-2-0]. Prerequisite: All of MECH_V 375, MECH_V 380. Equivalency: MECH_V 582. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 490": {
+    "subject_code": "MECH",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Interdisciplinary CapstoneDesign Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "An extension to projects in the New Venture Design Program that introduces additional technical design principles and requirements. Registration for this program is only permitted for Mechanical Engineering students who are in the New Venture Design Program. Credit will be granted for only one of MECH_V 490, MECH_V 453, MECH_V 454, MECH_V 455, MECH_V 456, MECH_V 457, MECH_V 458, or MECH_V 459. Restricted to students with only fourth-year standing in Mechanical Engineering. Prerequisite: All of MECH_V 325, MECH_V 328, MECH_V 360. [1-0- 1]; [1-0-1] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 491": {
+    "subject_code": "MECH",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Computer-Aided Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "NC programming and machining with interactive CAD/CAM systems. Curve and surface geometry for tool-path generation. Tool-path generation methodologies. Geometric modelling techniques for simulation and verification of manufacturing processes. Introduction to Computer-Aided Process Planning. Supplementary tutorial laboratory experiments. Recommended co- requisites: MECH_V 392 or MANU_V 380. Prerequisite: MECH_V 224 or MECH_V 260. [2-2-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 493": {
+    "subject_code": "MECH",
+    "course_code": "493",
+    "credit": "3-6",
+    "course_name": "Academic Research I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Research project directed by a faculty member in Mechanical Engineering. [0-5-1]. Prerequisite: Fourth-year standing and at least 80% average in third-year courses and permission of instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 494": {
+    "subject_code": "MECH",
+    "course_code": "494",
+    "credit": "3-6",
+    "course_name": "Academic Research II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Additional research project directed by a faculty member in Mechanical Engineering. [0-5-1] Prerequisite: MECH_V 493 and permission of instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 495": {
+    "subject_code": "MECH",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Industrial Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Organizational structure. Manufacturing systems and group technology. Classification and coding. Scheduling and sequencing of operations. Forecasting. Quality control for variables and attributes. Plant location. System reliability analysis. Advanced manufacturing automation concepts. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 496": {
+    "subject_code": "MECH",
+    "course_code": "496",
+    "credit": "3",
+    "course_name": "Engineering Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Organization structures. Management styles. Cost systems and control. Financial statements; accounting procedures. Budgets and performance control. Project management. Human resources management. Restricted to students with third-year standing or higher. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 497": {
+    "subject_code": "MECH",
+    "course_code": "497",
+    "credit": "3",
+    "course_name": "Research Skills and Data Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Research environment, funding and dissemination systems; literature reviews and critically evaluating papers; creating research questions; research ethics, data security and research records; equity, diversity, and inclusion in research. Recommended pre-requisite: Third-year standing. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 498": {
+    "subject_code": "MECH",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Research Communication",
+    "faculty": "Faculty of Applied Science",
+    "description": "Scholarly writing and communication in engineering. Standard research genres such as journal articles, conference posters, and grant proposals. Students will write on the topic of their CREATE-U research. [2-0-2]. Prerequisite: MECH_V 497. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 500": {
+    "subject_code": "MECH",
+    "course_code": "500",
+    "credit": "1-12",
+    "course_name": "Emerging Topics in Mechanical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 501": {
+    "subject_code": "MECH",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Thermodynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermodynamic principles, Maxwell relations, availability, irreversibility, and equilibrium. Introduction to statistical mechanics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 502": {
+    "subject_code": "MECH",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Fluid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Governing equations; viscous incompressible flow, incompressible potential flow; incompressible boundary layers, stability and turbulence; compressible potential flow. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 503": {
+    "subject_code": "MECH",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Linear Elasticity",
+    "faculty": "Faculty of Applied Science",
+    "description": "Stress and strain in three dimensions, fundamental field equations of linear elasticity; equilibrium, compatibility, Hooke's law; Papkovitch-Neuber solution, plane stress and plane strain; torsion, torsion of thin-walled members with warping restraint; plate theory. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 506": {
+    "subject_code": "MECH",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Linear Vibrations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Transient and steady state vibration analysis of continuous and discrete mechanical systems. Lagrange's equation and Hamilton's Principle. Measurement of vibration. Machinery health monitoring. Frequency domain analysis. Experimental modal analysis. Vibration of rotating machinery. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 507": {
+    "subject_code": "MECH",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Analytical Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Newtonian mechanics; generalized co-ordinates and analytical mechanics; Lagrange equations; Hamilton's Principle; rotational motion and rigid body dynamics; Gyroscopic motion; phase space, equilibrium, and stability of motion; stability characteristics of autonomous systems; Hamilton-Jacobi method; applications. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 509": {
+    "subject_code": "MECH",
+    "course_code": "509",
+    "credit": "4",
+    "course_name": "Controls",
+    "faculty": "Faculty of Applied Science",
+    "description": "State space model; stability; controlability; observability; Kalman decomposition; state feedback; observer; linear quadratic regulator; Kalman filter. Credit will be granted for only one of MECH_V 468 or MECH_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 512": {
+    "subject_code": "MECH",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Experimental Methods in Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Operating principles of transducers for measuring typical quantities; the construction of transducers and factors controlling their measurement accuracy; electronic signal conditioning equipment and computerized data acquisition system. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 514": {
+    "subject_code": "MECH",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Linear FEA in Solids and Heat Transfer",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and element selection. Virtual work and weighted residual formulation. Linear elastic analysis. Heat transfer analysis. Isoparametic elements. Computer program development. Utilization of existing computer packages. Credit will only be granted for one of MECH_V 514 or MECH_V 462. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 515": {
+    "subject_code": "MECH",
+    "course_code": "515",
+    "credit": "1-12",
+    "course_name": "Emerging Topics in Applied Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 520": {
+    "subject_code": "MECH",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Control Sensors and Actuators",
+    "faculty": "Faculty of Applied Science",
+    "description": "Review of control, instrumentation and design. Performance specification of control components, component matching, error analysis. Operating principles, analysis, modelling, design considerations of control sensors and actuators such as analog sensors for motion measurement, digital transducers, stepper motors, DC motors, induction motors, synchronous motors, and hydraulic actuators. Control techniques pertaining to actuators. Applications. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 521": {
+    "subject_code": "MECH",
+    "course_code": "521",
+    "credit": "4",
+    "course_name": "Fundamentals of Microelectromechanical Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Micro-fabrication of MEMS: solid-state technology and other micromachining techniques. Engineering principles of various MEMS devices. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 524": {
+    "subject_code": "MECH",
+    "course_code": "524",
+    "credit": "4",
+    "course_name": "Software Development for Mechatronic Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Equivalency: EECE_V 524. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 525": {
+    "subject_code": "MECH",
+    "course_code": "525",
+    "credit": "4",
+    "course_name": "Instrumentation for Mechatronic Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Equivalency: EECE_V 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 526": {
+    "subject_code": "MECH",
+    "course_code": "526",
+    "credit": "3-6",
+    "course_name": "Mechatronic System Design Project I",
+    "faculty": "Faculty of Applied Science",
+    "description": "The design, analysis, manufacturability, instrumentation and computer control of a selected dynamic machinery assembly will be studied. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 527": {
+    "subject_code": "MECH",
+    "course_code": "527",
+    "credit": "3-6",
+    "course_name": "Mechatronic System Design Project II",
+    "faculty": "Faculty of Applied Science",
+    "description": "The full assembly, instrumentation, computer and electronic interfacing, and testing of a dynamic machine. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 529": {
+    "subject_code": "MECH",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Modelling of Dynamic Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced modelling of mechanical, electrical, fluid, thermal and multi-domain systems; inter-domain analogies; analytical models in time and frequency domains; modelling tools; response analysis; digital simulation; practical project. Recommended pre-requisite: prior undergraduate coursework in dynamics, vibration, or electrical circuits. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 530": {
+    "subject_code": "MECH",
+    "course_code": "530",
+    "credit": "1-12",
+    "course_name": "Emerging Topics in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 533": {
+    "subject_code": "MECH",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Biofluids",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles, biorheology, circulatory biofluid mechanics, synovial fluid in joints, biofluid dynamics of the human brain, respiratory biofluid mechanics, flow and pressure measurement techniques in the human body. Credit will be granted for only one of MECH_V 433 or MECH_V 533. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 535": {
+    "subject_code": "MECH",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Orthopaedic Biomechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Musculoskeletal anatomy. Static and dynamic analysis of the musculoskeletal system. Gait. Musculoskeletal tissue mechanics. Biomaterials. Advanced study of relevant problems in orthopaedics, including joint replacement, fracture fixation, and spinal disorders. Credit will only be granted for one of MECH_V 435 or MECH_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 536": {
+    "subject_code": "MECH",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Fundamentals of Injury Biomechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to injury biomechanics. Anatomy. Impact experiments. Multi-body dynamic simulation and finite element analysis. Skull, face, brain, eye, pelvis, abdomen, and extremity injury. Anthropomorphic test devices, seat belts, airbags, child restraints, and helmets. Credit will only be granted for one of MECH_V 436 or MECH_V 536. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 540": {
+    "subject_code": "MECH",
+    "course_code": "540",
+    "credit": "1-12",
+    "course_name": "Emerging Topics in Mechatronics, Manufacturing, Controls, and Automation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 541": {
+    "subject_code": "MECH",
+    "course_code": "541",
+    "credit": "4",
+    "course_name": "Computer Control of Multi-Axis Machines",
+    "faculty": "Faculty of Applied Science",
+    "description": "Digital control laws for servo drives; state space and transfer function models of feed drives; tracking errors; trajectory generation of multi-axis machines; contouring analysis of multi-axes servo drives; real time linear and circular interpolation methods supported by laboratory applications. Credit will be granted for only one of MECH_V 467 or MECH_V 541. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 542": {
+    "subject_code": "MECH",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "CAD/CAM Principles and Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "3D geometric modelling; parametric representation of curves and surfaces; CNC machine tool programming; milling operations and setup; tool path generation for three- and five-axis sculptured surface machining. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 544": {
+    "subject_code": "MECH",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Machine Tool Structures and Vibrations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Review of metal cutting mechanics, milling, static deformations of machine tools. Machine tool vibrations, forced and self-excited vibrations in machining, chatter, stability. Sensors for machine tool monitoring and adaptive control. Sensor assisted intelligent machining techniques. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 556": {
+    "subject_code": "MECH",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Research Writing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Credit will be granted for only one of MECH 498 or MECH 556. Equivalency: MECH 500X, MECH 500A, MECH 550U This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 557": {
+    "subject_code": "MECH",
+    "course_code": "557",
+    "credit": "1",
+    "course_name": "Research Skills for Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 558": {
+    "subject_code": "MECH",
+    "course_code": "558",
+    "credit": "1",
+    "course_name": "Professional Responsibility for Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 559": {
+    "subject_code": "MECH",
+    "course_code": "559",
+    "credit": "2",
+    "course_name": "Engineering Project Management Fundamentals",
+    "faculty": "Faculty of Applied Science",
+    "description": "Students who have taken NAME_V 524 are not eligible to receive credit for this course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 562": {
+    "subject_code": "MECH",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Multivariable Feedback Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Well-posedness and internal stability of feedback systems, performance limitations, uncertainty, LFT representations, robust stability and robust performance, model reduction, linear matrix inequalities, H- infinity control, multi-objective control, mu-analysis and synthesis, H-infinity gain- scheduling, control applications. Recommended prerequisite: MECH_V 466, MECH_V 468, ELEC_V 341 or equivalent. Credit will be granted for only one of MECH_V 562, EECE_V 508, or ELEC_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 563": {
+    "subject_code": "MECH",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Robotics: Kinematics, Dynamics and Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Definitions and classification Kinematics: homogeneous transformations, manipulator kinematic equations, forward and inverse kinematic solution methods, differential kinematic equations, motion trajectories. Dynamics: Lagrange-Euler formulations, Newton-Euler formulation. Control: methods, robot control hierarchy, control of single joint and multiple link manipulators, advanced control methods. Credit will be granted for only one of ELEC_V 442, EECE_V 571R, EECE_V 589, MECH_V 464, or MECH_V 563. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 570": {
+    "subject_code": "MECH",
+    "course_code": "570",
+    "credit": "1-12",
+    "course_name": "Emerging Topics in Thermodynamics, Fluid Mechanics, and Heat Transfer",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 572": {
+    "subject_code": "MECH",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Convection Heat Transfer",
+    "faculty": "Faculty of Applied Science",
+    "description": "Governing equations for laminar and turbulent flow. Forced convection in internal and external flow. Free, and combined free and forced convection. Heat transfer at high velocities, in rarefied gases and in two-phase flow. Mass transfer. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 576": {
+    "subject_code": "MECH",
+    "course_code": "576",
+    "credit": "3",
+    "course_name": "Combustion",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermodynamics of combustion, stoichiometry, heat of formation and reaction. Equilibrium composition and adiabatic flame temperature. Chemical kinetics of combustion. Flames in premixed gases; laminar and turbulent flame propagation. Diffusion flames, pollutant emissions and combustion in IC engines. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 577": {
+    "subject_code": "MECH",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Fuel Cell Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Energy system architecture and electrochemical energy conversion; fuel cell thermodynamics and electrochemistry; Proton Exchange Membrane Fuel Cells (PMFCs) and Solid Oxide Fuel Cells (SOFCSs); hydrogen production, storage, and distribution. Credit will only be granted for one of MECH_V 445 or MECH_V 577. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 578": {
+    "subject_code": "MECH",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Internal Combustion Engines",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of spark and compression ignition engines. Calculation of fuel economy, power and emission. Practical and regulatory considerations in engine design. Numerical engine modelling and analysis. Credit will be granted for only one of MECH_V 478 or MECH_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 581": {
+    "subject_code": "MECH",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Aerodynamics of Aircraft",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of airfoils and wings. Potential flow, thin airfoil theory, lifting line analysis of wings. Predicting viscous drag. Numerical methods for analysis and design of airfoils and wings. Subsonic, transonic, supersonic, and hypersonic flow. Credit will be granted for only one of MECH_V 581 or MECH_V 481. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 582": {
+    "subject_code": "MECH",
+    "course_code": "582",
+    "credit": "4",
+    "course_name": "Experimental Fluid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling Test facilities. Wind tunnel force measurement. Theory of conventional and modern manometry. Classical velocimetry. Hotwire anemometry. Theory and application of laser Doppler velocimetry. Particle image velocimetry. Flow visualization techniques. Thermometry. Credit will only be granted for one of MECH_V 489 or MECH_V 582. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 583": {
+    "subject_code": "MECH",
+    "course_code": "583",
+    "credit": "4",
+    "course_name": "Fluid-Structure Interaction",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 586": {
+    "subject_code": "MECH",
+    "course_code": "586",
+    "credit": "4",
+    "course_name": "Turbulent Shear Flow",
+    "faculty": "Faculty of Applied Science",
+    "description": "The basic equations of fluid motion; introduction to hydro-dynamic stability; Reynolds' equations; energy equations for turbulent motion; intermittency; similarity near a solid boundary and in free turbulence; approximate methods for predicting the growth of turbulent boundary layers and free symmetrical shear flows. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 587": {
+    "subject_code": "MECH",
+    "course_code": "587",
+    "credit": "4",
+    "course_name": "Computational Fluid Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analytical, computational, and experimental methods in fluid mechanics. Overview of CFD program development. Finite volume methods, spacial discretization and spatial accuracy analysis. Boundary conditions. Time advance methods, time accuracy, and stability. Application to model problems and to the incompressible laminar Navier-Stokes equations. Validation techniques for CFD codes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 588": {
+    "subject_code": "MECH",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Advanced Topics in Computational Fluid Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selected advanced topics in CFD, typically chosen from: Finite volume methods on curvilinear meshes and structured mesh generation. Finite volume methods on unstructured meshes. Multigrid methods for elliptic PDE's. Reynolds-averaged form of the Navier-Stokes equations and turbulence modelling. Three-dimensional flows. Compressible flows. Prerequisite: One of MECH_V 510, MECH_V 587. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 590": {
+    "subject_code": "MECH",
+    "course_code": "590",
+    "credit": "1-6",
+    "course_name": "Special Topics in Mechanical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Special advanced lecture courses may be arranged for graduate students upon the approval of the department head. There will not be more than 6 credits in any one such course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 591": {
+    "subject_code": "MECH",
+    "course_code": "591",
+    "credit": "1-3",
+    "course_name": "Directed Studies in Mechanical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 597": {
+    "subject_code": "MECH",
+    "course_code": "597",
+    "credit": "3-6",
+    "course_name": "Project for M.Eng. Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Project on assigned topic of specialization. For students registered in the M.Eng. program whose project is supervised by a faculty member in the department of Mechanical Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 598": {
+    "subject_code": "MECH",
+    "course_code": "598",
+    "credit": "1-2",
+    "course_name": "Research Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Current topics in mechanical engineering research for M.A.Sc. students. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 599": {
+    "subject_code": "MECH",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "For M.A.Sc. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 600": {
+    "subject_code": "MECH",
+    "course_code": "600",
+    "credit": "1-12",
+    "course_name": "Emerging Topics in Mechanical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 698": {
+    "subject_code": "MECH",
+    "course_code": "698",
+    "credit": "2",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Current topics in mechanical engineering for doctoral students. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MECH 699": {
+    "subject_code": "MECH",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/Fail This course is not eligible for Credit/D/Fail grading."
+  }
+}

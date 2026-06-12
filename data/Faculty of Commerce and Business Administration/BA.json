@@ -1,0 +1,258 @@
+{
+  "BA 500": {
+    "subject_code": "BA",
+    "course_code": "500",
+    "credit": "6-20",
+    "course_name": "MBA Core",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 501": {
+    "subject_code": "BA",
+    "course_code": "501",
+    "credit": "5",
+    "course_name": "Professional Residency I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 502": {
+    "subject_code": "BA",
+    "course_code": "502",
+    "credit": "5",
+    "course_name": "Professional Residency II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Prerequisite: BA_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 503": {
+    "subject_code": "BA",
+    "course_code": "503",
+    "credit": "5",
+    "course_name": "Professional Residency III",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Prerequisite: BA_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 504": {
+    "subject_code": "BA",
+    "course_code": "504",
+    "credit": "2.5",
+    "course_name": "Business Strategy Integration: Foundation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 505": {
+    "subject_code": "BA",
+    "course_code": "505",
+    "credit": "7.5",
+    "course_name": "Integrated Foundation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 506": {
+    "subject_code": "BA",
+    "course_code": "506",
+    "credit": "2",
+    "course_name": "MBA Integrated Project",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 507": {
+    "subject_code": "BA",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Business Strategy Integration: Global",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 508": {
+    "subject_code": "BA",
+    "course_code": "508",
+    "credit": "1",
+    "course_name": "Business Strategy Integration: Capstone",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 509": {
+    "subject_code": "BA",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Experiential Learning: Business Analytics Internship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 510": {
+    "subject_code": "BA",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Internship/Project",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 511": {
+    "subject_code": "BA",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Community Business Project",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Registration restricted to students in the M.M. Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 512": {
+    "subject_code": "BA",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Business Strategy Integration: Experiential Learning",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 513": {
+    "subject_code": "BA",
+    "course_code": "513",
+    "credit": "1.5",
+    "course_name": "Business Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 514": {
+    "subject_code": "BA",
+    "course_code": "514",
+    "credit": "5",
+    "course_name": "IMBA Residency - People, Culture and Organizations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "For IMBA students only. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 515": {
+    "subject_code": "BA",
+    "course_code": "515",
+    "credit": "1.5",
+    "course_name": "Fundamentals of Analytics and Tech",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 520": {
+    "subject_code": "BA",
+    "course_code": "520",
+    "credit": "1.5",
+    "course_name": "Career Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 530": {
+    "subject_code": "BA",
+    "course_code": "530",
+    "credit": "1.5-18",
+    "course_name": "Study Abroad and Exchange",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to students in one of the following programs: M.B.A., J.D../M.B.A., M.Sc.B., Ph.D. with B.A.D.M. specialization, or M.M. with either ECMS or ECMJ. M.M. ECMS or ECMJ students are limited to a maximum of 12 credits in this course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 531": {
+    "subject_code": "BA",
+    "course_code": "531",
+    "credit": "1.5-6",
+    "course_name": "GNAM: Global Network Course",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Online courses offered by schools within the Global Network for Advanced Management (GNAM). Students across the network collaborate virtually on team projects. Credit values for each course vary. Students may take more than one course during their MBA program. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 532": {
+    "subject_code": "BA",
+    "course_code": "532",
+    "credit": "1.5-6",
+    "course_name": "GNAM: Global Network Week",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Intensive on-campus study at schools within the Global Network for Advanced Management (GNAM). Face-to-face course activities and lectures, cross-cultural teams, and final presentations on projects. Students can take more than one Global Network Week during their MBA program. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 535": {
+    "subject_code": "BA",
+    "course_code": "535",
+    "credit": "0",
+    "course_name": "Dual Degree Year 2 at Yale",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 540": {
+    "subject_code": "BA",
+    "course_code": "540",
+    "credit": "0.8",
+    "course_name": "Managerial Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 541": {
+    "subject_code": "BA",
+    "course_code": "541",
+    "credit": "0.7",
+    "course_name": "Consulting and Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 550": {
+    "subject_code": "BA",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Business Immersion",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 551": {
+    "subject_code": "BA",
+    "course_code": "551",
+    "credit": "1.5",
+    "course_name": "Business Capstone",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Pass/fail. Registration restricted to students in the M.M. Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 560": {
+    "subject_code": "BA",
+    "course_code": "560",
+    "credit": "1.5",
+    "course_name": "Ethics and Sustainability",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 561": {
+    "subject_code": "BA",
+    "course_code": "561",
+    "credit": "1.5",
+    "course_name": "Global Issues and Macroeconomics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 562": {
+    "subject_code": "BA",
+    "course_code": "562",
+    "credit": "1.5",
+    "course_name": "Creativity",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 563": {
+    "subject_code": "BA",
+    "course_code": "563",
+    "credit": "1.5",
+    "course_name": "Decision Making for Managers",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 564": {
+    "subject_code": "BA",
+    "course_code": "564",
+    "credit": "1.5",
+    "course_name": "Leadership Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 570": {
+    "subject_code": "BA",
+    "course_code": "570",
+    "credit": "1.5",
+    "course_name": "The Integrated Global Economy: Past, Present, and Future",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BA 580": {
+    "subject_code": "BA",
+    "course_code": "580",
+    "credit": "0.7-3",
+    "course_name": "Topics in Business Administration",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to students in one of: E.M.B.A., M.B.A., J.D./M.B.A., M.M., or M.B.A./M.A.A. This course is not eligible for Credit/D/Fail grading."
+  }
+}

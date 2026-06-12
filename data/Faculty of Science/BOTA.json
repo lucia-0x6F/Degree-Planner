@@ -1,0 +1,82 @@
+{
+  "BOTA 501": {
+    "subject_code": "BOTA",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Seminar in Botany",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 502": {
+    "subject_code": "BOTA",
+    "course_code": "502",
+    "credit": "0",
+    "course_name": "Thesis Seminar",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 526": {
+    "subject_code": "BOTA",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Advanced Plant Community Analysis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 527": {
+    "subject_code": "BOTA",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Dynamics of Plant Populations",
+    "faculty": "Faculty of Science",
+    "description": "Prerequisite: BIOL_V 407 This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 528": {
+    "subject_code": "BOTA",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Current Topics in Plant Biochemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 544": {
+    "subject_code": "BOTA",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Plant Molecular Biology Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Admission to the course is limited and requires recommendation from the Head of Botany or the Director of the Biotechnology Laboratory. Prerequisite: BIOL_V 335 is recommended as either a prerequisite or corequisite. Equivalency: PLNT_V 540, FRST_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 546": {
+    "subject_code": "BOTA",
+    "course_code": "546",
+    "credit": "2-12",
+    "course_name": "Topics in Botany",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 548": {
+    "subject_code": "BOTA",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "M.Sc. Major Essay",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 549": {
+    "subject_code": "BOTA",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BOTA 649": {
+    "subject_code": "BOTA",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

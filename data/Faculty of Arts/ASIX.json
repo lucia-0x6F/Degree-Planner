@@ -1,0 +1,82 @@
+{
+  "ASIX 220": {
+    "subject_code": "ASIX",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Indigeneities in Asia and Asian Diaspora",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to Indigenous methodologies, contemporary cultures, and issues of Indigenous peoples in Asia and Asian diaspora, and Indigenous-Asia relation-making in Canada."
+  },
+  "ASIX 300": {
+    "subject_code": "ASIX",
+    "course_code": "300",
+    "credit": "3-9",
+    "course_name": "Topics in Asian Studies Crossings",
+    "faculty": "Faculty of Arts",
+    "description": "Transnational, transcultural, or transregional approaches to Asian and/or diasporic Asian literature, history, visual culture, religion, or communities. Topics vary from section to section. Consult Department for current offerings."
+  },
+  "ASIX 315": {
+    "subject_code": "ASIX",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Hong Kong Diaspora in Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Various social issues relating to Hong Kong diaspora in Canada, particularly pertaining to their long history of migration to Canada; their cultural developments and experiences; and their challenges and contributions in their new cultural environment. Recommended: Second-year standing or higher"
+  },
+  "ASIX 320": {
+    "subject_code": "ASIX",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Global Hong Kong",
+    "faculty": "Faculty of Arts",
+    "description": "A transdisciplinary exploration of the global connections of Hong Kong through the lens of cultural texts, social phenomena, and historical events."
+  },
+  "ASIX 340": {
+    "subject_code": "ASIX",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Orientalism in Popular Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of Edward Said's Orientalism as a decolonial tool for analyzing popular culture across Asia."
+  },
+  "ASIX 342": {
+    "subject_code": "ASIX",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Cinematic Monsters of Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Interrogates various tropes of monsters across modern Asian popular culture. Core theoretical concepts and approaches to understanding cultural and psychological fascination and anxiety regarding the monstrous."
+  },
+  "ASIX 383": {
+    "subject_code": "ASIX",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "What is Modern Arabic?",
+    "faculty": "Faculty of Arts",
+    "description": "Examines Arabic language and writing using approaches from sociolinguistics, with examples from Arabic-speaking communities in the Arab world, the diasporas, and beyond. Basic Arabic language proficiency is strongly recommended through completion of ARBM 101, ARBC 101, or a placement interview."
+  },
+  "ASIX 430": {
+    "subject_code": "ASIX",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Indigenous Environmentalism in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Approaches to human-environment relationships through the works of Indigenous scholars from different parts of Asia. Restricted to students with third-year standing and above."
+  },
+  "ASIX 440": {
+    "subject_code": "ASIX",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Decolonizing Methodologies for Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Application and expansion of Critical Indigenous Studies methods, practices, and ethical principles for engaging Asian studies. Restricted to students with third-year standing and above. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIX 467": {
+    "subject_code": "ASIX",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Islamic and Persianate Sufism",
+    "faculty": "Faculty of Arts",
+    "description": "Explore diverse and experiential interpretations of Islam through Sufi literature, art, music, and rituals. Restricted to students with second-year standing and above."
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "FREN 101": {
+    "subject_code": "FREN",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginners' French I",
+    "faculty": "Faculty of Arts",
+    "description": "Basic vocabulary, the rudiments of grammar and familiarization with cultures of the French-speaking world. Aligned with CEFR level A1 objectives. Not for credit for students who completed Core French 11, 12 and/or French Immersion (BC Curriculum or equivalent). Credit will be granted for only one of FREN_V 101 or FREN_V 103."
+  },
+  "FREN 102": {
+    "subject_code": "FREN",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginners' French II",
+    "faculty": "Faculty of Arts",
+    "description": "A continuation of FREN_V 101. Aligned with CEFR level A1 objectives. Not for credit for students who completed Core French 11, 12 and/or French Immersion (BC Curriculum or equivalent). This course is recommended for students who have completed FREN_V 101. Credits will be granted for only one of FREN_V 102 or FREN_V 103."
+  },
+  "FREN 103": {
+    "subject_code": "FREN",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Intensive Beginners' French",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamentals of the French language. Aligned with CEFR level A1. This course is recommended for students who are not complete beginners in French. Credit will be granted for FREN_V 103 or both FREN_V 101, FREN_V 102."
+  },
+  "FREN 201": {
+    "subject_code": "FREN",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Elementary French I",
+    "faculty": "Faculty of Arts",
+    "description": "Continued improvement in listening, speaking, reading and writing. Aligned with CEFR level A2 objectives. This course is recommended for students who have completed one of Core French 11, FREN_V 102, FREN_V 103 or assignment based on placement test. Credit will be granted for only one of FREN_V 201 or FREN_V 111. Equivalency: FREN_V 111."
+  },
+  "FREN 202": {
+    "subject_code": "FREN",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Elementary French II",
+    "faculty": "Faculty of Arts",
+    "description": "A continuation of FREN_V 201. Aligned with CEFR level A2 objectives. This course is recommended for students who have completed FREN_V 201 or assignment based on placement test. Credit will be granted for only one of FREN_V 202 or FREN_V 112. Equivalency: FREN_V 112."
+  },
+  "FREN 301": {
+    "subject_code": "FREN",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate French I",
+    "faculty": "Faculty of Arts",
+    "description": "Refinement of reading, writing and speaking skills through the study of contemporary literature and other authentic documents of the French-speaking world. Aligned with CEFR level B1 objectives. This course is recommended for students who have completed one of Core French 12, FREN_V 202 or assignment based on placement test. Credit will be granted for only one of FREN_V 301 or FREN_V 122. Equivalency: FREN_V 122."
+  },
+  "FREN 302": {
+    "subject_code": "FREN",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Intermediate French II",
+    "faculty": "Faculty of Arts",
+    "description": "A continuation of FREN _V 301. Aligned with CEFR level B1 objectives. This course is recommended for students who have completed FREN_V 301 or assignment based on placement test. Credit will be granted for only one of FREN_V 302 or FREN_V 123. Equivalency: FREN_V 123."
+  },
+  "FREN 311": {
+    "subject_code": "FREN",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Introduction to Literature in French",
+    "faculty": "Faculty of Arts",
+    "description": "Critical reading of foundational literary texts in French from genres of prose fiction, non-fiction, poetry, and theatre. This course is recommended for students who have completed FREN_V 302 or assignment based on placement test."
+  },
+  "FREN 321": {
+    "subject_code": "FREN",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Critical Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Practical tools for university-level writing in French. Apply stylistic devices and rhetorical structures to form questions and arguments, analyse literary and cultural objects, and produce a variety of essay genres. This course is recommended for students who have completed FREN_V 302 or assignment based on placement test."
+  },
+  "FREN 330": {
+    "subject_code": "FREN",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Introduction to Quebec Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of representative literary texts from Quebec viewed in their historical, social, and cultural contexts. This course is recommended for students who have completed one of FREN_V 224 or FREN_V 401."
+  },
+  "FREN 331": {
+    "subject_code": "FREN",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Arts, Cultures and Society from the Middle Ages to the Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of early French culture and literature from the Middle Ages to the close of the Early Modern period and the French Revolution; the impact of society on the arts and vice versa. This course is recommended for students who have completed one of FREN_V 224 or FREN_V 401."
+  },
+  "FREN 341": {
+    "subject_code": "FREN",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Arts, Cultures and Society from Romanticism to the Present Day",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of modern and contemporary French culture and literature from the early 19th century to the present day; the impact of society on the arts and vice versa. This course is recommended for students who have completed one of FREN_V 224 or FREN_V 401."
+  },
+  "FREN 346": {
+    "subject_code": "FREN",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "French at Work",
+    "faculty": "Faculty of Arts",
+    "description": "Communicative French for students preparing for a career in the francophone world. Aligned with CEFR level B1 objectives. This course is recommended for students who have completed one of FREN_V 123 or FREN_V 302."
+  },
+  "FREN 352": {
+    "subject_code": "FREN",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "French Grammar",
+    "faculty": "Faculty of Arts",
+    "description": "Principles of grammar theory and contextualized French grammatical concepts. Emphasis on terminology and analysis of grammatical issues. Aligned with CEFR level B2. This course is recommended for students who have completed one of FREN_V 123 or FREN_V 302."
+  },
+  "FREN 353": {
+    "subject_code": "FREN",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Advanced French Grammar",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced grammar theory and critical analysis of difficult French grammatical structures. Emphasis on autonomous examination of complex grammatical issues. This course is recommended for students who have completed one of FREN_V 224 or FREN_V 401. Prerequisite: One of FREN_V 223, FREN_V 352."
+  },
+  "FREN 357": {
+    "subject_code": "FREN",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "French to English Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Principles, practical strategies and methods of translation from French to English. Overview of the main challenges involved in intercultural communication. If your French is stronger than your English, please take FREN_V 457 before FREN_V 357. This course is recommended for students who have taken FREN_V 352, and one of FREN_V 224, FREN_V 401."
+  },
+  "FREN 370": {
+    "subject_code": "FREN",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Introduction to French Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of basic terminology, methods, problems, and theoretical trends in French linguistics, specifically designed to provide students with a foundation for advanced language study in French. This course is recommended for students who have completed one of FREN_V 224 or FREN_V 401."
+  },
+  "FREN 395": {
+    "subject_code": "FREN",
+    "course_code": "395",
+    "credit": "3-6",
+    "course_name": "Special Topics Abroad",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Francophone literature, history, culture, or communities in an authentic context. Topics and locations may vary. Consult Department for current offerings. This course is recommended for students who have completed FREN_V 202 or FREN_V 112 or assignment based on placement test."
+  },
+  "FREN 401": {
+    "subject_code": "FREN",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Upper-Intermediate French I",
+    "faculty": "Faculty of Arts",
+    "description": "Communicative proficiency at an autonomous level: vocabulary enrichment, pronunciation practice, grammatical analysis and development of efficient reading and writing techniques. Aligned with CEFR level B2 objectives. This course is recommended for students who have completed one of French Immersion 12, FREN_V 123 or FREN_V 302 or assignment based on placement test. Credit will be granted for only one of FREN_V 401 or FREN_V 224. Equivalency: FREN _V 224."
+  },
+  "FREN 402": {
+    "subject_code": "FREN",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Upper-Intermediate French II",
+    "faculty": "Faculty of Arts",
+    "description": "A continuation of FREN_V 401. Aligned with CEFR level B2 objectives. This course is recommended for students who have completed one of FREN_V 401 or assignment based on placement test. Credit will be granted for only one of FREN_V 402 or FREN_V 225. Equivalency: FREN _V 225."
+  },
+  "FREN 407": {
+    "subject_code": "FREN",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Medieval French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetic and ideological trends of French-language literature of the Middle Ages (11th-15th centuries) in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite. Prerequisite: FREN_V 311."
+  },
+  "FREN 408": {
+    "subject_code": "FREN",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Renaissance: Studies in 16th-century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetic and ideological trends of sixteenth-century French literature in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 409": {
+    "subject_code": "FREN",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Ancients and Moderns: Studies in 17th-century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetic and ideological trends of seventeenth-century French literature in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 410": {
+    "subject_code": "FREN",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Enlightenment and Revolution: Studies in 18th-century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetic and ideological trends of eighteenth-century French literature in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 413": {
+    "subject_code": "FREN",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Tradition and Modernity: Studies in 19th-century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetic and ideological trends of nineteenth-century French literature in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 414": {
+    "subject_code": "FREN",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "The Modern and Contemporary French Novel",
+    "faculty": "Faculty of Arts",
+    "description": "Major historical, social and artistic movements reflected in representative novels published in France from the 19th Century to the present. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 415": {
+    "subject_code": "FREN",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "French Digital Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary issues and debates on how media and digital technologies have impacted French culture and society. Examines how text, language, and writing are used in digital media. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 416": {
+    "subject_code": "FREN",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Contemporary French Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetic and ideological trends of twentieth- and twenty-first century French literature in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 417": {
+    "subject_code": "FREN",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Popular Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Popular genres in modern French fiction, including science fiction, crime, romance, fantasy and historical fiction. Aesthetic characteristics, historical context and cultural relevance. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 418": {
+    "subject_code": "FREN",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "African and Caribbean Francophone Literatures",
+    "faculty": "Faculty of Arts",
+    "description": "Representative and contemporary writings from African and Caribbean francophone cultures. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 419": {
+    "subject_code": "FREN",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Women's Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Representative women's writings from the Middle Ages to the present; contemporary women's writings in the Francophone world. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 420": {
+    "subject_code": "FREN",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Selected Topics in French Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Study of a literary or cultural topic that extends beyond one chronological period and/or place proper. Consult the Department for this year's offerings. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 427": {
+    "subject_code": "FREN",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "French Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Study of major past and contemporary French film productions. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 428": {
+    "subject_code": "FREN",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Francophone Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Study of major past and contemporary film productions from around the Francophone world. Prerequisite: FREN_V 311."
+  },
+  "FREN 430": {
+    "subject_code": "FREN",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Quebec Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Study of representative aspects of Quebec literature and culture through the study of literary texts, films, and artistic productions in their historical context. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 431": {
+    "subject_code": "FREN",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Indigenous Literatures of Francophone Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the literature and cinema of First Nations, Inuit and Métis creators working in French and in Francophone spaces in Canada. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 440": {
+    "subject_code": "FREN",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Francophonie: History and Current Debates",
+    "faculty": "Faculty of Arts",
+    "description": "Historical origins, cultural and linguistic paradoxes of Francophonie. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 441": {
+    "subject_code": "FREN",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Francophone Literatures and Cultures of North America",
+    "faculty": "Faculty of Arts",
+    "description": "Forms of French language cultural expression in North America in their historical context. Discussion of issues around minority linguistic and cultural rights. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 442": {
+    "subject_code": "FREN",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Cultures of the Francophone World",
+    "faculty": "Faculty of Arts",
+    "description": "Forms of cultural expression of the Francophone world studied in their context. Regions may include the Americas, Africa, East Asia, Europe, Indian Ocean, Middle East, and/or the Pacific. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 443": {
+    "subject_code": "FREN",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Postcolonial Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary approaches to Postcolonial Studies through francophone literature and theory. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 450": {
+    "subject_code": "FREN",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Old French",
+    "faculty": "Faculty of Arts",
+    "description": "The phonetics, grammar, and vocabulary of major Old French dialects; corpus of various literary texts. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 451": {
+    "subject_code": "FREN",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "French Phonetics",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and practice of the sound system of the French language. Anatomy of speech production, sound discrimination, phonetic description and transcription. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 455": {
+    "subject_code": "FREN",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Creative Writing in French",
+    "faculty": "Faculty of Arts",
+    "description": "Theory, techniques and practice of creative writing in French in a variety of genres. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 457": {
+    "subject_code": "FREN",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "English to French Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Extensive practice in English-French translation of a wide range of texts and discourses, such as literary, legal, medical, administrative, commercial materials. Analysis of linguistic and cultural problems posed by translation of specialized material. If your French is stronger than your English, please take FREN_V 457 before FREN_V 357. This course is recommended for students who have taken FREN_V 352, FREN_V 357, and one of FREN_V 225, FREN_V 402."
+  },
+  "FREN 460": {
+    "subject_code": "FREN",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "History of the French Language",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of the development of the French language from its Latin roots to its modern forms. Examination of the internal and external factors which brought about changes in its phonology, morphology, syntax and lexis. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 470": {
+    "subject_code": "FREN",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Studies in Modern French Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Current topics in French linguistics. Consult the Department for this year's offerings. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 472": {
+    "subject_code": "FREN",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Morphology and Syntax of the French Language",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical principles pertaining to the study of words and word-stems (morphology), and phrases and sentences (syntax) in written and spoken French. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 474": {
+    "subject_code": "FREN",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Lexicology and Semantics of the French Language",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the vocabulary of modern French, focusing on basic principles in lexical semantics, lexicology, phraseology, lexicography, terminology and new technologies, neology. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 476": {
+    "subject_code": "FREN",
+    "course_code": "476",
+    "credit": "3",
+    "course_name": "French Language and Societies",
+    "faculty": "Faculty of Arts",
+    "description": "Study of language in its social context, covering aspects of sociolinguistics within and across the French-speaking communities of the world. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 477": {
+    "subject_code": "FREN",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Contemporary Varieties of French",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the different varieties (or dialects) of contemporary French and issues related to French-speaking communities around the world. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 480": {
+    "subject_code": "FREN",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "French Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Core ideas of French theorists. Influence of French theory on the social sciences and humanities, focusing on Marxism, feminism, structuralism, deconstruction, postmodernism and postcolonialism. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 484": {
+    "subject_code": "FREN",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "History of the Book",
+    "faculty": "Faculty of Arts",
+    "description": "A historical approach to the social transformations of the book trade in France. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 485": {
+    "subject_code": "FREN",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Early Encounters: Travel Literature and Colonial Writing in French",
+    "faculty": "Faculty of Arts",
+    "description": "Narratives of travel and exploration in French before 1800 and their relationship to colonization, knowledge production and representations of the self and others. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 495": {
+    "subject_code": "FREN",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Research Seminar in French Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Research on critical topics related to French literature and culture. Consult the Department for this year's offerings. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 311."
+  },
+  "FREN 496": {
+    "subject_code": "FREN",
+    "course_code": "496",
+    "credit": "3",
+    "course_name": "Research Seminar in French Language and Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Research on critical topics related to French language and linguistics. Consult the Department for this year's offerings. This course is recommended for students who have completed one of FREN_V 225 or FREN_V 402, in addition to the prerequisite below. Prerequisite: FREN_V 352."
+  },
+  "FREN 498": {
+    "subject_code": "FREN",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on a topic to be agreed upon by a member of the faculty and the student. Permission of the department head and of a supervisory faculty member is required. This course is recommended for the fourth year students who have completed one of FREN_V 225 or FREN_V 402."
+  },
+  "FREN 499": {
+    "subject_code": "FREN",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": "Restriction: this course is restricted to students in one of these programs: BA in fourth-year with one of these specializations: HON FREN or HON RMST."
+  },
+  "FREN 501": {
+    "subject_code": "FREN",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Studies in Medieval French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 502": {
+    "subject_code": "FREN",
+    "course_code": "502",
+    "credit": "3-6",
+    "course_name": "Studies in Sixteenth-Century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 503": {
+    "subject_code": "FREN",
+    "course_code": "503",
+    "credit": "3-6",
+    "course_name": "Studies in Seventeenth-Century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 506": {
+    "subject_code": "FREN",
+    "course_code": "506",
+    "credit": "3-6",
+    "course_name": "Studies in Eighteenth-Century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 507": {
+    "subject_code": "FREN",
+    "course_code": "507",
+    "credit": "3-6",
+    "course_name": "Studies in the French Enlightenment",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 509": {
+    "subject_code": "FREN",
+    "course_code": "509",
+    "credit": "3-6",
+    "course_name": "Studies in the Nineteenth-Century French Novel",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 510": {
+    "subject_code": "FREN",
+    "course_code": "510",
+    "credit": "3-6",
+    "course_name": "Studies in Nineteenth-Century French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 511": {
+    "subject_code": "FREN",
+    "course_code": "511",
+    "credit": "3-6",
+    "course_name": "Studies in Contemporary French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 512": {
+    "subject_code": "FREN",
+    "course_code": "512",
+    "credit": "3-6",
+    "course_name": "Studies in Literary Criticism",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 513": {
+    "subject_code": "FREN",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Studies in French-Canadian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 514": {
+    "subject_code": "FREN",
+    "course_code": "514",
+    "credit": "3-6",
+    "course_name": "Studies in the French Novel",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 515": {
+    "subject_code": "FREN",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Bibliography and Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 519": {
+    "subject_code": "FREN",
+    "course_code": "519",
+    "credit": "3-6",
+    "course_name": "Studies in Old French",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 520": {
+    "subject_code": "FREN",
+    "course_code": "520",
+    "credit": "3-12",
+    "course_name": "Special Topics in French Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 521": {
+    "subject_code": "FREN",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Studies in Francophone Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 540": {
+    "subject_code": "FREN",
+    "course_code": "540",
+    "credit": "3-6",
+    "course_name": "Studies in French Stylistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 556": {
+    "subject_code": "FREN",
+    "course_code": "556",
+    "credit": "3-12",
+    "course_name": "Studies in French Language and Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 561": {
+    "subject_code": "FREN",
+    "course_code": "561",
+    "credit": "3-6",
+    "course_name": "Studies in French Morpho-Syntax",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 566": {
+    "subject_code": "FREN",
+    "course_code": "566",
+    "credit": "3-6",
+    "course_name": "Studies in French Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 576": {
+    "subject_code": "FREN",
+    "course_code": "576",
+    "credit": "3-6",
+    "course_name": "Studies in French Dialectology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 578": {
+    "subject_code": "FREN",
+    "course_code": "578",
+    "credit": "3-6",
+    "course_name": "Studies in Romance Philology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 591": {
+    "subject_code": "FREN",
+    "course_code": "591",
+    "credit": "1.5",
+    "course_name": "Proseminar I: Research Skills and Scholarly Practices",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for only one of SPAN_V 591 or FREN_V 591. Equivalency: SPAN_V 591. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 592": {
+    "subject_code": "FREN",
+    "course_code": "592",
+    "credit": "1.5",
+    "course_name": "Proseminar II: Literary and Cultural Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of FREN_V 592 or SPAN_V 592. Prerequisite: FREN_V 591. Equivalency: SPAN_V 592. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 599": {
+    "subject_code": "FREN",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FREN 699": {
+    "subject_code": "FREN",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,658 @@
+{
+  "PATH 200": {
+    "subject_code": "PATH",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Pathology and Laboratory Medicine - Myths and Misconceptions",
+    "faculty": "Faculty of Medicine",
+    "description": "Introduces students to pathology and laboratory medicine, addressing common misconceptions often portrayed in the media. It explores the crucial roles these disciplines play in understanding, preventing, and treating diseases. Prerequisites: CHEM_V 111 or CHEM_V 121; BIOL_V 112."
+  },
+  "PATH 305": {
+    "subject_code": "PATH",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Modern Microscopy",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical and practical application of widely used microscopy techniques."
+  },
+  "PATH 306": {
+    "subject_code": "PATH",
+    "course_code": "306",
+    "credit": "2",
+    "course_name": "Safety for Medical Laboratory Scientists",
+    "faculty": "Faculty of Medicine",
+    "description": "Workplace hazards of chemical, biological and ergonomic origin."
+  },
+  "PATH 307": {
+    "subject_code": "PATH",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Introduction to Medical Laboratory Science - Histochemistry and Hematology",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamentals and applications of Histochemistry. Introduction to Hematology. Credit will be granted for either PATH_V 300 or PATH_V 307 and PATH_V 308."
+  },
+  "PATH 308": {
+    "subject_code": "PATH",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Introduction to Medical Laboratory Science - Clinical Chemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Selected areas of clinical chemistry and relevant fundamentals of human physiology. Credit will be granted for either PATH_V 300 or PATH_V 307 and PATH_V 308."
+  },
+  "PATH 309": {
+    "subject_code": "PATH",
+    "course_code": "309",
+    "credit": "2",
+    "course_name": "Biomolecular Foundations: Nucleic Acids, Carbohydrates and Physical Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic and physical biochemical sciences relevant to medical laboratory science with application to clinical and translational research. Credit will be granted for either PATH_V 301 or PATH_V 309 and PATH_V 310."
+  },
+  "PATH 310": {
+    "subject_code": "PATH",
+    "course_code": "310",
+    "credit": "2",
+    "course_name": "Biomolecular Foundations: Proteins, Lipids and Bioenergetics",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic and physical biochemical sciences relevant to medical laboratory science with application to clinical and translational research. Credit will be granted for either PATH_V 301 or PATH_V 309 and PATH_V 310."
+  },
+  "PATH 311": {
+    "subject_code": "PATH",
+    "course_code": "311",
+    "credit": "2",
+    "course_name": "Cytogenetics and Molecular Genetics",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamentals of human genetics and molecular techniques as they relate to detecting genetic abnormalities in research and clinical settings. Credit will be granted for either PATH_V 303 or PATH_V 311 and PATH_V 312."
+  },
+  "PATH 312": {
+    "subject_code": "PATH",
+    "course_code": "312",
+    "credit": "2",
+    "course_name": "Tissue Culture and Cytology",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamentals as they relate to the study of cells in controlled environments and their role in cancer development within research and clinical applications. Credit will be granted for either PATH_V 303 or PATH_V 311 and PATH_V 312."
+  },
+  "PATH 313": {
+    "subject_code": "PATH",
+    "course_code": "313",
+    "credit": "2",
+    "course_name": "Normal Histology – Cells and Tissues",
+    "faculty": "Faculty of Medicine",
+    "description": "Description and identification of human anatomy at the microscopic level and how this relates to function. Credit will be granted for either PATH_V 304 or PATH_V 313 and PATH_V 314."
+  },
+  "PATH 314": {
+    "subject_code": "PATH",
+    "course_code": "314",
+    "credit": "2",
+    "course_name": "Normal Histology – Organ Systems",
+    "faculty": "Faculty of Medicine",
+    "description": "Description and identification of human anatomy at the microscopic level and how this relates to function. Prerequisite: PATH_V 313. Credit will be granted for either PATH_V 304 or PATH_V 313 and PATH_V 314."
+  },
+  "PATH 315": {
+    "subject_code": "PATH",
+    "course_code": "315",
+    "credit": "2",
+    "course_name": "Bacteriology, Mycology and Parasitology",
+    "faculty": "Faculty of Medicine",
+    "description": "Biological attributes, clinical features, pathogenesis and pathology, epidemiology, immunological reactions, laboratory diagnosis, and preventative measures of human microbial pathogens. Credit will be granted for either PATH_V 327 or PATH_V 315 and PATH_V 316."
+  },
+  "PATH 316": {
+    "subject_code": "PATH",
+    "course_code": "316",
+    "credit": "2",
+    "course_name": "Virology and Public Health Fundamentals",
+    "faculty": "Faculty of Medicine",
+    "description": "Mechanisms of viral replication, transmission, disease progression, and laboratory diagnosis. Broader public health impact and basic strategies for prevention and control of pathogens in a larger community context. Credit will be granted for either PATH_V 327 or PATH_V 315 and PATH_V 316."
+  },
+  "PATH 375": {
+    "subject_code": "PATH",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Introduction to Human Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Causes, natural history and pathophysiology of common disease processes. Prerequisite: Either a) 6 credits of first year BIOL_V and 6 credits of first year CHEM_V; or b) SCIE_V 001."
+  },
+  "PATH 398": {
+    "subject_code": "PATH",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either industrial, public, or academic laboratory for a minimum of 14 weeks. Normally taken in Winter Session of third year or Summer Session after third year. Technical report required. Restricted to students in the BMLSc Co-op Program. Prerequisite: Two terms in BMLSc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 399": {
+    "subject_code": "PATH",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either industrial, public, or academic laboratory for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Coop Program in BMLSc. Prerequisite: PATH 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 405": {
+    "subject_code": "PATH",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Seminars in Current Topics",
+    "faculty": "Faculty of Medicine",
+    "description": "Oral and written presentation and critical appraisal of scientific papers."
+  },
+  "PATH 408": {
+    "subject_code": "PATH",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Research and Career Skills",
+    "faculty": "Faculty of Medicine",
+    "description": "Overall operation of research laboratories including roles of personnel and funding; communication of scientific research; career skills and pathways; communication, collaboration, presentations and peer-assessment skills."
+  },
+  "PATH 409": {
+    "subject_code": "PATH",
+    "course_code": "409",
+    "credit": "2",
+    "course_name": "Advanced Hematology",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical and practical examination of modern concepts which relate to the practice of medical laboratory science. Prerequisite: PATH_V 307. Credit will be granted for either PATH_V 402 or PATH_V 409 and PATH_V 410."
+  },
+  "PATH 410": {
+    "subject_code": "PATH",
+    "course_code": "410",
+    "credit": "2",
+    "course_name": "Hematological Malignancies",
+    "faculty": "Faculty of Medicine",
+    "description": "A comprehensive overview that includes pathogenesis, clinical presentation, and treatment. Prerequisite: PATH_V 307. Credit will be granted for either PATH_V 402 or PATH_V 409 and PATH_V 410."
+  },
+  "PATH 411": {
+    "subject_code": "PATH",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Diagnostic Histochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical and practical application of histochemical techniques. Prerequisite: PATH_V 307. Credit will be granted for only one of PATH_V 404 or PATH_V 411."
+  },
+  "PATH 412": {
+    "subject_code": "PATH",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Introduction to Advanced Techniques in Pathology and Laboratory Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical foundations and practical applications of advanced pathology and laboratory medicine techniques in both research and clinical settings."
+  },
+  "PATH 413": {
+    "subject_code": "PATH",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Analytical Techniques and Basic Tests in Clinical Chemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Biochemistry tests in clinical medicine and the analytical chemistry techniques used to produce the results; pathophysiology of common clinical conditions. Prerequisites: PATH_V 308. Credit will be granted for either PATH_V 406 or PATH_V 413 and PATH_V 414."
+  },
+  "PATH 414": {
+    "subject_code": "PATH",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Specialized Tests in Clinical Chemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Biochemistry tests in clinical medicine; pathophysiology of common clinical conditions. Prerequisites: PATH_V 413. Credit will be granted for either PATH_V 406 or PATH_V 413 and PATH_V 414."
+  },
+  "PATH 415": {
+    "subject_code": "PATH",
+    "course_code": "415",
+    "credit": "2",
+    "course_name": "Immunopathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Innate and adaptive immunity and how these host defense mechanisms are involved in both health and illness."
+  },
+  "PATH 416": {
+    "subject_code": "PATH",
+    "course_code": "416",
+    "credit": "1.5",
+    "course_name": "Clinical Toxicology",
+    "faculty": "Faculty of Medicine",
+    "description": "A theoretical and practical examination of analytical and pathophysiological aspects related to detection and management in medical laboratories. Credit will be granted for either PATH_V 407 or PATH_V 416 and PATH_V 418."
+  },
+  "PATH 417": {
+    "subject_code": "PATH",
+    "course_code": "417",
+    "credit": "3-6",
+    "course_name": "Human Infections",
+    "faculty": "Faculty of Medicine",
+    "description": "Physiologic alterations, virulence factors, clinical microbiology, treatments, and applied epidemiology through self-directed learning and small group case-based discussions. Prerequisite: 3 credits of second year MICB_V (MICB_V 212 recommended)."
+  },
+  "PATH 418": {
+    "subject_code": "PATH",
+    "course_code": "418",
+    "credit": "1.5",
+    "course_name": "Forensic Toxicology and Therapeutic Drug Monitoring",
+    "faculty": "Faculty of Medicine",
+    "description": "A theoretical and practical examination of analytical and pathophysiological aspects related to detection and management in medical laboratories. Credit will be granted for either PATH_V 407 or PATH_V 416 and PATH_V 418."
+  },
+  "PATH 427": {
+    "subject_code": "PATH",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Basic Principles of Infection Prevention and Control",
+    "faculty": "Faculty of Medicine",
+    "description": "This course provides the basic principles to prevent the spread of microorganisms pathogenic to humans. It may be taken towards a Certificate in Infection Control."
+  },
+  "PATH 437": {
+    "subject_code": "PATH",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Viral Infections in Humans",
+    "faculty": "Faculty of Medicine",
+    "description": "Interactions between viruses and humans; pathogenesis; prompt virological diagnosis; rationale for antiviral chemotherapy and prophylaxis. [3-0-0] Equivalency: MICB407"
+  },
+  "PATH 438": {
+    "subject_code": "PATH",
+    "course_code": "438",
+    "credit": "2-6",
+    "course_name": "Medical Laboratory Science: Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "Investigation of a specific topic in Medical Laboratory Science."
+  },
+  "PATH 447": {
+    "subject_code": "PATH",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "An elective in clinical infection control, medical microbiology or molecular biology."
+  },
+  "PATH 448": {
+    "subject_code": "PATH",
+    "course_code": "448",
+    "credit": "2",
+    "course_name": "Introduction to Laboratory Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "An elective course open to first-year medical students who spend at least three consecutive hours each week in one of the affiliated hospitals of the Department of Pathology, Vancouver Hospital, under the joint supervision of a Senior Resident in Pathology and the Professional Staff of the following Divisions: anatomical pathology, clinical biochemistry, hematology, pediatric pathology. Enrolment is limited."
+  },
+  "PATH 450": {
+    "subject_code": "PATH",
+    "course_code": "450",
+    "credit": "0",
+    "course_name": "Systemic Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of Pathology discussions in conjunction with various clinical departments designed to illustrate the role of Pathology in the diagnosis and management of various diseases. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 451": {
+    "subject_code": "PATH",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Clerkship in Laboratory Medicine and Infection Prevention and Control",
+    "faculty": "Faculty of Medicine",
+    "description": "May involve attendance at an approved institution and/or a project assigned by the instructor(s). Instructor permission required. Enrolment may be limited."
+  },
+  "PATH 452": {
+    "subject_code": "PATH",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Clerkship in Anatomic Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "An elective course open to third-year medical students, designed to familiarize the student with Anatomic Pathology, including Surgical Pathology, Pediatric Pathology, Autopsy Pathology and Cytology. This elective may involve attendance at one or more affiliated hospitals. Registration requires consent of the Department and enrolment may be limited."
+  },
+  "PATH 453": {
+    "subject_code": "PATH",
+    "course_code": "453",
+    "credit": "0",
+    "course_name": "Clinical Laboratory Hematology",
+    "faculty": "Faculty of Medicine",
+    "description": "Correlative seminars based on haematology case studies relating clinical features to laboratory investigations. Equivalency: MEDI452 (1970W) This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 457": {
+    "subject_code": "PATH",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Clinical Laboratory Microbiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Selected clinical laboratory exercises plus seminars to illustrate the diagnosis and management of patients with microbial infections. Elective course limited to third- and fourth-year medical students. Prerequisite: Departmental approval required."
+  },
+  "PATH 467": {
+    "subject_code": "PATH",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Basic Microbiology for Infection Control",
+    "faculty": "Faculty of Medicine",
+    "description": "The identification, clinical significance, and transmission of pathogenic organisms are presented. This course is available by correspondence or webCT. It may be taken towards fulfillment of the Certificate in Infection Control."
+  },
+  "PATH 477": {
+    "subject_code": "PATH",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Basic Epidemiology for Infection Control",
+    "faculty": "Faculty of Medicine",
+    "description": "Epidemiology, study, design and analysis, and outbreak investigation as it applies to institutional infection control. Equivalency: SPPH 401"
+  },
+  "PATH 498": {
+    "subject_code": "PATH",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either industrial, public, or academic laboratory for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Coop Program in BMLSc. Prerequisite: PATH 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 499": {
+    "subject_code": "PATH",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either industrial, public, or academic laboratory for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Coop Program in BMLSc. Prerequisite: PATH 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 501": {
+    "subject_code": "PATH",
+    "course_code": "501",
+    "credit": "2",
+    "course_name": "Foundations of Human Histopathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Microscopic anatomy of human tissues and organs in health and disease. Principles of histological analysis and applications in pathology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 502": {
+    "subject_code": "PATH",
+    "course_code": "502",
+    "credit": "2",
+    "course_name": "Current Topics in Pathology Research",
+    "faculty": "Faculty of Medicine",
+    "description": "General principles of etiology, pathogenesis, disordered physiology, and anatomic pathology of common disease processes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 518": {
+    "subject_code": "PATH",
+    "course_code": "518",
+    "credit": "2-4",
+    "course_name": "Pulmonary Pathophysiology",
+    "faculty": "Faculty of Medicine",
+    "description": "A review of current topics in pulmonary pathophysiology at an advanced level suitable for graduate students majoring in pathology, medicine, surgery or anesthesiology. Topics will include lung anatomy, ventilation, blood flow, gas and fluid exchange. Prerequisite: One of PHYL_V 301, PHYL_V 303, PHYL_V 400. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 521": {
+    "subject_code": "PATH",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Introduction to the Pathogenesis of Human Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Current medical research; cardiovascular and pulmonary disease. Prerequisite: Permission of instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 523": {
+    "subject_code": "PATH",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Principles of Antimicrobial Chemotherapy",
+    "faculty": "Faculty of Medicine",
+    "description": "Classification, structure and mode of action of antimicrobial agents. In-depth comparison of factors affecting the activity of antimicrobials in vivo and in vitro. Prerequisite: All of MICB_V 200, PATH_V 427. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 527": {
+    "subject_code": "PATH",
+    "course_code": "527",
+    "credit": "2-4",
+    "course_name": "Bacteriology, Mycology, Virology and Parasitology",
+    "faculty": "Faculty of Medicine",
+    "description": "All groups of microorganisms pathogenic for humans. Clinical features, pathogenesis and pathology, epidemiology, properties of the agents, immunology, laboratory diagnosis, therapy, preventative measures. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 530": {
+    "subject_code": "PATH",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Nutrition and Metabolic Aspects of Human Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Molecular effects of changes in nutrient status and metabolism on health. Prerequisite: Restricted to students registered in the Pathology Graduate Program or instructor approval required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 531": {
+    "subject_code": "PATH",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Molecular and Cell Biology of Cancer",
+    "faculty": "Faculty of Medicine",
+    "description": "Focuses on molecular and cell biology of cancer through a series of lectures, reviews, student presentations and discussion. Recommended prerequisites: One of BIOL_V 234, BIOL_V 335, BIOC_V 303, MEDG_V 421. [3-0] Course coordinator permission is required. Equivalency: MEDG_V 521 and ONCO_V 521. Credit will be granted for only one of MEDG_V 521, ONCO_V 521 or PATH_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 535": {
+    "subject_code": "PATH",
+    "course_code": "535",
+    "credit": "2",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Medicine",
+    "description": "Attendance required of all M.Sc. candidates in the Department. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 547": {
+    "subject_code": "PATH",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Techniques in Molecular Biology and Experimental Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Nucleic acid purification and characterization; restriction enzyme digests; northern and southern blotting; cloning; DNA sequencing; polymerase chain reaction technology; electron microscopy; fluorescein-activated cell sorting. [0-6]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 548": {
+    "subject_code": "PATH",
+    "course_code": "548",
+    "credit": "1-12",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 549": {
+    "subject_code": "PATH",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Honours/Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 570": {
+    "subject_code": "PATH",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Cardiovascular Pathophysiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Pathogenesis, abnormal physiology, and therapeutic approaches in heart disease including cardiac arrhythmia, heart failure, myocardial infarction, hypertension, atherosclerosis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 582": {
+    "subject_code": "PATH",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "Toxicology III: Environmental Toxicology",
+    "faculty": "Faculty of Medicine",
+    "description": "Toxicology and risk assessment of air, water and soil pollutants; food additives; animal and plant toxins; pesticides; heavy metals; solvents. [3-0-0]. Equivalency: PHAR_V 582. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 583": {
+    "subject_code": "PATH",
+    "course_code": "583",
+    "credit": "3-4",
+    "course_name": "Toxicology IV: Molecular Mechanisms of Toxicology",
+    "faculty": "Faculty of Medicine",
+    "description": "Activation versus detoxification by cytochromes P-450; the role of the Ah receptor; reactive oxygen species; heavy metals; apoptosis. [3-0-0]. Equivalency: PHAR_V 583. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 635": {
+    "subject_code": "PATH",
+    "course_code": "635",
+    "credit": "2",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Medicine",
+    "description": "Attendance required for all Ph.D. candidates in the department. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 649": {
+    "subject_code": "PATH",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 700": {
+    "subject_code": "PATH",
+    "course_code": "700",
+    "credit": "0",
+    "course_name": "Pathology Conference",
+    "faculty": "Faculty of Medicine",
+    "description": "Review and analysis of current cases. Diagnostic and pathogenic significance of findings are assessed. One hour weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 701": {
+    "subject_code": "PATH",
+    "course_code": "701",
+    "credit": "0",
+    "course_name": "Surgical Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Five days per week, one-hour review of current diagnostic biopsy problems. Diagnostic and therapeutic implications are discussed. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 702": {
+    "subject_code": "PATH",
+    "course_code": "702",
+    "credit": "0",
+    "course_name": "Hematologic Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures and seminars on the pathology of hematological diseases. Two hours weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 703": {
+    "subject_code": "PATH",
+    "course_code": "703",
+    "credit": "0",
+    "course_name": "Histochemical Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of lectures and seminars to show current applications of histochemical techniques to contemporary pathological diagnosis. One hour weekly per quarter. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 704": {
+    "subject_code": "PATH",
+    "course_code": "704",
+    "credit": "0",
+    "course_name": "Hematologic Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Analysis of pathology of bone marrow aspirates; taken in one half or whole year. One and one-half hours weekly. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 705": {
+    "subject_code": "PATH",
+    "course_code": "705",
+    "credit": "0",
+    "course_name": "Clinical Chemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of lectures, seminars, tutorials, and laboratory tuition to demonstrate the use of chemical analysis in clinical medicine. Two hours weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 706": {
+    "subject_code": "PATH",
+    "course_code": "706",
+    "credit": "0",
+    "course_name": "Neuropathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Sectioning of necropsy material with clinicopathological correlation. One hour weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 707": {
+    "subject_code": "PATH",
+    "course_code": "707",
+    "credit": "0",
+    "course_name": "Neuropathology, Clinical Correlation",
+    "faculty": "Faculty of Medicine",
+    "description": "Pathology of central nervous system disease demonstrated to clinical staff, stressing correlation with clinical diseases. Two hours weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 708": {
+    "subject_code": "PATH",
+    "course_code": "708",
+    "credit": "0",
+    "course_name": "Dermatopathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinicopathological correlation of dermal lesions. Discussion of pathogenesis, clinical course, and prognostic implications. One hour weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 709": {
+    "subject_code": "PATH",
+    "course_code": "709",
+    "credit": "0",
+    "course_name": "Renal Biopsy Rounds",
+    "faculty": "Faculty of Medicine",
+    "description": "Weekly correlation between clinical status and pathological findings in several patients. Equivalency: MEDI711 This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 710": {
+    "subject_code": "PATH",
+    "course_code": "710",
+    "credit": "0",
+    "course_name": "Hepatic and Gastrointestinal Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinicopathologial correlation of hepatic and gastrointestinal biopsy material with discussions of pathogenesis, etiology, and therapeutic implications. Alternate weeks, one hour. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 711": {
+    "subject_code": "PATH",
+    "course_code": "711",
+    "credit": "0",
+    "course_name": "Cytology",
+    "faculty": "Faculty of Medicine",
+    "description": "Daily review of cytopathology. Analysis of cervical and sputum smears and pleural, gastric, and bronchial aspirates with discussion of significance to patients, taken in one quater of year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 712": {
+    "subject_code": "PATH",
+    "course_code": "712",
+    "credit": "0",
+    "course_name": "Perinatal Mortality Conference",
+    "faculty": "Faculty of Medicine",
+    "description": "Discussion of perinatal mortality cases for the month, with review of clinical and laboratory findings, management, and pathology findings by pediatric, obstetrical, and pathology teaching staff. Methods of possible prevention of fetal or neonatal death are discussed and recommended as hypothetical reasons for preventability, where appropriate. Two hours monthly. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 713": {
+    "subject_code": "PATH",
+    "course_code": "713",
+    "credit": "0",
+    "course_name": "Seminars in Biochemical Pediatrics",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of discussions on clinical problems which are chosen to illustrate the biochemical basis for the practice of pediatrics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 714": {
+    "subject_code": "PATH",
+    "course_code": "714",
+    "credit": "0",
+    "course_name": "Pediatric Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "Demonstration and dissection of congenital heart lesions; correlation of cardiological and pathological data. One hour weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 720": {
+    "subject_code": "PATH",
+    "course_code": "720",
+    "credit": "0",
+    "course_name": "Microbiological Diagnosis",
+    "faculty": "Faculty of Medicine",
+    "description": "Conduct of bacterial, fungal, parasitological, and viral laboratory tests relevant to the microbiological examination of patients. For medical residents. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 721": {
+    "subject_code": "PATH",
+    "course_code": "721",
+    "credit": "0",
+    "course_name": "Microbiological Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Conduct of research on some aspect of clinical or basic microbiology. For medical residents. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 722": {
+    "subject_code": "PATH",
+    "course_code": "722",
+    "credit": "0",
+    "course_name": "Microbial Infections",
+    "faculty": "Faculty of Medicine",
+    "description": "Review in depth of syndromes caused by common human pathogenic bacteria, fungi and viruses, including principles of current laboratory diagnostic procedures and the rational use of antibiotics and prophylactic agents. For medical residents. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 725": {
+    "subject_code": "PATH",
+    "course_code": "725",
+    "credit": "0",
+    "course_name": "Histopathology of Infectious Diseases",
+    "faculty": "Faculty of Medicine",
+    "description": "Gross and microscopic changes associated with infections, and the pathophysiology involved in their development. The course includes seminars based on histological specimens. For residents in Medical Microbiology, General and Anatomical Pathology, and Infectious Diseases. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 730": {
+    "subject_code": "PATH",
+    "course_code": "730",
+    "credit": "0",
+    "course_name": "Clinical Nuclear Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "See RADI 710. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 731": {
+    "subject_code": "PATH",
+    "course_code": "731",
+    "credit": "0",
+    "course_name": "Progress in Nuclear Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "See RADI 711. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 732": {
+    "subject_code": "PATH",
+    "course_code": "732",
+    "credit": "0",
+    "course_name": "Clinical Investigation/Research",
+    "faculty": "Faculty of Medicine",
+    "description": "See RADI 712. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PATH 733": {
+    "subject_code": "PATH",
+    "course_code": "733",
+    "credit": "0",
+    "course_name": "Quality Correlation in Nuclear Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "See RADI 713. This course is not eligible for Credit/D/Fail grading."
+  }
+}

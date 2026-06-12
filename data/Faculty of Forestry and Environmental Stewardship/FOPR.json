@@ -1,0 +1,34 @@
+{
+  "FOPR 264": {
+    "subject_code": "FOPR",
+    "course_code": "264",
+    "credit": "4",
+    "course_name": "Introduction to Forest Operations",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic geomatics, surveying and forest operations. [2-4-0]"
+  },
+  "FOPR 362": {
+    "subject_code": "FOPR",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "Harvesting Systems and Forest Access",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The mechanics and productivity of a broad range of forest harvesting systems combined with topics on forest access. [3-0-1] Prerequisite: One of ECON_V 101, FRST_V 101. Corequisite: FRST_V 318."
+  },
+  "FOPR 388": {
+    "subject_code": "FOPR",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Analytical Methods in Forest Hydrology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Analytical methods in forest hydrology and their applications in the planning of forest operations with a focus on the hydrologic and hydraulic design procedures for stream crossings. [3-2] Corequisite: FOPR 264."
+  },
+  "FOPR 464": {
+    "subject_code": "FOPR",
+    "course_code": "464",
+    "credit": "4",
+    "course_name": "Operational Planning and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "A comprehensive overview of operational planning, financial and contractual management. Includes an experiential learning opportunity that focuses on critical thinking and teamwork. These skills combined with the theoretical course content are applied in a practical application with an external stakeholder. [2-2-0] Prerequisite: FOPR 362."
+  }
+}

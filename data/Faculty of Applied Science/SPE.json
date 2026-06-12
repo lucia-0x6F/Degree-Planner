@@ -1,0 +1,34 @@
+{
+  "SPE 502": {
+    "subject_code": "SPE",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Sustainable Bioproducts Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Properties and characterization of macromolecules including rheology. Polymer processing and application to green products development including from lignocellulosic sources. Circular economy driven processing. Biomimetics engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPE 503": {
+    "subject_code": "SPE",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Sustainable Bioenergy and Biorefinery",
+    "faculty": "Faculty of Applied Science",
+    "description": "Understanding technology of deriving biofuels and chemical feedstocks from forest biomass. Relating chemistry of biomass for production of liquid, solid and gaseous fuels. Processing options for value-added chemicals. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPE 504": {
+    "subject_code": "SPE",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Design Laboratory for New Ventures in the Chemical Industry",
+    "faculty": "Faculty of Applied Science",
+    "description": "Commercialization of chemical and biochemical products and manufacturing processes; technology development; intellectual property; budgeting and grants; with a focus on venture creation, sustainability and environmental responsibility. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPE 505": {
+    "subject_code": "SPE",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Technology Commercialization for the Manufacturing Industries",
+    "faculty": "Faculty of Applied Science",
+    "description": "Creation and leadership of new ventures for scale-up and commercialization of manufacturing processes, with a special emphasis on the chemical and ancillary industries. Includes assessment of manufacturing processes; techno-economic analyses; scaling up and de-risking processes; intellectual property; market penetration that are specific to the manufacturing sector. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "ASTU 100": {
+    "subject_code": "ASTU",
+    "course_code": "100",
+    "credit": "6",
+    "course_name": "1st Year CAP Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "CAP seminar focused on writing and reading, including both literature and introduction to academic scholarship. Topics vary each year. Credits count toward both the Faculty of Arts Writing and Research Requirement and the Literature Requirement. Restricted to students in the Coordinated Arts Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 101": {
+    "subject_code": "ASTU",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Writing and Research in the Social Sciences and the Humanities",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of and practice in academic research and writing in the social sciences and the humanities. Credits count toward the Writing Component of the Faculty of Arts Writing and Research Requirement. Credit will be granted for only one of CAP_V 100 or ASTU_V 101. Equivalency: CAP_V 100. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 160": {
+    "subject_code": "ASTU",
+    "course_code": "160",
+    "credit": "3",
+    "course_name": "International Perspectives on Writing in the Social Sciences and Humanities",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of and practice in writing and reading for research in the social sciences and humanities; national and international aspects of scholarship and of writing cultures. Fulfills the first component of the Arts' Writing and Research Requirement. Restricted to students in the Sciences Po - UBC Dual Degree. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 200": {
+    "subject_code": "ASTU",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Special Topics: Place and Power",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Restricted to Faculty of Arts students."
+  },
+  "ASTU 201": {
+    "subject_code": "ASTU",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Canada, Japan and the Pacific: Cultural Studies",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary introduction to the cultures of Canada and Japan, and the interrelations between them. Specific topics vary from year to year but will include themes such as constructing the past; nationalism; self-perceptions; cross-cultural perceptions; multiculturalism in Canada and Japan; images in architecture, film and literature; mythologies."
+  },
+  "ASTU 202": {
+    "subject_code": "ASTU",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Canada, Japan and the Pacific: Political, Economic and Geographical Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary introduction to political, economic and geographical interactions between Japan and Canada, the links between these countries and other Pacific Rim nations, and the historical origins of these connections. Specific topics will vary from year to year, but will include themes such as economic integration in the Pacific region; the role of resource economies such as Canada's; security relations in the Pacific; the role of Japanese investment in the Asia-Pacific region."
+  },
+  "ASTU 204": {
+    "subject_code": "ASTU",
+    "course_code": "204",
+    "credit": "1-6",
+    "course_name": "Topics in Interdisciplinary Arts Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Selected interdisciplinary topics in Arts studies. For upcoming offerings including course descriptions and possible enrolment restrictions, please see section information in the UBC course schedule."
+  },
+  "ASTU 210": {
+    "subject_code": "ASTU",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Global Citizenship, Part 1: Introduction",
+    "faculty": "Faculty of Arts",
+    "description": "Themes of global citizenship, sustainability, and civil society, and barriers and bridges to global thinking. Equivalency: EDUC210"
+  },
+  "ASTU 211": {
+    "subject_code": "ASTU",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Global Citizenship, Part 2: Community Service Learning and Capstone Conference",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: One of ASTU 210, EDUC 210. Equivalency: EDUC211"
+  },
+  "ASTU 260": {
+    "subject_code": "ASTU",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Knowledge Dissemination: Communicating Research to Public Audiences",
+    "faculty": "Faculty of Arts",
+    "description": "Research, theory, and practice in the communication of expert knowledge to non-specialist audiences; popular media and dissemination. Restricted to students in the Sciences Po - UBC Dual Degree. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 310": {
+    "subject_code": "ASTU",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Orientation workshops. Final work term report required. Restricted to students in the Arts Co-operative Education Program. Prerequisite: 6 credits first-year English or Arts I; 6 credits of science; 6 credits of literature; satisfaction of Faculty language requirement. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 311": {
+    "subject_code": "ASTU",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report required. Recommended pre-requisite: ASTU_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 360": {
+    "subject_code": "ASTU",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Community-Based Research and Knowledge Creation",
+    "faculty": "Faculty of Arts",
+    "description": "Principles and practice of conducting research in community partnership. Restricted to students in the Sciences Po - UBC Dual Degree. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 399": {
+    "subject_code": "ASTU",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Special Topics: Place and Power",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Restricted to Faculty of Arts students."
+  },
+  "ASTU 400": {
+    "subject_code": "ASTU",
+    "course_code": "400",
+    "credit": "3-6",
+    "course_name": "Interdisciplinary Studies in Arts",
+    "faculty": "Faculty of Arts",
+    "description": "For upper-division students in the Faculty of Arts. Topics announced annually."
+  },
+  "ASTU 401": {
+    "subject_code": "ASTU",
+    "course_code": "401",
+    "credit": "1-6",
+    "course_name": "Special Topics in Arts Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics offered by a distinguished visitor to the campus. For upcoming offerings including course descriptions and possible enrolment restrictions, please see section information in the UBC course schedule."
+  },
+  "ASTU 402": {
+    "subject_code": "ASTU",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Living Language: Science and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Multidisciplinary course in which students, individually and in groups, examine, integrate and apply subject-specific knowledge through the lens of language and the framework of the language sciences, with a focus on themes of real-world importance. Prerequisite: Fourth-year standing or permission of the instructor. Equivalency: APSC402, FRST402, LFS 402, LLED402, PHAR402"
+  },
+  "ASTU 410": {
+    "subject_code": "ASTU",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report. Recommended pre-requisite: ASTU_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 411": {
+    "subject_code": "ASTU",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Arts",
+    "description": "Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report. Recommended pre-requisite: ASTU_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 412": {
+    "subject_code": "ASTU",
+    "course_code": "412",
+    "credit": "3-6",
+    "course_name": "Co-operative Work Placement V",
+    "faculty": "Faculty of Arts",
+    "description": "Optional extra work placement. Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term report. Recommended pre-requisite: ASTU_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 460": {
+    "subject_code": "ASTU",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "No Knowledge is Neutral",
+    "faculty": "Faculty of Arts",
+    "description": "Capstone seminar in the research, theory and practice of knowledge production, mobilization, and contextualization, including issues of authority, expertise, and positionality. Prerequisite: Restricted to students in the Sciences Po-UBC Dual Degree. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 501": {
+    "subject_code": "ASTU",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Restricted to Master's degree students in departments with approved co-op programs. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 502": {
+    "subject_code": "ASTU",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement 2",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Restricted to Master's degree students in departments with approved co-op programs. Pass/Fail. Recommended pre-requisite: ASTU_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 503": {
+    "subject_code": "ASTU",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement 3",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Restricted to Master's degree students in departments with approved co-op programs. Pass/Fail. Recommended pre-requisite: ASTU_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 505": {
+    "subject_code": "ASTU",
+    "course_code": "505",
+    "credit": "1",
+    "course_name": "Interdisciplinary Research and Professional Practice in Migration Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Workshop-based seminar in the Graduate Certificate in Migration Studies. Interdisciplinary engagement with migration and mobilities research and learning about non-academic career pathways in the migration and immigrant integration sector. Pass/Fail. Restricted to Graduate Certificate in Migration Studies students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 610": {
+    "subject_code": "ASTU",
+    "course_code": "610",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Placement 1",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Restricted to Ph.D. degree students in departments with Ph.D. approved co-op programs. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 611": {
+    "subject_code": "ASTU",
+    "course_code": "611",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Placement 2",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Pass/Fail. Restricted to Ph.D. degree students in departments with Ph.D. approved co-op programs. Recommended pre-requisite: ASTU_V 610. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 612": {
+    "subject_code": "ASTU",
+    "course_code": "612",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Placement 3",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Pass/Fail. Restricted to Ph.D. degree students in departments with Ph.D. approved co-op programs. Recommended pre-requisite: ASTU_V 611. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTU 613": {
+    "subject_code": "ASTU",
+    "course_code": "613",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Placement 4",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised paid work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Pass/Fail. Restricted to Ph.D. degree students in departments with Ph.D. approved co-op programs. Recommend pre-requisite: ASTU_V 612. This course is not eligible for Credit/D/Fail grading."
+  }
+}

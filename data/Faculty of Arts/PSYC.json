@@ -1,0 +1,1162 @@
+{
+  "PSYC 100": {
+    "subject_code": "PSYC",
+    "course_code": "100",
+    "credit": "6",
+    "course_name": "Introductory Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to methods and statistics, biopsychology, learning, perception, memory, cognition, motivation, assessment, developmental, personality, clinical, and social psychology. Credit will be granted for only one of PSYC 100 or PSYC 101 and 102."
+  },
+  "PSYC 101": {
+    "subject_code": "PSYC",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Biological and Cognitive Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to Methods and Statistics, Biopsychology, Learning, Perception, Memory, and Cognition. Credit will be granted for only one of PSYC 100 and PSYC 101."
+  },
+  "PSYC 102": {
+    "subject_code": "PSYC",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Introduction to Developmental, Social, Personality, and Clinical Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to methods and statistics, motivation, assessment, developmental, personality, clinical, and social psychology. Credit will be granted for only one of PSYC 100 and PSYC 102."
+  },
+  "PSYC 203": {
+    "subject_code": "PSYC",
+    "course_code": "203",
+    "credit": "1",
+    "course_name": "Career Exploration using Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Critical application of psychological concepts to further personal growth. Methods and strategies for exploring careers as a process that unfolds across the lifespan."
+  },
+  "PSYC 207": {
+    "subject_code": "PSYC",
+    "course_code": "207",
+    "credit": "3",
+    "course_name": "Contemporary Topics in Biological and Cognitive Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "A focus on the interpretation of contemporary research in neuroscience, cognition, perception, memory, and learning."
+  },
+  "PSYC 208": {
+    "subject_code": "PSYC",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Contemporary Topics in Social, Developmental, Personality, and Clinical Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "A focus on the interpretation of contemporary research in social, developmental, personality, and clinical psychology."
+  },
+  "PSYC 216": {
+    "subject_code": "PSYC",
+    "course_code": "216",
+    "credit": "3",
+    "course_name": "Questioning Psychological Science in the Media",
+    "faculty": "Faculty of Arts",
+    "description": "Use basic principles of quantitative psychological research methods to critique psychological claims presented in the media and to translate psychological science to everyday life. Intended for non-psychology majors to prepare for upper level courses. Majors should take PSYC 217 instead."
+  },
+  "PSYC 217": {
+    "subject_code": "PSYC",
+    "course_code": "217",
+    "credit": "3",
+    "course_name": "Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on various research methods used in psychology, with an emphasis on critical thinking and experimental design. Credit will be granted for only one of PSYC 217 or PSYC 277. Restricted to students in one of PSYC Major, BA COGS Major. Corequisite: Either(a) PSYC 100 or (b) all of PSYC 101, PSYC 102. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 218": {
+    "subject_code": "PSYC",
+    "course_code": "218",
+    "credit": "3",
+    "course_name": "Analysis of Behavioural Data",
+    "faculty": "Faculty of Arts",
+    "description": "Use of inferential statistics in psychology and conceptual interpretation of data; experimental design (laboratory, field research methods); presentation of data analyses in reports. Credit will be granted for only one of: PSYC_V 218, PSYC_V 278, BIOL_V 300, COMM_V 291, ECON_V 325, ECON_V 327, EPSE_V 482, FRST_V 231, GEOG_V 374, KIN_V 371, POLI_V 380, SOCI_V 328, STAT_V 200, STAT_V 203. Restricted to students in one of PSYC Major, BA COGS Major. Prerequisite: One of PSYC_V 217, PSYC_V 277. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 240": {
+    "subject_code": "PSYC",
+    "course_code": "240",
+    "credit": "1-3",
+    "course_name": "Research Experience",
+    "faculty": "Faculty of Arts",
+    "description": "Applied research experience in an active psychology research lab. See Psychology Department website for application. Prerequisite: One of PSYC_V 101, PSYC_V 102. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 277": {
+    "subject_code": "PSYC",
+    "course_code": "277",
+    "credit": "4",
+    "course_name": "Behavioural and Neuroscientific Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Research methods used in the neurosciences. Credit will be granted for only one of PSYC_V 217 or PSYC_V 277. Restricted to students in one of NSCI Major, BSc COGS Major (Cognition and Brain stream). This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 278": {
+    "subject_code": "PSYC",
+    "course_code": "278",
+    "credit": "4",
+    "course_name": "Analysis of Behavioural and Neuroscientific Data",
+    "faculty": "Faculty of Arts",
+    "description": "Statistical methods for use in the neurosciences. Credit will be granted for only one of: PSYC_V 218, PSYC_V 278, BIOL_V 300, COMM_V 291, ECON_V 325, ECON_V 327, EPSE_V 482, FRST_V 231, GEOG_V 374, KIN_V 371, POLI_V 380, SOCI_V 328, STAT_V 200, STAT_V 203. Restricted to students in one of NSCI Major, BSc COGS Major (Cognition and Brain stream). Prerequisite: One of PSYC_V 217, PSYC_V 277. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 300": {
+    "subject_code": "PSYC",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Introduction to Psychopathology and Clinical Science",
+    "faculty": "Faculty of Arts",
+    "description": "The definition, history, and scope of mental illness; emphasis on the psychological factors that control its origins, maintenance, and modification. Restricted to students with second-year standing or higher. Strongly recommended: PSYC_V 101, 102, and one of PSYC_V 216, 217, or 227."
+  },
+  "PSYC 301": {
+    "subject_code": "PSYC",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Brain Dysfunction and Recovery",
+    "faculty": "Faculty of Arts",
+    "description": "Cognitive and behavioral impairments resulting from brain dysfunction. Focus on the efficacy of various intervention approaches. Strongly recommended: PSYC 101, 102, and one of PSYC 216, PSYC 217, or 277. Credit will be granted for only one of PSYC 301 or NSCI 302. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 302": {
+    "subject_code": "PSYC",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Infancy",
+    "faculty": "Faculty of Arts",
+    "description": "Human cognition, perception, motor, social, emotional needs, brain development and their interactions from birth until the emergence of language. Strongly recommended: PSYC 101, 102, and one of PSYC 216, PSYC 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 303": {
+    "subject_code": "PSYC",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Tests and Measurements",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and practice of psychological measurement, statistical models for items and tests, assessment of test reliability and validity, factor analysis, scoring. Restricted to students with second-year standing or higher. Prerequisite: One of PSYC 218, PSYC 278."
+  },
+  "PSYC 305": {
+    "subject_code": "PSYC",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Personality Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and research on individual differences in motivation, emotion, and social behaviour. Strongly recommended: PSYC 102, and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 306": {
+    "subject_code": "PSYC",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Principles of Animal Behaviour",
+    "faculty": "Faculty of Arts",
+    "description": "Behavioural neuroscience; behavioural genetics; social systems; mating and parental strategies; instinct and learning; evolution of human behaviour. Credit will be given for only one of BIOL 310 or PSYC 306. Strongly recommended: PSYC 101, and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 307": {
+    "subject_code": "PSYC",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Cultural Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural influences on human thought and behaviour; interactions of culture and self; multicultural experiences; intercultural relations; methodological issues. Strongly recommended: PSYC 102, and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 308": {
+    "subject_code": "PSYC",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Social Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and research of individual social behaviour; social motivation; attitudes; group interaction; socialization; prejudice. Strongly recommended: PSYC 102, and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 309": {
+    "subject_code": "PSYC",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Cognitive Processes",
+    "faculty": "Faculty of Arts",
+    "description": "Contribution of cognitive processes to perception, attention, and memory; cognitive development, language, thinking, and creativity. Strongly recommended: PSYC 101 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 311": {
+    "subject_code": "PSYC",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Psychology of Sport",
+    "faculty": "Faculty of Arts",
+    "description": "Psychological theory, research, and skills training related to sport performance, exercise motivation, and adherence. Credit will be granted for only one of PSYC 311 and KIN 150 and 231. Strongly recommended: PSYC 101 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 312": {
+    "subject_code": "PSYC",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "History of Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "The principal trends of psychological explanation and events in the history of psychology from the earliest times to the present. Strongly recommended: PSYC 101 and one of PSYC 216, 217, or 277. Restricted to Psychology Major or Psychology Honours students."
+  },
+  "PSYC 314": {
+    "subject_code": "PSYC",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Health Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Health-related behaviours such as smoking and drug use; effects of stressful events on health; methods for coping with stress; impact of chronic illness on the family; social support systems. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 315": {
+    "subject_code": "PSYC",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Childhood and Adolescence",
+    "faculty": "Faculty of Arts",
+    "description": "Human development from the preschool period through adolescence. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 319": {
+    "subject_code": "PSYC",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Applied Developmental Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Applications of theories and research in developmental psychology to contemporary social issues; topics may include daycare, child abuse, divorce and remarriage, substance abuse, sexuality. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 320": {
+    "subject_code": "PSYC",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Psychology of Sex Differences",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and research on gender development and the influence of sex and/or gender on cognition, emotion, motivation, social behaviour, and health. Strongly recommended: PSYC 101, 102 and PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 322": {
+    "subject_code": "PSYC",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Adulthood and Aging",
+    "faculty": "Faculty of Arts",
+    "description": "Issues, theories, and psychological research regarding adulthood and the aging process. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 324": {
+    "subject_code": "PSYC",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Brain and Behavior (I)",
+    "faculty": "Faculty of Arts",
+    "description": "The neurobiological bases of behaviour (I); Neuroanatomy and neural communication, neuroscience research methods, brain processes involved in perception and movement. This course is strongly recommended for students who have taken PSYC_V 101 and one of PSYC_V 216, PSYC_V 217. Restricted to all Arts and Science students with second-year standing or higher, excluding those in the B.Sc. Neuroscience specializations. Credit will be granted for only one of PSYC_V 324, PSYC_V 304 or PSYC_V 370."
+  },
+  "PSYC 325": {
+    "subject_code": "PSYC",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Socialization: Media Content and Effects",
+    "faculty": "Faculty of Arts",
+    "description": "Examines human development in the context of the socializing role of media. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 331": {
+    "subject_code": "PSYC",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Forensic Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "The application of psychological theory and research to legal issues and the criminal justice system. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 333": {
+    "subject_code": "PSYC",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Memory: Historical, Clinical and Cognitive Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "Classical and contemporary metaphors for memory and their impact on theory development. Strongly recommended: PSYC 101 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 334": {
+    "subject_code": "PSYC",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Memory II",
+    "faculty": "Faculty of Arts",
+    "description": "Organic amnesia; remembering childhood events; the self and memory; and the problem of distinguishing genuine from simulated forgetting. Prerequisite: [PSYC333]"
+  },
+  "PSYC 335": {
+    "subject_code": "PSYC",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Gambling and Decision Making",
+    "faculty": "Faculty of Arts",
+    "description": "The psychology of gambling behaviour, with emphasis on relevant work from judgment and decision-making, the cognitive neuroscience of choice, and clinical perspectives on disordered gambling. Strongly recommended: PSYC 101 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 336": {
+    "subject_code": "PSYC",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "The Psychology of Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Psychological abilities underlying human language; language processing, lexical representation, and principles of online conversation; animal versus human communication. Strongly recommended: PSYC 101 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 337": {
+    "subject_code": "PSYC",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "The Psychology of Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Language and thought; deriving psychological principles from language universals; the psychology of literacy, dyslexia, multilingualism, and natural language processing. Prerequisite: [PSYC336]"
+  },
+  "PSYC 340": {
+    "subject_code": "PSYC",
+    "course_code": "340",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Directed investigation of a research problem, requiring a written report of the findings. Requires the supervising faculty member's permission. See the Department's website for more information. Restricted to Majors in Psychology or Cognitive Systems with second-year standing or higher."
+  },
+  "PSYC 344": {
+    "subject_code": "PSYC",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Brain and Behavior (II)",
+    "faculty": "Faculty of Arts",
+    "description": "The neurobiological bases of behaviour (II); neural mechanisms underlying sexual behavior, feeding, sleep, motivation, emotion, learning and memory, psychopathology. Restricted to all Arts and Science students with second-year standing or higher, excluding those in the B.Sc. Neuroscience specializations. Credit will be granted for only one of PSYC_V 344, PSYC_V 304 or PSYC_V 371. Prerequisite: PSYC_V 324."
+  },
+  "PSYC 348": {
+    "subject_code": "PSYC",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Honours Seminar I",
+    "faculty": "Faculty of Arts",
+    "description": "Orientation to psychological research, with special emphasis on ongoing research within the department; effective presentation of research findings, oral and written; critical evaluation of research. Requires a research project. Restricted to students in Honours Psychology. Prerequisite: All of PSYC_V 217, PSYC_V 218."
+  },
+  "PSYC 349": {
+    "subject_code": "PSYC",
+    "course_code": "349",
+    "credit": "3",
+    "course_name": "Honours Seminar II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PSYC_V 349. Restricted to students in Honours Psychology. Prerequisite: PSYC_V 348."
+  },
+  "PSYC 350": {
+    "subject_code": "PSYC",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Psychological Aspects of Human Sexuality",
+    "faculty": "Faculty of Arts",
+    "description": "Human sexuality from a biopsychological, behavioural, and psychosocial perspective. Strongly recommended: PSYC 101, 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 358": {
+    "subject_code": "PSYC",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "Evolutionary Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and research on the evolution of the human mind, with emphasis on implications for cognition and behaviour in contemporary environments. Strongly recommended: PSYC 102 and one of PSYC 216, 217, or 277. Restricted to students with second-year standing or higher."
+  },
+  "PSYC 359": {
+    "subject_code": "PSYC",
+    "course_code": "359",
+    "credit": "3",
+    "course_name": "Advanced Research Methods in Behavioural Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Prepares students for graduate studies or other advanced behavioural research; experimental design and analytic techniques; laboratory with computer applications. Restricted to students with second-year standing or higher and a cumulative average at or above 76%. Prerequisite: One of PSYC 218, PSYC 278."
+  },
+  "PSYC 361": {
+    "subject_code": "PSYC",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Neuroscience of Motivation",
+    "faculty": "Faculty of Arts",
+    "description": "Experimental analysis of hunger, thirst, exploratory and curiosity behaviour, maternal and reproductive behaviour, fixed action patterns, and complex processes involved in social motivation with emphasis on the biological basis of motivation. Restricted to students with second-year standing or higher. Prerequisite: One of NSCI_V 201, PSYC_V 304, PSYC_V 344, PSYC_V 370."
+  },
+  "PSYC 363": {
+    "subject_code": "PSYC",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Neuroscience of Simple Learning",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to basic theories of non-associative learning, classical and operant conditioning. Experimental findings from behavioural and biological analyses with animals and humans. Restricted to students with second-year standing or higher. Prerequisite: One of PSYC_V 304, PSYC_V 324, BIOL_V 361, NSCI_V 200."
+  },
+  "PSYC 365": {
+    "subject_code": "PSYC",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Cognitive Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Current research into human brain systems underlying cognitive processes such as perception, attention, memory, and decision-making. Restricted to students with second-year standing or higher. Prerequisite: Either (a) one of PSYC_V 304, PSYC_V 309, PSYC_V 344, NSCI_V 201 or (b) COGS_V 200."
+  },
+  "PSYC 367": {
+    "subject_code": "PSYC",
+    "course_code": "367",
+    "credit": "3",
+    "course_name": "Sensory Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Anatomy and physiology of the sensory pathways and their relation to perception. Credit will be granted for only one of PSYC 367, BIOL 372. Restricted to students with second-year standing or higher. Prerequisite: Either (a) one of PSYC 101, NSCI 201 or (b) COGS 200."
+  },
+  "PSYC 368": {
+    "subject_code": "PSYC",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Perceptual Processing",
+    "faculty": "Faculty of Arts",
+    "description": "Perceptual phenomena and their underlying brain mechanisms. Prerequisite: [PSYC367]"
+  },
+  "PSYC 370": {
+    "subject_code": "PSYC",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Behavioural and Cognitive Neuroscience I",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced methods and topics in behavioural and cognitive neuroscience. Restricted to students with second-year standing or higher who are in the Neuroscience Major or Honours or in the Cognitive Systems Major programs. Credit will be granted for only one of i) PSYC_V 304, ii) PSYC_V 324 and 344, iii) PSYC_V 370 and 371, iv) BIOL_V 371, or v) BIOL_V 372. Prerequisite: One of NSCI_V 201, COGS_V 200."
+  },
+  "PSYC 371": {
+    "subject_code": "PSYC",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Behavioural and Cognitive Neuroscience II",
+    "faculty": "Faculty of Arts",
+    "description": "Neurodevelopment and neuroplasticity, the physiological bases of several motivated behaviours (sleep, sexual behaviour, hunger and eating, drugs and addiction), cognition, the stress response, and brain dysfunction and recovery. Restricted to students with second-year standing or higher who are in the Neuroscience Major or Honours or in the Cognitive Systems Major programs. Credit will be granted for only one of PSYC_V 304 or PSYC_V 324 and 344 or PSYC_V 370 and 371. Prerequisite: PSYC_V 370."
+  },
+  "PSYC 388": {
+    "subject_code": "PSYC",
+    "course_code": "388",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Behavioural Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings. Requires the supervising faculty member's permission. See the Department's website for more information. Restricted to Majors in PSYC or COGS or NSCI with second-year standing or higher. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 398": {
+    "subject_code": "PSYC",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement I",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in Summer Session after third year. Work term report required. Restricted to students admitted to the Co-op Program in Psychology. Prerequisite: Co-op Workshops. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 399": {
+    "subject_code": "PSYC",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement II",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in fourth year Winter Session, Term 1. Work term report required. Pass/Fail. Restricted to students admitted to the Co-op Program in Psychology. Prerequisite: PSYC_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 400": {
+    "subject_code": "PSYC",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Clinical Psychology: A Health Profession",
+    "faculty": "Faculty of Arts",
+    "description": "Theory, research, practice, and professional issues in clinical psychology, including a practicum placement. Credit will be granted for only one of PSYC 400 and 401. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277, PSYC 300."
+  },
+  "PSYC 401": {
+    "subject_code": "PSYC",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Clinical Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Theoretical and research foundations of the processes of assessment and behaviour modification in clinical psychology. Credit will be granted for only one of PSYC 400 or PSYC 401. Restricted to students with third-year standing or higher. Strongly recommended: PSYC 217, PSYC 277 and PSYC 300."
+  },
+  "PSYC 402": {
+    "subject_code": "PSYC",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Research in Psychological Disorders",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on the cognitive, biological, and motivational underpinnings of psychological disorders. Topics include current research methods, controversies in the research literature, and directions for future research. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277, PSYC 300."
+  },
+  "PSYC 403": {
+    "subject_code": "PSYC",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Human Emotion",
+    "faculty": "Faculty of Arts",
+    "description": "Developmental, cognitive, and social psychological theories and research on human emotion. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358."
+  },
+  "PSYC 404": {
+    "subject_code": "PSYC",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Psychology of Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Cognitive, emotional, and motivational underpinnings of religious behaviour; supernatural beliefs, magical thinking, ritual, sacrifice; religion's role in morality, prosociality, health, violence, and intergroup relations. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358."
+  },
+  "PSYC 407": {
+    "subject_code": "PSYC",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Cognition and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural learning; cultural variation and universality in cognition and emotion; cognitive and emotional bases of cultural phenomena. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 307, PSYC 308, PSYC 358."
+  },
+  "PSYC 408": {
+    "subject_code": "PSYC",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Research in Social Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Representative studies on social psychological topics; emphasis on the formulation of significant questions and the design and execution of relevant research. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358."
+  },
+  "PSYC 409": {
+    "subject_code": "PSYC",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Cognitive Neuropsychology",
+    "faculty": "Faculty of Arts",
+    "description": "The structure of the mind as revealed by brain injury, neurological illness, and surgical intervention. Topics include attention, memory, language, sense of self, topographic awareness, moral reasoning, emotion, theory of mind, and social awareness. Restricted to students with third-year standing or higher. Prerequisite: Either (a) one of PSYC_V 304, PSYC_V 309, PSYC_V 344, NSCI_V 201 or (b) COGS_V 200."
+  },
+  "PSYC 412": {
+    "subject_code": "PSYC",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Cognitive Development",
+    "faculty": "Faculty of Arts",
+    "description": "The development of fundamental cognitive abilities from infancy through adulthood, including traditional approaches to cognitive development as well as new areas of current investigation. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 302, PSYC 315, PSYC 319, PSYC 322, PSYC 325."
+  },
+  "PSYC 413": {
+    "subject_code": "PSYC",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Social and Personality Development",
+    "faculty": "Faculty of Arts",
+    "description": "Comprehensive overview of the psychological processes in the social and personality development of infants, children, and adolescents. Restricted to students with third-year standing or higher. Strongly recommended: PSYC 217, PSYC 277 and one of PSYC 302, PSYC 315, PSYC 319, PSYC 322, PSYC 325."
+  },
+  "PSYC 414": {
+    "subject_code": "PSYC",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Research in Developmental Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of current research in a specific area of developmental psychology. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 302, PSYC 315, PSYC 319, PSYC 322, PSYC 325."
+  },
+  "PSYC 415": {
+    "subject_code": "PSYC",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Applied Social Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "The application of social psychological research and theory to the solution of social problems. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358."
+  },
+  "PSYC 417": {
+    "subject_code": "PSYC",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Special Topics in Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive examination of selected topics and issues in psychology. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278."
+  },
+  "PSYC 418": {
+    "subject_code": "PSYC",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "The Self-Concept",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and research on the self: development, knowledge, motivation, emotions, presentation. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 305, PSYC 307, PSYC 308, PSYC 358."
+  },
+  "PSYC 420": {
+    "subject_code": "PSYC",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Community Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "The relationships between social contexts and wellbeing with a focus on the application of psychology to disadvantaged populations and community development. Restricted to students with third-year standing or higher. Prerequisite: Either (a) one of PSYC 217, PSYC 277 and one of PSYC 300, PSYC 308, PSYC 314; or (b) PSYC 319."
+  },
+  "PSYC 421": {
+    "subject_code": "PSYC",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Environmental Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Psychological theory and research on the interaction between organisms and the physical environment; emphasis on applications to the design and management of constructed and natural environments. Strongly recommended: PSYC 217, PSYC 277 and one of PSYC 300, PSYC 308, PSYC 309, PSYC 314, PSYC 319. Restricted to students with third-year standing or higher."
+  },
+  "PSYC 427": {
+    "subject_code": "PSYC",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Advanced Seminar in Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of an issue, topic, or phenomenon in psychology, focusing on research deeply within a subfield or integrating research across subfields. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC 217, PSYC 277 and one of PSYC 218, PSYC 278. Consult Section Notes or the Psychology Department website for 300-level course(s) recommended for a specific offering."
+  },
+  "PSYC 440": {
+    "subject_code": "PSYC",
+    "course_code": "440",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Directed investigation of a research problem, requiring a written report of the findings. Requires the supervising faculty member's permission. See the Department's website for more information. Restricted to Majors in Psychology or Cognitive Systems, with third-year standing or higher."
+  },
+  "PSYC 448": {
+    "subject_code": "PSYC",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Honours Seminar III",
+    "faculty": "Faculty of Arts",
+    "description": "Students carry out a research project and report on its development during seminars. Discussion of research with emphasis on choice of problems, research design and data analysis. Restricted to students in Honours Psychology. Prerequisite: PSYC_V 349."
+  },
+  "PSYC 449": {
+    "subject_code": "PSYC",
+    "course_code": "449",
+    "credit": "3",
+    "course_name": "Honours Seminar IV",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PSYC_V 448. Restricted to students in Honours Psychology. Prerequisite: PSYC_V 448."
+  },
+  "PSYC 460": {
+    "subject_code": "PSYC",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Behavioural Neuroendocrinology",
+    "faculty": "Faculty of Arts",
+    "description": "Detailed examination of the interaction between hormones and neural control of reproductive and non-reproductive behaviours; emphasis on gonadal and adrenal hormone effects on learning and memory in the brain. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC_V 304, PSYC_V 344, PSYC_V 371, BIOL_V 372."
+  },
+  "PSYC 461": {
+    "subject_code": "PSYC",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Neuroplasticity and Behaviour",
+    "faculty": "Faculty of Arts",
+    "description": "Experimental findings and theory documenting the plasticity of the brain and its relationship to behaviour: emphasis on gene regulation, neurogenesis and cell morphology changes in relation to learning and experience. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC_V 304, PSYC_V 344, PSYC_V 371, BIOL_V 372."
+  },
+  "PSYC 462": {
+    "subject_code": "PSYC",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Drugs and Behavioural Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to neurochemical systems and functional neuroanatomy; animal models of human cognitive processes and mental disorders; neurochemical foundations and treatments for mental disorders. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC_V 304, PSYC_V 344, PSYC_V 371, BIOL_V 372."
+  },
+  "PSYC 472": {
+    "subject_code": "PSYC",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Advanced Neuroscience of Motivation",
+    "faculty": "Faculty of Arts",
+    "description": "Neurobiological pathways mediating five core aspects of motivated behaviour: (1) affective decision making; (2) motivated drive; (3) goal-directed vs. habit-based behaviour; (4) learning from negative reinforcers; and (5) disorders of motivation. Restricted to students with third-year standing or higher. Prerequisite: One of PSYC_V 361, PSYC_V 365."
+  },
+  "PSYC 488": {
+    "subject_code": "PSYC",
+    "course_code": "488",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Behavioural Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Directed investigation of an experimental problem in Behavioural Neuroscience requiring a written report of the findings. Requires the supervising faculty member's permission. See the Department's website for more information. Restricted to Majors in PSYC or COGS or NSCI with third-year standing or higher. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 498": {
+    "subject_code": "PSYC",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement III",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full-time. Normally taken in fourth year Winter Session, Term 2. Work term report required. Pass/Fail. Restricted to students admitted to the Co-op Program in Psychology. Prerequisite: PSYC_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 499": {
+    "subject_code": "PSYC",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement IV",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks, full time. Normally taken in Summer Session after fourth year. Work term report required. Pass/Fail. Restricted to students admitted to the Co-op Program in Psychology. Prerequisite: PSYC_V 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 500": {
+    "subject_code": "PSYC",
+    "course_code": "500",
+    "credit": "3-6",
+    "course_name": "History of Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 501": {
+    "subject_code": "PSYC",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Health Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 502": {
+    "subject_code": "PSYC",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Research Methods in Health Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 503": {
+    "subject_code": "PSYC",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Biological Basis of Health Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 504": {
+    "subject_code": "PSYC",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Special Topics in Health Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 507": {
+    "subject_code": "PSYC",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Cultural Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 508": {
+    "subject_code": "PSYC",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Teaching of Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 510": {
+    "subject_code": "PSYC",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Descriptive Psychopathology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 512": {
+    "subject_code": "PSYC",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Psychology of Emotion",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 513": {
+    "subject_code": "PSYC",
+    "course_code": "513",
+    "credit": "3-12",
+    "course_name": "Special Topics in Developmental Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 514": {
+    "subject_code": "PSYC",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Advanced Topics in Biopsychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 516": {
+    "subject_code": "PSYC",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Animal Learning, Memory, and Cognition",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 517": {
+    "subject_code": "PSYC",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Biopsychology of Motivation",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 520": {
+    "subject_code": "PSYC",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Developmental Biopsychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 521": {
+    "subject_code": "PSYC",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Psycholinguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 522": {
+    "subject_code": "PSYC",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Drugs and Behaviour",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 523": {
+    "subject_code": "PSYC",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Experimental Neuropsychology and Animal Models",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 524": {
+    "subject_code": "PSYC",
+    "course_code": "524",
+    "credit": "3-6",
+    "course_name": "Neural Models of Learning and Memory",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 525": {
+    "subject_code": "PSYC",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Attitudes and Social Cognition",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 527": {
+    "subject_code": "PSYC",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Interpersonal Processes",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 528": {
+    "subject_code": "PSYC",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Advanced Methods in Social Psychology and Personality",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 529": {
+    "subject_code": "PSYC",
+    "course_code": "529",
+    "credit": "3-12",
+    "course_name": "Special Topics in Social Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 530": {
+    "subject_code": "PSYC",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Assessment: A Critical Survey",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 531": {
+    "subject_code": "PSYC",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Assessment: Clinical Applications",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 532": {
+    "subject_code": "PSYC",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Child Assessment",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 533": {
+    "subject_code": "PSYC",
+    "course_code": "533",
+    "credit": "3-6",
+    "course_name": "Current Issues in Clinical Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 534": {
+    "subject_code": "PSYC",
+    "course_code": "534",
+    "credit": "3-12",
+    "course_name": "Clinical Psychology Practicum",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 535": {
+    "subject_code": "PSYC",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Psychopathology of the Adult",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 536": {
+    "subject_code": "PSYC",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Psychopathology of the Child",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 537": {
+    "subject_code": "PSYC",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Ethical and Professional Issues in Clinical Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 538": {
+    "subject_code": "PSYC",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Clinical Neuropsychological Assessment",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 539": {
+    "subject_code": "PSYC",
+    "course_code": "539",
+    "credit": "3",
+    "course_name": "Biological Bases of Mental Disorders",
+    "faculty": "Faculty of Arts",
+    "description": "This course is highly recommended for students who have completed PSYC_V 300 or equivalent. Credit will be granted for only one of PSYC_V 539 or NRSC_V 553. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 540": {
+    "subject_code": "PSYC",
+    "course_code": "540",
+    "credit": "3-6",
+    "course_name": "Strategies of Psychological Intervention",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 541": {
+    "subject_code": "PSYC",
+    "course_code": "541",
+    "credit": "2",
+    "course_name": "Introduction to Psychotherapy",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 542": {
+    "subject_code": "PSYC",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Cognitive/Behavioural Interventions",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 545": {
+    "subject_code": "PSYC",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Advanced Statistics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 546": {
+    "subject_code": "PSYC",
+    "course_code": "546",
+    "credit": "3-18",
+    "course_name": "Seminar in Quantitative Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 547": {
+    "subject_code": "PSYC",
+    "course_code": "547",
+    "credit": "2-6",
+    "course_name": "Reading and Conference",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 549": {
+    "subject_code": "PSYC",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in M.A. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 556": {
+    "subject_code": "PSYC",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Psychological Treatment of Childhood Disorders",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 559": {
+    "subject_code": "PSYC",
+    "course_code": "559",
+    "credit": "6-12",
+    "course_name": "Clinical Psychological Internship",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. Restricted to Psychology graduate students in the Clinical Research Area. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 560": {
+    "subject_code": "PSYC",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Clinical Research Design",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 567": {
+    "subject_code": "PSYC",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Personality Dimensions and Structure",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 569": {
+    "subject_code": "PSYC",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Contemporary Conceptual Issues in Personality",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 570": {
+    "subject_code": "PSYC",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Cognitive Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 571": {
+    "subject_code": "PSYC",
+    "course_code": "571",
+    "credit": "3-12",
+    "course_name": "Special Topics in Cognitive Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 574": {
+    "subject_code": "PSYC",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Biopsychology I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 578": {
+    "subject_code": "PSYC",
+    "course_code": "578",
+    "credit": "3-6",
+    "course_name": "Perception",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 579": {
+    "subject_code": "PSYC",
+    "course_code": "579",
+    "credit": "3-6",
+    "course_name": "Special Topics in Perception",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 582": {
+    "subject_code": "PSYC",
+    "course_code": "582",
+    "credit": "3-6",
+    "course_name": "Cognition",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 583": {
+    "subject_code": "PSYC",
+    "course_code": "583",
+    "credit": "3-6",
+    "course_name": "Special Topics in Cognition",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 584": {
+    "subject_code": "PSYC",
+    "course_code": "584",
+    "credit": "3-6",
+    "course_name": "Language Development in Infancy and Childhood",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 585": {
+    "subject_code": "PSYC",
+    "course_code": "585",
+    "credit": "3-6",
+    "course_name": "Special Topics in Developmental Cognitive Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 586": {
+    "subject_code": "PSYC",
+    "course_code": "586",
+    "credit": "3-6",
+    "course_name": "Developmental Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 587": {
+    "subject_code": "PSYC",
+    "course_code": "587",
+    "credit": "3-6",
+    "course_name": "Cognitive Development",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 588": {
+    "subject_code": "PSYC",
+    "course_code": "588",
+    "credit": "3-6",
+    "course_name": "Special Topics in Social and Personality Development",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 589": {
+    "subject_code": "PSYC",
+    "course_code": "589",
+    "credit": "3-6",
+    "course_name": "Moral Development",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 590": {
+    "subject_code": "PSYC",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Survey of Social Psychology I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 591": {
+    "subject_code": "PSYC",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Survey of Social Psychology II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, Ph.D. PSYC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 592": {
+    "subject_code": "PSYC",
+    "course_code": "592",
+    "credit": "3",
+    "course_name": "Neuroethology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 593": {
+    "subject_code": "PSYC",
+    "course_code": "593",
+    "credit": "3",
+    "course_name": "Neurophysiology and Cortical Plasticity",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 594": {
+    "subject_code": "PSYC",
+    "course_code": "594",
+    "credit": "3",
+    "course_name": "Psychoneuroendocrinology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 595": {
+    "subject_code": "PSYC",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Psychophysiology",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in one of M.A. PSYC, M.Sc. NRSC, Ph.D. PSYC, Ph.D. NRSC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 596": {
+    "subject_code": "PSYC",
+    "course_code": "596",
+    "credit": "3",
+    "course_name": "Advanced Research Skills in Neuroscience",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental skills in planning, conducting, analyzing, interpreting, and presenting Neuroscience research. Restricted to students in MSc and PhD in Neuroscience, or MSc and PhD in Psychology. Credit will be granted for only one of NRSC_V 530 or PSYC_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PSYC 649": {
+    "subject_code": "PSYC",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in PhD PSYC. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

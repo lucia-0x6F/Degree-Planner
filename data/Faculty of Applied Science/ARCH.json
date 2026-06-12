@@ -1,0 +1,306 @@
+{
+  "ARCH 500": {
+    "subject_code": "ARCH",
+    "course_code": "500",
+    "credit": "9",
+    "course_name": "Architectural Design Studio I",
+    "faculty": "Faculty of Applied Science",
+    "description": "A series of projects focusing on conceptual development, design synthesis, principles of typology, organization and representation. Corequisite: ARCH_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 501": {
+    "subject_code": "ARCH",
+    "course_code": "501",
+    "credit": "9",
+    "course_name": "Architectural Design Studio II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: ARCH_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 503": {
+    "subject_code": "ARCH",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Architecture and Society Through the Ages",
+    "faculty": "Faculty of Applied Science",
+    "description": "Key debates and questions in the field of architecture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 504": {
+    "subject_code": "ARCH",
+    "course_code": "504",
+    "credit": "3-9",
+    "course_name": "Topics in Architectural History I (Pre-1900)",
+    "faculty": "Faculty of Applied Science",
+    "description": "History of architecture in the pre-1900 time period. Technological, political, social, and economic changes that have influenced architecture and related fields. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 505": {
+    "subject_code": "ARCH",
+    "course_code": "505",
+    "credit": "3-9",
+    "course_name": "Topics in Architectural History II (1900-Present)",
+    "faculty": "Faculty of Applied Science",
+    "description": "History of architecture in the post-1900 time period. Technological, political, social, and economic changes which have influenced architecture and related fields. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 511": {
+    "subject_code": "ARCH",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Architectural Technology I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Architectural technology, including materials and methods, construction types, and building system integration. Strong emphasis on enclosure performance with focus on smaller buildings and light wood framing construction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 512": {
+    "subject_code": "ARCH",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Structures I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Quantitative and qualitative means for understanding of statics, materials and flow of force through a structure. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 513": {
+    "subject_code": "ARCH",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Environmental Systems and Controls I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Building form and fabric considerations to assure appropriate thermal, luminous, sonic, and atmospheric conditions within buildings. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 515": {
+    "subject_code": "ARCH",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Design Media I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Foundations of manual and digital skills and concepts employing a variety of subjects, techniques and software. Credit will be granted for only one of ARCH_V 515, DES_V 211 or ENDS_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 517": {
+    "subject_code": "ARCH",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Design Media II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Intermediate manual and digital skills and concepts employing a variety of subjects, techniques and software. Credit will be granted for only one of ARCH_V 517, ARCH_V 437 or DES_V 212. Prerequisite: ARCH_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 520": {
+    "subject_code": "ARCH",
+    "course_code": "520",
+    "credit": "9",
+    "course_name": "Architectural Design Studio III",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: ARCH_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 521": {
+    "subject_code": "ARCH",
+    "course_code": "521",
+    "credit": "9",
+    "course_name": "Architectural Design Studio IV",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: All of ARCH_V 511, ARCH_V 512, ARCH_V 513, ARCH_V 520. Corequisite: All of ARCH_V 531, ARCH_V 533. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 522": {
+    "subject_code": "ARCH",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Current Issues in Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "A seminar examining current issues in Architecture, based on reading assignments, papers and presentations. Enrolment is limited to facilitate discussion. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 523": {
+    "subject_code": "ARCH",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Contemporary Theories in Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theoretical propositions and their built manifestations. Prerequisite: 6 credits of ARCH_V 504, ARCH_V 505. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 531": {
+    "subject_code": "ARCH",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Architectural Technology II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis and design of advanced assemblies. Integration of multiple building systems within a wide range of construction types, and more complex enclosures in a variety of climatic conditions. Emphasis on technical performance, durability and sustainability. Prerequisite: ARCH_V 511. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 532": {
+    "subject_code": "ARCH",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Architectural Structures II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Complex multi-span and continuous systems: effective material configuration, approximate methods of analysis, selection of appropriate structural systems, earthquake configuration and high rises. Prerequisite: ARCH_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 533": {
+    "subject_code": "ARCH",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Environmental Systems and Controls II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mechanical and electrical services of buildings and their integration with architectural form and fabric. Prerequisite: ARCH_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 537": {
+    "subject_code": "ARCH",
+    "course_code": "537",
+    "credit": "1-15",
+    "course_name": "International Exchange in Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/Fail. Pre-approved studies in architecture in an international context. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 538": {
+    "subject_code": "ARCH",
+    "course_code": "538",
+    "credit": "3-9",
+    "course_name": "Study of Architecture Abroad",
+    "faculty": "Faculty of Applied Science",
+    "description": "More than one section may be taken concurrently. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 539": {
+    "subject_code": "ARCH",
+    "course_code": "539",
+    "credit": "9",
+    "course_name": "Architectural Design Abroad",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design studio component of term-long study abroad offering. Prerequisite: All of ARCH_V 500, ARCH_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 540": {
+    "subject_code": "ARCH",
+    "course_code": "540",
+    "credit": "9",
+    "course_name": "Architectural Design Studio V",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: ARCH_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 541": {
+    "subject_code": "ARCH",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Professional Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "Ethical, legal and business context of professional practice, including contracts, project management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 543": {
+    "subject_code": "ARCH",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Seminar: Contemporary Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics across a range of practice related subject matter. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 544": {
+    "subject_code": "ARCH",
+    "course_code": "544",
+    "credit": "1-12",
+    "course_name": "Seminar in Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "An in-depth study of a selected topic in architecture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 545": {
+    "subject_code": "ARCH",
+    "course_code": "545",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "Directed research and exploration of selected topics in architecture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 548": {
+    "subject_code": "ARCH",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Graduate Project Part I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Preparation of a graduation design project including literature review. Prerequisite: All of ARCH_V 521, ARCH_V 523, ARCH_V 531, ARCH_V 532, ARCH_V 533. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 549": {
+    "subject_code": "ARCH",
+    "course_code": "549",
+    "credit": "9",
+    "course_name": "Graduate Project Part II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design component, completion, and defense of the graduation design project. Honours/Pass/Fail. Prerequisite: ARCH_V 548 and no more than 18 credits outstanding beyond ARCH_V 549 This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 551": {
+    "subject_code": "ARCH",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Communicating Construction",
+    "faculty": "Faculty of Applied Science",
+    "description": "Understanding the role, composition, organization, and conventions of the formal documentation necessary for communication of an architectural design to those undertaking the construction. Prerequisite: All of ARCH_V 511, ARCH_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 555": {
+    "subject_code": "ARCH",
+    "course_code": "555",
+    "credit": "3-9",
+    "course_name": "Co-operative Education",
+    "faculty": "Faculty of Applied Science",
+    "description": "Approved and supervised work experience in an established company or organization for a minimum of one academic term. Technical report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 561": {
+    "subject_code": "ARCH",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Seminar: History and Theory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics across a range of history/theory-based subject matter. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 571": {
+    "subject_code": "ARCH",
+    "course_code": "571",
+    "credit": "3-6",
+    "course_name": "Seminar: Technology and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics across a range of building material and construction technology-based subject matter. Prerequisite: All of ARCH_V 511, ARCH_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 572": {
+    "subject_code": "ARCH",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Research Seminar: Advanced Structure and Generative Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "Structural principles and corresponding mathematical representation as three- and four-dimensional digital models using structural analysis software. Prerequisite: ARCH_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 573": {
+    "subject_code": "ARCH",
+    "course_code": "573",
+    "credit": "3-12",
+    "course_name": "Seminar: Environmental Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "An investigation of specialized environmental topics concerning theory and the practice of architecture. Prerequisite: ARCH_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 574": {
+    "subject_code": "ARCH",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Green Building Contemporary Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "Enhanced building environmental performance and the integration of green building principles, strategies and technologies. Equivalency: HPB_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 575": {
+    "subject_code": "ARCH",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Regenerative Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "The relationship between human and natural systems in the context of regenerative design. Provides an understanding of how regenerative approaches differ from green design and how they can offer new insights and directions for design. Equivalency: HPB_V 502 This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 577": {
+    "subject_code": "ARCH",
+    "course_code": "577",
+    "credit": "1-12",
+    "course_name": "Advanced Topics in Design Media",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: All of ARCH_V 515, ARCH_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 597": {
+    "subject_code": "ARCH",
+    "course_code": "597",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Individual or small group study of special topics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARCH 598": {
+    "subject_code": "ARCH",
+    "course_code": "598",
+    "credit": "12",
+    "course_name": "Research Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Restricted to M.A.S.A. candidates. This course is not eligible for Credit/D/Fail grading."
+  }
+}

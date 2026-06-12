@@ -1,0 +1,138 @@
+{
+  "BAMS 500": {
+    "subject_code": "BAMS",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Management Science - Best Practices",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 501": {
+    "subject_code": "BAMS",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Probabilistic Models for Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 502": {
+    "subject_code": "BAMS",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Stochastic Processes",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 503": {
+    "subject_code": "BAMS",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Simulation Modelling",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 504": {
+    "subject_code": "BAMS",
+    "course_code": "504",
+    "credit": "1.5",
+    "course_name": "Simulation Modelling II: Queuing and Discrete Event Simulation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Simulation concepts such as Discrete Event Simulation and its benefits; queuing processes and theory; performing simulation optimization; discerning appropriateness of steady- state simulation models and conducting them; analyzing simulation outcomes and making comparisons. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 506": {
+    "subject_code": "BAMS",
+    "course_code": "506",
+    "credit": "1.5",
+    "course_name": "Optimal Decision Making I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Models and methods in continuous optimization; linear and nonlinear programming; applications to functional business areas and related fields. Students will learn to formulate an optimization model, solve it, interpret results, and derive insight relevant to intended application. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 507": {
+    "subject_code": "BAMS",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Theory of optimization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 508": {
+    "subject_code": "BAMS",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Optimal Decision Making II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Models and methods in discrete optimization; emphasis on useful modelling methodologies and their applications. Students will learn to formulate an optimization model, solve it, interpret results, and derive insight relevant to intended application. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 509": {
+    "subject_code": "BAMS",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Theory of Discrete Optimization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 517": {
+    "subject_code": "BAMS",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Decision Analysis Under Uncertainty",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Decision making under uncertainty; using decision trees; the value of information; utility and risk preferences; behavioral aspects of decision making under uncertainty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 518": {
+    "subject_code": "BAMS",
+    "course_code": "518",
+    "credit": "1.5",
+    "course_name": "Markov Decision Processes",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 521": {
+    "subject_code": "BAMS",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Analytics Leadership",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Non-technical skills and practices for consulting; project management and problem solving for business consulting projects in analytics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 522": {
+    "subject_code": "BAMS",
+    "course_code": "522",
+    "credit": "1.5",
+    "course_name": "Consulting Practices II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 523": {
+    "subject_code": "BAMS",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "Managerial Decisions Modelling and Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 550": {
+    "subject_code": "BAMS",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Operations and Logistics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Not available to MBA students. Equivalency: HCEC_V 542. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 580": {
+    "subject_code": "BAMS",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Applied Management Science",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMS 590": {
+    "subject_code": "BAMS",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Management Science",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

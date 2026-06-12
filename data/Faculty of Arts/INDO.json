@@ -1,0 +1,50 @@
+{
+  "INDO 100": {
+    "subject_code": "INDO",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introductory Indonesian I",
+    "faculty": "Faculty of Arts",
+    "description": "Spoken and written Indonesian. Credit will be granted for only one of INDO 100 or INDO 102."
+  },
+  "INDO 101": {
+    "subject_code": "INDO",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introductory Indonesian II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of INDO 100. Credit will be granted for only one of INDO 101 or INDO 102. Recommended pre-requisite: INDO 100."
+  },
+  "INDO 102": {
+    "subject_code": "INDO",
+    "course_code": "102",
+    "credit": "6",
+    "course_name": "Introductory Indonesian",
+    "faculty": "Faculty of Arts",
+    "description": "Spoken and written Indonesian. As of 2011W, credit will be granted for only one of INDO 100/101 or INDO 102."
+  },
+  "INDO 200": {
+    "subject_code": "INDO",
+    "course_code": "200",
+    "credit": "6",
+    "course_name": "Intermediate Indonesian",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the grammar and introduction to Indonesian literature. As of 2011W, credit will be granted for only one of INDO 201/202 or INDO 200. Recommended pre-requisites: one of INDO 101, INDO 102."
+  },
+  "INDO 201": {
+    "subject_code": "INDO",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Indonesian I",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the grammar and introduction to Indonesian literature. Credit will be granted for only one of INDO 201 or INDO 200. Recommended pre-requisite: INDO 101."
+  },
+  "INDO 202": {
+    "subject_code": "INDO",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Intermediate Indonesian II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of INDO 201. Credit will be granted for only one of INDO 202 or INDO 200. Recommended pre-requisite: INDO 201."
+  }
+}

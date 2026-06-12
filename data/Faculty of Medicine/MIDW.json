@@ -1,0 +1,250 @@
+{
+  "MIDW 101": {
+    "subject_code": "MIDW",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Counselling for Maternity Care Providers",
+    "faculty": "Faculty of Medicine",
+    "description": "Theory, knowledge, strategies, and skills of person-centered counselling including family systems, trauma theory, theory, grief counselling, motivational interviewing skills, self-awareness and mindfulness, interprofessional communication, and cultural competency in continuity of care. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 102": {
+    "subject_code": "MIDW",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Birth and its Meanings",
+    "faculty": "Faculty of Medicine",
+    "description": "An interdisciplinary study of pregnancy and childbirth drawing on and integrating the disciplines of psychology, sociology, philosophy of science, anthropology, women's studies, and cultural studies. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 103": {
+    "subject_code": "MIDW",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Applied Health Services for Maternity Providers",
+    "faculty": "Faculty of Medicine",
+    "description": "Introduction to diagnostics related to cellular and humoral immune responses in pregnant women and newborns, the properties of viruses, epidemiology, the principles of bacterial pathogenesis, and related physiologic responses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 104": {
+    "subject_code": "MIDW",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Lactation and Infant Feeding for Maternity Care Providers",
+    "faculty": "Faculty of Medicine",
+    "description": "Breastfeeding physiology, pathophysiology, and strategies for support of the dyad based on best-practice principles. Discussion of major Canadian and international initiatives for the support and protection of breastfeeding. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 106": {
+    "subject_code": "MIDW",
+    "course_code": "106",
+    "credit": "3",
+    "course_name": "Reproductive Anatomy and Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Covers the anatomy and physiology of conception, fetal growth, pregnancy, labour, birth, transition to extra- uterine life, postpartum and lactation through lectures and lab sessions. Emphasizes anatomy and physiology as related to professional midwifery practice. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 107": {
+    "subject_code": "MIDW",
+    "course_code": "107",
+    "credit": "3",
+    "course_name": "Physical Assessment",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles of physical and psychological assessment of the mother and neonate. A series of lectures and clinical lab sessions. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 108": {
+    "subject_code": "MIDW",
+    "course_code": "108",
+    "credit": "5",
+    "course_name": "Theoretical Foundations for Midwifery Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Scope of practice of a midwife, regulatory framework, skills for basic midwifery practice. A series of lectures and clinical lab sessions. [5-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 115": {
+    "subject_code": "MIDW",
+    "course_code": "115",
+    "credit": "3",
+    "course_name": "Research Methods for Midwives",
+    "faculty": "Faculty of Medicine",
+    "description": "Research designs used in midwifery research, types of studies reported in the midwifery and health care literature, research methodology and basic principles of epidemiology, biostatistics and social research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 120": {
+    "subject_code": "MIDW",
+    "course_code": "120",
+    "credit": "3",
+    "course_name": "Midwifery and Social Justice",
+    "faculty": "Faculty of Medicine",
+    "description": "Social justice frameworks and issues as they pertain to individuals' engagement with health care systems. Draws on various disciplines, including sociology, anthropology, gender studies, and cultural studies."
+  },
+  "MIDW 125": {
+    "subject_code": "MIDW",
+    "course_code": "125",
+    "credit": "3",
+    "course_name": "Pharmacology for Maternity Care Providers",
+    "faculty": "Faculty of Medicine",
+    "description": "An overview of basic concepts in pharmacology, pharmacy, and therapeutics relevant to the practice of midwifery in Canada. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 200": {
+    "subject_code": "MIDW",
+    "course_code": "200",
+    "credit": "6",
+    "course_name": "Midwifery Clinical Care - Antepartum, Postpartum and Newborn",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical care of women experiencing normal pregnancy, labour, birth, and puerperium. Clinical education experiences in preventative and therapeutic midwifery care with emphasis on prenatal and postnatal midwifery care. Clinical practice education opportunities within the province. [18-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 201": {
+    "subject_code": "MIDW",
+    "course_code": "201",
+    "credit": "9",
+    "course_name": "Midwifery Theory for Antepartum, Postpartum and Newborn Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Online situation-based learning tutorials occurring simultaneously with MIDW_V 200 clinical placement. [3-18-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 210": {
+    "subject_code": "MIDW",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Evidence-Informed Midwifery",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles of evidence-informed midwifery, what counts as evidence? Making sense of the evidence, applying the evidence in practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 215": {
+    "subject_code": "MIDW",
+    "course_code": "215",
+    "credit": "1",
+    "course_name": "Ethics in Maternity Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Application of ethical theory in midwifery and health care management. [1-0-0]"
+  },
+  "MIDW 230": {
+    "subject_code": "MIDW",
+    "course_code": "230",
+    "credit": "6",
+    "course_name": "Midwifery Theory for Primary Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Care of normal pregnancy, labour, birth, and puerperium with an emphasis on the intrapartum period and assessment and management skills. Includes a four-week intensive session in Vancouver, a series of online tutorials, and simulation and skills lab practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 240": {
+    "subject_code": "MIDW",
+    "course_code": "240",
+    "credit": "9",
+    "course_name": "Midwifery Clinical Care - Intrapartum and Postpartum",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical education experiences with the preventative and therapeutic midwifery care of normal pregnancy, labour, birth, and puerperium with an emphasis on the intrapartum period and assessment and management skills. A clinical practicum in locations around the province. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 305": {
+    "subject_code": "MIDW",
+    "course_code": "305",
+    "credit": "6",
+    "course_name": "Midwifery Theory for Variations in Primary Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical principles of care for pregnancy, birth, and the puerperium with an emphasis on the recognition and management of variations of normal and findings outside of normal. Consists of a one-week intensive time in Vancouver, during which emergency skills certification is acquired, and weekly web-based tutorials. [3-4-3]"
+  },
+  "MIDW 310": {
+    "subject_code": "MIDW",
+    "course_code": "310",
+    "credit": "5",
+    "course_name": "Primary Research Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "An original piece of scholarship that builds on knowledge and skills acquired from coursework and in consultation with faculty mentors. This self-directed course can be taken in year 1, 2, or 3 of the Program. [1-0-8]. Prerequisite: Exemption from or completion of MIDW_V 115. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 320": {
+    "subject_code": "MIDW",
+    "course_code": "320",
+    "credit": "11",
+    "course_name": "Midwifery Clinical Care - Variations of Normal",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical education experiences with the preventative and therapeutic midwifery care of pregnancy, birth, and the puerperium. Emphasis on the recognition and management of variations of normal and findings outside normal. A 10-week practicum in locations around the province. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 322": {
+    "subject_code": "MIDW",
+    "course_code": "322",
+    "credit": "8",
+    "course_name": "Midwifery Primary Care Clinical",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical course focusing on consolidation of skills and knowledge of all aspects of midwifery care. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 325": {
+    "subject_code": "MIDW",
+    "course_code": "325",
+    "credit": "2",
+    "course_name": "Professional Issues in Midwifery",
+    "faculty": "Faculty of Medicine",
+    "description": "Professional issues in midwifery including responsibilities and conduct, self-care, peer review, interprofessional relations and communication, legal and business concepts, and continuous quality assurance and improvement in practice. A series of lectures and workshops delivered in an intensive format over two weeks. This course is delivered through synchronous and asynchronous online coursework while learners are in distributed clinical placements."
+  },
+  "MIDW 326": {
+    "subject_code": "MIDW",
+    "course_code": "326",
+    "credit": "2",
+    "course_name": "Dialogue and Decisions: Advancing Person-Centred Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Build knowledge and competencies to navigate complex human interactions around decisions in health care. Flexible, online course for health professional learners. Learning activities include small group, cross-profession discussions, best practice video exemplars, case-based and self-reflection exercises, and a simulation. This course is open to all health professions learners. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 328": {
+    "subject_code": "MIDW",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Professionalism in Community-based Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Prepares students for interprofessional and community-based placements. Professionalism and principles of community health and healthcare in rural and remote, Indigenous communities, and global health contexts. Prerequisites: MIDW_V 305 and MIDW_V 320. Corequisite: MIDW_V 326 This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 350": {
+    "subject_code": "MIDW",
+    "course_code": "350",
+    "credit": "4-12",
+    "course_name": "Interprofessional Placement",
+    "faculty": "Faculty of Medicine",
+    "description": "Opportunities to explore health professions that partner with midwives to care for the childbearing family within the province. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 355": {
+    "subject_code": "MIDW",
+    "course_code": "355",
+    "credit": "8",
+    "course_name": "Interprofessional Placements in Perinatal Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Eight weeks of rotation through different interprofessional clinical settings. Students develop inter-professional competencies, working with and learning the roles and scopes of various general practitioners and/or specialists in perinatal care. Pass/Fail. Prerequisites: MIDW_V 322, MIDW_V 326 and MIDW_V 328. Corequisite: MIDW_V 365 This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 365": {
+    "subject_code": "MIDW",
+    "course_code": "365",
+    "credit": "4",
+    "course_name": "Community Health Placement",
+    "faculty": "Faculty of Medicine",
+    "description": "A student-selected, four-week clinical or non-clinical placement in one of 4 settings: global community health, rural and remote community health, Indigenous community health, or a self-selected focus in community health. Pass/Fail. Prerequisites: MIDW_V 322, MIDW_V 326 and MIDW_V 328. Corequisite: MIDW_V 355 This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 405": {
+    "subject_code": "MIDW",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Theory for Advanced Midwifery Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical principles for midwifery care of pregnancy, labour, birth, newborns, and the puerperium. Emphasis on assessment and management skills for abnormal situations. Includes a five-day intensive session in Vancouver, a series of online tutorials, and lab practice. [1-2-3]"
+  },
+  "MIDW 420": {
+    "subject_code": "MIDW",
+    "course_code": "420",
+    "credit": "12",
+    "course_name": "Midwifery Clinical Care - Abnormal and Unexpected Conditions",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical education for midwifery care of pregnancy, birth, and the puerperium with an emphasis on abnormal situations in pregnancy, labour and birth, and in newborns. Clinical practicum around the province. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 435": {
+    "subject_code": "MIDW",
+    "course_code": "435",
+    "credit": "4",
+    "course_name": "Comprehensive Midwifery Theory and Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "In-depth review of the theoretical principles and evidence basis for comprehensive midwifery care through tutorials and case reviews."
+  },
+  "MIDW 440": {
+    "subject_code": "MIDW",
+    "course_code": "440",
+    "credit": "13",
+    "course_name": "Clinical Clerkship",
+    "faculty": "Faculty of Medicine",
+    "description": "Students assume a primary care role in clinical placements in midwifery practices across the provinces. Demonstration of independent decision making and application of the full range of their academic knowledge to professional practice. A practicum under the supervision of a registered midwife. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MIDW 499": {
+    "subject_code": "MIDW",
+    "course_code": "499",
+    "credit": "1-15",
+    "course_name": "Midwifery Self-Directed Course",
+    "faculty": "Faculty of Medicine",
+    "description": "Unique self-directed elective learning opportunities. This course is not eligible for Credit/D/Fail grading."
+  }
+}

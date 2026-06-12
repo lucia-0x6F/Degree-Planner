@@ -1,0 +1,138 @@
+{
+  "RES 500": {
+    "subject_code": "RES",
+    "course_code": "500",
+    "credit": "3-12",
+    "course_name": "Resource and Environmental Workshop",
+    "faculty": "Faculty of Science",
+    "description": "Faculty and students from different disciplines act as an interdisciplinary team studying specific resource problems with ecological, economic, demographic and social dimensions. Techniques and methods are emphasized to show their value in integrating knowledge, defining policy and facilitating communication. Several sections with different emphasis offered each year. Prerequisite: Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 501": {
+    "subject_code": "RES",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Development of Environmental Thought",
+    "faculty": "Faculty of Science",
+    "description": "History and philosophy of Western environmental thought; changes in concepts of human nature and external nature over time; critiques of modern industrial society. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 502": {
+    "subject_code": "RES",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Master's Seminar on Resources and Environment",
+    "faculty": "Faculty of Science",
+    "description": "Environment and resource management goals and issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 504": {
+    "subject_code": "RES",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Survey Design in Interdisciplinary Environmental Social Science",
+    "faculty": "Faculty of Science",
+    "description": "Survey design focusing on stated and revealed environmental preferences, choices, behaviour and values. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 505": {
+    "subject_code": "RES",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Qualitative Methods in Interdisciplinary Contexts",
+    "faculty": "Faculty of Science",
+    "description": "Research design, data quality, analysis, representation, ethics review, structured and unstructured interviews, field observations, survey design. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 506": {
+    "subject_code": "RES",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Human Dimensions of Conservation",
+    "faculty": "Faculty of Science",
+    "description": "History of wilderness and protected areas; ecological dynamics underpinning biodiversity; evaluating the success of protected areas and ecological dynamics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 507": {
+    "subject_code": "RES",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Human Technological Systems",
+    "faculty": "Faculty of Science",
+    "description": "Critical analysis of harms and benefits, and anticipation of global technological innovations, as they interact with social behaviour. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 508": {
+    "subject_code": "RES",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Ecosystem Services",
+    "faculty": "Faculty of Science",
+    "description": "Fostering sustainable management of ecosystem-based activities, for the competing and complementary ends of sustaining and enhancing human well-being and protecting biodiversity. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 509": {
+    "subject_code": "RES",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Advanced Conservation Science",
+    "faculty": "Faculty of Science",
+    "description": "Equivalency: ZOOL_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 510": {
+    "subject_code": "RES",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Social Ecological Systems",
+    "faculty": "Faculty of Science",
+    "description": "Dynamics of environmental issues across temporal and spatial scales using disciplinary and interdisciplinary approaches to integrating sociological, cultural, and ecological perspectives. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 520": {
+    "subject_code": "RES",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Climate Change: Science, Technology and Sustainable Development",
+    "faculty": "Faculty of Science",
+    "description": "Interdisciplinary science of climate change and its impacts; options for mitigation and adaptation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 530": {
+    "subject_code": "RES",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Knowledge, Policy and Values in Risk and Resource Management",
+    "faculty": "Faculty of Science",
+    "description": "The course focuses on the role of values, science and validity of alternate knowledge systems. Included in the dialogue are the democratization of science, uncertainty, adaptive scientific practices and the values that govern management programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 542": {
+    "subject_code": "RES",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Integrated Assessment",
+    "faculty": "Faculty of Science",
+    "description": "Basic skills for quantitative analysis including probability, validity of quantitative statements and experimental design to test hypothesis validity. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 550": {
+    "subject_code": "RES",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Environmental Policy Analysis",
+    "faculty": "Faculty of Science",
+    "description": "Determination of risks and values in environmental policy decisions. Equivalency: PLAN_V 599. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 599": {
+    "subject_code": "RES",
+    "course_code": "599",
+    "credit": "12-15",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 602": {
+    "subject_code": "RES",
+    "course_code": "602",
+    "credit": "3",
+    "course_name": "Doctoral Seminar on Resources and Environment",
+    "faculty": "Faculty of Science",
+    "description": "Environment and resource management goals and issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RES 699": {
+    "subject_code": "RES",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

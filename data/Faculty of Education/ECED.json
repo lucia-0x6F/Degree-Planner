@@ -1,0 +1,266 @@
+{
+  "ECED 380": {
+    "subject_code": "ECED",
+    "course_code": "380",
+    "credit": "3-12",
+    "course_name": "Selected Topics in Infant Development and Supported Child Development",
+    "faculty": "Faculty of Education",
+    "description": "Formerly EPSE_V 380."
+  },
+  "ECED 400": {
+    "subject_code": "ECED",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Introduction to Early Childhood Education and Care",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 401": {
+    "subject_code": "ECED",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Supporting Young Children's Health and Well-Being in Early Childhood Settings",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 405": {
+    "subject_code": "ECED",
+    "course_code": "405",
+    "credit": "1-3",
+    "course_name": "Foundations of Curriculum and Instruction in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "ECED 406": {
+    "subject_code": "ECED",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Early Learning Curriculum in the Pre-School Years",
+    "faculty": "Faculty of Education",
+    "description": "The development of pre-kindergarten programs with reference to recent research, theories of early learning, and curriculum trends and practices."
+  },
+  "ECED 407": {
+    "subject_code": "ECED",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Supporting Early Learning in the Pre-School Years",
+    "faculty": "Faculty of Education",
+    "description": "Planning and implementing pre-kindergarten learning experiences; resources, materials, curriculum integration, evaluation, scheduling, and classroom design."
+  },
+  "ECED 415": {
+    "subject_code": "ECED",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Supporting Learning in The Primary Years.",
+    "faculty": "Faculty of Education",
+    "description": "Designing environments, experiences, activities, instruction, and assessment to foster children's learning in the primary years (grades 1-3)."
+  },
+  "ECED 416": {
+    "subject_code": "ECED",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Kindergarten Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "The development of kindergarten programs with reference to recent research, theories of early learning, curriculum trends and practices, and the place of kindergarten in contemporary education."
+  },
+  "ECED 417": {
+    "subject_code": "ECED",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Supporting Learning in the Kindergarten Year",
+    "faculty": "Faculty of Education",
+    "description": "Designing environments, experiences, activities, instruction, and assessment to foster children's learning in the kindergarten year."
+  },
+  "ECED 420": {
+    "subject_code": "ECED",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "History of Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "Political and social factors which influenced movements and trends in early childhood education in North America, pre-kindergarten through primary."
+  },
+  "ECED 421": {
+    "subject_code": "ECED",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Supporting Young Children Through Home, School, and Community Relationships",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "ECED 425": {
+    "subject_code": "ECED",
+    "course_code": "425",
+    "credit": "3-6",
+    "course_name": "Advanced Studies in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 438": {
+    "subject_code": "ECED",
+    "course_code": "438",
+    "credit": "3",
+    "course_name": "Observation and Documentation in Early Childhood Settings",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "ECED 439": {
+    "subject_code": "ECED",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "Assessment of Infants and Young Children with Special Needs",
+    "faculty": "Faculty of Education",
+    "description": "(Formerly EPSE 420)."
+  },
+  "ECED 440": {
+    "subject_code": "ECED",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Supporting Social and Communication Development in Infants and Young Children with Special Needs",
+    "faculty": "Faculty of Education",
+    "description": "(Formerly EPSE 440)."
+  },
+  "ECED 441": {
+    "subject_code": "ECED",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Early Intervention for Infants and Young Children with Sensory Loss and Motor Impairments",
+    "faculty": "Faculty of Education",
+    "description": "(Formerly EPSE 441)."
+  },
+  "ECED 442": {
+    "subject_code": "ECED",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Supporting Indigenous Infants and Young Children within the Context of Their Communities",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "ECED 480": {
+    "subject_code": "ECED",
+    "course_code": "480",
+    "credit": "1-12",
+    "course_name": "Selected Topics in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "ECED 490": {
+    "subject_code": "ECED",
+    "course_code": "490",
+    "credit": "2",
+    "course_name": "Early Childhood Education Practicum & Seminar I",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: All of ECED_V 400, ECED_V 438. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 491": {
+    "subject_code": "ECED",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Early Childhood Education Practicum & Seminar II",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: All of ECED_V 400, ECED_V 401, ECED_V 438, ECED_V 490, EPSE_V 406. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 495": {
+    "subject_code": "ECED",
+    "course_code": "495",
+    "credit": "4",
+    "course_name": "Early Childhood Education Practicum & Seminar III",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: All of ECED_V 400, ECED_V 401, ECED_V 406, ECED_V 407, ECED_V 438, ECED_V 490, ECED_V 491, EPSE_V 406. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 508": {
+    "subject_code": "ECED",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Review of Research in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 530": {
+    "subject_code": "ECED",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Early Childhood Development, Intervention, and Inclusion in Early Childhood Programs",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 531": {
+    "subject_code": "ECED",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Supporting Young Children's Social Emotional Learning in Early Childhood Programs",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 532": {
+    "subject_code": "ECED",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Sociocultural Perspectives in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 533": {
+    "subject_code": "ECED",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Leadership and Policy in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 561": {
+    "subject_code": "ECED",
+    "course_code": "561",
+    "credit": "3-12",
+    "course_name": "Laboratory Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 565": {
+    "subject_code": "ECED",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "Special Course in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 580": {
+    "subject_code": "ECED",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Problems in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 585": {
+    "subject_code": "ECED",
+    "course_code": "585",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar on Research in Early Childhood Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 590": {
+    "subject_code": "ECED",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Project",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 598": {
+    "subject_code": "ECED",
+    "course_code": "598",
+    "credit": "3-12",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "For those in master's, doctoral, and diploma programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECED 599": {
+    "subject_code": "ECED",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

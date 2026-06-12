@@ -1,0 +1,826 @@
+{
+  "EDST 314": {
+    "subject_code": "EDST",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Social Issues in Education",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 400": {
+    "subject_code": "EDST",
+    "course_code": "400",
+    "credit": "2-5",
+    "course_name": "Social and Ethical Considerations in Education",
+    "faculty": "Faculty of Education",
+    "description": "[5-0-0]"
+  },
+  "EDST 401": {
+    "subject_code": "EDST",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Education, School, and Social Institutions",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 403": {
+    "subject_code": "EDST",
+    "course_code": "403",
+    "credit": "1",
+    "course_name": "Education, Knowledge, and Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 404": {
+    "subject_code": "EDST",
+    "course_code": "404",
+    "credit": "1",
+    "course_name": "Ethics and Teaching",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 425": {
+    "subject_code": "EDST",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Educational Anthropology",
+    "faculty": "Faculty of Education",
+    "description": "Selected concepts from educational anthropology for teachers. Comparative study of school and classroom culture, school teaching, and multicultural education. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 426": {
+    "subject_code": "EDST",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "History of Education",
+    "faculty": "Faculty of Education",
+    "description": "An examination of selected topics in the history of Canadian and British Columbian education and of the relationships between historical development and current educational policy."
+  },
+  "EDST 427": {
+    "subject_code": "EDST",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Philosophy of Education",
+    "faculty": "Faculty of Education",
+    "description": "An introductory course in which consideration is given to the philosophical foundations of education and to the practical bearing of theory upon curriculum content and classroom practice in our schools."
+  },
+  "EDST 428": {
+    "subject_code": "EDST",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "The Social Foundations of Education",
+    "faculty": "Faculty of Education",
+    "description": "An application of the social sciences to the study of education. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 429": {
+    "subject_code": "EDST",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Educational Sociology",
+    "faculty": "Faculty of Education",
+    "description": "Selected theories of society and schooling applied to Canadian education."
+  },
+  "EDST 451": {
+    "subject_code": "EDST",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Issues and Frameworks in Environmental Education",
+    "faculty": "Faculty of Education",
+    "description": "Competing conceptions of environmental education; the social construction of nature and of science; addressing class, race, culture, and gender in developing sound teaching strategies. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 452": {
+    "subject_code": "EDST",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Gender and Education",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 453": {
+    "subject_code": "EDST",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Moral Education in Elementary and Secondary Schooling",
+    "faculty": "Faculty of Education",
+    "description": "Approaches to moral education; developing educationally and morally justifiable teaching strategies. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 454": {
+    "subject_code": "EDST",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Critical Thinking: Frameworks, Methods, and Challenges",
+    "faculty": "Faculty of Education",
+    "description": "Competing conceptions of critical thinking, including feminist and post-colonial; teaching and evaluation strategies. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 455": {
+    "subject_code": "EDST",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "History of Childhood and Youth",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 493": {
+    "subject_code": "EDST",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Introduction to the Study of Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "An overview of the field of study of higher education in Canada and other countries emphasizing current issues such as accessibility, enrolment, diversity of offerings, and internationalization. [3-0-0]"
+  },
+  "EDST 501": {
+    "subject_code": "EDST",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Research Traditions in Educational Administration",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 502": {
+    "subject_code": "EDST",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Growing Up in History: Critical Approaches to Children and Youth",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 503": {
+    "subject_code": "EDST",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Foundations of Adult Learning and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 504": {
+    "subject_code": "EDST",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "History of Educational Policy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 505": {
+    "subject_code": "EDST",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "First Nations and Educational Change",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 506": {
+    "subject_code": "EDST",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Educating the Body: Physicality and Identity in Historical Perspective",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 507": {
+    "subject_code": "EDST",
+    "course_code": "507",
+    "credit": "3-6",
+    "course_name": "Topics in the History of Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 508": {
+    "subject_code": "EDST",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Review of Research in Educational Studies",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 509": {
+    "subject_code": "EDST",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Constructing Citizens: Canada and the Educational Past",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 510": {
+    "subject_code": "EDST",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Adult Education Research Traditions",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 511": {
+    "subject_code": "EDST",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Organization and Administration of Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 512": {
+    "subject_code": "EDST",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Transitions and Access Across the Life Course",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 513": {
+    "subject_code": "EDST",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Current issues in Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 514": {
+    "subject_code": "EDST",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Adult Education Program Planning Theory",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 515": {
+    "subject_code": "EDST",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Survey Research Methods",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 516": {
+    "subject_code": "EDST",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Adult Education and Community",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 517": {
+    "subject_code": "EDST",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Improvement of Instruction Through Supervision",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 518": {
+    "subject_code": "EDST",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Theory and Research on Adult Learning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 519": {
+    "subject_code": "EDST",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Theory and Research on Adult Instruction",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 520": {
+    "subject_code": "EDST",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Perspectives on Adult Education Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 521": {
+    "subject_code": "EDST",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Foundations of Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 522": {
+    "subject_code": "EDST",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Adult Education Program Planning and Evaluation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 523": {
+    "subject_code": "EDST",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Comparative Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 524": {
+    "subject_code": "EDST",
+    "course_code": "524",
+    "credit": "6",
+    "course_name": "Advanced Seminar in Comparative Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 525": {
+    "subject_code": "EDST",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Program Evaluation in Adult and Community Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 526": {
+    "subject_code": "EDST",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Advanced Study of Educational Organizations",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 527": {
+    "subject_code": "EDST",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Higher Education Policy: International and Comparative Perspectives",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 528": {
+    "subject_code": "EDST",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Social Movements, Political Learning and Popular Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 529": {
+    "subject_code": "EDST",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Qualitative Research Interviewing",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: One of EDUC_V 500, EDST_V 545, EDST_V 571, EPSE_V 595, ETEC_V 500, KIN_V 571. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 530": {
+    "subject_code": "EDST",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Continuing Professional Education and Learning",
+    "faculty": "Faculty of Education",
+    "description": "Study of the history, politics, and pedagogical dimensions of continuing professional education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 531": {
+    "subject_code": "EDST",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "The Politics of Educational Governance",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 532": {
+    "subject_code": "EDST",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Leadership in Educational Organizations",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 533": {
+    "subject_code": "EDST",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Planning in Educational Organizations",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 534": {
+    "subject_code": "EDST",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Theory and Practice of Transformative Learning and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 535": {
+    "subject_code": "EDST",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Comparative and International Adult Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 536": {
+    "subject_code": "EDST",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Higher Education Systems in Canada",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 540": {
+    "subject_code": "EDST",
+    "course_code": "540",
+    "credit": "3-6",
+    "course_name": "Locating Oneself in Global Learning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 541": {
+    "subject_code": "EDST",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Adult Learning: Contexts and Perspectives",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 542": {
+    "subject_code": "EDST",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Fostering Learning in Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 543": {
+    "subject_code": "EDST",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Understanding Research",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 544": {
+    "subject_code": "EDST",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Global/Local Learning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 545": {
+    "subject_code": "EDST",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Indigenous Inquiry and Research",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 546": {
+    "subject_code": "EDST",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Indigenous Methodology and Epistemology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 548": {
+    "subject_code": "EDST",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Critical Perspectives on Teacher Unions in Educational Leadership",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 550": {
+    "subject_code": "EDST",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "The Role of the School Principal",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 551": {
+    "subject_code": "EDST",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Personnel Administration in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 552": {
+    "subject_code": "EDST",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "School Law",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 553": {
+    "subject_code": "EDST",
+    "course_code": "553",
+    "credit": "3-6",
+    "course_name": "Group Inquiry into Educational Practices",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 554": {
+    "subject_code": "EDST",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Administration and Educational Policy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 555": {
+    "subject_code": "EDST",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Educational Finance",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 556": {
+    "subject_code": "EDST",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Leadership and Administration of Educational Programs",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 557": {
+    "subject_code": "EDST",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Professional Ethics and School Leadership",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 558": {
+    "subject_code": "EDST",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "Antiracism Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 560": {
+    "subject_code": "EDST",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Institutional Analysis and Planning in Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 561": {
+    "subject_code": "EDST",
+    "course_code": "561",
+    "credit": "3-6",
+    "course_name": "Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 565": {
+    "subject_code": "EDST",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "Special Course in Subject Matter Field",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 570": {
+    "subject_code": "EDST",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Topics in Sociology of Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 571": {
+    "subject_code": "EDST",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Educational Research: Relating Questions, Theory, and Methodology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 572": {
+    "subject_code": "EDST",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Research, Writing, and Representation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 573": {
+    "subject_code": "EDST",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Sociology of the Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 574": {
+    "subject_code": "EDST",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Cultural Studies and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 575": {
+    "subject_code": "EDST",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Work and Learning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 576": {
+    "subject_code": "EDST",
+    "course_code": "576",
+    "credit": "3",
+    "course_name": "Feminist Theory, Pedagogy and Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 577": {
+    "subject_code": "EDST",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Social Contexts of Educational Policy, Politics and Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 578": {
+    "subject_code": "EDST",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Multiculturalism and its Critical Alternatives: Diversity in Education and Society",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 579": {
+    "subject_code": "EDST",
+    "course_code": "579",
+    "credit": "3",
+    "course_name": "School-Community Relations",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 580": {
+    "subject_code": "EDST",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Directed Study",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 581": {
+    "subject_code": "EDST",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Leadership, Administration, and the Aims of Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 582": {
+    "subject_code": "EDST",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "The Study of Educational Organizations",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 583": {
+    "subject_code": "EDST",
+    "course_code": "583",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Educational Studies",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 585": {
+    "subject_code": "EDST",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Capstone: Society, Culture, and Politics in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 588": {
+    "subject_code": "EDST",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Environmental Philosophy and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 590": {
+    "subject_code": "EDST",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Paper",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 591": {
+    "subject_code": "EDST",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Indigenous Epistemology and Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 592": {
+    "subject_code": "EDST",
+    "course_code": "592",
+    "credit": "3-6",
+    "course_name": "Topics in Philosophy of Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 593": {
+    "subject_code": "EDST",
+    "course_code": "593",
+    "credit": "3-6",
+    "course_name": "Ethics and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 594": {
+    "subject_code": "EDST",
+    "course_code": "594",
+    "credit": "3",
+    "course_name": "Philosophy of Educational Research",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 595": {
+    "subject_code": "EDST",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Philosophical Research in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 596": {
+    "subject_code": "EDST",
+    "course_code": "596",
+    "credit": "3",
+    "course_name": "Philosophy and Educational Policy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 597": {
+    "subject_code": "EDST",
+    "course_code": "597",
+    "credit": "3",
+    "course_name": "Educational Theories: Equality, Democracy, and Justice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 598": {
+    "subject_code": "EDST",
+    "course_code": "598",
+    "credit": "3-6",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 599": {
+    "subject_code": "EDST",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 601": {
+    "subject_code": "EDST",
+    "course_code": "601",
+    "credit": "3-6",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Education",
+    "description": "Required of students in the first year of a doctoral program. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 602": {
+    "subject_code": "EDST",
+    "course_code": "602",
+    "credit": "3-6",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Education",
+    "description": "For students in the first or second year of a doctoral program as determined in consultation with the student's supervisor. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 603": {
+    "subject_code": "EDST",
+    "course_code": "603",
+    "credit": "3",
+    "course_name": "Researching Educational Practice & Policy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 604": {
+    "subject_code": "EDST",
+    "course_code": "604",
+    "credit": "3",
+    "course_name": "Advanced Seminar in Researching Educational Practice & Policy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDST 699": {
+    "subject_code": "EDST",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

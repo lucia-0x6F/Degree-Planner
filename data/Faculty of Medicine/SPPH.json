@@ -1,0 +1,898 @@
+{
+  "SPPH 200": {
+    "subject_code": "SPPH",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Understanding the Sociocultural Determinants of the Health of Populations",
+    "faculty": "Faculty of Medicine",
+    "description": "The idea of \"population health,\" and the implementation and evaluation of programs or policies to improve health. Open to all students. [3-0-0]"
+  },
+  "SPPH 300": {
+    "subject_code": "SPPH",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Working in Global Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Planning/preparing for work in global health, with attention to health inequities and determinants internationally and domestically, the pursuit of partnerships to address this, power imbalances and ethical principles for carrying out this work. Health Science background not essential."
+  },
+  "SPPH 301": {
+    "subject_code": "SPPH",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Understanding the Sociocultural Determinants of the Health of Populations",
+    "faculty": "Faculty of Medicine",
+    "description": "The idea of \"population health,\" and the implementation and evaluation of programs or policies to improve health. Open to all students. [3-0-0]"
+  },
+  "SPPH 302": {
+    "subject_code": "SPPH",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Topics in Health Informatics for Health/Life Sciences Students",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic literacy in health informatics. Innovative approaches to healthcare implementation, access to care, and data utilization."
+  },
+  "SPPH 303": {
+    "subject_code": "SPPH",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Environmental Impacts on Human Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Harmful environmental exposures in water, air, food; aspects of environment that are beneficial for health; environmental justice; emerging environmental health threats; how epidemiology and risk assessment inform public health policy and practice."
+  },
+  "SPPH 304": {
+    "subject_code": "SPPH",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Canadian Health Care Policy",
+    "faculty": "Faculty of Medicine",
+    "description": "Features of the Canadian health care system, stages in the evolution of Medicare, and how institutions, interests, and ideas shape health care policies."
+  },
+  "SPPH 381": {
+    "subject_code": "SPPH",
+    "course_code": "381",
+    "credit": "1-9",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Medicine",
+    "description": "By seminar and directed readings, certain topics of current interest are explored in depth. Multiple versions may be taken."
+  },
+  "SPPH 401": {
+    "subject_code": "SPPH",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Basic Epidemiology for Infection Control",
+    "faculty": "Faculty of Medicine",
+    "description": "Epidemiology, study, design and analysis, and outbreak investigation as it applies to institutional infection control. Equivalency: PATH 477"
+  },
+  "SPPH 404": {
+    "subject_code": "SPPH",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Indigenous Health: Historical Impacts and Contemporary Approaches",
+    "faculty": "Faculty of Medicine",
+    "description": "This course covers an epistemological approach that considers the social determinants of health and Indigenous spiritual-environmental and cultural perspectives and approaches to health and wellness."
+  },
+  "SPPH 406": {
+    "subject_code": "SPPH",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Aging from an Interdisciplinary Perspective",
+    "faculty": "Faculty of Medicine",
+    "description": "Population and Public Health issues associated with aging."
+  },
+  "SPPH 408": {
+    "subject_code": "SPPH",
+    "course_code": "408",
+    "credit": "6",
+    "course_name": "Topics in Aboriginal Health: Community-based Learning Experience",
+    "faculty": "Faculty of Medicine",
+    "description": "In-depth cultural and interprofessional learning experience that enables students to live and study in BC First Nations communities while learning about health, wellness, and community strengths from a local perspective."
+  },
+  "SPPH 409": {
+    "subject_code": "SPPH",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "International Indigenous Experiences of Colonization",
+    "faculty": "Faculty of Medicine",
+    "description": "Interprofessional, comparative inquiry of Indigenous experiences of global colonization and the manifestations of that experience in the contemporary socio-cultural environment. Informed and guided by Indigenous knowledge and drawing upon a range of disciplines."
+  },
+  "SPPH 410": {
+    "subject_code": "SPPH",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Improving Public Health: An Interprofessional Approach to Designing and Implementing Effective Interventions",
+    "faculty": "Faculty of Medicine",
+    "description": "Improving public health by developing the skills to design and deliver pragmatic, effective health behavior change interventions."
+  },
+  "SPPH 411": {
+    "subject_code": "SPPH",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Violence Across the Lifespan",
+    "faculty": "Faculty of Medicine",
+    "description": "Overview of violence across the lifespan. Epidemiology, dynamics, health effects, intervention and prevention."
+  },
+  "SPPH 412": {
+    "subject_code": "SPPH",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Prison Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Interdisciplinary examination of population and public health issues among incarcerated groups, applying human rights principles and health care standards within carceral settings, and reviewing critical epidemiological approaches to understand global health inequities affecting incarcerated populations."
+  },
+  "SPPH 481": {
+    "subject_code": "SPPH",
+    "course_code": "481",
+    "credit": "1-9",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Medicine",
+    "description": "By seminar and directed readings, certain topics of current interest are explored in depth. Multiple versions may be taken."
+  },
+  "SPPH 500": {
+    "subject_code": "SPPH",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Analytical Methods in Epidemiological Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic epidemiological designs as a framework for commonly used biostatistical techniques such as the Mantel-Haenszel, chi-squared, linear and logistic regression, and survival analysis. Computer packages will be available for computation of assignments. Prerequisite: Either (a) all of SPPH_V 400, SPPH_V 502 or (b) all of SPPH_V 521, SPPH_V 502 or (c) all of SPPH_V 567, SPPH_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 501": {
+    "subject_code": "SPPH",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Analysis of Longitudinal Data from Epidemiological Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "To explore and compare methods of analyzing continuous and categorical longitudinal data. The issues of missing data and errors in measurement/misclassification will be covered in depth. Prerequisite: Either (a) all of SPPH_V 400, SPPH_V 500, SPPH_V 502 or (b) all of SPPH_V 521, SPPH_V 500, SPPH_V 502 or (c) all of SPPH_V 500, SPPH_V 502, SPPH_V 567. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 502": {
+    "subject_code": "SPPH",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Epidemiological Methods 1",
+    "faculty": "Faculty of Medicine",
+    "description": "Sources and uses of epidemiologic data for health services planning and administration including methods of data collection and study design. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 503": {
+    "subject_code": "SPPH",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Epidemiological Methods 2",
+    "faculty": "Faculty of Medicine",
+    "description": "Critical thinking in epidemiology; principles and methods of study design; context for epidemiological investigations of human health. Prerequisite: SPPH 502 and one of SPPH 400 or SPPH 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 504": {
+    "subject_code": "SPPH",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Application of Epidemiological Methods",
+    "faculty": "Faculty of Medicine",
+    "description": "This second level course will teach research trainees to apply methods taught in prior courses towards the development of a fundable research protocol and the analysis and interpretation of real epidemiologic data. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and all of SPPH 500, SPPH 502, SPPH 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 505": {
+    "subject_code": "SPPH",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Scientific Basis for Epidemiological Thinking",
+    "faculty": "Faculty of Medicine",
+    "description": "The course will provide a framework for students to use epidemiological and other scientific evidence to make decisions about causation and to recommend policy actions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 506": {
+    "subject_code": "SPPH",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Quantitative Research Methods",
+    "faculty": "Faculty of Medicine",
+    "description": "Major quantitative research designs, measurement reliability and validity, common data sources used, internal and external validity, research proposals, and peer review. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 507": {
+    "subject_code": "SPPH",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "M.Sc. Research Seminar",
+    "faculty": "Faculty of Medicine",
+    "description": "SPPH_V 507 in conjunction with SPPH_V 607 is a required course for students in the M.Sc. program. Students present and discuss their research and other topics of interest. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 508": {
+    "subject_code": "SPPH",
+    "course_code": "508",
+    "credit": "6",
+    "course_name": "M.P.H. Practicum",
+    "faculty": "Faculty of Medicine",
+    "description": "Applied epidemiology and biostatistics in a field setting. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 509": {
+    "subject_code": "SPPH",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Genetic Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Human genetics and genomics, behavioural, social, and environmental factors in modifying or influencing genetics in the manifestation of disease. Prerequisite: SPPH_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 510": {
+    "subject_code": "SPPH",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Survey Methods in Health Measurement",
+    "faculty": "Faculty of Medicine",
+    "description": "Concepts and techniques of measurement in epidemiological research. Topics covered include validity, reliability and misclassification, scale design and the construction of questionnaires and indices for both health outcomes and exposures. Prerequisite: One of SPPH 400, SPPH 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 511": {
+    "subject_code": "SPPH",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Cancer Control and Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Collection and analysis of epidemiological data on cancer; genetic, occupational, and other risk factors; analytic techniques; cancer control, prevention, screening, early detection, and policy issues. Prerequisite: SPPH_V 502. or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 512": {
+    "subject_code": "SPPH",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "The Design and Analysis of Clinical Trials",
+    "faculty": "Faculty of Medicine",
+    "description": "Ethical considerations, intention-to-treat versus efficacy trials, principles of sampling and exclusion, methods of allocation and techniques of randomization, parallel versus cross over design, monitoring treatment outcomes, adverse effects, stopping rules, analytic techniques and data interpretation, and logistical issues in the management of clinical trials. Prerequisite: One of SPPH_V 502, SPPH_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 513": {
+    "subject_code": "SPPH",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Clinical Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles and methods of epidemiology are applied to clinical problems. Evaluation and design of laboratory and clinical tests and of therapeutic interventions. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 514": {
+    "subject_code": "SPPH",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Decision Analysis in Health Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Methods and application of decision analysis to improve health from the perspective of the policy maker, health professional, and patient. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 515": {
+    "subject_code": "SPPH",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Surveillance and Monitoring in Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 516": {
+    "subject_code": "SPPH",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Methods for Systematic Reviews in Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 517": {
+    "subject_code": "SPPH",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Clinical Research methods for Surgical Procedures",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 518": {
+    "subject_code": "SPPH",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Mathematical Modelling of Communicable Diseases",
+    "faculty": "Faculty of Medicine",
+    "description": "Application of mathematical models in understanding communicable disease dynamics and control; interpretation of model outcomes; modelling methods and their applications. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 519": {
+    "subject_code": "SPPH",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Qualitative Methods in Health Research Design",
+    "faculty": "Faculty of Medicine",
+    "description": "Purposes, context, procedures, and relationships within qualitative health research and methologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 520": {
+    "subject_code": "SPPH",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Control of Communicable Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Epidemiology of viral, bacterial and parasitic infections with emphasis on the control of these infections in human populations. Immunization programs will be stressed. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 521": {
+    "subject_code": "SPPH",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Statistics for Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Planned collection, numeric and graphic summarization, elementary statistical analysis of data. Examples from health sciences illustrate standard techniques for parametric and nonparametric hypothesis testing; regression and correlation; contingency tables. Also randomization, \"blindfolding\" and other specifically biomedical topics in statistics. Credit will be granted for only one of SPPH 400 or SPPH 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 522": {
+    "subject_code": "SPPH",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Topics in Environmental Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Role of air, water, food and solid waste as sources of human health risks; global environmental health issues; sustainability. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 523": {
+    "subject_code": "SPPH",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Global Health and Human Security",
+    "faculty": "Faculty of Medicine",
+    "description": "Global threats to human health stemming from conflict, poverty, and environmental degradation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 524": {
+    "subject_code": "SPPH",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Core Biological Concepts of Public Health Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Cell biology, microbiology, molecular science, genetics, physiology, and evolution. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 525": {
+    "subject_code": "SPPH",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Issues and Concepts in Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "History of public health research and practice; occupational and environmental health; health services and systems; social and lifecourse determinants of health; and population health and emerging trends. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 526": {
+    "subject_code": "SPPH",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Leadership in Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Organizational structure; engaging others in an organization; inter-organizational networking; building coalitions; identification of opportunities to bring change to organizations through knowledge development, management, synthesis, and implementation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 527": {
+    "subject_code": "SPPH",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Social Determinants of Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Foundational thinking giving rise to the concept of population health. Overview of the current state of research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 528": {
+    "subject_code": "SPPH",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Rural and Remote Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Issues and solutions to delivery of health services to underserved rural populations. Prerequisite: Either (a) SPPH_V 400 or (b) SPPH_V 521; and SPPH_V 502. Corequisite: SPPH_V 500 This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 529": {
+    "subject_code": "SPPH",
+    "course_code": "529",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Medicine",
+    "description": "Required for all M.H.Sc. students. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 530": {
+    "subject_code": "SPPH",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Epidemiology of Occupational and Environmental Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Design and analysis of etiologic research in occupational health. Prerequisite: SPPH_V 502. Or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 531": {
+    "subject_code": "SPPH",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Health Care Systems Analysis",
+    "faculty": "Faculty of Medicine",
+    "description": "Theory, concepts, measurement, and practical skills using administrative data for analysis of health care systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 532": {
+    "subject_code": "SPPH",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Environmental Health Risk Assessment and Communication",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 533": {
+    "subject_code": "SPPH",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Toxicology and Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Mechanism of action of commonly encountered occupational toxic agents; relevance of laboratory and epidemiological evidence. Prerequisite: Permission of instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 534": {
+    "subject_code": "SPPH",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Occupational Health and Illness Processes",
+    "faculty": "Faculty of Medicine",
+    "description": "Occupational diseases; research, historical perspectives, and surveillance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 535": {
+    "subject_code": "SPPH",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Principles of Occupational and Environmental Hygiene",
+    "faculty": "Faculty of Medicine",
+    "description": "Scientific basis for the recognition, evaluation, and control of chemical, physical, and biological, exposures; standard setting; exposure monitoring methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 536": {
+    "subject_code": "SPPH",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Aboriginal People and Public Health: Ethics, Policy, and Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Experience of colonization; Indian Act; the histories and intergenerational impact of the residential school; child-welfare systems; communicable disease prevention; the challenge of ethical public health practice; and traditional healing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 537": {
+    "subject_code": "SPPH",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Perinatal Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Indicators of maternal/newborn well-being across population subgroups, changing trends in obstetrical intervention, perinatal morbidity, and the analysis of perinatal data. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. Corequisite: SPPH 500 Equivalency: OBST 507 This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 538": {
+    "subject_code": "SPPH",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Application of Ethical Theories in the Practice of Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 539": {
+    "subject_code": "SPPH",
+    "course_code": "539",
+    "credit": "3",
+    "course_name": "Epidemiology of Aging and Chronic Diseases",
+    "faculty": "Faculty of Medicine",
+    "description": "Biology of aging, epidemiology of cardiovascular disease, neoplasms, osteoporosis and fractures, psychosocial factors and health in old age, dementias, functional status, and prevention of disease. Prerequisite: SPPH_V 502, SPPH_V 524. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 540": {
+    "subject_code": "SPPH",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Program Planning and Evaluation",
+    "faculty": "Faculty of Medicine",
+    "description": "Examines the concept of evaluation in health services and how various methodological approaches can be used in evaluative studies. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 541": {
+    "subject_code": "SPPH",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Economic Evaluation",
+    "faculty": "Faculty of Medicine",
+    "description": "Economic evaluation of health service interventions and programs, with emphasis on methods and components of program costing. Prerequisite: Either (a) SPPH 400 or (b) SPPH 521; and SPPH 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 542": {
+    "subject_code": "SPPH",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Canadian Health Policy",
+    "faculty": "Faculty of Medicine",
+    "description": "Analysis of the evolution and structure of the Canadian health care system. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 543": {
+    "subject_code": "SPPH",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Health Technology Assessment for Health Policy",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is an advanced program evaluation course. Prerequisite: SPPH_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 544": {
+    "subject_code": "SPPH",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Socal Determinants of Health Across the Life Course",
+    "faculty": "Faculty of Medicine",
+    "description": "The social determinants of health have profound impacts on inequities across the life course, as do population-level interventions. Builds on SPPH_V 527, with an emphasis on life course perspectives and vulnerable populations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 545": {
+    "subject_code": "SPPH",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Community Health Promotion",
+    "faculty": "Faculty of Medicine",
+    "description": "Practice and community-based (participatory) research related to health promotion, including its historical and philosophical roots. Application of social and behavioural theories to participatory research and the planning, implementation, and evaluation of community health promotion initiatives. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 546": {
+    "subject_code": "SPPH",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Introduction to Health Economics",
+    "faculty": "Faculty of Medicine",
+    "description": "Broad understanding of the health system and health system change from an economics perspective, with a focus on delivery, organization, and financing of healthcare. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 547": {
+    "subject_code": "SPPH",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Health Care Priority Setting",
+    "faculty": "Faculty of Medicine",
+    "description": "Resource allocation, economics and ethics based approaches for decision making, uptake of evidence to inform resource use in health care. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 548": {
+    "subject_code": "SPPH",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Knowledge to Action in Population Health",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 549": {
+    "subject_code": "SPPH",
+    "course_code": "549",
+    "credit": "3",
+    "course_name": "Advanced Economic Evaluation in Health Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Economic evaluation of health technologies, considering, in detail, the policy context for the use of economic evaluation. Prerequisite: SPPH_V 541. Or equivalent training. Equivalency: PHAR_V 560. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 550": {
+    "subject_code": "SPPH",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Public Health Approaches to Substance Use and Addictions",
+    "faculty": "Faculty of Medicine",
+    "description": "Critical examination of strategies regarding addictive behaviours, substance use and related problems, in the context of a multi-disciplinary approach. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 551": {
+    "subject_code": "SPPH",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Pharmacoepidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles and applications of pharmacoepidemiology. Practical skills in designing, conducting, and appraising studies of medications in large populations. Credit will be granted for only one of SPPH 551 or PHAR 561. Prerequisite: Previous coursework in statistics or biostatistics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 552": {
+    "subject_code": "SPPH",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Science and Risk Communication for Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Theory and practice of risk communication in public health, basic principles underlying effective science communication with peers, the media, and the public. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 553": {
+    "subject_code": "SPPH",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Foundations of Public Health Computing",
+    "faculty": "Faculty of Medicine",
+    "description": "Data gathering, cleaning, analysis, and visualization to produce key results using statistical software. Prerequisite: Either (a) SPPH_V 400 or (b) SPPH_V 521; and SPPH_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 554": {
+    "subject_code": "SPPH",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Addiction and Mental Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Severe addiction and mental illness and the systemic context in which they occur. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 555": {
+    "subject_code": "SPPH",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Principles and Practices of Injury Prevention",
+    "faculty": "Faculty of Medicine",
+    "description": "Injury epidemiology; surveillance; development, implementation, and evaluation techniques of preventive strategies; determinants of health; social marketing; injury policy; evidence-based prevention strategies; utilization of injury datasets. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 559": {
+    "subject_code": "SPPH",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Medicine",
+    "description": "Required for Master of Health Administration (M.H.A.) non-thesis program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 562": {
+    "subject_code": "SPPH",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Chemical and Biological Hazard Measurement",
+    "faculty": "Faculty of Medicine",
+    "description": "Industrial hygiene and environmental exposure monitoring, methods, and instrumentation, and theory. Laboratories demonstrate workplace sampling and analysis techniques. [2-3]. Prerequisite: SPPH_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 563": {
+    "subject_code": "SPPH",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Technical Aspects of Occupational Hygiene Hazard Controls",
+    "faculty": "Faculty of Medicine",
+    "description": "Industrial ventilation, heating and air conditioning systems, respiratory protection, chemical protective clothing. Prerequisite: SPPH_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 564": {
+    "subject_code": "SPPH",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Advanced Topics in Occupational and Environmental Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Recommended: SPPH_V 567 or an equivalent statistics or quantitative course is recommended. Prerequisite: All of SPPH_V 502, SPPH_V 535. Corequisite: SPPH_V 522. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 565": {
+    "subject_code": "SPPH",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Ergonomics",
+    "faculty": "Faculty of Medicine",
+    "description": "Human factors in workplace design, anthropometry, work physiology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 566": {
+    "subject_code": "SPPH",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Occupational Hygiene Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Application of occupational hygiene principles using field investigations, critical appraisal of results, and communication with labour and management. [2-3]. Prerequisite: SPPH_V 562. Corequisite: SPPH_V 563. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 567": {
+    "subject_code": "SPPH",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Quantitative Methods for the Assessment and Analysis of Exposure Data",
+    "faculty": "Faculty of Medicine",
+    "description": "Determinants of exposure, sampling strategies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 568": {
+    "subject_code": "SPPH",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Occupational Safety Programs and Systems",
+    "faculty": "Faculty of Medicine",
+    "description": "Safety management; systems analysis; accident investigation; collection of accident data; fault trees; total loss control. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 569": {
+    "subject_code": "SPPH",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Industrial and Environmental Acoustics and Vibration",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamentals of acoustics and vibrations, physiologic effects, measurement, instrumentation, interpretation of data, industrial standards, and control. For students in Occupational and Environmental Hygiene; other graduate students may enrol with permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 570": {
+    "subject_code": "SPPH",
+    "course_code": "570",
+    "credit": "6",
+    "course_name": "Current Issues in Public Health Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 571": {
+    "subject_code": "SPPH",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Public Health, Transportation, and the Built Environment",
+    "faculty": "Faculty of Medicine",
+    "description": "Health issues associated with transportation and the built environment; design of urban form for non-motorized transportation for the improvement of personal and environmental health; factors that impact transportation choices; applying findings from research to specific transportation planning processes and projects. Credit will be granted for only one of PLAN_V 579 or SPPH_V 571. Equivalency: PLAN_V 579. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 576": {
+    "subject_code": "SPPH",
+    "course_code": "576",
+    "credit": "1.5",
+    "course_name": "Introduction to Indigenous Health Research Ethics",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles and regulatory requirements related to conducting health research with Indigenous communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 577": {
+    "subject_code": "SPPH",
+    "course_code": "577",
+    "credit": "1.5",
+    "course_name": "Environmental Health and Indigenous Communities",
+    "faculty": "Faculty of Medicine",
+    "description": "Environmental risk factors faced by Indigenous communities in land, air and water. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 578": {
+    "subject_code": "SPPH",
+    "course_code": "578",
+    "credit": "1.5",
+    "course_name": "Social Determinants of Indigenous Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Survey of impacts of land and resources, housing, education, criminal justice systems, child apprehension and other determinants on the health of Indigenous peoples in Canada. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 579": {
+    "subject_code": "SPPH",
+    "course_code": "579",
+    "credit": "1.5",
+    "course_name": "Collecting, Analyzing and Using Public Health Data in Indigenous Communities",
+    "faculty": "Faculty of Medicine",
+    "description": "Applied biostatistics, epidemiology and data management addressing public health priorities and clinical research in Indigenous communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 580": {
+    "subject_code": "SPPH",
+    "course_code": "580",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 581": {
+    "subject_code": "SPPH",
+    "course_code": "581",
+    "credit": "1-9",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Medicine",
+    "description": "By seminar and directed readings, certain topics of current interest are explored in depth. Multiple versions may be taken. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 586": {
+    "subject_code": "SPPH",
+    "course_code": "586",
+    "credit": "1.5",
+    "course_name": "Indigenous Health Policy in Canada",
+    "faculty": "Faculty of Medicine",
+    "description": "Indigenous health policy and history in Canada through four substantive areas: economics and financing; need and demand; ethics, rights and law; quality and effectiveness. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 587": {
+    "subject_code": "SPPH",
+    "course_code": "587",
+    "credit": "1.5",
+    "course_name": "Mental Health Care and Delivery in Indigenous Communities",
+    "faculty": "Faculty of Medicine",
+    "description": "Approaches to mental health and resilience concepts and strength based interventions with Indigenous communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 588": {
+    "subject_code": "SPPH",
+    "course_code": "588",
+    "credit": "1.5",
+    "course_name": "Introduction to Quantitative and Qualitative Research Methods in Indigenous Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Qualitative, quantitative and mixed methods research as applied to Indigenous public health priorities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 589": {
+    "subject_code": "SPPH",
+    "course_code": "589",
+    "credit": "1.5",
+    "course_name": "Interdisciplinary Approach to Understanding the Health of Indigenous Peoples",
+    "faculty": "Faculty of Medicine",
+    "description": "Indigenous health through core public health disciplines and interdisciplinary approaches. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 590": {
+    "subject_code": "SPPH",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "M.P.H. Capstone",
+    "faculty": "Faculty of Medicine",
+    "description": "Restricted to students in the Master of Public Health. Prerequisites: All of SPPH_V 521, SPPH_V 500, SPPH_V 502, SPPH_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 598": {
+    "subject_code": "SPPH",
+    "course_code": "598",
+    "credit": "6",
+    "course_name": "Occupational and Environmental Hygiene Project",
+    "faculty": "Faculty of Medicine",
+    "description": "Applied project on approved topic based on practicum: requires a written and oral report. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 599": {
+    "subject_code": "SPPH",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 604": {
+    "subject_code": "SPPH",
+    "course_code": "604",
+    "credit": "3",
+    "course_name": "Application of Advanced Epidemiological Methods",
+    "faculty": "Faculty of Medicine",
+    "description": "Statistical approaches for confounding, missingness, and complex surveys, the development of analysis plans, the analysis and interpretation of real-world epidemiologic data, and the communication of findings. Prerequisite: All of SPPH_V 500, SPPH_V 502 SPPH_V 503, and one of SPPH_V 400, SPPH_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 607": {
+    "subject_code": "SPPH",
+    "course_code": "607",
+    "credit": "1.5",
+    "course_name": "Ph.D. Research Seminar",
+    "faculty": "Faculty of Medicine",
+    "description": "Required course in Ph.D. program. Topics of current interest will be presented and discussed by students and various faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 610": {
+    "subject_code": "SPPH",
+    "course_code": "610",
+    "credit": "3",
+    "course_name": "Machine Learning for Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Practice-based application of supervised and unsupervised machine learning methods to healthcare data. Application of principles of data science and applied statistical methods. Prerequisite: SPPH_V 500; experience with differential and integral calculus and an analytic programming language such as SAS or R, and permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 611": {
+    "subject_code": "SPPH",
+    "course_code": "611",
+    "credit": "3",
+    "course_name": "Causal Inference in Public Health Sciences",
+    "faculty": "Faculty of Medicine",
+    "description": "In-depth coverage of methods of causal analysis: probabilistic causality, causal diagrams, counterfactuals, mediation analysis, and evaluating treatment effects. Prerequisite: SPPH_V 500, SPPH_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 621": {
+    "subject_code": "SPPH",
+    "course_code": "621",
+    "credit": "3",
+    "course_name": "Approaches to Enquiry in Population and Public Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Research approaches in the area of population and public health; focus on developing research questions and the centrality of research questions in conducting research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 681": {
+    "subject_code": "SPPH",
+    "course_code": "681",
+    "credit": "1-9",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Medicine",
+    "description": "By seminar and directed readings, certain topics of current interest are explored in depth. Multiple versions may be taken. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 699": {
+    "subject_code": "SPPH",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 710": {
+    "subject_code": "SPPH",
+    "course_code": "710",
+    "credit": "0",
+    "course_name": "Current Issues in Public Health Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 711": {
+    "subject_code": "SPPH",
+    "course_code": "711",
+    "credit": "0",
+    "course_name": "Field Experience",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of visits to facilities and organizations related to Community Medicine Practice. Directed by Faculty. At least four hours per month. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 712": {
+    "subject_code": "SPPH",
+    "course_code": "712",
+    "credit": "0",
+    "course_name": "Supervised Work",
+    "faculty": "Faculty of Medicine",
+    "description": "A weekly review by Faculty of the work carried out by the resident with discussion on the objectives, planning, method of operation and outcome. Two hours per week. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 713": {
+    "subject_code": "SPPH",
+    "course_code": "713",
+    "credit": "0",
+    "course_name": "Community Health Tutorials",
+    "faculty": "Faculty of Medicine",
+    "description": "Topics of Public Health interest presented throughout the year by Faculty and guest lecturers. Two hours per month. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 714": {
+    "subject_code": "SPPH",
+    "course_code": "714",
+    "credit": "0",
+    "course_name": "Community Medicine Seminars",
+    "faculty": "Faculty of Medicine",
+    "description": "Selected topics of current interest in Community Medicine Practice or in its basic sciences. Presented by residents and discussed with Faculty and invited guests. Three hours per month. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 715": {
+    "subject_code": "SPPH",
+    "course_code": "715",
+    "credit": "0",
+    "course_name": "Journal Seminars",
+    "faculty": "Faculty of Medicine",
+    "description": "A monthly two-hour seminar on selected journal articles of Community Medicine interest are presented by the residents and discussed with Faculty and invited guests. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 716": {
+    "subject_code": "SPPH",
+    "course_code": "716",
+    "credit": "0",
+    "course_name": "Research in Community Medicine or its Basic Sciences by a Resident",
+    "faculty": "Faculty of Medicine",
+    "description": "Up to two days per week. Supervised by Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 717": {
+    "subject_code": "SPPH",
+    "course_code": "717",
+    "credit": "0",
+    "course_name": "Introduction to Occupational Medicine Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "An introductory survey to Occupational Medicine practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPPH 718": {
+    "subject_code": "SPPH",
+    "course_code": "718",
+    "credit": "0",
+    "course_name": "Fundamentals of Clinical Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Seminar series covering critical appraisal of the medical literature and basic research methods for residents in any post-graduate training program. This course is not eligible for Credit/D/Fail grading."
+  }
+}

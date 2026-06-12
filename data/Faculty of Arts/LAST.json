@@ -1,0 +1,74 @@
+{
+  "LAST 100": {
+    "subject_code": "LAST",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Latin American Studies",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of the peoples, cultures and societies of Latin America, through various disciplinary perspectives."
+  },
+  "LAST 201": {
+    "subject_code": "LAST",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Popular Culture in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "The culture of everyday life, focusing on themes such as music, films, literature, social movements, rituals, and cultural practices."
+  },
+  "LAST 205": {
+    "subject_code": "LAST",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Issues of Development in Modern Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "Critical examination of the theories, practices, and experiences of development and development alternatives in Latin America."
+  },
+  "LAST 225": {
+    "subject_code": "LAST",
+    "course_code": "225",
+    "credit": "3",
+    "course_name": "Climate Justice in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of the geographic, colonial, racialized, and gendered underpinnings and materialities of the climate crisis in Latin America."
+  },
+  "LAST 301": {
+    "subject_code": "LAST",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Human and Civil Rights in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "Human rights movements; state violence and impunity; justice; the rights of Indigenous Peoples, women, and minorities; international protection of human rights; the UN and inter-American systems."
+  },
+  "LAST 303": {
+    "subject_code": "LAST",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Indigenous Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "Historical and contemporary cultures, struggles, and experiences of Indigenous peoples in what is now Latin America. Different cultural areas or regions may be selected to illustrate the course's principal themes."
+  },
+  "LAST 315": {
+    "subject_code": "LAST",
+    "course_code": "315",
+    "credit": "3-6",
+    "course_name": "Topics in Latin American Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website (https://las.arts.ubc.ca/all-courses/) for further details.//"
+  },
+  "LAST 415": {
+    "subject_code": "LAST",
+    "course_code": "415",
+    "credit": "3-6",
+    "course_name": "Seminar in Latin American Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website (https://las.arts.ubc.ca/all-courses/) for further details./ Prerequisite: One of LAST 100, LAST 201, LAST 205, LAST 301, LAST 303, LAST 315."
+  },
+  "LAST 425": {
+    "subject_code": "LAST",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Afro-Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "The Black experience and the diversity of the African diaspora in Latin America."
+  }
+}

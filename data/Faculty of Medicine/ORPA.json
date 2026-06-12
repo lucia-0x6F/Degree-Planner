@@ -1,0 +1,114 @@
+{
+  "ORPA 508": {
+    "subject_code": "ORPA",
+    "course_code": "508",
+    "credit": "2",
+    "course_name": "Advanced Orthopaedics I",
+    "faculty": "Faculty of Medicine",
+    "description": "Selected topics in orthopaedic surgery and related basic sciences. Given in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 509": {
+    "subject_code": "ORPA",
+    "course_code": "509",
+    "credit": "2",
+    "course_name": "Advanced Orthopaedics II",
+    "faculty": "Faculty of Medicine",
+    "description": "The second year of the above program which will be given in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 715": {
+    "subject_code": "ORPA",
+    "course_code": "715",
+    "credit": "0",
+    "course_name": "Orthopaedic Clinic",
+    "faculty": "Faculty of Medicine",
+    "description": "Evaluation of new patients and diagnosis and treatment of appropriate diseases. Basic signs and clinical features are both stressed in the total management of the patient. Two hours per week in the Outpatient Department under supervision of an orthopaedics faculty member. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 716": {
+    "subject_code": "ORPA",
+    "course_code": "716",
+    "credit": "0",
+    "course_name": "Orthopaedic Bedside Clinic",
+    "faculty": "Faculty of Medicine",
+    "description": "Evaluation of orthopaedic diseases and injuries in patients at bedside. A review of clinical features is correlated with relevant physiology and pathology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 717": {
+    "subject_code": "ORPA",
+    "course_code": "717",
+    "credit": "0",
+    "course_name": "Orthopaedic Grand Rounds",
+    "faculty": "Faculty of Medicine",
+    "description": "Formal presentations by the orthopaedic residents, fellows, faculty and guests. Subject matter includes the whole spectrum of orthopaedics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 718": {
+    "subject_code": "ORPA",
+    "course_code": "718",
+    "credit": "0",
+    "course_name": "Rheumatology Conference",
+    "faculty": "Faculty of Medicine",
+    "description": "Patients with a variety of rheumatological disorders are presented for discussion and evaluation in this combined conference, which rheumatologists and orthopaedic surgeons who have a special interest in reconstructive surgery attend. During each weekly two hour session, patients with difficult management problems are presented for clinical evaluation and discussion of medical and orthopaedic treatment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 719": {
+    "subject_code": "ORPA",
+    "course_code": "719",
+    "credit": "0",
+    "course_name": "Orthopaedic Surgical Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "A course in clinical anatomy as applied to orthopaedics. A regional approach involving surgical dissections in cadavers. Each session lasts two hours. Emphasis is on surgical anatomical approach. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 720": {
+    "subject_code": "ORPA",
+    "course_code": "720",
+    "credit": "0",
+    "course_name": "Orthopaedic Basic Science Course",
+    "faculty": "Faculty of Medicine",
+    "description": "Weekly lectures by orthopaedic faculty and guest faculty from other departments. Lecture topics include applied physiology, anatomy, and pathology as they relate to orthopaedic diseases. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 721": {
+    "subject_code": "ORPA",
+    "course_code": "721",
+    "credit": "0",
+    "course_name": "Orthopaedic Seminars",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of seminars is given weekly, and during each 2-hour session a topic in clinical orthopaedics is reviewed. The subject matter includes the whole spectrum of orthopaedics. One or more faculty members are in attendance at each seminar. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 722": {
+    "subject_code": "ORPA",
+    "course_code": "722",
+    "credit": "0",
+    "course_name": "Paediatric Orthopaedics",
+    "faculty": "Faculty of Medicine",
+    "description": "Case presentation in paediatric orthopaedics, stressing history, physical findings and total management of the patient, including a review of paediatric fractures with x-rays. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 723": {
+    "subject_code": "ORPA",
+    "course_code": "723",
+    "credit": "0",
+    "course_name": "Orthopaedic Surgery",
+    "faculty": "Faculty of Medicine",
+    "description": "The practical application of orthopaedics in the operating room with discussion of techniques of surgery, anatomy, pathology, pathophysiology and complications of diseases. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 724": {
+    "subject_code": "ORPA",
+    "course_code": "724",
+    "credit": "0",
+    "course_name": "Trauma Rounds",
+    "faculty": "Faculty of Medicine",
+    "description": "Orthopaedic traumatology is reviewed, with emphasis being placed on applied basic science, surgical anatomy, diagnosis and definitive management. These sessions are supervised by a faculty member and are held weekly, each session lasting one hour. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 725": {
+    "subject_code": "ORPA",
+    "course_code": "725",
+    "credit": "0",
+    "course_name": "Bone Tumour Registry",
+    "faculty": "Faculty of Medicine",
+    "description": "A review of musculoskeletal oncology and related problems with presentation of clinical and laboratory information, radiographs and pathological materials. One and one-half hours monthly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ORPA 904": {
+    "subject_code": "ORPA",
+    "course_code": "904",
+    "credit": "0",
+    "course_name": "Seminar in Orthopaedics",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of 60 seminars in orthopaedics and traumatic surgery given over a two-year period: thirty sessions in each of the two years. One evening per week throughout the Winter Session. For post-graduate students proceeding to Certification and Fellowship of the Royal College of Physicians and Surgeons of Canada. This course is not eligible for Credit/D/Fail grading."
+  }
+}

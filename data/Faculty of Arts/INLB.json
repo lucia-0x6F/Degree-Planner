@@ -1,0 +1,98 @@
+{
+  "INLB 201": {
+    "subject_code": "INLB",
+    "course_code": "201",
+    "credit": "3-12",
+    "course_name": "Special Topics in Indigenous Land-based Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics and location will vary from year to year. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 210": {
+    "subject_code": "INLB",
+    "course_code": "210",
+    "credit": "3-12",
+    "course_name": "Land and Indigenous Self-Determination: Introduction to Theoretical Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural, political, and economic context that informs the experiences of Indigenous people and communities. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 220": {
+    "subject_code": "INLB",
+    "course_code": "220",
+    "credit": "3-12",
+    "course_name": "Land and Indigenous Self-Determination: Introduction to Methods and Application",
+    "faculty": "Faculty of Arts",
+    "description": "Applied cultural, political, and economic land-based practices that inform and advance Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 250": {
+    "subject_code": "INLB",
+    "course_code": "250",
+    "credit": "3-12",
+    "course_name": "Indigenous Knowledge, Science, and Environmental Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Indigenous ecological knowledge, its intersections with western scientific knowledge, and approaches to environmental justice. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 251": {
+    "subject_code": "INLB",
+    "course_code": "251",
+    "credit": "3-12",
+    "course_name": "Introduction to Indigenous Health, Wellness, and Self-Determination",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the social, political, cultural, and gendered determinants of Indigenous Peoples' health and wellness. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 252": {
+    "subject_code": "INLB",
+    "course_code": "252",
+    "credit": "3-12",
+    "course_name": "Introduction to Gender Justice and Indigenous Communities",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the politics of gender and sexuality from Indigenous perspectives, with a focus on intersectionality. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 310": {
+    "subject_code": "INLB",
+    "course_code": "310",
+    "credit": "3-12",
+    "course_name": "Land and Indigenous Self-Determination: Advanced Theoretical Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "Theorizing land and self-determination from Indigenous cultural, political, and economic perspectives. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). Prerequisite: INLB 210."
+  },
+  "INLB 320": {
+    "subject_code": "INLB",
+    "course_code": "320",
+    "credit": "3-12",
+    "course_name": "Land and Indigenous Self-Determination: Advanced Methods and Application",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced cultural, political, and economic land-based practices that guide decolonization and Indigenous self-determination. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). Prerequisite: INLB 220."
+  },
+  "INLB 401": {
+    "subject_code": "INLB",
+    "course_code": "401",
+    "credit": "3-12",
+    "course_name": "Advanced Special Topics in Indigenous Land-Based Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics and location will vary from year to year. Advanced experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). For further information please consult the departmental website."
+  },
+  "INLB 450": {
+    "subject_code": "INLB",
+    "course_code": "450",
+    "credit": "3-12",
+    "course_name": "Decolonizing Science and the Politics of Sustainability",
+    "faculty": "Faculty of Arts",
+    "description": "Decolonizing ecological knowledge, environmental justice, and the discourse of sustainability. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 451": {
+    "subject_code": "INLB",
+    "course_code": "451",
+    "credit": "3-12",
+    "course_name": "Decolonizing Indigenous Health and Wellness",
+    "faculty": "Faculty of Arts",
+    "description": "The colonial determinants of Indigenous Peoples' health and wellness. The governance of land in relation to health. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s)."
+  },
+  "INLB 452": {
+    "subject_code": "INLB",
+    "course_code": "452",
+    "credit": "3-12",
+    "course_name": "Gender Justice and Indigenous Resurgence",
+    "faculty": "Faculty of Arts",
+    "description": "The theory and politics of gender and sexuality from Indigenous perspectives. Emphasis on decolonial and intersectional Indigenous feminisms and queer/two-spirit theory. Experiential, intensive land-based course designed and delivered in collaboration with academic faculty and Indigenous community partner(s). Students are eligible for Pass/Fail or percentage grading."
+  }
+}

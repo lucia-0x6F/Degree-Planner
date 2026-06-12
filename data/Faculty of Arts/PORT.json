@@ -1,0 +1,82 @@
+{
+  "PORT 101": {
+    "subject_code": "PORT",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginners' Portuguese I",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the Portuguese language. Communicate with basic vocabulary in common tasks and situations related to present and future events. Aligned with CEFR A1 objectives. Credit will be granted for only one of PORT_V 101, PORT_V 103 or PORT_V 110."
+  },
+  "PORT 102": {
+    "subject_code": "PORT",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginners' Portuguese II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PORT_V 101. Communicate with basic vocabulary in common tasks and situations related to present and future events. Aligned with CEFR A1 objectives. This course is recommended for students who have completed PORT_V 101. Credit will be granted for only one of PORT_V 102, PORT_V 103 or PORT_V 110."
+  },
+  "PORT 103": {
+    "subject_code": "PORT",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Intensive Beginner's Portuguese",
+    "faculty": "Faculty of Arts",
+    "description": "A single-term alternative to PORT_V 101 and 102 for students with heritage Portuguese or another Romance language. Credit will be granted for only one of PORT_V 103, PORT_V 110 or both PORT_V 101 and PORT_V 102."
+  },
+  "PORT 201": {
+    "subject_code": "PORT",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Elementary Portuguese I",
+    "faculty": "Faculty of Arts",
+    "description": "Continued improvement of Portuguese. Enhanced ability to comprehend and utilize more complex structures. Aligned with CEFR A2 objectives. This course is recommended for students who have completed one of PORT_V 102, PORT_V 103, or PORT_V 110. Credit will be granted for only one of PORT_V 201, PORT_V 203 or PORT_V 210."
+  },
+  "PORT 202": {
+    "subject_code": "PORT",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Elementary Portuguese II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PORT_V 201. Enhanced ability to comprehend and utilize more complex structures. Aligned with CEFR level A2 objectives. This course is recommended for students who have completed PORT_V 201. Credit will be granted for only one of PORT_V 202, PORT_V 203 or PORT_V 210."
+  },
+  "PORT 203": {
+    "subject_code": "PORT",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Intensive Elementary Portuguese",
+    "faculty": "Faculty of Arts",
+    "description": "A single-term alternative to PORT_V 201 and 202 for students with heritage Portuguese or another Romance language. This course is recommended for students who have completed PORT_V 103 or PORT_V 110. Credit will be granted for only one of PORT_V 203, PORT_V 210 or both PORT_V 201 and PORT_V 202."
+  },
+  "PORT 220": {
+    "subject_code": "PORT",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Conversational Portuguese and Lusophone Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Develop communication skills by exploring contemporary Lusophone culture through a variety of current topics. This course is recommended for students who have completed PORT_V 102 or 103."
+  },
+  "PORT 222": {
+    "subject_code": "PORT",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Introduction to the Analysis of Portuguese and Brazilian Cultures (in English)",
+    "faculty": "Faculty of Arts",
+    "description": "Critical analysis of different cultural genres, including music, film and visual art through the study of selected Portuguese and Brazilian texts. Credit will be granted for only one of PORT 222 or RMST 260. Equivalency: RMST 260."
+  },
+  "PORT 301": {
+    "subject_code": "PORT",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Advanced Portuguese",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced work in composition for students who have reached the Language-Requirement level of Portuguese. Recommended pre-requisites: one of PORT_V 202, PORT_V 210. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PORT 308": {
+    "subject_code": "PORT",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Portuguese for Business (in Portuguese)",
+    "faculty": "Faculty of Arts",
+    "description": "Communicative Portuguese for students studying Commerce or otherwise preparing for a career in business. Recommended pre-requisites: one of PORT 202, PORT 210."
+  }
+}

@@ -1,0 +1,498 @@
+{
+  "BMEG 101": {
+    "subject_code": "BMEG",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Foundational material spanning the four streams of the BMEG undergraduate program. Topics include: sensors and instrumentation; biosignals; physiological modeling; biomechanics; biomaterials; cellular engineering; regenerative medicine; and engineering design in these contexts. [3-0-2*] Prerequisite: APSC 100. Corequisite: BMEG 102."
+  },
+  "BMEG 102": {
+    "subject_code": "BMEG",
+    "course_code": "102",
+    "credit": "2",
+    "course_name": "Biomedical Engineering Lab",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to the breadth of laboratory and experimental techniques in biomedical engineering. Hydrogel design, genetic engineering of bacteria, bioinformatics pipeline construction, electrical instrumentation, and bioreactor design. Credit will only be granted for one of BMEG_V 102 and BMEG_V 200. [1-2-0] Prerequisite: One of PHYS 12, PHYS_V 100 Corequisite: BMEG_V 101. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 200": {
+    "subject_code": "BMEG",
+    "course_code": "200",
+    "credit": "1",
+    "course_name": "Biomedical Engineering Bridge Module",
+    "faculty": "Faculty of Applied Science",
+    "description": "Core concepts of biomedical engineering with a focus on advanced biological concepts that are inherent in biomechanics analysis, biomaterials signals and systems, bioinformatics and cellular bioengineering.Credit will only be granted for one of BMEG_V 102 and BMEG_V 200. Prerequisite: All of APSC_V 101, PHYS_V 159. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 201": {
+    "subject_code": "BMEG",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Technical Communication for Biomedical Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Report preparation, business correspondence, and oral presentation in biomedical engineering specific cases and projects. Credit will be granted for only one of BMEG 201 or APSC 201. [3-0-0]. Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 112, ENGL_V 120, ENGL_V 121, WRDS_V 150. Corequisite: BMEG_V 257. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 210": {
+    "subject_code": "BMEG",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Thermodynamics in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Work, heat and energy; material and energy balances; the first law and second law of thermodynamics; entropy and process reversibility; availability (energy) analysis; Hess's Law; thermodynamic properties of fluids; and applications to biomedical systems. [3-0-2]. Prerequisite: PHYS_V 157. CHEM_V 123 is recommended This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 220": {
+    "subject_code": "BMEG",
+    "course_code": "220",
+    "credit": "4",
+    "course_name": "Circuits and Electromagnetics with Application to Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Electromagnetic phenomena in the body; bioinstrumentation; electrostatic and electromagnetic fields, forces, capacitance and inductance; bio-effects of electromagnetic fields; and modelling electrical components of physiological and biomedical systems. [4-0-2*] Prerequisite: One of PHYS_V 118, PHYS_V 158. All of MATH_V 253, MATH_V 256. Corequisite: MATH_V 264. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 230": {
+    "subject_code": "BMEG",
+    "course_code": "230",
+    "credit": "4",
+    "course_name": "Biomechanics I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Integrating the study of two dimensional movement of animals and humans with the study of the manner in which forces on biomechanical structures such as bones, ligaments, tendons, muscles and joints cause motion. Techniques of solid mechanics and two dimensional rigid body dynamics. Students who have received credit for MECH_V 435 cannot also receive credit for BMEG_V 230 or BMEG_V 330. [4-2*-2*]. Prerequisite: Either (a) all of BMEG_V 101, PHYS_V 170 or (b) all of APSC_V 101, BMEG_V 200, PHYS_V 170. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 245": {
+    "subject_code": "BMEG",
+    "course_code": "245",
+    "credit": "4",
+    "course_name": "The Fundamental Units of Life: From Cells To Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "The structure and function of cells and how they are organized to generate tissues and organ systems [3-3*-0] Prerequisite: One of CHEM 12, CHEM 100. BIOL 12 strongly recommended"
+  },
+  "BMEG 250": {
+    "subject_code": "BMEG",
+    "course_code": "250",
+    "credit": "4",
+    "course_name": "Cellular Physiology and Biophysics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Cellular structure and mechanisms of membrane transport, signal transduction, muscle mechanochemistry and neurotransmission. Structure and hierarchical organization up to the level of tissues. Light and electron microscopy. [3-1-0]. Prerequisite: All of BMEG_V 245, MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 257": {
+    "subject_code": "BMEG",
+    "course_code": "257",
+    "credit": "4",
+    "course_name": "Biomedical Engineering Design I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineering design process for biomedical technologies. Practical skills in engineering design, computer aided design, electronic circuits, programming, and rapid prototyping in the context of biomedical technologies. Introduction to broader ethical and sustainability considerations for biomedical technology design. [2-4-0] Prerequisite: Either (a) all of BMEG_V 101, BMEG_V 102 or (b) all of APSC_V 101, BMEG_V 200, PHYS_V 159. Corequisite: BMEG_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 300": {
+    "subject_code": "BMEG",
+    "course_code": "300",
+    "credit": "1-9",
+    "course_name": "Topics in Biomedical Engineering I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Lectures or projects on specialized topics in Biomedical Engineering at the 300-level. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 310": {
+    "subject_code": "BMEG",
+    "course_code": "310",
+    "credit": "4",
+    "course_name": "Introduction to Bioinformatics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles behind the methods of bioinformatics. The use of bioinformatics databases and tools for solving problems in genomics, proteomics, structural biology and evolutionary biology. [3-0-2]. Prerequisite: BMEG_V 245 and one of CPEN_V 221, CPEN_V 223. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 320": {
+    "subject_code": "BMEG",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Bioengineering Feedback Systems and Controls",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling, analysis and simulation of dynamic systems; system modelling by state space; linearization; feedback, stability and sensitivity; control system design. Examples from biological systems, assistive systems and biomedical equipment. [3-0-1]. Prerequisite: Either (a) BMEG_V 220 or (b) all of ELEC_V 221, ELEC_V 201, ELEC_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 321": {
+    "subject_code": "BMEG",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Biomedical Instrumentation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental working principles of medical instruments used for measurements of nervous, respiratory and circulatory systems with focus on biopotential signals. Other topics include medical imaging, as well as minimally invasive and robotic surgery. Credit will only be granted for one of BMEG 321, ELEC 371. [2-3-0] Prerequisite: Either (a) MATH_V 256 or (b) all of MATH_V 265, MATH_V 267; and either (a) BMEG_V 220 or (b) one of ELEC_V 211, PHYS_V 301 and one of ELEC_V 201, ELEC_V 204. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 330": {
+    "subject_code": "BMEG",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Biomechanics II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles and common elements of sports-, orthopaedic-, injury- and cellular length-biomechanics. Improving sports performance and preventing overuse injuries through sports biomechanics, designing orthopaedic implants through orthopaedic biomechanics, preventing injuries through injury biomechanics and identifying and filtering cancerous blood cells through cellular biomechanics. Students who have received credit for MECH_V 435 cannot also receive credit for BMEG_V 230 or BMEG_V 330. [3-0-1]. Prerequisite: BMEG_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 350": {
+    "subject_code": "BMEG",
+    "course_code": "350",
+    "credit": "4",
+    "course_name": "Human Structure/Function from Cells to Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Human anatomy, histology and physiology with examples from biomedical engineering. Anatomical compartmentation and function regulation; homeostatic control systems, sensors and effectors; intercellular communication strategies; and cellular and organ function assessment. [4-0-0]. Prerequisite: All of BMEG_V 245, BMEG_V 250. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 357": {
+    "subject_code": "BMEG",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "Biomedical Engineering Design II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Creating innovations in biomedical technologies. Supervised design process for clinical clients, involving the building, testing, and verification of prototypes with potential users. [3*-3*-0]. Prerequisite: BMEG_V 257. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 371": {
+    "subject_code": "BMEG",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Transport Phenomena within Cells and Tissues",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fluid flow and mass transport analysis within healthy and diseased cells and tissues using mathematics. Drug delivery and tissue engineering. [3-0-2*]. Prerequisite: One of MATH_V 253, MATH_V 217 and either (a) MATH_V 256 or (b) all of MATH_V 255, MATH_V 257. Equivalency: CHBE_V 470 This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 372": {
+    "subject_code": "BMEG",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Biomedical Materials and Drug Delivery",
+    "faculty": "Faculty of Applied Science",
+    "description": "Biomaterials science/engineering applied to design and synthesis of drug delivery systems. Biomaterial types, synthesis and testing; the use of biomaterials; biological response; biocompatibility and degradation; drug delivery systems; nanocarriers; modification of polymers; liposomes and micelles; nucleic acid, transdermal and oral delivery. [3-0-1]. Prerequisite: All of BMEG_V 250, CHEM_V 123. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 373": {
+    "subject_code": "BMEG",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Microfluidics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advantages and disadvantages of miniaturization of complex fluid flow processes. Manipulating liquid flow; electrophoretic velocity and mobility; serial dilution; capillary electrophoresis; integrated microfluidic platforms; and blood and the motility of bacteria. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 374": {
+    "subject_code": "BMEG",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Cellular Bioengineering: Laboratory & Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental genetic, molecular, and tissue engineering techniques. Design of experiments and tools related to these essential cellular bioengineering techniques. [1-3-1]. Prerequisite: BMEG_V 245. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 400": {
+    "subject_code": "BMEG",
+    "course_code": "400",
+    "credit": "1-12",
+    "course_name": "Topics in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Lectures or projects on specialized topics in Biomedical Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 401": {
+    "subject_code": "BMEG",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Economics of Healthcare Solutions",
+    "faculty": "Faculty of Applied Science",
+    "description": "Canadian and USA engineering economics in BME and healthcare systems. Economic equivalence, cost estimation, risk assessment, regulatory frameworks, economic optimization, intangible factors, ethics, sustainability, financial tools, commercialization and regulator regimes. [3-0-0]"
+  },
+  "BMEG 402": {
+    "subject_code": "BMEG",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Impact of Biomedical Engineering on Society, Sustainability and Environmental Stewardship",
+    "faculty": "Faculty of Applied Science",
+    "description": "Impact of biomedical engineering on health, safety, and political, cultural, economical and environmental implications of biomedical engineering design. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 410": {
+    "subject_code": "BMEG",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Biomedical Equipment, Physiology, and Anatomy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles and operation of biomedical equipment for cardiovascular system, respiratory system, renal dialysis, endoscopy, surgery, and imaging. Functional relationships of biomedical equipment to physiology and anatomy of major body systems. Credit will be granted for only one of BMEG 410 or BMEG 510. [3-0-2*]"
+  },
+  "BMEG 420": {
+    "subject_code": "BMEG",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Medical Imaging",
+    "faculty": "Faculty of Applied Science",
+    "description": "Physical principles of ultrasound, magnetic resonance, computed tomography, X-ray projection imaging and molecular imaging in medical imaging for diagnostics, therapeutics and interventions. [3-0-0] Prerequisite: One of BMEG 220, BMEG 250 and one of BMEG 321, ELEC 371. Equivalency: ELEC 471"
+  },
+  "BMEG 421": {
+    "subject_code": "BMEG",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Linear Systems in Optics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Linear system theory and Fourier Optics, applications in optics including wave propagation and image quality assessment. Credit will be granted for only one of BMEG_V 421 or BMEG_V 521. Prerequisite: ELEC_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 422": {
+    "subject_code": "BMEG",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Modern Biomedical Optical Imaging",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced multimodal optical imaging concepts, fundamental optics, optical OCT theories, advanced modern OCT technologies, and OCT application in clinical medicine and biomedical engineering. Credit will be granted for only one of BMEG_V 422 or BMEG_V 522. Prerequisite: BMEG_V 421. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 423": {
+    "subject_code": "BMEG",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Clinical Informatics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental concepts in clinical information systems, decision support, and mobile health. Application of information engineering to health care, including the management and use of patient health and well-being information. Credit will be granted for only one of BMEG_V 423 or BMEG_V 523. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 424": {
+    "subject_code": "BMEG",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Genome Informatics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles and best practices in analyzing genomics data. Genome architecture, mappability, repeat elements, ChIP-seq, open chromatin, histone modifications, single cell technologies, genome wide association studies, statistical analyses, computational analysis, data processing. Credit will be granted for only one of BMEG_V 424 or BMEG_V 524. Prerequisite: BMEG_V 310 or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 425": {
+    "subject_code": "BMEG",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Biomedical Robotics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Biomedical robotics, mathematical fundamentals of kinematics, dynamics and control of robots by human operators, and applications of biomedical robotics. Prerequisite: All of MATH_V 152, BMEG_V 321, and one of ELEC_V 221, BMEG_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 426": {
+    "subject_code": "BMEG",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Synthetic Biology Intensive",
+    "faculty": "Faculty of Applied Science",
+    "description": "Core skills in DNA device engineering, molecular biology, mammalian cell culture, and data analysis through a self-led, realworld experimental and scientific reporting journey. Prerequisite: BMEG_V 245. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 427": {
+    "subject_code": "BMEG",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "ImmunoEngineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of biomedical engineering principles to immunology. The immune system's role in biomedical challenges, and engineering applications with the immune system. Fundamental and applied lectures, case studies, and a project proposing biomedical solutions to immunology problems. [3-0-0] Prerequisite: BIOC_V 202 and BMEG_V 371, or CHBE_V 381. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 428": {
+    "subject_code": "BMEG",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Wearable Technology in Clinical Care",
+    "faculty": "Faculty of Applied Science",
+    "description": "Wearable health sensing technologies, computational techniques, and validation for real-world applications. Physiological responses, signal processing, machine learning, and clinical relevance, as well as a study project utilizing wearable sensors in clinical settings. [3-0-0] Prerequisite: All of BMEG_V 310, BMEG_V 321. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 429": {
+    "subject_code": "BMEG",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Experimental Microfluidics for Bioanalytical Applications",
+    "faculty": "Faculty of Applied Science",
+    "description": "Practical training in microfluidic approaches for bioanalytical applications, covering fabrication, flow control, analysis, and experiment design. Includes hands-on lab sessions and studies applications in biomedicine, materials, and chemistry. [1-2-1] Prerequisite: BMEG_V 373. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 455": {
+    "subject_code": "BMEG",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Professionalism and Ethics in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Ethical, equity, and diversity issues and professionalism in Biomedical Engineering practice and design. Case studies and design projects will be used to expand on the foundation of biomedical engineering design, applying real-world ethical dilemmas including professional, medical, and research ethics. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 456": {
+    "subject_code": "BMEG",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Clinical and Industrial Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles of clinical practice, Canadian healthcare system, medical approach to diagnosis, ethics and regulations for clinical trials, medical technology management, medical device development and standards, biostatistics. Credit will be granted for only one of BMEG_V 257, BMEG_V 456, BMEG_V 556. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 457": {
+    "subject_code": "BMEG",
+    "course_code": "457",
+    "credit": "6",
+    "course_name": "Biomedical Engineering Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Capstone design and development of a practical biomedical device or system. Projects provided by local industry and engineering research laboratories. [1-3-1; 1-3-1] Prerequisite: All of BMEG 350, BMEG 357."
+  },
+  "BMEG 470": {
+    "subject_code": "BMEG",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Cellular Responses to Forces and Biomaterials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mechanical forces and biomaterials regulating cellular functions critical to tissue development, regeneration and repair. [3-0-0] Prerequisite: All of BMEG 245, BMEG 250, BMEG 350."
+  },
+  "BMEG 474": {
+    "subject_code": "BMEG",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Stem Cells and Regenerative Medicine",
+    "faculty": "Faculty of Applied Science",
+    "description": "Biology and applications of stem cells in regenerative medicine. Modelling human biology and disease in vitro and in vivo. Regulatory and commercialization pathways for regenerative medicine innovations. [3-0-0]. Prerequisite: All of BMEG_V 245, BMEG_V 250, BMEG_V 350. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 490": {
+    "subject_code": "BMEG",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Introduction to Academic Research",
+    "faculty": "Faculty of Applied Science",
+    "description": "Research project directed by a faculty member in Biomedical Engineering. Course may include workshops. Credit will be granted for only one of BMEG_V 490A or BMEG_V 490B when the subject matter is of the same nature. Restricted to students with fourth-year standing or higher. Prerequisite: Competitive GPA and permission from instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 495": {
+    "subject_code": "BMEG",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Biomaterials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineered materials in medical applications with an emphasis on material properties, functionality, design, and material response in the biological environment. Credit will be granted for only one of MTRL_V 495 or BMEG_V 495. [2-0-2]. Prerequisite: APSC_V 278. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 500": {
+    "subject_code": "BMEG",
+    "course_code": "500",
+    "credit": "1",
+    "course_name": "Orientation to Clinical Environment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Operation of biomedical and clinical engineering facilities at hospitals. Daily activities of healthcare workers. Patients experience. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 501": {
+    "subject_code": "BMEG",
+    "course_code": "501",
+    "credit": "4",
+    "course_name": "Interdisciplinary Team Project in Medical Technology Innovation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 510": {
+    "subject_code": "BMEG",
+    "course_code": "510",
+    "credit": "4",
+    "course_name": "Anatomy and Physiology with Applications to Biomedical Devices",
+    "faculty": "Faculty of Applied Science",
+    "description": "Anatomical structures and physiological principles of major body systems. Functional connections to operation of diagnostic and therapeutic equipment. Exploration of recent advances. Credit will be granted for only one of BMEG_V 410 or BMEG_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 511": {
+    "subject_code": "BMEG",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Fundamentals of Applied Pathophysiology in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 521": {
+    "subject_code": "BMEG",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Linear Systems in Optics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Linear system theory and Fourier Optics, applications in optics including wave propagation and image quality assessment. Credit will be granted for only one of BMEG_V 421 or BMEG_V 521. ELEC_V 221 recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 522": {
+    "subject_code": "BMEG",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Modern Biomedical Optical Imaging",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced multimodal optical imaging concepts, fundamental optics, optical OCT theories, advanced modern OCT technologies, and OCT application in clinical medicine and biomedical engineering. Credit will be granted for only one of BMEG 422 or BMEG 522. BMEG 421 or courses with MATLAB recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 523": {
+    "subject_code": "BMEG",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Clinical Informatics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental concepts in clinical information systems, decision support, and mobile health. Application of information engineering to health care, including the management and use of patient health and well-being information. Credit will be granted for only one of BMEG 423 or BMEG 523. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 524": {
+    "subject_code": "BMEG",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Genome Informatics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles and best practices in analyzing genomics data. Genome architecture, mappability, repeat elements, ChIP-seq, open chromatin, histone modifications, single cell technologies, genome wide association studies, statistical analyses, computational analysis, data processing. Credit will be granted for only one of BMEG 424 or BMEG 524. BMEG 310 or equivalent recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 550": {
+    "subject_code": "BMEG",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Biomedical Engineering Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "[3-3*-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 554": {
+    "subject_code": "BMEG",
+    "course_code": "554",
+    "credit": "1-3",
+    "course_name": "Directed Studies in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 556": {
+    "subject_code": "BMEG",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Clinical and Industrial Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles of professional engineering practice, the Canadian healthcare system, medical approach to diagnosis, principles and management of common medical devices, ethics and regulations for clinical trials, codes and regulations of medical devices, applications of biomedical engineering. Credit will be granted for only one of BMEG_V 456 or BMEG_V 556. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 557": {
+    "subject_code": "BMEG",
+    "course_code": "557",
+    "credit": "1",
+    "course_name": "Statistical Methods for Evaluating Medical Technologies",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 580": {
+    "subject_code": "BMEG",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Biomedical Engineering Topics at the Interface of Medicine and Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 581": {
+    "subject_code": "BMEG",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Professional and Academic Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 590": {
+    "subject_code": "BMEG",
+    "course_code": "590",
+    "credit": "1",
+    "course_name": "Biomedical Engineering Professional Skills",
+    "faculty": "Faculty of Applied Science",
+    "description": "Formulate and implement a professional skills development plan involving workshops on topics such as writing, presentation, teaching, finance, marketing, equity, ethics. Pass/Fail grading. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 591": {
+    "subject_code": "BMEG",
+    "course_code": "591",
+    "credit": "1-12",
+    "course_name": "Topics in Biomedical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 597": {
+    "subject_code": "BMEG",
+    "course_code": "597",
+    "credit": "6",
+    "course_name": "Master of Engineering Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supervised industrial, clinical, or research project for students registered in Biomedical Engineering program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 598": {
+    "subject_code": "BMEG",
+    "course_code": "598",
+    "credit": "1",
+    "course_name": "Biomedical Engineering Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Presentation and discussion of current topics in biomedical engineering research and development. A required course for all graduate students in Biomedical Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 599": {
+    "subject_code": "BMEG",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "M.A. Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BMEG 699": {
+    "subject_code": "BMEG",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "SURG 500": {
+    "subject_code": "SURG",
+    "course_code": "500",
+    "credit": "4",
+    "course_name": "Experimental Surgery",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures and seminars dealing with the selected application of surgical techniques in biological investigation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 510": {
+    "subject_code": "SURG",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Surgical Care in International Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Foundation to international surgery. The discussion of the global burden of unmet surgical needs and a professional response in low and middle income regions of the world. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 512": {
+    "subject_code": "SURG",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Global Disability: A Surgical Care Mandate",
+    "faculty": "Faculty of Medicine",
+    "description": "Relationship of surgery to preventing and treating disabling impairments in lower income countries. Focus will be on sensory impairments (blindness and deafness) and physical impairment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 514": {
+    "subject_code": "SURG",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Surgical Care in Humanitarian Disaster Response",
+    "faculty": "Faculty of Medicine",
+    "description": "Examines response to humanitarian disasters. Includes case models of surgical care responses and strategies to move from relief to recovery. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 516": {
+    "subject_code": "SURG",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Program Planning and Evaluation in Surgical Care Low Resource Settings",
+    "faculty": "Faculty of Medicine",
+    "description": "Program Planning and Evaluation in Surgical Care contexts. Theory, approaches and methods for conducting surgical care programs among populations in various low resource contexts. Key concepts, ethical approaches and practices, and practical skills development. Credit will be granted for only one of SPPH_V 540 or SURG_V 516. Prerequisite: SURG_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 517": {
+    "subject_code": "SURG",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Clinical Research Methods for Surgical Procedures with Global Surgical Comparisons",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical research methods, research process, systematic reviews, quality improvement and assurance, and technology evaluation with an emphasis on research in global surgical care. Credit will be granted for only one of SURG_V 517 or SPPH_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 518": {
+    "subject_code": "SURG",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Surgical Care in Canada's Rural and Remote Indigenous Communities with Global Comparisons",
+    "faculty": "Faculty of Medicine",
+    "description": "Critiques the current and historical provision of surgical care services to indigenous communities in Canada and globally. Examines challenges and opportunities confronting both the clinician and the service delivery system, embracing lessons learned from these communities. Prerequisite: SURG_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 542": {
+    "subject_code": "SURG",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Directed Study in Global Surgical Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Literature review of a global surgical care topic chosen in consultation with an advisor. Includes analysis of existing literature and research, and identification of gaps in current knowledge. Prerequisite: All of SURG_V 510, SURG_V 512, SURG_V 514. Corequisite: SURG_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 548": {
+    "subject_code": "SURG",
+    "course_code": "548",
+    "credit": "2-4",
+    "course_name": "Seminar in Surgery",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 549": {
+    "subject_code": "SURG",
+    "course_code": "549",
+    "credit": "6-18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SURG 560": {
+    "subject_code": "SURG",
+    "course_code": "560",
+    "credit": "6",
+    "course_name": "Global Surgical Care Field Practicum",
+    "faculty": "Faculty of Medicine",
+    "description": "Course with a four to eight week on-site field placement. Proposal development, implementation and high-level written report of a surgical care field practicum in an underserved location globally, producing practical on-the-ground skills. Prerequisite: All of SURG_V 510, SURG 512_V, SURG_V 514, SURG_V 516. Corequisite: SURG_V 517. This course is not eligible for Credit/D/Fail grading."
+  }
+}

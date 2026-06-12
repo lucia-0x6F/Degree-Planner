@@ -1,0 +1,218 @@
+{
+  "FSCT 201": {
+    "subject_code": "FSCT",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introduction to Forensic Science",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 7320."
+  },
+  "FSCT 202": {
+    "subject_code": "FSCT",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Applied Ethics",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT LIBS 7002."
+  },
+  "FSCT 203": {
+    "subject_code": "FSCT",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Report Writing and Communication for Forensic Investigation",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT COMM 7200."
+  },
+  "FSCT 204": {
+    "subject_code": "FSCT",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Bioethics",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT LIBS 7020."
+  },
+  "FSCT 280": {
+    "subject_code": "FSCT",
+    "course_code": "280",
+    "credit": "0",
+    "course_name": "Introductory Forensic Science I",
+    "faculty": "Faculty of Medicine",
+    "description": "Block registration for the introduction to forensic science course taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program."
+  },
+  "FSCT 290": {
+    "subject_code": "FSCT",
+    "course_code": "290",
+    "credit": "0",
+    "course_name": "Introductory Forensic Science II",
+    "faculty": "Faculty of Medicine",
+    "description": "Block registration for the bioethics and report writing and communication for forensic investigation courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program."
+  },
+  "FSCT 301": {
+    "subject_code": "FSCT",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Forensic Biology; DNA Typing Theory",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8150."
+  },
+  "FSCT 302": {
+    "subject_code": "FSCT",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Quality Assurance for Forensic Science",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8370."
+  },
+  "FSCT 303": {
+    "subject_code": "FSCT",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Business Management for Forensic Science",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8371."
+  },
+  "FSCT 310": {
+    "subject_code": "FSCT",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Research Methodology and Measurement Models",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 7910."
+  },
+  "FSCT 311": {
+    "subject_code": "FSCT",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Forensic Biology: Evidence Recovery",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8155."
+  },
+  "FSCT 312": {
+    "subject_code": "FSCT",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Medico-Legal Aspects of Alcohol",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8230."
+  },
+  "FSCT 313": {
+    "subject_code": "FSCT",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Crime and Incident Scene Investigation",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 7310."
+  },
+  "FSCT 314": {
+    "subject_code": "FSCT",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "The Science of Fingerprints - Theory",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8320."
+  },
+  "FSCT 315": {
+    "subject_code": "FSCT",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Forensic Toxicology",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8240."
+  },
+  "FSCT 380": {
+    "subject_code": "FSCT",
+    "course_code": "380",
+    "credit": "0",
+    "course_name": "Intermediate Forensic Science I",
+    "faculty": "Faculty of Medicine",
+    "description": "Block registration for the forensic biology: DNA typing theory, quality assurance, business management for forensic science, and elective courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program."
+  },
+  "FSCT 390": {
+    "subject_code": "FSCT",
+    "course_code": "390",
+    "credit": "0",
+    "course_name": "Intermediate Forensic Science II",
+    "faculty": "Faculty of Medicine",
+    "description": "Block registration for the forensic biology: evidence recovery, and elective courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program."
+  },
+  "FSCT 398": {
+    "subject_code": "FSCT",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-op Work Placement I",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science. Prerequisite: Completion of academic third-year in Biochemistry and Forensic Science Honours program is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FSCT 399": {
+    "subject_code": "FSCT",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-op Work Placement II",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science. Prerequisite: FSCT_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FSCT 401": {
+    "subject_code": "FSCT",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Forensic Biology: DNA Typing Applications",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8160."
+  },
+  "FSCT 409": {
+    "subject_code": "FSCT",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Law for Forensic Science",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 7009."
+  },
+  "FSCT 410": {
+    "subject_code": "FSCT",
+    "course_code": "410",
+    "credit": "2",
+    "course_name": "The Expert Witness - Prepared for Court",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 7010. [2-0-0]"
+  },
+  "FSCT 412": {
+    "subject_code": "FSCT",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Instrumental Analysis for Forensic Chemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Credit limited to students in the Joint Degree Program in Biochemistry and Forensic Science. Same as BCIT FSCT 8156. [3-0-0]"
+  },
+  "FSCT 480": {
+    "subject_code": "FSCT",
+    "course_code": "480",
+    "credit": "0",
+    "course_name": "Advanced Forensic Science I",
+    "faculty": "Faculty of Medicine",
+    "description": "Block registration for the forensic biology: DNA typing applications, law and forensic science courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program."
+  },
+  "FSCT 490": {
+    "subject_code": "FSCT",
+    "course_code": "490",
+    "credit": "0",
+    "course_name": "Advanced Forensic Science II",
+    "faculty": "Faculty of Medicine",
+    "description": "Block registration for the expert witness testimony instrumental analysis for forensic chemistry and forensic toxicology courses taken in the Joint BCIT/UBC Degree in Biochemistry and Forensic Science. Registration is limited to students in the Joint Degree Program."
+  },
+  "FSCT 498": {
+    "subject_code": "FSCT",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-op Work Placement III",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science. Prerequisite: FSCT_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FSCT 499": {
+    "subject_code": "FSCT",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-op Work Placement IV",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in either an industrial, public, or academic laboratory or a law enforcement agency for a minimum of 14 weeks. Technical report required. Restricted to students admitted to the Co-op Program in Biochemistry and Forensic Science. Prerequisite: FSCT_V 498. This course is not eligible for Credit/D/Fail grading."
+  }
+}

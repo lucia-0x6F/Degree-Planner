@@ -1,0 +1,122 @@
+{
+  "OSOT 301": {
+    "subject_code": "OSOT",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Introduction to Human Occupation",
+    "faculty": "Faculty of Medicine",
+    "description": "Explores human occupation, conceptualized as all activities people do based on need, obligation, or preference. As the core construct of the discipline of occupational science and practice of occupational therapy, human occupation is examined for its relation to personal and social determinants of health. [3-0-0]"
+  },
+  "OSOT 511": {
+    "subject_code": "OSOT",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Fundamentals of Occupational Therapy: Theory, Conceptual Models and the Practice Process",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamentals of occupational therapy, including values and beliefs, conceptual models, client-centred principles, and practice process frameworks are introduced. Professional reasoning is demonstrated through resolution of case-based client occupational issues. Critical appraisal of theory fosters nuanced understandings of occupation and health. [1-2-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 513": {
+    "subject_code": "OSOT",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Health, Illness & Occupation",
+    "faculty": "Faculty of Medicine",
+    "description": "Concepts and models of occupation, health, and illness are introduced and appraised. Narratives from persons with lived experience and interactive assignments are used for acquiring biopsychosocial information on health conditions that impact occupational performance across lifespan and diverse life experiences. [1-0-1.5]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 515": {
+    "subject_code": "OSOT",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Occupation in Practice I: Foundation of Occupational Therapy Assessment and Intervention",
+    "faculty": "Faculty of Medicine",
+    "description": "Labs, simulations and tutorials provide opportunities to practice evidenced based foundational skills, techniques and approaches in preparation for occupational therapy practice in the local and regional context. [0-3-3]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 519": {
+    "subject_code": "OSOT",
+    "course_code": "519",
+    "credit": "4",
+    "course_name": "Professional Development of the Occupational Therapist I",
+    "faculty": "Faculty of Medicine",
+    "description": "Concepts of professionalism, reflexivity, cultural humility and collaboration are introduced to develop the skills of a self-directed, culturally safe, lifelong learner, who consciously uses theory, evidence and critical thinking skills to maintain, evaluate and improve their practice of occupational therapy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 525": {
+    "subject_code": "OSOT",
+    "course_code": "525",
+    "credit": "5",
+    "course_name": "Occupation in Practice II: Advancing Theory, Assessment & Intervention",
+    "faculty": "Faculty of Medicine",
+    "description": "Building on OSOT_V 511 and OSOT_V 515, complex skills and approaches to enable client occupational engagement are applied through workshops and labs. Biomechanical, psychosocial, neuro-rehabilitative and developmental frames of reference will inform professional reasoning as students work through the occupational therapy practice process. [2-3-3]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 527": {
+    "subject_code": "OSOT",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Becoming an Evidence-Informed Occupational Therapy Practitioner",
+    "faculty": "Faculty of Medicine",
+    "description": "Assumptions and principles of qualitative and quantitative research designs; elements of basic research designs for investigating and evaluating occupational performance and diverse issues relevant to occupational science and occupational therapy are introduced, emphasizing critical appraisal of occupational therapy research literature. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 528": {
+    "subject_code": "OSOT",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Occupational Therapy Practice: Fieldwork I",
+    "faculty": "Faculty of Medicine",
+    "description": "Preparation for practice concepts to facilitate integration of knowledge and skills introduced in term 1 of the MOT program. Demonstration of emerging Occupational Therapy competencies for a total of 5 weeks of supervised fieldwork experience in affiliated agencies is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 538": {
+    "subject_code": "OSOT",
+    "course_code": "538",
+    "credit": "7",
+    "course_name": "Occupational Therapy Practice: Fieldwork II",
+    "faculty": "Faculty of Medicine",
+    "description": "Advanced integration of knowledge and skills introduced in terms 1, 2, 3 & 4 of the MOT program to demonstrate Occupational Therapy intermediate competencies for a total of 12 weeks of supervised fieldwork experience in affiliated health agencies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 545": {
+    "subject_code": "OSOT",
+    "course_code": "545",
+    "credit": "5",
+    "course_name": "Occupation in Practice III: Occupational Therapy Assessment and Intervention",
+    "faculty": "Faculty of Medicine",
+    "description": "A 3-term course, builds upon year 1 to further develop professional reasoning skills, synthesize theory and practice approaches in occupational therapy, and provide opportunities to acquire assessment and intervention skills according to the competencies required to enter occupational therapy practice. [0-2-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 547": {
+    "subject_code": "OSOT",
+    "course_code": "547",
+    "credit": "6",
+    "course_name": "Developing Evidence for Occupational Therapy Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Enhances knowledge of research (or program evaluation) process and provides hands-on experience to create, inform, and disseminate evidence relevant to occupational science or occupational therapy. [2-0-8]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 549": {
+    "subject_code": "OSOT",
+    "course_code": "549",
+    "credit": "5",
+    "course_name": "Professional Development of the Occupational Therapist II",
+    "faculty": "Faculty of Medicine",
+    "description": "Professional identity, professionalism, and cultural humility are further explored. Knowledge is applied to develop self-directed, culturally safe, lifelong learners. Conscious use of theory, evidence and critical thinking will be utilized to maintain, evaluate and improve occupational therapy practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 551": {
+    "subject_code": "OSOT",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Societal and Environmental Influences on Occupation and Occupational Therapy Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Current legislative, socio-political, economic, cultural, and service delivery issues influencing occupational therapy practice are addressed. The structural, systemic, and contextual influences upon clients' health and occupations are also examined. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 553": {
+    "subject_code": "OSOT",
+    "course_code": "553",
+    "credit": "2",
+    "course_name": "Innovations in Occupation: Developing and Evaluating Occupational Therapy Programs",
+    "faculty": "Faculty of Medicine",
+    "description": "To address inequities and meet the occupational needs of diverse communities, students will learn, critique and apply program development principles. Program development principles include needs assessment, program design, budgeting and resource planning, marketing, program evaluation, and proposal writing and presentation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OSOT 558": {
+    "subject_code": "OSOT",
+    "course_code": "558",
+    "credit": "9",
+    "course_name": "Occupational Therapy Practice: Fieldwork III",
+    "faculty": "Faculty of Medicine",
+    "description": "Evidence of integration and synthesis of complex knowledge and skills provided throughout the MOT program to demonstrate Occupational Therapy advanced competencies for a total of 14 weeks of supervised fieldwork experience in affiliated health agencies. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,1122 @@
+{
+  "ECON 101": {
+    "subject_code": "ECON",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Principles of Microeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to consumer behaviour, producer theory, competitive market equilibrium, welfare economics, monopoly, oligopoly, and foundations of strategic interactions. Credit will be granted for only one of ECON_V 101 or ECON_V 310."
+  },
+  "ECON 102": {
+    "subject_code": "ECON",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Principles of Macroeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Elements of theory and of Canadian policy and institutions concerning the economics of growth and business cycles, employment, national income accounting, interest and exchange rates, money and banking, the balance of trade. Credit will be granted for only one of ECON_V 102 or ECON_V 311."
+  },
+  "ECON 210": {
+    "subject_code": "ECON",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Microeconomic Policy",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of policy issues, such as regulation, taxation, environmental and resource policy, health care, education and income distribution. May not be taken for credit by students with fourth-year standing. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 211": {
+    "subject_code": "ECON",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Macroeconomic Policy",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of policy issues, such as the costs of inflation and unemployment, monetary and fiscal policy, the effects of government debt and exchange rate policy. May not be taken for credit by students with fourth-year standing. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 221": {
+    "subject_code": "ECON",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Introduction to Strategic Thinking",
+    "faculty": "Faculty of Arts",
+    "description": "How individuals and businesses interact in strategic situations with applications in a wide range of topics which may include economics, business, politics, law and biology. Focus on developing intuition. May not be taken for credit by 1) students with fourth-year standing in ECON or the B.I.E., or 2) students that have taken ECON 421 or MATH 344. Credit will be granted for only one of ECON 221 or ISCI 344. Prerequisite: One of ECON 101, ECON 310."
+  },
+  "ECON 226": {
+    "subject_code": "ECON",
+    "course_code": "226",
+    "credit": "3",
+    "course_name": "Making Sense of Economic Data",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of introductory empirical economics with an emphasis on foundational econometric methods and answering economic questions using real-world data. Students will be expected to undertake applied work using a statistical programming tool. May not be taken for credit by students with fourth-year standing in ECON, or students already having credit for ECON 325, ECON 327, COMM 191, STAT 200, STAT 241, STAT 251. Credit will be granted for only one of ECON 226, ECON 227, STAT 203. Prerequisite: Either (a) one of ECON 101, ECON 310, ECON 102 or (b) ECON 311."
+  },
+  "ECON 227": {
+    "subject_code": "ECON",
+    "course_code": "227",
+    "credit": "3",
+    "course_name": "Data in Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Application-driven introduction to the analysis of economic data. Descriptive analysis, causality, experimental and observational data, hypothesis testing. Restricted to BIE students. Credit will be granted for only one of ECON_V 226 and ECON_V 227. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 234": {
+    "subject_code": "ECON",
+    "course_code": "234",
+    "credit": "3",
+    "course_name": "Wealth and Poverty of Nations",
+    "faculty": "Faculty of Arts",
+    "description": "Historical approaches to long-run economic growth; international comparisons of income growth and inequality; colonialism; evolution of world capital markets; human migrations; rise of world trading empires; instability in the international economy. May not be taken for credit by students with fourth-year standing in Bachelor of International Economics or any of the following Economics programs offered by VSE: Majors, Minors, Combined Majors, Honours. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 241": {
+    "subject_code": "ECON",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Introduction to Global Development",
+    "faculty": "Faculty of Arts",
+    "description": "Economic approaches to long-run global development, international trade, growth, and globalization. Topics include the economics of trade policy, political economy, migration, the environment, foreign investment, and culture in a global context. Students may only receive credit for ECON_V 241 and ECON_V 255 or ECON_V 234 with permission of the instructor. Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311."
+  },
+  "ECON 255": {
+    "subject_code": "ECON",
+    "course_code": "255",
+    "credit": "3",
+    "course_name": "Understanding Globalization",
+    "faculty": "Faculty of Arts",
+    "description": "Social and economic implications for both rich and poor countries of lowered barriers to the international flows of information, capital, labour and goods. May not be taken for credit by students with fourth-year standing in Bachelor of International Economics or any of the following Economics programs offered by VSE: Majors, Minors, Combined Majors, Honours. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 301": {
+    "subject_code": "ECON",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate Microeconomic Analysis I",
+    "faculty": "Faculty of Arts",
+    "description": "Consumer behaviour, producer theory, competitive market equilibrium, welfare economics, uncertainty, monopoly and oligopoly. Credit will be granted for only one of ECON 301, ECON 304, ECON 315, COMM 295 or FRE 295. Prerequisite: One of ECON 101, ECON 310 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 302": {
+    "subject_code": "ECON",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Intermediate Macroeconomic Analysis I",
+    "faculty": "Faculty of Arts",
+    "description": "Income and employment theory, monetary theory, the open economy, economic fluctuations and growth. Credit will be granted for only one of ECON 302, ECON 305, or ECON 309. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 303": {
+    "subject_code": "ECON",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Intermediate Microeconomics II",
+    "faculty": "Faculty of Arts",
+    "description": "Risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Credit will be granted for only one of ECON 303 or ECON 306, ECON 316. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 304": {
+    "subject_code": "ECON",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Honours Intermediate Microeconomic Analysis I",
+    "faculty": "Faculty of Arts",
+    "description": "Consumer behaviour, uncertainty, producer theory, monopoly, oligopoly, and equilibrium analysis. Credit will be granted for only one of ECON 301, ECON 304, ECON 315, COMM 295 or FRE 295. Prerequisite: All of (i) a score of 68% or higher in one of ECON 101, ECON 310; (ii) a score of 68% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184; and (iii) completion of one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 305": {
+    "subject_code": "ECON",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Honours Intermediate Macroeconomic Analysis I",
+    "faculty": "Faculty of Arts",
+    "description": "Income and employment theory, monetary theory, the open economy, economic fluctuations and growth. Credit will be granted for only one of ECON 302, ECON 305, or ECON 309. Prerequisite: A score of 68% or higher in one of ECON 101, ECON 310 and a score of 68% or higher in one of ECON 102, ECON 311 and a score of 68% or higher in one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and a score of 68% or higher in one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 306": {
+    "subject_code": "ECON",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Honours Intermediate Microeconomics II",
+    "faculty": "Faculty of Arts",
+    "description": "Microeconomic Theory with computational applications. Topics may include risk and uncertainty, information economics, game theory, bargaining, auctions. Knowledge of python and Julia is useful but not required. Credit will be granted for only one of ECON 303 or ECON 306. Prerequisite: A score of 68% or higher in ECON 304. Permission of the School is also acceptable."
+  },
+  "ECON 307": {
+    "subject_code": "ECON",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Honours Intermediate Macroeconomics II",
+    "faculty": "Faculty of Arts",
+    "description": "Theories of economic growth and the business cycle. Intended primarily for prospective honours and other qualified students. Prerequisite: A score of 68% or higher in ECON 305. Or permission of the School."
+  },
+  "ECON 309": {
+    "subject_code": "ECON",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Intermediate Open Economy Macroeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "The aggregate economy with emphasis on macroeconomic policy and international economic growth, money and inflation, unemployment, business cycles, and macroeconomic stabilization policy under fixed and flexible exchange rates. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON_V 302, ECON_V 305 or ECON_V 309. Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311 and one of MATH_V 100, MATH_V 102, MATH_V 104, MATH_V 110, MATH_V 120, MATH_V 180, MATH_V 184 and one of MATH_V 101, MATH_V 103, MATH_V 105, MATH_V 121. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 310": {
+    "subject_code": "ECON",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Principles of Microeconomics with Calculus",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to consumer behaviour, producer theory, competitive market equilibrium, welfare economics, monopoly, oligopoly, and strategic interactions with applications using differential calculus. The scope of this course is approximately the same as that of ECON_V 101. Credit will be granted for only one of ECON_V 310 or ECON_V 101. Prerequisite: One of MATH_V 100, 102, 104, 110, 111, 120, 180, or 184."
+  },
+  "ECON 311": {
+    "subject_code": "ECON",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Principles of Macroeconomics with Calculus",
+    "faculty": "Faculty of Arts",
+    "description": "Elements of theory and of Canadian policy and institutions concerning the economics of growth, business cycles, employment, national income accounting, interest, exchange rates, money, banking, and trade, with applications using differential calculus. The scope of this course is approximately the same as that of ECON_V 102. Credit will be granted for only one of ECON_V 311 or ECON_V 102. Prerequisite: One of MATH_V 100, 102, 104, 110, 111, 120, 180, or 184."
+  },
+  "ECON 315": {
+    "subject_code": "ECON",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Intermediate Microeconomics I",
+    "faculty": "Faculty of Arts",
+    "description": "Consumer behaviour, producer theory, exchange, monopoly, oligopoly, externalities, public goods, general equilibrium and welfare economics. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON_V 315, ECON_V 301, ECON_V 304, COMM_V 295, FRE_V 295. Prerequisite: One of ECON_V 101, ECON_V 310 and one of MATH_V 100, MATH_V 102, MATH_V 104, MATH_V 110, MATH_V 120, MATH_V 180, MATH_V 184 and one of MATH_V 101, MATH_V 103, MATH_V 105, MATH_V 121. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 316": {
+    "subject_code": "ECON",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Intermediate Microeconomics II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced topics in intermediate microeconomics: risk and uncertainty, some concepts in game theory, adverse selection, moral hazard, bargaining, auctions. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON_V 316 or ECON_V 303. Prerequisite: One of ECON_V 301, ECON_V 304, ECON_V 315. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 317": {
+    "subject_code": "ECON",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Poverty and Inequality",
+    "faculty": "Faculty of Arts",
+    "description": "Economic inequality in Canada and other countries; measurement and causes. Inequality in the distribution of wealth; redistribution of income and wealth; notions of distributive justice. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 318": {
+    "subject_code": "ECON",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "History and Philosophy of Economics from Aristotle to Adam Smith",
+    "faculty": "Faculty of Arts",
+    "description": "The development of economic thought from Aristotle to Adam Smith, focusing on the conceptual foundations of economics, particularly the problems of value, distribution, and economic growth. Credit will be granted for only one of ECON_V 318 or PHIL_V 362 Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311. Equivalency: PHIL_V 362."
+  },
+  "ECON 319": {
+    "subject_code": "ECON",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "History and Philosophy of Economics from Ricardo to Keynes",
+    "faculty": "Faculty of Arts",
+    "description": "The development of economic thought from David Ricardo up to the present including such figures as Malthus, Mill, Jevons, and Keynes, focusing on the conceptual foundations of economics, particularly the problems of value, distribution and growth. Credit will be granted for only one of ECON_V 319 or PHIL_V 363. Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311. Equivalency: PHIL_V 363."
+  },
+  "ECON 320": {
+    "subject_code": "ECON",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Introduction to Mathematical Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Application of single and multivariable calculus to economics. Includes comparative static analysis of household and firm behaviour as well as simple dynamic models. ECON 320 cannot be counted as satisfying ECON requirements for the Combined Major in Economics/Mathematics. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 323": {
+    "subject_code": "ECON",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Quantitative Economic Modelling with Data Science Applications",
+    "faculty": "Faculty of Arts",
+    "description": "Computational tools used in modern economics. Including application of data science in economics; visualization and manipulation of economic data; solving and simulating dynamic economic models. Credit will be granted for only one of ECON 323, CPSC 110, or CPSC 107. One course in second-year linear algebra such as MATH 221 or MATH 223 is strongly recommended, but not required. Prerequisite: One of ECON 101, ECON 310 and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 325": {
+    "subject_code": "ECON",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Introduction to Econometrics I",
+    "faculty": "Faculty of Arts",
+    "description": "Essentials of probability and statistics for applied work in economics. Topics include fundamentals of probability and statistical inference including estimation and hypothesis testing, and simple linear regression models. Credit will only be granted for one of ECON_V 325, ECON_V 327, COMM_V 191, STAT_V 200, STAT_V 241, STAT_V 251. Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311 and one of MATH_V 100, MATH_V 102, MATH_V 104, MATH_V 110, MATH_V 120, MATH_V 180, MATH_V 184 and one of MATH_V 101, MATH_V 103, MATH_V 105, MATH_V 121."
+  },
+  "ECON 326": {
+    "subject_code": "ECON",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Introduction to Econometrics II",
+    "faculty": "Faculty of Arts",
+    "description": "Methods of empirical economic research. Topics include multiple linear regression models, with a focus on regression diagnostics, prediction, statistical inference, and interpretations. Students will be required to learn to apply empirical methods using a statistical programming tool. Credit will only be granted for one of ECON 326, ECON 328, STAT 306. Prerequisite: All of ECON 101, 102; One of ECON 325, ECON 327, COMM 191, STAT 200, STAT 241, STAT 251, LFS 252."
+  },
+  "ECON 327": {
+    "subject_code": "ECON",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Introduction to Empirical Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Basic tools for the statistical analysis of economic data. Registration restricted to students in the Bachelor of International Economics Program. Credit will be granted for only one of ECON 325, ECON 327, COMM 191, STAT 200, STAT 203, STAT 241, STAT 251. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311; and one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184; and one of MATH 101, MATH 103, MATH 105, MATH 121."
+  },
+  "ECON 328": {
+    "subject_code": "ECON",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Methods of Empirical Research",
+    "faculty": "Faculty of Arts",
+    "description": "Empirical tools used in applied research, with emphasis on the linear regression model. Registration restricted to students in the Bachelor of International Economics program. Credit will be granted for only one of ECON_V 326, ECON_V 328, STAT_V 306, or LFS_V 252. Prerequisite: One of ECON_V 325, ECON_V 327. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 333": {
+    "subject_code": "ECON",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Economic History of Europe from the Paleolithic to the Industrial Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "The conditions and causes of long run growth from nomadism to agriculture to industrialized states, including institutions, geography, culture, colonialism, and slave trades. Determinants of the Neolithic, consumer and industrial revolutions, demographic transition and first era of globalization. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 334": {
+    "subject_code": "ECON",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Economic History of Modern Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Background, causes and effects of economic change in Europe from the 18th century to recent times. Evolution of social and economic institutions; analysis of growth, structural change, the distribution of income, and the spread of industrialization. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 335": {
+    "subject_code": "ECON",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Fertility, Families and Human Migration",
+    "faculty": "Faculty of Arts",
+    "description": "Traditional fertility and mortality patterns, demographic transition, catastrophes, well-being and nutrition, international and internal migration, epidemics and growth spurts. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 336": {
+    "subject_code": "ECON",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Economic History of Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The growth of the Canadian economy in relation to development of natural resources, changing markets, industrialism, communications, and technology. Prerequisite: One of ECON 101, ECON 310."
+  },
+  "ECON 337": {
+    "subject_code": "ECON",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Economic History of the United States",
+    "faculty": "Faculty of Arts",
+    "description": "The growth of the United States from the Colonial Era to the present: British colonialism, development of slave-based agriculture, the western expansion, the 'American system' of manufacturing, cyclical instability and depression, and the distribution of income. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 339": {
+    "subject_code": "ECON",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "Economics of Technological Change",
+    "faculty": "Faculty of Arts",
+    "description": "Application of economic analysis to technological change; the impact of technological change on the growth and distribution of income; economic influences on the invention and diffusion of technology; the interaction between technology, work, skills, and education; public policy toward technological change. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 345": {
+    "subject_code": "ECON",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Money and Banking",
+    "faculty": "Faculty of Arts",
+    "description": "Financial markets and financial institutions in theory and practice; structure and development of the Canadian financial system; development and theory of the regulation of the financial system; process of monetary control; theory and history of central banking and monetary policy. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 350": {
+    "subject_code": "ECON",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Public Finance Policy Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of two or three selected policy problems from areas of taxation, income security, and public expenditures. Topics to be selected each year from areas of current or recent policy debate. Examples include public pension policy, privatization and public services, income tax or sales tax reform, federal-provincial cost sharing programs, tax incentives versus direct expenditures, welfare reform. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 351": {
+    "subject_code": "ECON",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Sex and Gender in the Economy",
+    "faculty": "Faculty of Arts",
+    "description": "Application of economic analysis to marriage, fertility and health, gender inequality in labour markets and unpaid caregiving; the application of sex and gender-based policy analysis to topics related to employment, and technological and social change in current and historical perspectives. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 355": {
+    "subject_code": "ECON",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Introduction to International Trade",
+    "faculty": "Faculty of Arts",
+    "description": "The determinants of trade patterns, trade policy, tariff and non-tariff barriers to trade, political economy of protectionism, bilateral and multilateral trade disputes, trade liberalization, trade and development. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 356": {
+    "subject_code": "ECON",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "Introduction to International Finance",
+    "faculty": "Faculty of Arts",
+    "description": "Exchange rate policy regimes; international financial organizations; the interaction between monetary policy and exchange rate regimes; financial crises. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 360": {
+    "subject_code": "ECON",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Labour Economics",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the Canadian labour market. Labour supply, the allocation of the time among work and non-market activity, participation in the labour force, education and training. The demand for labour. The determination of wages and employment. The effect of unions on wages and employment. The wage structure, wage differentials by occupation, industry, race and sex. Unemployment. Credit may be obtained for only one of ECON 360 and 460. Prerequisite: One of ECON 101, ECON 310."
+  },
+  "ECON 364": {
+    "subject_code": "ECON",
+    "course_code": "364",
+    "credit": "3-6",
+    "course_name": "The Economics of Sustainable Development: Communities, Markets and Technology",
+    "faculty": "Faculty of Arts",
+    "description": "Research and seminars on topics of concern to economists and communities located locally and internationally. Environmental sustainability, sustainable livelihoods, development effectiveness, institutions, agency, ethics, and well-being. Theoretical approaches, case studies, and community-based learning. Restricted to BA students with at least 3rd year standing and BIE students with at least 2nd year standing. Students are expected to have completed at least 9 ECON credits prior to registration. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 365": {
+    "subject_code": "ECON",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Topics in Canadian Industrial Organization and Regulation Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Current topics in industrial organization and regulation with emphasis on Canadian federal and provincial policy. The content will differ from year to year. Possible subjects include the regulation of transportation and communications, environmental regulation, marketing boards and other forms of agricultural regulation, competition and anti-combines policy, industrial organization and trade policy, and issues in consumer protection. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 367": {
+    "subject_code": "ECON",
+    "course_code": "367",
+    "credit": "3",
+    "course_name": "Economic Analysis of Law",
+    "faculty": "Faculty of Arts",
+    "description": "The economics of market failure, equity and efficiency. Property rights, the economics of accident and contract law, economic theories of law enforcement. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 370": {
+    "subject_code": "ECON",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Benefit-Cost Analysis and the Economics of Project Evaluation",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques and problems in benefit-cost analysis of public projects. Examination of alternative approaches to public decision-making such as cost-effectiveness analysis and multiple-objective frameworks. Case studies of projects in the areas of natural resources, the environment, human resources, public services, and transportation. Prerequisite: One of ECON 101, ECON 310."
+  },
+  "ECON 371": {
+    "subject_code": "ECON",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Economics of the Environment",
+    "faculty": "Faculty of Arts",
+    "description": "Economic analysis applied to various environmental issues, including sustainable development, quality of life, and environmental impacts of specific industrial and consumption activities. The design and implementation of government policies. Global environmental effects of human economic activity. Credit will be granted for only one of COEC 475, COMM 487, or ECON 371. Prerequisite: One of ECON 101, ECON 310."
+  },
+  "ECON 374": {
+    "subject_code": "ECON",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Land Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Economic analysis applied to problems of land use. Rent theory. Land valuation. Land conservation. Techniques for assessing economic efficiency of land use. Effects of institutions and public policies on land use. Credit will be granted for only one of ECON_V 374 or FRE_V 374. Prerequisite: One of ECON_V 101, ECON_V 310. Equivalency: FRE_V 374."
+  },
+  "ECON 384": {
+    "subject_code": "ECON",
+    "course_code": "384",
+    "credit": "3",
+    "course_name": "Economic Analysis of Health Services",
+    "faculty": "Faculty of Arts",
+    "description": "Microeconomic theory of resource allocation with emphasis on the applications of optimizing models of health service markets. Analysis of Canadian problems in health service supply. Models of the consumer/patient, the physician/entrepreneur, the not-for-profit hospital/firm, and the third-party regulatory and payment agency. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 390": {
+    "subject_code": "ECON",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Introduction to Economic Research",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in economic research. Application of research methods to economic data. Credit will be granted for only one of ECON_V 390, ECON_V 490, ECON_V 494, or ECON_V 499. Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311 and one of MATH_V 100, MATH_V 102, MATH_V 104, MATH_V 110, MATH_V 120, MATH_V 180, MATH_V 184. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 392": {
+    "subject_code": "ECON",
+    "course_code": "392",
+    "credit": "3-9",
+    "course_name": "Topics in Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website (https://economics.ubc.ca/courses/?subject=econ) for more information. Prerequisite: One of ECON 101, ECON 310 and one of ECON 102, ECON 311."
+  },
+  "ECON 398": {
+    "subject_code": "ECON",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Introduction to Causal Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and practice of the analytical application of economics. Causality, causal modeling, empirical analysis, and the use of theoretical models in policy evaluation and other practical applications. Prerequisite: Either (a) one of ECON_V 101, ECON_V 310, ECON_V 102, ECON_V 311 and one of STAT_V 200, STAT_V 201, STAT_V 241, STAT_V 251, COMM_V 191, FRST_V 231; or (b) one of ECON_V 226, ECON_V 325, ECON_V 326, ECON_V 327; or (c) permission of the instructor."
+  },
+  "ECON 406": {
+    "subject_code": "ECON",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Topics in Microeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in advanced microeconomic analysis. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 303, ECON 306, ECON 316."
+  },
+  "ECON 407": {
+    "subject_code": "ECON",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Topics in Macroeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in advanced macroeconomic analysis. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 302, ECON 305, ECON 309."
+  },
+  "ECON 408": {
+    "subject_code": "ECON",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Computational Methods in Macroeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Computational tools and algorithms used in macroeconomics and financial economics including applications to unemployment, inequality, asset pricing, and economic growth. Prerequisite: One of ECON 301, ECON 304, ECON 315 and one of ECON 323, CPSC 103, CPSC 107, CPSC 110, CPSC 301, MATH 210, COMM 337, PHYS 210, EOSC 211, APSC 160 and one of MATH 152, MATH 221, MATH 223."
+  },
+  "ECON 420": {
+    "subject_code": "ECON",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Optimization and Economic Theory",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to static and dynamic optimization methods with economic applications. Prerequisite: MATH 200 and one of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 421": {
+    "subject_code": "ECON",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Introduction to Game Theory and Applications",
+    "faculty": "Faculty of Arts",
+    "description": "Principles of rational behaviour in strategic situations and various notions of equilibrium useful in predicting outcomes. Applications from economics, business, politics, law and biology. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 422": {
+    "subject_code": "ECON",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Mathematics for Economists",
+    "faculty": "Faculty of Arts",
+    "description": "Provides the required preparation in mathematics for the study of graduate economic theory. Solving systems of simultaneous equations; unconstrained and constrained maxima; elementary theory of difference and differential equations. Restricted to students taking graduate economic theory courses."
+  },
+  "ECON 425": {
+    "subject_code": "ECON",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Advanced Econometrics",
+    "faculty": "Faculty of Arts",
+    "description": "The study and analysis of advanced econometric models. Topics may include statistical inference on various models with nonlinearity and endogeneity, such as models with instrumental variables, discrete-choice models, panel regression models, models of causal inference, and machine learning methods. Prerequisite: One of ECON 326, ECON 328, STAT 306, LFS 252."
+  },
+  "ECON 426": {
+    "subject_code": "ECON",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Econometric Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Further topics in econometrics including such areas as nonlinear estimation, distributed lag models, time-series analysis, time-varying parameters, multivariate analysis, simulation and forecasting models, Monte Carlo experiments, duration models, large econometric models, Bayesian statistics, asymptotic theory, and ergodic theory. Prerequisite: [ECON425]"
+  },
+  "ECON 441": {
+    "subject_code": "ECON",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "The Process of Economic Development",
+    "faculty": "Faculty of Arts",
+    "description": "Industrialization of an agrarian economy; how the West grew rich; history of Japanese development; technical progress and growth; evolution of the patterns of income distribution; role of international trade in development; environment and development. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 442": {
+    "subject_code": "ECON",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Issues in Economic Development",
+    "faculty": "Faculty of Arts",
+    "description": "Divergence in the world economy, poverty, consequences of initial inequality, institutions, the impact of history, recent developmental experience--some case studies, labour and credit markets, the trickle down process. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 447": {
+    "subject_code": "ECON",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Monetary Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Theoretical analysis of economies that use money; the emergence of money; the roles of money in the economy; models of money demand; the optimal quantity of money seignorage and inflation; monetary policy and macroeconomic stability; monetary policy in an open economy. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 302, ECON 305, ECON 309."
+  },
+  "ECON 450": {
+    "subject_code": "ECON",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Economics of Taxation",
+    "faculty": "Faculty of Arts",
+    "description": "Economic analysis of taxation. Equity, efficiency, and incidence of government revenue sources such as personal and corporate income taxes, sales taxes, property taxes, payroll taxes, and environmental taxes. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 302, ECON 305, ECON 309."
+  },
+  "ECON 451": {
+    "subject_code": "ECON",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Economics of Public Expenditures",
+    "faculty": "Faculty of Arts",
+    "description": "The role of government in the economy; efficiency and economic justice. Theory of public goods; applications to topics such as education, medical care and social services. Pricing and investment rules for public enterprises. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 302, ECON 305, ECON 309."
+  },
+  "ECON 455": {
+    "subject_code": "ECON",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "International Trade",
+    "faculty": "Faculty of Arts",
+    "description": "International trade theory and policy in general equilibrium; relative costs, factor proportions, imperfect competition and the pattern of trade; efficiency and distribution. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 456": {
+    "subject_code": "ECON",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "International Macroeconomics and Finance",
+    "faculty": "Faculty of Arts",
+    "description": "Balance of payments; market for foreign exchange; mechanism for adjusting the balance of payments; internal vs. external stability; current problems and issues. Credit will be granted for only one of ECON 456, COEC 377, or COMM 377. Prerequisite: One of ECON 302, ECON 305, ECON 309."
+  },
+  "ECON 457": {
+    "subject_code": "ECON",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Seminar in International Economic Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics focusing upon various issues arising in international economic relations. Open only to fourth-year students in the Major program in International Relations. Credit shall not count towards 400-level ECON courses for economics majors, combined majors, honours, and the B.I.E. Prerequisite: One of ECON_V 101, ECON_V 310 and one of ECON_V 102, ECON_V 311."
+  },
+  "ECON 460": {
+    "subject_code": "ECON",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Economics of Labour Markets",
+    "faculty": "Faculty of Arts",
+    "description": "The theory of labour supply and demand for individuals, households, and firms. Policy implications for Canadian taxation and benefit programs. Employee selection, hiring and promotion. Credit may not be obtained for both ECON 360 and 460. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 302, ECON 305, ECON 309."
+  },
+  "ECON 465": {
+    "subject_code": "ECON",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Market Structure",
+    "faculty": "Faculty of Arts",
+    "description": "Market structure and social welfare, theory of price discrimination, equilibrium in oligopolistic markets, entry and exit decisions, product differentiation and spatial models, theories of hierarchical organization, agency problem in the modern corporation, vertical integration and control, market structure and technical progress. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 466": {
+    "subject_code": "ECON",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "The Economics of Government Regulation of Business",
+    "faculty": "Faculty of Arts",
+    "description": "Normative and positive theories of government regulation of business. Topics include natural monopoly, socially optimal monopoly pricing, regulation of multi-firm industries, competition policy. Selected empirical studies. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 467": {
+    "subject_code": "ECON",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Economics of Crime and Policing",
+    "faculty": "Faculty of Arts",
+    "description": "The application of methods and theory to topics related to the criminal justice system with a specific focus on the role of policy in reducing crime rates, punitiveness and systemic inequality. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 326, ECON 328, STAT 306, LFS 252."
+  },
+  "ECON 471": {
+    "subject_code": "ECON",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Economics of Nonrenewable Resources",
+    "faculty": "Faculty of Arts",
+    "description": "Application of economic analysis to the management of nonrenewable natural resources. Emphasis is placed on the economics of alternative energy sources. Other topics include mineral economics, criteria for the optimal use of resources, and measurement of resources. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 472": {
+    "subject_code": "ECON",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Economics of Renewable Resources",
+    "faculty": "Faculty of Arts",
+    "description": "Application of economic analysis to the management of renewable resources. Special attention is given to criteria for the optimal use of depleting resources such as forests and water. Other topics include public policy with regard to environmental quality, conservation, and outdoor recreation. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 473": {
+    "subject_code": "ECON",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Economics of Climate Change",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of climate change as examined through economic thinking and research. Social and economic outcomes, social cost of carbon, policies to mitigate or adapt to climate change, and climate justice. Prerequisites: One of ECON_V 301, ECON_V 304, ECON_V 315, COMM_V 295 or FRST_V 318; and one of ECON_V 326, ECON_V 328, STAT_V 306, or FRE_V 326."
+  },
+  "ECON 482": {
+    "subject_code": "ECON",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "The Economic Consequences of Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the economic aspects of religious behaviour, the structure of religious organizations, the effects of competition in the religious marketplace, the economic benefits of religion, and some of the ill-effects of religion (such as religious strife and terrorism). Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295."
+  },
+  "ECON 485": {
+    "subject_code": "ECON",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Political Economy",
+    "faculty": "Faculty of Arts",
+    "description": "State and politics in economics. How states emerge, how dictators stay in power. Why groups engage in costly conflict, how countries turn into democracies and what its benefits are. Prerequisite: One of ECON 301, ECON 304, ECON 315, COMM 295 and one of ECON 302, ECON 305, ECON 309 and one of ECON 326, ECON 328, STAT 306, LFS 252."
+  },
+  "ECON 490": {
+    "subject_code": "ECON",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Seminar in Applied Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Selected problems and issues in the theory and practice of Economics. Each section will focus on a different field. Restricted to students in Economics Majors and Combined Majors in Economics in their final academic session. Credit will only be granted for one of ECON_V 390, ECON_V 490, ECON_V 494, ECON_V 499. Prerequisite: One of ECON_V 326, ECON_V 328, STAT_V 306, FRE_V 326 and one of ECON_V 301, ECON_V 304, ECON_V 315, COMM_V 295 and one of ECON_V 302, ECON_V 305, ECON_V 309. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 492": {
+    "subject_code": "ECON",
+    "course_code": "492",
+    "credit": "3-6",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "ECON 493": {
+    "subject_code": "ECON",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Advanced Empirical Methods for International Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Econometric methodologies necessary to conduct applied research, including time series analysis and panel data methods; review of empirical work in international economics. Registration restricted to students in the Bachelor of International Economics Program. Prerequisite: ECON_V 328. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 494": {
+    "subject_code": "ECON",
+    "course_code": "494",
+    "credit": "3",
+    "course_name": "Seminar in Applied International Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on a particular aspect of applied international economics. Independent empirical research project required. Credit will only be granted for one of ECON_V 390, 490, 494, 499. Registration restricted to students in the Bachelor of International Economics Program. Prerequisite: ECON_V 493. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 495": {
+    "subject_code": "ECON",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Honours Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Reports and group discussions of selected topics for fourth-year Honours students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 499": {
+    "subject_code": "ECON",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": "Essay on some theoretical, applied, or institutional problem. Open only to fourth-year Honours students. Credit will only be granted for one of ECON_V 390, 490, 494, 499. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 500": {
+    "subject_code": "ECON",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Microeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 502": {
+    "subject_code": "ECON",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Macroeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 514": {
+    "subject_code": "ECON",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Computational Microeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisites: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 515": {
+    "subject_code": "ECON",
+    "course_code": "515",
+    "credit": "3-6",
+    "course_name": "Special Topics in Microeconomic Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 516": {
+    "subject_code": "ECON",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Special Topics in Macroeconomics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 517": {
+    "subject_code": "ECON",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Comparing Societies: Understanding Diverse Social Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 518": {
+    "subject_code": "ECON",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "History of Economic Analysis I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 519": {
+    "subject_code": "ECON",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "History of Economic Analysis II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 522": {
+    "subject_code": "ECON",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Economic Applications of Game Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 523": {
+    "subject_code": "ECON",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Behavioural Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 526": {
+    "subject_code": "ECON",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Quantitative Economics with Data Science Applications",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 527": {
+    "subject_code": "ECON",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Econometric Methods of Economic Research",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 531": {
+    "subject_code": "ECON",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Economic History I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 532": {
+    "subject_code": "ECON",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Economic History II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 541": {
+    "subject_code": "ECON",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Economic Development I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 542": {
+    "subject_code": "ECON",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Economic Development II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 543": {
+    "subject_code": "ECON",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Political Economy I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 544": {
+    "subject_code": "ECON",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Political Economy II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 546": {
+    "subject_code": "ECON",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Monetary Theory and Policy I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 547": {
+    "subject_code": "ECON",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Monetary Theory and Policy II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 550": {
+    "subject_code": "ECON",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Public Economics I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 551": {
+    "subject_code": "ECON",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Public Economics II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 553": {
+    "subject_code": "ECON",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Wealth and Income Inequality",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 555": {
+    "subject_code": "ECON",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "International Trade",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 556": {
+    "subject_code": "ECON",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "International Finance",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 557": {
+    "subject_code": "ECON",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Empirical Topics in International Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 560": {
+    "subject_code": "ECON",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Economics of Labour I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 561": {
+    "subject_code": "ECON",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Economics of Labour II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 562": {
+    "subject_code": "ECON",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Research Design and Policy Evaluation in Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 565": {
+    "subject_code": "ECON",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Market Structure and Business Behaviour",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 566": {
+    "subject_code": "ECON",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Business Performance and Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 567": {
+    "subject_code": "ECON",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Organization Theory and Non-market Allocation",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 571": {
+    "subject_code": "ECON",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "The Economics of Renewable Resources",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 572": {
+    "subject_code": "ECON",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "The Economics of Non-renewable Resources",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 573": {
+    "subject_code": "ECON",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Environmental Economics I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 574": {
+    "subject_code": "ECON",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Environmental Economics II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 580": {
+    "subject_code": "ECON",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Social and Economic Measurement",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 581": {
+    "subject_code": "ECON",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Cost-Benefit Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 590": {
+    "subject_code": "ECON",
+    "course_code": "590",
+    "credit": "2-6",
+    "course_name": "Special Advanced Course",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 592": {
+    "subject_code": "ECON",
+    "course_code": "592",
+    "credit": "2-6",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 594": {
+    "subject_code": "ECON",
+    "course_code": "594",
+    "credit": "6",
+    "course_name": "Applied Economics",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON MA students only. Prerequisite: Either (a) all of ECON_V 500, ECON_V 502, ECON_V 526, ECON_V 527 or (b) all of ECON_V 600, ECON_V 601, ECON_V 602, ECON_V 603, ECON_V 626, ECON_V 627. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 595": {
+    "subject_code": "ECON",
+    "course_code": "595",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON MA students only. Pass/Fail. Prerequisite: All of ECON 500, ECON 502, ECON 526, ECON 527. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 599": {
+    "subject_code": "ECON",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 600": {
+    "subject_code": "ECON",
+    "course_code": "600",
+    "credit": "3",
+    "course_name": "Microeconomics I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 601": {
+    "subject_code": "ECON",
+    "course_code": "601",
+    "credit": "3",
+    "course_name": "Microeconomics II",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON Ph.D. students only. External students may request permission to take this course from the ECON graduate program office. Prerequisite: ECON_V 600. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 602": {
+    "subject_code": "ECON",
+    "course_code": "602",
+    "credit": "3",
+    "course_name": "Macroeconomics I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 603": {
+    "subject_code": "ECON",
+    "course_code": "603",
+    "credit": "3",
+    "course_name": "Macroeconomics II",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON Ph.D. students only. External students may request permission to take this course from the ECON graduate program office. Prerequisite: ECON_V 602. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 620": {
+    "subject_code": "ECON",
+    "course_code": "620",
+    "credit": "3",
+    "course_name": "Mathematical Economics I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 621": {
+    "subject_code": "ECON",
+    "course_code": "621",
+    "credit": "3",
+    "course_name": "Mathematical Economics II",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. ECON, Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 622": {
+    "subject_code": "ECON",
+    "course_code": "622",
+    "credit": "3",
+    "course_name": "Computational Economics with Data Science Applications",
+    "faculty": "Faculty of Arts",
+    "description": "Computational tools used in modern economic research; applications of data science and machine learning in economics; generating data from the web and text; software tools for reproducible research. Course restricted to ECON PhD students only. External students may request permission to take this course from the ECON graduate program office. Prerequisite: ECON 627. Prior graduate-level work in econometrics is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 626": {
+    "subject_code": "ECON",
+    "course_code": "626",
+    "credit": "3",
+    "course_name": "Econometric Theory I",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to Ph.D. ECON. External students may request permission to take this course from the ECON graduate program office. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 627": {
+    "subject_code": "ECON",
+    "course_code": "627",
+    "credit": "3",
+    "course_name": "Econometric Theory II",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON PhD students only. External students may request permission to take this course from the ECON graduate program office. Prerequisite: ECON_V 626. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 628": {
+    "subject_code": "ECON",
+    "course_code": "628",
+    "credit": "1-3",
+    "course_name": "Topics in Applied Econometrics I",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON Ph.D. students only. External students may request permission to take this course from the ECON graduate program office. Prerequisite: All of ECON 500, ECON 502, ECON 526, ECON 527. Prior graduate level work in econometrics is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 629": {
+    "subject_code": "ECON",
+    "course_code": "629",
+    "credit": "1-3",
+    "course_name": "Topics in Applied Econometrics II",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON Ph.D. students only. External students may request permission to take this course from the ECON graduate program office. Prerequisite: All of ECON 500, ECON 502, ECON 526, ECON 527. Prior graduate-level work in econometrics is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 640": {
+    "subject_code": "ECON",
+    "course_code": "640",
+    "credit": "3",
+    "course_name": "Ph.D. Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON PhD students only. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ECON 699": {
+    "subject_code": "ECON",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "Course restricted to ECON PhD students only. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

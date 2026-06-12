@@ -1,0 +1,26 @@
+{
+  "LASO 204": {
+    "subject_code": "LASO",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Introduction to Law and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Ideas, concepts, and frameworks for thinking about the nature of law and legal processes in both Canadian and global contexts."
+  },
+  "LASO 309": {
+    "subject_code": "LASO",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Against the Law",
+    "faculty": "Faculty of Arts",
+    "description": "Competing approaches to law and legal authority shaped by conflicts over historical and contemporary inequalities, including the exercise of and challenges to coercive law enforcement and claims made for legal redress."
+  },
+  "LASO 350": {
+    "subject_code": "LASO",
+    "course_code": "350",
+    "credit": "3-12",
+    "course_name": "Topics in Law and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary approaches to topics such as the purpose of law, retribution and punishment, restorative justice, ethics, property ownership, human rights, gender equality, legal change, or civil disobedience."
+  }
+}

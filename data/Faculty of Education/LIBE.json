@@ -1,0 +1,114 @@
+{
+  "LIBE 461": {
+    "subject_code": "LIBE",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Administration of the School Library Resource Centre",
+    "faculty": "Faculty of Education",
+    "description": "The role, philosophy, and management of school library resource centres in elementary and secondary schools. [3-0-0]"
+  },
+  "LIBE 463": {
+    "subject_code": "LIBE",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "Selection of Learning Resources I",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "LIBE 465": {
+    "subject_code": "LIBE",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Organization of Learning Resources",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "LIBE 467": {
+    "subject_code": "LIBE",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Information Services I",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "LIBE 477": {
+    "subject_code": "LIBE",
+    "course_code": "477",
+    "credit": "3-6",
+    "course_name": "Special Topics in Teacher Librarianship",
+    "faculty": "Faculty of Education",
+    "description": "In-depth study of selected topics in library education. [3-0-0]"
+  },
+  "LIBE 494": {
+    "subject_code": "LIBE",
+    "course_code": "494",
+    "credit": "3-6",
+    "course_name": "Supervised Study in Teacher Librarianship",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LIBE 508": {
+    "subject_code": "LIBE",
+    "course_code": "508",
+    "credit": "3-6",
+    "course_name": "Theory and Research in Teacher Librarianship",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 527": {
+    "subject_code": "LIBE",
+    "course_code": "527",
+    "credit": "3-6",
+    "course_name": "Seminar in Teacher Librarianship",
+    "faculty": "Faculty of Education",
+    "description": "Research and its application for school library resource centres. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 561": {
+    "subject_code": "LIBE",
+    "course_code": "561",
+    "credit": "3-12",
+    "course_name": "Laboratory Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 565": {
+    "subject_code": "LIBE",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "Special Course in Subject Matter Field",
+    "faculty": "Faculty of Education",
+    "description": "Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 580": {
+    "subject_code": "LIBE",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Problems in Education",
+    "faculty": "Faculty of Education",
+    "description": "Investigation and report of a problem. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 590": {
+    "subject_code": "LIBE",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Paper",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 598": {
+    "subject_code": "LIBE",
+    "course_code": "598",
+    "credit": "3-12",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "For students in master's, doctoral, and diploma programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBE 599": {
+    "subject_code": "LIBE",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

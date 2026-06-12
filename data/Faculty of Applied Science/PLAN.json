@@ -1,0 +1,546 @@
+{
+  "PLAN 211": {
+    "subject_code": "PLAN",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "City-Making: A Global Perspective",
+    "faculty": "Faculty of Applied Science",
+    "description": "Contemporary city development trends, policies, and practices across the globe as explored against the backdrop of culture and technology. Includes hands-on learning."
+  },
+  "PLAN 221": {
+    "subject_code": "PLAN",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "City Visuals",
+    "faculty": "Faculty of Applied Science",
+    "description": "An exploratory journey through the vast world of visualizing the city and ways of representing the built environment, including how to both interpret and use visualizations to read the city. Prerequisite: Second-year standing or above in any program."
+  },
+  "PLAN 231": {
+    "subject_code": "PLAN",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Methods of Community Engagement",
+    "faculty": "Faculty of Applied Science",
+    "description": "Examination of various approaches to hands-on engagement with urban communities while examining the meaning of public, community, and participation. Prerequisite: Second-year standing."
+  },
+  "PLAN 248": {
+    "subject_code": "PLAN",
+    "course_code": "248",
+    "credit": "3-6",
+    "course_name": "Special Topics in Urban Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selected topics in urban studies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 321": {
+    "subject_code": "PLAN",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Indigeneity and the City",
+    "faculty": "Faculty of Applied Science",
+    "description": "Place-based exploration of the multiple, complex and contested ways urban Indigeneity is constituted in Canada today, with opportunities for field trips and hands-on learning. Prerequisite: Third-year standing or above in any program. Second year students may be admitted with permission of instructor."
+  },
+  "PLAN 331": {
+    "subject_code": "PLAN",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "The Just City in a Divided World",
+    "faculty": "Faculty of Applied Science",
+    "description": "Considers the city as a terrain for the manifestation and mediation of social justice. Explores how the allocation of land, goods, and services in cities (re)produces social stratification, and how institutions and civil society negotiate just and unjust outcomes. Prerequisite: Third-year standing or above in any program. Second year students may be admitted with permission of instructor."
+  },
+  "PLAN 341": {
+    "subject_code": "PLAN",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Smart Cities: Concepts, Methods and Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Rapid transformation of cities by information technology and socio-economic innovation; growth in citizen-generated data and the internet of things; emerging theory, methods, and frameworks for understanding Smart Cities. Prerequisite: Third-year standing or above in any program. Second-year students may be admitted with permission of instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 348": {
+    "subject_code": "PLAN",
+    "course_code": "348",
+    "credit": "3-6",
+    "course_name": "Special Topics in Urban Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selected topics in urban studies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 351": {
+    "subject_code": "PLAN",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Green Cities",
+    "faculty": "Faculty of Applied Science",
+    "description": "The key social and technological challenges, contradictions, and opportunities in planning for ecologically sound urbanization. Prerequisite: Second-year standing."
+  },
+  "PLAN 352": {
+    "subject_code": "PLAN",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Planning for Urban Climate and Energy Transitions",
+    "faculty": "Faculty of Applied Science",
+    "description": "Urban planning approaches to mitigating and adapting to climate change with a focus on local-level energy system transitions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 361": {
+    "subject_code": "PLAN",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Community Planning in a World of Diversity",
+    "faculty": "Faculty of Applied Science",
+    "description": "Examination of how the diverse, multicultural, and cosmopolitan aspects of cities create challenges and opportunities for community planning. Prerequisite: Third-year standing."
+  },
+  "PLAN 372": {
+    "subject_code": "PLAN",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Urban Housing Justice and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Critical overview of urban housing systems and policy tools for housing justice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 425": {
+    "subject_code": "PLAN",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Urban Planning Issues and Concepts",
+    "faculty": "Faculty of Applied Science",
+    "description": "Evolution, practice and future of urban planning and development, with emphasis on institutional arrangements, housing, transportation, urban design and development control. For third- and fourth-year undergraduate students interested in urban planning. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 448": {
+    "subject_code": "PLAN",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Special Topics in Urban Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selected topics in urban studies."
+  },
+  "PLAN 452": {
+    "subject_code": "PLAN",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Urban Studies Capstone II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of key elements of urban studies theory, concepts, and methods to a community-engaged urban challenge. Prerequisite: GEOG 451. Fourth-year standing. Equivalency: URST452"
+  },
+  "PLAN 461": {
+    "subject_code": "PLAN",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Planning for Health Equity",
+    "faculty": "Faculty of Applied Science",
+    "description": "The role of urban planning and policy in producing social and environmental conditions for health equity. Restricted to students in the Bachelor of Arts Major in Urban Studies with at least fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 500": {
+    "subject_code": "PLAN",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Comparative Perspectives on Planning History and Futures",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 501": {
+    "subject_code": "PLAN",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Reconciliation and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 502": {
+    "subject_code": "PLAN",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Sustainability and Resilience in Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 504": {
+    "subject_code": "PLAN",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Urban Design and Visual Representation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 505": {
+    "subject_code": "PLAN",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Planning Theory, Values, and Ethics",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 506": {
+    "subject_code": "PLAN",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Information and Analysis in Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 507": {
+    "subject_code": "PLAN",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Engagement and Facilitation for Planners",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 508": {
+    "subject_code": "PLAN",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Foundations of Planning Theory and History",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 509": {
+    "subject_code": "PLAN",
+    "course_code": "509",
+    "credit": "2",
+    "course_name": "Urbanism as a Global Way of Life",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 510": {
+    "subject_code": "PLAN",
+    "course_code": "510",
+    "credit": "2",
+    "course_name": "Environment and Sustainability Concepts for Planning Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 511": {
+    "subject_code": "PLAN",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "The Legal and Institutional Context of Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 512": {
+    "subject_code": "PLAN",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Urban Economics, Infrastructure, and Real Estate Issues in Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 513": {
+    "subject_code": "PLAN",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Making and Implementing Community and Regional Plans",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 514": {
+    "subject_code": "PLAN",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Indigenous Planning: Ways of Being, Knowing and Doing",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 515": {
+    "subject_code": "PLAN",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Indigenous Law, Governance and Community Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 516": {
+    "subject_code": "PLAN",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Planning for Community Economic Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 517": {
+    "subject_code": "PLAN",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Theory and Methods of Urban Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of urban design theory to a neighbourhood design. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 521": {
+    "subject_code": "PLAN",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Quantitative Skills for Planners",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 522": {
+    "subject_code": "PLAN",
+    "course_code": "522",
+    "credit": "2",
+    "course_name": "Qualitative Data Collection and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 523": {
+    "subject_code": "PLAN",
+    "course_code": "523",
+    "credit": "2",
+    "course_name": "The Profession of Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 524": {
+    "subject_code": "PLAN",
+    "course_code": "524",
+    "credit": "2",
+    "course_name": "Legal Concepts for Professional Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 525": {
+    "subject_code": "PLAN",
+    "course_code": "525",
+    "credit": "2",
+    "course_name": "Planning Practice Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 526": {
+    "subject_code": "PLAN",
+    "course_code": "526",
+    "credit": "6",
+    "course_name": "Selected Topics in Experimental Learning: The Planning Studio",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 527": {
+    "subject_code": "PLAN",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Internship",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 528": {
+    "subject_code": "PLAN",
+    "course_code": "528",
+    "credit": "3-6",
+    "course_name": "Capstone Professional Report",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 530": {
+    "subject_code": "PLAN",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Affordable Housing Policy and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "The history of housing and homelessness policies as well as current issues and challenges faced by municipalities, regional governments, non-profit housing providers, and others. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 531": {
+    "subject_code": "PLAN",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Planning for Disaster-Resilient Communities",
+    "faculty": "Faculty of Applied Science",
+    "description": "Natural disasters from the perspective of risk analysis, risk reduction, and planning for disaster-resilient communities. Focus primarily on Canada and the U.S. but includes disaster risk globally. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 532": {
+    "subject_code": "PLAN",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Strategic Planning: Developing and Implementing Policy Plans",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and practice of developing and implementing plans for sustainable regions, cities, and neighbourhoods. Combining land use, transportation, environment, socio-economic, and financial directions, managing plan making including public participation, and writing council reports. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 534": {
+    "subject_code": "PLAN",
+    "course_code": "534",
+    "credit": "1",
+    "course_name": "Introduction to Geographic Information Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory, history and capabilities behind GIS, with customized laboratory exercises that incorporate urban design and planning themes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 535": {
+    "subject_code": "PLAN",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Transportation Planning & Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Foundations of urban travel modelling: data needs; survey and sampling techniques; model calibration and validation; discrete choice modeling; 4-step travel demand forecasting (trip generation, distribution, modal choice, and assignment); activity based models; integrated land use/transport models. Credit will be granted for only one of CIVL_V 441, CIVL_V 583, or PLAN_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 540": {
+    "subject_code": "PLAN",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Planning Praxis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 541": {
+    "subject_code": "PLAN",
+    "course_code": "541",
+    "credit": "6",
+    "course_name": "Planning Studio",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 542": {
+    "subject_code": "PLAN",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Practical Practice: City Planning as a Craft",
+    "faculty": "Faculty of Applied Science",
+    "description": "Approach, role, style, and essential skills of practical urban planning: working at the community level; developing overall policy; managing development; undertaking urban design; and engaging in the political process. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 543": {
+    "subject_code": "PLAN",
+    "course_code": "543",
+    "credit": "12",
+    "course_name": "Indigenous Community Planning Practicum",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 545": {
+    "subject_code": "PLAN",
+    "course_code": "545",
+    "credit": "3-12",
+    "course_name": "Planning Studies Abroad",
+    "faculty": "Faculty of Applied Science",
+    "description": "An extended site visit outside Canada to understand the cultural context for community and regional planning issues and the local institutional response. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 548": {
+    "subject_code": "PLAN",
+    "course_code": "548",
+    "credit": "1-12",
+    "course_name": "Current Issues in Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Each year the school may offer one or more courses on a topical issue covering recent advances in the field. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 549": {
+    "subject_code": "PLAN",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Research and preparation of a thesis on a topic in public policy or professional practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 550": {
+    "subject_code": "PLAN",
+    "course_code": "550",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Students must contact the department for permission to register. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 558": {
+    "subject_code": "PLAN",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "The Role of Theory in Planning Research",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course will be taken in the first term of the Master's program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 559": {
+    "subject_code": "PLAN",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Design of Planning- and Policy-Oriented Research",
+    "faculty": "Faculty of Applied Science",
+    "description": "Research design for SCARP thesis-based Master's students. Approaches for designing research methodologies and thesis structure. Selection processes for research focus; linking research problems to methodological sources; logics of structuring the thesis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 560": {
+    "subject_code": "PLAN",
+    "course_code": "560",
+    "credit": "1",
+    "course_name": "Master's Thesis Workshop",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 565": {
+    "subject_code": "PLAN",
+    "course_code": "565",
+    "credit": "1-12",
+    "course_name": "Current Issues in Real Property Development and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics will vary. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 579": {
+    "subject_code": "PLAN",
+    "course_code": "579",
+    "credit": "3",
+    "course_name": "Public Health, Transportation, and the Built Environment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Health issues associated with transportation and the built environment; design of urban form for non-motorized transportation for the improvement of personal and environmental health; factors that impact transportation choices; applying findings from research to specific transportation planning processes and projects. Credit will be granted for only one of PLAN_V 579 or SPPH_V 571. Equivalency: SPPH_V 571. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 580": {
+    "subject_code": "PLAN",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Urban Transportation Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics include the relationship between transportation and urban activity systems; analysis of supply and demand; accessibility and environment; institutional arrangements and public finance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 583": {
+    "subject_code": "PLAN",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Housing and Community Planning Policy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Homes and communities are a focus of public policy for local and senior governments. Overview of past and current policies addressing the design and development of homes and communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 587": {
+    "subject_code": "PLAN",
+    "course_code": "587",
+    "credit": "3-12",
+    "course_name": "Urban Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "A studio/seminar on the history of the physical form of cities and theories of city design. Topics include social impacts, heritage and environmental conservation, urban revitalization, and the legal and administrative instruments for the implementation of city designs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 591": {
+    "subject_code": "PLAN",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Land Use and Environmental Policy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Identify potential impacts of human land use activities on environmental systems; review policies in place at various levels of government in Canada (and elsewhere) that promote sustainable development and reduce negative impacts; assess effectiveness of those policies; design new policies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 597": {
+    "subject_code": "PLAN",
+    "course_code": "597",
+    "credit": "3",
+    "course_name": "Planning for Water Resources Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "The relationships among relevant bio-physical, socio-economic and institutional systems as applied to regional planning for watersheds, lakes, estuaries, coastal zones and international river basins. Water supply, waste disposal, fisheries, aquaculture, recreation, hydropower and flood control. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 601": {
+    "subject_code": "PLAN",
+    "course_code": "601",
+    "credit": "3",
+    "course_name": "Research Methods Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 602": {
+    "subject_code": "PLAN",
+    "course_code": "602",
+    "credit": "3",
+    "course_name": "Planning Theory Advanced Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 603": {
+    "subject_code": "PLAN",
+    "course_code": "603",
+    "credit": "3",
+    "course_name": "Ph.D. Colloquium",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLAN 649": {
+    "subject_code": "PLAN",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

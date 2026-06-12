@@ -1,0 +1,42 @@
+{
+  "STS 501": {
+    "subject_code": "STS",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Proseminar in Science and Technology Studies",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "Classic work in the history, philosophy, rhetoric, and sociology of science, and the development of a unified science and technology studies. Required for all students in the STS Program. This course is co-taught. This course is not eligible for Credit/D/Fail grading."
+  },
+  "STS 502": {
+    "subject_code": "STS",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Core Seminar in Science and Technology Studies",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "Thematizes the relations of historical, philosophical, literary, rhetorical, sociological, and anthropological approaches to science and technology. Recommended pre-requisite: STS_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "STS 597": {
+    "subject_code": "STS",
+    "course_code": "597",
+    "credit": "3",
+    "course_name": "Master's Colloquium in Science and Technology Studies",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "STS 598": {
+    "subject_code": "STS",
+    "course_code": "598",
+    "credit": "3-6",
+    "course_name": "Doctoral Colloquium in Science and Technology Studies",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "STS 599": {
+    "subject_code": "STS",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

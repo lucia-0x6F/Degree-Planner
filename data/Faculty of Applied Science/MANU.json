@@ -1,0 +1,210 @@
+{
+  "MANU 201": {
+    "subject_code": "MANU",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Technical Communication",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication in business correspondence, engineering design methods, report preparation and oral presentations of technical material. Restricted to students in second year of the Manufacturing Engineering Program. [3-0-0]. Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 112, ENGL_V 120, ENGL_V 121, WRDS_V 150. Equivalency: APSC_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 231": {
+    "subject_code": "MANU",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Introduction to Manufacturing Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Core professional and technical skills for manufacturing engineers. Project management, teamwork, design principles, and foundational knowledge in mechanical, materials, electrical, and programming domains through collaborative, hands-on projects. [2-2-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 261": {
+    "subject_code": "MANU",
+    "course_code": "261",
+    "credit": "3",
+    "course_name": "Thermodynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermodynamic system and properties, thermodynamic processes; work and heat interactions. Conservation of energy and First Law, internal energy and enthalpy, the Second Law and entropy, application to manufacturing processes. [3-0-1] Prerequisite: All of MATH_V 101, MATH_V 152, PHYS_V 157. Corequisite: MATH_V 255. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 265": {
+    "subject_code": "MANU",
+    "course_code": "265",
+    "credit": "3",
+    "course_name": "Machine Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Classifications of mechanisms, velocity, acceleration and force analysis, graphical and computer-oriented vector and matrix methods, balancing, flywheels, gears, gear trains, cams. [3-0-2*] Prerequisite: All of MATH_V 101, MATH_V 152, PHYS_V 170. Corequisite: MATH_V 255. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 270": {
+    "subject_code": "MANU",
+    "course_code": "270",
+    "credit": "3",
+    "course_name": "Production Systems Management I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Impact of operations in increasing productivity and reducing waste. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 280": {
+    "subject_code": "MANU",
+    "course_code": "280",
+    "credit": "4",
+    "course_name": "Manufacturing Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory, operational constraints, and problem solving in traditional manufacturing processes. Casting, heat treatment, bulk deformation (i.e. rolling, extrusion, drawing), machining, joining, and composites processing. Experiments in process and product characterization. Credit will be granted for only one of MANU_V 280 or MANU_V 230. [1-2-0; 1-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 330": {
+    "subject_code": "MANU",
+    "course_code": "330",
+    "credit": "6",
+    "course_name": "Manufacturing Engineering Project I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Project-based, multi-step manufacturing engineering design and problem solving. [1-4-0; 1-4-0]. Prerequisite: MANU_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 370": {
+    "subject_code": "MANU",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Production Systems Management II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Functional area of production and operations management. Decision-making, capacity planning, aggregate planning, inventory management, distribution planning, materials requirements planning and quality control. [3-0-0]. Prerequisite: MANU_V 270. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 378": {
+    "subject_code": "MANU",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Engineering Materials II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Materials selection for different design criteria; importance of shape and processing variables; computer software in selection. Credit will be granted for only one of MTRL_V 280 or MANU_V 378. [2-0-3]. Prerequisite: APSC_V 278. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 380": {
+    "subject_code": "MANU",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Manufacturing Processes I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Correlation between material properties and processibility for practical engineering manufacturing routes. Calculations and design. Application of heat/mass/fluid transport, mechanics and thermodynamics to manufacturing processes. [2-0-3] Prerequisite: All of APSC_V 278, APSC_V 279, MTRL_V 264, MECH_V 260 and one of MECH_V 280, MTRL_V 263. Corequisite: MANU_V 261. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 386": {
+    "subject_code": "MANU",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Industrial Automation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principle components of manufacturing automation, modelling of sensors-actuators and control systems, robotic programming, programmable logical control (PLC) systems and development of PLC ladder diagrams. [2-3*-1]. Prerequisite: All of MANU_V 265, MATH_V 255. Corequisite: MANU_V 330. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 399": {
+    "subject_code": "MANU",
+    "course_code": "399",
+    "credit": "1-6",
+    "course_name": "Special Topics in Manufacturing Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 400": {
+    "subject_code": "MANU",
+    "course_code": "400",
+    "credit": "1-9",
+    "course_name": "Topics in Manufacturing Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 430": {
+    "subject_code": "MANU",
+    "course_code": "430",
+    "credit": "6",
+    "course_name": "Manufacturing Design Capstone Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Project-based, multi-step, multi-part Capstone design project involving manufacturing engineering design methods, problem solving. [1-4-0; 1-4-0]. Prerequisite: MANU_V 330. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 450": {
+    "subject_code": "MANU",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Biomedical Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Bulk and nanoscale manufacturing processes for biomedical devices, materials and therapeutics; drug delivery; host-tissue biomaterial interactions; surface modification of medical devices; sterilization techniques; good manufacturing processes; medical device regulation. [3-0-0] Prerequisite: Third-year standing or higher."
+  },
+  "MANU 453": {
+    "subject_code": "MANU",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Additive Manufacturing Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design tools and methods for additive manufacturing, complex digital geometry creation, computer aided design tools, additive manufacturing workflow development, producibility analysis, analysis of 3D data sets for suitability to additive manufacturing processes. [2-2-0]. Prerequisite: Third-year standing or greater. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 455": {
+    "subject_code": "MANU",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Factory Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Resources planning, layout and logistics. Modular production and cyber-physical manufacturing systems in laboratory scale, virtual manufacturing and factory automation. [2-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 456": {
+    "subject_code": "MANU",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Manufacturing Information Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Data engineering and industrial IoT for smart manufacturing. Implementation of data pipelines, edge/cloud systems, and analytics to integrate factory operations with enterprise platforms. [2-2-0] Prerequisite: MANU_V 386. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 457": {
+    "subject_code": "MANU",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Smart Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to smart manufacturing systems and digital transformation strategies. Industry 4.0/5.0, IIoT architectures, smart factories, digital twins, cyber-physical systems, and cybersecurity. [3-2*-0] Prerequisite: All of MANU_V 330, MANU_V 386. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 458": {
+    "subject_code": "MANU",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Manufacturing for Clean Energy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Manufacturing and the net-zero energy transition; renewable, low-carbon and sustainable energy and electricity generation; energy, electricity transport, storage and batteries; hydrogen economy; carbon capture utilization and storage (CCUS). [3-0-0]. Prerequisite: Third-year standing or greater. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 465": {
+    "subject_code": "MANU",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "AI and Machine Learning Applications in Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Artificial intelligence, machine learning techniques, Deep learning, Python libraries for machine learning, Basic signal processing techniques, Data Acquisition, Applications in Manufacturing, Use of sound to evaluate operation of CNC machinery, Use of AE sensor to evaluate metal 3D printing. [3-0-1]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 480": {
+    "subject_code": "MANU",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Manufacturing Processes II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Numerical modelling of manufacturing processes, linkage between material, process, properties and product geometry, heat/mass transport, thermodynamics and design principles applied to practical engineering processes. [2-0-3] Prerequisite: MANU_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 481": {
+    "subject_code": "MANU",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Manufacturing Processes III",
+    "faculty": "Faculty of Applied Science",
+    "description": "Integrating concepts of primary (casting), secondary (deformation), and tertiary (machining and surface treatment) processes and economic and environmental assessment. [2-0-3]. Prerequisite: MANU_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 485": {
+    "subject_code": "MANU",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Metal Cutting and Machine Tool Vibrations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Metal cutting and grinding mechanics; prediction of force-torque-power in turning, drilling, milling and grinding operations. Machine tool vibrations, forced and self-excited vibrations in machining, experimental modal testing of machine tools, chatter, and stability. Credit will be granted for only one of MANU_V 485 or MECH_V 592. [3-1*-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 487": {
+    "subject_code": "MANU",
+    "course_code": "487",
+    "credit": "3",
+    "course_name": "Machine and Part Metrology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Laser interferometer measurement of volumetric accuracy; error mapping, modelling and compensation of errors, rotation metrology, spindle accuracy. Part dimension and surface metrology. Metrology instruments: coordinate measurement machine, surface profile meter, laser interferometer and ball bar. [2-2-0]. Prerequisite: All of MANU_V 265, MATH_V 255, MECH_V 368. Corequisite: MANU_V 430. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MANU 499": {
+    "subject_code": "MANU",
+    "course_code": "499",
+    "credit": "1-6",
+    "course_name": "Special Topics in Manufacturing Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "[2-2-0]. Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  }
+}

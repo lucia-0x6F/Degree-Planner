@@ -1,0 +1,66 @@
+{
+  "FMST 210": {
+    "subject_code": "FMST",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Family Context of Human Development",
+    "faculty": "Faculty of Arts",
+    "description": "The influence of family dynamics and social conditions on human development."
+  },
+  "FMST 238": {
+    "subject_code": "FMST",
+    "course_code": "238",
+    "credit": "3",
+    "course_name": "Family Resource Management",
+    "faculty": "Faculty of Arts",
+    "description": "Conceptual models of resource management as related to families."
+  },
+  "FMST 312": {
+    "subject_code": "FMST",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Parent-child Relationships",
+    "faculty": "Faculty of Arts",
+    "description": "Parent-child interaction over the life span. Recommended pre-requisites: one of SOCI 200, FMST 210."
+  },
+  "FMST 314": {
+    "subject_code": "FMST",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Relationship Development",
+    "faculty": "Faculty of Arts",
+    "description": "The study of the development, course, and decline of personal relationships. Recommended pre-requisites: one of SOCI 200, PSYC 100, PSYC 101, PSYC 102, SOCI 240."
+  },
+  "FMST 316": {
+    "subject_code": "FMST",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Human Sexuality",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of human sexual development and behaviour. Recommended pre-requisites: one of SOCI 200, PSYC 100, PSYC 101, PSYC 102, SOCI 240."
+  },
+  "FMST 441": {
+    "subject_code": "FMST",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Social Context of Child Development",
+    "faculty": "Faculty of Arts",
+    "description": "The ways in which the familial, physical, and social environment affect the life structures, opportunities and outcomes of epigenetic developmental processes. Credit will be granted for only one of FMST 441 or SOWK 441. Credit will be granted for only one of FMST 441 or SOWK 441. Equivalency: SOWK 441"
+  },
+  "FMST 524": {
+    "subject_code": "FMST",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Family Development",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of research and theory on the timing and sequencing of the course of family life in North American families. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FMST 549": {
+    "subject_code": "FMST",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

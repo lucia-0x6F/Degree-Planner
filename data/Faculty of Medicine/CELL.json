@@ -1,0 +1,114 @@
+{
+  "CELL 501": {
+    "subject_code": "CELL",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Cell and Developmental Biology Research Literature",
+    "faculty": "Faculty of Medicine",
+    "description": "Development of written communication and critical thinking skills. Prerequisite: BIOL_V 530. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 502": {
+    "subject_code": "CELL",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Current Topics in Developmental Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "Cellular and molecular mechanisms of development from the earliest stages of axis formation to organogenesis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 503": {
+    "subject_code": "CELL",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Current Topics in Cellular Communication",
+    "faculty": "Faculty of Medicine",
+    "description": "Cellular communication within tissues by direct contact and by modulating and responding to the microenvironment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 504": {
+    "subject_code": "CELL",
+    "course_code": "504",
+    "credit": "1.5",
+    "course_name": "Current Topics in Cytoskeleton and Cell Motility",
+    "faculty": "Faculty of Medicine",
+    "description": "Structure and function of the cytoskeleton, and its involvement in various forms of cell and intracellular motility. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 505": {
+    "subject_code": "CELL",
+    "course_code": "505",
+    "credit": "1.5",
+    "course_name": "Current Topics in Intracellular Trafficking",
+    "faculty": "Faculty of Medicine",
+    "description": "Organization of membranes and organelles within cells and how molecules are targeted to intracellular sites. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 506": {
+    "subject_code": "CELL",
+    "course_code": "506",
+    "credit": "1.5",
+    "course_name": "Fluorescence Microscopy",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles and applications in biological research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 507": {
+    "subject_code": "CELL",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Special Techniques and Protocols in Cell and Developmental Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 508": {
+    "subject_code": "CELL",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Molecular Genetic Analysis",
+    "faculty": "Faculty of Medicine",
+    "description": "Methodologies and resources for genetic analysis of cellular function. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 509": {
+    "subject_code": "CELL",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Cell Systems Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "The integration of basic cellular processes to produce a functioning cell. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 510": {
+    "subject_code": "CELL",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Molecular Embryology",
+    "faculty": "Faculty of Medicine",
+    "description": "Examination of the molecular interactions that underlie the later stages of embryological development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 511": {
+    "subject_code": "CELL",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Cellular and Molecular Mechanisms of Human Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Cell biology in the age of evidence-based medicine. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 512": {
+    "subject_code": "CELL",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Gene and Cell-based Therapies for Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "The development of gene and cell-based therapies and their translation into clinical use. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 549": {
+    "subject_code": "CELL",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CELL 649": {
+    "subject_code": "CELL",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

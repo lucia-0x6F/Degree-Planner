@@ -1,0 +1,162 @@
+{
+  "CINE 100": {
+    "subject_code": "CINE",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Cinema Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Basic aesthetic, economic, sociological, and technological aspects of film. Credit will be granted for only one of FIST_V 100 or CINE_V 100. Equivalency: FIST_V 100."
+  },
+  "CINE 200": {
+    "subject_code": "CINE",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Canadian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "History and aesthetics of Canadian cinema. Credit will be granted for only one of FIST_V 200 or CINE_V 200. Equivalency: FIST_V 200."
+  },
+  "CINE 210": {
+    "subject_code": "CINE",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Early Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Aesthetics, economics, history, and technological characteristics of international early film. Credit will be granted for only one of FIST_V 210 or CINE_V 210. Equivalency: FIST_V 210."
+  },
+  "CINE 220": {
+    "subject_code": "CINE",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Hollywood Cinema 1930-1960",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the aesthetics, economics, history and technological characteristics of the Classical Hollywood period. Credit will be granted for only one of FIST_V 220 or CINE_V 220. Equivalency: FIST_V 220."
+  },
+  "CINE 230": {
+    "subject_code": "CINE",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Introduction to Asian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of the cinemas of China, India, Japan, and Korea. Credit will be granted for only one of FIST_V 230 or CINE_V 230. Equivalency: FIST_V 230."
+  },
+  "CINE 240": {
+    "subject_code": "CINE",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Media Industries",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of today's film and media industries, and of the concepts governing their practices. Credit will be granted for only one of FIST_V 240 or CINE_V 240. Equivalency: FIST_V 240."
+  },
+  "CINE 300": {
+    "subject_code": "CINE",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Cult Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of world cult cinema. Credit will be granted for only one of FIST_V 300 or CINE_V 300. Equivalency: FIST_V 300."
+  },
+  "CINE 331": {
+    "subject_code": "CINE",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Studies in Film Theory",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar introducing the many theoretical approaches to film: formalist, historical, Marxist, psychoanalytic, semiotic, and structuralist. Credit will be granted for only one of FIST_V 331 or CINE_V 331. Equivalency: FIST_V 331."
+  },
+  "CINE 332": {
+    "subject_code": "CINE",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Studies in Genre or Period",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar examining one or more genres or periods, such as the Western, Film Noir, Science Fiction, Films of the 1980's. Also includes study of national cinemas. Credit will be granted for only one of FIST_V 332 or CINE_V 332. Equivalency: FIST_V 332."
+  },
+  "CINE 334": {
+    "subject_code": "CINE",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Seminar in Documentary",
+    "faculty": "Faculty of Arts",
+    "description": "An analysis of the representational strategies and ethics of the form. Credit will be granted for only one of FIST_V 334 or CINE_V 334. Equivalency: FIST_V 334."
+  },
+  "CINE 336": {
+    "subject_code": "CINE",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Seminar in European Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Topics may include a study of a European national cinema. Credit will be granted for only one of FIST_V 336 or CINE_V 336. Equivalency: FIST_V 336."
+  },
+  "CINE 338": {
+    "subject_code": "CINE",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "Asian and Australasian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Topics may include an analysis of a national cinema, such as that of China, India, or Australia. Credit will be granted for only one of FIST_V 338 or CINE_V 338. Equivalency: FIST_V 338."
+  },
+  "CINE 340": {
+    "subject_code": "CINE",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Media Audiences",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of approaches for studying audiences and receptions of film and contemporary media. Credit will be granted for only one of FIST_V 340 or CINE_V 340. Equivalency: FIST_V 340."
+  },
+  "CINE 430": {
+    "subject_code": "CINE",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Studies in Auteurism",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar examining the work of one or more directors, such as John Ford, Francois Truffaut, Denys Arcand, Margarethe Von Trotta, or of a screenwriter over many films. Credit will be granted for only one of FIST_V 430 or CINE_V 430. Equivalency: FIST_V 430."
+  },
+  "CINE 432": {
+    "subject_code": "CINE",
+    "course_code": "432",
+    "credit": "3-6",
+    "course_name": "Seminar in Motion Picture Forms",
+    "faculty": "Faculty of Arts",
+    "description": "Animation, experimental, and/or multimedia. A maximum of 6 credits will be granted for FIST_V 432 or CINE_V 432. Equivalency: FIST_V 432."
+  },
+  "CINE 434": {
+    "subject_code": "CINE",
+    "course_code": "434",
+    "credit": "3-6",
+    "course_name": "Studies in Film",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar devoted to a topic of current interest in film. Topic will change from year to year. May be repeated for credit when topics differ. A maximum of 6 credits will be granted for FIST_V 434 or CINE_V 434. Equivalency: FIST_V 434."
+  },
+  "CINE 436": {
+    "subject_code": "CINE",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Seminar in American Cinema Since 1960",
+    "faculty": "Faculty of Arts",
+    "description": "Topics may include an analysis of a specific period. Credit will be granted for only one of FIST_V 436 or CINE_V 436. Equivalency: FIST_V 436."
+  },
+  "CINE 438": {
+    "subject_code": "CINE",
+    "course_code": "438",
+    "credit": "3",
+    "course_name": "Seminar in Canadian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Topics may include an analysis of the Canadian Governmental agencies supporting Film Production. A maximum of 6 credits will be granted for FIST_V 438 or CINE_V 438. Equivalency: FIST_V 438."
+  },
+  "CINE 445": {
+    "subject_code": "CINE",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Majors and Honours Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of FIST_V 445 or CINE_V 445. Equivalency: FIST_V 445."
+  },
+  "CINE 449": {
+    "subject_code": "CINE",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": "A course allowing honours students to work with a faculty member on a major research paper. Credit will be granted for only one of FIST_V 449 or CINE_V 449. Equivalency: FIST_V 449"
+  }
+}

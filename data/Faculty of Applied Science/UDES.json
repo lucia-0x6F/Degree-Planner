@@ -1,0 +1,74 @@
+{
+  "UDES 501": {
+    "subject_code": "UDES",
+    "course_code": "501",
+    "credit": "9",
+    "course_name": "Urban Design Studio I",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 502": {
+    "subject_code": "UDES",
+    "course_code": "502",
+    "credit": "9",
+    "course_name": "Urban Design Studio II",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 503": {
+    "subject_code": "UDES",
+    "course_code": "503",
+    "credit": "9",
+    "course_name": "Urban Design Studio III",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 504": {
+    "subject_code": "UDES",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "History and Theory of Urban Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 505": {
+    "subject_code": "UDES",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Urban Design as Public Policy: Policymaking for a Sustainable Region",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 506": {
+    "subject_code": "UDES",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Real Estate Economics: Development Feasibility and Financing",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 507": {
+    "subject_code": "UDES",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Urban Design Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "Urban design methods and interrelated topics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 508": {
+    "subject_code": "UDES",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Case Studies in Urban Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UDES 509": {
+    "subject_code": "UDES",
+    "course_code": "509",
+    "credit": "1-6",
+    "course_name": "Topics in Urban Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Faculty-initiated graduate seminars related to topics in urban design. This course is not eligible for Credit/D/Fail grading."
+  }
+}

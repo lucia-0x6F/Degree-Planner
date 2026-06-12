@@ -1,0 +1,82 @@
+{
+  "LWS 501": {
+    "subject_code": "LWS",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Advanced Soil Processes",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Integration of soil physics, chemistry, and biology in understanding essential soil processes. Equivalency: SOIL_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 510": {
+    "subject_code": "LWS",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Land and Water Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Current and emerging issues relevant within the general context of land and water systems, and the significance of professional credibility and exposure. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 515": {
+    "subject_code": "LWS",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Watershed Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Watershed evaluation, key aspects of hydrology, water quality, land use impacts on water resources and integration of multiple land use activities and their cumulative impacts. Equivalency: SOIL_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 516": {
+    "subject_code": "LWS",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Urban Watershed Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Urbanization impacts on water resources with a focus on rainwater management, water quality, point and non-point sources of pollution, drinking water and waste water, riparian buffer zones, cumulative effects, and application of beneficial management practices. Equivalency: SOIL_V 516. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 517": {
+    "subject_code": "LWS",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Land and Water Resource Evaluation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Topics in land and water system evaluations and assessing resource development options: monitoring and modelling environmental systems. Equivalency: SOIL_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 520": {
+    "subject_code": "LWS",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Agricultural Watershed Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Intensive and extensive agriculture with a focus on water needs, water use, and impacts on water resources. Non-point sources of pollution, nutrient modelling, soil and land degradation, protection, and rehabilitation of watersheds including buffer zones, wetlands, and best management practices. Equivalency: SOIL_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 525": {
+    "subject_code": "LWS",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Global Issues in Land and Water Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Historical framework of importance of water basins, legacy between water basins and human evolution, effects of agriculture, forestry, industry and urbanization. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 530": {
+    "subject_code": "LWS",
+    "course_code": "530",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Land and Water Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 548": {
+    "subject_code": "LWS",
+    "course_code": "548",
+    "credit": "6",
+    "course_name": "Major Project",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Professional paper on topics focusing on emerging issues in water and land resources. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LWS 550": {
+    "subject_code": "LWS",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Professional Communications Strategies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Communication strategies for natural resource management professionals, with an emphasis on written, oral and digital media communications in a multi-stakeholder context. This course is not eligible for Credit/D/Fail grading."
+  }
+}

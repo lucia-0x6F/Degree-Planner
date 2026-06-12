@@ -1,0 +1,50 @@
+{
+  "GRS 290": {
+    "subject_code": "GRS",
+    "course_code": "290",
+    "credit": "2",
+    "course_name": "Global Issues in Cultural Context",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken prior to studying abroad. [0-0-2; 0-0-2] Prerequisite: Open only to students in the B.Sc. (GRS) program."
+  },
+  "GRS 300": {
+    "subject_code": "GRS",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Global Water and Energy Nexus",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Energy water nexus for sustaining ecological goods and services, and food security; significance in global resource systems. Prerequisite: One of CHEM 111, CHEM 121 and one of BIOL 112, BIOL 121, BIOL 140."
+  },
+  "GRS 390": {
+    "subject_code": "GRS",
+    "course_code": "390",
+    "credit": "2",
+    "course_name": "Global Issues in Cultural Context",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken while studying abroad. [0-0-2] Prerequisite: GRS_V 290"
+  },
+  "GRS 397": {
+    "subject_code": "GRS",
+    "course_code": "397",
+    "credit": "2-6",
+    "course_name": "Regional Directed Field Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Participating students may be assessed a fee."
+  },
+  "GRS 490": {
+    "subject_code": "GRS",
+    "course_code": "490",
+    "credit": "2",
+    "course_name": "Global Issues in Cultural Context",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Students interact face-to-face and online as a community of learners to discuss global issues in agriculture, food, and natural resources in cultural context. Typically taken after studying abroad. [0-0-2] Prerequisite: GRS_V 390"
+  },
+  "GRS 497": {
+    "subject_code": "GRS",
+    "course_code": "497",
+    "credit": "2-6",
+    "course_name": "Regional Directed Field Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Participating students may be assessed a fee. Prerequisite: GRS_V 397."
+  }
+}

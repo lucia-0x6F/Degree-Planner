@@ -1,0 +1,450 @@
+{
+  "FNH 160": {
+    "subject_code": "FNH",
+    "course_code": "160",
+    "credit": "3",
+    "course_name": "Integrated Physiology for Human Nutrition I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Basic principles in human physiology, including function of the nervous, endocrine, musculoskeletal and digestive systems, integration across systems, maintenance of homeostasis, and application to human nutrition. Prerequisite: One of CHEM 11, CHEM 12, CHEM 100, CHEM 110, CHEM 111 and one of BIOL 11, ATPH 12, BIOL 12, BIOL 111. FNH 160 and 161 together are credit-excluded with BIOL 153 and 155."
+  },
+  "FNH 161": {
+    "subject_code": "FNH",
+    "course_code": "161",
+    "credit": "3",
+    "course_name": "Integrated Physiology for Human Nutrition II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Basic principles in human physiology, including function of the cardiovascular, immune, respiratory, urinary and reproductive systems, integration across systems, maintenance of homeostasis, and application to human nutrition. Prerequisite: FNH 160. FNH 160 and 161 together are credit-excluded with BIOL 153 and 155."
+  },
+  "FNH 200": {
+    "subject_code": "FNH",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Exploring Our Food",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Chemical and physical properties of foods; issues pertaining to safety, nutritive value and consumer acceptability; government regulations pertaining to food safety, quality and additives; preservation techniques and transformation of agricultural commodities to food products; foods of the future. [3-0-0] Prerequisite: At least second year standing required."
+  },
+  "FNH 250": {
+    "subject_code": "FNH",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Nutrition Concepts and Controversies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Fundamental concepts and principles of human nutrition applied to current nutrition issues. Prerequisite: Either (a) all of FNH 160, FNH 161 or (b) one of BIOL 111, BIOL 112, BIOL 153, BIOL 155 or (c) all of KIN 131, KIN 132. At least second-year standing required."
+  },
+  "FNH 290": {
+    "subject_code": "FNH",
+    "course_code": "290",
+    "credit": "3-6",
+    "course_name": "Introductory Topics in Food, Nutrition, and Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and interpretation of current issues in food, nutrition, and health. Topics will vary from year to year."
+  },
+  "FNH 300": {
+    "subject_code": "FNH",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Food Engineering",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Units and dimensions, mass balance, energy balance, steady state and transient heat flow, fluid handling and measurement. Prerequisite: One of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, PHYS 158, PHYS 170."
+  },
+  "FNH 301": {
+    "subject_code": "FNH",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Food Chemistry",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Chemical and physical properties and reactions of food constituents, including water, carbohydrates, proteins, lipids, minerals and vitamins. Prerequisite: Either CHEM_V 203 or CHEM_V 233."
+  },
+  "FNH 302": {
+    "subject_code": "FNH",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Food Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Principles of and procedures for analysis of the chemical and physical properties of food; proximate analysis; introduction to instrumental analysis; reporting and analysis of data. Prerequisite: Either (a) CHEM_V 205, (b) CHEM_V 210, or (c) CHEM_V 211; and either (a) CHEM_V 203 or (b) CHEM_V 233."
+  },
+  "FNH 303": {
+    "subject_code": "FNH",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Food Product Development",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Introduction to and application of concepts involved in food product formulation and development. Prerequisite: One of LFS 252, BIOL 300, EPSE 482, FRST 231, STAT 200. FNH 301 recommended."
+  },
+  "FNH 309": {
+    "subject_code": "FNH",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Food Processing",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Preservation of tissue and fluid food systems by selected physical and chemical treatments with emphasis on product-process interactions. Prerequisite: One of PHYS 12, PHYS 100, PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, PHYS 158, PHYS 170."
+  },
+  "FNH 313": {
+    "subject_code": "FNH",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Food Microbiology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Roles of microorganisms in food production, preservation, spoilage, and foodborne disease; factors affecting growth, survival and inactivation of microorganisms in foods; methods for identifying, enumerating, and eliminating microorganisms in food-production environments. [3-0-0] Prerequisite: BIOL 112. third-year standing."
+  },
+  "FNH 325": {
+    "subject_code": "FNH",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Food Science Laboratory I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Laboratory techniques used in food chemistry, microbiology and processing; statistical analysis and presentation of experimental data; scientific report writing. Enrolment restricted to Food Science students. Prerequisite: FNH 200. Corequisite: All of FNH 301, FNH 309, FNH 313."
+  },
+  "FNH 326": {
+    "subject_code": "FNH",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Food Science Laboratory II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Laboratory techniques used in food analysis, food processing, sensory science and product development; statistical analysis and presentation of experimental data; scientific report writing. Enrolment restricted to Food Science students. Prerequisite: FNH 325. Corequisite: All of FNH 302, FNH 303."
+  },
+  "FNH 330": {
+    "subject_code": "FNH",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Introduction to Wine Science I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Principles of viticulture, enology, and wine microbiology and chemistry; marketing, regulation and classification of wines from selected regions of the world; social, economic and health aspects of wine consumption; wine appreciation. Prerequisite: Third-year standing or higher."
+  },
+  "FNH 335": {
+    "subject_code": "FNH",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Introduction to Wine Science II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Review of diverse styles of wine with consideration of classic wine-producing areas. Concepts in wine microbiology/chemistry; overview of steps in grape processing for diverse wine styles. Comparison of regulations for Canadian VQA systems with international systems. Wine sensory analysis. [3-1-0] Prerequisite: FNH 330. and third-year standing or higher."
+  },
+  "FNH 340": {
+    "subject_code": "FNH",
+    "course_code": "340",
+    "credit": "4.5",
+    "course_name": "Food Theory and Applications",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Principles of food preparation based on the physical and chemical properties of food, and experimental and practical applications to food preparation. [1.5-3-0] Prerequisite: FNH_V 200 and either (a) all of CHEM_V 111, CHEM_V 113 or (b) all of CHEM_V 121, CHEM_V 123. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 342": {
+    "subject_code": "FNH",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Critical Perspectives on Consumer Food Practices",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Personal, collective, and policy factors affecting food choices, including perceptions of healthy eating, gender, identity, family structures, and economic, sociocultural, and political forces. [3-0-0] Prerequisite: At least third year standing required."
+  },
+  "FNH 345": {
+    "subject_code": "FNH",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Counselling Skills in Dietetics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Counselling in dietetics: communication theory and foundational counselling skills. Prerequisite: FNH_V 370. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 350": {
+    "subject_code": "FNH",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Fundamentals of Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Fundamentals of energy and macronutrient metabolism. Prerequisite: FNH_V 250 and one of BIOL_V 201, BIOC_V 202, BIOC_V 203."
+  },
+  "FNH 351": {
+    "subject_code": "FNH",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Vitamins, Minerals, and Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Vitamin and mineral nutrition and their role in maintaining and promoting health. Prerequisite: FNH_V 250 and one of BIOL_V 201, BIOC_V 202, BIOC_V 203."
+  },
+  "FNH 355": {
+    "subject_code": "FNH",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "International Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Conceptualization and scientific analyses of global problems in food and nutrition; complexities of food habits and malnutrition in various cultures around the world. [3-0-0]"
+  },
+  "FNH 370": {
+    "subject_code": "FNH",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Nutrition Assessment",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "The use of dietary, anthropometric, biochemical, and related information for the assessment of nutritional status of individuals and populations. Prerequisite: FNH 250."
+  },
+  "FNH 371": {
+    "subject_code": "FNH",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Human Nutrition Over The Life Span",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Nutritional requirements and dietary patterns of healthy individuals throughout the life span. [3-0-0] Prerequisite: FNH 250."
+  },
+  "FNH 375": {
+    "subject_code": "FNH",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Nutrition Care I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Fundamentals of nutrition care: the nutrition care process (NCP), documentation, nutritional risk and nutritional status assessment, metabolic stress, supplements, pharmacology, and body weight. NCP applied to food allergies and intolerances, gastrointestinal symptoms. Introduction to chronic diseases. Restricted to students in year 3 of the dietetics major. Prerequisite: All of FNH_V 350, FNH_V 370 and either (a) one of BIOL_V 153, BIOL_V 155, CAPS_V 301 or (b) all of FNH_V 160 and FNH_V 161. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 380": {
+    "subject_code": "FNH",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Professional Dietetic Practice I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Introduction to the profession of dietetics in Canada. Restricted to students in the Dietetics Major. Prerequisite: Third-year standing in the Dietetics Major. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 381": {
+    "subject_code": "FNH",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Dietetics Practice Education Placement I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placements in settings across British Columbia. Restricted to students in the Dietetics Major. Prerequisite: All of FNH_V 375, FNH_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 398": {
+    "subject_code": "FNH",
+    "course_code": "398",
+    "credit": "4",
+    "course_name": "Research Methods in Human Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Process of research; principles and processes in utilizing research. Restricted to students in majors in the FNH program. Prerequisite: FNH 250 and either (a) LFS 252 or (b) BIOL 300 or (c) EPSE 482 or (d) FRST 231 or (e) STAT 200."
+  },
+  "FNH 401": {
+    "subject_code": "FNH",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Advances in Plant and Cell-Based Foods",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Examination of meat, egg, fish, and dairy analogues made using plants, recombinant proteins, and cell cultures, from the molecular to the macroscopic level. Relation of molecular details to physical and sensory properties. Health and sustainability impacts. Prerequisite: One of BIOL_V 201, BIOC_V 202, BIOC_V 203, CHEM_V 203 or CHEM_V 233. 3rd-year standing or higher."
+  },
+  "FNH 402": {
+    "subject_code": "FNH",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Functional Foods",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Functional food concepts related to efficacy and safety; examples of bioactive component-disease relationships; natural health products; approval of functional food and health claims; the importance of clinical studies in support of efficacy for health claims; market determinants of functional foods. Prerequisite: One of BIOL_V 201, BIOC_V 202, BIOC_V 203, and third-year standing. Equivalency: PHAR_V 431"
+  },
+  "FNH 403": {
+    "subject_code": "FNH",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Food Laws, Regulations and Quality Assurance",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Canadian and international laws governing food composition, grading, quality and safety; hazard analysis critical control points; statistical quality assurance. Prerequisite: One of LFS_V 252, STAT_V 200, FRST_V 231, BIOL_V 300, EPSE_V 482, or equivalent background in statistics."
+  },
+  "FNH 404": {
+    "subject_code": "FNH",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Food Safety and Quality Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Food production plant sanitation, environmental monitoring, global food safety standards, and food plant internal audits. Prerequisite: FNH 403."
+  },
+  "FNH 405": {
+    "subject_code": "FNH",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Microbiology of Food and Beverage Fermentation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Fermentation methods, mechanism and microbiology of nonalcoholic fermented foods and alcoholic fermented beverages (beer, cider, sake). Prerequisite: One of MICB_V 211, MICB_V 212, BIOL_V 201, BIOL_V 203, BIOC_V 202, BIOC_V 203. Third-year standing."
+  },
+  "FNH 413": {
+    "subject_code": "FNH",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Food Safety",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Microbial and chemical factors that underlie public health challenges in the food supply chain; prevalence and nature of organisms which cause foodborne diseases; approaches and technologies for improvement of food safety. Prerequisite: One of MICB_V 211, MICB_V 212, CHEM_V 233, FNH_V 313."
+  },
+  "FNH 414": {
+    "subject_code": "FNH",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Sustainability in the Food Industry",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Regenerative sustainability and the sustainability nexus; health and environmental impacts of the food industry; environmental performance indicators and management systems; approaches to enhance sustainability in the food industry. Prerequisite: One of FNH 309, FNH 313."
+  },
+  "FNH 415": {
+    "subject_code": "FNH",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Business Concepts in Food, Nutrition, and Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Introduction to and application of business activities in food, nutrition, and health settings. Credit will only be granted for only one of FNH 415, FOOD 515, or FRE 515. Prerequisite: At least third-year standing in the Faculty of Land and Food Systems."
+  },
+  "FNH 419": {
+    "subject_code": "FNH",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Interfacial Phenomena",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of FNH 419 and FOOD 519. Prerequisite: FNH 300. or equivalent. Equivalency: CHBE 487"
+  },
+  "FNH 425": {
+    "subject_code": "FNH",
+    "course_code": "425",
+    "credit": "6",
+    "course_name": "Food Science Laboratory III",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Integrated course designed to illustrate principles of research and product development in the food industry. [0-3-1] Prerequisite: All of FNH 325, FNH 326."
+  },
+  "FNH 430": {
+    "subject_code": "FNH",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Enology and Wine Biotechnology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Yeasts and bacteria involved in wine making, metabolic pathways leading to the production of flavour and spoilage compounds, genetic improvement of wine yeasts, and red and white wine fermentations. Approaches and technologies for the improvement of wine safety. Sensory evaluation of wines. Prerequisite: One of BIOL 335, MICB 325, FNH 313, BIOC 302."
+  },
+  "FNH 436": {
+    "subject_code": "FNH",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Integrated Functional Genomics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Global transcript, protein and metabolite profiling technologies, their integration, application, and furtherance of our understanding of how higher organisms function in general. Prerequisite: BIOL 335. Equivalency: BIOL436"
+  },
+  "FNH 440": {
+    "subject_code": "FNH",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Food Service Systems Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Management responsibilities in quantity food production with emphasis on menu planning, purchasing and service. Includes planning and equipping food services. Restricted to students in the Dietetics major. Note: Course registrants are required to possess a Foodsafe II certificate. [3-0-0] Prerequisite: FNH_V 340. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 451": {
+    "subject_code": "FNH",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Nutrient Metabolism and Implications for Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Integration of nutrient and energy metabolism on a whole-body and individual tissue basis and the implication for health. Emphasis will be on regulation of nutrient metabolism. Prerequisite: FNH_V 350, one of BIOC_V 302 or BIOC_V 303, and either (a) one of BIOL_V 153, BIOL_V 155, CAPS_V 301 or (b) all of FNH_V 160 and FNH_V 161."
+  },
+  "FNH 454": {
+    "subject_code": "FNH",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Fish Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Physiology of digestion and excretion, nutrient requirements, sources of nutrients, diet formulation, feeding management. [3-0-0] Prerequisite: [FNH 350]"
+  },
+  "FNH 455": {
+    "subject_code": "FNH",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Applied International Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Applying nutrition concepts and principles in addressing problems of malnutrition and food insecurity in international settings. Basics of developing culturally acceptable, sustainable nutrition intervention programs. [3-0-0] Prerequisite: FNH_V 355. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 470": {
+    "subject_code": "FNH",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Nutrition Care II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Enteral nutrition, parenteral nutrition, and the nutrition care process are applied to select diseases or conditions, including trauma, surgery, critical care, respiratory diseases, gastrointestinal diseases, liver diseases, and diseases of the gallbladder and exocrine pancreas. Restricted to students in year 4 of the dietetics major. Prerequisite: All of FNH_V 371, FNH_V 375. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 472": {
+    "subject_code": "FNH",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Maternal and Fetal Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Metabolic adaptations, nutrient metabolism, and special issues during pregnancy that may influence the maternal-fetal nutritional supply. [3-0-0] Corequisite: FNH 350. Third-year standing."
+  },
+  "FNH 473": {
+    "subject_code": "FNH",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Applied Public Health Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Theory and methods in public health nutrition and health promotion program planning to assess, plan, implement, and evaluate nutrition-related programs for communities and populations. Considers factors affecting behavior and the social determinants of health. [3-0-0] Prerequisite: FNH 250 and fourth-year standing."
+  },
+  "FNH 474": {
+    "subject_code": "FNH",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Sport Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Nutritional needs of athletes, including energy, carbohydrate and protein; hydration; pre-and post-event nutrition, weight management and body composition issues; ergogenic aids; sports-specific guidelines; and special athlete populations. Prerequisite: All of FNH 350, FNH 351."
+  },
+  "FNH 475": {
+    "subject_code": "FNH",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Nutrition Care III",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Nutrition care process applied to select diseases and conditions including dysphagia, cancer, neurological conditions, metabolic syndrome, eating disorders, cardiovascular diseases, endocrine diseases, and renal diseases. Restricted to students in year 4 of the dietetics major. Prerequisite: All of BIOC_V 302, FNH_V 470. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 477": {
+    "subject_code": "FNH",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Nutrition and Disease Prevention",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Evidence-based examination of the role of nutrition in the prevention of chronic disease. [3-0-0] Prerequisite: FNH 398."
+  },
+  "FNH 480": {
+    "subject_code": "FNH",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Professional Dietetic Practice II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Skill development and application for practice education placements and dietetic practice settings. Restricted to students in the Dietetics Major. Prerequisite: All of FNH_V 380, FNH_V 381. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 481": {
+    "subject_code": "FNH",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Dietetics Practice Education Placement II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placements in settings across British Columbia. Restricted to students in the Dietetics Major. Pass/Fail. Prerequisite: All of FNH_V 380, FNH_V 381, FNH_V 480. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 482": {
+    "subject_code": "FNH",
+    "course_code": "482",
+    "credit": "12",
+    "course_name": "Dietetics Practice Education Placement III",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placements in settings across British Columbia. Restricted to students in the Dietetics Major. Pass/Fail. Prerequisite: FNH_V 481. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 483": {
+    "subject_code": "FNH",
+    "course_code": "483",
+    "credit": "12",
+    "course_name": "Dietetics Practice Education Placement IV",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placements in settings across British Columbia. Restricted to students in the Dietetics Major. Pass/Fail. Prerequisite: FNH_V 482. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNH 490": {
+    "subject_code": "FNH",
+    "course_code": "490",
+    "credit": "3-12",
+    "course_name": "Advanced Topics in Food, Nutrition, and Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and interpretation of current issues in food, nutrition and health. Prerequisite: 3rd year standing or higher."
+  },
+  "FNH 497": {
+    "subject_code": "FNH",
+    "course_code": "497",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Food, Nutrition and Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": ""
+  },
+  "FNH 499": {
+    "subject_code": "FNH",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Undergraduate Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Design and execution of an experimental/analytical research project leading to preparation of a thesis. Prerequisite: Approval of a program advisor; consult before the end of classes in third year."
+  }
+}

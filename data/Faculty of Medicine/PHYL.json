@@ -1,0 +1,114 @@
+{
+  "PHYL 511": {
+    "subject_code": "PHYL",
+    "course_code": "511",
+    "credit": "2-6",
+    "course_name": "Seminar in Mammalian Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 521": {
+    "subject_code": "PHYL",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Advanced Topics in Renal Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 522": {
+    "subject_code": "PHYL",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Advanced Topics in Cardiovascular Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 523": {
+    "subject_code": "PHYL",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Advanced Topics in Gastrointestinal Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 524": {
+    "subject_code": "PHYL",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Advanced Topics in Endocrinology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 526": {
+    "subject_code": "PHYL",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Advanced Topics in Neurophysiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 527": {
+    "subject_code": "PHYL",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Advanced Topics in Respiratory Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 530": {
+    "subject_code": "PHYL",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Muscle Biophysics",
+    "faculty": "Faculty of Medicine",
+    "description": "Equivalency: ANAT_V 527. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 531": {
+    "subject_code": "PHYL",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Sensory Physiology I: Hearing and Vision",
+    "faculty": "Faculty of Medicine",
+    "description": "Offered in even numbered years. Equivalency: AUDI_V 512 (1986W). This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 532": {
+    "subject_code": "PHYL",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Sensory Physiology II; Vestibular System, Somatic",
+    "faculty": "Faculty of Medicine",
+    "description": "Offered in odd numbered years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 533": {
+    "subject_code": "PHYL",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Physiology of Thermoregulation",
+    "faculty": "Faculty of Medicine",
+    "description": "Comprehensive study of thermoregulatory physiology and pathophysiology from molecular to organismal levels in mammal and other vertebrates. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 548": {
+    "subject_code": "PHYL",
+    "course_code": "548",
+    "credit": "2-6",
+    "course_name": "Advanced Topics in Human Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 549": {
+    "subject_code": "PHYL",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHYL 649": {
+    "subject_code": "PHYL",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,866 @@
+{
+  "CHBE 201": {
+    "subject_code": "CHBE",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Integrated Technical Communication",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication in chemical and biological engineering. Business correspondence, laboratory and technical reports. [3-0-0]. Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 112, ENGL_V 120, ENGL_V 121, WRDS_V 150. Corequisite: CHBE_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 220": {
+    "subject_code": "CHBE",
+    "course_code": "220",
+    "credit": "4",
+    "course_name": "Founding Principles in Chemical and Biological Engineering I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to the Chemical and Biological Engineering profession, and the physical sciences that form the founding principles of design and the discipline. Recommended corequisite: CHBE_V 201. [3-0-2]. Prerequisite: One of CHEM_V 121 and CHEM_V 123 or CHEM_V 154, and MATH_V 101. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 221": {
+    "subject_code": "CHBE",
+    "course_code": "221",
+    "credit": "4",
+    "course_name": "Founding Principles in Chemical and Biological Engineering II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to Chemical and Biological Engineering profession with emphasis on the biological sciences that form the founding principles of the discipline. [3-0-2]. Prerequisite: CHBE_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 230": {
+    "subject_code": "CHBE",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Computational Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mathematical formulation of chemical and biological engineering problems; standard techniques of numerical analysis and their application to chemical, environmental and biotechnological systems; program development; use of commercial numerical analysis software. [2-0-2] Prerequisite: All of APSC_V 160, MATH_V 253. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 241": {
+    "subject_code": "CHBE",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Material and Energy Balances",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to Chemical and Biological Engineering; units; stoichiometry; phase equilibria; material balances; energy balances. [3-0-1]. Prerequisite: One of CHEM_V 121 and CHEM_V 123 or CHEM_V 154 and one of MATH_V 152, MATH_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 243": {
+    "subject_code": "CHBE",
+    "course_code": "243",
+    "credit": "1",
+    "course_name": "Introduction to Chemical and Biological Engineering Process and Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Processes used in chemical and biological industries, which emphasize underlying physical, chemical, and biological principles. [1-0-1*]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 244": {
+    "subject_code": "CHBE",
+    "course_code": "244",
+    "credit": "3",
+    "course_name": "Chemical and Biological Engineering Thermodynamics I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Energy and the first law; second law of thermodynamics; entropy; availability (energy) analysis; thermodynamic properties of fluids, application to power generation, refrigeration, and liquefaction, as well as biological, environmental, and electrochemical systems. [3-0-2*]. Prerequisite: CHBE_V 241. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 251": {
+    "subject_code": "CHBE",
+    "course_code": "251",
+    "credit": "3",
+    "course_name": "Transport Phenomena I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fluid Mechanics. Momentum-transfer in fluids in laminar and turbulent flow; microscopic and macroscopic material; momentum and energy balances; rheology; dimensional analysis; flow in conduits; pumps; fluid metering. [3-0-2*]. Prerequisite: PHYS_V 170. Corequisite: One of MATH_V 255, MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 262": {
+    "subject_code": "CHBE",
+    "course_code": "262",
+    "credit": "4",
+    "course_name": "Chemical Engineering and Applied Chemistry Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Experiments chosen to illustrate and use material presented in 200-level CHBE and CHEM courses. [0-4-0; 0-4-0]. Corequisite: All of CHBE_V 241, CHBE_V 251. Prerequisite: CHEM_V 154. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 263": {
+    "subject_code": "CHBE",
+    "course_code": "263",
+    "credit": "1",
+    "course_name": "Introduction to Chemical and Biological Engineering Laboratory Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to Chemical and Biological Engineering laboratory practice with topics in physical, inorganic and organic chemistry. [0-2-0]. Corequisite: All of CHBE_V 220, CHBE_V 241, CHEM_V 250, CHEM_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 264": {
+    "subject_code": "CHBE",
+    "course_code": "264",
+    "credit": "3",
+    "course_name": "Chemical and Biological Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Laboratory experiment in 2nd year Chemical and Biological Engineering. [1-4-0]. Prerequisite: CHBE_V 263. Corequisite: All of CHBE_V 244, CHBE_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 344": {
+    "subject_code": "CHBE",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Introduction to Unit Operations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Foundational concepts and design equations for unit operations in chemical and biological systems. Examples related to clean energy systems are emphasized. [3-0-2*] Prerequisite: CHBE_V 241 and one of CHBE_V 251, CIVL_V 215. Not for credit for CHBE students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 345": {
+    "subject_code": "CHBE",
+    "course_code": "345",
+    "credit": "4",
+    "course_name": "Unit Operations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Stage-wise mass transfer operations; extraction and absorption; single and stage-wise binary and multi-component distillation; principles and equipment design for continuous contact mass transfer operations including absorption, binary distillation and others such as extraction, drying, and humidification. [4-0-2*]. Prerequisite: All of CHBE_V 346, CHBE_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 346": {
+    "subject_code": "CHBE",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Chemical and Biological Engineering Thermodynamics II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Volumetric and thermodynamic properties of fluids; equations of state; heat effects; ideal and non-ideal mixtures; fugacities and activity coefficients; vapor-liquid and liquid-liquid phase equilibrium; solubility of gases and solids in liquids; chemical reaction equilibrium; equilibrium partitioning of pollutants. Recommended prerequisite: MATH_V 256. [3-0-2*]. Prerequisite: All of CHBE_V 244, MATH_V 253. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 352": {
+    "subject_code": "CHBE",
+    "course_code": "352",
+    "credit": "4",
+    "course_name": "Transport Phenomena II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Heat and mass transfer; conduction and molecular diffusion; convective transfer; analogies among heat, mass and momentum transfer; heat exchanger design; mass transfer coefficients; interphase mass transfer. [4-0-2*]. Prerequisite: One of CHBE_V 251, CIVL_V 215 and MATH_V 256, or third-year or higher standing in ENVE. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 355": {
+    "subject_code": "CHBE",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Kinetics and Reactor Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Kinetics of homogeneous chemical and biological reactions, isothermal ideal reactor design, analysis of non-ideal reactors using residence time distribution and mixing models. [3-0-1]. Prerequisite: All of CHBE_V 230, CHBE_V 346, CHBE_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 356": {
+    "subject_code": "CHBE",
+    "course_code": "356",
+    "credit": "4",
+    "course_name": "Process Dynamics and Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to modelling of chemical processes; transient response analysis; design of feedback control systems; stability analysis; frequency response analysis; process control applications; instrumentation; advanced control techniques; distributed control systems. [3-0-2] Prerequisite: One of MATH_V 255 or MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 362": {
+    "subject_code": "CHBE",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "Process Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Experiments to illustrate and use material presented in 200 and 300-level CHBE courses. Field trips may be required. [1-4-0]. Prerequisite: All of CHBE_V 201, CHBE_V 230, CHBE_V 241, CHBE_V 264. Corequisite: CHBE_V 352 This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 364": {
+    "subject_code": "CHBE",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "Environmental Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Laboratory experiments to illustrate key concepts and measurement techniques in environmental engineering as used by engineers. [1-4-0]. Corequisite: One of CHBE_V 373, CIVL_V 406. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 365": {
+    "subject_code": "CHBE",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Biological Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Laboratory experiments to illustrate key concepts and measurement techniques in biotechnology as used by engineers. Field trips may be required. [1-4-0]. Prerequisite: All of CHBE_V 221, CHBE_V 362. Corequisite: CHBE_V 381. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 366": {
+    "subject_code": "CHBE",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "Chemical Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Experiments to illustrate and use material presented in 300-level Chemical Engineering program courses. Field trips may be required. [1-4-0] Prerequisite: All of CHBE_V 251, CHBE_V 362. Corequisite: All of CHBE_V 345, CHBE_V 356. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 370": {
+    "subject_code": "CHBE",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Fundamentals of Sustainable Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to sustainable practice for Chemical and Biological Engineers. Pollution prevention, cleaner production, green chemistry and engineering, and sustainable design; environmental impact assessment including life-cycle assessment, total cost analysis and environmental systems analysis; applications in chemical and biological process industries. [3-0-2*]. Prerequisite: All of CHBE_V 241, CHBE_V 244, or third-year or higher standing in ENVE. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 373": {
+    "subject_code": "CHBE",
+    "course_code": "373",
+    "credit": "4",
+    "course_name": "Water Technology and Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental principles along with regulatory and practical aspects of purifying water for drinking and treating wastewater for safe discharge or reuse. Engineering application of physical, chemical, and biological unit processes, designs, and operations for removal of impurities and pollutants; case studies from municipalities and process industries will be considered in detail. Credit will be granted for only one of CHBE_V 373 or CIVL_V 406. [3-0-2] Prerequisite: One of CHBE_V 251, CIVL_V 215, MECH_V 280, MTRL_V 263, or third-year or higher standing in ENVE. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 376": {
+    "subject_code": "CHBE",
+    "course_code": "376",
+    "credit": "4",
+    "course_name": "Introduction to Process Design, Flowsheeting and Unit Operation Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and practice of computer flowsheeting in chemical plant design; hands-on use of modern process simulators, prediction of thermodynamic properties of fluids; behaviour of single and multiphase systems. Design of unit operations. [3-0-2]. Prerequisite: CHBE_V 241. Corequisite: All of CHBE_V 345, CHBE_V 355 for students enrolled in CHBE, or third-year or higher standing in B.A.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 381": {
+    "subject_code": "CHBE",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Biological Engineering and Biomanufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Biological process engineering in the fields of biotechnology and biomedical engineering; enzymatic and cellular kinetics; cell culture, bioreactor mass transport and process development; bioreactor design and operation. Credit will be granted for only one of CHBE_V 381 or CHBE_V 560. [3-0-2*] Prerequisite: One of CHBE_V 221, BMEG_V 245 and one of MATH_V 101, MATH_V 103, MATH_V 105. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 401": {
+    "subject_code": "CHBE",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Mechanical Pulping and Papermaking",
+    "faculty": "Faculty of Applied Science",
+    "description": "Process and unit operations in mechanical pulping and papermaking, emphasizing principles and practice of refining, screening, cleaning, papermaking and properties of paper products, key economic and environmental issues. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 402": {
+    "subject_code": "CHBE",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Biomass Fractionation Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Process and unit operations in the conversion of wood chips to pulp and green bio-products. Biorefinery concepts and emerging technologies for the production of biomaterials, biochemicals and bioenergy. Credit will be granted for only one of CHBE_V 402 or CHBE_V 502. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 410": {
+    "subject_code": "CHBE",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Systems Biology and Metabolic Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Foundational concepts, experimentation methodologies, research horizons, and industrial applications of microbial cell engineering. Topics of note include genome-scale modeling, genome editing, biological circuits, protein engineering and the design-build-test-learn (DBTL) workflow. [3-0-0] Prerequisites: One of CHBE_V 381, CHBE_V 419 or BMEG_V 374. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 411": {
+    "subject_code": "CHBE",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Process Development: Bench to Full Scale",
+    "faculty": "Faculty of Applied Science",
+    "description": "Industrial approaches and techniques for the development and scale-up of novel process technologies including: technology feasibility evaluations; techno-economic analyses; formulation of development programs; scale-up of equipment and processes; technical de-risking; translation of development results into full scale design packages. [3-0-0] Prerequisites: All of CHBE_V 241, CHBE_V 345 or equivalents. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 412": {
+    "subject_code": "CHBE",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Project Management in the Process Engineering Industries",
+    "faculty": "Faculty of Applied Science",
+    "description": "Organizational structure and roles. Stakeholder responsibilities. Project planning. Budget controls. Technical and process safety risk assessment. Performance evaluation in process engineering projects. Stakeholder engagement. Project definition and planning. Teamwork and leadership. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 419": {
+    "subject_code": "CHBE",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Industrial Biotechnology Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modern bioreactor technology, upstream and downstream processing of biotechnology products. Restricted to students in the Joint Degree in Biotechnology. [1-4-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 431": {
+    "subject_code": "CHBE",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Molecular Cloning Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Methods and techniques for molecular cloning and genome editing of microorganisms for application in biomanufacturing, biorefining, commodity biochemicals production, drug development, environmental bioremediation, and other sectors utilizing biotechnology. [1-4-0] Prerequisite:?Either a) both CHEM_V 121 and CHEM_V 123, or b) CHEM_V 154; and one of CHBE_V 365 or BMEG_V 245. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 451": {
+    "subject_code": "CHBE",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Engineering Thermodynamics and Statistical Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Classical thermodynamic relations from a molecular perspective. Pressure-volume-temperature relations; chemical equilibria by Gibbs' method; vapor-liquid equilibria; thermodynamic calculations based on macroscopic and statistical methods; nonequilibrium processes; molecular simulations. Credit will be granted for only one of CHBE_V 451, CHBE_V 551. [3-0-2*]. Prerequisite: One of CHBE_V 346, MTRL_V 350, MECH_V 327. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 452": {
+    "subject_code": "CHBE",
+    "course_code": "452",
+    "credit": "8",
+    "course_name": "Environmental Process Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "8-month project-based course, concepts from chemical, biological, and environmental science engineering with economics, life cycle analysis and health and safety considerations to solve problems related to the protection of the environment. [2-0-4;2-0-4] Prerequisite: All of CHBE_V 241, CHBE_V 345, CHBE_V 356, CHBE_V 376. Corequisite: One of CHBE_V 471, CHBE_V 481. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 453": {
+    "subject_code": "CHBE",
+    "course_code": "453",
+    "credit": "8",
+    "course_name": "Biological Process and Product Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "8-month project-based course, integrating chemical and biological engineering concepts with economics, life cycle analysis and health and safety considerations in the design of major biological processes. [2-0-4; 2-0-4] Prerequisite: All of CHBE_V 241, CHBE_V 345, CHBE_V 356, CHBE_V 376, CHBE_V 381. Corequisite: CHBE_V 481. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 454": {
+    "subject_code": "CHBE",
+    "course_code": "454",
+    "credit": "8",
+    "course_name": "Chemical Process and Product Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "8-month project-based course, integrating chemical engineering concepts with economics, life cycle analysis and health and safety considerations in the design of major chemical processes. [2-0-4; 2-0-4] Prerequisite: All of CHBE_V 241, CHBE_V 345, CHBE_V 356, CHBE_V 376. Corequisite: CHBE_V 471. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 455": {
+    "subject_code": "CHBE",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Kinetics and Reactor Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Kinetics of homogeneous chemical and biological reactions, isothermal ideal reactor design, analysis of non-ideal reactors using residence time distribution and mixing models. [3-0-2*]. Prerequisite: CHEM_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 456": {
+    "subject_code": "CHBE",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Heterogenous Catalysis and Advanced Reactor Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Definition of heterogeneous catalysis; properties of catalysts; kinetics of catalytic reactions; ideal heterogeneous reactors; non-isothermal reactor design; mass and heat transfer effects in heterogeneous reactors; examples of industrial reactors. [3-0-2*]. Prerequisite: All of CHBE_V 230, CHBE_V 352, CHBE_V 355. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 457": {
+    "subject_code": "CHBE",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Process Synthesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Strategy for the conceptual design of industrial chemical and biological processes; rules of thumb for chemical engineers, simulation to assist process synthesis, reactor-separator network synthesis, introduction to product design and molecular structure design, efficiency and sustainability in the chemical industry. [3-0-2*] Prerequisites: All of CHBE_V 241, CHBE_V 376. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 459": {
+    "subject_code": "CHBE",
+    "course_code": "459",
+    "credit": "3",
+    "course_name": "Chemical and Biological Engineering Economics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Estimation of capital and operating costs; interest calculations; taxes; economic comparison of alternatives; economic optimization. [3-0-0] Prerequisite: Third-year or higher standing in BASc or BSc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 464": {
+    "subject_code": "CHBE",
+    "course_code": "464",
+    "credit": "4",
+    "course_name": "Chemical and Biological Engineering Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Experiments in unit operations relating to process, environmental and biological engineering. Experiments are designed to provide experience in instrumentation and control. Field trips may be required. [0-6-0; 0-6-0] Prerequisite: All of CHBE_V 362 and one of CHBE_V 365, CHBE_V 366. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 465": {
+    "subject_code": "CHBE",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Rehabilitation and Design of Aquatic Habitat",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling the effects of the environment and nutrient availability on growth and waste production; designing closed and open environments for aquatic organisms; developing prescriptions for habitat rehabilitation. Restricted to students with third-year standing or higher. [3-0-0] Prerequisite: CHBE_V 221 or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 470": {
+    "subject_code": "CHBE",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Transport in Biological Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mass transport and fluid flow, including physiological tissues and tissue constructs. Mass transport deficiencies that lead to the development of pathological tissue and drug delivery to these tissues. Biological engineering for the design of tissue constructs and artificial organs. Credit will be granted for only one of CHBE_V 470, CHBE_V 570, BMEG_V 371. [3-0-2*]. Prerequisite: One of CHBE_V 221, BMEG_V 245. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 471": {
+    "subject_code": "CHBE",
+    "course_code": "471",
+    "credit": "4",
+    "course_name": "Chemical Process Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selection and design of major equipment used in chemical process plants, including heat exchangers, separators, reactors. Recommended pre-requisite: CHBE_V 376. [3-0-2] Prerequisite: All of CHBE_V 345, CHBE_V 355. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 472": {
+    "subject_code": "CHBE",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Technologies for Human and Environmental Health",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of cutting-edge bioanalysis technologies with an emphasis on applications in health and the environment. Concepts and calculations involving: separations, mass transfer, reaction kinetics, mixing, electrochemistry, and others. Analysis tools employed include: limits of detection, sensitivity, specificity, and other measures. Credit will be granted for only one of CHBE_V 472 or CHBE_V 572. Restricted to students with third-year standing or higher in B.A.Sc. or B.Sc. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 473": {
+    "subject_code": "CHBE",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Environmental Engineering and Sustainability Leadership",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics may include: Life cycle assessment, circular economy, system dynamics modelling, design thinking, systems thinking, traditional ecological knowledge, adaptive and evolutionary leadership, and relationality. Credit will be granted for only one of CHBE_V 473 or CHBE_V 573. [3-0-0] Prerequisite: CHBE_V 370 or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 474": {
+    "subject_code": "CHBE",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Process Control Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Frequency response analysis; advanced control techniques; multivariable control systems; mathematical tools for computer control systems; design of computer control systems; engineering design of industrial control applications; plant wide control concepts; distributed control systems concepts. [3-0-2*] Prerequisite: One of CHBE_V 356, ELEC_V 341. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 476": {
+    "subject_code": "CHBE",
+    "course_code": "476",
+    "credit": "3",
+    "course_name": "Advanced Process Engineering and Simulation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mathematical modelling of chemical plants and processes; computer simulation; introduction to numerical optimization techniques. [2-0-2] Prerequisite: All of CHBE_V 345, CHBE_V 376 for students enrolled in CHBE, or fourth-year standing in B.A.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 477": {
+    "subject_code": "CHBE",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Fuel Cell and Electrochemical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Stoichiometry, thermodynamics and kinetics of electrode reactions; conductivity and mass transport in electrolytes; material, energy and voltage balances; design of electrosynthesis, electrorecovery of metals, and energy generation of batteries and fuel cells. Credit will be granted for only one of CHBE_V 477 or CHBE_V 577. [3-0-0]. Prerequisite: All of CHBE_V 220, CHBE_V 241, CHBE_V 346 for students enrolled in CHBE, or third-year or higher standing in B.A.Sc. or B.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 478": {
+    "subject_code": "CHBE",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Polymer Science and Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to polymer and biopolymer chemistry, properties, processing and technological applications. Restricted to students with third-year standing or higher in B.A.Sc. or B.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 479": {
+    "subject_code": "CHBE",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "Occupational Health and Safety in Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Relationship between current engineering practice and worker health and safety. Engineering analysis of industrial health and safety problems. Restricted to students with third-year standing or higher in B.A.Sc. or B.Sc. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 480": {
+    "subject_code": "CHBE",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Hazardous Waste Processing Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Characterization, treatment and final disposal of hazardous waste with emphasis upon chemical engineering principles. Topics to include relevant legislation, in-plant minimization, treatment options and clean-up of contaminated sites. Case studies to be used for illustration. [3-0-0] Prerequisite: Third-year or higher standing in BASc or BSc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 481": {
+    "subject_code": "CHBE",
+    "course_code": "481",
+    "credit": "4",
+    "course_name": "Biological Engineering and Bioprocess Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to key elements of Bioprocess Design. Bioprocess flowsheeting; production-scale fermenter design; product recovery and purification; bioseparations; chromatography; viral inactivation and removal; process validation. [3-0-2] Prerequisite: All of CHBE_V 345, CHBE_V 381. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 482": {
+    "subject_code": "CHBE",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Energy Systems Modelling, Simulation and Optimization",
+    "faculty": "Faculty of Applied Science",
+    "description": "Synthesis, design and simulation of separation and reaction systems. Steady state and dynamic simulation. Application to energy systems optimization. [3-1-0] Prerequisite: CHBE_V 376 or fourth-year standing in B.A.Sc. or B.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 483": {
+    "subject_code": "CHBE",
+    "course_code": "483",
+    "credit": "3",
+    "course_name": "Energy Engineering for Climate Change and Sustainability",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supply and use of conventional and alternative fuels and energy. Design and operation of unit operations for processing of fossil fuels, biomass, and other energy sources. Environmental considerations of energy use. that address climate change and sustainability (water usage, environmental footprint, resource use, etc.). Credit will be granted for only one of CHBE_V 483, CHBE_V 583. [3-0-0]. Prerequisite: Third-year standing or higher in BASc or BSc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 484": {
+    "subject_code": "CHBE",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "Green Engineering for Cyclic Economy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Technologies for clean production of chemicals and materials, green chemistry and engineering, industrial ecology and sustainable development; advanced applications of environmental impact assessment including life-cycle assessment, total cost analysis and environmental systems analysis; reduce/recycling/reuse of wastes and by-products. Recommended prerequisite: CHBE_V 370. Restricted to students with third-year or higher standing in B.A.Sc. or B.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 485": {
+    "subject_code": "CHBE",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Air Pollution Prevention and Air Quality Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fate of air-born chemicals and the associated impacts of air pollutants on health, visibility, smog formation, ozone depletion and global warming; air quality and emission standards; atmospheric dispersion of air pollutants; prevention and control technologies for particulates, SOx, NOx, VOCs, and CO2. Credit will be granted for only one of CHBE_V 485, CHBE_V 475 or CHBE_V 585. [3-0-2*] Prerequisite: Third-year or higher standing in BASc. or BSc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 486": {
+    "subject_code": "CHBE",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Waste Mitigation and Processing for Resource Recovery",
+    "faculty": "Faculty of Applied Science",
+    "description": "How chemical and biological waste impact the environment. Physico-chemical, thermal, and biological methods for minimizing, isolating and sustainably treating solid waste and wastewater, including conversion to bioproducts/ industrial products, energy and clean water. Restricted to students with third-year or higher standing in B.A.Sc. or B.Sc. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 487": {
+    "subject_code": "CHBE",
+    "course_code": "487",
+    "credit": "3",
+    "course_name": "Interfacial Phenomena",
+    "faculty": "Faculty of Applied Science",
+    "description": "Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of CHBE_V 357, CHBE_V 487, CHBE_V 587, FNH_V 419 or FOOD_V 519. Recommended prerequisite: One of CHBE_V 241, FNH_V 300. Restricted to students with third-year or higher standing in B.A.Sc. or B.Sc. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 488": {
+    "subject_code": "CHBE",
+    "course_code": "488",
+    "credit": "3",
+    "course_name": "Carbon Capture, Conversion and Sequestration Technologies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Examination of carbon capture technologies, and CO2 conversion and sequestration options. Technical foundations on carbon cycle, thermodynamics, transport, absorption, adsorption, sequestration, mineralization and conversion. Analysis of cases in the context of technology, policy and regulatory framework. Credit will be granted for only one of CHBE_V 488 or CHBE_V 588. [3-0-1]. Prerequisite: One of CHBE_V 244, MTRL_V 252 and one of CHBE_V 251, CIVL_V 215, MTRL_V 263. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 489": {
+    "subject_code": "CHBE",
+    "course_code": "489",
+    "credit": "3",
+    "course_name": "Pollution Control in the Pulp and Paper Industry",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pollutants of concern in the pulp and paper industry; environmental impact of the industry; technologies used for the control of solid, liquid and gaseous wastes. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 491": {
+    "subject_code": "CHBE",
+    "course_code": "491",
+    "credit": "1",
+    "course_name": "Thesis Proposal - Process Topic",
+    "faculty": "Faculty of Applied Science",
+    "description": "Literature searching, planning, equipment design, experimental design for an individual research project leading to a written proposal and oral presentation. [0-2-0] Prerequisite: CHBE_V 366. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 492": {
+    "subject_code": "CHBE",
+    "course_code": "492",
+    "credit": "5",
+    "course_name": "Thesis - Process Topic",
+    "faculty": "Faculty of Applied Science",
+    "description": "Research project under the direction of a staff member. [0-8-0]. Prerequisite: CHBE_V 491. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 493": {
+    "subject_code": "CHBE",
+    "course_code": "493",
+    "credit": "1",
+    "course_name": "Thesis Proposal - Environmental Topic",
+    "faculty": "Faculty of Applied Science",
+    "description": "Literature search, planning, equipment design for an individual research project leading to a written proposal and oral presentation. Topic to be chosen from a selection of environmental topics offered by the department. [0-2-0] Prerequisite: One of CHBE_V 364, CHBE_V 365 or CHBE_V 366. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 494": {
+    "subject_code": "CHBE",
+    "course_code": "494",
+    "credit": "5",
+    "course_name": "Thesis-Environmental Topic",
+    "faculty": "Faculty of Applied Science",
+    "description": "Environmental engineering research topic. [0-8-0]. Prerequisite: CHBE_V 493. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 495": {
+    "subject_code": "CHBE",
+    "course_code": "495",
+    "credit": "1",
+    "course_name": "Thesis Proposal - Biotechnology Topic",
+    "faculty": "Faculty of Applied Science",
+    "description": "Literature search, planning, equipment design for an individual research project leading to a written proposal and oral presentation. Topic to be chosen from a selection of biotechnology topics offered by the department. [0-2-0] Prerequisite: CHBE_V 365. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 496": {
+    "subject_code": "CHBE",
+    "course_code": "496",
+    "credit": "5",
+    "course_name": "Thesis Biotechnology Topic",
+    "faculty": "Faculty of Applied Science",
+    "description": "Biotechnological engineering research topic. [0-8-0]. Prerequisite: CHBE_V 495. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 497": {
+    "subject_code": "CHBE",
+    "course_code": "497",
+    "credit": "1-6",
+    "course_name": "Topics in Chemical and Biological Engineering.",
+    "faculty": "Faculty of Applied Science",
+    "description": "Seminar or lecture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 498": {
+    "subject_code": "CHBE",
+    "course_code": "498",
+    "credit": "1",
+    "course_name": "Engineering Report",
+    "faculty": "Faculty of Applied Science",
+    "description": "This should be written on some subject of scientific interest or technical interest, based preferably on personal experience. Specifications are issued by the Department. Prerequisite: Third-year Chemical and Biological Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 502": {
+    "subject_code": "CHBE",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Biomass Fractionation Chemistry",
+    "faculty": "Faculty of Applied Science",
+    "description": "Extraction of soluble compounds and macromolecules. Chemical and technical processes in production of pulp. Bleaching. Fiber production from woody and herbaceous biomass. Production of reactive intermediates. Credit will be granted for only one of CHBE 402 or CHBE 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 505": {
+    "subject_code": "CHBE",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Introduction to Chemical Engineering for Non-Chemical Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: Supervisor and instructor approval required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 506": {
+    "subject_code": "CHBE",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Industrial Process Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mass and energy balances. Stoichiometry. Flow diagrams. Key unit operations for selected process industries in Western Canada with special attention to emission controls and hazards. May require field trips. Not open to Chemical and Biological Engineering students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 510": {
+    "subject_code": "CHBE",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Optimization of Bioprocesses",
+    "faculty": "Faculty of Applied Science",
+    "description": "Experimental design, data analysis, model building, reactor dynamics and computer control for optimization. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 549": {
+    "subject_code": "CHBE",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 550": {
+    "subject_code": "CHBE",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Advanced Reactor Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Kinetics of fluid-solid reactions of single particles, packed, moving, fluidized and transported bed reactors; rotary kilns; gasliquid reaction kinetics and reactor design; reactor design for gas-liquidsolid and non-catalytic processes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 551": {
+    "subject_code": "CHBE",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Engineering Thermodynamics and Statistical Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Classical thermodynamic relations from a molecular perspective. Pressure-volume- temperature relations; chemical equilibria by Gibbs' method; vapor-liquid equilibria; thermodynamic calculations based on macroscopic and statistical methods; nonequilibrium processes; molecular simulations. Credit will be granted for only one of CHBE 451 or CHBE 551. [3-0-2*] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 552": {
+    "subject_code": "CHBE",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Optimization Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "Basic concepts of optimization and structure of mathematical models. Gradient methods. Direct search methods. Gauss-Newton method for parameter optimization in models described by ordinary and partial differential equations. Constrained optimization. Statistical inferences. Design of experiments. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 553": {
+    "subject_code": "CHBE",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Mathematical Operations in Chemical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Dimensional analysis and model theory; treatment and interpretation of chemical engineering data; formulation and solution of differential and finite difference equations; graphical, numerical and statistical methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 554": {
+    "subject_code": "CHBE",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Momentum, Heat and Mass Transfer",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prediction of velocity, temperature, and concentration profiles for flowing fluids; unifying concepts and analogies in momentum, heat, and mass transport; streamline flow and turbulence, molecular and eddy conduction and diffusion, boundary layers, smooth and rough conduits and other boundaries. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 557": {
+    "subject_code": "CHBE",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Fluid Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics vary from year to year and include: governing equations for Newtonian fluids; numerical solutions to Navier-Stokes equations; incompressible boundary layers; stability analysis; turbulence; applied Computational Fluid Dynamics (CFD); modelling multi-phase fluids by Eulerian and Lagrangian methods; commercial CFD software. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 559": {
+    "subject_code": "CHBE",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Topics in Chemical Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "A discussion of some aspects of modern Chemical Engineering. Subject matter varies each year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 560": {
+    "subject_code": "CHBE",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Biological Engineering and Bio-Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Biological process engineering in the fields of biotechnology and biomedical engineering; enzymatic and cellular kinetics; cell culture, bioreactor mass transport and process development; bioreactor design and operation. Critical analysis of recent biological engineering research articles. Credit will be granted for only one of CHBE_V 381 or CHBE_V 560. [3-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 561": {
+    "subject_code": "CHBE",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Particle Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics vary from year to year and include gas, liquid, and particle mechanics, fine and nano particles; colloidal phenomena; packed beds; filtration; sedimentation; two- and three-phase fluidized beds; spouted beds; hydraulic and pneumatic transport; multiphase flows. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 563": {
+    "subject_code": "CHBE",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Applied Heterogeneous Catalysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Techniques for characterizing materials and catalysts. Modern understanding of catalyst fundamentals including scaling laws and descriptors. Impact of catalyst properties, mechanisms and kinetics on reactor engineering. Applications related to clean fuel and chemical production are emphasized. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 564": {
+    "subject_code": "CHBE",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Industrial Biotechnology Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modern bioreactor technology, upstream and downstream processing of biotechnology products. Credit will be granted for only one of CHBE_V 564 or CHBE_V 419. [1-4-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 565": {
+    "subject_code": "CHBE",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Advanced Process Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Discrete-time chemical system modelling; model-based predictive control; predictive controller design; analysis of design parameters; controller stability; robustness and performance analysis; selected topics from current developments in the literature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 566": {
+    "subject_code": "CHBE",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Topics in Biological Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Critical analysis of biological engineering research articles and literature review in an area of focus. Topics chosen from: bioprocess, biosensor, biotechnology, and biomedical engineering. Prerequisite: BIOL_V 112. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 567": {
+    "subject_code": "CHBE",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "System Identification and Adaptive Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Input/Output modelling; frequency analysis; regression analysis; model parametrizations; recursive estimation methods; model validation; adaptive controller design; implementation issues; chemical process control applications; selected topics from current developments in the literature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 570": {
+    "subject_code": "CHBE",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Advanced Transport in Biological Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced studies in mass transport: material flow in biological systems from cellular to whole body level under normal and pathological conditions. Biological engineering approaches for designing tissue constructs and artificial organs. Credit will be granted for only one of CHBE_V 470, CHBE_V 570, or BMEG_V 371. Prerequisite: BIOL_V 112. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 571": {
+    "subject_code": "CHBE",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Non-Newtonian Fluid Behaviour",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selections from the following topics: kinematics of deformation and flow, dynamics of continuous media, constitutive equations, physical chemical and molecular aspects of viscosity, engineering applications to pipe flow, mixing, heat transfer. Handling of suspensions and polymers. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 572": {
+    "subject_code": "CHBE",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Technologies for Human and Environmental Health",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of cutting-edge bioanalysis technologies with an emphasis on applications in health and the environment. Concepts and calculations involving: separations, mass transfer, reaction kinetics, mixing, electrochemistry, and others. Analysis tools employed include: limits of detection, sensitivity, specificity, and other measures. Credit will be granted for only one of CHBE_V 472 or CHBE_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 573": {
+    "subject_code": "CHBE",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Environmental Engineering and Sustainability Leadership",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics may include: Life cycle assessment, circular economy, system dynamics modelling, design thinking, systems thinking, traditional ecological knowledge, adaptive and evolutionary leadership, and relationality. Credit will be granted for only one of CHBE 473 or CHBE 573. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 574": {
+    "subject_code": "CHBE",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Equilibrium Properties of Non-Ideal Mixtures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Discussion of various methods of calculating vapor-liquid, liquid-liquid equilibrium and thermal properties, including molecular thermodynamics. Excess free-energy of mixing. Thermodynamic consistency tests. Emphasis on engineering applications and newer approaches. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 577": {
+    "subject_code": "CHBE",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Electrochemical Science, Engineering and Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Electrochemical interfaces; electrode reactions; thermodynamics; kinetics and transport processes in electrochemical systems; experimental techniques. Electrochemical reactors and processes; modelling, design and economics. Electrochemical technologies; electrosynthesis, batteries and fuel cells. Electro-metallurgy; electrowinning and refining of metals, corrosion, leaching and cementation. Credit will be granted for only one of CHBE_V 477 or CHBE_V 577. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 578": {
+    "subject_code": "CHBE",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Polymer Science and Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Polymer chemistry, polymer properties, polymer processing and technological applications. Credit will be granted for only one of CHBE_V 478 or CHBE_V 578. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 580": {
+    "subject_code": "CHBE",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Advanced Topics in Pulp and Paper Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced material in selected topics in pulp and paper in science and engineering. Subject matter varies each year. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 583": {
+    "subject_code": "CHBE",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Energy Engineering for Climate Change and Sustainability",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supply and use of conventional and alternative fuels and energy. Design and operation of unit operations for processing of fossil fuels, biomass, and other energy sources. Environmental considerations of energy use that address climate change and sustainability (water usage, environmental footprint, resource use, etc.). Credit will be granted for only one of CHBE_V 483 or CHBE_V 583. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 585": {
+    "subject_code": "CHBE",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Air Pollution Prevention and Air Quality Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fate of air-born chemicals and the associated impacts of air pollutants on health, visibility, smog formation, ozone depletion and global warming; air quality and emission standards; atmospheric dispersion of air pollutants; prevention and control technologies for particulates, SOx, NOx, VOCs, and CO2. Credit will be granted for only one of CHBE_V 475, CHBE_V 485, or CHBE_V 585. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 587": {
+    "subject_code": "CHBE",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "Interfacial Phenomena",
+    "faculty": "Faculty of Applied Science",
+    "description": "Outline of the physics and chemistry of interfaces; discussion of the part played by surface effects in technical processes. Credit will be granted for only one of CHBE 357, CHBE 487, CHBE 587, FNH 419 or FOOD 519. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 588": {
+    "subject_code": "CHBE",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Carbon Capture, Conversion and Sequestration Technologies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Credit will be granted for only one of CHBE_V 488 or CHBE_V 588. [3-0-1]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 590": {
+    "subject_code": "CHBE",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Small Watershed Systems Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Hydrologic design of water management systems for the production of agricultural and other biological materials. Analysis and design of composite systems for watersheds. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 596": {
+    "subject_code": "CHBE",
+    "course_code": "596",
+    "credit": "6",
+    "course_name": "Engineering Report",
+    "faculty": "Faculty of Applied Science",
+    "description": "For M.Eng. students. Carry out a literature review, conduct a research or design project and prepare an engineering report under the supervision of a faculty member. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 597": {
+    "subject_code": "CHBE",
+    "course_code": "597",
+    "credit": "2",
+    "course_name": "Master's Thesis Proposal Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "Techniques for preparation of a critical literature review and focussed research proposal for M.A.Sc. and M.Sc. candidates. Students perform oral and written critiques of published research in their area of study, define research questions and hypotheses, and develop a focussed research proposal. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 598": {
+    "subject_code": "CHBE",
+    "course_code": "598",
+    "credit": "1",
+    "course_name": "Master's Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Current topics in chemical and biological engineering research. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 599": {
+    "subject_code": "CHBE",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "M.A.Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 697": {
+    "subject_code": "CHBE",
+    "course_code": "697",
+    "credit": "2",
+    "course_name": "Doctoral Thesis Proposal Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "Techniques for preparation of a critical literature review and focussed research proposal for Ph.D. candidates. Students perform oral and written critiques of published research in their area of study, define research questions and hypotheses, and develop a focussed research proposal. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 698": {
+    "subject_code": "CHBE",
+    "course_code": "698",
+    "credit": "1",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Current topics in chemical and biological engineering research. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHBE 699": {
+    "subject_code": "CHBE",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

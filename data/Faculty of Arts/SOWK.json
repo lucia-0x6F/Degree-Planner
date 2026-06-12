@@ -1,0 +1,570 @@
+{
+  "SOWK 200": {
+    "subject_code": "SOWK",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Social Welfare",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the perspectives, concepts and theoretical foundations of social welfare, including an analysis of the institutional structures of social welfare in the modern state."
+  },
+  "SOWK 201": {
+    "subject_code": "SOWK",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introduction to Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the knowledge, skills and values of social work practice in its many forms, emphasizing different ways of understanding the context of social and personal problems. Prerequisite: SOWK200"
+  },
+  "SOWK 305": {
+    "subject_code": "SOWK",
+    "course_code": "305",
+    "credit": "3-9",
+    "course_name": "Topics in Social Work Practice I",
+    "faculty": "Faculty of Arts",
+    "description": "Examinations of the foundation, knowledge and competencies underlying various topics in generalist social work practice. Enrolment is limited to students in the B.S.W. program"
+  },
+  "SOWK 310": {
+    "subject_code": "SOWK",
+    "course_code": "310",
+    "credit": "3-6",
+    "course_name": "Interviewing Skills",
+    "faculty": "Faculty of Arts",
+    "description": "Communication theory and interviewing skills and their application to the Social Work interview. Enrolment is limited to students in the BSW program."
+  },
+  "SOWK 315": {
+    "subject_code": "SOWK",
+    "course_code": "315",
+    "credit": "6",
+    "course_name": "Practicum I",
+    "faculty": "Faculty of Arts",
+    "description": "A supervised practicum in an assigned social service, two days a week throughout the program year. Limited to students in the B.S.W. program. This course will be graded Pass/Fail. Corequisite: SOWK_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 316": {
+    "subject_code": "SOWK",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Integrative Seminar in Social Work Theory, Policy and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Integrates students' learning from field, practice, policy and theory courses for the purposes of professional development."
+  },
+  "SOWK 325": {
+    "subject_code": "SOWK",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Indigenous Peoples and Critical Social Work Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary social issues facing Indigenous peoples and communities examined in the context of the history of Settler-Canadian/Indigenous relations; the impact of Settler-Canadian institutions upon Indigenous peoples; implications for social policy and social work practice. Credit will be granted for only one of SOWK 325 or 425. Enrolment is limited to students in the BSW program."
+  },
+  "SOWK 335": {
+    "subject_code": "SOWK",
+    "course_code": "335",
+    "credit": "3-6",
+    "course_name": "Topics in Social Analysis for Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Theoretical considerations of relevance to social work practice."
+  },
+  "SOWK 337": {
+    "subject_code": "SOWK",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Culture and Race in Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Issues and problems inherent in practising social work in diverse cultural settings."
+  },
+  "SOWK 400": {
+    "subject_code": "SOWK",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Canadian Social Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of race, gender, class and culture as factors in the distribution and delivery of Canadian social benefits and social services."
+  },
+  "SOWK 405": {
+    "subject_code": "SOWK",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Social Work Practice II",
+    "faculty": "Faculty of Arts",
+    "description": "This course examines the principles of optimal social work process with individuals, small groups, families and larger collectivities."
+  },
+  "SOWK 415": {
+    "subject_code": "SOWK",
+    "course_code": "415",
+    "credit": "6",
+    "course_name": "Practicum II",
+    "faculty": "Faculty of Arts",
+    "description": "A supervised practicum in an assigned social service, two days a week throughout the program year. Enrolment is limited to students in the B.S.W. program. This course will be graded Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 416": {
+    "subject_code": "SOWK",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Advanced Integrative Seminar in Social Work Theory, Policy and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Development of professional judgement, evaluation, and self-evaluation in practice."
+  },
+  "SOWK 420": {
+    "subject_code": "SOWK",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Introduction to Social Work Research",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and conduct of social research as applied to social welfare and social work practice. Development of social work research questions and design of studies. Enrolment is limited to students in the B.S.W. program, except by permission of the school. Credit will be granted for only one of SOWK_V 420 or 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 430": {
+    "subject_code": "SOWK",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Special Studies in Social Work",
+    "faculty": "Faculty of Arts",
+    "description": "Lectures, seminars and/or individual tutorials to develop knowledge and skills in relation to a defined theory, policy or practice problem or client population. Enrolment is limited to students in the B.S.W. program, except by permission of the School."
+  },
+  "SOWK 440": {
+    "subject_code": "SOWK",
+    "course_code": "440",
+    "credit": "3-12",
+    "course_name": "Integrative Seminars in Social Work",
+    "faculty": "Faculty of Arts",
+    "description": "A series of seminars offered during the final term of studies which address salient issues in social policy and social work practice and draw upon combined knowledge from social work and related disciplines."
+  },
+  "SOWK 441": {
+    "subject_code": "SOWK",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Social Context of Child Development",
+    "faculty": "Faculty of Arts",
+    "description": "The ways in which the familial, physical, and social environment effects the life structures, opportunities and outcomes of epigenetic developmental processes. Credit will be granted for only one of SOCI 441 or FMST 441. Equivalency: FMST 441"
+  },
+  "SOWK 442": {
+    "subject_code": "SOWK",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Policy and Practice in Child Welfare",
+    "faculty": "Faculty of Arts",
+    "description": "Covers the statutory bases and practices associated with the continuum of child welfare services from prevention through permanency planning."
+  },
+  "SOWK 450": {
+    "subject_code": "SOWK",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Social Work Practice in Community Mental Health",
+    "faculty": "Faculty of Arts",
+    "description": "Online course providing overview of social work services to persons with a mental illness. Prerequisite: Fourth-year standing in SOWK. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 451": {
+    "subject_code": "SOWK",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Health Care Team Development",
+    "faculty": "Faculty of Arts",
+    "description": "This Interprofessional Health and Human Service (IHHS) course covers the skills, knowledge, roles, and issues involved with working successfully in interprofessional health and human service teams. Intended for upper division students in any health and human service program. Offered as IHHS 400 prior to September 2015. Credit will be granted for only one of SOWK 451 or IHHS 400. Equivalency: IHHS 400."
+  },
+  "SOWK 452": {
+    "subject_code": "SOWK",
+    "course_code": "452",
+    "credit": "6",
+    "course_name": "HIV Prevention and Care",
+    "faculty": "Faculty of Arts",
+    "description": "This Interprofessional Health and Human Service (IHHS) course prepares senior students to respond effectively to the HIV epidemic and its consequences. The knowledge and skills required for interprofessional and discipline-specific work are explored. Intended for students in health and human service programs. Offered as IHHS 402 prior to September 2015. Credit will be granted for only one of SOWK_V 452 or IHHS 402. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 453": {
+    "subject_code": "SOWK",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Disability and Justice",
+    "faculty": "Faculty of Arts",
+    "description": "This Interprofessional Health and Human Service (IHHS) course considers how health and human service professionals can effectively practice with people with disabilities from a social justice perspective. Social and personal context and practice responses are examined. Offered as IHHS 407 prior to September 2015. Credit will be granted for only one of SOWK 453 or IHHS 407."
+  },
+  "SOWK 454": {
+    "subject_code": "SOWK",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Interdisciplinary Practice with Children and Families",
+    "faculty": "Faculty of Arts",
+    "description": "This Interprofessional Health and Human Service (IHHS) course covers interprofessional perspectives, challenges, and strategies. Clinical experience and some knowledge of child protection issues required. Offered as IHHS 403 prior to September 2015. Credit will be granted for only one of SOWK 454 or IHHS 403."
+  },
+  "SOWK 455": {
+    "subject_code": "SOWK",
+    "course_code": "455",
+    "credit": "6",
+    "course_name": "Palliative Care",
+    "faculty": "Faculty of Arts",
+    "description": "This Interprofessional Health and Human Service (IHHS) course covers attitudes, knowledge, skills, and abilities necessary for interprofessional and discipline-specific work in palliative care. For students registered in health and human service programs only. Offered as IHHS 405 prior to September 2015. Credit will be granted for only one of SOWK 455 or IHHS 405."
+  },
+  "SOWK 456": {
+    "subject_code": "SOWK",
+    "course_code": "456",
+    "credit": "1-6",
+    "course_name": "Special Topics in Collaborative Healthcare",
+    "faculty": "Faculty of Arts",
+    "description": "This Interprofessional Health and Human Service (IHHS) course prepares students to practice patient-centred interprofessional collaboration in a specific area of healthcare. Offered as IHHS 480 prior to September 2015. Credit will be granted for only one of SOWK 456 or IHHS 480."
+  },
+  "SOWK 501": {
+    "subject_code": "SOWK",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Advanced Canadian Social Policy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 502": {
+    "subject_code": "SOWK",
+    "course_code": "502",
+    "credit": "6",
+    "course_name": "Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 503": {
+    "subject_code": "SOWK",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Communication Skills in Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 504": {
+    "subject_code": "SOWK",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Feminism and Social Work Praxis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 505": {
+    "subject_code": "SOWK",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Social Analysis for Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 506": {
+    "subject_code": "SOWK",
+    "course_code": "506",
+    "credit": "6",
+    "course_name": "Directed Field Studies in Social Work I",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 510": {
+    "subject_code": "SOWK",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "First Nations Social Issues",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 511": {
+    "subject_code": "SOWK",
+    "course_code": "511",
+    "credit": "3-6",
+    "course_name": "Theoretical Foundations of Social Work",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 512": {
+    "subject_code": "SOWK",
+    "course_code": "512",
+    "credit": "3-6",
+    "course_name": "Theories of Canadian and International Social Development",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 513": {
+    "subject_code": "SOWK",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Theoretical Foundations of Social Work in the Health Field",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 514": {
+    "subject_code": "SOWK",
+    "course_code": "514",
+    "credit": "3-6",
+    "course_name": "Feminism and Social Work Praxis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 516": {
+    "subject_code": "SOWK",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Foundation MSW Integrative Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Development of professional judgment, critical reflection, and integration of theory, practice, research and policy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 521": {
+    "subject_code": "SOWK",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Social Work Practice in Addictions",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 522": {
+    "subject_code": "SOWK",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Family Mediation and Conflict Resolution",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 523": {
+    "subject_code": "SOWK",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Advanced Analysis of Culture and Race in Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 524": {
+    "subject_code": "SOWK",
+    "course_code": "524",
+    "credit": "3-6",
+    "course_name": "Social Services Management",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 525": {
+    "subject_code": "SOWK",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Advanced Social Work Practice: Mental Health",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 526": {
+    "subject_code": "SOWK",
+    "course_code": "526",
+    "credit": "3-6",
+    "course_name": "Social Work Practice with Individuals and Couples",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 527": {
+    "subject_code": "SOWK",
+    "course_code": "527",
+    "credit": "3-6",
+    "course_name": "Social Work Practice with Children",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 528": {
+    "subject_code": "SOWK",
+    "course_code": "528",
+    "credit": "3-6",
+    "course_name": "Social work Practice with Groups",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 529": {
+    "subject_code": "SOWK",
+    "course_code": "529",
+    "credit": "3-6",
+    "course_name": "Communities and Social Development: Debates, Approaches and Fields of Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 530": {
+    "subject_code": "SOWK",
+    "course_code": "530",
+    "credit": "3-6",
+    "course_name": "Methods for Popular Sector Organizing",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 531": {
+    "subject_code": "SOWK",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Social Work Practice in the Field of Aging",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 532": {
+    "subject_code": "SOWK",
+    "course_code": "532",
+    "credit": "3-6",
+    "course_name": "Social Work Practice with the Family",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 548": {
+    "subject_code": "SOWK",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Graduating Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 549": {
+    "subject_code": "SOWK",
+    "course_code": "549",
+    "credit": "6-9",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 550": {
+    "subject_code": "SOWK",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Social Work and Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 551": {
+    "subject_code": "SOWK",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Health and Social Care Praxis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 552": {
+    "subject_code": "SOWK",
+    "course_code": "552",
+    "credit": "3-6",
+    "course_name": "Clinical Research and Social Work",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 553": {
+    "subject_code": "SOWK",
+    "course_code": "553",
+    "credit": "3-6",
+    "course_name": "Quantitative Methods in Social Work Research",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 554": {
+    "subject_code": "SOWK",
+    "course_code": "554",
+    "credit": "3-6",
+    "course_name": "Qualitative Methods in Social Work Research",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 555": {
+    "subject_code": "SOWK",
+    "course_code": "555",
+    "credit": "3-6",
+    "course_name": "Seminar in Methodological Issues in Social Welfare",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 556": {
+    "subject_code": "SOWK",
+    "course_code": "556",
+    "credit": "3-6",
+    "course_name": "Seminar in Social Welfare Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 557": {
+    "subject_code": "SOWK",
+    "course_code": "557",
+    "credit": "3-6",
+    "course_name": "Seminar in Social Work Practice Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 559": {
+    "subject_code": "SOWK",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Advanced Integrative Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced development of professional judgment, critical reflection, and integration of theory, practice, research, policy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 560": {
+    "subject_code": "SOWK",
+    "course_code": "560",
+    "credit": "3-6",
+    "course_name": "Directed Field Studies in Social Work II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 570": {
+    "subject_code": "SOWK",
+    "course_code": "570",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Social Work",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 571": {
+    "subject_code": "SOWK",
+    "course_code": "571",
+    "credit": "3-6",
+    "course_name": "International Social Development",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 572": {
+    "subject_code": "SOWK",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Child and Family: Policy and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 573": {
+    "subject_code": "SOWK",
+    "course_code": "573",
+    "credit": "3-6",
+    "course_name": "Social Policy and Program Planning in the Health Field",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 575": {
+    "subject_code": "SOWK",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Weaving Indigenous Knowledge into Social Work Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Advancing personal decolonisation through deepened understanding of Indigenous Knowledges, experiences and worldviews necessary for culturally sensitive practice in Human Service settings. Relationality and cultural humility within therapeutic, administrative and/or direct practice, services, and policies is emphasized. Restricted to students in the Master of Social Work program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 601": {
+    "subject_code": "SOWK",
+    "course_code": "601",
+    "credit": "3",
+    "course_name": "Social Work Doctoral Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Critical examination of research, teaching, proposal writing and publication. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 621": {
+    "subject_code": "SOWK",
+    "course_code": "621",
+    "credit": "3",
+    "course_name": "Social Theory, Ideology and Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Critical analysis of major social theories, differentiating competing approaches to understanding human behaviour; social theory, social ideology, and social ethics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 623": {
+    "subject_code": "SOWK",
+    "course_code": "623",
+    "credit": "3",
+    "course_name": "Advanced Data Analysis in Social Work",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 654": {
+    "subject_code": "SOWK",
+    "course_code": "654",
+    "credit": "3",
+    "course_name": "Advanced Qualitative Inquiry",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOWK 699": {
+    "subject_code": "SOWK",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

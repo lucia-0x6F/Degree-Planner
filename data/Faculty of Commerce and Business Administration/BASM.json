@@ -1,0 +1,82 @@
+{
+  "BASM 501": {
+    "subject_code": "BASM",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Business Strategy",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 502": {
+    "subject_code": "BASM",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Corporate Strategy",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 510": {
+    "subject_code": "BASM",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Consulting Simulation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 514": {
+    "subject_code": "BASM",
+    "course_code": "514",
+    "credit": "1.5",
+    "course_name": "Strategy in Organizations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Impact of corporate and organizational design on achieving profitability. Introduces the underlying economics of organizational design, including incentive pay, decentralization, transfer pricing, and complementarities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 516": {
+    "subject_code": "BASM",
+    "course_code": "516",
+    "credit": "1.5",
+    "course_name": "Economics and Strategy of Innovation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 523": {
+    "subject_code": "BASM",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "Management Consulting and Corporate Decision Support",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 530": {
+    "subject_code": "BASM",
+    "course_code": "530",
+    "credit": "1.5",
+    "course_name": "Multinational Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Credit will be granted for only one of BASM_V 530 or BAIM_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 550": {
+    "subject_code": "BASM",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Not available to MBA students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 580": {
+    "subject_code": "BASM",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASM 590": {
+    "subject_code": "BASM",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "LAIS 605": {
+    "subject_code": "LAIS",
+    "course_code": "605",
+    "credit": "3",
+    "course_name": "Seminar in Advanced Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAIS 607": {
+    "subject_code": "LAIS",
+    "course_code": "607",
+    "credit": "3",
+    "course_name": "Doctoral Proseminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAIS 608": {
+    "subject_code": "LAIS",
+    "course_code": "608",
+    "credit": "3",
+    "course_name": "Academic and Research Practices in Library, Archival and Information Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAIS 609": {
+    "subject_code": "LAIS",
+    "course_code": "609",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Library, Archival and Information Studies Topics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAIS 620": {
+    "subject_code": "LAIS",
+    "course_code": "620",
+    "credit": "6",
+    "course_name": "Advanced Study in Major Area",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: All of LAIS_V 605, LAIS_V 607 and one of LAIS_V 608, LAIS_V 609. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAIS 621": {
+    "subject_code": "LAIS",
+    "course_code": "621",
+    "credit": "6",
+    "course_name": "Advanced Study in Minor Area",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: All of LAIS_V 605, LAIS_V 607 and one of LAIS_V 608, LAIS_V 609. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAIS 699": {
+    "subject_code": "LAIS",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

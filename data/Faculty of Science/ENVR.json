@@ -1,0 +1,170 @@
+{
+  "ENVR 100": {
+    "subject_code": "ENVR",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Exploring Environmental Science",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to topics in Earth Science, Ecology, Human Health and Energy from an Environmental Science perspective. [3-0-0]"
+  },
+  "ENVR 200": {
+    "subject_code": "ENVR",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Environmental Science",
+    "faculty": "Faculty of Science",
+    "description": "Seminars and field trips introducing the major global, regional, and local environmental issues facing human societies. [3-0-0] Prerequisite: Open to all students with second-year, or higher, standing."
+  },
+  "ENVR 201": {
+    "subject_code": "ENVR",
+    "course_code": "201",
+    "credit": "1",
+    "course_name": "Climate Action Lab 1",
+    "faculty": "Faculty of Science",
+    "description": "Community-engaged climate action projects; skill building for climate action. Pass/Fail. [0-2-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVR 205": {
+    "subject_code": "ENVR",
+    "course_code": "205",
+    "credit": "1",
+    "course_name": "Environmental Science in Practice I",
+    "faculty": "Faculty of Science",
+    "description": "Community building, land connections and academic and career planning in environmental science. [1.5-0-0]"
+  },
+  "ENVR 240": {
+    "subject_code": "ENVR",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Environmental Problem Solving",
+    "faculty": "Faculty of Science",
+    "description": "Practical and theoretical approaches to tackling complex environmental challenges with emphasis on critical thinking to analyze real-world issues. [3-0-0] Prerequisite: MATH_V 101. Corequisite: One of STAT_V 200, 201, BIOL_V 300."
+  },
+  "ENVR 300": {
+    "subject_code": "ENVR",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Introduction to Research in Environmental Science",
+    "faculty": "Faculty of Science",
+    "description": "Environmental research. Students investigate research methodologies and reporting in a range of scientific disciplines and fields. [3-0-0] Prerequisite: Open to all students with third-year, or higher, standing in the Faculty of Science."
+  },
+  "ENVR 301": {
+    "subject_code": "ENVR",
+    "course_code": "301",
+    "credit": "1",
+    "course_name": "Climate Action Lab 2",
+    "faculty": "Faculty of Science",
+    "description": "Community-engaged climate action projects; skill building for climate action. Pass/Fail. [0-2-0] Prerequisite: ENVR_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVR 302": {
+    "subject_code": "ENVR",
+    "course_code": "302",
+    "credit": "2",
+    "course_name": "Climate Action Lab 1 and 2",
+    "faculty": "Faculty of Science",
+    "description": "Community-engaged climate action projects; skill building for climate action. Pass/Fail [0-3-0] Prerequisite: 3rd year class standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVR 305": {
+    "subject_code": "ENVR",
+    "course_code": "305",
+    "credit": "1",
+    "course_name": "Environmental Science in Practice II",
+    "faculty": "Faculty of Science",
+    "description": "Mentoring, incorporating feedback, strengthening land connections and academic and career planning in environmental science. [1.5-0-0] Prerequisite: ENVR_V 205."
+  },
+  "ENVR 350": {
+    "subject_code": "ENVR",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Applied Environmental Ethics",
+    "faculty": "Faculty of Science",
+    "description": "The complexities of socio-ecological issues facing practitioners of environmental sciences including ethics and social equity. [3-0-0] Prerequisite: 3rd-year class standing."
+  },
+  "ENVR 400": {
+    "subject_code": "ENVR",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Community Project in Environmental Science",
+    "faculty": "Faculty of Science",
+    "description": "Instructor-guided collaboration between student teams and community partners on community-based environmental science projects. Teams articulate project questions and goals, devise methods, conduct research and communicate results. Credit will be given for only one of ENVR 400 or ENVR 449. [3-0-0; 3-0-0] Prerequisite: ENVR 300."
+  },
+  "ENVR 401": {
+    "subject_code": "ENVR",
+    "course_code": "401",
+    "credit": "1",
+    "course_name": "Climate Action Lab 3",
+    "faculty": "Faculty of Science",
+    "description": "Community-engaged climate action projects; skill building for climate action. Pass/Fail. [0-2-0] Corequisite: One of ENVR_V 301, ENVR_V 302. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVR 402": {
+    "subject_code": "ENVR",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Climate Studies and Action Capstone",
+    "faculty": "Faculty of Science",
+    "description": "Instructor-guided collaboration between student teams and community partners on climate action projects. [3-0-0] Prerequisite: ENVR 401."
+  },
+  "ENVR 410": {
+    "subject_code": "ENVR",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Energy, Environment, and Society",
+    "faculty": "Faculty of Science",
+    "description": "The role of energy in human societies throughout history and the environmental and social implications of energy use. Coverage of both the science and policy of energy use. Energy supply and demand, energy transitions, analytical tools, impacts, and alternatives. [3-0-0] Prerequisite: Fourth-year standing in B.Sc., B.A.Sc. or related programs."
+  },
+  "ENVR 420": {
+    "subject_code": "ENVR",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Ecohydrology of Watersheds and Water Systems",
+    "faculty": "Faculty of Science",
+    "description": "Analysis of water resources from a water-in-ecosystem perspective. Application to natural, managed, and urban systems, considering ecological interactions with hydrological processes. Exploration of biogeochemical processes related to water quality, and human impacts on water resources. [3-0-0] Prerequisite: Third or fourth-year standing in Science, Applied Science, Land and Food Systems, or Forestry and Environmental Stewardship."
+  },
+  "ENVR 430": {
+    "subject_code": "ENVR",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Ecological Dimensions of Sustainability",
+    "faculty": "Faculty of Science",
+    "description": "Current issues. Application to agricultural, energy, and resource systems in terrestrial and aquatic contexts. Analysis of complex problems; incorporation of science into novel interdisciplinary solutions. [3-0-0] Prerequisite: Class standing 3, and either (1) one of ENVR 300, BIOL 230, FRST 201 or (2) other demonstrated ecology background."
+  },
+  "ENVR 440": {
+    "subject_code": "ENVR",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Analytical Methods in Sustainability Science",
+    "faculty": "Faculty of Science",
+    "description": "Sustainability analysis through a series of case studies. Example approaches include cost-benefit analysis, trade-offs analysis, and life-cycle analysis. Active learning in a computer lab using real-world data. [2-2-0] Prerequisite: One of ENVR 200, ASIC 220, SCIE 220, GEOG 211. Third-year standing."
+  },
+  "ENVR 448": {
+    "subject_code": "ENVR",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Environmental Science",
+    "faculty": "Faculty of Science",
+    "description": "Investigation of a topic to be agreed upon by a member of the faculty and the student. Permission of an ENSC advisor and of the supervising faculty member is required prior to registration. Prerequisite: Third year standing in the Faculty of Science."
+  },
+  "ENVR 449": {
+    "subject_code": "ENVR",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Environmental Science HonoursThesis",
+    "faculty": "Faculty of Science",
+    "description": "[3-0-0] Prerequisite: [ENVR300] and fourth-year standing in the B.Sc. Environmental Sciences honours program."
+  },
+  "ENVR 450": {
+    "subject_code": "ENVR",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Environmental Policy and Law",
+    "faculty": "Faculty of Science",
+    "description": "The creation, implementation and enforcement of environmental laws and policies at the international, national, and sub-national levels. Examination and critique of laws, principles, and policies dealing with issues such as climate change, pollution, and biological diversity. [3-0-0] Prerequisite: 4th-year class standing."
+  },
+  "ENVR 490": {
+    "subject_code": "ENVR",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Student Directed Seminars in Environmental Sciences",
+    "faculty": "Faculty of Science",
+    "description": "Self-directed, collaborative studies in environmental sciences, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment, and delivery methods will comply with the Handbook for Student Directed Seminars. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  }
+}

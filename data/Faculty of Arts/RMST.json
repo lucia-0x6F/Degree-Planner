@@ -1,0 +1,586 @@
+{
+  "RMST 100": {
+    "subject_code": "RMST",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Romance Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Explore the diverse cultures of France, Spain, Italy, Latin America and the Romance-speaking world from a comparative perspective."
+  },
+  "RMST 140": {
+    "subject_code": "RMST",
+    "course_code": "140",
+    "credit": "3",
+    "course_name": "Made in Italy",
+    "faculty": "Faculty of Arts",
+    "description": "Where do Italy's glamour, lifestyle, traditions come from? This course introduces Italy's multifaceted ways of being and the cultural creations of the peninsula in their context. Credit can only be applied for one of ITAL_V 110, ITST_V 110, or RMST_V 140. Equivalency: ITAL_V 110 or ITST_V 110."
+  },
+  "RMST 201": {
+    "subject_code": "RMST",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introduction to Literatures and Cultures of the Romance World I: Medieval to Early Modern",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the main themes that shaped the Romance World as its different national identities emerged in the Mediterranean sphere."
+  },
+  "RMST 202": {
+    "subject_code": "RMST",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Introduction to Literatures and Cultures of the Romance World II: Modern to Post-Modern",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the main themes that shaped the Romance World in the age of the nation state, imperialism, colonization, and decolonization."
+  },
+  "RMST 221": {
+    "subject_code": "RMST",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Paris",
+    "faculty": "Faculty of Arts",
+    "description": "A cultural history of Paris surveyed through selected works of literature, cinema and art."
+  },
+  "RMST 241": {
+    "subject_code": "RMST",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Introduction to Italian Culture I: From the Middle Ages to the Early Modern Period",
+    "faculty": "Faculty of Arts",
+    "description": "The shift from the Medieval to the Early Modern worldview, explored through some of the major representatives of the verbal and visual arts, from Dante to Machiavelli, from Giotto to Leonardo. Credit can only be applied for one of ITAL_V 231, ITST_V 231 or RMST_V 241. Equivalency: ITAL_V 231 or ITST_V 231."
+  },
+  "RMST 242": {
+    "subject_code": "RMST",
+    "course_code": "242",
+    "credit": "3",
+    "course_name": "Introduction to Italian Culture II: From the Modern to the Post-Colonial Age",
+    "faculty": "Faculty of Arts",
+    "description": "The debate around nation vs. empire vs. republic, from the Napoleonic age to our days, as captured in Italy's microcosm, condensing and often anticipating issues that have later become global. Credit can only be applied for one of ITAL_V 232, ITST_V 232 or RMST_V 242. Equivalency: ITAL_V 232 or ITST_V 232."
+  },
+  "RMST 243": {
+    "subject_code": "RMST",
+    "course_code": "243",
+    "credit": "3",
+    "course_name": "Italian Fashion Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the history of Italian fashion and its global dimensions. Cultural texts may include fashion journalism, social media, advertising, literature, films, and artworks."
+  },
+  "RMST 250": {
+    "subject_code": "RMST",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Introduction to Italian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic course surveying major classics of Italian cinema, emphasizing their historical, political, social, philosophical and technical contexts. Credit can only be applied for one of ITAL_V 234, ITST_V 234 or RMST_V 250. Equivalency: ITAL_V 234 or ITST_V 234."
+  },
+  "RMST 260": {
+    "subject_code": "RMST",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Introduction to the Analysis of Portuguese and Brazilian Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Critical analysis of different cultural genres, including music, film and visual art through the study of selected Portuguese and Brazilian texts. Credit will be granted for only one of PORT 222 or RMST 260. Equivalency: PORT 222."
+  },
+  "RMST 270": {
+    "subject_code": "RMST",
+    "course_code": "270",
+    "credit": "3",
+    "course_name": "Introduction to Hispanic Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural texts from Latin America and Spain. Examines their broad cultural and transnational impact on the Romance-speaking world of past and present."
+  },
+  "RMST 271": {
+    "subject_code": "RMST",
+    "course_code": "271",
+    "credit": "3",
+    "course_name": "Introduction to Hispanic Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Major texts, authors, periods, and genres of Hispanic literature; key concepts, terminology, and practices of literary analysis."
+  },
+  "RMST 272": {
+    "subject_code": "RMST",
+    "course_code": "272",
+    "credit": "3",
+    "course_name": "The Hispanic World and British Columbia",
+    "faculty": "Faculty of Arts",
+    "description": "Explores the historical and current connections between BC and the Hispanic world, using literary and cultural texts. Special attention is given to connections between Indigenous peoples from Central and South American communities and BC First Nations."
+  },
+  "RMST 280": {
+    "subject_code": "RMST",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Revolution!",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts, theories, and practice of protest, revolt, and revolution in the Hispanic world, highlighting the intersection of politics and culture through novels, poetry, letters, diaries, and/or historical accounts of specific revolutionary uprisings. Credit will be granted for only one of SPAN_V 280 or RMST _V 280. Equivalency: SPAN_V 280."
+  },
+  "RMST 300": {
+    "subject_code": "RMST",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "History of the Romance Languages",
+    "faculty": "Faculty of Arts",
+    "description": "Development of the Romance language family from its origins in Latin to contemporary varieties. Emphasis on French, Italian, Portuguese and Spanish. Prerequisite: A beginners' knowledge (A1) in at least of one of the Romance languages is highly recommended."
+  },
+  "RMST 301": {
+    "subject_code": "RMST",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Prose Fiction and Non-Fiction of the Romance World",
+    "faculty": "Faculty of Arts",
+    "description": "Fiction and non-fiction of the Romance-speaking world from the Middle Ages to the present day from a comparative perspective."
+  },
+  "RMST 302": {
+    "subject_code": "RMST",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Theatre and Poetry of the Romance World",
+    "faculty": "Faculty of Arts",
+    "description": "Theatre and poetry of the Romance-speaking world from the Middle Ages to the present day from a comparative perspective."
+  },
+  "RMST 303": {
+    "subject_code": "RMST",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Short Fiction in Romance Literatures",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the genres of the novella and the short story within and across Romance cultures."
+  },
+  "RMST 304": {
+    "subject_code": "RMST",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Afterlife of the Text: Rewritings and Adaptations",
+    "faculty": "Faculty of Arts",
+    "description": "How stories travel across media and across national and linguistic boundaries in the Romance-speaking world. Dialogue between different versions and inter-media translations. Questions of authorship and reception."
+  },
+  "RMST 305": {
+    "subject_code": "RMST",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Introduction to Romance Language Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of the history, aesthetics and characteristics of films in French, Italian, Spanish, and/or Portuguese. Credit will be granted for only one of RMST 234 or RMST 305. Equivalency: RMST 234."
+  },
+  "RMST 306": {
+    "subject_code": "RMST",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Language Contact and Multilingualism in the Romance-speaking World",
+    "faculty": "Faculty of Arts",
+    "description": "A sociolinguistic examination of diverse multilingual contexts that characterise the Romance-speaking world."
+  },
+  "RMST 307": {
+    "subject_code": "RMST",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Myths, Legends and Tales in Romance Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Study of foundational narratives shared by Romance literatures and cultures from a comparative perspective."
+  },
+  "RMST 310": {
+    "subject_code": "RMST",
+    "course_code": "310",
+    "credit": "3-9",
+    "course_name": "Special Topics in Romance Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Romance literatures, cultures, languages, or communities. Topics vary from section to section. Consult Department for current offerings."
+  },
+  "RMST 317": {
+    "subject_code": "RMST",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Introduction to Translation Theories",
+    "faculty": "Faculty of Arts",
+    "description": "Explore major concepts in translation theory, and their application to translation practice as well as their limitations in the framework of cross-cultural and multidisciplinary comparisons. Recommended for students with beginner knowledge in any non-English language. Restricted to students with second year standing or higher."
+  },
+  "RMST 321": {
+    "subject_code": "RMST",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "French Literature from the Middle Ages to the Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "French literature through reading and analysis of translated works. Credit will be granted for only one of RMST_V 321 or MDVL_V 301. Equivalency: MDVL_V 301."
+  },
+  "RMST 322": {
+    "subject_code": "RMST",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "French Literature since the Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "French literature through reading and analysis of translated works."
+  },
+  "RMST 323": {
+    "subject_code": "RMST",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "The French Enlightenment",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the cultural and intellectual dimensions of the Enlightenment period in France."
+  },
+  "RMST 324": {
+    "subject_code": "RMST",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Quebecois Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the historical, political and cultural contexts that influenced the development of literature and culture in Quebec. Credit will be granted for only one of RMST 324 or FREN 280."
+  },
+  "RMST 325": {
+    "subject_code": "RMST",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "French Cultural Identities",
+    "faculty": "Faculty of Arts",
+    "description": "Aspects of French culture through a set of key concepts that weave across French history, politics, and social structures. Credit will be granted for only one of RMST 325 or FREN 380."
+  },
+  "RMST 326": {
+    "subject_code": "RMST",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Francophone Indigenous Literatures in Dialogue",
+    "faculty": "Faculty of Arts",
+    "description": "Comparative studies of literature and visual culture from British Columbia and Quebec."
+  },
+  "RMST 340": {
+    "subject_code": "RMST",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Italian Food Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Analyses of Italian or Italian-style foodways and the role they play in articulating larger cultural issues. Credit can only be applied for one of ITAL_V 380, ITST_V 380, or RMST_V 340. Equivalency: ITAL_V 380 or ITST_V 380."
+  },
+  "RMST 341": {
+    "subject_code": "RMST",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Italian Literature and Culture of the Medieval and Early Modern Period",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic approach to Italian literary works from the origins to the end of the sixteenth century considered in a broad cultural context. Credit will be granted for only one of ITAL _V 303 or RMST _V 341. Equivalency: ITAL_V 303"
+  },
+  "RMST 342": {
+    "subject_code": "RMST",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Italian Literature and Culture of the Modern and Contemporary Age",
+    "faculty": "Faculty of Arts",
+    "description": "The development of modern and contemporary Italian literature and culture against the background of social and historical events. Credit will be granted for only one of ITAL_V 304 or RMST_V 342. Equivalency: ITAL_V 304."
+  },
+  "RMST 343": {
+    "subject_code": "RMST",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Masterpieces of the Novella in Italian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the genre of the novella as an expression of social and political contexts within and across cultures from its inception in feudal times to the post-modern age. Credit will be granted for only one of ITAL_V 333, ITST_V 333 or RMST_V 343. Equivalency: ITST_V 333 or ITAL_V 333"
+  },
+  "RMST 344": {
+    "subject_code": "RMST",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Cultural Exchange between Modern Italy and China",
+    "faculty": "Faculty of Arts",
+    "description": "Key moments and texts about intercultural exchange between Italy and China since the beginning of the twentieth century in their social, historical, and political contexts. Credit can only be applied for one of ITAL_V 377, ITST_V 377 or RMST_V 344. Equivalency: ITAL_V 377 or ITST_V 377."
+  },
+  "RMST 345": {
+    "subject_code": "RMST",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Italian Fascism in Interdisciplinary Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "The cultural, literary, philosophical roots of Fascism and its evolution: its policies in literature, sports, cinema, architecture, racial legislation, and colonial adventures. Credit will be granted for only one of ITAL_V 345, ITST_V 345 or RMST_V 345. Equivalency: ITAL_V 345, ITST_V 345"
+  },
+  "RMST 346": {
+    "subject_code": "RMST",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Colonial and Postcolonial Italy",
+    "faculty": "Faculty of Arts",
+    "description": "Italian colonialism in the twentieth century and postcolonial legacy in recent decades through media, literary, and cinematic texts. Credit can only be applied for one of ITAL_V 378, ITST_V 378 or RMST_V 346. Equivalency: ITAL_V 378 or ITST_V 378"
+  },
+  "RMST 347": {
+    "subject_code": "RMST",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Gender and Sexuality in Italian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Gender and sexuality in Italian cinema within the country's historical, sociopolitical, and cultural milieus. Credit can only be applied for one of ITAL_V 379, ITST_V 379 or RMST_V 347. Equivalency: ITAL_V 379 or ITST_V 379."
+  },
+  "RMST 348": {
+    "subject_code": "RMST",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Italian Mafia Movies",
+    "faculty": "Faculty of Arts",
+    "description": "Explore how cinema shapes and contests perceptions of organized crime from a socio-historical and cultural perspective."
+  },
+  "RMST 350": {
+    "subject_code": "RMST",
+    "course_code": "350",
+    "credit": "3-9",
+    "course_name": "Special Topics in Italian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Italian literatures, cultures, languages, or communities. Topics vary from section to section. Consult Department for current offerings."
+  },
+  "RMST 355": {
+    "subject_code": "RMST",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Italian Cinema: Neorealism",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the major classics of post-WWII Italian Neorealism in cinema emphasizing their historical, political, social, philosophical and technical contexts. Credit will be granted for only one of ITAL _V 385, ITST _V 385, or RMST _V 355. Equivalency: ITAL _V 385 or ITST _V 385"
+  },
+  "RMST 361": {
+    "subject_code": "RMST",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Studies in Portuguese and Brazilian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics. Please see the Department website for current course offering information. Credit will be granted for only one of PORT_V 392 or RMST_V 361. Equivalency: PORT_V 392."
+  },
+  "RMST 362": {
+    "subject_code": "RMST",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "The Brazilian Amazon",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the complexity and diversity of the Brazilian Amazon, engaging in a variety of topics of interdisciplinary nature, with focus on the peoples, literatures and cultures of this region, and through the use of various genres."
+  },
+  "RMST 363": {
+    "subject_code": "RMST",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Brazilian and Portuguese Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Examines materials from a variety of cultural genres, including Lusophone cultural manifestations such as fado, futebol, samba, cuisine, telenovelas and more."
+  },
+  "RMST 370": {
+    "subject_code": "RMST",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Latin American Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Latin American literature from diverse social and cultural contexts. May encompass a range of genres of Spanish-language and Indigenous works in translation."
+  },
+  "RMST 371": {
+    "subject_code": "RMST",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "The Global Renaissance: Hispanic Cross-Cultural Contacts",
+    "faculty": "Faculty of Arts",
+    "description": "Early modern (ca. 1400-1700) literature and culture. Exploration of Spains Mediterranean, Transatlantic and Transpacific cross-cultural contacts."
+  },
+  "RMST 372": {
+    "subject_code": "RMST",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Hopscotch: Topics in Hispanic Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Spain and Latin America's contributions to global culture through popular Hispanic literature in translation. Credit will be granted for only one of SPAN _V 312 or RMST _V 372. Equivalency: SPAN_V 312."
+  },
+  "RMST 373": {
+    "subject_code": "RMST",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Masterpieces in Hispanic Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Literary texts from Spain and the Hispanic world. Examines their broad cultural and transnational impact on the Romance-speaking world of yesterday and today. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RMST 374": {
+    "subject_code": "RMST",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Mapping Gendered Spaces in Hispanic Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Examines selected topics in gender and sexuality in diverse time periods, geographical contexts, and literary genres in Spain and Latin America."
+  },
+  "RMST 375": {
+    "subject_code": "RMST",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "The Caribbean: Frontiers of the Romance World",
+    "faculty": "Faculty of Arts",
+    "description": "Literature and culture from the island of Hispaniola (Haiti, Dominican Republic) and the French Caribbean from a comparative perspective."
+  },
+  "RMST 376": {
+    "subject_code": "RMST",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "Genre Adaptations in the Hispanic World",
+    "faculty": "Faculty of Arts",
+    "description": "Examines adaptations of works from the Hispanic World into various literary and cultural genres (including literature to film, novel to graphic novel), considering the historical and cultural context, themes, and narrative perspectives."
+  },
+  "RMST 390": {
+    "subject_code": "RMST",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Barcelona",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the city of Barcelona from a cultural studies perspective including the study of its art, literature, architecture, and social practices."
+  },
+  "RMST 395": {
+    "subject_code": "RMST",
+    "course_code": "395",
+    "credit": "3-6",
+    "course_name": "Special Topics Abroad",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Romance language literature, history, culture, or communities in an authentic context. Topics and locations may vary. Consult Department for current offerings."
+  },
+  "RMST 400": {
+    "subject_code": "RMST",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Romance Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Vocabulary, phonetics, phonology, morphology, syntax, and sociolinguistics of spoken and written Romance languages. Credit will be granted for only one of RMST 400 or RMST 468. Prerequisite: 2nd year standing. A beginners knowledge (CFER A1) in at least one of the Romance languages is highly recommended."
+  },
+  "RMST 402": {
+    "subject_code": "RMST",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Visions of Nature and the Environment in the Romance World",
+    "faculty": "Faculty of Arts",
+    "description": "History, literature and philosophy of anthropization and ecology in the Romance world. Recommended: Second-year standing or higher."
+  },
+  "RMST 417": {
+    "subject_code": "RMST",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Professional Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Ethical, legal, and professional issues in translation, with an emphasis on building industry-specific skills such as creating portfolios, choosing translation specializations, problem solving, decision-making, and taking on new challenges supported by real-life examples. Prerequisite: RMST_V 317."
+  },
+  "RMST 419": {
+    "subject_code": "RMST",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Studies in Romance Languages and Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Study of a literary or cultural topic that extends beyond just one of the Romance Languages. Consult the Department for this year's offerings. Recommended: Second-year standing or higher."
+  },
+  "RMST 420": {
+    "subject_code": "RMST",
+    "course_code": "420",
+    "credit": "3-9",
+    "course_name": "Special Topics in Francophone Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Francophone literatures, cultures, languages, or communities. Topics vary from section to section. Consult Department for current offerings. Recommended for students in 3rd year or above. Restricted to students with 2nd year standing or above."
+  },
+  "RMST 440": {
+    "subject_code": "RMST",
+    "course_code": "440",
+    "credit": "3-6",
+    "course_name": "Special Topics in Italian Language, Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Course content will vary. May be taken twice for a total of 6 credits. Credit can only be applied for one of ITAL_V 420 or RMST_V 440. Equivalency: ITAL_V 420. This course is recommended for students with second-year standing or higher. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RMST 452": {
+    "subject_code": "RMST",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Italian Cinema and Its Cultural Background",
+    "faculty": "Faculty of Arts",
+    "description": "Films with English subtitles. Course content will vary. Credit will be granted for only one of RMST _V 452, ITST _V 432 or ITAL _V 430. Equivalency: ITAL_V 430 or ITST_V 432."
+  },
+  "RMST 453": {
+    "subject_code": "RMST",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Dante Alighieri's Divine Comedy",
+    "faculty": "Faculty of Arts",
+    "description": "A close reading of Dante's masterpiece, along with excerpts from some of his other works: Vita Nuova, Convivio, Monarchia, Epistles. Credit will be granted for only one of RMST _V 453, ITST _V 413 or ITAL _V 403. Equivalency: ITST _V 413 or ITAL _V 403."
+  },
+  "RMST 454": {
+    "subject_code": "RMST",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Topics in the Italian Literature and Culture of the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "Italian literature of the Middle Ages in its intellectual, socio-political and cultural context. Dante and his contemporaries and/or immediate followers (may include Petrarch and Boccaccio). Credit will be granted for only one of RMST _V 454, ITST _V 414 or ITAL _V 404. Equivalency: ITST _V 414 or ITAL _V 404."
+  },
+  "RMST 455": {
+    "subject_code": "RMST",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Topics in the Italian Literature and Culture of the Renaissance",
+    "faculty": "Faculty of Arts",
+    "description": "Masterpieces of the Italian Renaissance in literature and the other arts. Authors and artists studied range from Pico to Ariosto and Machiavelli, from Botticelli to Leonardo and Michelangelo. Credit will be granted for only one of RMST _V 455, ITST _V 415 or ITAL _V 405. Equivalency: ITAL _V 405 or ITST _V 415"
+  },
+  "RMST 456": {
+    "subject_code": "RMST",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Classics of Seventeenth-Century Italian Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Classics of the Italian literature of the Mannerist and Baroque age in their intellectual, socio-political, and cultural context. Credit will be granted for only one of ITST _V 416 or ITAL _V 406 or RMST _V 456. Equivalency: ITST _V 416 or ITAL _V 406"
+  },
+  "RMST 457": {
+    "subject_code": "RMST",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Classics of Eighteenth-Century Italian Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Classics of the Italian literature of the age of the Enlightenment in its intellectual, socio-political, and cultural context. Credit will be granted for only one of ITST _V 417 or ITAL _V 407 or RMST _V 457. Equivalency: ITST _V 417 or ITAL _V 407"
+  },
+  "RMST 458": {
+    "subject_code": "RMST",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Topics in Nineteenth-century Italian Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Italian literature of the 19th century in its intellectual, socio-political, and cultural context. Credit will be granted for only one of ITST _V 418 or ITAL _V 408 or RMST _V 458. Equivalency: ITST _V 418 or ITAL _V 408"
+  },
+  "RMST 459": {
+    "subject_code": "RMST",
+    "course_code": "459",
+    "credit": "3",
+    "course_name": "Topics in Modern and Contemporary Italian Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Italian literature of the 20th century in its intellectual, socio-political and cultural context. Credit will be granted for only one of RMST _V 459, ITST _V 419 or ITAL_V 409. Recommended pre-requisite: Second-year standing or higher. Equivalency: ITST_V 419 or ITAL_V 409."
+  },
+  "RMST 460": {
+    "subject_code": "RMST",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Studies in Portuguese and Brazilian Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics. Please see the Department website for current course offering information. Credit will be granted for only one of PORT_V 405 or RMST_V 460. Recommended: Second-year standing or higher. Equivalency: PORT_V 405."
+  },
+  "RMST 470": {
+    "subject_code": "RMST",
+    "course_code": "470",
+    "credit": "3-9",
+    "course_name": "Special Topics in Hispanic Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Hispanic literatures, cultures, languages, or communities. Topics vary from section to section. Consult Department for current offerings. Recommended for students in 3rd year or above. Restricted to students with 2nd year standing or above."
+  },
+  "RMST 495": {
+    "subject_code": "RMST",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Research Intensive Seminar in Romance Studies",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "RMST 499": {
+    "subject_code": "RMST",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RMST 520": {
+    "subject_code": "RMST",
+    "course_code": "520",
+    "credit": "3-6",
+    "course_name": "Studies in Romance Languages and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RMST 548": {
+    "subject_code": "RMST",
+    "course_code": "548",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

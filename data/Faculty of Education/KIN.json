@@ -1,0 +1,842 @@
+{
+  "KIN 110": {
+    "subject_code": "KIN",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Human Anatomy",
+    "faculty": "Faculty of Education",
+    "description": "The basic structure and function of human anatomy. Emphasis is on the neural, muscular, and skeletal systems. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult… [3-2]"
+  },
+  "KIN 120": {
+    "subject_code": "KIN",
+    "course_code": "120",
+    "credit": "3",
+    "course_name": "Health and Exercise Management",
+    "faculty": "Faculty of Education",
+    "description": "Role of physical activity in the maintenance of a healthy life. Application of basic physical fitness and exercise methods, exercise techniques and fitness appraisal. [2-2]"
+  },
+  "KIN 131": {
+    "subject_code": "KIN",
+    "course_code": "131",
+    "credit": "3",
+    "course_name": "Neural and Musculoskeletal Physiology",
+    "faculty": "Faculty of Education",
+    "description": "Structure and function of the skeletal system, muscular system, integumentary system, neuro-hormonal control, and endocrinology. Emphasis will be to develop an understanding of the integrative nature of the systems discussed. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult… [3-0]"
+  },
+  "KIN 132": {
+    "subject_code": "KIN",
+    "course_code": "132",
+    "credit": "3",
+    "course_name": "Visceral Anatomy and Physiology",
+    "faculty": "Faculty of Education",
+    "description": "Structure and function of the cardiovascular system, respiratory system, urinary system, digestive system, and immune system. Emphasis will be to develop an understanding of the integrative nature of the systems discussed. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school…. [3-2]"
+  },
+  "KIN 140": {
+    "subject_code": "KIN",
+    "course_code": "140",
+    "credit": "3",
+    "course_name": "Lifespan Motor Development",
+    "faculty": "Faculty of Education",
+    "description": "A lifespan approach to motor development that examines underlying factors affecting physical growth, physical activity behaviour, and human motor performance, while highlighting contemporary issues and trends in society. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 150": {
+    "subject_code": "KIN",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Sport and Exercise Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Psychological theories and research related to sport and exercise behaviour. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/school…. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 160": {
+    "subject_code": "KIN",
+    "course_code": "160",
+    "credit": "3",
+    "course_name": "Leisure and Sport in Society",
+    "faculty": "Faculty of Education",
+    "description": "Introduction to the political, economic and social basis of leisure and sport; concepts, theories and problems. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 205": {
+    "subject_code": "KIN",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Research Methods in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Critical evaluation of research studies and methods with emphasis on the physical activity context. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult… [3-0-0] Prerequisite: Second-year standing or higher."
+  },
+  "KIN 206": {
+    "subject_code": "KIN",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Introduction to Statistics in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Basic concepts and principles of descriptive and inferential statistics, and distribution-free statistical techniques. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult… [3-0-0] Prerequisite: Second-year standing or higher."
+  },
+  "KIN 211": {
+    "subject_code": "KIN",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Human Motor Behaviour I",
+    "faculty": "Faculty of Education",
+    "description": "Processes underlying human movement and learning motor skills and factors influencing acquisition, performance, and movement control. [3-0-0]. Prerequisite: All of KIN_V 110, KIN_V 131. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 216": {
+    "subject_code": "KIN",
+    "course_code": "216",
+    "credit": "3",
+    "course_name": "Biomechanics I",
+    "faculty": "Faculty of Education",
+    "description": "Application of elementary principles of physics and math to a quantitative analysis of movement. Analysis will also focus on the development of forces within muscles and their effect on initiating and controlling human movement. [3-0]. Prerequisite: All of KIN_V 110, KIN_V 131. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 220": {
+    "subject_code": "KIN",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Exercise Testing and Prescription for Healthy Individuals with Special Considerations",
+    "faculty": "Faculty of Education",
+    "description": "Pre-exercise screening, exercise testing, and exercise prescription for improving health and performance for the general population and low-risk populations with special considerations. [2-2] Prerequisite: All of KIN_V 110, KIN_V 120, KIN_V 131, and KIN_V 132."
+  },
+  "KIN 232": {
+    "subject_code": "KIN",
+    "course_code": "232",
+    "credit": "3",
+    "course_name": "Nutrition, Physical Activity, and Health",
+    "faculty": "Faculty of Education",
+    "description": "Study of nutrition and its application to physical activity and health. Macro- and micronutrient classification and recommended daily intakes, their digestion, functions in the body and their role in supporting physical activity and health will be discussed. [3-0-0]. Prerequisite: All of KIN_V 131, KIN_V 132. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 235": {
+    "subject_code": "KIN",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Exercise Physiology I",
+    "faculty": "Faculty of Education",
+    "description": "Acute and chronic effects of exercise on body systems; basic concepts of cardiovascular, respiratory and muscular responses to physical activity. [2-0-2]. Prerequisite: All of KIN_V 110, KIN_V 120, KIN_V 131, KIN_V 132. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 262": {
+    "subject_code": "KIN",
+    "course_code": "262",
+    "credit": "3",
+    "course_name": "Health Policy and Society",
+    "faculty": "Faculty of Education",
+    "description": "Health policy and the social context in relation to active health. [3-0]. Prerequisite: KIN_V 160. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 272": {
+    "subject_code": "KIN",
+    "course_code": "272",
+    "credit": "3",
+    "course_name": "Field Work in Exercise Training for Healthy Aging",
+    "faculty": "Faculty of Education",
+    "description": "Opportunity to gain hands-on experience working with qualified exercise professionals to improve cardiovascular and musculoskeletal fitness in healthy middle aged and older adults using evidence-based group exercise programming. Restricted to students in the B.Kin. program with second-year standing or above. Pass/Fail. Prerequisite: KIN_V 120. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 300": {
+    "subject_code": "KIN",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Human Athletic Performance",
+    "faculty": "Faculty of Education",
+    "description": "An exploration of human movement and related issues pertaining to sports and athletic performance. Restricted to non-B.Kin. students only. Not for credit in the B.Kin. Program. [3-0] Prerequisite: Second-year standing."
+  },
+  "KIN 310": {
+    "subject_code": "KIN",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Human Functional Musculoskeletal Anatomy",
+    "faculty": "Faculty of Education",
+    "description": "The musculoskeletal structures and neural innervations involved in the control of human movement. Attention will be given to surface anatomy and to the practical application of human anatomy as it pertains to clinical, athletic, or everyday situations. Prerequisite: KIN_V 110 and KIN_V 131."
+  },
+  "KIN 311": {
+    "subject_code": "KIN",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Sensorimotor Control of Human Movement",
+    "faculty": "Faculty of Education",
+    "description": "Processes and mechanisms involved in the sensory, perceptual, and cognitive contributions to human movements. [3-0] Prerequisite: All of KIN 110, KIN 131, KIN 211, KIN 216."
+  },
+  "KIN 313": {
+    "subject_code": "KIN",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Neuromuscular Integration of Human Movement",
+    "faculty": "Faculty of Education",
+    "description": "The neurophysiological and functional neuroanatomical processes involved in the sensory and motor control of movement, posture and balance in the human. Peripheral and central sensorimotor structures, and neurological diseases that affect human movement and balance control will be discussed. [3-0] Prerequisite: All of KIN 110, KIN 131."
+  },
+  "KIN 316": {
+    "subject_code": "KIN",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Biomechanical Properties of Tissues",
+    "faculty": "Faculty of Education",
+    "description": "Mechanics of muscular contraction and how the mechanical properties of the muscle, ligaments, tendons, and bone work synergistically. [3-0] Prerequisite: All of KIN 110, KIN 131, KIN 211, KIN 216."
+  },
+  "KIN 318": {
+    "subject_code": "KIN",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Programming and Data Science for Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Think algorithmically to process, visualize, and analyze data related to various research questions. Through a combination of readings, lectures, tutorials, and problem sets, students will learn some of the most important tools and techniques in the Python data science ecosystem. Please consult the School of Kinesiology Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. Restricted to students with third-year standing. [3-0] Prerequisite: All of KIN_V 110, KIN_V 131, KIN_V 211, KIN_V 216."
+  },
+  "KIN 320": {
+    "subject_code": "KIN",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Exercise Prescription and Behaviour Change for Individuals with Chronic Disease and Disability",
+    "faculty": "Faculty of Education",
+    "description": "Exercise prescription and behavioural support strategies for promoting health-enhancing levels of fitness for populations with chronic disease and disability. [2-2] Prerequisite: All of KIN_V 110, KIN_V 120, KIN_V 205, KIN_V 206."
+  },
+  "KIN 324": {
+    "subject_code": "KIN",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Prevention of Athletic Injuries",
+    "faculty": "Faculty of Education",
+    "description": "Training and safety strategies for the prevention of injuries to the musculoskeletal system and sense organs. Credit will only be granted for one of KIN_V 324 and KIN_V 420. [3-0] Prerequisite: KIN_V 110."
+  },
+  "KIN 330": {
+    "subject_code": "KIN",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Clinical Exercise Physiology",
+    "faculty": "Faculty of Education",
+    "description": "Explore the physiological, pathological, and pharmacological factors influencing exercise responses and prescription in clinical populations. Emphasis is on cardiovascular, pulmonary, metabolic, renal, cancer-related, and autoimmune conditions, integrating diagnostic assessment, exercise testing, and safety considerations. [3-0] Prerequisite: All of KIN_V 110, KIN_V 120, KIN_V 131, KIN_V 132, KIN_V 235."
+  },
+  "KIN 335": {
+    "subject_code": "KIN",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Advanced Applications of Exercise Physiology",
+    "faculty": "Faculty of Education",
+    "description": "Explore how the cardiovascular and respiratory systems are regulated and integrated during exercise. [2-0-2] Prerequisite: All of KIN 110, KIN 120, KIN 131, KIN 132, KIN 235."
+  },
+  "KIN 342": {
+    "subject_code": "KIN",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Creating Effective, Developmentally Appropriate, Physical Activity Learning Environments",
+    "faculty": "Faculty of Education",
+    "description": "The pedagogical skills and knowledge required to design, and implement, developmentally appropriate physical activities learning environments in a variety of settings. [2-2-0] Prerequisite: One of KIN 140."
+  },
+  "KIN 344": {
+    "subject_code": "KIN",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Leisure Services for Persons with a Disability",
+    "faculty": "Faculty of Education",
+    "description": "Policy issues relating to leisure opportunities for persons with disabilities. [3-0] Prerequisite: All of KIN 160, KIN 262."
+  },
+  "KIN 345": {
+    "subject_code": "KIN",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Foundations of Coaching",
+    "faculty": "Faculty of Education",
+    "description": "Methods of athletic conditioning, planning the program, psychology of training and coaching, athletic evaluation. [3-0] Prerequisite: KIN 150."
+  },
+  "KIN 351": {
+    "subject_code": "KIN",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Physical Activity and Disability",
+    "faculty": "Faculty of Education",
+    "description": "Physical activity counselling, education programming principles, exercise considerations, and strategies for promoting inclusive physical activity for people with disabilities. [2-0-2] Prerequisite: KIN 150 and Third-year standing."
+  },
+  "KIN 353": {
+    "subject_code": "KIN",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Current Topics in Exercise and Health Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Exploring concepts, principles, and theories as they relate to the practice of promoting and supporting recommended physical activity for individuals and population groups. Particular attention will be directed at contemporary issues, controversies, evidence informed initiatives, and innovative new approaches. [3-0-0] Prerequisite: KIN 150 and third-year standing."
+  },
+  "KIN 355": {
+    "subject_code": "KIN",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Applied Approaches to Childhood Movement",
+    "faculty": "Faculty of Education",
+    "description": "An exploration of current and emerging trends, challenges, and opportunities for supporting movement experiences throughout the childhood years. [3-0]. Prerequisite: KIN_V 140."
+  },
+  "KIN 360": {
+    "subject_code": "KIN",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Sport, Peace, and Conflict",
+    "faculty": "Faculty of Education",
+    "description": "Relationships that sport and leisure have with peace, conflict, and social inequality in Canada and internationally. [3-0] Prerequisite: KIN 160."
+  },
+  "KIN 363": {
+    "subject_code": "KIN",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Leisure, Sport and Popular Culture",
+    "faculty": "Faculty of Education",
+    "description": "Selected aspects of leisure and sport examined in relation to modern social structures and cultures. [3-0-0] Prerequisite: KIN 160."
+  },
+  "KIN 364": {
+    "subject_code": "KIN",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "The Modern Olympics: Power, Politics, and Performance",
+    "faculty": "Faculty of Education",
+    "description": "Examination of the Modern Olympic Games as an event with important political, economic, environmental, and cultural ramifications. [3-0] Prerequisite: Third-year standing."
+  },
+  "KIN 368": {
+    "subject_code": "KIN",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Indigenous Sport and Physical Culture in Settler Canada",
+    "faculty": "Faculty of Education",
+    "description": "Historical and contemporary issues in Canada that shape Indigenous sport and physical activity, health programs, and policies. [3-0] Prerequisite: All of KIN 160, KIN 262."
+  },
+  "KIN 411": {
+    "subject_code": "KIN",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Neuroanatomy of Human Movement",
+    "faculty": "Faculty of Education",
+    "description": "Neuroanatomy of human motion in healthy and clinical populations. [3-0] Prerequisite: All of KIN 110, KIN 131, KIN 211, KIN 216."
+  },
+  "KIN 413": {
+    "subject_code": "KIN",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Sensori-Motor Control of Human Balance",
+    "faculty": "Faculty of Education",
+    "description": "Examining the sensory, motor, and biomechanical factors that contribute to human balance control during quiet standing and postural reactions to internal and external perturbations. Emphasis on understanding the characteristics of healthy balance control and changes associated with age and disease. [3-0] Prerequisite: All of KIN 110, KIN 131, KIN 211, KIN 216, and third-year standing."
+  },
+  "KIN 415": {
+    "subject_code": "KIN",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Sensori-motor Neuroplasticity in Movement and Exercise",
+    "faculty": "Faculty of Education",
+    "description": "Concepts in neuroplasticity related to sensori-motor control of movement and exercise. The focus will be on plasticity (both adaptive and maladaptive) that arises because of either training or injury/non-use as it relates to movement control and exercise. [3-0-0] Prerequisite: All of KIN 110, KIN 131, and third-year standing."
+  },
+  "KIN 418": {
+    "subject_code": "KIN",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Computational Modelling of Human Sensori-Motor Control and Learning",
+    "faculty": "Faculty of Education",
+    "description": "Learn the fundamentals of modeling human behavior, including Bayesian probability theory, learning algorithms, and simulation. Gain proficiency with simulating Bayesian and non-Bayesian models with Python code to use these approaches to address novel research questions. [3-0] Prerequisite: KIN_V 206 and KIN_V 318, or another introductory Python programming course (e.g., CPSC_V 110, Python version of DSCI_V 100)."
+  },
+  "KIN 419": {
+    "subject_code": "KIN",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Laboratory Investigations in Neuromechanical Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Integration and application of laboratory principles and techniques for experimental investigations of topics in neuromechanical kinesiology, including biomechanics, motor behaviour, and neurophysiology. [1-2] Prerequisite: All of KIN_V 110, KIN_V 131, KIN_V 211, KIN_V 216."
+  },
+  "KIN 421": {
+    "subject_code": "KIN",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Advanced Exercise Prescription in Chronic Conditions: Evidence-Informed Practice",
+    "faculty": "Faculty of Education",
+    "description": "Chronic conditions and their presentation, comorbidities, medications, pathophysiological basis, and their effects on exercise response and capacity will be discussed. The aim is to build competence in evidence-informed decision-making when assessing and prescribing exercise for clients with complex chronic conditions. [3-0] Prerequisite: KIN_V 320."
+  },
+  "KIN 422": {
+    "subject_code": "KIN",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Professional Practice in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Exploration of professional practice in Kinesiology, encompassing key concepts such as scope of practice, clinical communication skills, professional ethics, shared decision-making, team-based care, entrepreneurship, and evidence-informed practice. Interprofessional collaborative approach to client care, fostering skills crucial for effective on-the-job decision-making. [3-0] Prerequisites: All of KIN_V 120, KIN_V 205, and KIN_V 206."
+  },
+  "KIN 423": {
+    "subject_code": "KIN",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Clinical Exercise Assessment",
+    "faculty": "Faculty of Education",
+    "description": "Conduct cardiovascular fitness, musculoskeletal, functional, and risk stratification testing, with specific consideration for populations living with chronic disease and disability. [2-2] Prerequisite: Restricted to students in the B.Kin. program with fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 424": {
+    "subject_code": "KIN",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Medical Aspects of Sport and Exercise",
+    "faculty": "Faculty of Education",
+    "description": "Training and safety strategies for the management and prevention of disorders of internal organs and central nervous system. Topics include environmental and nutritional factors in conditioning and pre-event preparation. [3-0] Prerequisite: All of KIN 110, KIN 131."
+  },
+  "KIN 428": {
+    "subject_code": "KIN",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Indigenous Health and Wellness",
+    "faculty": "Faculty of Education",
+    "description": "The complex social, cultural, historical, and economic factors that shape health and wellness within Indigenous communities will be explored through extensive blended learning and experiential learning opportunities. Credit will only be granted for one of KIN_V 428 and KIN_V 468. [3-0] Prerequisite: All of KIN_V 160 and KIN_V 235."
+  },
+  "KIN 432": {
+    "subject_code": "KIN",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Sport Nutrition",
+    "faculty": "Faculty of Education",
+    "description": "Sport nutrition guidelines, physiological mechanisms of fuel use in the body, nutritional strategies to support weight change, hydration, and ergogenic aids the needs of special athlete populations. [3-0] Prerequisite: All of KIN 131, KIN 132, KIN 232."
+  },
+  "KIN 434": {
+    "subject_code": "KIN",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Exercise, Nutrition, and Metabolism",
+    "faculty": "Faculty of Education",
+    "description": "Exploring the physiological and biochemical changes that occur in skeletal muscle, adipose tissue, and liver following exercise. Interactions between exercise, nutrition, and commonly prescribed medications used for the treatment of diabetes and cardiovascular disease will also be examined. [3-0] Prerequisite: All of KIN_V 232, KIN_V 235, and third-year standing."
+  },
+  "KIN 435": {
+    "subject_code": "KIN",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Pulmonary Physiology of Exercise",
+    "faculty": "Faculty of Education",
+    "description": "Operation of the lungs, chest wall, and ventilatory control mechanisms during dynamic whole-body exercise. [3-0] Prerequisite: All of KIN 110, KIN 120, KIN 131, KIN 132, KIN 235, KIN 335."
+  },
+  "KIN 438": {
+    "subject_code": "KIN",
+    "course_code": "438",
+    "credit": "3",
+    "course_name": "Skeletal Muscle Physiology: Molecular Adaptions to Training, Disuse and Aging",
+    "faculty": "Faculty of Education",
+    "description": "Cellular and molecular mechanisms of muscle adaptability to aerobic and resistance training, inactive and aging: signaling cascades controlling hypertrophy and atrophy, satellite cell contribution to muscle repair, and mitochondrial/ribosomal biogenesis. BIOL 112 or similar recommended. [3-0-1] Prerequisite: All of KIN 110, KIN 120, KIN 131, KIN 132, KIN 235, KIN 335."
+  },
+  "KIN 442": {
+    "subject_code": "KIN",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Planning Physical Education, Sport and Exercise Programs",
+    "faculty": "Faculty of Education",
+    "description": "Processes, techniques and considerations in the planning, implementation and evaluation of physical education, sport and exercise programs in both public and private agencies. [3-0] Prerequisite: All of KIN 140, KIN 262 and Third-year standing."
+  },
+  "KIN 444": {
+    "subject_code": "KIN",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Exploring Alternative Methods for Teaching Games and Sports",
+    "faculty": "Faculty of Education",
+    "description": "Examination of innovative, developmentally appropriate, conceptual and tactical approaches to team game instruction. [2-2-0] Prerequisite: One of KIN 140."
+  },
+  "KIN 450": {
+    "subject_code": "KIN",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Inclusive Approaches to Sport Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Examination of the psychological and behavioural processes of athletes from a social justice perspective. The focus will be on the role of social structures, sociocultural norms, power relations, and social identities in shaping athletes' perceptions and lived experiences in sport. [3-0-0] Prerequisite: All of KIN_V 150, KINIV 160, and third-year standing."
+  },
+  "KIN 453": {
+    "subject_code": "KIN",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Understanding and Changing Physical Activity Behaviour",
+    "faculty": "Faculty of Education",
+    "description": "Examining the influence of psychological factors across different settings and populations, with a particular focus on interventions aimed at enhancing mental health. Understanding psychology can be used to design effective interventions at the individual and community level. [3-0-0] Prerequisite: KIN 150."
+  },
+  "KIN 457": {
+    "subject_code": "KIN",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "The Psychology of Team Effectiveness",
+    "faculty": "Faculty of Education",
+    "description": "Within sport and other contexts that demand high performance, humans often work together as part of teams. Discover what makes those teams effective, why some teams flourish and others flounder, and how we might develop better teams. [3-0] Prerequisites: KIN_V 150 and KIN_V 205."
+  },
+  "KIN 459": {
+    "subject_code": "KIN",
+    "course_code": "459",
+    "credit": "3",
+    "course_name": "Psychobiology of Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Exploration of the role of physical activity and exercise on brain health, mental health, and underpinning psychological and biological mechanisms. This course deepens students' capacity to read and interpret scientific evidence. [3-0] Prerequisite: All of KIN_V 150, KIN_V 205, KIN_V 206."
+  },
+  "KIN 460": {
+    "subject_code": "KIN",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Aging, Health, and Society",
+    "faculty": "Faculty of Education",
+    "description": "Examination of current issues in the sociology of aging and health. Prerequisite: All of KIN 160, KIN 262."
+  },
+  "KIN 463": {
+    "subject_code": "KIN",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "Hockey in Canadian Society",
+    "faculty": "Faculty of Education",
+    "description": "Examines Canadian society through the lens of hockey. Explores the deep and symbiotic relationship between the nation and the game and the implications this relationship has for social, political, and cultural life in Canada. [3-0] Prerequisite: KIN_V 160."
+  },
+  "KIN 464": {
+    "subject_code": "KIN",
+    "course_code": "464",
+    "credit": "3",
+    "course_name": "Health Promotion and Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Current perspectives on health promotion and health education; design and implementation of health promotion strategies in a variety of arenas, particularly health promotion/education strategies aimed at encouraging physical activity. [3-0] Prerequisite: All of KIN 150, KIN 160, KIN 205, KIN 262."
+  },
+  "KIN 465": {
+    "subject_code": "KIN",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Interculturalism, Health and Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Examination of multiculturalism and interculturalism in the delivery of community-based physical activities for diverse populations; connections between physical activity and health in different cultural contexts. Community service learning and participation in culturally unfamiliar physical activities are core elements. Prerequisite: All of KIN 160, KIN 262."
+  },
+  "KIN 469": {
+    "subject_code": "KIN",
+    "course_code": "469",
+    "credit": "3",
+    "course_name": "Restoring Wellness Through Indigenous Land-Based Practices",
+    "faculty": "Faculty of Education",
+    "description": "Examining how colonialism and settler colonialism altered Indigenous physical practices and concepts of wellness and consider how Indigenous peoples and their communities are reclaiming and reengaging with physical culture and land-based practices to restore and maintain their sense of well-being. [3-0] Prerequisite: All of KIN_V 160, KIN_V 262, and third-year standing."
+  },
+  "KIN 471": {
+    "subject_code": "KIN",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Exercise Management of Chronic Neurological Balance and Mobility Conditions",
+    "faculty": "Faculty of Education",
+    "description": "Work with an inter-professional health team to assess and rehabilitate neurological balance and mobility deficits. Students will assist in the delivery of exercise-based rehabilitation at the Physical Therapy Rehabilitation Clinic and the BC Brain Well Program. Restricted to students in the BKIN program with third- or fourth-year standing. Pass/Fail. Corequisite: KIN_V 320 and KIN_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 473": {
+    "subject_code": "KIN",
+    "course_code": "473",
+    "credit": "3-6",
+    "course_name": "Kinesiology Field Work in Primary Care Medicine",
+    "faculty": "Faculty of Education",
+    "description": "Work in a team-based primary care setting with patients focusing on exercise prescription and program delivery under the clinical care of family physicians, dietician, practice support coaches and kinesiologists. Restricted to students in the BKIN program with fourth-year standing. Pass/Fail. Prerequisites: KIN_V 320 and KIN_V 335. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 475": {
+    "subject_code": "KIN",
+    "course_code": "475",
+    "credit": "3-6",
+    "course_name": "Physical Activity Counselling and Prescription for People with Spinal Cord Injury",
+    "faculty": "Faculty of Education",
+    "description": "Gain hands-on experience working with members of the Physical Activity Research Centre at the Blusson Spinal Cord Centre. Apply skills in exercise testing, prescription, and physical activity counselling. Restricted to students in the BKIN program with third- or fourth-year standing. Pass/Fail. Prerequisite: KIN_V 320 (KIN_V 351 strongly recommended). This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 479": {
+    "subject_code": "KIN",
+    "course_code": "479",
+    "credit": "3-6",
+    "course_name": "Scientific Communication and Research Skills in Neuromechanical Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Training in research methods, computational skills, and scientific dissemination related to neuromechanics research in Kinesiology. Students will learn the principles underlying scientific communication and apply these principles in the form of an oral dissemination of scientific results. Restricted to students in the BKIN program with third- or fourth-year standing. Pass/Fail. Prerequisites: Two of KIN_V 310, KIN_V 311, KIN_V 313, KIN_V 316, KIN_V 411, KIN_V 413, KIN_V 415, KIN_V 419. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 482": {
+    "subject_code": "KIN",
+    "course_code": "482",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Neuromechanics",
+    "faculty": "Faculty of Education",
+    "description": "Topics consider how neurological, cognitive, sensory, mechanical and muscular systems interact to control human motion and its response to the physical environment. [3-0] Prerequisite: Two of KIN_V 311, KIN_V 313, KIN_V 316, KIN_V 411, 413, 415, KIN_V 419. Restricted to students in the BKIN program with fourth-year standing"
+  },
+  "KIN 483": {
+    "subject_code": "KIN",
+    "course_code": "483",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Systems Biology, Exercise and Health",
+    "faculty": "Faculty of Education",
+    "description": "Topics examine the roles of physical activity and fitness on physiological systems and underlying cellular and metabolic mechanisms. [3-0] Prerequisite: Two of KIN_V 320, KIN_V 335, KIN_V 420, KIN_V 424, KIN_V 432, KIN_V 434, KIN_V 435, KIN_V 438. Restricted to students in the BKIN program with fourth-year standing."
+  },
+  "KIN 484": {
+    "subject_code": "KIN",
+    "course_code": "484",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Indigenous Sport, Physical Activity and Health",
+    "faculty": "Faculty of Education",
+    "description": "Topics explore the relationship between Indigenous physical cultures, physical activity, health and wellbeing. [3-0] Prerequisite: Restricted to students in the BKIN program with third- or fourth-year standing."
+  },
+  "KIN 485": {
+    "subject_code": "KIN",
+    "course_code": "485",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Leadership Education for Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Topics consider health-related fitness, physical competence, cognitive understanding, and positive attitudes about physical activity. [3-0] Prerequisite: Restricted to students in the BKIN program with third- or fourth-year standing."
+  },
+  "KIN 486": {
+    "subject_code": "KIN",
+    "course_code": "486",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Psychology of Movement",
+    "faculty": "Faculty of Education",
+    "description": "Topics examines the application of psychology to understanding and supporting healthy sport, physical activity, and health behaviors. [3-0] Prerequisite: Restricted to students in the BKIN program with third- or fourth-year standing."
+  },
+  "KIN 487": {
+    "subject_code": "KIN",
+    "course_code": "487",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Sociocultural Studies",
+    "faculty": "Faculty of Education",
+    "description": "Topics explore the social, cultural and global context of sport, exercise, physical activity, health, and the body. [3-0] Prerequisite: Two of KIN_V 360, KIN_V 363, KIN_V 368, KIN_V 460, KIN_V 464, KIN_V 465, KIN_V 468. Restricted to students in the BKIN program with fourth-year standing."
+  },
+  "KIN 488": {
+    "subject_code": "KIN",
+    "course_code": "488",
+    "credit": "3-15",
+    "course_name": "Advanced Seminar in Interdisciplinary Research in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Topics will be approached from multiple perspectives in a course designed to explore the interdisciplinarity of the field of kinesiology. [3-0] Prerequisite: Restricted to students in the BKIN program with fourth-year standing."
+  },
+  "KIN 490": {
+    "subject_code": "KIN",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Opportunity for students to conduct an independent study in a subject area of interest to them, under the direction of a KIN faculty member. Prerequisite: Third-year standing and permission of the Associate Director, Undergraduate Program."
+  },
+  "KIN 492": {
+    "subject_code": "KIN",
+    "course_code": "492",
+    "credit": "6",
+    "course_name": "Undergraduate Research Experience in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Opportunity for independent study that includes original data collection, under the direction of a KIN faculty member. Prerequisite: Third-year standing and permission of the Associate Director, Undergraduate Program."
+  },
+  "KIN 500": {
+    "subject_code": "KIN",
+    "course_code": "500",
+    "credit": "3-12",
+    "course_name": "Special Topics in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 501": {
+    "subject_code": "KIN",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Computational Methods for Data Acquisition and Signal Processing in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Hands-on laboratory course with an emphasis on developing critical computational research skills for the acquisition, processing and presentation of data related to human movements. Recommended prerequisite: Undergraduate degree in Kinesiology (or related field) including neuromechanical science courses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 515": {
+    "subject_code": "KIN",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Gap Analysis",
+    "faculty": "Faculty of Education",
+    "description": "Using analytics to obtain, describe, and visualize data to create a sport profile. Determine optimal programming decisions for coached athletes based on their performance pathway and gold medal profile. Apply research methods and principles of scientific inquiry, performance analysis, descriptive, prescriptive, and predictive analytics to improve athlete development and performance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 516": {
+    "subject_code": "KIN",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Psychology of Leadership and Group Processes",
+    "faculty": "Faculty of Education",
+    "description": "Contemporary theory, research and application with regard to leadership and group processes in the context of sport and exercise. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 517": {
+    "subject_code": "KIN",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Business of High Performance Sport in Canada",
+    "faculty": "Faculty of Education",
+    "description": "Canada's sport system, its governance and stakeholders; financial management for high performance sport; communications, marketing, and sponsorship of high performance sport. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 530": {
+    "subject_code": "KIN",
+    "course_code": "530",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Education",
+    "description": "Topics selected by the student, with the approval of the Graduate Advisor, can be studied under the supervision of a member of the faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 562": {
+    "subject_code": "KIN",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Bioenergetics of Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Basic energy systems of the human body; primarily concentrating on the bioenergetics of the skeletal muscle cell, recovery from muscular work, substrate utilization, muscle fiber types, strength, endurance and the physiological assessment of maximal performance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 563": {
+    "subject_code": "KIN",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Measurement of Human Motion",
+    "faculty": "Faculty of Education",
+    "description": "A critical evaluation of research tools used to measure and assess human motor performance including electromyography, anthropometry, ergometers, indirect calorimetry, cinematography, and indirect dynamics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 564": {
+    "subject_code": "KIN",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Psycho-Social Aspects of Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Selected psycho-social considerations in sport: initial and continuing involvement in the competitive sport environment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 565": {
+    "subject_code": "KIN",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Physiological Aspects of Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "Survey of research regarding the physiological aspects of activity; the effects of altitude and environmental temperature on man's performance in exercise and sports. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 567": {
+    "subject_code": "KIN",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Skill Acquisition: Practice Design & Instruction",
+    "faculty": "Faculty of Education",
+    "description": "Research and theories on learning, maintaining, and excelling at movement skills, with a particular emphasis on sport. Effective practice conditions for learning and elite athletic performance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 568": {
+    "subject_code": "KIN",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Seminar in Human Sensorimotor Control",
+    "faculty": "Faculty of Education",
+    "description": "Reports and discussions of research literature concerning theories and findings in human sensorimotor control. Emphasis is given to understanding the basic mechanisms underlying sensorimotor control, utilizing frameworks drawn from motor behaviour, cognitive neuroscience, and neurophysiology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 570": {
+    "subject_code": "KIN",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Research Methods in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Research methods applied to the study of sport and physical activity, the nature of scientific inquiry, the design of experiments, the survey as a research medium, the historical and philosophical methods of inquiry, the writing of the research report. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 571": {
+    "subject_code": "KIN",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Qualitative Methods in Sport, Leisure, and Health Studies",
+    "faculty": "Faculty of Education",
+    "description": "Theoretical, methodological, and ethical debates about and approaches to qualitative methods; issues in and approaches to qualitative inquiry. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 572": {
+    "subject_code": "KIN",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Research Methods for Sport & Health Sciences",
+    "faculty": "Faculty of Education",
+    "description": "Interpretation and evaluation of research methods and scientific findings related to coaching sciences and exercise and health-related professions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 573": {
+    "subject_code": "KIN",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Seminar in Mechanical Analysis of Human Movement",
+    "faculty": "Faculty of Education",
+    "description": "An investigation of human movement using cinematographical and other research methods. The case study approach will be used to examine kinesiological concepts and principles. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 574": {
+    "subject_code": "KIN",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Seminar in Health Promotion Through Physical Activity",
+    "faculty": "Faculty of Education",
+    "description": "The relationship of new concepts in health to the promotion of health through physical activity; the application of research findings from a number of disciplines to the identification, selection, and targeting of health promotion/education strategies related to physical activity. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 575": {
+    "subject_code": "KIN",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Principles of Applied Sports Analytics",
+    "faculty": "Faculty of Education",
+    "description": "Technical and applied knowledge in data science and analytics related to high performance sports. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 580": {
+    "subject_code": "KIN",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Seminar in Body, Exercise, and Society",
+    "faculty": "Faculty of Education",
+    "description": "Personal, social, and cultural significance of the body in sport, exercise, and physical culture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 581": {
+    "subject_code": "KIN",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Sport, Leisure and Consumer Culture",
+    "faculty": "Faculty of Education",
+    "description": "Sport and leisure are viewed in the context of theoretical debates about mass society and consumer culture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 583": {
+    "subject_code": "KIN",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Physical Education, Sport and Exercise Programs",
+    "faculty": "Faculty of Education",
+    "description": "The development of curricula, implementation and evaluation techniques in physical education, sport and exercise programs; relationships of programs in schools, community centres and other institutions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 585": {
+    "subject_code": "KIN",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Performance Planning",
+    "faculty": "Faculty of Education",
+    "description": "Application of findings from sport profile and gap analysis to the planning and design of high performance training and coaching programs. Focuses on quadrennial, annual, meso and microcycle planning to integrate key factors that impact athlete performance and progression along the athlete development pathway. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 586": {
+    "subject_code": "KIN",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Coaching Effectiveness",
+    "faculty": "Faculty of Education",
+    "description": "Analysis of athlete performance and appropriate design and application of coaching intervention and skill acquisition for athlete and coach development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 591": {
+    "subject_code": "KIN",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Seminar in the Organizational Analysis of Leisure",
+    "faculty": "Faculty of Education",
+    "description": "Selected topics in organizational theory as applied to the analysis of leisure and sport organizations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 595": {
+    "subject_code": "KIN",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Master's Graduating Paper",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 596": {
+    "subject_code": "KIN",
+    "course_code": "596",
+    "credit": "6",
+    "course_name": "High Performance Sport Inquiry",
+    "faculty": "Faculty of Education",
+    "description": "Blended learning approach in a problem-based setting. Students support their own research interests within the high performance sport arena. Prerequisite: KIN_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 597": {
+    "subject_code": "KIN",
+    "course_code": "597",
+    "credit": "3",
+    "course_name": "Practical Applications in High Performance Sport",
+    "faculty": "Faculty of Education",
+    "description": "Apply and reflect on professional competency within existing coach or leader context in relevant High Performance sport environment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 598": {
+    "subject_code": "KIN",
+    "course_code": "598",
+    "credit": "3",
+    "course_name": "Directed Field Studies in Kinesiology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 599": {
+    "subject_code": "KIN",
+    "course_code": "599",
+    "credit": "12-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 601": {
+    "subject_code": "KIN",
+    "course_code": "601",
+    "credit": "3-12",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "KIN 699": {
+    "subject_code": "KIN",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

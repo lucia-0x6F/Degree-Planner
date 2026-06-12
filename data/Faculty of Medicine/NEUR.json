@@ -1,0 +1,58 @@
+{
+  "NEUR 512": {
+    "subject_code": "NEUR",
+    "course_code": "512",
+    "credit": "2",
+    "course_name": "Advanced Neurosurgery I",
+    "faculty": "Faculty of Medicine",
+    "description": "Selected topics in neurosurgery and the related basic sciences. Given in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NEUR 513": {
+    "subject_code": "NEUR",
+    "course_code": "513",
+    "credit": "2",
+    "course_name": "Advanced Neurosurgery II",
+    "faculty": "Faculty of Medicine",
+    "description": "The second year of the above program. Given in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NEUR 730": {
+    "subject_code": "NEUR",
+    "course_code": "730",
+    "credit": "0",
+    "course_name": "Correlative Clinical Neurosurgery Rounds",
+    "faculty": "Faculty of Medicine",
+    "description": "Residents meet with radiology, neuropathology, and active staff members for discussion of problem cases. One and one-half hours weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NEUR 731": {
+    "subject_code": "NEUR",
+    "course_code": "731",
+    "credit": "0",
+    "course_name": "Neurosurgery Professors Conference",
+    "faculty": "Faculty of Medicine",
+    "description": "One one-hour session weekly with a member of the active staff, conducted at the bedside or in conference room. Cases reviewed with emphasis on the proper application of diagnostic methods and the indications for operative management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NEUR 732": {
+    "subject_code": "NEUR",
+    "course_code": "732",
+    "credit": "0",
+    "course_name": "Neuroradiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Sessions conducted by members of the Department of Radiology in which case histories are reviewed and related to radiological investigation and interpretation. One hour weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NEUR 733": {
+    "subject_code": "NEUR",
+    "course_code": "733",
+    "credit": "0",
+    "course_name": "Anatomy and Neuropathology in the Brain",
+    "faculty": "Faculty of Medicine",
+    "description": "Sessions conducted by a neuropathologist, Department of Pathology. Attended weekly by neurosurgical resident staff. Two hours weekly. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NEUR 734": {
+    "subject_code": "NEUR",
+    "course_code": "734",
+    "credit": "0",
+    "course_name": "Operative Neurosurgery",
+    "faculty": "Faculty of Medicine",
+    "description": "Technique of neurosurgical procedures. Anatomy, surgical judgement, pre- and post-operative care. From a general selection of neurosurgical procedures, approximately 950 major neurosurgical procedures per year are carried out under supervision. This course is not eligible for Credit/D/Fail grading."
+  }
+}

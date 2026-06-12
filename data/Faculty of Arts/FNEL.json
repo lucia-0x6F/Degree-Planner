@@ -1,0 +1,378 @@
+{
+  "FNEL 101": {
+    "subject_code": "FNEL",
+    "course_code": "101",
+    "credit": "3-12",
+    "course_name": "Introduction to a Salish Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures and listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of the language is assumed. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 102": {
+    "subject_code": "FNEL",
+    "course_code": "102",
+    "credit": "3-12",
+    "course_name": "Introduction to a Salish Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Prerequisite: FNEL_V 101. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 111": {
+    "subject_code": "FNEL",
+    "course_code": "111",
+    "credit": "3-12",
+    "course_name": "Introduction to an Algonquian Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures and listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of the language is assumed. Not offered every year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 112": {
+    "subject_code": "FNEL",
+    "course_code": "112",
+    "credit": "3-12",
+    "course_name": "Introduction to an Algonquian Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 111. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 121": {
+    "subject_code": "FNEL",
+    "course_code": "121",
+    "credit": "3-12",
+    "course_name": "Introduction to a Dene (Athapaskan) Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures and listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of the language is assumed. Not offered every year."
+  },
+  "FNEL 122": {
+    "subject_code": "FNEL",
+    "course_code": "122",
+    "credit": "3-12",
+    "course_name": "Introduction to a Dene (Athapaskan) Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 121."
+  },
+  "FNEL 131": {
+    "subject_code": "FNEL",
+    "course_code": "131",
+    "credit": "3-12",
+    "course_name": "Introduction to a Tsimshianic Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures, listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of the language is assumed. Not offered every year."
+  },
+  "FNEL 132": {
+    "subject_code": "FNEL",
+    "course_code": "132",
+    "credit": "3-12",
+    "course_name": "Introduction to a Tsimshianic Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 131."
+  },
+  "FNEL 141": {
+    "subject_code": "FNEL",
+    "course_code": "141",
+    "credit": "3-12",
+    "course_name": "Introduction to a Wakashan Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures, listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of the language is assumed. Not offered every year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 142": {
+    "subject_code": "FNEL",
+    "course_code": "142",
+    "credit": "3-12",
+    "course_name": "Introduction to a Wakashan Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 141. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 151": {
+    "subject_code": "FNEL",
+    "course_code": "151",
+    "credit": "3",
+    "course_name": "Introduction to the Haida Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures, listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of this language is assumed. Not offered every year."
+  },
+  "FNEL 152": {
+    "subject_code": "FNEL",
+    "course_code": "152",
+    "credit": "3",
+    "course_name": "Introduction to the Haida Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 151."
+  },
+  "FNEL 161": {
+    "subject_code": "FNEL",
+    "course_code": "161",
+    "credit": "3",
+    "course_name": "Introduction to the Ktunaxa (Kootenay) Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures, listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of this language is assumed. Not offered every year."
+  },
+  "FNEL 162": {
+    "subject_code": "FNEL",
+    "course_code": "162",
+    "credit": "3",
+    "course_name": "Introduction to the Ktunaxa (Kootenay) Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 161."
+  },
+  "FNEL 180": {
+    "subject_code": "FNEL",
+    "course_code": "180",
+    "credit": "3",
+    "course_name": "Introduction to Endangered Language Documentation and Revitalization",
+    "faculty": "Faculty of Arts",
+    "description": "Foundational concepts in the critical study of cultural, historical, social, and political factors that impact language loss, retention, and revival. Introducing strategies and practical methodologies for collaborative, interdisciplinary, community-based documentation and revitalization projects for First Nations and Indigenous languages. Restricted to Undergraduate Students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 191": {
+    "subject_code": "FNEL",
+    "course_code": "191",
+    "credit": "3-12",
+    "course_name": "Introduction to an Indigenous Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on accurate pronunciation, conversation, basic grammatical structures, listening and literacy skills, and the study of oral traditions in their cultural context. No prior knowledge of this language is assumed. Not offered every year."
+  },
+  "FNEL 192": {
+    "subject_code": "FNEL",
+    "course_code": "192",
+    "credit": "3-12",
+    "course_name": "Introduction to an Indigenous Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: 3 credits of FNEL 191"
+  },
+  "FNEL 201": {
+    "subject_code": "FNEL",
+    "course_code": "201",
+    "credit": "3-12",
+    "course_name": "Intermediate Salish Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Prerequisite must be in same language. Prerequisite: FNEL_V 102. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 202": {
+    "subject_code": "FNEL",
+    "course_code": "202",
+    "credit": "3-12",
+    "course_name": "Intermediate Salish Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Prerequisite: FNEL_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 211": {
+    "subject_code": "FNEL",
+    "course_code": "211",
+    "credit": "3-12",
+    "course_name": "Intermediate Algonquian Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 112. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 212": {
+    "subject_code": "FNEL",
+    "course_code": "212",
+    "credit": "3-12",
+    "course_name": "Intermediate Algonquian Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 211. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 221": {
+    "subject_code": "FNEL",
+    "course_code": "221",
+    "credit": "3-12",
+    "course_name": "Intermediate Dene (Athapaskan) Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 122."
+  },
+  "FNEL 222": {
+    "subject_code": "FNEL",
+    "course_code": "222",
+    "credit": "3-12",
+    "course_name": "Intermediate Dene (Athapaskan) Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 221."
+  },
+  "FNEL 231": {
+    "subject_code": "FNEL",
+    "course_code": "231",
+    "credit": "3-12",
+    "course_name": "Intermediate Tsimshianic Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 132."
+  },
+  "FNEL 232": {
+    "subject_code": "FNEL",
+    "course_code": "232",
+    "credit": "3-12",
+    "course_name": "Intermediate Tsimshianic Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 231."
+  },
+  "FNEL 241": {
+    "subject_code": "FNEL",
+    "course_code": "241",
+    "credit": "3-12",
+    "course_name": "Intermediate Wakashan Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 142."
+  },
+  "FNEL 242": {
+    "subject_code": "FNEL",
+    "course_code": "242",
+    "credit": "3-12",
+    "course_name": "Intermediate Wakashan Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 241. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 251": {
+    "subject_code": "FNEL",
+    "course_code": "251",
+    "credit": "3",
+    "course_name": "Intermediate Haida Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 152."
+  },
+  "FNEL 252": {
+    "subject_code": "FNEL",
+    "course_code": "252",
+    "credit": "3",
+    "course_name": "Intermediate Haida Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 251."
+  },
+  "FNEL 261": {
+    "subject_code": "FNEL",
+    "course_code": "261",
+    "credit": "3",
+    "course_name": "Intermediate Ktunaxa (Kootenay) Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 162."
+  },
+  "FNEL 262": {
+    "subject_code": "FNEL",
+    "course_code": "262",
+    "credit": "3",
+    "course_name": "Intermediate Ktunaxa Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Prerequisite must be in same language. Not offered every year. Prerequisite: FNEL 261."
+  },
+  "FNEL 281": {
+    "subject_code": "FNEL",
+    "course_code": "281",
+    "credit": "3",
+    "course_name": "Sounds of Endangered Languages: Conservation and Revitalization",
+    "faculty": "Faculty of Arts",
+    "description": "Development of skills in the perception and transcription of speech sounds in endangered languages, focusing on the diversity within BC Indigenous languages. Capacity-building techniques for digital recording, editing, analysis, and archiving; guided by community-based ethical protocols and conservation/revitalization goals. Restricted to Undergraduate Students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 282": {
+    "subject_code": "FNEL",
+    "course_code": "282",
+    "credit": "3",
+    "course_name": "Structures of Endangered Languages: Conservation and Revitalization",
+    "faculty": "Faculty of Arts",
+    "description": "Development of skills in the documentation, transcription and analysis of grammatical structures in endangered languages, focusing on the diversity within BC Indigenous languages. Applied techniques in documentation, workflow and multi-media digital annotation, guided by community-based ethical protocols and conservation/revitalization goals. Restricted to Undergraduate Students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 291": {
+    "subject_code": "FNEL",
+    "course_code": "291",
+    "credit": "3-12",
+    "course_name": "Intermediate Indigenous Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on increasing fluency in conversational ability, enhancing pronunciation and comprehension skills, expanding vocabulary, extending literacy and grammatical understanding, and further study of oral traditions in their cultural context. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 192."
+  },
+  "FNEL 292": {
+    "subject_code": "FNEL",
+    "course_code": "292",
+    "credit": "3-12",
+    "course_name": "Intermediate Indigenous Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL 291."
+  },
+  "FNEL 301": {
+    "subject_code": "FNEL",
+    "course_code": "301",
+    "credit": "3-12",
+    "course_name": "Advanced Salish Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on advanced comprehension and production skills. Extended focus on skills in oral traditions, transcription, literacy, and on deepening the understanding of grammatical structures and dialectal variation. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 302": {
+    "subject_code": "FNEL",
+    "course_code": "302",
+    "credit": "3-12",
+    "course_name": "Advanced Salish Language II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued focus on the diverse range of language learning skills that advance competency in conversational fluency, pronunciation, comprehension, vocabulary, oral traditions, literacy, grammatical understanding, and the cultural contextualization of language use. Not offered every year. Prerequisite must be in same language. Prerequisite: FNEL_V 301. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 380": {
+    "subject_code": "FNEL",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Technologies for Endangered Language Documentation and Revitalization",
+    "faculty": "Faculty of Arts",
+    "description": "Digital tools for endangered language documentation, conservation, and revitalization. Overview of best practices, introduction to community engagement and capacity-building, protocols and ethics, project design, cultural context, orthographies, use of audio, video and still photography, data management, archiving and web publishing. Restricted to Undergraduate Students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 381": {
+    "subject_code": "FNEL",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Biocultural Diversity: Language, Community, and Environment",
+    "faculty": "Faculty of Arts",
+    "description": "Critical exploration of the links between linguistic, biological and cultural diversity; including connections with linguistic relativity, linguistic identity, language and place; and strategies for collective, interdisciplinary action to promote and support the protection of languages, cultures, and the environment. Restricted to Undergraduate Students."
+  },
+  "FNEL 382": {
+    "subject_code": "FNEL",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Lexicography for Endangered Languages",
+    "faculty": "Faculty of Arts",
+    "description": "Foundational concepts in the discipline of compiling, editing, managing and hosting dictionaries, also known as lexicography. Special focus on the technical and ethical considerations for community-based lexicography projects for endangered and BC First Nations languages. Restricted to Undergraduate Students."
+  },
+  "FNEL 389": {
+    "subject_code": "FNEL",
+    "course_code": "389",
+    "credit": "3",
+    "course_name": "Collaborative Heritage Research in First Nations Languages: Practicum and Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "Hands-on experience planning and producing a Breath of Life Language Reclamation Workshop for endangered BC First Nations languages, during which community-based researchers access and interpret relevant heritage resources at UBC and other local institutions for the revitalization of their languages. Restricted to Undergraduate Students. Corequisites must be in same language. Corequisite: All of FNEL 281, FNEL 282. Corequisites can be taken either alongside or prior to FNEL 389."
+  },
+  "FNEL 448": {
+    "subject_code": "FNEL",
+    "course_code": "448",
+    "credit": "3-12",
+    "course_name": "Directed Research in First Nations Languages",
+    "faculty": "Faculty of Arts",
+    "description": "Supervised by a faculty member. Prerequisite: Agreement of Supervisor and approval of Director of the Institute for Critical Indigenous Studies."
+  },
+  "FNEL 480": {
+    "subject_code": "FNEL",
+    "course_code": "480",
+    "credit": "3-12",
+    "course_name": "Endangered Language Documentation and Revitalization",
+    "faculty": "Faculty of Arts",
+    "description": "Critical study of the historical, social, cultural, political, and economic factors impacting on language loss, retention, and revival. Research on and application of methodologies for collaborative, trans-disciplinary, community-based documentation and revitalization of BC's Indigenous linguistic heritage. Restricted to Undergraduate Students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 481": {
+    "subject_code": "FNEL",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Heritage Resources in Endangered First Nations Language Revitalization",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the complementary and intersecting roles of libraries, archives, and museums in collections acquisition, development, curation, preservation, and access traditions pertaining to First Nations languages, to explore how each can contribute to endangered language and cultural heritage sustainability. Restricted to Undergraduate Students. Prerequisite must be in same language. Prerequisite: One of FNEL_V 180, FNEL_V 281, FNEL_V 282. Or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 482": {
+    "subject_code": "FNEL",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Applied Research in Endangered Language Reclamation",
+    "faculty": "Faculty of Arts",
+    "description": "Application of research skills and methodologies in the design and implementation of a research project relevant to endangered language conservation and/or revitalization. Project co-constructed in collaboration with a First Nations community, guided by community-based ethical protocols. Restricted to Undergraduate Students. Pre-requisite must be in same language. Recommended pre-requisite: FNEL_V 481. Corequisite: All of FNEL_V 281, FNEL_V 282, FNEL_V 389. Corequisites can be taken either alongside or prior to FNEL_V 482. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNEL 483": {
+    "subject_code": "FNEL",
+    "course_code": "483",
+    "credit": "3",
+    "course_name": "Indigenous Languages of BC: Diversity and Vitality",
+    "faculty": "Faculty of Arts",
+    "description": "Genetic affiliation, areal contact, typological diversity, and initiatives to sustain the vitality and diversity of BC First Nations Languages. Restricted to Undergraduate Students."
+  },
+  "FNEL 489": {
+    "subject_code": "FNEL",
+    "course_code": "489",
+    "credit": "3-12",
+    "course_name": "Topics in First Nations and Endangered Languages",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics will vary. Multiple versions of this course may be taken, under consultation with the FNEL program advisor, for up to a maximum of 12 credits. Restricted to Undergraduate Students. This course is not eligible for Credit/D/Fail grading."
+  }
+}

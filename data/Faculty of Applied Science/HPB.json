@@ -1,0 +1,50 @@
+{
+  "HPB 501": {
+    "subject_code": "HPB",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Green Building Contemporary Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "Enhanced building environmental performance and the integration of green building principles, strategies and technologies. Equivalency: ARCH_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HPB 502": {
+    "subject_code": "HPB",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Regenerative Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "The relationship between human and natural systems in the context of regenerative design. Provides an understanding of how regenerative approaches differ from green design and how they can offer new insights and directions for design. Equivalency: ARCH_V 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HPB 503": {
+    "subject_code": "HPB",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Whole Building Energy Modelling and Simulation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling energy in a high performance building. Introduction to indoor space requirements. Heat and mass transfer through building envelopes. Climate. Fenestration, daylighting, solar energy. Introduction to major energy models. Modelling project. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HPB 504": {
+    "subject_code": "HPB",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Building Energy Systems Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Designing the energy system for a high performance building. Heating, cooling and ventilation load estimation. Heating and cooling using solar, electrical and chemical energy. Air, water, and refrigerant distribution systems. Energy storage. System design project. Design performance assessment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HPB 505": {
+    "subject_code": "HPB",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Capstone: Greening Existing Buildings",
+    "faculty": "Faculty of Applied Science",
+    "description": "Students will analyze the performance and design data of an existing building and propose design changes that will improve performance, considering the real priorities of the client, a building owner or operator. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HPB 506": {
+    "subject_code": "HPB",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Capstone: New Building Energy Systems Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Students will take a building under design and work with the designers towards a high performance energy system. The project will be a proposed high performance building with a client, a design team, and energy performance objectives. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "ARBM 101": {
+    "subject_code": "ARBM",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introductory Modern Arabic I",
+    "faculty": "Faculty of Arts",
+    "description": "Basic listening, speaking, reading and writing skills in Modern Standard Arabic at the Beginning Elementary level."
+  },
+  "ARBM 102": {
+    "subject_code": "ARBM",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Introductory Modern Arabic II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued development of basic listening, speaking, reading and writing skills in Modern Standard Arabic. Introduction to various aspects of Arab and Islamic culture. Prerequisite: ARBM 101."
+  },
+  "ARBM 201": {
+    "subject_code": "ARBM",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Modern Arabic I",
+    "faculty": "Faculty of Arts",
+    "description": "Continued development of listening, speaking, reading and writing skills in both standard and spoken Arabic, and further exploration of various aspects of Arab culture. Recommended pre-requisite: ARBM_V 102 or placement approval and permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARBM 202": {
+    "subject_code": "ARBM",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Intermediate Modern Arabic II",
+    "faculty": "Faculty of Arts",
+    "description": "Continued development of listening, speaking, reading and writing skills in both standard and spoken Arabic, and further exploration of various aspects of Arab culture. Recommended pre-requisite: ARBM 201 or placement approval and permission of the instructor"
+  },
+  "ARBM 450": {
+    "subject_code": "ARBM",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Advanced Studies in Modern Arabic Language and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced-level Arabic written and oral language course focused on contemporary topics related to Arab and Arabic-speaking cultures. Recommended: Provide evidence of ACTFL Advanced High or CEFR C1.1 proficiency in Modern Standard Arabic or placement test with course instructor."
+  }
+}

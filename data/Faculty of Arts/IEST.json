@@ -1,0 +1,98 @@
+{
+  "IEST 500": {
+    "subject_code": "IEST",
+    "course_code": "500",
+    "credit": "0",
+    "course_name": "Pro-Seminar European Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 501": {
+    "subject_code": "IEST",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Internship/European Exchange",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 502": {
+    "subject_code": "IEST",
+    "course_code": "502",
+    "credit": "3-9",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 505": {
+    "subject_code": "IEST",
+    "course_code": "505",
+    "credit": "3-6",
+    "course_name": "Topics in European Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 511": {
+    "subject_code": "IEST",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Extended Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 512": {
+    "subject_code": "IEST",
+    "course_code": "512",
+    "credit": "9",
+    "course_name": "M.A. Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 521": {
+    "subject_code": "IEST",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "The Economics of European Integration",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 531": {
+    "subject_code": "IEST",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "External Relations of the European Union",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 541": {
+    "subject_code": "IEST",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Political and Legal Foundations of the European Union",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will not be given for both IEST_V 541 and LAW_V 341. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 551": {
+    "subject_code": "IEST",
+    "course_code": "551",
+    "credit": "3-6",
+    "course_name": "Politics and Culture in Europe",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 561": {
+    "subject_code": "IEST",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Citizenship and Migration in Contemporary Europe",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IEST 591": {
+    "subject_code": "IEST",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Geography of Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will not be given for both IEST_V 591 and GEOG_V 493. This course is not eligible for Credit/D/Fail grading."
+  }
+}

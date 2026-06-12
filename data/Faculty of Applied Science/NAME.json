@@ -1,0 +1,82 @@
+{
+  "NAME 500": {
+    "subject_code": "NAME",
+    "course_code": "500",
+    "credit": "1-12",
+    "course_name": "Special Topics in Naval Architecture and Marine Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 501": {
+    "subject_code": "NAME",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Advanced Ship Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pressure hull design; finite element analysis applications; classification rules; ice and ice loads; dynamic loads including slamming, risk and reliability. Prerequisite: CIVL_V 435. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 502": {
+    "subject_code": "NAME",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Advanced Ship Hydrodynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced ship resistance; boundary layers; propeller design; numerical methods in hydrodynamics; advanced marine vehicles; ocean waves; cavitation; ship vibration. Includes a laboratory component involving a wave/towing tank and computational fluid dynamics project. Prerequisite: MECH_V 488. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 522": {
+    "subject_code": "NAME",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Ship Production and Industrial Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Build strategy; shipyard layout and equipment; manufacturing techniques; outfitting and painting techniques; material properties; corrosion; welding; fatigue; composite materials. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 524": {
+    "subject_code": "NAME",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Shipbuilding Project Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Terminology; planning; scheduling; budgeting and cost accounting; risk management; quality control; shipbuilding applications. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 566": {
+    "subject_code": "NAME",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Ship Dynamics and Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Equations of motion; ocean wave spectrums, response amplitude operators; seakeeping; maneuvering; stability; dynamic positioning. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 578": {
+    "subject_code": "NAME",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Marine Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Marine propulsion systems; ship engines; shafting; ship vibrations; on-board systems (piping, HVAC, electrical); advanced propulsion systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 581": {
+    "subject_code": "NAME",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Introduction to Ship Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Corequisite: All of MECH_V 488, CIVL_V 435, NAME_V 524. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 591": {
+    "subject_code": "NAME",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Computer-Aided Ship Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A capstone design project designed to give students experience in the preliminary design of a special purpose ship. Students work individually and in teams, using advanced design software and databases, to design a vessel according to specified criteria. Recommended pre-requisites: All of NAME 581, NAME 578. Recommended co-requisites: All of NAME 502, NAME 522, NAME 501, NAME 566. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NAME 592": {
+    "subject_code": "NAME",
+    "course_code": "592",
+    "credit": "1-6",
+    "course_name": "Shipbuilding Internship or Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Relevant, supervised work experience with a sponsoring company, agency, or faculty member. The course is intended to give students experience applying classroom material on projects related to naval design or production. Prerequisite: All of NAME_V 522, NAME_V 566. This course is not eligible for Credit/D/Fail grading."
+  }
+}

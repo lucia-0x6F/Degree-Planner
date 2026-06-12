@@ -1,0 +1,42 @@
+{
+  "TIBT 100": {
+    "subject_code": "TIBT",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Tibetan I",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts, grammar, syntax of spoken and written Tibetan for beginners. Also covers aspects of Tibetan worldview."
+  },
+  "TIBT 101": {
+    "subject_code": "TIBT",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Tibetan II",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on grammar, syntax, and structures to improve comprehension and communication skills. Also covers aspects of Tibetan worldview. Recommended pre-requisite: TIBT 100."
+  },
+  "TIBT 300": {
+    "subject_code": "TIBT",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Classical Tibetan I",
+    "faculty": "Faculty of Arts",
+    "description": "The basics of classical Tibetan grammar and vocabulary, with readings from a selection of daily prayer verses. Recommended pre-requisite: completion of TIBT 100 or TIBT 390 with a minimum grade of 60%."
+  },
+  "TIBT 301": {
+    "subject_code": "TIBT",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Classical Tibetan II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of introductory classical Tibetan grammar and vocabulary, with selected readings to strengthen one's foundation in classical Tibetan. Recommended pre-requisite: completion of TIBT 300 with a minimum grade of 60%."
+  },
+  "TIBT 390": {
+    "subject_code": "TIBT",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Tibetan Language in a Community Context",
+    "faculty": "Faculty of Arts",
+    "description": "Beginner to conversational level Tibetan combined with experiential learning and cultural activities at local Tibetan community sites. Interactive practice with everyday phrases, grammar structure, and vocabulary with Tibetan community members."
+  }
+}

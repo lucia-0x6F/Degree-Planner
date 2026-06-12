@@ -1,0 +1,18 @@
+{
+  "WRIT 098": {
+    "subject_code": "WRIT",
+    "course_code": "098",
+    "credit": "0",
+    "course_name": "Preparation for University Writing and the LPI",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "WRIT 099": {
+    "subject_code": "WRIT",
+    "course_code": "099",
+    "credit": "0",
+    "course_name": "Advanced Composition",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

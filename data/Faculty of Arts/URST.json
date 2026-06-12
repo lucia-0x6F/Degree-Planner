@@ -1,0 +1,50 @@
+{
+  "URST 200": {
+    "subject_code": "URST",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Cities",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies. Credit will be granted for only one of URST_V 200 or GEOG_V 250. Equivalency: GEOG_V 250."
+  },
+  "URST 352": {
+    "subject_code": "URST",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Urbanization in the Global South",
+    "faculty": "Faculty of Arts",
+    "description": "The role of cities in development and global capital circulation, and urban politics with emphasis on regions in Latin America, Africa, and Asia. Credit will be granted for only one of GEOG 352 or URST 352. Equivalency: GEOG 352"
+  },
+  "URST 400": {
+    "subject_code": "URST",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Seminar in Urban Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar for senior students who wish to explore some common topics of importance to urban studies from the viewpoints of several disciplines. Restricted to students with fourth-year standing or higher."
+  },
+  "URST 450": {
+    "subject_code": "URST",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Urban Research",
+    "faculty": "Faculty of Arts",
+    "description": "Historical, legal, and quantitative analysis of urban research. Emphasis on spatial, racial, and political dynamics of urban inequality. Credit will be granted for only one of URST 450 or GEOG 450. Restricted to students with fourth-year standing or higher. Equivalency: GEOG 450"
+  },
+  "URST 451": {
+    "subject_code": "URST",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Urban Studies Capstone I",
+    "faculty": "Faculty of Arts",
+    "description": "Formulation of key elements of urban studies theory, concepts, and methods to a community-engaged urban challenge. Credit will be granted for only one of URST_V 451 or GEOG_V 451. Prerequisite: One of GEOG_V 250, URST_V 200 and all of PLAN_V 211, PLAN_V 231, GEOG_V 371. Equivalency: GEOG_V 451."
+  },
+  "URST 452": {
+    "subject_code": "URST",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Urban Studies Capstone II",
+    "faculty": "Faculty of Arts",
+    "description": "Application of key elements of urban studies theory, concepts, and methods to a community-engaged urban challenge. Restricted to students with fourth-year standing or higher. Credit will be granted for only one of URST_V 452 or PLAN_V 452. Prerequisite: GEOG_V 451. Equivalency: PLAN_V 452."
+  }
+}

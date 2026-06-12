@@ -1,0 +1,226 @@
+{
+  "ILS 100": {
+    "subject_code": "ILS",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Indigenous Views of Landscapes",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to Indigenous people's interpretation of landscape and worldview. Learning from knowledge keepers, the course covers culturally significant places, place names, ceremonies, berry picking, medicines, fishing, and hunting."
+  },
+  "ILS 101": {
+    "subject_code": "ILS",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Natural Resources Stewardship",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to the principles of 'caring for the land' and integrating this ethos into natural resources management, including topics on caretaking for the land, animals, and future generations; sacred places; and the principle of interconnectivity of all living things."
+  },
+  "ILS 102": {
+    "subject_code": "ILS",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Community Engagement: Principles, Practices and Protocols",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to working and professionalism in cross-cultural contexts, with a focus on Indigenous governments and the importance of organizational values, cultural practices and protocols, consensus-based decision-making, principles of engagement, conflict resolution and political dynamics."
+  },
+  "ILS 103": {
+    "subject_code": "ILS",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Decolonization and Natural Resources",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to Indigenous People's history, cultures and experiences, and the effect on control over natural resources, drawing from local to international perspectives, with a focus on how decolonization, as an analytical lens, can transform institutions and Indigenous People's everyday lives."
+  },
+  "ILS 104": {
+    "subject_code": "ILS",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Introduction to Governance",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Foundations of governance, with a focus on Indigenous governance in Canada. Topics include traditional governance, self-governance and natural resources governance."
+  },
+  "ILS 105": {
+    "subject_code": "ILS",
+    "course_code": "105",
+    "credit": "3",
+    "course_name": "Ways of Knowing",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to Indigenous Knowledge, with a focus on Indigenous and Western Knowledge for managing ecosystems and integrating knowledge."
+  },
+  "ILS 106": {
+    "subject_code": "ILS",
+    "course_code": "106",
+    "credit": "3",
+    "course_name": "Holistic Resource Stewardship",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to holistic resource stewardship and the interconnectivity of all living things. A holistic resource stewardship approach is taught, and students learn to operationalize a holistic stewardship plan. Prerequisite: All of ILS 100, ILS 101."
+  },
+  "ILS 107": {
+    "subject_code": "ILS",
+    "course_code": "107",
+    "credit": "3",
+    "course_name": "Community: Capacity Development",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Foundations for understanding community organization and collective action in communities. Introduction to techniques for building capacity among members/citizens. Prerequisite: ILS 102."
+  },
+  "ILS 108": {
+    "subject_code": "ILS",
+    "course_code": "108",
+    "credit": "3",
+    "course_name": "Plant Identification and Dendrology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to structure, diversity and development of trees and other plants, drawing from Indigenous and western knowledge systems."
+  },
+  "ILS 200": {
+    "subject_code": "ILS",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Field Measurements",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to different techniques commonly used in field surveys, including assessments of landforms, soils, vegetation patterns and cultural features. Prerequisite: ILS 100."
+  },
+  "ILS 201": {
+    "subject_code": "ILS",
+    "course_code": "201",
+    "credit": "6",
+    "course_name": "Ecology 1 - Foundations",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Foundations of ecology, the interaction of organisms and the environment, drawing from Indigenous and western perspectives. Topics include organismal, population, community and ecosystem theories. Prerequisite: All of ILS 100, ILS 200."
+  },
+  "ILS 202": {
+    "subject_code": "ILS",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "GIS and Mapping",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to digital mapping and spatial analysis using a geographic information system (GIS) for analyzing geographic problems and creating maps."
+  },
+  "ILS 203": {
+    "subject_code": "ILS",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Communications Tools",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Foundations of communications and communications tools. Topics include written, verbal, phone, email and social media communications, with special focus on mobilizing knowledge through social media to a general audience."
+  },
+  "ILS 204": {
+    "subject_code": "ILS",
+    "course_code": "204",
+    "credit": "6",
+    "course_name": "Ecology 2 - Disturbance and Climate Adaptation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Foundations of disturbance from Indigenous and western perspectives. Topics includes natural (fire, wind, flood, climate) and anthropogenic (logging, dams, mining, climate) disturbances in both intact and altered landscapes. Prerequisite: ILS 201."
+  },
+  "ILS 205": {
+    "subject_code": "ILS",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Business Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Business management in a First Nations context. Topics include strategy, leadership and management, culture, accounting, human resources, regulation and law, natural resources and marketing."
+  },
+  "ILS 300": {
+    "subject_code": "ILS",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Interventions on the Land",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Interventions on the land, drawing from Indigenous and western perspectives. Topics covered include problem diagnostics and the design and implementation of holistic interventions. Prerequisite: All of ILS 100, ILS 200."
+  },
+  "ILS 301": {
+    "subject_code": "ILS",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Indigenous Law",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Indigenous legal orders, Canada's constitutional framework, treaties and self-governance. Topics also cover the international context, and the implications of the evolving legal context for land management."
+  },
+  "ILS 302": {
+    "subject_code": "ILS",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Forest and Land Use Planning on Indigenous Lands",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Forest and land use planning on traditional territory. Topics include Aboriginal rights and title, clan and family jurisdiction, traditional use studies and mapping and provincial regulations. Prerequisite: ILS 102."
+  },
+  "ILS 303": {
+    "subject_code": "ILS",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Forest Modelling and Inventories",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Forest management strategies, including statistical inventory tools and growth and yield models, for producing estimates of forest stand characteristics over specified times. Forest growth models are linked to economic models and forest valuation. Prerequisite: All of ILS 200, ILS 204."
+  },
+  "ILS 304": {
+    "subject_code": "ILS",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Wildlife Ecology, Conservation and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Wildlife conservation and management principles from Indigenous and western perspectives. Topics include the nexus between wildlife populations and healthy environments and wildlife habitat and other landscape needs. Prerequisite: ILS 201."
+  },
+  "ILS 305": {
+    "subject_code": "ILS",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Analytics for Land Stewardship",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to analytics for land stewardship. Topics includes basic probability and statistics skills, the limitations and strengths of analysis tools, and interconnections between analytical tools, data and landscape level decision-making."
+  },
+  "ILS 306": {
+    "subject_code": "ILS",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Business Models",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "First Nations business models, including community business enterprises (CBEs), joint ventures and limited partnerships, entrepreneurship and economic development among First Nations. Corequisite: All of ILS 305, ILS 307."
+  },
+  "ILS 307": {
+    "subject_code": "ILS",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Business Tools",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Business management tools to sustain business competitiveness in a First Nations context. The course covers strategic planning, customer and stakeholder management, management information systems, benchmarking and supply chain management. Corequisite: All of ILS 305, ILS 306."
+  },
+  "ILS 308": {
+    "subject_code": "ILS",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Indigenous Research Methods",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Research terminology, ethics and practice. Drawing from Indigenous and western science approaches, the course covers Indigenous, quantitative, qualitative and mixed methods approaches."
+  },
+  "ILS 400": {
+    "subject_code": "ILS",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Policy Building and Processes",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Policy theory and practice in the Indigenous land stewardship context. Topics include developing and influencing policy and the drivers of policy change. Prerequisite: ILS 203."
+  },
+  "ILS 401": {
+    "subject_code": "ILS",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Community Conflict Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Conflict management focusing on power, rights and interests in Indigenous communities. Topics consensus-based and collaborative approaches."
+  },
+  "ILS 402": {
+    "subject_code": "ILS",
+    "course_code": "402",
+    "credit": "6",
+    "course_name": "Stewarding in Practice",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Stewarding land and forests in practice, drawing from Indigenous and western perspectives. Prerequisite: All of ILS 100, ILS 200, ILS 300. or admission by permission of the instructor."
+  },
+  "ILS 403": {
+    "subject_code": "ILS",
+    "course_code": "403",
+    "credit": "15",
+    "course_name": "Land Stewardship Plan",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Capstone field course to produce a land stewardship plan integrating a diverse range of objectives and goals for a community or industry partner. Prerequisite: ILS 402."
+  }
+}

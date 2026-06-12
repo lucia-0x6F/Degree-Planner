@@ -1,0 +1,42 @@
+{
+  "POLS 101": {
+    "subject_code": "POLS",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Learning Polish: Foundations I",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the language for beginners. Ability to identify unique features and communicate in everyday situations. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of POLS 101 or POLS 200."
+  },
+  "POLS 102": {
+    "subject_code": "POLS",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Learning Polish: Foundations II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of POLS 101. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of POLS 102 or POLS 200."
+  },
+  "POLS 201": {
+    "subject_code": "POLS",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Learning Polish: Intermediate I",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of POLS 102. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of POLS 201 or POLS 300."
+  },
+  "POLS 202": {
+    "subject_code": "POLS",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Learning Polish: Intermediate II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of POLS 201. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of POLS 202 or POLS 300."
+  },
+  "POLS 345": {
+    "subject_code": "POLS",
+    "course_code": "345",
+    "credit": "3-6",
+    "course_name": "Introduction to Twentieth-Century Polish Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Readings and discussion of selected works of representative writers. Find out more at https://cenes.ubc.ca/courses/"
+  }
+}

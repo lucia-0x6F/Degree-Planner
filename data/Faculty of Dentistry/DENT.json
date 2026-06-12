@@ -1,0 +1,850 @@
+{
+  "DENT 407": {
+    "subject_code": "DENT",
+    "course_code": "407",
+    "credit": "6",
+    "course_name": "Special Oral Care in the Community",
+    "faculty": "Faculty of Dentistry",
+    "description": "Provision of special oral health services in community settings. Prerequisite: All of DHYG 405, DHYG 435. Prerequisites may be waived for non-program dental hygienists and others."
+  },
+  "DENT 410": {
+    "subject_code": "DENT",
+    "course_code": "410",
+    "credit": "35",
+    "course_name": "Dentistry I: Foundations of Clinical Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "Fundamentals of human biology, body systems, diseases, and supporting basic oral health sciences. Learning in small groups, classroom, laboratory, and clinical settings utilizing technology. Professionalism, ethics, interprofessional education and the social contract, communication skills, and critical evaluation of the literature. Begin to apply foundation knowledge and skills to patient assessment and care. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 420": {
+    "subject_code": "DENT",
+    "course_code": "420",
+    "credit": "38",
+    "course_name": "Dentistry II: Basic Clinical Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continued exposure to body systems and the supporting biomedical sciences with applications in dental clinical sciences, integrated into small group learning, classroom, laboratory, and community settings utilizing technology; continued engagement in professionalism, ethics and communication skills. Prerequisite: DENT_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 430": {
+    "subject_code": "DENT",
+    "course_code": "430",
+    "credit": "36",
+    "course_name": "Dentistry III: Intermediate Clinical Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "A multi-disciplinary course integrating didactic, simulation, clinical, and community service learning. Students function as team members in clinical group practices with individual progression through the Clinical Clerkships. Prerequisite: DENT420"
+  },
+  "DENT 440": {
+    "subject_code": "DENT",
+    "course_code": "440",
+    "credit": "32",
+    "course_name": "Dentistry IV: Complex Clinical Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "A continuing integrated, multi-disciplinary course with ongoing participation in clinical group practices and individual progression through the Clinical Clerkships and community service learning. Prerequisite: DENT_V 430. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 504": {
+    "subject_code": "DENT",
+    "course_code": "504",
+    "credit": "1",
+    "course_name": "Endodontic Microsurgery",
+    "faculty": "Faculty of Dentistry",
+    "description": "Treatment planning, instruments, techniques, materials, prognosis, and evaluation of results. Lectures, seminars, and simulation training. [1-1-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 505": {
+    "subject_code": "DENT",
+    "course_code": "505",
+    "credit": "1",
+    "course_name": "Dental Traumatology",
+    "faculty": "Faculty of Dentistry",
+    "description": "Dental trauma and tooth resorptions: etiology, pathogenesis, epidemiology, diagnosis, and treatment. Lectures, seminars, and simulation training. [1-1-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 506": {
+    "subject_code": "DENT",
+    "course_code": "506",
+    "credit": "6",
+    "course_name": "Topics in Dental Public Health I (Critical Literature Review)",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 507": {
+    "subject_code": "DENT",
+    "course_code": "507",
+    "credit": "6",
+    "course_name": "Topics in Dental Public Health II (Critical Literature Review)",
+    "faculty": "Faculty of Dentistry",
+    "description": "Prerequisite: DENT_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 508": {
+    "subject_code": "DENT",
+    "course_code": "508",
+    "credit": "6",
+    "course_name": "Public Health Rotations I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Prerequisite: All of DENT_V 506, DENT_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 509": {
+    "subject_code": "DENT",
+    "course_code": "509",
+    "credit": "6",
+    "course_name": "Public Health Rotations II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Prerequisite: All of DENT_V 506, DENT_V 507, DENT_V 508. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 510": {
+    "subject_code": "DENT",
+    "course_code": "510",
+    "credit": "6",
+    "course_name": "Pediatric Dentistry Literature Review I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 2. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 511": {
+    "subject_code": "DENT",
+    "course_code": "511",
+    "credit": "6",
+    "course_name": "Pediatric Dentistry Literature Review II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 3. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 512": {
+    "subject_code": "DENT",
+    "course_code": "512",
+    "credit": "6",
+    "course_name": "Pediatric Dentistry Literature Review III",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 3. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 513": {
+    "subject_code": "DENT",
+    "course_code": "513",
+    "credit": "6",
+    "course_name": "The Pediatric Patient I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 2. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 514": {
+    "subject_code": "DENT",
+    "course_code": "514",
+    "credit": "6",
+    "course_name": "The Pediatric Patient II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 3. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 515": {
+    "subject_code": "DENT",
+    "course_code": "515",
+    "credit": "6",
+    "course_name": "The Pediatric Patient III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 516": {
+    "subject_code": "DENT",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Pediatric Dentistry Case Review and Treatment Planning I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 2. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 517": {
+    "subject_code": "DENT",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Pediatric Dentistry Case Review and Treatment Planning II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 3. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 518": {
+    "subject_code": "DENT",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Pediatric Dentistry Case Review and Treatment Planning III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 523": {
+    "subject_code": "DENT",
+    "course_code": "523",
+    "credit": "6",
+    "course_name": "Oral Medicine II",
+    "faculty": "Faculty of Dentistry",
+    "description": "[0-6-3]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 524": {
+    "subject_code": "DENT",
+    "course_code": "524",
+    "credit": "6",
+    "course_name": "Craniofacial Growth and Development",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 525": {
+    "subject_code": "DENT",
+    "course_code": "525",
+    "credit": "6",
+    "course_name": "Prosthodontic Literature Review I",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 526": {
+    "subject_code": "DENT",
+    "course_code": "526",
+    "credit": "6",
+    "course_name": "Prosthodontic Literature Review II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 527": {
+    "subject_code": "DENT",
+    "course_code": "527",
+    "credit": "6",
+    "course_name": "Prosthodontic Treatment Planning and Outcomes Seminars I",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 528": {
+    "subject_code": "DENT",
+    "course_code": "528",
+    "credit": "6",
+    "course_name": "Prosthodontic Treatment Planning and Outcomes Seminars II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 529": {
+    "subject_code": "DENT",
+    "course_code": "529",
+    "credit": "6",
+    "course_name": "Prosthodontic Treatment Planning and Outcomes Seminars III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 530": {
+    "subject_code": "DENT",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Maxillofacial Prosthodontics",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 531": {
+    "subject_code": "DENT",
+    "course_code": "531",
+    "credit": "6",
+    "course_name": "Biomaterials",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 532": {
+    "subject_code": "DENT",
+    "course_code": "532",
+    "credit": "6",
+    "course_name": "Prosthodontics I",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 533": {
+    "subject_code": "DENT",
+    "course_code": "533",
+    "credit": "6",
+    "course_name": "Prosthodontics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 538": {
+    "subject_code": "DENT",
+    "course_code": "538",
+    "credit": "6",
+    "course_name": "Craniofacial Science Research Methods",
+    "faculty": "Faculty of Dentistry",
+    "description": "Credit will be granted for only one of DENT_V 538 or DENT_V 539 and DENT_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 541": {
+    "subject_code": "DENT",
+    "course_code": "541",
+    "credit": "6",
+    "course_name": "Craniofacial Biology",
+    "faculty": "Faculty of Dentistry",
+    "description": "[3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 542": {
+    "subject_code": "DENT",
+    "course_code": "542",
+    "credit": "1.5",
+    "course_name": "Oral Cell Biology and Biochemistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 543": {
+    "subject_code": "DENT",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Advanced Occlusion and Articulation",
+    "faculty": "Faculty of Dentistry",
+    "description": "[3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 544": {
+    "subject_code": "DENT",
+    "course_code": "544",
+    "credit": "1.5",
+    "course_name": "Oral Microbiology and Immunology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 553": {
+    "subject_code": "DENT",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Oral Medicine I",
+    "faculty": "Faculty of Dentistry",
+    "description": "[0-6-3]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 555": {
+    "subject_code": "DENT",
+    "course_code": "555",
+    "credit": "2",
+    "course_name": "Oral Pathology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 556": {
+    "subject_code": "DENT",
+    "course_code": "556",
+    "credit": "2",
+    "course_name": "Oral Radiology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 557": {
+    "subject_code": "DENT",
+    "course_code": "557",
+    "credit": "6",
+    "course_name": "Advanced Oral Radiology",
+    "faculty": "Faculty of Dentistry",
+    "description": "[0-6-3]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 561": {
+    "subject_code": "DENT",
+    "course_code": "561",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Dental Sciences",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 565": {
+    "subject_code": "DENT",
+    "course_code": "565",
+    "credit": "8",
+    "course_name": "Biomechanics of Craniofacial Orthopedics and Orthodontics I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in second year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 566": {
+    "subject_code": "DENT",
+    "course_code": "566",
+    "credit": "8",
+    "course_name": "Biomechanics of Craniofacial Orthopedics and Orthodontics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 567": {
+    "subject_code": "DENT",
+    "course_code": "567",
+    "credit": "8",
+    "course_name": "Orthodontic and Craniofacial Orthopedic Patient Care I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in second year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 568": {
+    "subject_code": "DENT",
+    "course_code": "568",
+    "credit": "8",
+    "course_name": "Orthodontic and Craniofacial Orthopedic Patient Care II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in third year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 569": {
+    "subject_code": "DENT",
+    "course_code": "569",
+    "credit": "8",
+    "course_name": "Orthodontic and Craniofacial Orthopedic Patient Care III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 570": {
+    "subject_code": "DENT",
+    "course_code": "570",
+    "credit": "2",
+    "course_name": "Periodontal Case Management",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 572": {
+    "subject_code": "DENT",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Literature Review in Periodontics",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 573": {
+    "subject_code": "DENT",
+    "course_code": "573",
+    "credit": "3-6",
+    "course_name": "Literature Review in Periodontics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 574": {
+    "subject_code": "DENT",
+    "course_code": "574",
+    "credit": "1",
+    "course_name": "Periodontic Treatment Planning Seminars",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 575": {
+    "subject_code": "DENT",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Implant Therapy",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 576": {
+    "subject_code": "DENT",
+    "course_code": "576",
+    "credit": "2",
+    "course_name": "Guided Tissue Regeneration",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 577": {
+    "subject_code": "DENT",
+    "course_code": "577",
+    "credit": "3-6",
+    "course_name": "Advanced Topics in Restorative Therapy",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 578": {
+    "subject_code": "DENT",
+    "course_code": "578",
+    "credit": "6",
+    "course_name": "Endodontic Literature Review I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Dental anatomy, morphology, endodontic instruments, diagnosis and differential diagnosis, etiology and pathogenesis of endodontic infections, and strategies of infection control. [2-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 584": {
+    "subject_code": "DENT",
+    "course_code": "584",
+    "credit": "6",
+    "course_name": "Endodontic Literature Review II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Endodontic epidemiology, materials, prognosis of treatment, geriatric endodontics, complications, treatment resistant infections, and endo-perio lesions. [2-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 591": {
+    "subject_code": "DENT",
+    "course_code": "591",
+    "credit": "1",
+    "course_name": "Endodontic Case Management I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Modern endodontic technology and clinical endodontics. Lectures, seminars, and simulation training. [1-1-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 592": {
+    "subject_code": "DENT",
+    "course_code": "592",
+    "credit": "1",
+    "course_name": "Endodontic Case Management II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Modern endodontic technology and clinical endodontics. Lectures, seminars, and simulation training. [1-1-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 594": {
+    "subject_code": "DENT",
+    "course_code": "594",
+    "credit": "5",
+    "course_name": "Endodontic Case Review and Treatment Planning I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Student case presentations, treatment choice, and evaluation of prognosis. [0-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 595": {
+    "subject_code": "DENT",
+    "course_code": "595",
+    "credit": "5",
+    "course_name": "Endodontic Case Review and Treatment Planning II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Student case presentations, treatment choice, and evaluation of prognosis. [0-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 596": {
+    "subject_code": "DENT",
+    "course_code": "596",
+    "credit": "5",
+    "course_name": "Endodontic Case Review and Treatment Planning III",
+    "faculty": "Faculty of Dentistry",
+    "description": "Student case presentations, treatment choice, and evaluation of prognosis. [0-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 599": {
+    "subject_code": "DENT",
+    "course_code": "599",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Dentistry",
+    "description": "Enrolment restricted to graduate students in Dental Science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 649": {
+    "subject_code": "DENT",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 700": {
+    "subject_code": "DENT",
+    "course_code": "700",
+    "credit": "0",
+    "course_name": "Directed Studies in Orthodontics",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 703": {
+    "subject_code": "DENT",
+    "course_code": "703",
+    "credit": "0",
+    "course_name": "Inter-relationship of Dental and Medical Specialties with Imaging Procedures",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 706": {
+    "subject_code": "DENT",
+    "course_code": "706",
+    "credit": "0",
+    "course_name": "Forensic Odontology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 711": {
+    "subject_code": "DENT",
+    "course_code": "711",
+    "credit": "12",
+    "course_name": "Clinical Periodontics and Implant Surgery I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 712": {
+    "subject_code": "DENT",
+    "course_code": "712",
+    "credit": "12",
+    "course_name": "Clinical Periodontics and Implant Surgery II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 713": {
+    "subject_code": "DENT",
+    "course_code": "713",
+    "credit": "12",
+    "course_name": "Clinical Periodontics and Implant Surgery III",
+    "faculty": "Faculty of Dentistry",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 715": {
+    "subject_code": "DENT",
+    "course_code": "715",
+    "credit": "0",
+    "course_name": "Periodontal Therapy Seminars",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 720": {
+    "subject_code": "DENT",
+    "course_code": "720",
+    "credit": "0",
+    "course_name": "Review of Oral Radiology Literature",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 721": {
+    "subject_code": "DENT",
+    "course_code": "721",
+    "credit": "8",
+    "course_name": "Clinical Endodontics, Year 1",
+    "faculty": "Faculty of Dentistry",
+    "description": "Endodontic treatment of patients in the clinic under the supervision of specialist instructors. Supervised endodontic treatment clinic. [0-0-18]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 722": {
+    "subject_code": "DENT",
+    "course_code": "722",
+    "credit": "8",
+    "course_name": "Clinical Endodontics, Year 2",
+    "faculty": "Faculty of Dentistry",
+    "description": "Endodontic treatment of patients in the clinic under the supervision of specialist instructors. Supervised endodontic treatment clinic. [0-0-18]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 723": {
+    "subject_code": "DENT",
+    "course_code": "723",
+    "credit": "0",
+    "course_name": "Prescription Periodontal Surgery",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 724": {
+    "subject_code": "DENT",
+    "course_code": "724",
+    "credit": "6",
+    "course_name": "Clinical Endodontics, Year 3",
+    "faculty": "Faculty of Dentistry",
+    "description": "Endodontic treatment of patients in the clinic under the supervision of specialist instructors. Supervised endodontic treatment clinic. [0-0-15]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 725": {
+    "subject_code": "DENT",
+    "course_code": "725",
+    "credit": "12",
+    "course_name": "Clinical Prosthodontics I",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 726": {
+    "subject_code": "DENT",
+    "course_code": "726",
+    "credit": "12",
+    "course_name": "Clinical Prosthodontics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 727": {
+    "subject_code": "DENT",
+    "course_code": "727",
+    "credit": "12",
+    "course_name": "Clinical Prosthodontics III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 729": {
+    "subject_code": "DENT",
+    "course_code": "729",
+    "credit": "0",
+    "course_name": "Hospital Dentistry and Anaesthesiology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 734": {
+    "subject_code": "DENT",
+    "course_code": "734",
+    "credit": "0",
+    "course_name": "Clinico-Pathological Conferences",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 740": {
+    "subject_code": "DENT",
+    "course_code": "740",
+    "credit": "0",
+    "course_name": "Clinical Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 741": {
+    "subject_code": "DENT",
+    "course_code": "741",
+    "credit": "0",
+    "course_name": "Specialty Rotations",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 742": {
+    "subject_code": "DENT",
+    "course_code": "742",
+    "credit": "0",
+    "course_name": "Emergency Patient Management",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 743": {
+    "subject_code": "DENT",
+    "course_code": "743",
+    "credit": "0",
+    "course_name": "Seminars on Hospital Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 744": {
+    "subject_code": "DENT",
+    "course_code": "744",
+    "credit": "0",
+    "course_name": "Directed Studies in Hospital Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 750": {
+    "subject_code": "DENT",
+    "course_code": "750",
+    "credit": "0",
+    "course_name": "Head and Neck Oncology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 752": {
+    "subject_code": "DENT",
+    "course_code": "752",
+    "credit": "0",
+    "course_name": "Oral Surgical Pathology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 753": {
+    "subject_code": "DENT",
+    "course_code": "753",
+    "credit": "0",
+    "course_name": "Clinical Oral Medicine",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 755": {
+    "subject_code": "DENT",
+    "course_code": "755",
+    "credit": "0",
+    "course_name": "Oral Radiographic Techniques",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 756": {
+    "subject_code": "DENT",
+    "course_code": "756",
+    "credit": "0",
+    "course_name": "Oral Radiology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 757": {
+    "subject_code": "DENT",
+    "course_code": "757",
+    "credit": "0",
+    "course_name": "Oral Radiological Interpretation",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 760": {
+    "subject_code": "DENT",
+    "course_code": "760",
+    "credit": "0",
+    "course_name": "Oral Cytology",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 769": {
+    "subject_code": "DENT",
+    "course_code": "769",
+    "credit": "3",
+    "course_name": "Foundation of Teaching and Learning for Dental Graduate Student Instructors (GSIs)",
+    "faculty": "Faculty of Dentistry",
+    "description": "Preparing dental graduate instructors to be effective teachers in dentistry. Spans from August of year 1 to August of year 2 for first year dental graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 770": {
+    "subject_code": "DENT",
+    "course_code": "770",
+    "credit": "0",
+    "course_name": "Advanced Clinical Orthodontics",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 771": {
+    "subject_code": "DENT",
+    "course_code": "771",
+    "credit": "8",
+    "course_name": "Orthodontic and Dentofacial Orthopedic Clinics I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in second year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 772": {
+    "subject_code": "DENT",
+    "course_code": "772",
+    "credit": "12",
+    "course_name": "Orthodontic and Dentofacial Orthopedic Clinics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in third year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 773": {
+    "subject_code": "DENT",
+    "course_code": "773",
+    "credit": "8",
+    "course_name": "Orthodontic and Dentofacial Orthopedic Clinics III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 775": {
+    "subject_code": "DENT",
+    "course_code": "775",
+    "credit": "2-4",
+    "course_name": "Interdisciplinary Care in Orthodontics and Dentofacial Orthopedics",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 777": {
+    "subject_code": "DENT",
+    "course_code": "777",
+    "credit": "1",
+    "course_name": "Interdisciplinary Graduate Seminars: Interdisciplinary Treatment Planning I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 778": {
+    "subject_code": "DENT",
+    "course_code": "778",
+    "credit": "1",
+    "course_name": "Interdisciplinary Graduate Seminars: Interdisciplinary Treatment Planning II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 779": {
+    "subject_code": "DENT",
+    "course_code": "779",
+    "credit": "2",
+    "course_name": "Interdisciplinary Graduate Seminars: Interdisciplinary Treatment Planning III",
+    "faculty": "Faculty of Dentistry",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 780": {
+    "subject_code": "DENT",
+    "course_code": "780",
+    "credit": "12",
+    "course_name": "Clinical Pediatric Dentistry I",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 5. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 781": {
+    "subject_code": "DENT",
+    "course_code": "781",
+    "credit": "12",
+    "course_name": "Clinical Pediatric Dentistry II",
+    "faculty": "Faculty of Dentistry",
+    "description": "Continues in year 6. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 782": {
+    "subject_code": "DENT",
+    "course_code": "782",
+    "credit": "12",
+    "course_name": "Clinical Pediatric Dentistry III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 783": {
+    "subject_code": "DENT",
+    "course_code": "783",
+    "credit": "3",
+    "course_name": "Hospital Clinical Pediatrics I",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 784": {
+    "subject_code": "DENT",
+    "course_code": "784",
+    "credit": "3",
+    "course_name": "Hospital Clinical Pediatrics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DENT 785": {
+    "subject_code": "DENT",
+    "course_code": "785",
+    "credit": "3",
+    "course_name": "Hospital Clinical Pediatrics III",
+    "faculty": "Faculty of Dentistry",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,34 @@
+{
+  "HESO 399": {
+    "subject_code": "HESO",
+    "course_code": "399",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of readings and research undertaking topics of health and society, under the supervision of a faculty member with relevant expertise and experience. Restricted to students enrolled in the Minor in Health and Society program and with approval from the HESO Chair. Prerequisites: One of SPPH_V 301 or SOCI_V 284. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HESO 400": {
+    "subject_code": "HESO",
+    "course_code": "400",
+    "credit": "3-6",
+    "course_name": "Sociocultural Determinants of Health",
+    "faculty": "Faculty of Arts",
+    "description": "Methods for analyzing population health data and medical research reporting."
+  },
+  "HESO 449": {
+    "subject_code": "HESO",
+    "course_code": "449",
+    "credit": "3-6",
+    "course_name": "Topics in Health and Society",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "HESO 499": {
+    "subject_code": "HESO",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research undertaking topics of health and society, under the supervision of a faculty member with relevant expertise and experience. Restricted to students enrolled in the Minor in Health and Society program and with approval from the HESO Chair. Prerequisites: One of SPPH_V 301 or SOCI_V 284. This course is not eligible for Credit/D/Fail grading."
+  }
+}

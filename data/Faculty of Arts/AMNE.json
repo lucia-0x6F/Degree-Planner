@@ -1,0 +1,842 @@
+{
+  "AMNE 101": {
+    "subject_code": "AMNE",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Greek and Latin Roots of English",
+    "faculty": "Faculty of Arts",
+    "description": "Greek and Latin roots of English vocabulary and grammar, with an introduction to language history and Greek and Roman culture. Credit will be granted for only one of CLST_V 101 or AMNE_V 101. Equivalency: CLST _V 101"
+  },
+  "AMNE 151": {
+    "subject_code": "AMNE",
+    "course_code": "151",
+    "credit": "3",
+    "course_name": "Greek and Roman Mythology",
+    "faculty": "Faculty of Arts",
+    "description": "Greek and Roman mythology and its interpretation. Emphasis on ancient texts read in English translation. Credit will be granted for only one of CLST_V 105 or AMNE_V 151. Equivalency: CLST _V 105."
+  },
+  "AMNE 160": {
+    "subject_code": "AMNE",
+    "course_code": "160",
+    "credit": "3",
+    "course_name": "Introduction to Religions: Judaism, Christianity, Islam",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of the foundational texts, histories, and contemporary expressions of Judaism, Christianity, and Islam. Key concepts and approaches used in the study of religion. Credit will be granted for only one of RELG_V 101, AMNE_V 160, or RGST_V 160. Equivalency: RELG_V 101 or RGST_V 160."
+  },
+  "AMNE 170": {
+    "subject_code": "AMNE",
+    "course_code": "170",
+    "credit": "3",
+    "course_name": "Temples, Tombs, and Tyrants: The Archaeology of the Middle East, Greece, and Rome",
+    "faculty": "Faculty of Arts",
+    "description": "The rise of civilizations, cultural interconnections, and power dynamics in the ancient Middle East (including Egypt), Greece, and Rome (10,000 BCE - 300 CE). Archaeological methods and interpretation, and analysis of ancient artifacts in UBC collections. Credit will be granted for only one of CNRS_V 104 or AMNE_V 170. Equivalency: CNRS _V 104."
+  },
+  "AMNE 200": {
+    "subject_code": "AMNE",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Approaching the Ancient Mediterranean & Near East",
+    "faculty": "Faculty of Arts",
+    "description": "Orientation to the peoples, places, and traditions of the ancient Mediterranean and Near East, and to analyzing different forms of source material (historical, literary, archaeological) from different perspectives."
+  },
+  "AMNE 215": {
+    "subject_code": "AMNE",
+    "course_code": "215",
+    "credit": "3",
+    "course_name": "Ancient Greece",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the ancient Greek world from the Minoan and Mycenaean (about 2000-1000 BCE) to the Hellenistic Period (323-30 BCE). Credit will be granted for only one of CLST_V 231 or AMNE_V 215. Equivalency: CLST _V 231."
+  },
+  "AMNE 216": {
+    "subject_code": "AMNE",
+    "course_code": "216",
+    "credit": "3",
+    "course_name": "Ancient Rome",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the ancient Roman world from the foundation of the city to the death of Constantine. Credit will be granted for only one of CLST_V 232 or AMNE_V 216. Equivalency: CLST_V 232."
+  },
+  "AMNE 225": {
+    "subject_code": "AMNE",
+    "course_code": "225",
+    "credit": "3",
+    "course_name": "Gladiators, Games, and Spectacle in the Greek and Roman World",
+    "faculty": "Faculty of Arts",
+    "description": "History, development, and social function of various forms of spectacle in ancient Greece and Rome, from the Olympic games to the Roman arena. Credit will be granted for only one of CLST_V 260 or AMNE_V 225. Equivalency: CLST_V 260."
+  },
+  "AMNE 235": {
+    "subject_code": "AMNE",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Greek Philosophy I",
+    "faculty": "Faculty of Arts",
+    "description": "The Pre-Socratics; Socrates; Sophists; Plato. Recommended as preparation for AMNE_V 236/PHIL_V 212 and PHIL_V 310. Credit will be granted for only one of CLST_V 211, AMNE_V 235 or PHIL_V 211. Equivalency: PHIL_V 211 or CLST_V 211."
+  },
+  "AMNE 236": {
+    "subject_code": "AMNE",
+    "course_code": "236",
+    "credit": "3",
+    "course_name": "Greek Philosophy II",
+    "faculty": "Faculty of Arts",
+    "description": "Aristotle; selections from Hellenistic and Late Antique Philosophy. Recommended as preparation for PHIL_V 310 and PHIL_V 311. Credit will be granted for only one of CLST_V 212, AMNE_V 236 or PHIL_V 212. Equivalency: PHIL_V 212 or CLST_V 212."
+  },
+  "AMNE 251": {
+    "subject_code": "AMNE",
+    "course_code": "251",
+    "credit": "3",
+    "course_name": "Near Eastern and Biblical Mythology",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the world of Near Eastern mythology, from the Gilgamesh Epic to the Book of Genesis and beyond. Credit will be granted for only one of RELG_V 201 or AMNE_V 251. Equivalency: RELG_V 201."
+  },
+  "AMNE 260": {
+    "subject_code": "AMNE",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Scriptures of the Near East",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the scriptures of Judaism, Christianity, and Islam. Credit will be granted for only one of RELG_V 203 or AMNE_V 260. Equivalency: RELG_V 203."
+  },
+  "AMNE 261": {
+    "subject_code": "AMNE",
+    "course_code": "261",
+    "credit": "3",
+    "course_name": "Eden to Exile: Introduction to the Hebrew Bible",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of the Hebrew Bible (Old Testament), with emphasis on its ancient Near Eastern context; its competing religious perspectives; and its limits as a historical source. Credit will be granted for only one of RELG_V 209 or AMNE_V 261. Equivalency: RELG_V 209."
+  },
+  "AMNE 262": {
+    "subject_code": "AMNE",
+    "course_code": "262",
+    "credit": "3",
+    "course_name": "Introduction to Judaism and its Texts",
+    "faculty": "Faculty of Arts",
+    "description": "What is Judaism? An overview of the key texts that have defined the Jewish religion, from the Hebrew Bible through works of contemporary thinkers. Recommended as a basis for upper-level courses in religious studies. Credit will be granted for only one of RELG_V 206 or AMNE_V 262. Equivalency: RELG_V 206."
+  },
+  "AMNE 264": {
+    "subject_code": "AMNE",
+    "course_code": "264",
+    "credit": "3",
+    "course_name": "The New Testament and Early Christianity",
+    "faculty": "Faculty of Arts",
+    "description": "The origins of Christianity as reflected in the New Testament and contemporaneous literature. Credit will be granted for only one of RELG_V 316, AMNE_V 264, or AMNE_V 367. Equivalency: RELG_V 316 or AMNE_V 367."
+  },
+  "AMNE 265": {
+    "subject_code": "AMNE",
+    "course_code": "265",
+    "credit": "3",
+    "course_name": "History of Christianity to 800 CE",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the history of Christianity from its origins with Jesus through the coronation of Charlemagne as Roman Emperor in 800 CE. Credit will be granted for only one of AMNE_V 265 or RELG_V 210. Equivalency: RELG_V 210."
+  },
+  "AMNE 278": {
+    "subject_code": "AMNE",
+    "course_code": "278",
+    "credit": "3",
+    "course_name": "The Archaeology of Life and Death in the Roman Empire",
+    "faculty": "Faculty of Arts",
+    "description": "The lives of non-elite individuals and groups living under the Roman Empire, seen through material evidence and its interpretation. Identity, urbanism, economy, agriculture, diet, religion, Romanization, and burial. CNRS_V 104, AMNE_V 170 or ARCL_V 203 recommended as preparation. Credit will be granted for only one of CNRS_V 206 or AMNE_V 278. Equivalency: CNRS_V 206."
+  },
+  "AMNE 279": {
+    "subject_code": "AMNE",
+    "course_code": "279",
+    "credit": "3",
+    "course_name": "Byzantium: Arts of an Empire",
+    "faculty": "Faculty of Arts",
+    "description": "Art, architecture, and material culture of the Byzantine Empire situated in the eastern Mediterranean (c. 300-1453); focus on social and cultural contexts of artistic production, including interactions with neighboring cultures. Credit will be granted for only one of CNRS_V 207, AMNE_V 279 or ARTH_V 210. Equivalency: ARTH_V 210 or CNRS_V 207."
+  },
+  "AMNE 300": {
+    "subject_code": "AMNE",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Uses and Abuses of Antiquity",
+    "faculty": "Faculty of Arts",
+    "description": "Modern receptions and engagements with literature, history, philosophy, religion, archaeology, and art of the ancient Mediterranean and Near East with a focus on public writing. Prerequisite: Second-year standing or higher. AMNE 200 is recommended."
+  },
+  "AMNE 301": {
+    "subject_code": "AMNE",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "The Technical Terms of Medicine and Biological Science",
+    "faculty": "Faculty of Arts",
+    "description": "Acquaints the student with the Greek and Latin elements from which most specialized terms of modern medicine are constructed. Intended primarily for students planning to enter the medical, pharmaceutical, or biological sciences. Credit will be granted for only one of CLST_V 301 or AMNE_V 301. Equivalency: CLST_V 301."
+  },
+  "AMNE 306": {
+    "subject_code": "AMNE",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Ancient Technology: Greece and Rome",
+    "faculty": "Faculty of Arts",
+    "description": "The origins, achievements, and social impacts of applied technology in the Greek and Roman world from the Bronze Age to Late Antiquity (c. 1500 BCE - 400 CE), with special attention to archaeological evidence. Credit will be granted for only one of CLST_V 306 or AMNE_V 306. Equivalency: CLST_V 306."
+  },
+  "AMNE 311": {
+    "subject_code": "AMNE",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Prehistoric Egypt",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the development and evolution of prehistoric humans and their material culture in Egypt from the Lower Paleolithic to the Chalcolithic. Credit will be granted for only one of NEST_V 311 or AMNE_V 311. Equivalency: NEST_V 311."
+  },
+  "AMNE 312": {
+    "subject_code": "AMNE",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "History of Ancient Egypt",
+    "faculty": "Faculty of Arts",
+    "description": "History and culture of Ancient Egyptian civilization from political, intellectual, social and environmental perspectives. Credit will be granted for only one of NEST_V 303 or AMNE_V 312. Equivalency: NEST_V 303."
+  },
+  "AMNE 314": {
+    "subject_code": "AMNE",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Early Empires of the Ancient Middle East",
+    "faculty": "Faculty of Arts",
+    "description": "A history from 3100-333 BC with emphasis on Mesopotamia. Credit will be granted for only one of NEST_V 301 or AMNE_V 314. Equivalency: NEST_V 301."
+  },
+  "AMNE 316": {
+    "subject_code": "AMNE",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "The Athenians and their Empire",
+    "faculty": "Faculty of Arts",
+    "description": "The sources (literary, epigraphical and other) for Athens' emergence as one of the two leading city-states in late archaic and classical Greece and the stages by which her empire grew. Credit will be granted for only one of CLST_V 355 or AMNE_V 316. Prerequisite: One of CLST_V 231, AMNE_V 215. Equivalency: CLST_V 355."
+  },
+  "AMNE 317": {
+    "subject_code": "AMNE",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Alexander the Great and his Empire",
+    "faculty": "Faculty of Arts",
+    "description": "The rise of Macedon under Philip II leading to its domination of Greece and the overthrow of the Persian Empire by his son, Alexander; the subsequent spread of Greek civilization in the East. Credit will be granted for only one of CLST_V 356 or AMNE_V 317. Prerequisite: One of CLST_V 231, AMNE_V 215. Equivalency: CLST_V 356."
+  },
+  "AMNE 318": {
+    "subject_code": "AMNE",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "The Roman Republic",
+    "faculty": "Faculty of Arts",
+    "description": "Rome from the foundation to the Augustan settlement. Constitutional development; the workings and failure of the Republican political system; acquisition and growth of Empire; the political, social, and economic consequences of imperialism. Credit will be granted for only one of CLST_V 352 or AMNE_V 318. Prerequisite: One of CLST_V 232, AMNE_V 216. Equivalency: CLST_V 352."
+  },
+  "AMNE 319": {
+    "subject_code": "AMNE",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "The Early Roman Empire",
+    "faculty": "Faculty of Arts",
+    "description": "Roman imperial history during the Julio-Claudian and Flavian periods (30 BC-96 AD). Credit will be granted for only one of CLST_V 353 or AMNE_V 319. Prerequisite: One of CLST_V 232, AMNE_V 216. Equivalency: CLST_V 353."
+  },
+  "AMNE 320": {
+    "subject_code": "AMNE",
+    "course_code": "320",
+    "credit": "3-6",
+    "course_name": "Topics in Ancient Mediterranean and Near Eastern History and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the history and culture of the ancient Mediterranean, Near East and/or Egypt."
+  },
+  "AMNE 323": {
+    "subject_code": "AMNE",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Slavery in the Ancient Greek and Roman World",
+    "faculty": "Faculty of Arts",
+    "description": "The study and history of slavery in the Greek and Roman worlds as a political, legal, economic, social, and cultural phenomenon. Credit will be granted for only one of CLST_V 320 or AMNE_V 323. Equivalency: CLST_V 320."
+  },
+  "AMNE 324": {
+    "subject_code": "AMNE",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Women in the Bronze Age, Classical Greek and Hellenistic Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "The images projected in mythology, literature, and art are compared with realities of women's lives insofar as they can be reconstructed from historical, legal, and archaeological records. Credit will be granted for only one of CLST_V 311 or AMNE_V 324. Equivalency: CLST_V 311."
+  },
+  "AMNE 325": {
+    "subject_code": "AMNE",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Women in the Roman World of Republican and Imperial Times",
+    "faculty": "Faculty of Arts",
+    "description": "Women in the Roman world in the culture of the Republic and the Empire. Literary, artistic, and mythological sources are compared and contrasted to historical, legal, and archaeological records. Credit will be granted for only one of CLST_V 312 or AMNE_V 325. Equivalency: CLST_V 312."
+  },
+  "AMNE 326": {
+    "subject_code": "AMNE",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Ancient Greek Warfare",
+    "faculty": "Faculty of Arts",
+    "description": "Ancient Greek methods and tactics of war plus underlying social, religious and philosophical concepts relating to warfare, through sources in translation. Credit will be granted for only one of CLST_V 329 or AMNE_V 326. Equivalency: CLST_V 329."
+  },
+  "AMNE 327": {
+    "subject_code": "AMNE",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "The Roman Army",
+    "faculty": "Faculty of Arts",
+    "description": "Rome's military from the early Republic to the Imperial period. Topics range from those of a military nature such as equipment and strategy to social topics such as policing and marriage of soldiers. Credit will be granted for only one of CLST_V 319 or AMNE_V 327. Equivalency: CLST_V 319."
+  },
+  "AMNE 328": {
+    "subject_code": "AMNE",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "UnRoman Romans",
+    "faculty": "Faculty of Arts",
+    "description": "Outsider and marginalized groups in the Roman world. Topics could include representations of entertainers, immigrants, magic workers and so forth, using ancient evidence from literature to art. Restricted to students with second-year standing or above."
+  },
+  "AMNE 331": {
+    "subject_code": "AMNE",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Jewish Law",
+    "faculty": "Faculty of Arts",
+    "description": "History, sources, theoretical issues and current state of research about early Jewish legal traditions, focusing on close readings of classic primary texts in English translations. Credit will be granted for only one of RELG_V 335 or AMNE_V 331. Equivalency: RELG_V 335."
+  },
+  "AMNE 332": {
+    "subject_code": "AMNE",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Greek Law",
+    "faculty": "Faculty of Arts",
+    "description": "The study of Greek legal theory, practice, and institutions from their origin in self-help, through the early lawgivers and their codes, to the developed system of Athens in the fifth and fourth centuries. A variety of test cases from the works of the Greek orators will be explored. Credit will be granted for only one of CLST_V 307 or AMNE_V 332. Equivalency: CLST_V 307."
+  },
+  "AMNE 333": {
+    "subject_code": "AMNE",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Roman Law",
+    "faculty": "Faculty of Arts",
+    "description": "The development of Roman private law during the classical period with special attention to family law, contract and delict. Credit will be granted for only one of CLST_V 308 or AMNE_V 333. Equivalency: CLST_V 308."
+  },
+  "AMNE 340": {
+    "subject_code": "AMNE",
+    "course_code": "340",
+    "credit": "3-6",
+    "course_name": "Topics in Ancient Mediterranean and Near Eastern Literature and Ideas",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the literature, ideas, and arts of the ancient Mediterranean, Near East and/or Egypt."
+  },
+  "AMNE 341": {
+    "subject_code": "AMNE",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Sex, Lies, and Violence in the Hebrew Bible",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of the Bible's dark side, with emphasis on texts that center on sex, deceit, and murder. Credit will be granted for only one of RELG_V 307 or AMNE_V 341. Equivalency: RELG_V 307."
+  },
+  "AMNE 342": {
+    "subject_code": "AMNE",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Translating the Bible",
+    "faculty": "Faculty of Arts",
+    "description": "Key issues involved in translating the Bible, with attention to gender, sexuality, race, ethnicity, religion, and colonialism."
+  },
+  "AMNE 345": {
+    "subject_code": "AMNE",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Greek Epic",
+    "faculty": "Faculty of Arts",
+    "description": "Homer's Iliad and Odyssey, in translation. Credit will be granted for only one of CLST_V 313 or AMNE_V 345. Prerequisite: Second-year standing or above. Equivalency: CLST_V 313."
+  },
+  "AMNE 346": {
+    "subject_code": "AMNE",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Latin Epic",
+    "faculty": "Faculty of Arts",
+    "description": "The development of the epic genre in Latin, with detailed study of Vergil's Aeneid, Ovid's Metamorphoses, and Lucan's Civil War, in translation. Credit will be granted for only one of CLST_V 314 or AMNE_V 346. Prerequisite: Second-year standing or above. Equivalency: CLST_V 314."
+  },
+  "AMNE 347": {
+    "subject_code": "AMNE",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Classical Comedy",
+    "faculty": "Faculty of Arts",
+    "description": "The plays of the Greek and Roman comic dramatists: Aristophanes, Menander, Plautus and Terence, in translation. Credit will be granted for only one of CLST_V 318 or AMNE_V 347. Prerequisite: Second-year standing and above. Equivalency: CLST _V 318."
+  },
+  "AMNE 348": {
+    "subject_code": "AMNE",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Classical Tragedy",
+    "faculty": "Faculty of Arts",
+    "description": "The plays of the Greek and Roman tragic dramatists, in translation. Credit will be granted for only one of CLST_V 317 or AMNE_V 348. Recommended pre-requisite: One of CLST_V 105, AMNE_V 151. Restricted to students with second year standing or higher. Equivalency: CLST _V 317."
+  },
+  "AMNE 351": {
+    "subject_code": "AMNE",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Religion in Ancient Egypt",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the religious beliefs, cults, and religious institutions in Pharaonic Egypt. Credit will be granted for only one of NEST_V 312 or AMNE_V 351. Equivalency: NEST _V 312."
+  },
+  "AMNE 355": {
+    "subject_code": "AMNE",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Greek Religion",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of both traditional and exoteric religious practices from the Archaic to the Hellenistic period. Some knowledge of ancient Greece is recommended. Credit will be granted for only one of CLST_V 333 or AMNE_V 355. Equivalency: CLST _V 333."
+  },
+  "AMNE 356": {
+    "subject_code": "AMNE",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "Roman Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Roman religions between the ninth century BCE and the fourth century CE, including mystery religions, magic, emperor worship, and early Christianity, with particular attention devoted to the primary sources. Some knowledge of ancient Rome is recommended. Credit will be granted for only one of CLST_V 334 or AMNE_V 356. Equivalency: CLST _V 334."
+  },
+  "AMNE 360": {
+    "subject_code": "AMNE",
+    "course_code": "360",
+    "credit": "3-6",
+    "course_name": "Topics in Ancient Mediterranean and Near Eastern Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics on the religions of the ancient Mediterranean, Near East and/or Egypt."
+  },
+  "AMNE 361": {
+    "subject_code": "AMNE",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "The Origins of Judaism",
+    "faculty": "Faculty of Arts",
+    "description": "Surveys the history of Jews and Judaism in the Second Temple era, from the destruction of the First Jerusalem Temple (586 B.C.E.) to the beginnings of the rabbinic movement (200 C.E.). Credit will be granted for only one of RELG_V 330 or AMNE_V 361. Equivalency: RELG_V 330."
+  },
+  "AMNE 363": {
+    "subject_code": "AMNE",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Talmud, Midrash and the Rabbinic Imagination",
+    "faculty": "Faculty of Arts",
+    "description": "The Talmud, Midrash, and other late-antique (3rd - 7th centuries) rabbinic writings, focusing on biblical interpretation and narratives. Credit will be granted for only one of RELG_V 308 or AMNE_V 363. Equivalency: RELG_V 308."
+  },
+  "AMNE 364": {
+    "subject_code": "AMNE",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "Magic, Prophecy, and Divination in the Biblical World",
+    "faculty": "Faculty of Arts",
+    "description": "Textual, contextual, and comparative exploration of the reciprocal relations between gods and people in the Hebrew Bible, Near Eastern ritual texts, and ancient experience. Credit will be granted for only one of RELG 305 or AMNE 364. Equivalency: RELG 305."
+  },
+  "AMNE 366": {
+    "subject_code": "AMNE",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "The Origins of Christianity",
+    "faculty": "Faculty of Arts",
+    "description": "The origins of Christianity as reflected in early Christian literature of the first and early second centuries (including the New Testament). Credit will be granted for only one of RELG_V 317 or AMNE_V 366. Equivalency: RELG_V 317."
+  },
+  "AMNE 368": {
+    "subject_code": "AMNE",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Paul and the Making of Christianity",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the controversial figure of Paul of Tarsus: his writings, impact, and reception, with attention to the contexts of ancient Judaism and the Roman Empire. AMNE_V 264 or previous experience reading the New Testament is recommended. Credit will be granted for only one of RELG_V 415, AMNE_V 368, or AMNE_V 464. Equivalency: RELG_V 415, AMNE_V 368, or AMNE_V 464."
+  },
+  "AMNE 369": {
+    "subject_code": "AMNE",
+    "course_code": "369",
+    "credit": "3",
+    "course_name": "Jesus: Between History and Literature",
+    "faculty": "Faculty of Arts",
+    "description": "The figure of Jesus, his teachings, and his reception through literary and contextual analysis of the canonical and apocryphal gospels. Recommended: AMNE_V 264 or previous experience reading the New Testament. Credit will be granted for only one of RELG_V 414, AMNE_V 369, or AMNE_V 463. Equivalency: RELG_V 414 or AMNE_V 463."
+  },
+  "AMNE 370": {
+    "subject_code": "AMNE",
+    "course_code": "370",
+    "credit": "3-6",
+    "course_name": "Topics in Ancient Mediterranean and Near Eastern Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics on the art, archaeology and/or architecture of the ancient Mediterranean, Near East and/or Egypt."
+  },
+  "AMNE 371": {
+    "subject_code": "AMNE",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Ancient Egypt: The Archaeology of the Land of the Pharaohs",
+    "faculty": "Faculty of Arts",
+    "description": "The material remains of the ancient Egyptians from monumental tombs and temples to the artifacts of daily life; the development of Egyptian civilization from the rise of the first rulers to its incorporation into the Roman Empire. Credit will be granted for only one of NEST_V 304, AMNE_V 371 or ARTH_V 325. Equivalency: ARTH_V 325 or NEST_V 304."
+  },
+  "AMNE 372": {
+    "subject_code": "AMNE",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "The Archaeology of Ancient Iraq and Syria: Babylon and Beyond",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of the archaeology of the ancient Near East, with special emphasis on the civilizations of Mesopotamia, from the appearance of the first cities (c. 3400 BCE) to the end of the Persian period (c. 330 BCE). AMNE_V 170 recommended as preparation. Credit will be granted for only one of NEST_V 319, AMNE_V 372 or ARTH_V 319. Equivalency: ARTH_V 319 or NEST_V 319."
+  },
+  "AMNE 373": {
+    "subject_code": "AMNE",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Archaeology and the Bible",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of archaeological research on understanding the history and religion of ancient Israel. Credit will be granted for only one of RELG_V 306 or AMNE_V 373. Equivalency: RELG_V 306."
+  },
+  "AMNE 376": {
+    "subject_code": "AMNE",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "Greek Art and Architecture",
+    "faculty": "Faculty of Arts",
+    "description": "The visual culture of the ancient Greek world in the second and first millennia BCE, especially from c. 1000 to 30 BCE. Credit will be granted for only one of CLST_V 331, AMNE_V 376 or ARTH_V 331. Equivalency: ARTH_V 331 or CLST_V 331."
+  },
+  "AMNE 377": {
+    "subject_code": "AMNE",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "Roman Art and Architecture",
+    "faculty": "Faculty of Arts",
+    "description": "The visual culture of the ancient Roman world from the 8th century BCE to the 4th century CE. Credit will be granted for only one of CLST_V 332, AMNE_V 377 or ARTH_V 332. Equivalency: ARTH_V 332 or CLST_V 332."
+  },
+  "AMNE 379": {
+    "subject_code": "AMNE",
+    "course_code": "379",
+    "credit": "3",
+    "course_name": "Art and the Religious Transformation of the Late Roman Empire",
+    "faculty": "Faculty of Arts",
+    "description": "Visual culture and religious diversity of the Late Roman Empire (2nd-7th c.); social, political, and religious contexts of art, including diverse viewing practices and cultural frameworks. Credit will be granted for only one of CNRS_V 333, AMNE_V 379 or ARTH_V 310. Equivalency: ARTH_V 310 or CNRS_V 333."
+  },
+  "AMNE 381": {
+    "subject_code": "AMNE",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Theories of Myth",
+    "faculty": "Faculty of Arts",
+    "description": "Origins, nature, and transmission of myth in the Western tradition, with particular attention devoted to the interpretation of myth from ancient times up to the present. Some background in myth is recommended. Credit will be granted for only one of CNRS_V 370 or AMNE_V 381. Equivalency: CNRS_V 370."
+  },
+  "AMNE 382": {
+    "subject_code": "AMNE",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Egyptomania",
+    "faculty": "Faculty of Arts",
+    "description": "The adaptation and appropriation of ancient Egypt in ancient and modern art, architecture, film, and music; the development of Egyptology since the 19th century. Credit will be granted for only one of NEST_V 318 or AMNE_V 382. Equivalency: NEST_V 318."
+  },
+  "AMNE 383": {
+    "subject_code": "AMNE",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Modern Jewish Ethics in Historical Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "Readings from key texts in English translation, tracing how Jewish approaches to ethical issues evolved from biblical times to the present. Credit will be granted for only one of RELG_V 313 or AMNE_V 383. Equivalency: RELG_V 313."
+  },
+  "AMNE 384": {
+    "subject_code": "AMNE",
+    "course_code": "384",
+    "credit": "3",
+    "course_name": "Reading the Bible on Indigenous Lands",
+    "faculty": "Faculty of Arts",
+    "description": "Reception, use, and appropriation of biblical texts to support European settler colonialism on Turtle Island (North America), with a focus on British Columbia. Impacts of Christianity on Indigenous communities, including the Indian Act and Residential School system."
+  },
+  "AMNE 391": {
+    "subject_code": "AMNE",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Introduction to Middle Egyptian",
+    "faculty": "Faculty of Arts",
+    "description": "Language of Ancient Egypt and the main literary texts composed during the Middle Kingdom. Credit will be granted for only one of NEST_V 313 or AMNE_V 391. Equivalency: NEST_V 313."
+  },
+  "AMNE 392": {
+    "subject_code": "AMNE",
+    "course_code": "392",
+    "credit": "3",
+    "course_name": "Introduction to Akkadian",
+    "faculty": "Faculty of Arts",
+    "description": "The basic grammar and introduction to the cuneiform writing system of the Akkadian language of the Ancient Near East. Credit will be granted for only one of NEST_V 315 or AMNE_V 392. Equivalency: NEST_V 315."
+  },
+  "AMNE 393": {
+    "subject_code": "AMNE",
+    "course_code": "393",
+    "credit": "3",
+    "course_name": "Introduction to Coptic",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to Coptic, the language of Christian Egypt from 100 AD. Credit will be granted for only one of NEST_V 317 or AMNE_V 393. Equivalency: NEST_V 317."
+  },
+  "AMNE 394": {
+    "subject_code": "AMNE",
+    "course_code": "394",
+    "credit": "3",
+    "course_name": "Introduction to Aramaic",
+    "faculty": "Faculty of Arts",
+    "description": "Basics of Imperial Aramaic grammar and vocabulary, with readings from biblical and other ancient sources from the eastern Mediterranean and Southwest and Central Asia."
+  },
+  "AMNE 395": {
+    "subject_code": "AMNE",
+    "course_code": "395",
+    "credit": "3-6",
+    "course_name": "Practicum in Ancient Mediterranean or Near Eastern Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Training in excavation techniques and interpretation through participation in the excavation of a Greek, Roman, or Near Eastern site in Europe or the Middle East. The minimum length of the course is three weeks; it may be repeated once. A maximum of 6 credits will be granted for AMNE_V 395 and CNRS_V 335. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: CNRS_V 335."
+  },
+  "AMNE 396": {
+    "subject_code": "AMNE",
+    "course_code": "396",
+    "credit": "3",
+    "course_name": "Experiencing the Ancient World Abroad",
+    "faculty": "Faculty of Arts",
+    "description": "International field experience and study of ancient Mediterranean or Near Eastern sites and materials held in museums. Topics and locations may vary. Consult Department for current offerings. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 420": {
+    "subject_code": "AMNE",
+    "course_code": "420",
+    "credit": "3-12",
+    "course_name": "Seminar in Ancient Mediterranean and Near Eastern History and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the history and culture of the ancient Mediterranean, Near East and/or Egypt, with an emphasis on research. A maximum of 12 credits will be granted for AMNE_V 420 and CLST_V 401. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: CLST_V 401. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 440": {
+    "subject_code": "AMNE",
+    "course_code": "440",
+    "credit": "3-12",
+    "course_name": "Seminar in Ancient Mediterranean and Near Eastern Literature and Ideas",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the literature, ideas, and arts of the ancient Mediterranean, Near East and/or Egypt, with an emphasis on research. A maximum of 12 credits will be granted for AMNE_V 440 and CLST_V 402. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: CLST_V 402. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 441": {
+    "subject_code": "AMNE",
+    "course_code": "441",
+    "credit": "3-6",
+    "course_name": "Literature of Ancient Egypt or the Ancient Near East",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in the main genres and texts of Egyptian and/or Ancient Near Eastern Literature and their modern interpretation. A maximum of 6 credits will be granted for AMNE_V 441, NEST_V 401, NEST_V 505, and AMNE_V 541. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: NEST_V 401, NEST_V 505, or AMNE_V 541."
+  },
+  "AMNE 461": {
+    "subject_code": "AMNE",
+    "course_code": "461",
+    "credit": "3-6",
+    "course_name": "Seminar in Biblical Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in biblical and related texts. A maximum of 6 credits will be granted for AMNE_V 461 or RELG_V 475. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: RELG_V 475. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 462": {
+    "subject_code": "AMNE",
+    "course_code": "462",
+    "credit": "3-6",
+    "course_name": "Seminar in Early Judaism",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in Judaism and Hellenism, the rise of the synagogue, Jewish sects, the development of classical rabbinic literature (e.g., Mishnah, Talmud, Midrash). A maximum of 6 credits will be granted for AMNE_V 462 or RELG_V 407. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: RELG_V 407."
+  },
+  "AMNE 470": {
+    "subject_code": "AMNE",
+    "course_code": "470",
+    "credit": "3-12",
+    "course_name": "Seminar in Ancient Mediterranean and Near Eastern Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the art, archaeology and/or architecture of the ancient Mediterranean, Near East and/or Egypt, with an emphasis on research. A maximum of 12 credits will be granted for AMNE_V 470 and CLST_V 403. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: CLST_V 403. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 471": {
+    "subject_code": "AMNE",
+    "course_code": "471",
+    "credit": "3-6",
+    "course_name": "The Archaeology of Urbanism",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics on the origins, development, and material manifestations of urbanism in the ancient Mediterranean, Near East and/or Egypt. A maximum of 6 credits will be granted for AMNE_V 471, NEST_V 402, AMNE_V 571 and NEST_V 506. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: NEST_V 402, AMNE_V 571 or NEST_V 506."
+  },
+  "AMNE 472": {
+    "subject_code": "AMNE",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "The Archaeology of Ancient Cyprus",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of the archaeology of ancient Cyprus from the island's initial colonization in the 10th millennium BCE through the period of its rule as part of the Roman Empire (4th century CE). Credit will be granted for only one of CNRS_V 410 or AMNE_V 472. Equivalency: CNRS_V 410."
+  },
+  "AMNE 480": {
+    "subject_code": "AMNE",
+    "course_code": "480",
+    "credit": "3-12",
+    "course_name": "Seminar in the Reception of the Ancient Mediterranean and Near East",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the reception of the ancient Mediterranean, Near Eastern and/or Egyptian cultures from their own times to the present, with an emphasis on research. A maximum of 12 credits will be granted for AMNE_V 480 and CLST_V 404. Students should consult the AMNE Undergraduate Advisor before registering. Equivalency: CLST_V 404. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 499": {
+    "subject_code": "AMNE",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of CNRS_V 449 or AMNE_V 499. Equivalency: CNRS_V 449. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 500": {
+    "subject_code": "AMNE",
+    "course_code": "500",
+    "credit": "3-6",
+    "course_name": "Pro-Seminar in Ancient Mediterranean Studies: Selected Topics",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 500 or CNRS_V 500. Students should consult the AMNE Graduate Advisor before registering. Equivalency: CNRS_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 501": {
+    "subject_code": "AMNE",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Topics in Egyptology",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 501 or NEST_ 503. Students should consult the AMNE Graduate Advisor before registering. Equivalency: NEST_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 525": {
+    "subject_code": "AMNE",
+    "course_code": "525",
+    "credit": "3-6",
+    "course_name": "Topics in Greek History and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 525 or GREK_V 535. Equivalency: GREK_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 527": {
+    "subject_code": "AMNE",
+    "course_code": "527",
+    "credit": "3-6",
+    "course_name": "Topics in Roman History and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 527 or LATN_V 535. Equivalency: LATN_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 530": {
+    "subject_code": "AMNE",
+    "course_code": "530",
+    "credit": "3-12",
+    "course_name": "Topics in Law and Society",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 12 credits will be granted for AMNE_V 530 or CNRS_V 502. Students should consult the AMNE Graduate Advisor before registering. Equivalency: CNRS_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 540": {
+    "subject_code": "AMNE",
+    "course_code": "540",
+    "credit": "3-12",
+    "course_name": "Topics in Literature, Art and Society",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 12 credits will be granted for AMNE_V 540 or CNRS_V 503. Students should consult the AMNE Graduate Advisor before registering. Equivalency: CNRS _V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 541": {
+    "subject_code": "AMNE",
+    "course_code": "541",
+    "credit": "3-6",
+    "course_name": "Literature of Ancient Egypt or the Ancient Near East",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in the main genres and texts of Egyptian and/or Ancient Near Eastern Literature and their modern interpretation. A maximum of 6 credits will be granted for AMNE_V 541, NEST_V 505, AMNE_V 441 or NEST_V 401. Students should consult the AMNE Graduate Advisor before registering. Equivalency: NEST_V 505, AMNE_V 441 or NEST_V 401. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 560": {
+    "subject_code": "AMNE",
+    "course_code": "560",
+    "credit": "3-12",
+    "course_name": "Topics in Religion",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 12 credits will be granted for AMNE_V 560 or CNRS_V 504. Students should consult the AMNE Graduate Advisor before registering. Equivalency: CNRS_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 561": {
+    "subject_code": "AMNE",
+    "course_code": "561",
+    "credit": "3-6",
+    "course_name": "Topics in Biblical Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 561 or RELG_V 500. Students should consult the AMNE Graduate Advisor before registering. Equivalency: RELG_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 562": {
+    "subject_code": "AMNE",
+    "course_code": "562",
+    "credit": "3-6",
+    "course_name": "Topics in Early Judaism",
+    "faculty": "Faculty of Arts",
+    "description": "Studies in the texts (in translation), history, and religious thought of Judaism after the close of the Biblical Period. A maximum of 6 credits will be granted for AMNE_V 562 or RELG_V 502. Students should consult the AMNE Graduate Advisor before registering. Equivalency: RELG_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 563": {
+    "subject_code": "AMNE",
+    "course_code": "563",
+    "credit": "3-6",
+    "course_name": "Topics in Early Christianity",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics pertaining to the literature, history, and material culture of Christians from the first century CE through late antiquity. A maximum of 6 credits will be granted for AMNE_V 563 or RELG_V 503. Students should consult the AMNE Graduate Advisor before registering. Equivalency: RELG_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 571": {
+    "subject_code": "AMNE",
+    "course_code": "571",
+    "credit": "3-6",
+    "course_name": "The Archaeology of Urbanism",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics on the origins, development, and material manifestations of urbanism in the ancient Mediterranean, Near East and/or Egypt. A maximum of 6 credits will be granted for AMNE_V 571, NEST_V 506, AMNE_V 471 or NEST_V 402. Students should consult the AMNE Graduate Advisor before registering. Equivalency: NEST_V 506, AMNE_V 471 or NEST_V 402. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 572": {
+    "subject_code": "AMNE",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Topics in Near Eastern Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 572 or NEST_V 500. Students should consult the AMNE Graduate Advisor before registering. Equivalency: NEST_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 575": {
+    "subject_code": "AMNE",
+    "course_code": "575",
+    "credit": "3-6",
+    "course_name": "Topics in Greek Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 575 or CLST_V 518. Students should consult with the AMNE Graduate Advisor before registering. Equivalency: CLST_V 518. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 576": {
+    "subject_code": "AMNE",
+    "course_code": "576",
+    "credit": "3-6",
+    "course_name": "Topics in Greek Regional Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Study of a particular area, e.g., Ionia, Sicily, Southern Italy. A maximum of 6 credits will be granted for AMNE_V 576 or CLST_V 511. Students should consult with the AMNE Graduate Advisor before registering. Equivalency: CLST_V 511. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 577": {
+    "subject_code": "AMNE",
+    "course_code": "577",
+    "credit": "3-6",
+    "course_name": "Topics in Roman Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 577 or CLST_V 519. Students should consult with the AMNE Graduate Advisor before registering. Equivalency: CLST_V 519. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 578": {
+    "subject_code": "AMNE",
+    "course_code": "578",
+    "credit": "3-6",
+    "course_name": "Topics in Roman Provincial Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Study of a particular area, e.g., Gaul, Britain, Asia Minor. A maximum of 6 credits will be granted for AMNE_V 578 or CLST_V 512. Students should consult with the AMNE Graduate Advisor before registering. Equivalency: CLST_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 581": {
+    "subject_code": "AMNE",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Theory and Method in the Study of Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of RELG_V 531 or AMNE_V 581. Equivalency: RELG_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 590": {
+    "subject_code": "AMNE",
+    "course_code": "590",
+    "credit": "3-12",
+    "course_name": "Topics in Identity",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 12 credits will be granted for AMNE_V 590 or CNRS_V 505. Students should consult the AMNE Graduate Advisor before registering. Equivalency: CNRS_V 505. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 591": {
+    "subject_code": "AMNE",
+    "course_code": "591",
+    "credit": "3-6",
+    "course_name": "Ancient Mediterranean or Near Eastern Language Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for AMNE_V 591 or LATN_V 540. Equivalency: LATN_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 595": {
+    "subject_code": "AMNE",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Practicum in Ancient Mediterranean or Near Eastern Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Training in excavation techniques and interpretation through participation in the excavation of a Greek, Roman, or Near Eastern site in Europe or the Middle East. The minimum length of the course is three weeks. Credit will be granted for only one of CNRS_V 535 or AMNE_V 595. Equivalency: CNRS_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 599": {
+    "subject_code": "AMNE",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of CNRS_V 549 or AMNE_V 599. Equivalency: CNRS_V 549. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AMNE 699": {
+    "subject_code": "AMNE",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "Equivalency: CNRS_V 649. This course is not eligible for Credit/D/Fail grading."
+  }
+}

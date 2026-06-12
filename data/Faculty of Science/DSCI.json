@@ -1,0 +1,258 @@
+{
+  "DSCI 100": {
+    "subject_code": "DSCI",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Use of data science tools to summarize, visualize, and analyze data. Sensible workflows and clear interpretations are emphasized. [3-0-1]."
+  },
+  "DSCI 200": {
+    "subject_code": "DSCI",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Navigating Data: Acquisition, Exploration and Management",
+    "faculty": "Faculty of Science",
+    "description": "Acquiring data through web scraping and generating synthetic data via simulations. Sampling and experimental designs. Reporting and visualizing data and data quality. Data privacy and ownership. Emphasis on case studies and real data sets. [3-0-0] Prerequisite: DSCI_V 100"
+  },
+  "DSCI 220": {
+    "subject_code": "DSCI",
+    "course_code": "220",
+    "credit": "4",
+    "course_name": "Discrete Mathematics for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Boolean algebra and logical inference, proof techniques, sets, relations and functions, regular expressions, and data filtering. [3-2-0] Prerequisite: All of a) DSCI_V 100; b) MATH_V 100, 110, 120, 180 or SCIE_V 001; and c) CPSC_V 103 or CPSC_V 110."
+  },
+  "DSCI 221": {
+    "subject_code": "DSCI",
+    "course_code": "221",
+    "credit": "4",
+    "course_name": "Data Structures for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Object-oriented programming. Design and analysis of basic algorithms and data structures especially relevant to data science. Algorithm analysis methods, basic data structures, graphs and graph algorithms. [3-2-0] Prerequisite: (a) DSCI_V 220, or (b) CPSC_V 121 and one of CPSC_V 203, CPSC_V 210, CPEN_V 221."
+  },
+  "DSCI 310": {
+    "subject_code": "DSCI",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Reproducible and Trustworthy Workflows for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Data science methods to automate the running and testing of code and analytic reports, manage data analysis software dependencies, package and deploy software for data analysis, and collaborate with others using version control. [3-0-1] Prerequisite: One of (a) DSCI_V 221, (b) DSCI_V 100 and one of CPSC_V 203, CPSC_V 210, CPEN_V 221, or (c) DSCI_V 100, either MATH_V 210 or ECON_V 323, and either CPSC_V 107 or CPSC_V 110."
+  },
+  "DSCI 320": {
+    "subject_code": "DSCI",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Visualization for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Analysis, design, and implementation of static and interactive visual representations; visualization literacy; data communication; exploratory Data Analysis; application of theoretical principles to visualization development. [3-1.5-0] Prerequisite: STAT_V 201 and one of CPSC_V 203, CPSC_V 210, CPEN_V 221, DSCI_V 221."
+  },
+  "DSCI 430": {
+    "subject_code": "DSCI",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Fairness, Accountability, Transparency and Ethics (FATE) in Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Ethical application of data science and machine learning algorithms. Application of ethical theories in real-world case studies. Data ownership, collection, and validity. Algorithm auditing, fairness and transparency. Reducing unfairness in algorithms. Deployment of predictive models and dissemination of results. [3-0-0] Prerequisite: One of CPSC 330, CPSC 340, STAT 301, STAT 406."
+  },
+  "DSCI 511": {
+    "subject_code": "DSCI",
+    "course_code": "511",
+    "credit": "1",
+    "course_name": "Programming for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Pseudo-code. Program design and structure. Flow control. Iteration. Lists (arrays). Functions. File I/O. Classes, objects, methods, and libraries. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 512": {
+    "subject_code": "DSCI",
+    "course_code": "512",
+    "credit": "1",
+    "course_name": "Algorithms and Data Structures",
+    "faculty": "Faculty of Science",
+    "description": "Basic algorithms. Recursion. Data structures including linked lists, queues, stacks, trees, graphs, and hash tables. Searching and sorting. Introduction to complexity including Big-O notation, efficiency, and scalability. Prerequisite: All of DSCI_V 511, DSCI_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 513": {
+    "subject_code": "DSCI",
+    "course_code": "513",
+    "credit": "1",
+    "course_name": "Databases and Data Retrieval",
+    "faculty": "Faculty of Science",
+    "description": "Relational schemas. SQL queries. Database programming using embedded SQL. XML and XQuery. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 521": {
+    "subject_code": "DSCI",
+    "course_code": "521",
+    "credit": "1",
+    "course_name": "Computing Platforms for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to software, shells, tools, and file systems for use in the Data Science program. Installation, configuration, and use of statistical and programming software including Integrated Development Environments (IDEs). Problem resolution skills. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 522": {
+    "subject_code": "DSCI",
+    "course_code": "522",
+    "credit": "1",
+    "course_name": "Data Science Workflows",
+    "faculty": "Faculty of Science",
+    "description": "Interactive and non-interactive data analysis. Scripting. Dynamic reporting. Reproducibility. Project and file management. Version control. Automated workflows. Prerequisite: All of DSCI_V 511, DSCI_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 523": {
+    "subject_code": "DSCI",
+    "course_code": "523",
+    "credit": "1",
+    "course_name": "Programming for Data Manipulation",
+    "faculty": "Faculty of Science",
+    "description": "Program design and data manipulation using industry-standard software tools designed for statistical work. Organizing, filtering, sorting, grouping, reformatting, converting, and cleaning data to prepare it for further analysis. Corequisite: All of DSCI_V 511, DSCI_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 524": {
+    "subject_code": "DSCI",
+    "course_code": "524",
+    "credit": "1",
+    "course_name": "Collaborative Software Development",
+    "faculty": "Faculty of Science",
+    "description": "Software life cycle. Unit testing. Continuous integration. Submission to a relevant repository for distribution. Packaging for installation and use by others. Software licenses. Classes and abstraction. Prerequisite: DSCI_V 522. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 525": {
+    "subject_code": "DSCI",
+    "course_code": "525",
+    "credit": "1",
+    "course_name": "Web and Cloud Computing",
+    "faculty": "Faculty of Science",
+    "description": "Networks and the Internet, scraping data, APIs, cloud computing, Web services for scalable computing, Web hosting, Web publication platforms, introduction to parallel computing. Prerequisite: All of DSCI_V 522, DSCI_V 523. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 531": {
+    "subject_code": "DSCI",
+    "course_code": "531",
+    "credit": "1",
+    "course_name": "Data Visualization I",
+    "faculty": "Faculty of Science",
+    "description": "Descriptive plots using statistical and programming software. Basics, mechanics, and principles of data visualization. Prerequisite: All of DSCI_V 511, DSCI_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 532": {
+    "subject_code": "DSCI",
+    "course_code": "532",
+    "credit": "1",
+    "course_name": "Data Visualization II",
+    "faculty": "Faculty of Science",
+    "description": "Interactive visualization, design choices, dynamic change over time, multiple views, data reduction, dealing with complexity. Prerequisite: DSCI_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 541": {
+    "subject_code": "DSCI",
+    "course_code": "541",
+    "credit": "1",
+    "course_name": "Privacy, Ethics, and Security",
+    "faculty": "Faculty of Science",
+    "description": "Privacy and data. Ethics boards, legal issues, licensing. Physical and logical data security, social engineering. Encryption, data anonymization, privacy-preserving techniques. Case studies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 542": {
+    "subject_code": "DSCI",
+    "course_code": "542",
+    "credit": "1",
+    "course_name": "Communication and Argumentation",
+    "faculty": "Faculty of Science",
+    "description": "Claims, reasons, and evidence. Strengths and weaknesses of models. Effective oral and written presentation of scientific results, including interpretation of data and recognition of assumptions, bias, validity, and reliability. Citations, references, and peer-review. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 551": {
+    "subject_code": "DSCI",
+    "course_code": "551",
+    "credit": "1",
+    "course_name": "Descriptive Statistics and Probability for Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Descriptive statistics including measures of location and spread. Random variables, distributions, and parameters. Categorical variables. Uncertainty. Missing data. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 552": {
+    "subject_code": "DSCI",
+    "course_code": "552",
+    "credit": "1",
+    "course_name": "Statistical Inference and Computation I",
+    "faculty": "Faculty of Science",
+    "description": "Random variables, parameters, observed data, statistics (distinctions and connections). Estimation: point and interval. Two-group comparisons, frequentist version. Simulation-based approaches. Prerequisite: DSCI_V 551. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 553": {
+    "subject_code": "DSCI",
+    "course_code": "553",
+    "credit": "1",
+    "course_name": "Statistical Inference and Computation II",
+    "faculty": "Faculty of Science",
+    "description": "Multiple hypothesis testing, false discovery rate. Two-group comparisons, Bayesian paradigm. Prerequisite: DSCI_V 552. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 554": {
+    "subject_code": "DSCI",
+    "course_code": "554",
+    "credit": "1",
+    "course_name": "Experimentation and Causal Inference",
+    "faculty": "Faculty of Science",
+    "description": "Randomization. A/B testing. Blocked designs. Orthogonality. Batch effects, confounding. Causality. Contemporary examples. Simulations. Prerequisite: All of DSCI_V 553, DSCI_V 561. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 561": {
+    "subject_code": "DSCI",
+    "course_code": "561",
+    "credit": "1",
+    "course_name": "Regression I",
+    "faculty": "Faculty of Science",
+    "description": "Linear models: continuous response; one or more categorical covariates and/or one or more continuous covariates. Prerequisite: DSCI_V 552. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 562": {
+    "subject_code": "DSCI",
+    "course_code": "562",
+    "credit": "1",
+    "course_name": "Regression II",
+    "faculty": "Faculty of Science",
+    "description": "Non-parametric regression and smoothing. Data-driven parameter selection. Robust regression. Mixed effects. Prerequisite: DSCI_V 561. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 563": {
+    "subject_code": "DSCI",
+    "course_code": "563",
+    "credit": "1",
+    "course_name": "Unsupervised Learning",
+    "faculty": "Faculty of Science",
+    "description": "Unsupervised learning. K-means/medoids. Model-based clustering. Expectation-maximization algorithm. Hierarchical clustering. Dimension reduction. Matrix decomposition. Heatmaps, contour plots, dendograms. Prerequisite: All of DSCI_V 511, DSCI_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 571": {
+    "subject_code": "DSCI",
+    "course_code": "571",
+    "credit": "1",
+    "course_name": "Supervised Learning I",
+    "faculty": "Faculty of Science",
+    "description": "Decision trees. k-th nearest neighbour classifiers. Naive Bayes classifiers. Logistic regression. Prerequisite: All of DSCI_V 511, DSCI_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 572": {
+    "subject_code": "DSCI",
+    "course_code": "572",
+    "credit": "1",
+    "course_name": "Supervised Learning II",
+    "faculty": "Faculty of Science",
+    "description": "Support Vector Machines. Random Forests. Ensemble Classifiers. Graphical models. Prerequisite: DSCI_V 571. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 573": {
+    "subject_code": "DSCI",
+    "course_code": "573",
+    "credit": "1",
+    "course_name": "Feature and Model Selection",
+    "faculty": "Faculty of Science",
+    "description": "Performance of a classification model. Generalization error, overfitting of training data. Shrinkage, feature selection, Akaike Information Criterion, Bayesian Information Criterion. k-fold cross validation. Bootstrapping. Receiver Operating Characteristic curve. Elastic nets, regularization. Prerequisite: DSCI_V 571. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 574": {
+    "subject_code": "DSCI",
+    "course_code": "574",
+    "credit": "1",
+    "course_name": "Spatial and Temporal Models",
+    "faculty": "Faculty of Science",
+    "description": "Time series. State space and change point detection. Hidden Markov Models. Gaussian processes. Prerequisite: DSCI_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 575": {
+    "subject_code": "DSCI",
+    "course_code": "575",
+    "credit": "1",
+    "course_name": "Advanced Machine Learning",
+    "faculty": "Faculty of Science",
+    "description": "Neural networks trained with backpropagation. Deep learning. Overfitting and underfitting. Active data acquisition. Hyperparameter optimization. Prerequisite: DSCI_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DSCI 591": {
+    "subject_code": "DSCI",
+    "course_code": "591",
+    "credit": "6",
+    "course_name": "Capstone Project",
+    "faculty": "Faculty of Science",
+    "description": "A capstone design project designed to give students experience in leading complex multidisciplinary projects relevant to data science. Prerequisite: All of DSCI_V 513, DSCI_V 524, DSCI_V 525, DSCI_V 532, DSCI_V 541, DSCI_V 542, DSCI_V 554, DSCI_V 563, DSCI_V 573, DSCI_V 574, DSCI_V 575. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "EXCH 101": {
+    "subject_code": "EXCH",
+    "course_code": "101",
+    "credit": "0",
+    "course_name": "Canadian University Study Abroad Program (CUSAP) Exchange",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 370": {
+    "subject_code": "EXCH",
+    "course_code": "370",
+    "credit": "0",
+    "course_name": "Student Exchange Program, Law",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 371": {
+    "subject_code": "EXCH",
+    "course_code": "371",
+    "credit": "0",
+    "course_name": "Student Exchange, Commerce",
+    "faculty": "",
+    "description": "Prerequisite: second-, third-, or fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 372": {
+    "subject_code": "EXCH",
+    "course_code": "372",
+    "credit": "0",
+    "course_name": "Student Exchange Program, Pharmacy",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 373": {
+    "subject_code": "EXCH",
+    "course_code": "373",
+    "credit": "0",
+    "course_name": "Applied Science Exchange",
+    "faculty": "",
+    "description": "For B.A.Sc. students on exchange."
+  },
+  "EXCH 375": {
+    "subject_code": "EXCH",
+    "course_code": "375",
+    "credit": "0",
+    "course_name": "Student Exchange Program, Education",
+    "faculty": "",
+    "description": "Prerequisite: for BEDN, DEDU, BEDS, BEDE, BEDM. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 380": {
+    "subject_code": "EXCH",
+    "course_code": "380",
+    "credit": "0",
+    "course_name": "Student Exchange Program, Undergraduate",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 383": {
+    "subject_code": "EXCH",
+    "course_code": "383",
+    "credit": "0",
+    "course_name": "Study Abroad Program",
+    "faculty": "",
+    "description": ""
+  },
+  "EXCH 385": {
+    "subject_code": "EXCH",
+    "course_code": "385",
+    "credit": "0",
+    "course_name": "Student Exchange Program, Summer",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 400": {
+    "subject_code": "EXCH",
+    "course_code": "400",
+    "credit": "0",
+    "course_name": "Commerce Exchange",
+    "faculty": "",
+    "description": "Please register in EXCH 400 if you are an undergraduate domestic student participating in a Commerce-specific exchange. Please ensure that you register for the appropriate term. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 401": {
+    "subject_code": "EXCH",
+    "course_code": "401",
+    "credit": "0",
+    "course_name": "Commerce Exchange",
+    "faculty": "",
+    "description": "Please register in EXCH 401 if you are an undergraduate domestic student participating in a Commerce-specific exchange to Lancaster University, UK. Please ensure that you register for the appropriate term. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 402": {
+    "subject_code": "EXCH",
+    "course_code": "402",
+    "credit": "0",
+    "course_name": "Commerce Exchange",
+    "faculty": "",
+    "description": "Please register in EXCH 402 if you are an undergraduate international student participating in a Commerce-specific exchange. Please ensure that you register for the appropriate term. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 580": {
+    "subject_code": "EXCH",
+    "course_code": "580",
+    "credit": "0",
+    "course_name": "Student Exchange Program, Graduate",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EXCH 581": {
+    "subject_code": "EXCH",
+    "course_code": "581",
+    "credit": "0",
+    "course_name": "Graduate Study Abroad Program",
+    "faculty": "",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

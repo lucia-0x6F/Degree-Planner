@@ -1,0 +1,90 @@
+{
+  "IAR 500": {
+    "subject_code": "IAR",
+    "course_code": "500",
+    "credit": "6",
+    "course_name": "Perspectives and Methods in Asia Pacific Policy Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 505": {
+    "subject_code": "IAR",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "The New Institutionalism in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 506": {
+    "subject_code": "IAR",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Culture & Globalization in Asia-Pacific",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary investigation of the idea that globalization is not limited to the economic sphere but also includes popular culture, communications, travel, food and desire of the other. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 507": {
+    "subject_code": "IAR",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "East Asian Organizations in Comparative Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary theories of organizational behavior applied to economic organizations in Japan, with some comparisons to South Korean, Taiwanese and Chinese firms. Historical and theoretical conceptualizations of business organizations with empirical applications as applied to East Asian firms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 508": {
+    "subject_code": "IAR",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "The City and the National Imagination",
+    "faculty": "Faculty of Arts",
+    "description": "Examines relations between the idea of the nation and its embodiment in the spaces of the city through visual, spatial, and architectural representations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 511": {
+    "subject_code": "IAR",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Cross-National Comparisons in the Social Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "The methodological and epistemological underpinnings of cross-national comparative research across the social sciences. Focused on but not limited to Northeast Asia. Credit will be granted for only one of IAR_V 511 or SOCI_V 511. Equivalency: SOCI_V 511. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 512": {
+    "subject_code": "IAR",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Multinational Firms and Policy Issues in Asia-Pacific",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 515": {
+    "subject_code": "IAR",
+    "course_code": "515",
+    "credit": "3-9",
+    "course_name": "Topics in Asia Pacific Policy Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 516": {
+    "subject_code": "IAR",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Issues in East Asian Diplomacy",
+    "faculty": "Faculty of Arts",
+    "description": "Political, transnational, and bilateral diplomatic issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 520": {
+    "subject_code": "IAR",
+    "course_code": "520",
+    "credit": "12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "IAR 525": {
+    "subject_code": "IAR",
+    "course_code": "525",
+    "credit": "12",
+    "course_name": "Practicum in Asia Pacific Policy Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

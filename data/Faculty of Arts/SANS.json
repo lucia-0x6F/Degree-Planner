@@ -1,0 +1,58 @@
+{
+  "SANS 300": {
+    "subject_code": "SANS",
+    "course_code": "300",
+    "credit": "6",
+    "course_name": "Introductory Sanskrit",
+    "faculty": "Faculty of Arts",
+    "description": "Basic vocabulary and most important grammatical features of classical Sanskrit. Useful to students of South Asian history, culture, languages, philosophies, and religions, and of linguistics and classics. Credit will be granted for only one of SANS 300 or SANS 102 or both SANS 100, SANS 101 or both SANS 301, SANS 302."
+  },
+  "SANS 301": {
+    "subject_code": "SANS",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Introductory Sanskrit I",
+    "faculty": "Faculty of Arts",
+    "description": "Basic vocabulary and most important grammatical features of classical Sanskrit. Useful to students of South Asian history, culture, languages, philosophies, and religions, and of linguistics and classics. No prior proficiency in Sanskrit required. Credit will be granted for only one of SANS 301 or SANS 100 or SANS 300."
+  },
+  "SANS 302": {
+    "subject_code": "SANS",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Introductory Sanskrit II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of SANS 301. Credit will be granted for only one of SANS 302 or SANS 101 or SANS 300. Recommended pre-requisite: SANS 301."
+  },
+  "SANS 400": {
+    "subject_code": "SANS",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Intermediate Sanskrit",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced grammar and selected readings. Credit will be granted for only one of SANS 400 or SANS 200 or both SANS 201, SANS 202 or both SANS 401, SANS 402. Recommended pre-requisites: one of SANS 300, SANS 302."
+  },
+  "SANS 401": {
+    "subject_code": "SANS",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Intermediate Sanskrit I",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced grammar and selected readings. Credit will be granted for only one of SANS 401 or SANS 201 or SANS 400. Recommended pre-requisites: one of SANS 300, SANS 302."
+  },
+  "SANS 402": {
+    "subject_code": "SANS",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Intermediate Sanskrit II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of SANS 401. Credit will be granted for only one of SANS 402 or SANS 202 or SANS 400. Recommended pre-requisite: SANS 401."
+  },
+  "SANS 450": {
+    "subject_code": "SANS",
+    "course_code": "450",
+    "credit": "6-18",
+    "course_name": "Further Readings in Sanskrit",
+    "faculty": "Faculty of Arts",
+    "description": "Study of selected texts belonging to a particular period (e.g., Vedic) or representing a specific branch of kavya (poetic literature) or sastra (technical-philosophical literature). Recommended pre-requisites: one of SANS 200, SANS 202, SANS 400, SANS 402."
+  }
+}

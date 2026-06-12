@@ -1,0 +1,74 @@
+{
+  "OBST 501": {
+    "subject_code": "OBST",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Reproductive Endocrinology I",
+    "faculty": "Faculty of Medicine",
+    "description": "Neuroendocrine regulation of reproduction, regulation of the ovarian and testicular function. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 502": {
+    "subject_code": "OBST",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Physiology of the Mother, Fetus and Newborn",
+    "faculty": "Faculty of Medicine",
+    "description": "Functional development of the placenta and major organ systems in the fetal and newborn period in man and animals. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 503": {
+    "subject_code": "OBST",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Fetal and Perinatal Metabolism",
+    "faculty": "Faculty of Medicine",
+    "description": "Prerequisite: Knowledge of fetal growth and development, physiology, pathology of labour. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 504": {
+    "subject_code": "OBST",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Reproductive Endocrinology II",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures and seminars on cellular processes in hormone secretion, steroid biosynthesis, steroid transport and metabolism, mechanism of hormone action, prostaglandins in reproduction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 505": {
+    "subject_code": "OBST",
+    "course_code": "505",
+    "credit": "6",
+    "course_name": "Experimental Techniques in Reproductive Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "Laboratory course on: cell and organ cultures, radioimmunoassay of steroid and protein hormones and prostaglandins, in vitro fertilization, neuroendocrine techniques, techniques to study fetuses, techniques for metabolic studies in newborn animals. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 506": {
+    "subject_code": "OBST",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Seminars in Reproductive Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 507": {
+    "subject_code": "OBST",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Perinatal Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Indicators of maternal/newborn well-being across population subgroups, changing trends in obstetrical intervention, perinatal morbidity, and the analysis of perinatal data. Corequisite: One of OBST_V 502, OBST_V 504. Equivalency: SPPH_V 537. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 549": {
+    "subject_code": "OBST",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "OBST 649": {
+    "subject_code": "OBST",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

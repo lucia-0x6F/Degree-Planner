@@ -1,0 +1,2098 @@
+{
+  "LAW 200": {
+    "subject_code": "LAW",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Indigenous Settler Legal Relations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Critical examination of the history and legacy of colonial legal orders in Canada. This course is compulsory for students who commence their Juris Doctor degree in September 2020 or later. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 201": {
+    "subject_code": "LAW",
+    "course_code": "201",
+    "credit": "5",
+    "course_name": "Indigenous Peoples and Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Critical examination of the history and legacy of colonial legal orders in Canada and their impacts on First Nations, Métis, Inuit and urban Indigenous Peoples, and overview of sources and authorities of Indigenous laws, Indigenous legal theories and methodologies, and the unique constitutional status and rights of Aboriginal Peoples in Canada. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 202": {
+    "subject_code": "LAW",
+    "course_code": "202",
+    "credit": "2",
+    "course_name": "Advocacy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduction to principles of written and oral advocacy. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 211": {
+    "subject_code": "LAW",
+    "course_code": "211",
+    "credit": "5",
+    "course_name": "Contracts",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Historical development; formation and enforceability of contracts; parties; contractual terms; changes of circumstances; remedies for breach. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 221": {
+    "subject_code": "LAW",
+    "course_code": "221",
+    "credit": "5",
+    "course_name": "Criminal Law and Procedure",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Bases of criminal responsibility; principles and objectives of the criminal law and procedure; pre-trial procedure. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 231": {
+    "subject_code": "LAW",
+    "course_code": "231",
+    "credit": "5",
+    "course_name": "Property Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The legal concept of ownership and its changing nature and application, including equitable principles, the acquisition and transfer of interests, the regulation of use, Aboriginal title, and statute-based systems for registering interests in land. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 241": {
+    "subject_code": "LAW",
+    "course_code": "241",
+    "credit": "5",
+    "course_name": "Torts",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A study of the bases of civil liability for intentionally and accidentally caused harms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 251": {
+    "subject_code": "LAW",
+    "course_code": "251",
+    "credit": "2",
+    "course_name": "Public Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "An overview of the constitutional and statutory law governing the legislative, executive, and judicial branches of government in Canada, including an introduction to statutory construction and analysis and the administration of law in Canada. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 271": {
+    "subject_code": "LAW",
+    "course_code": "271",
+    "credit": "3",
+    "course_name": "Introduction to Public Law and the Charter",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "An introduction to the structure, powers, duties of and relationships among the various institutions and actors that comprise the Canadian state, the principles of statutory interpretation, and the Canadian Charter of Rights and Freedoms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 281": {
+    "subject_code": "LAW",
+    "course_code": "281",
+    "credit": "2",
+    "course_name": "Legal Research and Writing",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduction to legal research and writing skills and the use of legal databases. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 291": {
+    "subject_code": "LAW",
+    "course_code": "291",
+    "credit": "2",
+    "course_name": "Aboriginal and Treaty Rights",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "An overview of the unique constitutional status and rights of Aboriginal Peoples in Canada. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 300": {
+    "subject_code": "LAW",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Jurisprudence and Critical Perspectives",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduction to the basic principles of legal theory and critical perspectives on law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 301": {
+    "subject_code": "LAW",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Philosophy of Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "An examination of the principal schools of legal theory, such as legal positivism, legal realism, sociological jurisprudence, and contemporary rights theory. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 302": {
+    "subject_code": "LAW",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Fundamental Concepts of Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A study of some of the fundamental principles and ideas that cut across many areas of the substantive law, including such concepts as fault, intent, legal personality, possession, ownership, justice, and causation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 303": {
+    "subject_code": "LAW",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Legal Traditions and Ideas of Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Historical and comparative study of the evolution of legal systems from custom and proto law emphasizing influences and sharing ideas among traditions of the Ancient Near East, Athens, Roman Empire, Western Europe and China. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 304": {
+    "subject_code": "LAW",
+    "course_code": "304",
+    "credit": "2",
+    "course_name": "Transnational Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduction to principles of public and private international law and research methods for international legal materials."
+  },
+  "LAW 305": {
+    "subject_code": "LAW",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Law, Society and State",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Theories of the relationship between the legal system, social relations and the state. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 306": {
+    "subject_code": "LAW",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Corporate Social Responsibility and the Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 307": {
+    "subject_code": "LAW",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Women, Law and Social Change",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A survey of feminist approaches to law, with reference to selected substantive areas of the law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 308": {
+    "subject_code": "LAW",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Feminist Legal Theory",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Recent developments in feminist legal theory. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 309": {
+    "subject_code": "LAW",
+    "course_code": "309",
+    "credit": "1-3",
+    "course_name": "Topics in Feminist Legal Studies",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 310": {
+    "subject_code": "LAW",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Economic Analysis of Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Economic analysis used to explore, describe, evaluate and offer prescriptive suggestions for legal decision-making. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 311": {
+    "subject_code": "LAW",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Property Law and Theory",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The idea of property, its origins, its justifications, its uses, its effects, and the rules that surround and create it. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 312": {
+    "subject_code": "LAW",
+    "course_code": "312",
+    "credit": "1-3",
+    "course_name": "Topics in Philosophy of Law and Theoretical Perspectives",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course may be graded as Honours/Pass/Fail or percentage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 313": {
+    "subject_code": "LAW",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Legal History",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The relationship between law, society and historical change, normally emphasizing 19th and 20th century issues. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 315": {
+    "subject_code": "LAW",
+    "course_code": "315",
+    "credit": "1-3",
+    "course_name": "Topics in Legal History",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 316": {
+    "subject_code": "LAW",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "International Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The history, sources and evidence of international law and its relation to municipal law; international personality; state jurisdiction; and treaties. Credit will be granted for only one of LAW_V 316 or POLI_V 376. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 318": {
+    "subject_code": "LAW",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Marine Resources Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal regimes governing the protection and exploitation of ocean resources. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 319": {
+    "subject_code": "LAW",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "International Human Rights",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The recognition and protection of human rights in international law. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 320": {
+    "subject_code": "LAW",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Indigenous Peoples in Comparative and International Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The legal situation of indigenous peoples in various states and in modern international law. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 321": {
+    "subject_code": "LAW",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Law of Armed Conflict",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The legal basis for armed conflict or military operations; the rights and obligations of combatants and civilians in a region of armed conflict; war crimes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 322": {
+    "subject_code": "LAW",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "International Law Problems",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected issues in international law. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 323": {
+    "subject_code": "LAW",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "International Environmental Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Customary international law and treaties relating to the environment; institutional structures. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 324": {
+    "subject_code": "LAW",
+    "course_code": "324",
+    "credit": "1-3",
+    "course_name": "Topics in International Law and Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 325": {
+    "subject_code": "LAW",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Conflict of Laws",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A study of the private legal problems arising in cases in which the relevant facts cut across provincial or national boundaries. Recommended to be taken in third year. Credit will only be granted for one of LAW_V 325 or LAW_V 592. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 327": {
+    "subject_code": "LAW",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "International Trade Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Rules and regulatory systems that govern the international movement of capital, goods and services. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 328": {
+    "subject_code": "LAW",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "International Business Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal problems in international financial and commercial transactions. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 329": {
+    "subject_code": "LAW",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "International Commercial Disputes",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "International commercial arbitration and other means for resolving legal disputes relating to international commercial transactions. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 332": {
+    "subject_code": "LAW",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Maritime Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Canadian maritime law and admiralty practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 333": {
+    "subject_code": "LAW",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Cultural Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Relationship of law to cultural activities and phenomena. International, national, and indigenous laws as they apply to various forms of tangible and intangible cultural expression. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 334": {
+    "subject_code": "LAW",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Introduction to Asian Legal Systems",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduction to the comparative study of legal systems of East and South-East Asia, including those of China and Japan. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 336": {
+    "subject_code": "LAW",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Chinese Law: Implications for Canada-China Relations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Overview of the laws and legal system in the People's Republic of China with some introduction to Taiwan law. Legal interpretation of implications for Canada-China relations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 338": {
+    "subject_code": "LAW",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "Japanese Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Constitutional foundation and protection of human rights under Japanese law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 339": {
+    "subject_code": "LAW",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "Human Rights in Asia",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to civil, political, social and cultural rights in particular areas in Asia. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 340": {
+    "subject_code": "LAW",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Comparative Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Basic theory of comparative law and the differences between the civil law tradition and the common law tradition. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 341": {
+    "subject_code": "LAW",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "European Union Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The legal system of the European Union as created by the treaties establishing the Union and by the Union's institutions. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 342": {
+    "subject_code": "LAW",
+    "course_code": "342",
+    "credit": "1-3",
+    "course_name": "Topics in Comparative Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 343": {
+    "subject_code": "LAW",
+    "course_code": "343",
+    "credit": "1-3",
+    "course_name": "Topics in Public Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 343 or LAW_V 543. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 344": {
+    "subject_code": "LAW",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Innovation, Law, and Regulation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Examines and applies interdisciplinary research on regulation, governance, and institutional and legal design under conditions of change and uncertainty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 345": {
+    "subject_code": "LAW",
+    "course_code": "345",
+    "credit": "1-3",
+    "course_name": "Topics in Public Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 346": {
+    "subject_code": "LAW",
+    "course_code": "346",
+    "credit": "1-2",
+    "course_name": "Intensive Seminar I",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Honours/Pass/Fail grading. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 347": {
+    "subject_code": "LAW",
+    "course_code": "347",
+    "credit": "2-3",
+    "course_name": "Federalism",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "An examination of the principles of Canadian federalism. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 348": {
+    "subject_code": "LAW",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Comparative Constitutional Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Comparison of the constitutional history, government structure and powers, and protection of individual rights between the United States and Canada. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 349": {
+    "subject_code": "LAW",
+    "course_code": "349",
+    "credit": "1-3",
+    "course_name": "Topics in Constitutional Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 349 or LAW_V 539. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 351": {
+    "subject_code": "LAW",
+    "course_code": "351",
+    "credit": "1-3",
+    "course_name": "Topics in Human Rights",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 352": {
+    "subject_code": "LAW",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Aboriginal Peoples and Canadian Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of the history and present status of the legal relationships between Canada's Aboriginal peoples and the state. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 353": {
+    "subject_code": "LAW",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Aboriginal and Treaty Rights",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Rights of Aboriginal people stemming from their aboriginal status and from treaties. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 354": {
+    "subject_code": "LAW",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "First Nations Self-Government",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Issues relating to First Nations' assumption of self-government powers. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 355": {
+    "subject_code": "LAW",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "First Nations and the Administration of Justice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The justice system and its operation in relation to First Nations people. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 356": {
+    "subject_code": "LAW",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "First Nations and Economic Development",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues affecting land use and economic activity involving First Nations' resources. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 357": {
+    "subject_code": "LAW",
+    "course_code": "357",
+    "credit": "1-3",
+    "course_name": "Topics in First Nations Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 357 or LAW_V 579. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 358": {
+    "subject_code": "LAW",
+    "course_code": "358",
+    "credit": "1-3",
+    "course_name": "Topics in First Nations Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 358 or LAW_V 558. This course may be graded as Honours/Pass/Fail or percentage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 359": {
+    "subject_code": "LAW",
+    "course_code": "359",
+    "credit": "3-4",
+    "course_name": "Family Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to family relationships, including the law of marriage, divorce, maintenance, custody, matrimonial property, and related matters. Credit will only be granted for one of LAW_V 359 or LAW_V 559. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 360": {
+    "subject_code": "LAW",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Children and the Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The civil and criminal law affecting juveniles; custody, guardianship and adoption. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 362": {
+    "subject_code": "LAW",
+    "course_code": "362",
+    "credit": "1-3",
+    "course_name": "Topics in Family Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 363": {
+    "subject_code": "LAW",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Racism and Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to race and racism, including related issues of gender, culture or identity. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 364": {
+    "subject_code": "LAW",
+    "course_code": "364",
+    "credit": "1-3",
+    "course_name": "Topics in Race and Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 365": {
+    "subject_code": "LAW",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Women, Law and Family",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Feminist and other critical perspectives on the relationship between unequal gender relations and laws embodying a concept of family. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 367": {
+    "subject_code": "LAW",
+    "course_code": "367",
+    "credit": "3",
+    "course_name": "Reproduction and Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to human reproduction. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 368": {
+    "subject_code": "LAW",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Sexuality and Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to sexual activity, orientation and identification. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 370": {
+    "subject_code": "LAW",
+    "course_code": "370",
+    "credit": "1-3",
+    "course_name": "Topics in Social Justice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered every year; consult the Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 371": {
+    "subject_code": "LAW",
+    "course_code": "371",
+    "credit": "1-3",
+    "course_name": "Topics in Law and Social Relations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 372": {
+    "subject_code": "LAW",
+    "course_code": "372",
+    "credit": "3-4",
+    "course_name": "Administrative Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Study of the external control of public actors exercising statutory authority. Introduction to general principles of procedural and substantive judicial review, delegated authority and subordinate legislation, remedies, and administrative processes. Credit will be granted for only one of LAW_V 372 or LAW_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 373": {
+    "subject_code": "LAW",
+    "course_code": "373",
+    "credit": "1-3",
+    "course_name": "Topics in Administrative Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 374": {
+    "subject_code": "LAW",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Municipal Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The municipality as a legal entity; its creation, operation and powers; by-laws and their validity; contractual liability; judicial review; business regulation; expropriation and land use control. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 375": {
+    "subject_code": "LAW",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Land Use Planning",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The legal and administrative aspects of the regulation of land use and development, especially at the local level. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 376": {
+    "subject_code": "LAW",
+    "course_code": "376",
+    "credit": "1-3",
+    "course_name": "Topics in Municipal and Planning Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 377": {
+    "subject_code": "LAW",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "Immigration Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Admission of immigrants into Canada; refugee protection; practice and procedure before immigration tribunals and the courts. Credit will only be granted for one of LAW_V 377 or LAW_V 577. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 378": {
+    "subject_code": "LAW",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Refugee Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "International and Canadian refugee law; the Refugee Convention and its implementation in Canada; the practice of refugee law in Canadian courts and tribunals. Course content does not duplicate LAW_V 377. Credit will only be given to one of LAW_V 378 or LAW_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 379": {
+    "subject_code": "LAW",
+    "course_code": "379",
+    "credit": "1-11",
+    "course_name": "Externship",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Students work for an approved organization, supervised by a Faculty-approved mentor and a faculty member. Consult the Faculty for full eligibility criteria. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 380": {
+    "subject_code": "LAW",
+    "course_code": "380",
+    "credit": "2-6",
+    "course_name": "Externship Reflection",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Structured reflective exercises on the LAW 379 Externship experience."
+  },
+  "LAW 381": {
+    "subject_code": "LAW",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Disabilities and Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to people with disabilities. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 382": {
+    "subject_code": "LAW",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Health Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal and policy issues relating to the health care system, including legal aspects of individual and public health decision-making. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 383": {
+    "subject_code": "LAW",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Mental Health Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to commitment and treatment issues for persons with mental disabilities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 385": {
+    "subject_code": "LAW",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "Social Welfare Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Aspects of the law structuring the provision of welfare and other social services in Canada. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 386": {
+    "subject_code": "LAW",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Sustainable Development Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The linkages, intersections, and tensions between the legal regulation of the environment and competing social and economic priorities. Credit will only be granted for one of LAW_V 386 or LAW_V 586. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 387": {
+    "subject_code": "LAW",
+    "course_code": "387",
+    "credit": "3-4",
+    "course_name": "Environmental Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A foundation course dealing with the regulatory and policy framework for the protection of the environment in Canada, such as pollution control and biodiversity conservation. Credit will only be granted for one of LAW_V 387 LAW_V 587. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 388": {
+    "subject_code": "LAW",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Environmental Law in Practice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Jurisdiction, remedies and administrative schemes as they apply in practice to selected environmental law problems. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 389": {
+    "subject_code": "LAW",
+    "course_code": "389",
+    "credit": "1-3",
+    "course_name": "Selected Issues in Environmental Law and Policy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Case studies of leading problems in environmental law and regulation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 390": {
+    "subject_code": "LAW",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Environmental Law Workshop",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal research and writing for environmental agency or NGO under supervision of faculty member and lawyer. Not offered every year, consult Faculty. Credit will only be granted for one of LAW_V 390 or LAW_V 591. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 391": {
+    "subject_code": "LAW",
+    "course_code": "391",
+    "credit": "1-3",
+    "course_name": "Topics in Environmental Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 392": {
+    "subject_code": "LAW",
+    "course_code": "392",
+    "credit": "3",
+    "course_name": "Natural Resources Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A foundation course dealing with legal problems common to the management of natural resources such as fisheries, mines and minerals, petroleum, forests, and water resources. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 393": {
+    "subject_code": "LAW",
+    "course_code": "393",
+    "credit": "3",
+    "course_name": "Green Rights and Warrior Lawyers",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Explore the human right to a healthy environment and the rights of nature through the stories of environmental lawyers and defenders worldwide who struggle for environmental justice through law. No pre- or co-requisites. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 394": {
+    "subject_code": "LAW",
+    "course_code": "394",
+    "credit": "3",
+    "course_name": "Mining Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Acquisition of mineral interests; development, financing and organization of mining companies; regulation of exploitation industry interests; management taxation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 395": {
+    "subject_code": "LAW",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Forest Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Acquisition of timber interests; development, financing and organization of timber companies; regulation of exploitation industry interests; management taxation. Not offered each year; consult Faculty. Credit will only be granted for one of LAW_V 395 or LAW_V 595. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 396": {
+    "subject_code": "LAW",
+    "course_code": "396",
+    "credit": "3",
+    "course_name": "Fisheries Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal regimes for the exploitation and regulation of fisheries. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 397": {
+    "subject_code": "LAW",
+    "course_code": "397",
+    "credit": "3",
+    "course_name": "Oil and Gas Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal regimes for the disposition of interests in petroleum; government regulation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 398": {
+    "subject_code": "LAW",
+    "course_code": "398",
+    "credit": "1-3",
+    "course_name": "Topics in Natural Resources",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 399": {
+    "subject_code": "LAW",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Advanced Criminal Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected topics in advanced substantive criminal law and related issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 400": {
+    "subject_code": "LAW",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Advanced Criminal Procedure",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected topics relating to procedural law and practice in criminal matters. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 401": {
+    "subject_code": "LAW",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Penal Policy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected legal policy issues relating to punishment for crime. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 402": {
+    "subject_code": "LAW",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "The Law of Sexual Offences",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Criminal law relating to sexual offences, including non-consent, evidentiary and procedural rules, and sentencing. History of sexual offence laws and law reform movements. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 403": {
+    "subject_code": "LAW",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Principles of Sentencing",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is designed to teach students the law and policy involved in sentencing persons convicted of crimes. Students will develop an in-depth understanding of statutory and case law rules regarding sentencing and will be required to apply those rules to actual sentencing scenarios. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 404": {
+    "subject_code": "LAW",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "The Law of Homicide",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Available in online distance education format only. Elements of sentencing for murder, manslaughter and infanticide; defences to homicide; parties to homicide; and corporate homicide. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 405": {
+    "subject_code": "LAW",
+    "course_code": "405",
+    "credit": "1-3",
+    "course_name": "Topics in Criminal Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 406": {
+    "subject_code": "LAW",
+    "course_code": "406",
+    "credit": "1-3",
+    "course_name": "Topics in Criminal Justice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 407": {
+    "subject_code": "LAW",
+    "course_code": "407",
+    "credit": "3-4",
+    "course_name": "Taxation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A survey of the law and practice of income and capital gains taxes. Credit will be granted for only one of LAW_V 407 or LAW_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 408": {
+    "subject_code": "LAW",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Taxation of Corporations and Shareholders",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of statutory provisions and judicial decisions governing the taxation of corporations and shareholders. Credit will be granted for only one of LAW_V 408 or LAW_V 562. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 409": {
+    "subject_code": "LAW",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Taxation of Partnerships",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of statutory and judicial rules governing the taxation of income earned through partnerships. Credit will be granted for only one of LAW_V 409 or LAW_V 563. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 410": {
+    "subject_code": "LAW",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "International Taxation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The tax aspects of international transactions. Not offered each year; consult Faculty. Credit will be granted for only one of LAW_V 410 or LAW_V 565. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 411": {
+    "subject_code": "LAW",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Tax Policy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The policies underlying the creation and implementation of tax laws. Not offered each year, consult Faculty. Credit will be granted for only one of LAW_V 411 or LAW_V 566. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 412": {
+    "subject_code": "LAW",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Taxation of Trusts and Estates",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will be granted for only one of LAW_V 412 or LAW_V 564. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 413": {
+    "subject_code": "LAW",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Tax Administration and Dispute Resolution",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will be granted for only one of LAW_V 413 or LAW_V 567. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 414": {
+    "subject_code": "LAW",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Taxation of Corporate Reorganizations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of statutory provisions and judicial decisions governing the taxation of corporate reorganizations. Credit will be granted for only one of LAW_V 414 or LAW_V 550. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 416": {
+    "subject_code": "LAW",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Labour Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Union-management relations; the collective bargaining process; the collective agreement, arbitration and conciliation procedure. The relationship between the union and its membership. [2-0] or [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 418": {
+    "subject_code": "LAW",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Resolution of Labour Disputes",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Labour arbitration and collective agreement negotiation and interpretation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 419": {
+    "subject_code": "LAW",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Individual Employment Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal aspects of employment relationships other that those arising by collective bargaining. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 419 or LAW_V 519. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 420": {
+    "subject_code": "LAW",
+    "course_code": "420",
+    "credit": "1-3",
+    "course_name": "Topics in Intellectual Property - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW 420 or LAW 520. This course may be graded as Honours/Pass/Fail or percentage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 421": {
+    "subject_code": "LAW",
+    "course_code": "421",
+    "credit": "1-3",
+    "course_name": "Topics in Labour Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 422": {
+    "subject_code": "LAW",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Intellectual Property",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Copyright, patents, trademarks, industrial design, the protection of computer software, and torts such as passing-off and breach of confidence. Credit will only be granted for one of LAW_V 422 or LAW_V 570. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 423": {
+    "subject_code": "LAW",
+    "course_code": "423",
+    "credit": "1-3",
+    "course_name": "Topics in Intellectual Property - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 423 or LAW_V 523. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 424": {
+    "subject_code": "LAW",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Communications Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected legal issues relating to the communications industries and their regulation. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 424 or LAW_V 571. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 425": {
+    "subject_code": "LAW",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Cyberspace Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues arising from the development of the Internet and cyberspace. Credit will only be granted for one of LAW_V 425 or LAW_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 426": {
+    "subject_code": "LAW",
+    "course_code": "426",
+    "credit": "1-3",
+    "course_name": "Topics in Law and Technology",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 427": {
+    "subject_code": "LAW",
+    "course_code": "427",
+    "credit": "3-12",
+    "course_name": "International Justice and Human Rights Clinic Practicum",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The Clinic Practicum is a collaborative effort where clinicians work in teams of two to four on cases and projects that respond to human rights violations and/or global injustice. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 428": {
+    "subject_code": "LAW",
+    "course_code": "428",
+    "credit": "3-6",
+    "course_name": "International Justice and Human Rights Clinical Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The seminar explores foundational texts and treaties in international human rights, international humanitarian and international criminal law necessary to undertake the IJHR Clinic case and project work in the Fall and Spring Practicum. [2-0] or [3-0]"
+  },
+  "LAW 429": {
+    "subject_code": "LAW",
+    "course_code": "429",
+    "credit": "11",
+    "course_name": "Rise Womens Legal Centre - Clinic",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The Clinic is a family law legal clinic where students are temporarily articled under the Law Society of BC and practice primarily family law, providing legal advice and assistance to clients, under the supervision of instructors. Pass/Fail. Corequisite: LAW_V 431. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 430": {
+    "subject_code": "LAW",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Advanced Legal Research",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Research using electronic databases, information systems, and non-legal databases relevant to the resolution of legal issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 431": {
+    "subject_code": "LAW",
+    "course_code": "431",
+    "credit": "4",
+    "course_name": "Rise Womens Legal Centre - Seminar: Social Justice Issues for Families in the Legal System",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This seminar explores issues of social justice for families in the legal system, necessary to undertake the Rise Womens Legal Centre Clinic in the Fall, Spring and Summer terms. Corequisite: LAW 429."
+  },
+  "LAW 432": {
+    "subject_code": "LAW",
+    "course_code": "432",
+    "credit": "1-3",
+    "course_name": "Topics in Private Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 433": {
+    "subject_code": "LAW",
+    "course_code": "433",
+    "credit": "1-3",
+    "course_name": "Topics in Tort Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 434": {
+    "subject_code": "LAW",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Medical Negligence Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to tort claims in negligence and related causes of action against health care providers, with a primary focus on physicians and hospital authorities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 435": {
+    "subject_code": "LAW",
+    "course_code": "435",
+    "credit": "1-3",
+    "course_name": "Topics in Tort Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course may be graded as Honours/Pass/Fail or percentage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 436": {
+    "subject_code": "LAW",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Restitution",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Unjust enrichment as the basis of civil liability. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 437": {
+    "subject_code": "LAW",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Commercial Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law of sale of goods, bills of exchange, promissory notes, and cheques. Credit will only be granted for one of LAW_V 437 or LAW_V 537. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 438": {
+    "subject_code": "LAW",
+    "course_code": "438",
+    "credit": "3",
+    "course_name": "Secured Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law governing the creation, perfection and enforcement of security interests in personal property. Credit will only be granted for one of LAW_V 438 or LAW_V 538. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 439": {
+    "subject_code": "LAW",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "Construction Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to the construction process. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 440": {
+    "subject_code": "LAW",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Insurance Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The general legal principles of life, automobile, fire and other types of insurance; the regulation of the insurance industry. Credit will only be granted for one of LAW_V 440 or LAW_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 441": {
+    "subject_code": "LAW",
+    "course_code": "441",
+    "credit": "1-2",
+    "course_name": "Intensive Seminar II",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Honours/Pass/Fail grading. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 442": {
+    "subject_code": "LAW",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Condominium Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues over the lifecycle of condominium/strata property from creation and development, through operating life, to termination. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 443": {
+    "subject_code": "LAW",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Creditors' Remedies",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Remedies of an unsecured creditor; fraudulent conveyances and preferences; builders' liens; bankruptcy. Credit will only be granted for one of LAW_V 443 or LAW_V 599. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 444": {
+    "subject_code": "LAW",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Insolvency Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to insolvency, receivership and bankruptcy. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 446": {
+    "subject_code": "LAW",
+    "course_code": "446",
+    "credit": "3",
+    "course_name": "Corporate Solicitors' Workshop",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduces students to the work of a corporate solicitor, including experience in planning, drafting and negotiating commercial transactions. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 447": {
+    "subject_code": "LAW",
+    "course_code": "447",
+    "credit": "1-3",
+    "course_name": "Topics in Commercial Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 447 or LAW_V 547. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 448": {
+    "subject_code": "LAW",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Sports Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to the sports industry and those who participate in it. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 448 or LAW_V 548. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 449": {
+    "subject_code": "LAW",
+    "course_code": "449",
+    "credit": "3",
+    "course_name": "Media and Entertainment Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected legal issues relating to the media and entertainment industries and their regulation. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 449 or LAW_V 573. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 450": {
+    "subject_code": "LAW",
+    "course_code": "450",
+    "credit": "1-3",
+    "course_name": "Topics in Sports, Media, Entertainment or Communications Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 451": {
+    "subject_code": "LAW",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Trusts",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "History and nature of trusts; express, resulting, implied and constructive trusts; charitable and purpose trusts; administration of trusts; breach of trust. Credit will be only be granted for one of LAW_V 451 or LAW_V 551. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 452": {
+    "subject_code": "LAW",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Succession",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law of wills and intestate succession, variation of wills, principles of probate and administration of estates. Credit will only be granted for one of LAW_V 452 or LAW_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 453": {
+    "subject_code": "LAW",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Equitable Remedies",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The history and development of equitable remedies such as specific performance, injunctions, declarations, relief against forfeiture, and tracing. Credit will only be granted for one of LAW_V 453 or LAW_V 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 454": {
+    "subject_code": "LAW",
+    "course_code": "454",
+    "credit": "1-3",
+    "course_name": "Topics in Trusts and Estates",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 455": {
+    "subject_code": "LAW",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Real Estate Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to the sale and purchase of land, real estate agency, and mortgages. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 456": {
+    "subject_code": "LAW",
+    "course_code": "456",
+    "credit": "1-3",
+    "course_name": "Topics in Corporate Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 456 or LAW_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 457": {
+    "subject_code": "LAW",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Real Estate Development",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A study of the legal aspects of the development of real estate projects such as shopping centres, sports centres and condominiums. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 458": {
+    "subject_code": "LAW",
+    "course_code": "458",
+    "credit": "1-3",
+    "course_name": "Topics in Real Property",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 459": {
+    "subject_code": "LAW",
+    "course_code": "459",
+    "credit": "3-4",
+    "course_name": "Business Organizations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A conceptual overview of business organizations in Canada, including partnerships and corporations, and the rights and duties of shareholders and directors. Credit will be granted for only one of LAW_V 459 or LAW_V 508. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 460": {
+    "subject_code": "LAW",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Advanced Corporate Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected topics such as the nature of shares, equity financing, corporate structure and reorganization, and shareholder squeezeouts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 461": {
+    "subject_code": "LAW",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Corporate Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal aspects of selected transactions relating to public corporations and corporate governance. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 462": {
+    "subject_code": "LAW",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Close Corporations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The corporation, taxation, accounting, insurance and estate planning aspects of the close corporation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 463": {
+    "subject_code": "LAW",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "Securities Regulation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to the distribution of securities. Continuous and timely disclosure requirements and civil liability. Credit will only be granted for one of LAW_V 463 or LAW_V 576. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 464": {
+    "subject_code": "LAW",
+    "course_code": "464",
+    "credit": "3",
+    "course_name": "Competition Policy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law and policy relating to the regulation of competition in Canada and other jurisdictions. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 465": {
+    "subject_code": "LAW",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Introduction to Corporate Finance",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Interdisciplinary elements of corporate finance and law, in both theory and practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 466": {
+    "subject_code": "LAW",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "Business Law Capstone",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Integration of theoretical and practical elements of business law. For students opting for the Business Law Concentration. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 467": {
+    "subject_code": "LAW",
+    "course_code": "467",
+    "credit": "1-3",
+    "course_name": "Topics in Corporate Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 467 or LAW_V 594. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 468": {
+    "subject_code": "LAW",
+    "course_code": "468",
+    "credit": "3",
+    "course_name": "Ethics and Professionalism",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Ethical dimensions of legal practice in Canada, including legislation, regulations, rules and cases, as well as the roles of lawyers, the legal profession and the legal system. Credit will be granted for only one of LAW_V 468 or LAW_V 588. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 469": {
+    "subject_code": "LAW",
+    "course_code": "469",
+    "credit": "3",
+    "course_name": "Civil Procedure",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Problems in the conduct of civil litigation including: ethical considerations; substantive problems such as notice, pleading, and discovery; and selected procedural problems. Credit will only be granted for one of LAW_V 469 or LAW_V 590. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 470": {
+    "subject_code": "LAW",
+    "course_code": "470",
+    "credit": "6",
+    "course_name": "Innocence Project",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Clinical program giving hands-on experience in reviewing claims of innocence post-conviction. Not offered every year; consult Faculty."
+  },
+  "LAW 471": {
+    "subject_code": "LAW",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Preventing Wrongful Convictions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Substantive legal principles and rules of evidence that can cause or help to prevent wrongful convictions or other miscarriages of justice. Roles of the participants in the criminal justice system. Not offered each year; consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 472": {
+    "subject_code": "LAW",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Advanced Trial Advocacy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Skills-training in all aspects of civil and criminal trial advocacy. Honours/Pass/Fail grading. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 473": {
+    "subject_code": "LAW",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Appellate Advocacy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Issues relating to advocacy before appellate courts; techniques of appellate advocacy. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 474": {
+    "subject_code": "LAW",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Trial Advocacy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Techniques of advocacy in civil and criminal cases including interviewing, pre-trial preparation, tactical analysis, development of facts, direct and cross examination and various ethical considerations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 475": {
+    "subject_code": "LAW",
+    "course_code": "475",
+    "credit": "2-4",
+    "course_name": "Competitive Trial Advocacy Credit",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Trial advocacy. Restricted to students participating in one or more faculty approved trial advocacy competitions. Students enrolled in this course must also be enrolled in LAW_V 474. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 476": {
+    "subject_code": "LAW",
+    "course_code": "476",
+    "credit": "3-4",
+    "course_name": "Evidence",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The admissibility and use of evidence in litigation. Credit will be granted for only one of LAW_V 476 or LAW_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 477": {
+    "subject_code": "LAW",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Negotiation and Dispute Resolution",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Negotiation and bargaining; formulation of general principles governing the negotiation process; negotiation in legal practice; alternative means of dispute resolution. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 478": {
+    "subject_code": "LAW",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Foundations of Dispute Resolution",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Theoretical premises underlying the dispute-resolving process; arbitration, other non-judicial means of resolving legal disputes, and their relationship to litigation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 479": {
+    "subject_code": "LAW",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "Mediation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Mediation of legal disputes; negotiation theory and practice as they relate to mediation. Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 481": {
+    "subject_code": "LAW",
+    "course_code": "481",
+    "credit": "1-3",
+    "course_name": "Topics in Litigation, Dispute Resolution and the Administration of Justice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 482": {
+    "subject_code": "LAW",
+    "course_code": "482",
+    "credit": "1-3",
+    "course_name": "Topics in Procedure and Evidence",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 483": {
+    "subject_code": "LAW",
+    "course_code": "483",
+    "credit": "2-6",
+    "course_name": "Moots and Advocacy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Appellate and related forms of advocacy. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 486": {
+    "subject_code": "LAW",
+    "course_code": "486",
+    "credit": "2",
+    "course_name": "Law Review Credit",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Editing and business operations by senior editors or the business manager for UBC Law Review, Canadian Journal of Family Law or any other equivalent legal journal based in the Allard School of Law. One time credit only; cannot be repeated. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 488": {
+    "subject_code": "LAW",
+    "course_code": "488",
+    "credit": "11",
+    "course_name": "Clinical Term",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Designed to explore the legal system in relation to disadvantaged members of society. Under supervision, students will act for clients in a range of legal matters and can expect to appear before courts and tribunals. Students will also work with community-based organisations. Credit will be granted for only one of LAW_V 488, LAW_V 490, or LAW_V 491. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 489": {
+    "subject_code": "LAW",
+    "course_code": "489",
+    "credit": "4",
+    "course_name": "Clinical Term: Paper",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The graded component of LAW_V 488. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 490": {
+    "subject_code": "LAW",
+    "course_code": "490",
+    "credit": "6",
+    "course_name": "Clinical Criminal Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Dealing with criminal files under the supervision of experienced lawyers. Credit will be granted for only one of LAW_V 488, LAW_V 490, or LAW_V 491. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 491": {
+    "subject_code": "LAW",
+    "course_code": "491",
+    "credit": "6",
+    "course_name": "Law Students Legal Advice Program Credit",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Restricted to a limited number of upper year students who (a) in their first or second year have participated in the provision of legal services to the public through the Law Students Legal Advice Program, and (b) continue that participation in their second or third year. Credit will be granted for only one of LAW_V 488, LAW_V 490, or LAW_V 491. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 493": {
+    "subject_code": "LAW",
+    "course_code": "493",
+    "credit": "2-4",
+    "course_name": "Directed Research",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Enrolment restricted. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 494": {
+    "subject_code": "LAW",
+    "course_code": "494",
+    "credit": "2-4",
+    "course_name": "Directed Research",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Enrolment restricted. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 495": {
+    "subject_code": "LAW",
+    "course_code": "495",
+    "credit": "2-4",
+    "course_name": "Directed Research",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Enrolment restricted. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 496": {
+    "subject_code": "LAW",
+    "course_code": "496",
+    "credit": "2-4",
+    "course_name": "Directed Research",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Enrolment restricted. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 500": {
+    "subject_code": "LAW",
+    "course_code": "500",
+    "credit": "4",
+    "course_name": "Current Legal Problems",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 501": {
+    "subject_code": "LAW",
+    "course_code": "501",
+    "credit": "2-8",
+    "course_name": "Directed Research",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Students will be able to undertake advanced research into a topic approved by a faculty member, under the supervision of and in consultation with, that faculty member. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 503": {
+    "subject_code": "LAW",
+    "course_code": "503",
+    "credit": "5-6",
+    "course_name": "Tort Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 504": {
+    "subject_code": "LAW",
+    "course_code": "504",
+    "credit": "5-6",
+    "course_name": "Property Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 505": {
+    "subject_code": "LAW",
+    "course_code": "505",
+    "credit": "5",
+    "course_name": "Canadian Public Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 506": {
+    "subject_code": "LAW",
+    "course_code": "506",
+    "credit": "4",
+    "course_name": "Taxation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Law and practice of income and capital gains taxes. Credit will be granted for only one of LAW_V 506 or LAW_V 407. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 507": {
+    "subject_code": "LAW",
+    "course_code": "507",
+    "credit": "4",
+    "course_name": "Evidence",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The admissibility and use of evidence in litigation. Credit will be granted for only one of LAW_V 507 or LAW_V 476. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 508": {
+    "subject_code": "LAW",
+    "course_code": "508",
+    "credit": "3-4",
+    "course_name": "Business Organizations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A conceptual overview of business organizations in Canada, including partnerships and corporations, and the rights and duties of shareholders and directors. Credit will be granted for only one of LAW_V 508 or LAW_V 459. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 509": {
+    "subject_code": "LAW",
+    "course_code": "509",
+    "credit": "4",
+    "course_name": "Administrative Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Study of the external control of public actors exercising statutory authority. Introduction to general principles of procedural and substantive judicial review, delegated authority and subordinate legislation, remedies, and administrative processes. Credit will be granted for only one of LAW_V 372 or LAW_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 510": {
+    "subject_code": "LAW",
+    "course_code": "510",
+    "credit": "2-4",
+    "course_name": "Sentencing",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Comparative sentencing structures; competing sentencing philosophies and principles; the exercise of discretion; sentencing law and practice; sentencing advocacy; aids to sentencing, such as computerized information systems; prescriptive guidelines; problematic issues in sentencing, such as wife and child abuse. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 511": {
+    "subject_code": "LAW",
+    "course_code": "511",
+    "credit": "2-4",
+    "course_name": "International Criminal Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Analysis of topics such as jurisdiction, immunity from prosecution, mutual assistance in penal matters, recognition and enforcement of foreign penal laws, and international police cooperation; examination of selected offences such as war crimes, crimes against humanity, genocide, terrorism, illicit drug trafficking, and torture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 515": {
+    "subject_code": "LAW",
+    "course_code": "515",
+    "credit": "5",
+    "course_name": "Canadian Private Law: Contractual Obligations and Remedies",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 518": {
+    "subject_code": "LAW",
+    "course_code": "518",
+    "credit": "2-4",
+    "course_name": "Feminist Legal Studies: Key Themes and Current Debates",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Diverse theoretical perspectives, key resources for feminist research on law, and the viability of different strategies or methods of engaging with law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 519": {
+    "subject_code": "LAW",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Individual Employment Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal aspects of employment relationships other than those arising by collective bargaining. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 519 or LAW_V 419. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 520": {
+    "subject_code": "LAW",
+    "course_code": "520",
+    "credit": "1-3",
+    "course_name": "Topics in Intellectual Property - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW 420 or LAW 520. This course may be graded as Honours/Pass/Fail or percentage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 521": {
+    "subject_code": "LAW",
+    "course_code": "521",
+    "credit": "2-4",
+    "course_name": "Law and Development",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Law and legal institutions in development policy and practice; multilateral, state and NGO perspectives. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 522": {
+    "subject_code": "LAW",
+    "course_code": "522",
+    "credit": "2-4",
+    "course_name": "Modern Legal Culture: Historical Explorations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Aspects of the history of ideas relating to law in North America and elsewhere. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 523": {
+    "subject_code": "LAW",
+    "course_code": "523",
+    "credit": "1-3",
+    "course_name": "Topics in Intellectual Property - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 523 or LAW_V 423. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 524": {
+    "subject_code": "LAW",
+    "course_code": "524",
+    "credit": "2-4",
+    "course_name": "Methodologies in Law and Policy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 525": {
+    "subject_code": "LAW",
+    "course_code": "525",
+    "credit": "5",
+    "course_name": "Canadian Criminal Law and Procedure",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 530": {
+    "subject_code": "LAW",
+    "course_code": "530",
+    "credit": "4",
+    "course_name": "Advanced Legal Research and Writing",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 537": {
+    "subject_code": "LAW",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Commercial Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law of sale of goods, bills of exchange, promissory notes, and cheques. Credit will only be granted for one of LAW_V 537 or LAW_V 437. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 538": {
+    "subject_code": "LAW",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Secured Transactions",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law governing the creation, perfection and enforcement of security interests in personal property. Credit will only be granted for one of LAW_V 538 or LAW_V 438. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 539": {
+    "subject_code": "LAW",
+    "course_code": "539",
+    "credit": "1-3",
+    "course_name": "Topics in Constitutional Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Credit will only be granted for one of LAW_V 349 or LAW_V 539. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 540": {
+    "subject_code": "LAW",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Insurance Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The general legal principles of life, automobile, fire and other types of insurance; the regulation of the insurance industry. Credit will only be granted for one of LAW_V 540 or LAW_V 440. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 543": {
+    "subject_code": "LAW",
+    "course_code": "543",
+    "credit": "1-3",
+    "course_name": "Topics in Public Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Credit will only be granted for one of LAW_V 543 or LAW_V 343. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 545": {
+    "subject_code": "LAW",
+    "course_code": "545",
+    "credit": "1-3",
+    "course_name": "Topics in Taxation - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 546": {
+    "subject_code": "LAW",
+    "course_code": "546",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Private and Commercial Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 547": {
+    "subject_code": "LAW",
+    "course_code": "547",
+    "credit": "1-3",
+    "course_name": "Topics in Commercial Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 447 or LAW_V 547. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 548": {
+    "subject_code": "LAW",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Sports Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues relating to the sports industry and those who participate in it. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 548 or LAW_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 549": {
+    "subject_code": "LAW",
+    "course_code": "549",
+    "credit": "20",
+    "course_name": "Master's Thesis",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 550": {
+    "subject_code": "LAW",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Taxation of Corporate Reorganizations",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of statutory and judicial rules governing the taxation of corporate reorganizations. Credit will be granted for only one of LAW_V 414 or LAW_V 550. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 551": {
+    "subject_code": "LAW",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Trusts",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "History and nature of trusts; express, resulting, implied and constructive trusts; charitable and purpose trusts; administration of trusts; breach of trust. Credit will only be granted for one of LAW_V 551 or LAW_V 451. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 552": {
+    "subject_code": "LAW",
+    "course_code": "552",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Public Law I",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 553": {
+    "subject_code": "LAW",
+    "course_code": "553",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Public Law II",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 554": {
+    "subject_code": "LAW",
+    "course_code": "554",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Comparative and International Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 555": {
+    "subject_code": "LAW",
+    "course_code": "555",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Legal Theory and Practice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 556": {
+    "subject_code": "LAW",
+    "course_code": "556",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Private and Commercial Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 557": {
+    "subject_code": "LAW",
+    "course_code": "557",
+    "credit": "1-4",
+    "course_name": "Topics in Common Law Theory and Practice: Human and Group Rights Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 558": {
+    "subject_code": "LAW",
+    "course_code": "558",
+    "credit": "1-3",
+    "course_name": "Topics in First Nations Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Credit will only be granted for one of LAW_V 358 or LAW_V 558. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 559": {
+    "subject_code": "LAW",
+    "course_code": "559",
+    "credit": "3-4",
+    "course_name": "Family Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to family relationships, including the law of marriage, divorce, maintenance, custody, matrimonial property, and related matters. Credit will only be granted for one of LAW_V 359 or LAW_V 559. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 560": {
+    "subject_code": "LAW",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Seminar in Topics in Common Law Theory and Practice",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Completion of an upper-level 300- or 400-level J.D. seminar or workshop course 4 credit minimum, completion of a substantial research paper consisting of an advanced analysis relating to the subject matter of the particular seminar or workshop. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 561": {
+    "subject_code": "LAW",
+    "course_code": "561",
+    "credit": "6",
+    "course_name": "Fundamental Concepts in Tax Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Introduction to key concepts in comparative and Canadian tax law. Credit will be granted for only one of LAW_V 407 or LAW_V 506 or LAW_V 561. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 562": {
+    "subject_code": "LAW",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Taxation of Corporations and Shareholders",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of statutory provisions and judicial decisions governing the taxation of corporations and shareholders. Credit will be granted for only one of LAW_V 408 or LAW_V 562. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 563": {
+    "subject_code": "LAW",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Taxation of Partnerships",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Survey of statutory and judicial rules governing the taxation of income earned through partnerships. Credit will be granted for only one of LAW_V 409 or LAW_V 563. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 564": {
+    "subject_code": "LAW",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Taxation of Trusts and Estates",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will be granted for only one of LAW_V 412 or LAW_V 564. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 565": {
+    "subject_code": "LAW",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "International Taxation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The tax aspects of international transactions. Credit will be granted for only one of LAW_V 410 or LAW_V 565. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 566": {
+    "subject_code": "LAW",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Tax Policy",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The policies underlying the creation and implementation of tax laws. Credit will be granted for only one of LAW_V 411 or LAW_V 566. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 567": {
+    "subject_code": "LAW",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Tax Administration and Dispute Resolution",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will be granted for only one of LAW_V 413 or LAW_V 567. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 568": {
+    "subject_code": "LAW",
+    "course_code": "568",
+    "credit": "1-4",
+    "course_name": "Topics in Taxation - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 569": {
+    "subject_code": "LAW",
+    "course_code": "569",
+    "credit": "1-4",
+    "course_name": "Topics in International Taxation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 570": {
+    "subject_code": "LAW",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Intellectual Property",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Copyright, patents, trade marks, industrial design, the protection of computer software, and torts such as passing-off and breach of confidence. Credit will only be granted for one of LAW_V 570 or LAW_V 422. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 571": {
+    "subject_code": "LAW",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Communications Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected legal issues relating to the communications industries and their regulation. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 571 or LAW_V 424. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 572": {
+    "subject_code": "LAW",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Cyberspace Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal issues arising from the development of the Internet and cyberspace. Credit will only be granted for one of LAW_V 572 or LAW_V 425. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 573": {
+    "subject_code": "LAW",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Media and Entertainment Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Selected legal issues relating to the media and entertainment industries and their regulation. Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 449 or LAW_V 573. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 574": {
+    "subject_code": "LAW",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Succession",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law of wills and intestate succession, variation of wills, principles of probate and administration of estates. Credit will only be granted for one of LAW_V 452 or LAW_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 575": {
+    "subject_code": "LAW",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Equitable Remedies",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The history and development of equitable remedies such as specific performance, injunctions, declarations, relief against forfeiture, and tracing. Credit will only be granted for one of LAW_V 575 or LAW_V 453. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 576": {
+    "subject_code": "LAW",
+    "course_code": "576",
+    "credit": "3",
+    "course_name": "Securities Regulation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The law relating to the distribution of securities. Continuous and timely disclosure requirements and civil liability. Credit will only be granted for one of LAW_V 576 or LAW_V 463. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 577": {
+    "subject_code": "LAW",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Immigration Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Admission of immigrants into Canada; refugee protection; practice and procedure before immigration tribunals and the courts. Credit will only be granted for one of LAW_V 577 or LAW_V 377. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 578": {
+    "subject_code": "LAW",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Refugee Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "International and Canadian refugee law; the Refugee Convention and its implementation in Canada; the practice of refugee law in Canadian courts and tribunals. Course content does not duplicate LAW_V 377. Credit will only be given to one of LAW_V 578 or LAW_V 378. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 579": {
+    "subject_code": "LAW",
+    "course_code": "579",
+    "credit": "1-3",
+    "course_name": "Topics in First Nations Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 357 or LAW_V 579. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 586": {
+    "subject_code": "LAW",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Sustainable Development Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The linkages, intersections, and tensions between the legal regulation of the environment and competing social and economic priorities. Credit will only be granted for one of LAW_V 586 or LAW_V 386. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 587": {
+    "subject_code": "LAW",
+    "course_code": "587",
+    "credit": "3-4",
+    "course_name": "Environmental Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A foundation course dealing with the regulatory and policy framework for the protection of the environment in Canada, such as pollution control and biodiversity conservation. Credit will only be granted for one of LAW_V 587 or LAW_V 387. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 588": {
+    "subject_code": "LAW",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Ethics and Professionalism",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "The ethical dimensions of legal practice in Canada, including legislation, regulations, rules of professional conduct and cases, and the roles of lawyers, the legal profession and the legal system including their role in securing access to justice. Credit will be granted for only one of LAW_V 588 or LAW_V 468. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 590": {
+    "subject_code": "LAW",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Civil Procedure",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Problems in the conduct of civil litigation including: ethical considerations; substantive problems such as notice, pleading, and discovery; and selected procedural problems. Credit will only be granted for one of LAW_V 590 or LAW_V 469. [2-0] or [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 591": {
+    "subject_code": "LAW",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Environmental Law Workshop",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Legal research and writing for environmental agency or NGO under supervision of faculty member and lawyer. Not offered every year, consult Faculty. Credit will only be granted for one of LAW_V 591 or LAW_V 390. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 592": {
+    "subject_code": "LAW",
+    "course_code": "592",
+    "credit": "3",
+    "course_name": "Conflict of Laws",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "A study of the private legal problems arising in cases in which the relevant facts cut across provincial or national boundaries. Credit will only be granted to one of LAW_V 325 or LAW_V 592. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 594": {
+    "subject_code": "LAW",
+    "course_code": "594",
+    "credit": "1-3",
+    "course_name": "Topics in Corporate Law - Seminar",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 467 or LAW_V 594. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 595": {
+    "subject_code": "LAW",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Forest Law",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Acquisition of timber interests; development, financing and organization of timber companies; regulation of exploitation industry interests; management taxation. Not offered each year; consult Faculty. Credit will only be granted for one of LAW_V 595 or LAW_V 395. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 596": {
+    "subject_code": "LAW",
+    "course_code": "596",
+    "credit": "1-3",
+    "course_name": "Topics in Corporate Law - Lecture",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Not offered each year, consult Faculty. Credit will only be granted for one of LAW_V 456 or LAW_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 599": {
+    "subject_code": "LAW",
+    "course_code": "599",
+    "credit": "3",
+    "course_name": "Creditors' Remedies",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Remedies of an unsecured creditor; fraudulent conveyances and preferences; builders' liens; bankruptcy. Credit will only be granted for one of LAW_V 599 or LAW_V 443. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 610": {
+    "subject_code": "LAW",
+    "course_code": "610",
+    "credit": "2-4",
+    "course_name": "Doctoral Seminar I: Issues in Legal Theory",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Including law and feminism, Marxism, post-modernism, social theory, law and the state; legal liberalism and its critics, and other jurisprudential discourses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 611": {
+    "subject_code": "LAW",
+    "course_code": "611",
+    "credit": "2-4",
+    "course_name": "Doctoral Seminar II: Comparative and Interdisciplinary Perspectives on Legal Theory",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "Applicability of legal concepts in different cultures and societies, and the consequences for the form and structure of law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LAW 649": {
+    "subject_code": "LAW",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Peter A. Allard School of Law",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,250 @@
+{
+  "BIOT 201": {
+    "subject_code": "BIOT",
+    "course_code": "201",
+    "credit": "0",
+    "course_name": "Lab Safety",
+    "faculty": "Faculty of Science",
+    "description": "Enrolment limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 1371."
+  },
+  "BIOT 203": {
+    "subject_code": "BIOT",
+    "course_code": "203",
+    "credit": "2",
+    "course_name": "Introduction to Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 3210."
+  },
+  "BIOT 205": {
+    "subject_code": "BIOT",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Microbiology I",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 3201."
+  },
+  "BIOT 206": {
+    "subject_code": "BIOT",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Microbiology II",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 4201."
+  },
+  "BIOT 207": {
+    "subject_code": "BIOT",
+    "course_code": "207",
+    "credit": "3",
+    "course_name": "Principles of Animal Physiology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 3260."
+  },
+  "BIOT 208": {
+    "subject_code": "BIOT",
+    "course_code": "208",
+    "credit": "2",
+    "course_name": "Plant Anatomy and Physiology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 4260."
+  },
+  "BIOT 210": {
+    "subject_code": "BIOT",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Animal Cell Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 4230."
+  },
+  "BIOT 221": {
+    "subject_code": "BIOT",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Organic Chemistry I for Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT CHEM 3338."
+  },
+  "BIOT 222": {
+    "subject_code": "BIOT",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Organic Chemistry II for Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT CHEM 4438."
+  },
+  "BIOT 231": {
+    "subject_code": "BIOT",
+    "course_code": "231",
+    "credit": "2",
+    "course_name": "Communications for Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT COMM 3343."
+  },
+  "BIOT 232": {
+    "subject_code": "BIOT",
+    "course_code": "232",
+    "credit": "0",
+    "course_name": "Communication Workshop",
+    "faculty": "Faculty of Science",
+    "description": "Enrolment limited to students in the Joint Degree Program in Biotechnology. Same as BCIT COMM 4443."
+  },
+  "BIOT 241": {
+    "subject_code": "BIOT",
+    "course_code": "241",
+    "credit": "1",
+    "course_name": "Basic Statistics and Information Technology for Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Enrolment limited to students in the Joint Degree Program in Biotechnology. Same as BCIT MATH 2444."
+  },
+  "BIOT 242": {
+    "subject_code": "BIOT",
+    "course_code": "242",
+    "credit": "2",
+    "course_name": "Inferential Statistics and Research Methodology for Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT MATH 4442."
+  },
+  "BIOT 280": {
+    "subject_code": "BIOT",
+    "course_code": "280",
+    "credit": "0",
+    "course_name": "Introductory Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Block registration for the biotechnology, microbiology, physiology, communication for biotechnology, organic chemistry, information technology, plant anatomy, plant physiology and cell biology courses taken in the Joint BCIT/UBC Degree in Biotechnology. Credit limited to students in the Joint Degree Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOT 306": {
+    "subject_code": "BIOT",
+    "course_code": "306",
+    "credit": "2",
+    "course_name": "Microbiology III",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 6201."
+  },
+  "BIOT 307": {
+    "subject_code": "BIOT",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Molecular Genetics I",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 5220."
+  },
+  "BIOT 308": {
+    "subject_code": "BIOT",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Molecular Genetics II",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 6220."
+  },
+  "BIOT 309": {
+    "subject_code": "BIOT",
+    "course_code": "309",
+    "credit": "2",
+    "course_name": "Advanced Plant Cell Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 5230."
+  },
+  "BIOT 310": {
+    "subject_code": "BIOT",
+    "course_code": "310",
+    "credit": "2",
+    "course_name": "Process Systems",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 5361."
+  },
+  "BIOT 311": {
+    "subject_code": "BIOT",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Biochemistry I",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 5240."
+  },
+  "BIOT 312": {
+    "subject_code": "BIOT",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Biochemistry II",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 6240."
+  },
+  "BIOT 313": {
+    "subject_code": "BIOT",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Introduction to Pharmaceutical Development",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 5250."
+  },
+  "BIOT 323": {
+    "subject_code": "BIOT",
+    "course_code": "323",
+    "credit": "2",
+    "course_name": "Analytical Chemistry I",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT CHEM 5509."
+  },
+  "BIOT 324": {
+    "subject_code": "BIOT",
+    "course_code": "324",
+    "credit": "2",
+    "course_name": "Analytical Chemistry II",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT CHEM 6609."
+  },
+  "BIOT 331": {
+    "subject_code": "BIOT",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Critical Reading & Writing",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT LIBS 7001."
+  },
+  "BIOT 351": {
+    "subject_code": "BIOT",
+    "course_code": "351",
+    "credit": "0",
+    "course_name": "Management Skills and Applications",
+    "faculty": "Faculty of Science",
+    "description": "Enrolment limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BUSA 7250."
+  },
+  "BIOT 352": {
+    "subject_code": "BIOT",
+    "course_code": "352",
+    "credit": "2",
+    "course_name": "Management and Regulatory Affairs",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT BIOT 6270."
+  },
+  "BIOT 361": {
+    "subject_code": "BIOT",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Applied Ethics",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology. Same as BCIT LIBS 7002."
+  },
+  "BIOT 380": {
+    "subject_code": "BIOT",
+    "course_code": "380",
+    "credit": "0",
+    "course_name": "Advanced Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Block registration for the microbiology, molecular genetics, biochemistry, management and regulatory affairs, process systems, analytical chemistry and communication courses taken in the BCIT/UBC Joint Degree in Biotechnology. Credit limited to students in the Joint Degree Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOT 398": {
+    "subject_code": "BIOT",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology."
+  },
+  "BIOT 399": {
+    "subject_code": "BIOT",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Science",
+    "description": "Credit limited to students in the Joint Degree Program in Biotechnology."
+  }
+}

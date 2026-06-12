@@ -1,0 +1,18 @@
+{
+  "ASLA 300": {
+    "subject_code": "ASLA",
+    "course_code": "300",
+    "credit": "6",
+    "course_name": "Studies in an Asian Language (Basic Course)",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the fundamentals of an Asian language not normally taught in the Department. Not given every year. Consult the Department for details."
+  },
+  "ASLA 400": {
+    "subject_code": "ASLA",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Studies in an Asian Language (Intermediate Course)",
+    "faculty": "Faculty of Arts",
+    "description": "Recommended pre-requisite: ASLA 300, permission of the instructor is also acceptable."
+  }
+}

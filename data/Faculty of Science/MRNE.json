@@ -1,0 +1,138 @@
+{
+  "MRNE 400": {
+    "subject_code": "MRNE",
+    "course_code": "400",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Science",
+    "description": "A research project approved by the supervisor in the field of interest of the student designed to take advantage of the opportunities offered by the Bamfield Marine Sciences Centre. Note: the supervisor may be teaching at the Marine Centre; or a member of faculty of WCUMSS whether at the Marine Centre as a research investigator or as one of the members of WCUMSS."
+  },
+  "MRNE 401": {
+    "subject_code": "MRNE",
+    "course_code": "401",
+    "credit": "6",
+    "course_name": "Special Topics in Marine Biology",
+    "faculty": "Faculty of Science",
+    "description": "This course will be offered, as opportunities arise, by distinguished scientists visiting at the Bamfield Marine Sciences Centre. It is expected that the course will generally be of a specialized nature and be at a level appropriate to graduate or senior undergraduate students."
+  },
+  "MRNE 402": {
+    "subject_code": "MRNE",
+    "course_code": "402",
+    "credit": "3-12",
+    "course_name": "Special Topics in Marine Biology",
+    "faculty": "Faculty of Science",
+    "description": "This course will be offered, as opportunities arise, by distinguished scientists visiting at the Bamfield Marine Sciences Centre. This course will be of a specialized nature and at a level appropriate to graduate or senior undergraduate students."
+  },
+  "MRNE 410": {
+    "subject_code": "MRNE",
+    "course_code": "410",
+    "credit": "6",
+    "course_name": "Marine Invertebrate Zoology",
+    "faculty": "Faculty of Science",
+    "description": "A survey of the marine phyla, with emphasis on the benthic fauna in the vicinity of the Marine Station. The course includes lectures, laboratory periods, field collection, identification and observation. Emphasis is placed on the study of living specimens in the laboratory and in the field."
+  },
+  "MRNE 411": {
+    "subject_code": "MRNE",
+    "course_code": "411",
+    "credit": "6",
+    "course_name": "Comparative Invertebrate Embryology",
+    "faculty": "Faculty of Science",
+    "description": "A comprehensive study of development of marine invertebrates available at the Bamfield Marine Sciences Centre, including all major phyla and most of the minor phyla. Prerequisite: course in invertebrates or embryology."
+  },
+  "MRNE 412": {
+    "subject_code": "MRNE",
+    "course_code": "412",
+    "credit": "6",
+    "course_name": "Biology of Fishes",
+    "faculty": "Faculty of Science",
+    "description": "Classification, physiology, ecology, behaviour and zoogeography of fishes with particular emphasis on those in the marine environment of the British Columbia coast. Prerequisite: A course in comparative vertebrate anatomy."
+  },
+  "MRNE 415": {
+    "subject_code": "MRNE",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Structure and Function in Marine Animals",
+    "faculty": "Faculty of Science",
+    "description": "Principles of classification, evolution, morphology, biomechanics, physiology and biochemistry will be illustrated in representatives from a variety of animal phyla. [3-3-0] Prerequisite: Completion of second year in a biology program."
+  },
+  "MRNE 420": {
+    "subject_code": "MRNE",
+    "course_code": "420",
+    "credit": "6",
+    "course_name": "Marine Phycology",
+    "faculty": "Faculty of Science",
+    "description": "A survey of the marine algae, with emphasis on the benthic forms in the vicinity of the Marine Centre. The course includes lectures, laboratory periods, field collection, identification and observation. Emphasis is placed on the study of living specimens in the laboratory and in the field."
+  },
+  "MRNE 425": {
+    "subject_code": "MRNE",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Ecological Adaptations of Seaweeds",
+    "faculty": "Faculty of Science",
+    "description": "Morphological, physiological, genetic and reproductive adaptations of seaweeds to their environments. [3-3-0] Prerequisite: Completion of second year in a biology program."
+  },
+  "MRNE 430": {
+    "subject_code": "MRNE",
+    "course_code": "430",
+    "credit": "6",
+    "course_name": "Marine Ecology",
+    "faculty": "Faculty of Science",
+    "description": "An analytical approach to biotic associations in the marine environment. Opportunities are provided for study of the intertidal realm in exposed and protected areas, and of beaches and estuaries in the vicinity of the Marine Centre; plankton studies and investigations of the subtidal and benthic environments by diving and dredging are envisaged."
+  },
+  "MRNE 435": {
+    "subject_code": "MRNE",
+    "course_code": "435",
+    "credit": "6",
+    "course_name": "Introduction to Biological Oceanography",
+    "faculty": "Faculty of Science",
+    "description": "An introduction to the biology of oceans, with supporting coverage of relevant physics and chemistry. Emphasis will be placed on plankton biology, community structure and life histories, and influencing environmental factors. Collections will be made from sheltered inlets, through Barkely Sound to offshore waters. The course will involve both field and laboratory. Prerequisite: All of BIOL_V 320, BIOL_V 205"
+  },
+  "MRNE 437": {
+    "subject_code": "MRNE",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Population and Community Ecology of Marine Organisms",
+    "faculty": "Faculty of Science",
+    "description": "Emphasis on interactions among organisms and between organisms and their physiochemical environment, and on biological diversity. [3-3-0] Prerequisite: Completion of second year in a biology program."
+  },
+  "MRNE 440": {
+    "subject_code": "MRNE",
+    "course_code": "440",
+    "credit": "6",
+    "course_name": "Biology of Marine Birds",
+    "faculty": "Faculty of Science",
+    "description": "Study of interrelationship of birds and the marine environment. Census techniques and observation of birds in the field will be emphasized. Prerequisite: Completion of a course in vertebrate zoology or permission of the instructor."
+  },
+  "MRNE 445": {
+    "subject_code": "MRNE",
+    "course_code": "445",
+    "credit": "6",
+    "course_name": "Biology of Marine Mammals",
+    "faculty": "Faculty of Science",
+    "description": "Survey course covering systematics and distribution of marine mammals, their sensory capabilities and physiology, with special emphasis on the Cetacea. The course will involve an independent field study. Prerequisite: Introductory vertebrate zoology."
+  },
+  "MRNE 480": {
+    "subject_code": "MRNE",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Seminars and Papers in Marine Science",
+    "faculty": "Faculty of Science",
+    "description": "Instruction in the critical analysis of published research papers and of oral seminars. [2-2-0] Prerequisite: Completion of second year in a biology program."
+  },
+  "MRNE 501": {
+    "subject_code": "MRNE",
+    "course_code": "501",
+    "credit": "6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Science",
+    "description": "6 weeks. Offered, as opportunities arise, by distinguished scientists who are visiting at the Bamfield Marine Sciences Centre. The course will be of a specialized nature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MRNE 502": {
+    "subject_code": "MRNE",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Science",
+    "description": "3 weeks. Offered, as opportunities arise, by distinguished scientists who are visiting at the Bamfield Marine Sciences Centre. The course will be of a specialized nature. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "WRDS 150": {
+    "subject_code": "WRDS",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Writing and Research in the Disciplines",
+    "faculty": "Faculty of Arts",
+    "description": "Writing and reading in disciplines across the academy, focusing on practices that research disciplines share and those that differentiate them. Restricted to students not in the Faculty of Arts. Credit can be granted for only one of WRDS_V 150 or WRDS_V 151. Equivalency: WRDS_V 151. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WRDS 151": {
+    "subject_code": "WRDS",
+    "course_code": "151",
+    "credit": "3",
+    "course_name": "Writing and Research in the Disciplines",
+    "faculty": "Faculty of Arts",
+    "description": "Writing and reading in disciplines across the academy, focusing on practices that research disciplines share and those that differentiate them. Restricted to students in the Faculty of Arts. Credit can be granted for only one of WRDS_V 150 or WRDS_V 151. Equivalency: WRDS_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WRDS 200": {
+    "subject_code": "WRDS",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Writing and Communication Foundations",
+    "faculty": "Faculty of Arts",
+    "description": "Key principles of writing and communication and issues currently debated in the field of Writing Studies. The role of writing and communication in making knowledge, constructing identity, and exercising power. Restricted to students with second year standing or above."
+  },
+  "WRDS 250": {
+    "subject_code": "WRDS",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Evaluating Knowledge Production and Mobilization",
+    "faculty": "Faculty of Arts",
+    "description": "Critical and practical questions about how discourse communities construct and mobilize knowledge. The evaluation of knowledge as information/misinformation. How the evaluation of information is shaped by discursive contexts, rhetorical goals, and communication forms. Prerequisite: One of ASTU_V 100, ASTU_V 101, CAP_V 100, WRDS_V 150, WRDS_V 151, WRDS_V 350."
+  },
+  "WRDS 340": {
+    "subject_code": "WRDS",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Multimodal Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Creation of multimodal texts, including audio, visual, and alphabetical modes, for different audiences, purposes, and contexts. Examines the impact of digital technologies on writers' considerations of purpose, audience, design, accessibility and ethics. Restricted to students with at least third year standing. Prerequisite: 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100."
+  },
+  "WRDS 350": {
+    "subject_code": "WRDS",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Knowledge-Making in the Disciplines",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced scholarly research and writing course that allows students to build on their existing knowledge of academic research and writing practices by studying specific features of scholarly writing relevant to their own interests and disciplines. Prerequisite: Restricted to students with at least 3rd-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WRDS 360": {
+    "subject_code": "WRDS",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Knowledge Popularization: Research Writing in New Media",
+    "faculty": "Faculty of Arts",
+    "description": "Rhetorical purposes, moves and features of new media genres that use or transform research for public audiences. Provides opportunities for students to analyze, critically assess, and produce these genres themselves. Restricted to students with third year standing or above. Prerequisites: 3 credits from one of Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100, WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196."
+  },
+  "WRDS 370": {
+    "subject_code": "WRDS",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Research Writing and Marginalization",
+    "faculty": "Faculty of Arts",
+    "description": "Examines how marginalized groups are positioned in research writing. Focuses on the role of power, knowledge, and ethics in shaping language features and textual structures of research writing. Prerequisite: Third year standing and 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100."
+  },
+  "WRDS 380": {
+    "subject_code": "WRDS",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Research Writing and Community Engagement",
+    "faculty": "Faculty of Arts",
+    "description": "Examines models of communication, engagement, and knowledge sharing between university researchers and other communities. Applies scholarly research to community-engaged work that incorporates ethical communication and reflection. Restricted to students with third year standing or above. Prerequisite: 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100."
+  },
+  "WRDS 390": {
+    "subject_code": "WRDS",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Writing Disability",
+    "faculty": "Faculty of Arts",
+    "description": "Explores Disability theories, to understand their connections to writing and discourse studies. Prerequisite: Third year standing and 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100 ."
+  },
+  "WRDS 395": {
+    "subject_code": "WRDS",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Working with Writers: Consulting and Editing",
+    "faculty": "Faculty of Arts",
+    "description": "Key principles and strategies for providing feedback on scholarly and professional writing. Explores writing consultation and editing as distinct professional practices. Restricted to students with third year standing or above. Prerequisites: 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, NRES_V 150, FRST_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100, CAP_V 101."
+  },
+  "WRDS 400": {
+    "subject_code": "WRDS",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Writing and Communication Capstone",
+    "faculty": "Faculty of Arts",
+    "description": "Critical assessment of approaches to writing and communication. Key principles of the field applied to public and professional domains relevant to students' future work, studies, service, or work. Restricted to students enrolled in the Minor in Writing and Communication. Prerequisite: WRDS_V 200. and 6 credits of WRDS_V courses at the 300-or 400-level"
+  },
+  "WRDS 450": {
+    "subject_code": "WRDS",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Writing Practices for Publics & Publications",
+    "faculty": "Faculty of Arts",
+    "description": "Writing processes and strategies conducive to developing larger, long-term research projects into genres of writing intended to publicly engage with scholars, activists, and intellectuals. Restricted to students with third year standing or above. Prerequisite: 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100."
+  },
+  "WRDS 498": {
+    "subject_code": "WRDS",
+    "course_code": "498",
+    "credit": "3-6",
+    "course_name": "Special Topics in Writing Studies",
+    "faculty": "Faculty of Arts",
+    "description": "In-depth study of selected topics in Writing Studies. Topics vary year-by-year. Restricted to students with third-year standing or higher. Prerequisite: 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100."
+  },
+  "WRDS 499": {
+    "subject_code": "WRDS",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Writing Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Individual project on a topic of interest in Writing Studies, completed under the guidance and supervision of a UBC faculty member with relevant expertise. Restricted to students with third-year standing or higher and approval from the WRDS Chair. Prerequisite: 3 credits from one of WRDS_V 150, WRDS_V 151, WRDS_V 350, ENGL_V 100, SCIE_V 113, SCIE_V 300, CHEM_V 300, APSC_V 176, LFS_V 150, FRST_V 150, NRES_V 150, COMM_V 196, Arts One, ASTU_V 100, ASTU_V 101, CAP_V 100."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "DMED 500": {
+    "subject_code": "DMED",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Foundations of Digital Entertainment",
+    "faculty": "Faculty of Arts",
+    "description": "Business, technological, social, and ethical issues of digital entertainment introduced and framed though historical exploration and critical analysis of economics, technical innovations, social demands, and ethical constraints involved. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 501": {
+    "subject_code": "DMED",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Visual Story",
+    "faculty": "Faculty of Arts",
+    "description": "The many facets of storytelling are explored, with an emphasis on development of narrative using shape, colour, line, texture, and composition, as well as text and sound. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 502": {
+    "subject_code": "DMED",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Improvising Story and Character",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of improvisational acting are used to develop collaborative and creative skills in building dramatic themes, narratives, and characters. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 503": {
+    "subject_code": "DMED",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Foundations of Game Design",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of games as rules, games as play, and games as culture. Students make both physical and electronic games as part of this course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 510": {
+    "subject_code": "DMED",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Financing and Distribution of Digital Entertainment",
+    "faculty": "Faculty of Arts",
+    "description": "Methods of financing and distributing video games, mobile content, theatrical feature films, television projects, and series. Drafting and negotiating contracts and intellectual property law related to digital entertainment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 520": {
+    "subject_code": "DMED",
+    "course_code": "520",
+    "credit": "6",
+    "course_name": "Projects I: Building Virtual Worlds",
+    "faculty": "Faculty of Arts",
+    "description": "Student teams design and implement an artifact in a virtual environment. Management and business aspects of team-based creation are studied. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 521": {
+    "subject_code": "DMED",
+    "course_code": "521",
+    "credit": "12",
+    "course_name": "Projects II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 522": {
+    "subject_code": "DMED",
+    "course_code": "522",
+    "credit": "12",
+    "course_name": "Projects III",
+    "faculty": "Faculty of Arts",
+    "description": "Pre- or Co-requisite: DMED_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 523": {
+    "subject_code": "DMED",
+    "course_code": "523",
+    "credit": "12",
+    "course_name": "Projects IV",
+    "faculty": "Faculty of Arts",
+    "description": "Pre- or Co-requisite: DMED_V 522. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 530": {
+    "subject_code": "DMED",
+    "course_code": "530",
+    "credit": "6",
+    "course_name": "Internship",
+    "faculty": "Faculty of Arts",
+    "description": "Full-time work experience related to digital media or entertainment technology, outside the university. Students learn effective communication, collaboration, project management, and team cooperation. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 540": {
+    "subject_code": "DMED",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Special Projects in Digital Media I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 541": {
+    "subject_code": "DMED",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Special Projects in Digital Media II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DMED 550": {
+    "subject_code": "DMED",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Directed Studies in Digital Media",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

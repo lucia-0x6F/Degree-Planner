@@ -1,0 +1,90 @@
+{
+  "PLNT 505": {
+    "subject_code": "PLNT",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Plant-Water Relations for Sustainable Agriculture",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Water requirements of woody perennial crops for production and survival, application of physiological stress thresholds for irrigation management. Credit will be granted for only one of PLNT_V 505, APBI_V 405, APBI_V 351, BIOL_V 351, FRST_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 506": {
+    "subject_code": "PLNT",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Advanced Pollination Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Fundamental and advanced research topics in pollination biology as they relate to natural selection, ecology, insect cognition, conservation and agriculture. Credit will be granted for only one of PLNT_V 506 or APBI_V 406. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 523": {
+    "subject_code": "PLNT",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Graduate Research Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 530": {
+    "subject_code": "PLNT",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 540": {
+    "subject_code": "PLNT",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Plant Molecular Biology Laboratory",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Techniques of purification, cloning, sequencing, restriction-hybridization analysis of plant nucleic acids, in vitro labelling of plant nucleic acids and proteins, and electrophoresis and immunodetection of plant proteins. Offered by the Biotechnology Teaching Laboratory in cooperation with Plant Science. Admissions to the course is limited and requires recommendation from the Program Coordinator. Recommended: BIOL_V 335. Equivalency: BOTA_V 544, FRST_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 541": {
+    "subject_code": "PLNT",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Applied Image Processing for Agricultural Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Plant, soil and insect systems; micro- to macro-scale; hands-on image segmentation, visualization and quantification in 2D and 3D space. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 542": {
+    "subject_code": "PLNT",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Wine Grape and Berry Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Credit will be granted for only one of PLNT_V 542, APBI_V 442 or APBI_V 443. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 549": {
+    "subject_code": "PLNT",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 575": {
+    "subject_code": "PLNT",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Indigenous Ecologies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Application of Indigenous worldviews and knowledges to ecology. Colonial history of modern ecology, foundations and examples of Indigenous ecologies, restoration applying multiple worldviews, and Indigenized, culturally appropriate ecological research and decision-making processes. Credit will only be granted for only one of APBI 475, FRST 475, PLNT 575 or FRST 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 590": {
+    "subject_code": "PLNT",
+    "course_code": "590",
+    "credit": "1-6",
+    "course_name": "Advanced Topics in Plant Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PLNT 649": {
+    "subject_code": "PLNT",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

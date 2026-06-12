@@ -1,0 +1,90 @@
+{
+  "LATN 101": {
+    "subject_code": "LATN",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginning Latin I",
+    "faculty": "Faculty of Arts",
+    "description": "Classical Latin, Part I."
+  },
+  "LATN 102": {
+    "subject_code": "LATN",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginning Latin II",
+    "faculty": "Faculty of Arts",
+    "description": "Classical Latin, Part II. Prerequisite: LATN 101."
+  },
+  "LATN 201": {
+    "subject_code": "LATN",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Latin I",
+    "faculty": "Faculty of Arts",
+    "description": "Completion of the grammatical foundations of classical Latin, Part I. Prerequisite: LATN 102."
+  },
+  "LATN 301": {
+    "subject_code": "LATN",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate Latin II: Beginning Reading",
+    "faculty": "Faculty of Arts",
+    "description": "Completion of the grammatical foundations of classical Latin, Part II; an introduction to the reading of unadapted passages of Latin literature and discussion of their cultural contexts. Credit will be granted for only one of LATN_V 202 or LATN _V 301. Pre-requisites: LATN _V 201. Equivalency: LATN _V 202."
+  },
+  "LATN 350": {
+    "subject_code": "LATN",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Advanced Latin: Readings",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in Latin. Prerequisite: One of LATN _V 301, LATN _V 202, LATN _V 200."
+  },
+  "LATN 403": {
+    "subject_code": "LATN",
+    "course_code": "403",
+    "credit": "3-12",
+    "course_name": "Studies in Latin Prose and Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Thematic studies using both Latin prose and Latin verse. A maximum of 12 credits can be granted for either one of or any combination of LATN_V 403, LATN_V 503. Prerequisite: One of LATN_V 350, LATN_V 351. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LATN 503": {
+    "subject_code": "LATN",
+    "course_code": "503",
+    "credit": "3-12",
+    "course_name": "Studies in Latin Prose and Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced thematic studies using both Latin prose and Latin verse. A maximum of 12 credits can be granted for either one of or any combination of LATN_V 403, LATN_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LATN 525": {
+    "subject_code": "LATN",
+    "course_code": "525",
+    "credit": "3-6",
+    "course_name": "Seminar in Latin Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LATN 545": {
+    "subject_code": "LATN",
+    "course_code": "545",
+    "credit": "3-6",
+    "course_name": "Seminar in Latin Epigraphy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LATN 550": {
+    "subject_code": "LATN",
+    "course_code": "550",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LATN 649": {
+    "subject_code": "LATN",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

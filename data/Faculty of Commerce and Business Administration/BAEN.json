@@ -1,0 +1,98 @@
+{
+  "BAEN 502": {
+    "subject_code": "BAEN",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Growing and Exiting a Venture",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 505": {
+    "subject_code": "BAEN",
+    "course_code": "505",
+    "credit": "1.5",
+    "course_name": "Entrepreneurial Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 506": {
+    "subject_code": "BAEN",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Technology Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 507": {
+    "subject_code": "BAEN",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Disruption",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 508": {
+    "subject_code": "BAEN",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Investing in CDL Start-ups",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 540": {
+    "subject_code": "BAEN",
+    "course_code": "540",
+    "credit": "1.5",
+    "course_name": "Strategy & Innovation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 548": {
+    "subject_code": "BAEN",
+    "course_code": "548",
+    "credit": "1.5",
+    "course_name": "Social Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 549": {
+    "subject_code": "BAEN",
+    "course_code": "549",
+    "credit": "1.5",
+    "course_name": "Innovation and Sustainability",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 550": {
+    "subject_code": "BAEN",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Fundamentals in Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 580": {
+    "subject_code": "BAEN",
+    "course_code": "580",
+    "credit": "1.5-6",
+    "course_name": "Topics in Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 581": {
+    "subject_code": "BAEN",
+    "course_code": "581",
+    "credit": "1.5-3",
+    "course_name": "Contemporary Topics in Technology and Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAEN 590": {
+    "subject_code": "BAEN",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,362 @@
+{
+  "GEOS 102": {
+    "subject_code": "GEOS",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Our Changing Environment: Climate and Ecosystems",
+    "faculty": "Faculty of Arts",
+    "description": "Energy and water in the Earth-Atmosphere system, global climates and climate change, ecosystem properties and processes, human impacts. Please consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. [3-0-0] Credit will be granted for only one of GEOB_V 102 or GEOS_V 102. Equivalency: GEOB_V 102."
+  },
+  "GEOS 103": {
+    "subject_code": "GEOS",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Our Changing Environment: Water and Landscapes",
+    "faculty": "Faculty of Arts",
+    "description": "Physical processes acting at the Earth's surface; water cycle; landforms; human impacts. Please consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. [3-2*-0] Credit will be granted for only one of GEOB_V 103 or GEOS_V 103. Equivalency: GEOB_V 103."
+  },
+  "GEOS 200": {
+    "subject_code": "GEOS",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Atmospheric Environments",
+    "faculty": "Faculty of Arts",
+    "description": "Physical principles underlying weather and climates. Thermal, moisture and wind climates from the scale of plants and animals to the globe. Daily weather systems and climate change. Credit will be granted for only one of GEOS_V (or GEOB_V) 200, GEOS_V (or GEOB_V) 204, or APBI_V 244. This course is recommended for students with credit in one of GEOS_V 102, GEOB_V 102, or second-year standing in science. [3-2*-0] Equivalency: APBI_V 244 and GEOB_V 200."
+  },
+  "GEOS 204": {
+    "subject_code": "GEOS",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Introduction to Biometeorology",
+    "faculty": "Faculty of Arts",
+    "description": "Basic principles and processes of climatology. Energy and water balance concepts. Weather systems and climate change, microclimate of soils, crops, forests, and animals. Credit will be granted for only one of GEOS_V (or GEOB_V) 200, GEOS_V (or GEOB_V) 204, or APBI_V 244. [3-2-0] Equivalency: GEOB_V 204."
+  },
+  "GEOS 206": {
+    "subject_code": "GEOS",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Landscapes: Introduction to Geomorphology",
+    "faculty": "Faculty of Arts",
+    "description": "Earth surface processes shaping the landscape; identification of hazards and hazardous areas associated with these processes; introduction to techniques for measurement and analysis at various spatial and time scales; field trips are required. This course is recommended for students with credit in one of GEOB_V 103, GEOS_V 103, EOSC_V 110, PHYS_V 101, PHYS_V 106, PHYS_V 107, PHYS_V 117, PHYS_V 131, PHYS_V 157, SCIE_V 001. [3-2*-0] Credit will be granted for only one of GEOB_V 206 or GEOS_V 206. Equivalency: GEOB_V 206"
+  },
+  "GEOS 207": {
+    "subject_code": "GEOS",
+    "course_code": "207",
+    "credit": "3",
+    "course_name": "Introduction to Biodiversity",
+    "faculty": "Faculty of Arts",
+    "description": "Geographical ecology emphasizing contemporary species distributions at local to global spatial scales, population and community dynamics, and human impacts. Labs emphasize collecting data (sometimes outdoors) and interpreting results. This course is recommended for students with credit in one of GEOB_V 102, GEOS_V 102. [3-2*-0] Credit will be granted for only one of GEOB_V 207 or GEOS_V 207. Equivalency: GEOB_V 207"
+  },
+  "GEOS 270": {
+    "subject_code": "GEOS",
+    "course_code": "270",
+    "credit": "3",
+    "course_name": "Geographic Information Science",
+    "faculty": "Faculty of Arts",
+    "description": "Computer-based graphical methods of data input and analysis. Emphasis on data visualization techniques such as cartographic modelling and exploratory data analysis. [2-2-0] Credit will be granted for only one of GEOB_V 270 or GEOS_V 270. Equivalency: GEOB_V 270."
+  },
+  "GEOS 300": {
+    "subject_code": "GEOS",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Microscale Weather and Climate",
+    "faculty": "Faculty of Arts",
+    "description": "Meteorology and climatology at the micro-, local, and meso-scales. Interactions between land surfaces and atmosphere. Basics of atmospheric turbulence and transfer processes. Microclimates on scales of a leaf to those of a large valley. Recommended prerequisites: one of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204, ATSC_V 201. [3-0-0] Credit will be granted for only one of GEOB_V 300 or GEOS_V 300. Equivalency: GEOB_V 300."
+  },
+  "GEOS 303": {
+    "subject_code": "GEOS",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Tropical Ecosystems in a Changing World",
+    "faculty": "Faculty of Arts",
+    "description": "Biogeography and ecology of tropical systems, including patterns of species diversity, forest dynamics, plant-animal interactions, carbon and nutrient cycling. Impacts of global environmental change and conservation strategies for tropical ecosystems. This course is recommended for students with credit in one of GEOB_V 207, GEOS_V 207, GEOS_V 307, BIOL_V 230, FRST_V 201. [3-0-0] Credit will be granted for only one of GEOB_V 303 or GEOS_V 303. Equivalency: GEOB_V 303."
+  },
+  "GEOS 304": {
+    "subject_code": "GEOS",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Synoptic Meteorology and Climatology",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of meteorological fields, diagnostic analysis of synoptic weather systems, applications of synoptic meteorology. Requires participation in weekly weather map discussion. Recommended prerequisites: one of GEOB_V 200, GEOS_V 200, ATSC_V 201. [2-2-0] Credit will be granted for only one of GEOB_V 304 or GEOS_V 304. Equivalency: GEOB_V 304."
+  },
+  "GEOS 305": {
+    "subject_code": "GEOS",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Introduction to Hydrology",
+    "faculty": "Faculty of Arts",
+    "description": "Principles of hydrology at site, watershed, and larger regional scales. Introduction to techniques of measurement and analysis. Emphasizes surface water hydrology of western North America. Recommended prerequisites: one of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204, APBI_V 244, ATSC_V 201, and one of PHYS_V 100-level or CHEM_V 123. [3-2*-0] Credit will be granted for only one of GEOB_V 305 or GEOS_V 305. Equivalency: GEOB_V 305."
+  },
+  "GEOS 306": {
+    "subject_code": "GEOS",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Paleoecology: Lessons from Ancient Earth",
+    "faculty": "Faculty of Arts",
+    "description": "Paleoecology of terrestrial ecosystems, particularly during the Quaternary, application of historical context to inform contemporary policy and management dilemmas, and including a foundation in relevant ecosystem and ecological concepts. This course is recommended for students with credit in one of GEOB_V 102, GEOS_V 102, GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204, GEOB_V 207, GEOS_V 207, GEOS_V 307, GEOG_V 211, BIOL_V 230 or EOSC_V 340. [3-0-0]"
+  },
+  "GEOS 307": {
+    "subject_code": "GEOS",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Biogeography and Global Change",
+    "faculty": "Faculty of Arts",
+    "description": "Biogeographic concepts in understanding responses in ecosystems to environmental change at global, regional, and local scales. Conservation issues such as the loss of biodiversity and endangered species. This course is recommended for students who have credit in one of BIOL_V 121, BIOL_V 230, GEOS_V 102, GEOB_V 207, GEOS_V 207, FRST_V 201. [3-2*-0] Credit will be granted for only one of GEOB_V 307 or GEOS_V 307. Equivalency: GEOB_V 307."
+  },
+  "GEOS 308": {
+    "subject_code": "GEOS",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Earth's Recent Past: Climate Change, Glaciers and Landforms",
+    "faculty": "Faculty of Arts",
+    "description": "Quaternary landscape development emphasizing the history of glaciation with special reference to western North America; applications of geomorphology in resource development and land management; interpretation of Quaternary materials. This course is recommended for students with credit in one of EOSC_V 320, EOSC_V 330, GEOB_V 206, GEOS_V 206. [3-2*-0] Credit will only be granted for one of GEOB_V 308 or GEOS_V 308. Equivalency: GEOB_V 308."
+  },
+  "GEOS 309": {
+    "subject_code": "GEOS",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Geographical Sciences Field Course",
+    "faculty": "Faculty of Arts",
+    "description": "Field sampling, instrumentation, surveying, mapping techniques, and data analysis; mandatory multi-day field camp in May or June. Special fees and liability insurance are required. This course is recommended for students who have credit in GEOS_V 206, and one of BIOL_V 230, GEOB_V 207, GEOS_V 207, GEOS_V 307, and one of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204. [0-3-0] Credit will be granted for only one of GEOB_V 309 or GEOS_V 309. Equivalency: GEOB_V 309. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 370": {
+    "subject_code": "GEOS",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Advanced Geographic Information Science",
+    "faculty": "Faculty of Arts",
+    "description": "Theoretical and practical aspects of Geographic Information Systems, including cartographic modelling, digital terrain models, management issues, and spatial interpolation. Recommended prerequisites: Third-year standing in ENSC, GEOG, ENST, URST, or GEOS (or GEOB) specializations, with some introductory knowledge of GIS. [2-2-0] Credit will be granted for only one of GEOB_V 370 or GEOS_V 370. Equivalency: GEOB_V 370."
+  },
+  "GEOS 372": {
+    "subject_code": "GEOS",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Cartography",
+    "faculty": "Faculty of Arts",
+    "description": "Cartographic methods: development of cartography; projections; data ordering, compilation and symbolization; cartographic design, map reproduction. Recommended prerequisites: one of GEOB_V 102, GEOS_V 102, GEOB_V 103, GEOS_V 103. [2-2-0] Credit will be granted for only one of GEOB_V 372 or GEOS_V 372. Equivalency: GEOB_V 372."
+  },
+  "GEOS 373": {
+    "subject_code": "GEOS",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Remote Sensing: Monitoring Earth's Surface from Afar",
+    "faculty": "Faculty of Arts",
+    "description": "Aerial photography; measurement from aerial photographs; photo-interpretation in geographic analysis; remote sensing of the earth's surface and atmosphere. This course is recommended for students with credit in one of GEOB_V 270, GEOS_V 270, or third-year standing in ENSC or GEOS (or GEOB) specializations. [3-2*-0] Credit will only be granted for one of GEOB_V 373 or GEOS_V 373. Equivalency: GEOB_V 373."
+  },
+  "GEOS 400": {
+    "subject_code": "GEOS",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Global Change Science",
+    "faculty": "Faculty of Arts",
+    "description": "Processes controlling the planetary cycles of elements like carbon, nitrogen and phosphorus, the human perturbation of these biogeochemical cycles, and the consequences for the atmosphere, terrestrial ecosystems, and aquatic ecosystems. Recommended prerequisites: either (a) SCIE_V 001 or b) BIOL_V 121 and one of CHEM_V 110, CHEM_V 111, CHEM_V 120, CHEM_V 121, CHEM_V 141. Fourth-year standing is also required. [3-0-1] Credit will be granted for only one of GEOB_V 400 or GEOS_V 400. Equivalency: GEOB_V 400."
+  },
+  "GEOS 401": {
+    "subject_code": "GEOS",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Urban Meteorology",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of urbanization upon atmospheric processes and climates. The energy and water balances of cities. Meteorological effects (urban heat island, precipitation modification, etc.) and their significance. Models of the urban atmosphere. [3-0-0] Prerequisite: One of GEOB_V 204, GEOS_V 204, GEOB_V 300, GEOS_V 300, AGRO_V 244, APBI_V 244. Credit will be granted for only one of GEOB_V 401 or GEOS_V 401. Equivalency: GEOB_V 401."
+  },
+  "GEOS 402": {
+    "subject_code": "GEOS",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Air Pollution Meteorology",
+    "faculty": "Faculty of Arts",
+    "description": "The nature of atmospheric pollutants. The ability of the atmosphere to disperse, transform, and remove pollutants. Air pollution dispersion models. Air quality monitoring, criteria, and standards. [3-0-0] Prerequisite: One of GEOB_V 200, GEOS_V 200, GEOB_V 300, GEOS_V 300. Credit will be granted for only one of GEOB_V 402 or GEOS_V 402. Equivalency: GEOB_V 402."
+  },
+  "GEOS 403": {
+    "subject_code": "GEOS",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Catchment Hydrology",
+    "faculty": "Faculty of Arts",
+    "description": "Hydrometeorology; runoff processes; streamwater chemistry in relation to runoff processes; effects of climate variations and land cover change on streamflow regimes; models of catchment hydrology. [3-0-0] Prerequisite: One of GEOB_V 200, GEOS_V 200, GEOB_V 204, GEOS_V 204 and one of GEOB_V 305, GEOS_V 305, FRST_V 385 and one of STAT_V 200, FRST_V 231, BIOL_V 300. Credit will be granted for only one of GEOB_V 403 or GEOS_V 403. Equivalency: GEOB_V 403."
+  },
+  "GEOS 405": {
+    "subject_code": "GEOS",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Rivers and Landforms: Fluvial Geomorphology",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to open channel flow and sediment transport. River morphology and channel types. Palaeohydrology. The development of channel networks. This course is recommended for students with credit in one of EOSC_V 320, EOSC_V 330, GEOB_V 206, GEOS_V 206. [2-3-0] Credit will only be granted for one of GEOB_V 405 or GEOS_V 405. Equivalency: GEOB_V 405"
+  },
+  "GEOS 406": {
+    "subject_code": "GEOS",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Watershed Dynamics and Morphology",
+    "faculty": "Faculty of Arts",
+    "description": "Hillslope and stream channel processes and their rates of operation. Analysis and modelling geomorphic processes and associated hazards at the watershed scale. Applications in geoscience and engineering. This course is recommended for students with credit in one of GEOB_V 206, GEOS_V 206, EOSC_V 330. [2-2-0] Credit will be granted for only one of GEOB_V 406 or GEOS_V 406. Equivalency: GEOB_V 406."
+  },
+  "GEOS 407": {
+    "subject_code": "GEOS",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Vegetation Dynamics: Disturbance, Climate and Human Impacts",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of vegetation dynamics integrating theory and research to address contemporary issues of global environmental change. Students will conduct fieldwork and learn to analyze data and interpret results. [2-3-0] Prerequisite: One of BIOL_V 230, GEOB_V 207, GEOS_V 207, FRST_V 201. Credit will be granted for only one of GEOB_V 407 or GEOS_V 407. Equivalency: GEOB_V 407."
+  },
+  "GEOS 408": {
+    "subject_code": "GEOS",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "The Changing Cryosphere: Snow, Ice and Climate Change",
+    "faculty": "Faculty of Arts",
+    "description": "Formation of ice masses and their evolution including snowpacks, glaciers, and ice sheets. Relationships between ice and climate including records of climate change, glacier dynamics and ice-related hazards. [3-0-0] Prerequisite: One of PHYS_V 101, PHYS_V 106, PHYS_V 107, PHYS_V 117, PHYS_V 131, PHYS_V 157, SCIE_V 001, and one of GEOB_V 206, GEOS_V 206, GEOB_V 305, GEOS_V 305, GEOB_V 308, GEOS_V 308. Credit will be granted for only one of GEOB _V 408 or GEOS _V 408. Equivalency: GEOB_V 408."
+  },
+  "GEOS 409": {
+    "subject_code": "GEOS",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Advanced Field Studies in Geographical Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research design, field sampling methods, instrumentation, surveying, mapping techniques, data analysis and management; self-directed field-based research. [2-2-0] Prerequisite: One of GEOB_V 309, GEOS_V 309. Third-year standing in Geographical Sciences, Environmental Sciences or Major in Geography (Environmental and Sustainability). Credit will be granted for only one of GEOB_V 409 or GEOS_V 409. Equivalency: GEOB_V 409."
+  },
+  "GEOS 415": {
+    "subject_code": "GEOS",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "River Restoration: Science and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Projects designed to give students research development and design experience. Projects are provided by research faculty in Science and Engineering and from local industry. Recommended prerequisites: one of GEOB_V 206, GEOS_V 206, GEOB_V 305, GEOS_V 305, GEOB_V 405, GEOS_V 405, GEOB_V 406, GEOS_V 406, EOSC_V 325, EOSC_V 329, EOSC_V 330. [3-0-0] Credit will be granted for only one of GEOB_V 415 or GEOS_V 415. Equivalency: GEOB_V 415."
+  },
+  "GEOS 448": {
+    "subject_code": "GEOS",
+    "course_code": "448",
+    "credit": "3-4",
+    "course_name": "Directed Studies in Geographical Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "For fourth-year students in Geography to permit investigation of a topic to be agreed upon by a member of the faculty and the student. Permission of the department head and of a supervisory faculty member is required. Credit will be granted for only one of GEOB_V 448 or GEOS_V 448. Equivalency: GEOB_V 448."
+  },
+  "GEOS 449": {
+    "subject_code": "GEOS",
+    "course_code": "449",
+    "credit": "3-6",
+    "course_name": "Undergraduate Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Original research on an approved topic, developed under the guidance of a faculty member. Open to 4th year students in Geographical Sciences with appropriate background courses related to the research topic, and permission of the directing faculty member. The 3-credit option is only available to students who complete GEOS_V 449 in tandem with GEOS_V 409. Credit will be granted for only one of GEOB_V 449 or GEOS_V 449. Equivalency: GEOB_V 449."
+  },
+  "GEOS 472": {
+    "subject_code": "GEOS",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Research in Cartography",
+    "faculty": "Faculty of Arts",
+    "description": "Use of cartography in primary research applications. Discussion of contemporary topics in cognitive, social, and technical cartography and data visualization. Recommended prerequisites: one of GEOB_V 270, GEOS_V 270, GEOB_V 372, GEOS_V 372. [3-2*-0] Credit will be granted for only one of GEOB_V 472 or GEOS_V 472. Equivalency: GEOB_V 472."
+  },
+  "GEOS 479": {
+    "subject_code": "GEOS",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "Research in Geographic Information Science",
+    "faculty": "Faculty of Arts",
+    "description": "Students use GIS in primary research applications in conservation biology, crime analysis, and health geography; theoretical and practical aspects considered in a hands-on environment. [2-2-0] Prerequisite: One of GEOB_V 370, GEOS_V 370. Credit will be granted for only one of GEOB_V 479 or GEOS_V 479. Equivalency: GEOB_V 479."
+  },
+  "GEOS 490": {
+    "subject_code": "GEOS",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Student Directed Seminar in Geographical Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Self-directed, collaborative studies in physical geography, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment, and delivery methods will comply with the Handbook for Student Directed Seminars. This course carries science credit. Credit will be granted for only one of GEOB_V 490, GEOS_V 490 and GEOG_V 442. Prerequisite: Third-year standing in Geographical Sciences. Equivalency: GEOB_V 490."
+  },
+  "GEOS 500": {
+    "subject_code": "GEOS",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Theory and Practice of Research in Geographical Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 500 or GEOB_V 500. Restricted to M.A.GEOG, M.Sc. GEOG, or PhD GEOG. Equivalency: GEOB_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 501": {
+    "subject_code": "GEOS",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Processes in Geomorphology",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 501 or GEOB_V 501. Equivalency: GEOB_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 503": {
+    "subject_code": "GEOS",
+    "course_code": "503",
+    "credit": "1-6",
+    "course_name": "Topics in Geomorphology and Hydrology",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 503 or GEOB_V 503. Equivalency: GEOB_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 504": {
+    "subject_code": "GEOS",
+    "course_code": "504",
+    "credit": "1-6",
+    "course_name": "Topics in Climate Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 504 or GEOB_V 504. Equivalency: GEOB_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 505": {
+    "subject_code": "GEOS",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Permafrost",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 505 or GEOB_V 505. Equivalency: GEOB_V 505. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 506": {
+    "subject_code": "GEOS",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Population Dynamics in Time and Space: Models, Data and Application",
+    "faculty": "Faculty of Arts",
+    "description": "Mathematical models are fundamental for describing and predicting population dynamics in time and space. Emphasis on implementation of theoretical and applied population models of plants and animals. Recommended: Undergraduate coursework in ecology and experience using statistical software (contact instructor for more information). Credit will be granted for only one of GEOB_V 506 or GEOS_V 506. Equivalency: GEOB_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 507": {
+    "subject_code": "GEOS",
+    "course_code": "507",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Geographical Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 507 or GEOB_V 507. Equivalency: GEOB_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 508": {
+    "subject_code": "GEOS",
+    "course_code": "508",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Geomorphology",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 508 or GEOB_V 508. Equivalency: GEOB_V 508. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 509": {
+    "subject_code": "GEOS",
+    "course_code": "509",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Climatology",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GEOS_V 509 or GEOB_V 509. Equivalency: GEOB_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 512": {
+    "subject_code": "GEOS",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Climate Change in the 21st Century",
+    "faculty": "Faculty of Arts",
+    "description": "Historical, methodological, and policy dimensions of climate change in the 21st century. Application of natural and social science literature to climate science, impacts on ecosystems and societies, and response options. Credit will be granted for only one of GEOB_V 512 or GEOS_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 515": {
+    "subject_code": "GEOS",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Satellite Remote Sensing Applications to Oceanography and Meteorology",
+    "faculty": "Faculty of Arts",
+    "description": "A review of the many satellite-sensed data products used in both research and operational aspects of oceanography and meteorology. Credit will be granted for only one of GEOB_V 515 or GEOS_V 515 or EOSC_V 582. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOS 599": {
+    "subject_code": "GEOS",
+    "course_code": "599",
+    "credit": "15",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. Restricted to MSc in Geography students. Credit will be granted for only one of GEOB_V 599 or GEOS_V 599. This course is not eligible for Credit/D/Fail grading."
+  }
+}

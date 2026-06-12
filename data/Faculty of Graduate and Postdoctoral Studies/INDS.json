@@ -1,0 +1,42 @@
+{
+  "INDS 501": {
+    "subject_code": "INDS",
+    "course_code": "501",
+    "credit": "0",
+    "course_name": "Instructional Skills Workshop",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "Introduction to concepts and practice in higher education instruction; emphasis on lesson planning, student participation and instructional aides; includes video-taped practice teacher/peer feedback 28 classroom hours. This course is not eligible for Credit/D/Fail grading."
+  },
+  "INDS 502": {
+    "subject_code": "INDS",
+    "course_code": "502",
+    "credit": "1-6",
+    "course_name": "Interdisciplinary Studies: Thematic Seminars",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "Seminars, lectures, and discussions of topics involving several faculties. Contact the Interdisciplinary Studies Program for specific topics (www.isgp.ubc.ca). This course is not eligible for Credit/D/Fail grading."
+  },
+  "INDS 530": {
+    "subject_code": "INDS",
+    "course_code": "530",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "A series of directed readings related to student's area of interdisciplinary studies. This advanced course may be taken upon approval of the Program head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "INDS 549": {
+    "subject_code": "INDS",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "INDS 649": {
+    "subject_code": "INDS",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Graduate and Postdoctoral Studies",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

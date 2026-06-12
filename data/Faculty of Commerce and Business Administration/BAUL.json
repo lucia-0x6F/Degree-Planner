@@ -1,0 +1,50 @@
+{
+  "BAUL 500": {
+    "subject_code": "BAUL",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Real Estate Markets",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAUL 501": {
+    "subject_code": "BAUL",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Real Estate Investment Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAUL 503": {
+    "subject_code": "BAUL",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Land Development and Real Options",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAUL 508": {
+    "subject_code": "BAUL",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Real Estate Securitization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAUL 509": {
+    "subject_code": "BAUL",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Real Estate Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAUL 580": {
+    "subject_code": "BAUL",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Urban Land Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

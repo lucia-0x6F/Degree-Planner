@@ -1,0 +1,114 @@
+{
+  "PERS 100": {
+    "subject_code": "PERS",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Basic Persian I",
+    "faculty": "Faculty of Arts",
+    "description": "Basic vocabulary and the fundamentals of modern Persian grammar, structure, and pronunciation, as well as reading, writing, listening, and speaking."
+  },
+  "PERS 101": {
+    "subject_code": "PERS",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Basic Persian II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PERS 100. Recommended pre-requisite: PERS 100."
+  },
+  "PERS 104": {
+    "subject_code": "PERS",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Persian Reading and Writing for Persian-Speaking Students",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and writing of standard Persian; lexical and syntactic differences between written and spoken Persian. Restricted to Persian heritage speakers with aural/oral knowledge but no reading/writing skills."
+  },
+  "PERS 200": {
+    "subject_code": "PERS",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Intermediate-Low Persian I",
+    "faculty": "Faculty of Arts",
+    "description": "Reading of simple texts with emphasis on reading and writing, conversation skills, grammar, and syntax. Recommended pre-requisite: one of PERS 101, PERS 104."
+  },
+  "PERS 201": {
+    "subject_code": "PERS",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate-Low Persian II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PERS 200. Recommended pre-requisite: PERS 200."
+  },
+  "PERS 300": {
+    "subject_code": "PERS",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Intermediate-High Persian I",
+    "faculty": "Faculty of Arts",
+    "description": "Graded reading, writing, exposure to textual history, newspaper reading, and translation. Cultural materials presented as appropriate. Recommended pre-requisites: PERS 201 or Persian heritage speakers with basic reading/writing skills (no more than Grade 6 formal education in Iran)."
+  },
+  "PERS 301": {
+    "subject_code": "PERS",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate-High Persian II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PERS 300. Recommended pre-requisite: PERS 300."
+  },
+  "PERS 310": {
+    "subject_code": "PERS",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Persian Media",
+    "faculty": "Faculty of Arts",
+    "description": "Reading, understanding and participating in contemporary registers of Persian Language as used in newspapers, radio/TV, as well as in online news and social media. Recommended pre-requisites: PERS 104, 201, or 3 credits of PERS at the 300 level, or permission of instructor."
+  },
+  "PERS 380": {
+    "subject_code": "PERS",
+    "course_code": "380",
+    "credit": "3-9",
+    "course_name": "Topics in Modern Persian Language, Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Study of modern Persian language through culturally rich and varied material such as satire, popular culture, songs, and modern poetry and prose. Topics vary from section to section. Consult https://asia.ubc.ca/courses/ for current offerings. This course is recommended for students with 6 credits of upper level PERS_V courses and placement approval. For more information on placement approval, please visit Placement Tests at: https://asia.ubc.ca/undergraduate/advising/ placement-tests/"
+  },
+  "PERS 400": {
+    "subject_code": "PERS",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Persian Short Story for Native and Heritage Speakers",
+    "faculty": "Faculty of Arts",
+    "description": "Modern short stories from mid-19th century to present. Recommended pre-requisites: one of PERS 104, PERS 300, or Persian heritage speakers with strong reading/writing skills (High School). NOT eligible to students who have studied at the post-secondary level in Iran."
+  },
+  "PERS 401": {
+    "subject_code": "PERS",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Contemporary Iranian Cinema for Advanced Speakers of Persian",
+    "faculty": "Faculty of Arts",
+    "description": "Iranian cultural norms, and sociopolitical information about Iranian society and history, as conveyed through Iranian cinema. Emphasis on speaking, writing, and vocabulary development of Persian language. Recommended pre-requisites: PERS 300, or native or proficient heritage speaker of Persian with permission of the instructor."
+  },
+  "PERS 451": {
+    "subject_code": "PERS",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Persian through Shahnameh for Advanced Speakers of Persian",
+    "faculty": "Faculty of Arts",
+    "description": "Persian through Shahnameh, with a focus on speaking, reading, writing and vocabulary development. Emphasis on Iranian cultural norms, mentalities and values. Recommended pre-requisite: PERS 300 or native or proficient heritage speaker of Persian, with permission of the instructor."
+  },
+  "PERS 460": {
+    "subject_code": "PERS",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Sufism in Persian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced readings in Persian Sufi literature, including poetry and prose, examining the role of Sufism in Islamic discourse and the cultural context of the Persianate world. This course is recommended for students with at least 3 credits of PERS_V at the 300-level or placement approval. For more information on placement approval, please visit Placement Tests at: https://asia.ubc.ca/undergraduate/advising/placement-tests/."
+  },
+  "PERS 480": {
+    "subject_code": "PERS",
+    "course_code": "480",
+    "credit": "3-9",
+    "course_name": "Topics in Classical Persian Language and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Classical Persian literary, fiction and non-fiction texts, including poetry, prose, and fables. Topics vary from section to section. Consult https://asia.ubc.ca/courses/ for current offerings. This course is recommended for students with 6 credits of upper level PERS courses and placement approval. For more information on placement approval, please visit Placement Tests at: https://asia.ubc.ca/undergraduate/advising/ placement-tests/"
+  }
+}

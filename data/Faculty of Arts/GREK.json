@@ -1,0 +1,138 @@
+{
+  "GREK 101": {
+    "subject_code": "GREK",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginning Ancient Greek I",
+    "faculty": "Faculty of Arts",
+    "description": "Classical and Hellenistic Greek, Part I."
+  },
+  "GREK 102": {
+    "subject_code": "GREK",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginning Ancient Greek II",
+    "faculty": "Faculty of Arts",
+    "description": "Classical and Hellenistic Greek, Part II. Prerequisite: GREK_V 101."
+  },
+  "GREK 201": {
+    "subject_code": "GREK",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Ancient Greek I",
+    "faculty": "Faculty of Arts",
+    "description": "Completion of the grammatical foundations of Ancient Greek, Part I. Prerequisite: GREK_V 102."
+  },
+  "GREK 202": {
+    "subject_code": "GREK",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Intermediate Ancient Greek II",
+    "faculty": "Faculty of Arts",
+    "description": "Completion of the grammatical foundations of Ancient Greek, Part II; introduction to the reading of unadapted passages of Greek literature. Prerequisite: GREK_V 201."
+  },
+  "GREK 351": {
+    "subject_code": "GREK",
+    "course_code": "351",
+    "credit": "3-6",
+    "course_name": "Reading Ancient Greek: Prose",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in the major authors in Greek prose. Prerequisite: GREK_V 202."
+  },
+  "GREK 352": {
+    "subject_code": "GREK",
+    "course_code": "352",
+    "credit": "3-6",
+    "course_name": "Reading Ancient Greek: Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in the major authors in Greek verse. Prerequisite: GREK_V 202."
+  },
+  "GREK 401": {
+    "subject_code": "GREK",
+    "course_code": "401",
+    "credit": "3-12",
+    "course_name": "Greek Prose",
+    "faculty": "Faculty of Arts",
+    "description": "Studies in history, philosophy and/or oratory. A maximum of 12 credits can be granted for either one of or any combination of GREK_V 401, GREK_V 501. Prerequisite: One of GREK_V 351, GREK_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 402": {
+    "subject_code": "GREK",
+    "course_code": "402",
+    "credit": "3-12",
+    "course_name": "Greek Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Studies in epic, tragedy and/or comedy. A maximum of 12 credits can be granted for either one of or any combination of GREK_V 402, GREK_V 502. Prerequisite: One of GREK_V 351, GREK_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 403": {
+    "subject_code": "GREK",
+    "course_code": "403",
+    "credit": "3-12",
+    "course_name": "Studies in Ancient Greek Prose and Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Thematic studies using both Greek prose and Greek verse. A maximum of 12 credits can be granted for either one of or any combination of GREK_V 403, GREK_V 503. Prerequisite: One of GREK_V 351, GREK_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 501": {
+    "subject_code": "GREK",
+    "course_code": "501",
+    "credit": "3-12",
+    "course_name": "Greek Prose",
+    "faculty": "Faculty of Arts",
+    "description": "History, philosophy and/or oratory. A maximum of 12 credits can be granted for either one of or any combination of GREK_V 401, GREK_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 502": {
+    "subject_code": "GREK",
+    "course_code": "502",
+    "credit": "3-12",
+    "course_name": "Greek Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Epic, tragedy and/or comedy. A maximum of 12 credits can be granted for either one of or any combination of GREK_V 402, GREK_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 503": {
+    "subject_code": "GREK",
+    "course_code": "503",
+    "credit": "3-12",
+    "course_name": "Studies in Ancient Greek Prose and Verse",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced thematic studies using both Greek prose and Greek verse. A maximum of 12 credits can be granted for either one of or any combination of GREK_V 403, GREK_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 525": {
+    "subject_code": "GREK",
+    "course_code": "525",
+    "credit": "3-6",
+    "course_name": "Seminar in Greek Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 540": {
+    "subject_code": "GREK",
+    "course_code": "540",
+    "credit": "3-6",
+    "course_name": "Seminar in Greek Palaeography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 545": {
+    "subject_code": "GREK",
+    "course_code": "545",
+    "credit": "3-6",
+    "course_name": "Seminar in Greek Epigraphy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 550": {
+    "subject_code": "GREK",
+    "course_code": "550",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GREK 649": {
+    "subject_code": "GREK",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

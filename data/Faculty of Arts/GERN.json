@@ -1,0 +1,130 @@
+{
+  "GERN 101": {
+    "subject_code": "GERN",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Learning German 1",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the language for beginners. Ability to identify unique features and communicate in everyday situations. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 100 or GERN 101. Equivalency: GERM100"
+  },
+  "GERN 102": {
+    "subject_code": "GERN",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Learning German 2",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of GERN 101. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 110 or GERN 102. Equivalency: GERM110"
+  },
+  "GERN 201": {
+    "subject_code": "GERN",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Learning German 3",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of GERN 102. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 200 or GERN 201. Equivalency: GERM200"
+  },
+  "GERN 202": {
+    "subject_code": "GERN",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Learning German 4",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of GERN 201. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 210 or GERN 202. Equivalency: GERM210"
+  },
+  "GERN 301": {
+    "subject_code": "GERN",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Learning German 5",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of GERN 202. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 300 or GERN 301. Equivalency: GERM300"
+  },
+  "GERN 302": {
+    "subject_code": "GERN",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Learning German 6",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of GERN 301. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 310 or GERN 302. Equivalency: GERM310"
+  },
+  "GERN 303": {
+    "subject_code": "GERN",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "German Conversation",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on the study of oral communication skills and strategies. Fluency in many situations, communicative competence in important areas of cultural life, ability to participate in discussions of current as well as controversial issues to express ideas clearly in spoken word. Credit will be granted for only one of GERM 313 or GERN 303. Prerequisite: One of GERM 210, GERN 202. or equivalent. Equivalency: GERM313"
+  },
+  "GERN 304": {
+    "subject_code": "GERN",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "German for Reading Knowledge I",
+    "faculty": "Faculty of Arts",
+    "description": "Reading skills in German leading to a second year reading knowledge in just one term. Students are expected to work largely independently. Course meant for students with no or very little German (i.e. no more than GERN 101). Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 433 or GERN 304. Equivalency: GERM433"
+  },
+  "GERN 309": {
+    "subject_code": "GERN",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "German in the Workplace",
+    "faculty": "Faculty of Arts",
+    "description": "Grammatical patterns in application to workplace conditions and requirements with Germanophone business. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 314 or GERN 309. Prerequisite: One of GERM 210, GERN 202. or equivalent. Equivalency: GERM314"
+  },
+  "GERN 315": {
+    "subject_code": "GERN",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "The Magic of Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Tools and concepts to create original translations across English and German. Includes theory, methodology, and practice. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 325 or GERN 315. Prerequisite: One of GERM 210, GERN 202. or equivalent. Equivalency: GERM325"
+  },
+  "GERN 344": {
+    "subject_code": "GERN",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Discipline and Liberation: Studies in the 19th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Nineteenth-century Germanophone literature against the larger background of the political and social developments of the period. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 380 or GERN 344. Equivalency: GERM380"
+  },
+  "GERN 347": {
+    "subject_code": "GERN",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Progress and Disaster: Studies in the 20th and 21st Centuries",
+    "faculty": "Faculty of Arts",
+    "description": "Selected literary works from German-speaking societies against the larger background of the political and social developments of the period. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 390 or GERN 347. Equivalency: GERM390"
+  },
+  "GERN 399": {
+    "subject_code": "GERN",
+    "course_code": "399",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of readings and research undertaking topics of German Studies in German, with the agreement and under the supervision of a faculty member with relevant expertise. Restricted to German Studies students with approval from the Director of Undergraduate Studies."
+  },
+  "GERN 401": {
+    "subject_code": "GERN",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "German through Critical Contemporary Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Discussion and analysis of current issues in a German-speaking seminar format. Spoken and written German communication about critical, societal topics fostering advanced competence. Continuation of GERN 302. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 400 or GERN 401. Equivalency: GERM400"
+  },
+  "GERN 404": {
+    "subject_code": "GERN",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "German for Reading Knowledge II (Languages for special purposes)",
+    "faculty": "Faculty of Arts",
+    "description": "Multimedia teaching of reading skills in German for special purposes. Students are expected to work largely independently. Focuses on specific topics of the student's choice in the humanities, the natural sciences, economics/business and music and enhances skills in technical reading. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 434 or GERN 404. Prerequisite: One of GERM 433, GERN 304. or equivalent. Equivalency: GERM434"
+  },
+  "GERN 499": {
+    "subject_code": "GERN",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research undertaking topics of German Studies in German, with the agreement and under the supervision, of a faculty member with relevant expertise. Restricted to German Studies students with approval from the Director of Undergraduate Studies."
+  }
+}

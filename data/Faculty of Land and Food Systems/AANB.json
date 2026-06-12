@@ -1,0 +1,66 @@
+{
+  "AANB 500": {
+    "subject_code": "AANB",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Graduate Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 504": {
+    "subject_code": "AANB",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Research Methodology in Applied Animal Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 515": {
+    "subject_code": "AANB",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Animal Welfare and Animal Ethics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Credit will be granted for only one of APBI_V 315, ANSC_V 515, or AANB_V 515. Prerequisite: Standing as a graduate student. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 530": {
+    "subject_code": "AANB",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 549": {
+    "subject_code": "AANB",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 550": {
+    "subject_code": "AANB",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Topics in Animal Welfare",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 551": {
+    "subject_code": "AANB",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Tutorials in Animal Welfare Research",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AANB 649": {
+    "subject_code": "AANB",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "ADHE 327": {
+    "subject_code": "ADHE",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Teaching Adults",
+    "faculty": "Faculty of Education",
+    "description": "Planning, conducting and evaluating instruction for adults. Consideration is given to different beliefs and ways of thinking about teaching. [3-0-0]"
+  },
+  "ADHE 328": {
+    "subject_code": "ADHE",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Institutions of Adult Education",
+    "faculty": "Faculty of Education",
+    "description": "The history, roles, and activities of institutions in the field of adult education. Institutions in Canada, Great Britain, and the United States are emphasized, and some experiences in other countries are examined. [3-0-0]"
+  },
+  "ADHE 329": {
+    "subject_code": "ADHE",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Developing Short Courses, Workshops and Seminars",
+    "faculty": "Faculty of Education",
+    "description": "Organization and administration of adult education events such as short courses, seminars, workshops, conferences and institutes. [3-0-0]"
+  },
+  "ADHE 330": {
+    "subject_code": "ADHE",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "The Community Practice of Adult Education",
+    "faculty": "Faculty of Education",
+    "description": "Community based adult education with particular emphasis on the application of knowledge of the social, economic, cultural and political environment in developing and conducting adult education programs with an for individuals and groups. [2-3-0]"
+  },
+  "ADHE 375": {
+    "subject_code": "ADHE",
+    "course_code": "375",
+    "credit": "6",
+    "course_name": "Diploma Seminar and Internship in Adult Education",
+    "faculty": "Faculty of Education",
+    "description": "[2-3-0]"
+  },
+  "ADHE 412": {
+    "subject_code": "ADHE",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "An Overview of Adult Education",
+    "faculty": "Faculty of Education",
+    "description": "Survey of adult education theory and practice in Canada and the world. The focus is on the purpose and participation in, adult education, characteristics of learners, and the training of adult educators. [3-0-0; 3-0-0]"
+  }
+}

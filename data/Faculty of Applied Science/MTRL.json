@@ -1,0 +1,490 @@
+{
+  "MTRL 201": {
+    "subject_code": "MTRL",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Technical Communication",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication in business correspondence, engineering design methods, report preparation, and oral presentations of technical material. Restricted to students in second year of the Materials Engineering Program. [3-0-0] Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 112, ENGL_V 120, ENGL_V 121, WRDS_V 150. Equivalency: APSC_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 250": {
+    "subject_code": "MTRL",
+    "course_code": "250",
+    "credit": "4",
+    "course_name": "Thermodynamics of Materials I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Heat and mass balances applied to materials engineering; thermodynamic principles applied to materials processing: heat of reaction, free energy, activity, phase equilibrium, reactions involving gases, Ellingham diagrams. [3-0-2]"
+  },
+  "MTRL 251": {
+    "subject_code": "MTRL",
+    "course_code": "251",
+    "credit": "4",
+    "course_name": "Thermodynamics of Materials II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Behaviour of solutions, phase diagrams, electrochemistry, chemical potential and free energy diagrams applied to materials processing and thermodynamic modelling. [3-0-2] Prerequisite: MTRL 250."
+  },
+  "MTRL 263": {
+    "subject_code": "MTRL",
+    "course_code": "263",
+    "credit": "3",
+    "course_name": "Transport Phenomena I - Fluid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fluid statics; fluid mechanics; laminar and turbulent flow; equations of continuity and motion; boundary layers; flow in conduits and packed and fluidized beds; flow measurements. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 264": {
+    "subject_code": "MTRL",
+    "course_code": "264",
+    "credit": "3",
+    "course_name": "Transport Phenomena II - Heat Transport",
+    "faculty": "Faculty of Applied Science",
+    "description": "Conduction, forced and natural convection, and radiation. Heat transfer with fluid flow, applications of heat exchange, and solidification of castings. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 280": {
+    "subject_code": "MTRL",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Materials in Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "The process of materials selection for different design criteria; the importance of shape and processing variables; the use of computer software in the selection process. [2-0-3]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 320": {
+    "subject_code": "MTRL",
+    "course_code": "320",
+    "credit": "2",
+    "course_name": "Management of Engineering Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental communication and inter- personal skills, as well as operational processes, that engineers require to effectively work in design teams. Concepts and best practices around project management tools and techniques, team dynamics, planning, and organization. [1-0-2] Prerequisite: MTRL_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 340": {
+    "subject_code": "MTRL",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Manufacturing in Materials Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Manufacturing processes from a materials perspective; metal casting, heat treating processes, forming processes, machining, and joining. Role of manufacturing in microstructure and material properties development and on component performance. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 358": {
+    "subject_code": "MTRL",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "Hydrometallurgy I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Aqueous extraction of metals from ores and concentrates. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 359": {
+    "subject_code": "MTRL",
+    "course_code": "359",
+    "credit": "1",
+    "course_name": "Hydrometallurgy I Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Laboratory exercises on aqueous extraction of metals from ores and concentrates. [0-3*-0]. Corequisite: MTRL_V 358. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 361": {
+    "subject_code": "MTRL",
+    "course_code": "361",
+    "credit": "4",
+    "course_name": "Modelling of Materials Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mathematical and physical modelling of processes employed in the production of materials. The application of models to analyze, design and improve materials production. [3-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 363": {
+    "subject_code": "MTRL",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Transport Phenomena III - Mass Transport",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mass transfer fundamentals, gas interdiffusivity, Sievert's law, Fick's laws, solid-state diffusion, steady and non-steady state diffusion, mass transfer in quiescence fluids. The application examples are related to metallurgical processes, green technologies, and the semiconductor industry. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 365": {
+    "subject_code": "MTRL",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Mechanical Behaviour of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Polycrystalline and single crystal deformation; dislocation theory; strengthening mechanisms; fracture mechanics; fatigue; high temperature deformation mechanisms. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 378": {
+    "subject_code": "MTRL",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Phase Transformations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Solidification and solid state transformations; nucleation and growth processes; segregation and structure in castings; phase changes in steel; transformation diagrams; diffusion equations. [3-0-2*]"
+  },
+  "MTRL 381": {
+    "subject_code": "MTRL",
+    "course_code": "381",
+    "credit": "1",
+    "course_name": "Structure and Properties Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Structure and properties of ferrous and non-ferrous metals; heat treatment; hardenability; metallography; age hardening. [0-3*-0] Corequisite: All of MTRL_V 365, MTRL_V 378. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 394": {
+    "subject_code": "MTRL",
+    "course_code": "394",
+    "credit": "4",
+    "course_name": "Polymers",
+    "faculty": "Faculty of Applied Science",
+    "description": "The structure and properties of polymeric materials and reinforced polymers with emphasis on their engineering properties and applications. [3-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 424": {
+    "subject_code": "MTRL",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Aerospace Materials and Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced materials and manufacturing in the framework of aerospace requirements and regulations, with a focus on processing of materials, including advanced metals and polymer composites, to produce aerospace structures and engine components. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 434": {
+    "subject_code": "MTRL",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Aerospace Products Certification and Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "An introduction to the certification of civilian aircraft structures, engines, and components in accordance with applicable airworthiness standards to ensure safety and reliability throughout their operational life cycle. Overview of design and maintenance procedures to certify aerospace products. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 451": {
+    "subject_code": "MTRL",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Microstructural Analysis Laboratory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Basic principles and techniques of microstructural analysis with particular reference to engineered materials including x-ray, SEM microprobe TEM and high energy electron analysis. [1-3*-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 455": {
+    "subject_code": "MTRL",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Economic Aspects of Materials Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Time value of money, cash flows, capital and operating cost estimation, financial decision making and relevant case studies. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 456": {
+    "subject_code": "MTRL",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Environmental Degradation of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental aspects of environmental degradation of metals (corrosion), ceramics, and polymers, with an emphasis on aqueous environments. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 458": {
+    "subject_code": "MTRL",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Hydrometallurgy II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Leaching, purification, precipitation, regeneration; thermodynamics and kinetics of separation steps; electrochemical applications. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 460": {
+    "subject_code": "MTRL",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Monitoring and Optimization of Materials Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Measurement systems for materials processing and evaluation, methods of data collection and analysis in materials engineering, materials processing monitoring and control, design of experiments for materials processing and optimization. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 466": {
+    "subject_code": "MTRL",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "Engineering Project I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials. [1-0-5]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 467": {
+    "subject_code": "MTRL",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Engineering Project II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design projects to illustrate the full spectrum of design encountered in Metals and Materials Engineering including the design of components, structures and processes used to manufacture materials. [1-0-5]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 469": {
+    "subject_code": "MTRL",
+    "course_code": "469",
+    "credit": "3",
+    "course_name": "Casting Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Various casting technologies related to the automotive and aerospace sectorswill be covered, including upstream liquid metal processing. [2-0-2]"
+  },
+  "MTRL 472": {
+    "subject_code": "MTRL",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Welding and Joining of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Case studies addressing temperature modelling in welding and joining, material selection for welds and joints, calculation of properties for welds and joints, mechanical analysis of joints, and design of welding and joining procedures. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 475": {
+    "subject_code": "MTRL",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Microstructure Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Follows the production of metallurgical products, focusing on process design models used to describe solidification, recrystallization, and precipitation. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 478": {
+    "subject_code": "MTRL",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Electronic Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Semiconductor materials, MOSFET structure, operation and applications in digital circuits, fabrication techniques, basic mask and fabrication flow design and semiconductor fabrication process theories at an entry level. [3-0-0]"
+  },
+  "MTRL 484": {
+    "subject_code": "MTRL",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "Materials for Aerostructures and Engines",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineering theory of aerospace structural material mix: metal alloys, ceramics, and polymer composites. Material requirements for weight-, damage tolerant-, cost efficient-design. Overview of material characterization, including fracture and fatigue. Statistical variability, material allowables, structural certification. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 485": {
+    "subject_code": "MTRL",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Failure of Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Failure by excess deformation, fracture, fatigue, and environmental effects. Failure theories and case studies of engineering failures. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 486": {
+    "subject_code": "MTRL",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Nondestructive Evaluation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Principles of test methods; inspection techniques and equipment; quantitative flaw evaluation; reliability analysis. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 494": {
+    "subject_code": "MTRL",
+    "course_code": "494",
+    "credit": "3",
+    "course_name": "Composite Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Understanding the properties and the mechanical behaviour of composite materials with emphasis on analysis, design, and manufacturing. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 495": {
+    "subject_code": "MTRL",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Biomaterials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineered materials in medical applications with an emphasis on material properties, functionality, design, and material response in the biological environment. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 496": {
+    "subject_code": "MTRL",
+    "course_code": "496",
+    "credit": "3",
+    "course_name": "Materials Sustainability",
+    "faculty": "Faculty of Applied Science",
+    "description": "Concepts of life cycle analysis, circular economy and critical materials. Project-based introduction to key concepts, calculations, and design. [2-0-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 497": {
+    "subject_code": "MTRL",
+    "course_code": "497",
+    "credit": "1-6",
+    "course_name": "Special Topics in Materials Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 499": {
+    "subject_code": "MTRL",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Materials Engineering Undergraduate Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Materials-related academic research. Projects will be defined within materials engineering, involving design, experimental, and/or simulation work, as selected from topics provided by faculty members. Restricted to students with fourth year class standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 512": {
+    "subject_code": "MTRL",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Material Optimization for the Manufacture of Structural Metallic Components",
+    "faculty": "Faculty of Applied Science",
+    "description": "Phase transformations and strengthening of advanced engineering alloys (e.g. steels, aluminum, magnesium and titanium alloys) with particular emphasis on structure-property development relevant to the latest materials manufacturing technologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 515": {
+    "subject_code": "MTRL",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Advanced Simulation and Modelling Tools for Materials Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mathematical modelling of manufacturing processes; Computer Aided Engineering tools; application examples will be drawn from a range of manufacturing operations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 517": {
+    "subject_code": "MTRL",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Case Studies in Advanced Materials Manufacturing",
+    "faculty": "Faculty of Applied Science",
+    "description": "The full spectrum of design encountered including the design of components, structures and processes used to manufacture materials. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 550": {
+    "subject_code": "MTRL",
+    "course_code": "550",
+    "credit": "2-4",
+    "course_name": "Metallurgical Thermodynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of advanced thermodynamic principles in metallurgical processes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 557": {
+    "subject_code": "MTRL",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Separation Science in Aqueous Metal Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "The theory of solvent extraction and ion exchange, membrane separations, chemical precipitation, electrochemical separations and other techniques for aqueous metal processing, applications from the metal processing literature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 558": {
+    "subject_code": "MTRL",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "Corrosion",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modern theories relating to corrosion and corrosion protection of metals. Thermodynamic and kinetic phenomena, corrosion measurements, inhibition and passivation, design for corrosive environments, stress corrosion cracking theory. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 559": {
+    "subject_code": "MTRL",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Advanced Hydrometallurgy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced thermochemical modelling of hydrometallurgical unit operations to include extraction, separation, and recovery of base metals. Application to flow-sheet analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 562": {
+    "subject_code": "MTRL",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Finite Elements in Heat Transfer",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of the finite element method to heat transfer and solidification; steady state and transient heat conduction; latent heat evolution and radiation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 564": {
+    "subject_code": "MTRL",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Hydrometallurgical Reactor Design and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Batch leaching kinetics, leaching mechanisms; statistical methods for design of multiparticle continuous leaching reactors; coupled heat and mass balances, mixing phenomena, redox and precipitation reactions, complex mineralogical feeds; heap and dump leaching. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 570": {
+    "subject_code": "MTRL",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Deformation of Crystalline Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Nature and properties of lattice imperfections; dislocation theory and its use to describe work hardening, creep, structure of grain boundaries and other phenomena. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 575": {
+    "subject_code": "MTRL",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Advanced Phase Transformations",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermodynamic and kinetic bases for the theory of phase transformations in the condensed state. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 578": {
+    "subject_code": "MTRL",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Microstructural Evolution of Deformed Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Physical mechanisms of microstructure evolution; structure, energy and mobilities of grain boundaries, grain boundary segregation, precipitation, recovery, recrystallization, grain growth; microstructure engineering of steels. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 579": {
+    "subject_code": "MTRL",
+    "course_code": "579",
+    "credit": "3",
+    "course_name": "Physics of Microfabrication: Front End Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Practical aspects, physical models, and simulations of Si-based nanofabrication processes such as oxidation, diffusion, ion implantation, chemical vapor deposition, etching, stress techniques. Semiconductor device physic basics will also be discussed. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 585": {
+    "subject_code": "MTRL",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Topics in Fracture Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "The equations and concepts of linear elastic fracture mechanics. Fracture toughness testing, statistical theories of fracture and proof testing, stress corrosion cracking and static fatigue. Acoustic emission and other nondestructive testing methods. Case studies of large scale fractures of pressure vessels and structures. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 588": {
+    "subject_code": "MTRL",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Electrochemical Science, Engineering and Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Electrochemical interfaces; electrode reactions; thermodynamics; kinetics and transport processes in electrochemical systems; experimental techniques. Electrochemical reactors and processes; modelling, design and economics. Electrochemical technologies; electrosynthesis, batteries and fuel cells. Electro-metallurgy; electrowinning and refining of metals, corrosion, leaching and cementation. Equivalency: CHBE_V 577, MMAT_V 588. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 592": {
+    "subject_code": "MTRL",
+    "course_code": "592",
+    "credit": "2-6",
+    "course_name": "Advanced Topics in Materials Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "May be arranged on approval of the department head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 593": {
+    "subject_code": "MTRL",
+    "course_code": "593",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Materials Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 594": {
+    "subject_code": "MTRL",
+    "course_code": "594",
+    "credit": "3",
+    "course_name": "Advanced Composite Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Processing and properties of advanced polymer based composite materials with emphasis on analysis, design, and manufacturing. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 595": {
+    "subject_code": "MTRL",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Advanced Biomaterials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Formation and structure-function relations of biological materials, the interaction of tissue-synthetic biomaterials, advanced biomaterials design, biomimetic processing, and current progress in drug delivery systems and biomedical devices. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 596": {
+    "subject_code": "MTRL",
+    "course_code": "596",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "For M.Sc. Degree. Research studies in materials engineering. Honours/Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 597": {
+    "subject_code": "MTRL",
+    "course_code": "597",
+    "credit": "6",
+    "course_name": "M.Eng. Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 598": {
+    "subject_code": "MTRL",
+    "course_code": "598",
+    "credit": "0",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Presentation and discussion of current topics in metals and materials research. A required course for graduate students in metals and materials which carries no academic credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 599": {
+    "subject_code": "MTRL",
+    "course_code": "599",
+    "credit": "18",
+    "course_name": "M.A.Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "For M.A.Sc. Degree. Research studies in materials engineering. Honours/Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MTRL 699": {
+    "subject_code": "MTRL",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

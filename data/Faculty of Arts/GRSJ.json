@@ -1,0 +1,410 @@
+{
+  "GRSJ 101": {
+    "subject_code": "GRSJ",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of intersectional feminist debates and theoretical traditions."
+  },
+  "GRSJ 102": {
+    "subject_code": "GRSJ",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Global Issues in Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Intersectional feminist theory and practice, focusing on contemporary issues in a transnational context."
+  },
+  "GRSJ 200": {
+    "subject_code": "GRSJ",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Gender and Environmental Justice",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary and cross-cultural overview of contemporary environmental issues, as they relate to gender equality and social justice challenges and initiatives that respond to ecological crises. Recommended: GRSJ 101."
+  },
+  "GRSJ 201": {
+    "subject_code": "GRSJ",
+    "course_code": "201",
+    "credit": "4",
+    "course_name": "Connecting with Computer Science",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamentals of computer science and their connections with the arts, psychology, and biology. Historical, cultural, and gender perspectives of important contributions to the field will be discussed. No prior computing background required."
+  },
+  "GRSJ 205": {
+    "subject_code": "GRSJ",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Gender, Race and Colonialism in Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The historical foundations of colonialisms in Canada from just prior to the establishment of New France to the end of World War One."
+  },
+  "GRSJ 210": {
+    "subject_code": "GRSJ",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Gender, Race and Colonialism in the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary exploration of the ways gender, class, sexuality and race shape modern histories in Canada, and transnationally, from 1920 to the present."
+  },
+  "GRSJ 224": {
+    "subject_code": "GRSJ",
+    "course_code": "224",
+    "credit": "3-6",
+    "course_name": "Gender, Race, Sexuality, and Social Justice in Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of literary study, with emphasis on intersectionality and the ways in which gender is represented in literature and contributions of feminism and gender studies to literary studies."
+  },
+  "GRSJ 225": {
+    "subject_code": "GRSJ",
+    "course_code": "225",
+    "credit": "3",
+    "course_name": "Youth Activism and Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "A critical engagement with major issues, debates, and politics in feminist and social justice scholarship through an exploration of youth movements with a focus on activists, popular culture, digital activism, fan cultures, and literature by and for youth."
+  },
+  "GRSJ 226": {
+    "subject_code": "GRSJ",
+    "course_code": "226",
+    "credit": "3",
+    "course_name": "Human Rights and Artistic Expression: Thinking Beyond the Legal",
+    "faculty": "Faculty of Arts",
+    "description": "How human rights are expressed in the Arts. Critical engagement with feminist, race and social justice scholarship, and activism."
+  },
+  "GRSJ 230": {
+    "subject_code": "GRSJ",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Gender, Race, Sexuality, and Representation in Modern Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The complex relationships between mechanisms of power, gender, and representation in Asia in different spaces examined through an interdisciplinary lens."
+  },
+  "GRSJ 235": {
+    "subject_code": "GRSJ",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Gender, Race, Sexuality, and Social Structures in Modern Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Situates Asia in a global context and explores the complex relationships between gender, social structures, and social change."
+  },
+  "GRSJ 250": {
+    "subject_code": "GRSJ",
+    "course_code": "250",
+    "credit": "3-6",
+    "course_name": "Topics in Gender, Race, Sexuality, and Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the departmental website or contact the GRSJ undergraduate program for details."
+  },
+  "GRSJ 300": {
+    "subject_code": "GRSJ",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Intersectional Approaches to Thinking Gender",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary exploration of the multiple intersections between gender and (neo)colonialism, racism, poverty, ableism, and heterosexism in a globalized world; historical and cross-cultural aspects, and the social construction of sex and gender, masculinity and femininity."
+  },
+  "GRSJ 301": {
+    "subject_code": "GRSJ",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Gender, Race and Indigeneity in Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Gender and indigeneity in the documented histories and narrated lives of Indigenous people in Canada. Recommended pre-requisites: all of GRSJ 101, GRSJ 102, or third-year standing."
+  },
+  "GRSJ 302": {
+    "subject_code": "GRSJ",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Pedagogies of Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "The intersections of gender, education, and work using sociological and economic frameworks. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 303": {
+    "subject_code": "GRSJ",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Gender, Race, Social Justice and the Law",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of feminist legal thought and recent developments in feminism and law, with a focus on Canada. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 304": {
+    "subject_code": "GRSJ",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Gaming the System: Digital Media, Social Justice, and Video Games",
+    "faculty": "Faculty of Arts",
+    "description": "Emerging technology in the areas of digital affect theory, cyborg feminism, critical digital humanities, critical race studies, surveillance studies, and queer game studies."
+  },
+  "GRSJ 305": {
+    "subject_code": "GRSJ",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Social Justice Issues in Community and International Organizing",
+    "faculty": "Faculty of Arts",
+    "description": "Critical examination and practical applications of concepts, theories, methods, and strategies of gender-aware organizing at the community and international levels. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 306": {
+    "subject_code": "GRSJ",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Globalization and Social Justice: Gender, Race, and Sexuality in International Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Critical examination of the gender dimension of globalization and the theories, discourse, and practices in international politics using gender analysis. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 307": {
+    "subject_code": "GRSJ",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Gender, Race, Sexuality, and Popular Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Critical examination of mainstream and alternative media images of gender, race, and sexuality in the context of networked social media, film, music, and television. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 308": {
+    "subject_code": "GRSJ",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Creativity from the Margins",
+    "faculty": "Faculty of Arts",
+    "description": "Critical engagement with the creative process of marginalized peoples and the intersection of creative writing, social justice, and anti-racist feminism. Emphasis on how historical and social context are crucial to acts of creative writing and reading. Recommended pre-requisites: all of GRSJ 101, GRSJ 102, or third-year standing."
+  },
+  "GRSJ 310": {
+    "subject_code": "GRSJ",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Gender, Race, Social Justice and Health",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary introduction to gender and health issues using selected theoretical frameworks. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 311": {
+    "subject_code": "GRSJ",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "African/Black Women in the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary survey of gender studies and histories of African/Black women in the Americas from the beginning of the slave trade to the present. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 315": {
+    "subject_code": "GRSJ",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Critical Racial Theories",
+    "faculty": "Faculty of Arts",
+    "description": "Critical theories of racial and cultural difference. Initial formulations of theses against scientific racism and their later transformation by historical, social, and global-historical accounts of racial subjugation."
+  },
+  "GRSJ 316": {
+    "subject_code": "GRSJ",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Queer and Trans of Colour Theorizing",
+    "faculty": "Faculty of Arts",
+    "description": "The intellectual and political interventions of queer of colour theorizing in the gender and sexual politics of racial and imperial projects, including its engagements with women of colour feminisms, settler colonial and indigenous studies, and immigration and diaspora studies."
+  },
+  "GRSJ 320": {
+    "subject_code": "GRSJ",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Feminist Anti-Racist Pedagogies",
+    "faculty": "Faculty of Arts",
+    "description": "Feminist pedagogies and feminist debates about pedagogy in formal, nonformal, and informal educational settings. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 325": {
+    "subject_code": "GRSJ",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Anti-colonial and Feminist Qualitative Methodologies",
+    "faculty": "Faculty of Arts",
+    "description": "Data collection techniques, the politics of interpretation, and the formulation of a research proposal using a feminist, anti-racist framework. Recommended pre-requisites: all of GRSJ 101, GRSJ 102. Restricted to GRSJ Majors and Minors in third-year standing or above."
+  },
+  "GRSJ 326": {
+    "subject_code": "GRSJ",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "The Politics of Gender, Families, and Nation-Building",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of historical and contemporary scholarship on the diversity of families, focusing on differences of gender, sexuality, race/ethnicity, and social class within and across national borders. Recommended pre-requisites: all of GRSJ 101, GRSJ 102. Restricted to GRSJ Majors and Minors in third-year standing or above."
+  },
+  "GRSJ 327": {
+    "subject_code": "GRSJ",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Theories of Representation and Difference",
+    "faculty": "Faculty of Arts",
+    "description": "Feminist scholarship emphasizing languages and processes of representation and the construction of difference in cultural discourses and institutions. Recommended pre-requisites: all of GRSJ 101, GRSJ 102. Restricted to GRSJ Majors and Minors in third-year standing or above."
+  },
+  "GRSJ 328": {
+    "subject_code": "GRSJ",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Theories of Subjectivity",
+    "faculty": "Faculty of Arts",
+    "description": "How feminist scholarship has shaped and reinterpreted accounts of the subject, drawing on such traditions as structuralism, poststructuralism, psychoanalysis, postcolonialism, postmodernism, and Queer Theory. Recommended pre-requisites: All of GRSJ 101, GRSJ 102. Restricted to GRSJ Majors and Minors in third-year standing or above."
+  },
+  "GRSJ 350": {
+    "subject_code": "GRSJ",
+    "course_code": "350",
+    "credit": "3-6",
+    "course_name": "Topics in Gender, Race, Sexuality, and Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the departmental website or contact the GRSJ undergraduate program for details. Recommended pre-requisites: all of GRSJ 101, GRSJ 102. Restricted to third-year standing or above"
+  },
+  "GRSJ 401": {
+    "subject_code": "GRSJ",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Body, Gender and Society",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary examination of the body, exploring how social relations and space are implicated in the constitution and experience of gendered bodies and identities, with an emphasis on feminist analyses of body-societal relations. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 410": {
+    "subject_code": "GRSJ",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Religious Feminisms",
+    "faculty": "Faculty of Arts",
+    "description": "Examines religious feminisms from three Abrahamic traditions. An in-depth study of challenges various doctrinal discourses and practices pose for feminist projects. Recommended pre-requisites: all of GRSJ 101, GRSJ 102."
+  },
+  "GRSJ 415": {
+    "subject_code": "GRSJ",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Critical Racial and Anti-Colonial Feminist Approaches",
+    "faculty": "Faculty of Arts",
+    "description": "Critical anti-colonial and feminist analyses of colonial and racial subjugation, as well as the many modalities of indigenous and minority resistance."
+  },
+  "GRSJ 422": {
+    "subject_code": "GRSJ",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Advanced Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Critical theories, methodologies, ethics and practices appropriate for advanced feminist research. Recommended pre-requisite: all of GRSJ 101, GRSJ 102. Restricted to GRSJ Majors with fourth-year standing."
+  },
+  "GRSJ 425": {
+    "subject_code": "GRSJ",
+    "course_code": "425",
+    "credit": "3-12",
+    "course_name": "Special Topics in Gender, Race, and Sexuality",
+    "faculty": "Faculty of Arts",
+    "description": "Examination in depth of selected topics in gender, race, and sexuality. Consult the Student Service Centre course schedule for course offerings. May be repeated for credit. Recommended pre-requisites: either all of GRSJ 101, GRSJ 102 or third-year standing."
+  },
+  "GRSJ 450": {
+    "subject_code": "GRSJ",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "General reading and/or a research undertaking, with the agreement, and under supervision of, a faculty member selected by the student and approved by the GRSJ Undergraduate Advisor. A written paper or equivalent will be required. Open to GRSJ majors or minors."
+  },
+  "GRSJ 480": {
+    "subject_code": "GRSJ",
+    "course_code": "480",
+    "credit": "3-6",
+    "course_name": "Decolonizing Praxis: A Practicum in Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Connects feminist and critical race theory and practice through placement in a community organization. As is the case with all UBC practice-related courses, this course requires a Criminal Record Check. Open to GRSJ Majors. This course is graded for Pass/Fail. Restricted to GRSJ Majors with fourth-year standing. Prerequisite: All of GRSJ_V 101, GRSJ_V 102 and two of GRSJ_V 325, GRSJ_V 326, GRSJ_V 327, GRSJ_V 328. Consult the department. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 500": {
+    "subject_code": "GRSJ",
+    "course_code": "500",
+    "credit": "3-6",
+    "course_name": "Current and Global Issues in Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 501": {
+    "subject_code": "GRSJ",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Methods for Social Justice Research and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 502": {
+    "subject_code": "GRSJ",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Critical Theories in Social Justice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 503": {
+    "subject_code": "GRSJ",
+    "course_code": "503",
+    "credit": "3-9",
+    "course_name": "Special Topics in Feminist Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 504": {
+    "subject_code": "GRSJ",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Decolonizing Praxis for Social Justice and Equality Studies: A Practicum",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 505": {
+    "subject_code": "GRSJ",
+    "course_code": "505",
+    "credit": "1-6",
+    "course_name": "Directed Reading in Advanced Feminist Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 506": {
+    "subject_code": "GRSJ",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Gender, Islam, Modernity, and the West",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 510": {
+    "subject_code": "GRSJ",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Extended Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 511": {
+    "subject_code": "GRSJ",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Difficult Knowledge: Ethics and Praxis of Research in Challenging Settings",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary seminar considering the ethics and praxis of working with difficult knowledge, such as highly divisive questions of memory and responsibility in the context and aftermaths of oppression and mass violence. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 512": {
+    "subject_code": "GRSJ",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Critical Studies in Sexuality: Multi-disciplinary Approaches",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 515": {
+    "subject_code": "GRSJ",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Critical and Creative Social Justice Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "The potential of creative work to disrupt ingrained ideas and representations by appealing to the senses. Study and engage with academics, artists, and activists interested in how art contributes to critical and engaged social justice work. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 520": {
+    "subject_code": "GRSJ",
+    "course_code": "520",
+    "credit": "6-9",
+    "course_name": "M.A. Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GRSJ 606": {
+    "subject_code": "GRSJ",
+    "course_code": "606",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

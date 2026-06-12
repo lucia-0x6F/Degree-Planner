@@ -1,0 +1,282 @@
+{
+  "DES 110": {
+    "subject_code": "DES",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Measured Architectural Drawing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Techniques applicable to analytic and technical drawing used in architecture, landscape architecture, and urban design with focus primarily on analog drawing techniques. Open to all UBC students regardless of prior experience. Credit will be granted for only one of ENDS 110 or DES 110."
+  },
+  "DES 130": {
+    "subject_code": "DES",
+    "course_code": "130",
+    "credit": "3",
+    "course_name": "Design, Culture and Ecology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Survey of the visual, cultural, ecological and spatial literacies in architectural and urban design."
+  },
+  "DES 200": {
+    "subject_code": "DES",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Design Thinking",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design thinking through the analysis of architecture, landscape architecture and urban design and through hands-on design projects. This course is open to all UBC students, regardless of prior experience. Credit will granted for only one of ENDS_V 231 or DES_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 201": {
+    "subject_code": "DES",
+    "course_code": "201",
+    "credit": "6",
+    "course_name": "Design Studio I - Context and Site",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design within the context of various analytical lenses including ecological, climatic, social, political, cultural and historical influences. Prerequisite: One of DES_V 110, VISA_V 180. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 202": {
+    "subject_code": "DES",
+    "course_code": "202",
+    "credit": "6",
+    "course_name": "Design Studio II - Form",
+    "faculty": "Faculty of Applied Science",
+    "description": "Essential processes and methods for thinking in three-dimensional spatial terms. Prerequisite: A grade of 60% or better in DES_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 211": {
+    "subject_code": "DES",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Design Media I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Techniques in architectural drawing, two-dimensional representation, three-dimensional representation and general visual literacy. Credit will be granted for only one of ENDS_V 320, ARCH_V 515 or DES_V 211. Prerequisite: One of DES_V 110, VISA_V 180. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 212": {
+    "subject_code": "DES",
+    "course_code": "212",
+    "credit": "3",
+    "course_name": "Design Media II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced techniques in architectural representation and discourse in digital representation and digital making. Credit will be granted for only one of ARCH_V 437, ARCH_V 517 or DES_V 212. Prerequisite: DES_V 211. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 220": {
+    "subject_code": "DES",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Architecture and Urbanism in Context: Vancouver and its Region",
+    "faculty": "Faculty of Applied Science",
+    "description": "The unfolding architecture and urbanism of Metro Vancouver. Using Vancouver as a laboratory to examine the historical transformation of the built environment, and how this has affected particular activities, land uses, and social groups within the region. Open enrolment course. Credit will be granted for only one of ENDS 220 or DES 220."
+  },
+  "DES 230": {
+    "subject_code": "DES",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Sustainability by Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Interactions between human and natural urban systems using local and international examples of successful sustainable community designs. This course is open to all UBC students, regardless of prior experience. Credit will be granted for only one of ENDS_V 221 or DES_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 231": {
+    "subject_code": "DES",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Site Analysis and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis and planning of relatively complex sites, emphasizing storm water management design. Credit will be given for only one of DES_V 231, LARC_V 440, or LARC_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 232": {
+    "subject_code": "DES",
+    "course_code": "232",
+    "credit": "3",
+    "course_name": "Material Culture",
+    "faculty": "Faculty of Applied Science",
+    "description": "An investigation of building materials and associated design objectives, environmental conditions, historical context, regulatory controls, and economic constraints. Credit will be granted for only one of DES_V 232 or ARCH_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 301": {
+    "subject_code": "DES",
+    "course_code": "301",
+    "credit": "9",
+    "course_name": "Design Studio III - Building Scale Synthesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design at the architectural scale through the medium of program and site. Prerequisite: A grade of 60% or better in DES_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 302": {
+    "subject_code": "DES",
+    "course_code": "302",
+    "credit": "9",
+    "course_name": "Design Studio IV - Vancouver",
+    "faculty": "Faculty of Applied Science",
+    "description": "Vancouver as a laboratory for design at the architectural and urban scale with a focused view into how design is implicated in the social, political, and environmental transformation of the city. Prerequisite: A grade of 60% or better in DES_V 301. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 320": {
+    "subject_code": "DES",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "History of the Design of the Built Environment",
+    "faculty": "Faculty of Applied Science",
+    "description": "A broad historical introduction to architectural and landscape architectural design within the context of politics, economics and culture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 321": {
+    "subject_code": "DES",
+    "course_code": "321",
+    "credit": "3-9",
+    "course_name": "Topics in Architectural History I (Pre-1900)",
+    "faculty": "Faculty of Applied Science",
+    "description": "History of architecture in the pre-1900 time period. Technological, political, social, and economic changes that have influenced architecture and related fields. Credit will be granted for only one of DES_V 321, ARCH_V 404 or ARCH_V 504. Prerequisite: DES_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 322": {
+    "subject_code": "DES",
+    "course_code": "322",
+    "credit": "3-9",
+    "course_name": "Topics in Architectural History II (1900-Present)",
+    "faculty": "Faculty of Applied Science",
+    "description": "History of architecture in the post-1900 time period. Technological, political, social, and economic changes which have influenced architecture and related fields. Credit will be granted for only one of DES_V 322, ARCH_V 405 or ARCH_V 505. Prerequisite: DES_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 323": {
+    "subject_code": "DES",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Histories in Landscape Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "Landscapes from medieval times to the present studied synchronically across design elements as well as chronologically with the development of several key historical concepts. Prerequisite: DES_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 330": {
+    "subject_code": "DES",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Structural Systems and Supports",
+    "faculty": "Faculty of Applied Science",
+    "description": "Basic structural systems in the built world including wood, steel, concrete, composite systems and essential structural logics of soil retention systems and drainage. Prerequisite: All of DES_V 231, DES_V 232. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 341": {
+    "subject_code": "DES",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Term I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supervised, technical work- integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to undergraduate students meeting the requirements of the Bachelor of Design and the Co-operative Education Program. Prerequisite: APSC_V 107. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 350": {
+    "subject_code": "DES",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Design Build",
+    "faculty": "Faculty of Applied Science",
+    "description": "Direct hands-on confrontation with the realities of design and construction, engaging in both conventional and unconventional building processes. Prerequisite: DES 302."
+  },
+  "DES 401": {
+    "subject_code": "DES",
+    "course_code": "401",
+    "credit": "9",
+    "course_name": "Design Studio V - Urban Systems Scale Synthesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Relationships between communities and environment, urban infrastructure and ecological systems. Prerequisite: A grade of 60% or better in DES_V 302. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 402": {
+    "subject_code": "DES",
+    "course_code": "402",
+    "credit": "9",
+    "course_name": "Design Studio VI - Away",
+    "faculty": "Faculty of Applied Science",
+    "description": "A design project engaged with an international context and site. Emphasis placed on mapping, interpretation of the international context as well as methods of construction, notions of program, and policies, regulations and codes that relate to the site. Prerequisite: A grade of 60% or better in DES_V 401. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 403": {
+    "subject_code": "DES",
+    "course_code": "403",
+    "credit": "9",
+    "course_name": "Senior Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Final design project in the Honours Option with an independently conceived methodology allowing a student the opportunity to pursue his/her own set of interests and concerns. Prerequisite: A sessional average of 80% or better in each of years 2 and 3 and a grade of 80% or better in each of DES_V 201, 202, 301, 302 and DES_V 401. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 421": {
+    "subject_code": "DES",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Design Theory",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to a broad range of theories in architecture and design as they relate to the built environment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 422": {
+    "subject_code": "DES",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Urbanism by Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "A history of the planning, landscape architecture and urban design of cities, and of how ideas have influenced the design of the city. Prerequisite: One of DES_V 321, DES_V 322, DES_V 323. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 430": {
+    "subject_code": "DES",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Environment, Urban Form, and Infrastructure",
+    "faculty": "Faculty of Applied Science",
+    "description": "Relationships between, and integration of, the natural environment and the physical form, spatial structure, and infrastructure of livability of cities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 442": {
+    "subject_code": "DES",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Term II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supervised, technical work- integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to undergraduate students meeting the requirements of the Bachelor of Design and the Co-operative Education Program. Prerequisite: DES_V 341. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 443": {
+    "subject_code": "DES",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Term III",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supervised, technical work- integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to undergraduate students meeting the requirements of the Bachelor of Design and the Co-operative Education Program. Prerequisite: DES_V 442. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 444": {
+    "subject_code": "DES",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Co-operative Education Work Term IV",
+    "faculty": "Faculty of Applied Science",
+    "description": "Supervised, technical work- integrated learning experience in a public or private organization for a minimum of three months. Formal co-op assignments required. Restricted to undergraduate students meeting the requirements of the Bachelor of Design and the Co-operative Education Program. Prerequisite: DES_V 443. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 445": {
+    "subject_code": "DES",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Entrepreneurship and Ethics in Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Core business skills, building on students' design capabilities to pursue ethical and sustainable design-based business goals. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 450": {
+    "subject_code": "DES",
+    "course_code": "450",
+    "credit": "1-9",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 562": {
+    "subject_code": "DES",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Research Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Processes, procedures, ethics and quality expectations of advanced research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 565": {
+    "subject_code": "DES",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "Research Colloquium",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 567": {
+    "subject_code": "DES",
+    "course_code": "567",
+    "credit": "3-6",
+    "course_name": "Directed Reading in Design, Technology and Society",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "DES 699": {
+    "subject_code": "DES",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

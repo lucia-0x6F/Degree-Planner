@@ -1,0 +1,1730 @@
+{
+  "HIST 100": {
+    "subject_code": "HIST",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "What is History?",
+    "faculty": "Faculty of Arts",
+    "description": "The discipline of history through the study of questions, sources, methods, and controversies. Includes case studies of key turning points in world history to examine what historians do and why it matters."
+  },
+  "HIST 102": {
+    "subject_code": "HIST",
+    "course_code": "102",
+    "credit": "6",
+    "course_name": "World History from 1500 to the Twentieth Century",
+    "faculty": "Faculty of Arts",
+    "description": "The civilizations of Asia, Europe, Africa and the Americas, with emphasis on the political, economic, ecological and cultural links among them, and the impact of oceanic contact, imperialism, warfare, migration, and globalization."
+  },
+  "HIST 103": {
+    "subject_code": "HIST",
+    "course_code": "103",
+    "credit": "6",
+    "course_name": "World History Since 1900",
+    "faculty": "Faculty of Arts",
+    "description": "International relations; changes in the nation-state system; the emergence and impact of major political ideologies; genocide; decolonization; the globalization of trade; and the dynamics of economic, social, cultural, and environmental change in a global context."
+  },
+  "HIST 104": {
+    "subject_code": "HIST",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Topics in World History",
+    "faculty": "Faculty of Arts",
+    "description": "Thematically-organized topics will explore global aspects of human experience across time. Each section will examine a single theme. Check with the department for course offerings."
+  },
+  "HIST 109": {
+    "subject_code": "HIST",
+    "course_code": "109",
+    "credit": "3",
+    "course_name": "Cultural Histories of Media: From Writing to Tweeting",
+    "faculty": "Faculty of Arts",
+    "description": "The history of different forms of media in global perspective, with particular attention to audiovisual electronic media."
+  },
+  "HIST 112": {
+    "subject_code": "HIST",
+    "course_code": "112",
+    "credit": "3",
+    "course_name": "Global History from the 15th to 20th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of global history from the 15th to the 20th century, a transformative period marked by profound social, political, economic and environmental changes."
+  },
+  "HIST 113": {
+    "subject_code": "HIST",
+    "course_code": "113",
+    "credit": "3",
+    "course_name": "Global History Since 1900",
+    "faculty": "Faculty of Arts",
+    "description": "Historical survey of the 20th and 21st centuries. Includes international relations, colonialism, decolonization, and political ideologies. Application of historical sources and methods to examine the dynamics of change in a global context."
+  },
+  "HIST 200": {
+    "subject_code": "HIST",
+    "course_code": "200",
+    "credit": "3-6",
+    "course_name": "Asia and the World",
+    "faculty": "Faculty of Arts",
+    "description": "The political, economic, social, cultural, and human interactions between Asia and the world, inter-Asian relations, Asian diaspora, colonialism, war and the social consequences of conflict, decolonization, industrial growth, and developing world issues."
+  },
+  "HIST 201": {
+    "subject_code": "HIST",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "History Through Photographs",
+    "faculty": "Faculty of Arts",
+    "description": "The discipline of history through the study of photographs. Explores themes such as colonialism, orientalism, the mass media, representations of gender and sexuality, and protest through photographic evidence."
+  },
+  "HIST 202": {
+    "subject_code": "HIST",
+    "course_code": "202",
+    "credit": "3-6",
+    "course_name": "Gateway to the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "Problems and themes of medieval European History through the close study of the people and cultures that produced them."
+  },
+  "HIST 203": {
+    "subject_code": "HIST",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "The Global War on Terror",
+    "faculty": "Faculty of Arts",
+    "description": "Critically examines the origins, impacts, and legacies of the nebulous “Global War on Terror”."
+  },
+  "HIST 204": {
+    "subject_code": "HIST",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "History Through Video Games",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of global histories through video games and uses of video games for research by historians."
+  },
+  "HIST 205": {
+    "subject_code": "HIST",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Introduction to Historical Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the study of medieval and modern material culture, with special emphasis on Canada, using archaeological evidence to illustrate the principles, aims, and techniques of historical archaeology and related disciplines."
+  },
+  "HIST 206": {
+    "subject_code": "HIST",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Magic, Miracles, and Witchcraft: The Supernatural in Medieval Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Social, religious, and political functions of the supernatural in late antique, early medieval, and medieval European society (400-1400 CE). Emphasis on the different roles and impacts of magic, witchcraft, and the occult in pre-modern European conceptions of the cosmos."
+  },
+  "HIST 207": {
+    "subject_code": "HIST",
+    "course_code": "207",
+    "credit": "3",
+    "course_name": "Global Environmental History",
+    "faculty": "Faculty of Arts",
+    "description": "The impact humans have had on the environment, and the ways in which the physical environment has shaped human history: climate, agriculture, energy use, and urbanization. Credit will only be granted for one of HIST_V 207 or HIST_V 106. Equivalency: HIST_V 106"
+  },
+  "HIST 208": {
+    "subject_code": "HIST",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Global Indigenous Histories",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the experiences of Indigenous peoples and the nature of colonialisms around the world since 1500, and an introduction to historical practices and perspectives. Credit will only be granted for one of HIST_V 208 or HIST_V 107. Equivalency: HIST_V 107"
+  },
+  "HIST 209": {
+    "subject_code": "HIST",
+    "course_code": "209",
+    "credit": "3",
+    "course_name": "Global History of Capitalism",
+    "faculty": "Faculty of Arts",
+    "description": "The history of capitalism in its global dimension from the beginnings to the age of industrialization. An investigation of economies - in both their practices and cultures - around the world and across the ages from ancient times to the modern era. Credit will only be granted for one of HIST_V 209 or HIST_V 108. Equivalency: HIST_V 108"
+  },
+  "HIST 211": {
+    "subject_code": "HIST",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "History of Global Migration",
+    "faculty": "Faculty of Arts",
+    "description": "Explores the mass migration of people in the modern world through a global perspective. Industrial and export-oriented economies in the mid-nineteenth century to contemporary issues of border regulation and refugees. Credit will be granted for only one of HIST_V 211 or HIST_V 110. Equivalency: HIST_V 110."
+  },
+  "HIST 212": {
+    "subject_code": "HIST",
+    "course_code": "212",
+    "credit": "3",
+    "course_name": "History Through Film",
+    "faculty": "Faculty of Arts",
+    "description": "Explores films as a powerful medium for making history. Analyze visual arguments and historical representations, claims, and narratives made in films."
+  },
+  "HIST 217": {
+    "subject_code": "HIST",
+    "course_code": "217",
+    "credit": "3",
+    "course_name": "Global History Before 1500: Eurasia",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to historical practices in global history and their applications to the study of human societies across Eurasia up to 1500 CE. Includes introduction to historical analysis of primary source texts, materials, and images. Credit will only be granted for one of HIST_V 217 or HIST_V 101."
+  },
+  "HIST 218": {
+    "subject_code": "HIST",
+    "course_code": "218",
+    "credit": "3",
+    "course_name": "Global History Before 1500: Africa and the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to historical practices in global history and their applications to the study of human societies across Africa and the Americas up to 1500 CE. Includes introduction to historical analysis of primary source texts, materials, images, and oral traditions. Credit will only be granted for one of HIST_V 218 or HIST_V 101."
+  },
+  "HIST 220": {
+    "subject_code": "HIST",
+    "course_code": "220",
+    "credit": "3-6",
+    "course_name": "History of Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Selected themes and historical approaches in European history; may include Europe's history of religious conflict, state formation, colonialism, nationalism, industrialization, revolution, total war, globalization, genocide, or environmental change."
+  },
+  "HIST 235": {
+    "subject_code": "HIST",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "History of Canada: Moments that Matter",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to major turning points in Canadian history. Exploration of the social, political, cultural, and environmental transformations/revolutions that have shaped Canada from early European colonialism to the twenty-first century."
+  },
+  "HIST 236": {
+    "subject_code": "HIST",
+    "course_code": "236",
+    "credit": "3",
+    "course_name": "Introduction to Public History in Canada: Confronting the Canadian Past",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to public history in Canada that explores the politics and practice of representing the past in a variety of sites, such as museums, monuments, and films, and examines questions of historical interpretation, memory, and audience."
+  },
+  "HIST 237": {
+    "subject_code": "HIST",
+    "course_code": "237",
+    "credit": "3-6",
+    "course_name": "History of the United States",
+    "faculty": "Faculty of Arts",
+    "description": "Survey from colonial period to present examining political system, slavery, Civil War, race relations and civil rights, westward expansion, industrialization, feminism, expanding international presence, Cold War, and modern culture."
+  },
+  "HIST 240": {
+    "subject_code": "HIST",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Health, Illness and Medicine",
+    "faculty": "Faculty of Arts",
+    "description": "History of health, illness and medicine from the Ancient to the modern world."
+  },
+  "HIST 250": {
+    "subject_code": "HIST",
+    "course_code": "250",
+    "credit": "3-6",
+    "course_name": "Latin American History",
+    "faculty": "Faculty of Arts",
+    "description": "Exploring themes of colonialism, indigenous life, national imaginaries, dictatorships and transitions to democracy through different forms of telling Latin American history. Includes epistolary writing, maps, eyewitness accounts, chronicles, actions, novels, films, built environment and city plans, testimonios, and plays."
+  },
+  "HIST 252": {
+    "subject_code": "HIST",
+    "course_code": "252",
+    "credit": "3",
+    "course_name": "Modern Caribbean History",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of social, cultural and political history of Anglophone, Francophone and Spanish Caribbean from the Haitian Revolution to the present."
+  },
+  "HIST 256": {
+    "subject_code": "HIST",
+    "course_code": "256",
+    "credit": "3",
+    "course_name": "History of Africa",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to selected themes and historical approaches in African history. These may include African geography and identities, sources and methodology, pre-modern state formation, gender relations, world religions, labour systems, colonialism, and post-colonialism. Credit will be granted for only one of AFST_V 256 or HIST_V 256. Equivalency: AFST_V 256"
+  },
+  "HIST 259": {
+    "subject_code": "HIST",
+    "course_code": "259",
+    "credit": "3",
+    "course_name": "Science, Medicine, and Technology in the Ancient and Medieval Worlds",
+    "faculty": "Faculty of Arts",
+    "description": "The history of science, medicine, and technology, emphasizing networks, exchanges, and encounters in a global context."
+  },
+  "HIST 260": {
+    "subject_code": "HIST",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Science and Society in the Contemporary World",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the historical development, conceptual foundations, and cultural significance of contemporary science. Themes will vary from year to year. Credit will be granted for only one of HIST_V 260 or PHIL_V 260. Equivalency: PHIL_V 260."
+  },
+  "HIST 270": {
+    "subject_code": "HIST",
+    "course_code": "270",
+    "credit": "3-6",
+    "course_name": "China in World History",
+    "faculty": "Faculty of Arts",
+    "description": "The history of China in a global context, from the earliest times to the most recent past; how China has changed the world and how engagement with the world has changed China. Credit will be granted for only one of HIST_V 270 or ASIA_V 270. Equivalency: ASIA_V 270."
+  },
+  "HIST 271": {
+    "subject_code": "HIST",
+    "course_code": "271",
+    "credit": "3",
+    "course_name": "Japan and Global History, 1550 - 1900",
+    "faculty": "Faculty of Arts",
+    "description": "Thematic study of comparisons and relations between Japan and the world outside (primarily Europe and China). Commercial expansion, systems of world order, social institutions, religious and ideological expression, and state organization."
+  },
+  "HIST 273": {
+    "subject_code": "HIST",
+    "course_code": "273",
+    "credit": "3",
+    "course_name": "History of India",
+    "faculty": "Faculty of Arts",
+    "description": "Societies, cultures, and politics of the Indian subcontinent from its ancient civilizations to the formation of the modern nation-states of South Asia."
+  },
+  "HIST 279": {
+    "subject_code": "HIST",
+    "course_code": "279",
+    "credit": "3",
+    "course_name": "Steppe Empires in World History",
+    "faculty": "Faculty of Arts",
+    "description": "Powerful empires that flourished over the Eurasian Steppe, from the earliest to modern times, and how regimes and cultures associated with these empires have changed the world."
+  },
+  "HIST 280": {
+    "subject_code": "HIST",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Islamic World History",
+    "faculty": "Faculty of Arts",
+    "description": "The history of the Islamic world in its global dimensions from its origins to the present day through the themes of religion, law, politics, culture, and modernity."
+  },
+  "HIST 290": {
+    "subject_code": "HIST",
+    "course_code": "290",
+    "credit": "3",
+    "course_name": "Contemporary Global Issues in Historical Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "Places issues and problems of current relevance in historical perspective. Credit will only be granted for one of HIST_V 290 or HIST_V 105. Equivalency: HIST_V 105."
+  },
+  "HIST 300": {
+    "subject_code": "HIST",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Vikings: Then and Now",
+    "faculty": "Faculty of Arts",
+    "description": "Historical and archaeological study of Viking-Age and premodern Scandinavia and the Vikings complex legacies in contemporary cultural heritage."
+  },
+  "HIST 301": {
+    "subject_code": "HIST",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Global Medieval Heritage and Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of cultural heritage work and policy based on contemporary international case studies that engage the global medieval past."
+  },
+  "HIST 302": {
+    "subject_code": "HIST",
+    "course_code": "302",
+    "credit": "3-6",
+    "course_name": "History of the Indigenous Peoples of North America",
+    "faculty": "Faculty of Arts",
+    "description": "Indigenous peoples from pre-contact to the present in Canada and the U.S. Topics may include colonial frontiers, disease, fur trade, government policies, environment, gender, religion, oral narratives, activism, urbanization, and identity."
+  },
+  "HIST 303": {
+    "subject_code": "HIST",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "First Contacts in the Pacific",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary history of early European contact with the Indigenous peoples of the northwest coast of North America and the Pacific Islands. Credit will only be granted for one of HIST_V 464 or HIST_V 303. Equivalency: HIST_V 464."
+  },
+  "HIST 304": {
+    "subject_code": "HIST",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Researching Local History from the Ground Up",
+    "faculty": "Faculty of Arts",
+    "description": "Sources and methods for reconstructing local history that can be used by Social Studies teachers in B.C. The aim is to develop an appreciation of the formative processes and past experiences that created one's familiar community."
+  },
+  "HIST 305": {
+    "subject_code": "HIST",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "History of British Columbia",
+    "faculty": "Faculty of Arts",
+    "description": "The social, political, cultural, environmental, and economic transformations that have made British Columbia. Topics include the histories of Indigenous and settler peoples, the modern state, migration, activism, and identity."
+  },
+  "HIST 306": {
+    "subject_code": "HIST",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Indigenous Rights in British Columbia: History, Legacy, Future",
+    "faculty": "Faculty of Arts",
+    "description": "Indigenous organizing, direct action, court cases and treaty-making in the context of settler colonial policies. Prior knowledge of Indigenous history is helpful but not required."
+  },
+  "HIST 307": {
+    "subject_code": "HIST",
+    "course_code": "307",
+    "credit": "3-6",
+    "course_name": "Topics in Indigenous History",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in Indigenous history in North America and beyond. HIST_V 302 or other background in the field is recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 308": {
+    "subject_code": "HIST",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Quebec from the End of the 18th Century to the Present",
+    "faculty": "Faculty of Arts",
+    "description": "Relations between the English and the Canadians prior to the Rebellions of 1837-38, the emergence of French Canadian nationalism after 1840, the impact of State formation and industrialization in Quebec, the Quiet Revolution, and the independence movement."
+  },
+  "HIST 309": {
+    "subject_code": "HIST",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "History of Children and Youth",
+    "faculty": "Faculty of Arts",
+    "description": "History of childhood and adolescence. Topics include education, work and play, associated ideologies, children's material and popular culture, and differences of identity based on region, class, race, and gender. Credit will only be granted for one of HIST_V 443 or HIST_V 309. Equivalency: HIST_V 443."
+  },
+  "HIST 310": {
+    "subject_code": "HIST",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Culture and Politics in Turn of the Century Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Explores the relations between intensifying political crisis and cultural innovation in Europe and its global networks from 1880 to the First World War."
+  },
+  "HIST 311": {
+    "subject_code": "HIST",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "The British Empire",
+    "faculty": "Faculty of Arts",
+    "description": "The creation, development and twilight of the British Empire."
+  },
+  "HIST 312": {
+    "subject_code": "HIST",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Southern Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Pre-colonial, colonial, and contemporary, emphasizing South Africa. Credit will be granted for only one of AFST_V 312 or HIST_V 312. Equivalency: AFST_V 312"
+  },
+  "HIST 313": {
+    "subject_code": "HIST",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Modern Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Africa in the 19th and 20th Centuries: Islamic revolutions, the end of the slave trades, colonial conquest, labour struggles, Christianity's new appeal, PanAfricanism, nationalist resistance, and decolonization. Post-independence challenges of nation-building and economic development. Cultural renaissances and the politics of tradition. Credit will be granted for only one of AFST_V 313 or HIST_V 313. Equivalency: AFST_V 313"
+  },
+  "HIST 314": {
+    "subject_code": "HIST",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Asian Migrations to the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "Examines both the?historical and contemporary contexts for migration from Asia to Canada and the Americas. Credit will only be granted for one of HIST_V 483 or?HIST_V?314. Equivalency:?HIST_V?483."
+  },
+  "HIST 315": {
+    "subject_code": "HIST",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "History of Global Health",
+    "faculty": "Faculty of Arts",
+    "description": "The emergence of global health since 1800. Medical and social response to infectious diseases and epidemics, the ethical foundations of global health, and the relationship among health, colonialism, international collaboration, and the developing world. Credit will only be granted for one of HIST_V 315 or HIST_V 443. Equivalency: HIST_V 440."
+  },
+  "HIST 316": {
+    "subject_code": "HIST",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "History of Vancouver",
+    "faculty": "Faculty of Arts",
+    "description": "Selected themes in the history of Vancouver, exploring how the study of the past illuminates or explains major debates in the city today. Credit will be granted for only one of HIST_V 316 or HIST_V 415 Equivalency: HIST_V 415."
+  },
+  "HIST 317": {
+    "subject_code": "HIST",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Britain, 1850-1918",
+    "faculty": "Faculty of Arts",
+    "description": "Britain from the Great Exhibition to the Great War: the creation of a mass electorate, the New Imperialism, the New Woman, and the ways that class, race, gender, and sexuality shaped modern Britain."
+  },
+  "HIST 318": {
+    "subject_code": "HIST",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Revolution and Resistance in the Third World",
+    "faculty": "Faculty of Arts",
+    "description": "Revolutionary movements in the Third World during the second half of the twentieth century; the radicalisation of anticolonial nationalism; the impact of anticolonial radicalism in the developed world; the decline of Marxism as a revolutionary inspiration. Credit will only be granted for one of HIST_V 460 or HIST_V 318. Equivalency: HIST_V 460."
+  },
+  "HIST 319": {
+    "subject_code": "HIST",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Britain, 1945 to the Present",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of recent British history, with emphasis on de-colonization, emergence of the welfare state, new social movements and patterns of immigration, and Britain's changing relationship with Europe."
+  },
+  "HIST 320": {
+    "subject_code": "HIST",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Constitutions in Canadian History: From Pre-Contact to the Charter of Rights",
+    "faculty": "Faculty of Arts",
+    "description": "European precedents, Colonial self-government, Canadian Confederation, and issues such as gay rights, abortion, and First Nations land rights. Credit will be granted for only one of HIST_V 320 or HIST_V 414. Equivalency: HIST_V 414."
+  },
+  "HIST 321": {
+    "subject_code": "HIST",
+    "course_code": "321",
+    "credit": "6-12",
+    "course_name": "Honours Tutorial",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 322": {
+    "subject_code": "HIST",
+    "course_code": "322",
+    "credit": "3-6",
+    "course_name": "History of Canadian International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Themes include Canadian relations with the United States and British Empire, the emergence of Canada in international organizations such as the United Nations and NATO, and Canada's role in the development of international law, international trade, and human rights systems. Credit will only be granted for one of HIST_V 322 or HIST_V 411. Equivalency: HIST_V 411."
+  },
+  "HIST 323": {
+    "subject_code": "HIST",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Empires, Wars, and Revolutions in Europe and the Americas,1763-1838",
+    "faculty": "Faculty of Arts",
+    "description": "Political, social, cultural, and intellectual transformations that reshaped the Atlantic world between 1763 and 1838; special attention will be given to the American, French, and Haitian Revolutions, the Latin American Wars of Independence and Canadian rebellions."
+  },
+  "HIST 324": {
+    "subject_code": "HIST",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Inventing Canada, 1840-1896",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of political, cultural and national developments within the British North American colonies in the second half of the nineteenth century. Credit will not be granted for both HIST 324 or 326, if 326 was taken before 2007W."
+  },
+  "HIST 325": {
+    "subject_code": "HIST",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Canada 1896-1945: Boom, Bust and War",
+    "faculty": "Faculty of Arts",
+    "description": "Includes Aboriginal policy, immigration and national identity; Canada, Britain and the US; World Wars; economic modernization; the Great Depression; regionalism; political and social movements; and the creation of 'Canadian' culture. Credit will only be granted for one of HIST_V 325 or HIST_V 426."
+  },
+  "HIST 326": {
+    "subject_code": "HIST",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Canada Since 1945: Affluence and Anxiety in the Atomic Age",
+    "faculty": "Faculty of Arts",
+    "description": "Includes immigration policy; the welfare state; Aboriginal peoples; the Cold War; resource economies and national politics; continentalism and free trade; constitutional crises; conflicting nationalisms; and new social movements. Credit will only be granted for one of HIST_V 326 or HIST_V 426."
+  },
+  "HIST 327": {
+    "subject_code": "HIST",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Colonialism and Revolution in the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "Colonial encounters, resistance and revolutionary change across the Americas and the Caribbean."
+  },
+  "HIST 329": {
+    "subject_code": "HIST",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Heroes, Rebels, Villains, Folks: The People Who Shaped Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Canadian history through the lens of individual people's lives and their social impact. Themes include race, class, gender, sexuality, indigeneity, colonialism, slavery, immigration, moral regulation, and activism."
+  },
+  "HIST 330": {
+    "subject_code": "HIST",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "History of the Global Financial Order",
+    "faculty": "Faculty of Arts",
+    "description": "Origins and transformation of the global financial order (18th century onward) in relation to war, state-building, international political economy, and colonialism."
+  },
+  "HIST 331": {
+    "subject_code": "HIST",
+    "course_code": "331",
+    "credit": "3-6",
+    "course_name": "Problems in International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in international relations, including trade, migration, diplomacy, war, colonialism and post- colonialism."
+  },
+  "HIST 332": {
+    "subject_code": "HIST",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Slave Societies in the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative analysis of the institution of chattel slavery, its growth, its effects on slaves and masters, its relation to the larger society, and the causes of its decline, in the various cultures of the Americas. Credit will be granted for only one of HIST_V 332 or HIST_V 444. Equivalency: HIST_V 444."
+  },
+  "HIST 333": {
+    "subject_code": "HIST",
+    "course_code": "333",
+    "credit": "3-6",
+    "course_name": "Third-Year Honours Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 334": {
+    "subject_code": "HIST",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "African-American History, 1450 - 1850",
+    "faculty": "Faculty of Arts",
+    "description": "The history of African Americans from the beginnings of the African slave trade in the 15th Century through the mid-1800s and the coming of the U.S. Civil War."
+  },
+  "HIST 335": {
+    "subject_code": "HIST",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "African-American History, 1850 to the Present",
+    "faculty": "Faculty of Arts",
+    "description": "The history of African-Americans from the Civil War and emancipation through the present. Topics include the Jim Crow system; the Harlem Renaissance; the Civil Rights Movement; and the current economic and political status of Americans of African ancestry."
+  },
+  "HIST 336": {
+    "subject_code": "HIST",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Imperial and Colonial Archaeology and Museums",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of imperialism and colonialism on archaeological practice, museum collecting, and the telling of historical narratives."
+  },
+  "HIST 337": {
+    "subject_code": "HIST",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "The 1960s in Global Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "The history of the 1960s from a transnational perspective: culture, social change, student activism, and global conflict. Credit will be granted for only one of HIST_V 337 or HIST_V 418. Equivalency: HIST_V 418."
+  },
+  "HIST 338": {
+    "subject_code": "HIST",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "American Modernity: The United States, 1890-1945",
+    "faculty": "Faculty of Arts",
+    "description": "U.S. emergence as an industrial powerhouse and, eventually, a global superpower; responses to industrial society, meaning of modern times, economic upheaval and social change, U.S.'s role as a world power, and politics of race, ethnicity, and gender."
+  },
+  "HIST 339": {
+    "subject_code": "HIST",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "The United States Since 1945: The Limits of Power",
+    "faculty": "Faculty of Arts",
+    "description": "American military and geo-political power during and after Cold War; wars in Korea, Vietnam, and Middle East; domestic issues including McCarthyism, social movements (blacks, women, youth, gays and lesbians, and Native Americans), consumerism, immigration, and rise of New Right."
+  },
+  "HIST 340": {
+    "subject_code": "HIST",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Histories of the American West",
+    "faculty": "Faculty of Arts",
+    "description": "Frontier ideologies in relation to race, gender, class, sexuality. Place-making and historical narrative in and about the western part of the United States."
+  },
+  "HIST 341": {
+    "subject_code": "HIST",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Medieval Jewish History",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the political, social, economic, and cultural history of the Jews from the time of the Christianization of the Roman Empire to the expulsion of professing Jews from Spain and Portugal at the end of the fifteenth century."
+  },
+  "HIST 342": {
+    "subject_code": "HIST",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Modern Jewish History",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the political, social, economic, and cultural history of the Jews from the beginning of the sixteenth century to the present with special emphasis on changing attitudes to Jews and Judaism, social and cultural transformations."
+  },
+  "HIST 343": {
+    "subject_code": "HIST",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Medieval Gender, Christianity, and the Body",
+    "faculty": "Faculty of Arts",
+    "description": "Medieval representations and treatments of gendered bodies through disciplines of history, religion, and archaeology. Implications of a dominant male standard in early Christian thought."
+  },
+  "HIST 344": {
+    "subject_code": "HIST",
+    "course_code": "344",
+    "credit": "3-6",
+    "course_name": "Ancient Regime France",
+    "faculty": "Faculty of Arts",
+    "description": "The political, social and/or cultural history of early modern France before the Revolution. Topics may include: the changing significance of the monarchy; the Enlightenment critique of the Catholic Church and religion; the 'pre-revolution'. Credit will only be granted for one of HIST_V 344 or HIST_V 406."
+  },
+  "HIST 345": {
+    "subject_code": "HIST",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Crime and Punishment in Canadian History",
+    "faculty": "Faculty of Arts",
+    "description": "The relationship between law and society; the development of legal institutions and the evolving character of crime in Canada. Credit will be granted for only one of HIST_V 345 or HIST_V 419. Equivalency: HIST_V 419."
+  },
+  "HIST 346": {
+    "subject_code": "HIST",
+    "course_code": "346",
+    "credit": "3-6",
+    "course_name": "History of Modern France",
+    "faculty": "Faculty of Arts",
+    "description": "The political, social, and cultural history of France from the Revolution of 1789 to the present. Topics may include: France's journey toward democracy and republicanism, the country's many revolutions over the course of the nineteenth century; the country's unique model of demographic and industrial modernization."
+  },
+  "HIST 347": {
+    "subject_code": "HIST",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Russian History: From Kievan Rus to Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "History of Russia from its medieval foundations through the Russian Revolution."
+  },
+  "HIST 348": {
+    "subject_code": "HIST",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "History of the Holocaust",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the systematic attempt to destroy European Jewry during the Nazi regime, 1933- 1945. Topics of special importance include: the motivations and behaviour of the perpetrators; the reactions of the victims; the roles of bystanders. Credit will be granted for only one of HIST_V 348 or HIST_V 441. Equivalency: HIST_V 441."
+  },
+  "HIST 349": {
+    "subject_code": "HIST",
+    "course_code": "349",
+    "credit": "3",
+    "course_name": "Imperial Russian History, 1800 to 1917",
+    "faculty": "Faculty of Arts",
+    "description": "History of Russia from the time of Catherine the Great to the Russian Revolution with particular focus on social and cultural history."
+  },
+  "HIST 350": {
+    "subject_code": "HIST",
+    "course_code": "350",
+    "credit": "3-6",
+    "course_name": "The Soviet Union",
+    "faculty": "Faculty of Arts",
+    "description": "History of the Soviet Union. Topics may include the political, social, and cultural history of the Soviet Union and post-Soviet successor states from 1900 to the present."
+  },
+  "HIST 351": {
+    "subject_code": "HIST",
+    "course_code": "351",
+    "credit": "3-6",
+    "course_name": "East Central Europe in the 19th and 20th Centuries",
+    "faculty": "Faculty of Arts",
+    "description": "Covers the region between Germany and Russia as well as Southeast Europe. Emphasis on comparisons with Western Europe and features that make the area significant to Europe as a whole."
+  },
+  "HIST 352": {
+    "subject_code": "HIST",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Modern Middle Eastern History",
+    "faculty": "Faculty of Arts",
+    "description": "Politics, culture, society, war, and diplomacy; themes include colonialism, nationalism, and authoritarianism; emphasis on the 20th and 21st centuries."
+  },
+  "HIST 353": {
+    "subject_code": "HIST",
+    "course_code": "353",
+    "credit": "3-6",
+    "course_name": "Special Topics in Middle Eastern History",
+    "faculty": "Faculty of Arts",
+    "description": "An in-depth study of one major topic in the ancient and/or modern history of the Middle East. Please consult the Department webpage for current offerings."
+  },
+  "HIST 354": {
+    "subject_code": "HIST",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "The Ottoman Empire",
+    "faculty": "Faculty of Arts",
+    "description": "The rise and fall of the Ottoman empire; themes include Islamic law, politics, art, culture, gender relations, and the influence of religion on statecraft."
+  },
+  "HIST 356": {
+    "subject_code": "HIST",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "Twentieth-Century Germany",
+    "faculty": "Faculty of Arts",
+    "description": "The political, social, and cultural history of Germany in the twentieth century."
+  },
+  "HIST 357": {
+    "subject_code": "HIST",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "History of Mexico",
+    "faculty": "Faculty of Arts",
+    "description": "Examines themes in the last five hundred years of Mexican history, with an emphasis on the critical reading of primary sources and the use of a variety of texts that may include letters, diaries, paintings, photographs, novels, and movies."
+  },
+  "HIST 358": {
+    "subject_code": "HIST",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "State and Society in 20th century Cuba",
+    "faculty": "Faculty of Arts",
+    "description": "The history and historiography of 20th century Cuba, with particular attention to changing state structures and their impact on everyday life."
+  },
+  "HIST 359": {
+    "subject_code": "HIST",
+    "course_code": "359",
+    "credit": "3-6",
+    "course_name": "War and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history. Credit will only be granted for one of HIST_V 359 or HIST_V 425."
+  },
+  "HIST 360": {
+    "subject_code": "HIST",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "International Relations, 1900-1945",
+    "faculty": "Faculty of Arts",
+    "description": "The evolution of the contemporary international system from its nineteenth-century origins to the global order of the mid-twentieth century. Credit will only be granted for only one of HIST_V 360 or HIST_V 432."
+  },
+  "HIST 361": {
+    "subject_code": "HIST",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "International Relations Since 1945",
+    "faculty": "Faculty of Arts",
+    "description": "The evolution of the contemporary international system from the end of the Second World War to the beginning of the twenty-first century. Credit will only be granted for only one of HIST_V 361 or HIST_V 432."
+  },
+  "HIST 362": {
+    "subject_code": "HIST",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "The Islamic Golden Age",
+    "faculty": "Faculty of Arts",
+    "description": "Political, economic, social, and cultural history of the premodern Islamic World and its global connections during the Abbasid Caliphate, with attention to the relevance of this past to our contemporary world."
+  },
+  "HIST 363": {
+    "subject_code": "HIST",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Europe in the Early Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the development of institutions, ideas and the economy in Europe from about 400 through about 1000 CE."
+  },
+  "HIST 364": {
+    "subject_code": "HIST",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "Europe in the Late Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the development of institutions, ideas and the economy in Europe from about 1000 CE through the fourteenth century."
+  },
+  "HIST 365": {
+    "subject_code": "HIST",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Europe During the Renaissance",
+    "faculty": "Faculty of Arts",
+    "description": "The interplay between new and traditional ideas, styles, and institutions from the fourteenth to the mid-sixteenth century, with emphasis upon the relationship of social, economic, and political factors to intellectual and cultural change."
+  },
+  "HIST 366": {
+    "subject_code": "HIST",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "Europe During the Reformation",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of European history that place both the Protestant Reformation and the Catholic Reformation in the broader context of the political, social, cultural, and economic changes during the early modern era."
+  },
+  "HIST 367": {
+    "subject_code": "HIST",
+    "course_code": "367",
+    "credit": "3",
+    "course_name": "Europe in the Age of the Enlightenment",
+    "faculty": "Faculty of Arts",
+    "description": "Europe during the age of the Enlightenment, from the end of the religious wars to the French Revolution, with emphasis on political, social, cultural, and intellectual changes in their global context."
+  },
+  "HIST 368": {
+    "subject_code": "HIST",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Enlightenment, Revolution and the Making of Modern Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Major transformations in Europe from the Enlightenment to the beginning of the 20th century. Ideas, political change and social upheaval in a global context."
+  },
+  "HIST 369": {
+    "subject_code": "HIST",
+    "course_code": "369",
+    "credit": "3",
+    "course_name": "Europe, 1900-1950",
+    "faculty": "Faculty of Arts",
+    "description": "Europe in the first half of the twentieth century. Themes include the imperialist system, two world wars and their aftermaths, political and social movements of the interwar years, the Depression, and the crisis of liberal democracy. Credit will be granted for only one of HIST_V 369 or HIST_V 462. Equivalency: HIST_V 462."
+  },
+  "HIST 370": {
+    "subject_code": "HIST",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Europe Since 1950",
+    "faculty": "Faculty of Arts",
+    "description": "Europe since the middle of the twentieth century. Themes include the Cold War, the development of separate social and political systems in Western and Eastern Europe, the emergence of the welfare state, and the problems of European integration."
+  },
+  "HIST 371": {
+    "subject_code": "HIST",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "U.S. Foreign Relations from Independence to World War II",
+    "faculty": "Faculty of Arts",
+    "description": "U.S. foreign policy and international history. Examines the American rise to power and political, economic, and cultural relationships between the United States and other peoples, organizations, and states worldwide. Credit will be granted for only one of HIST_V 371 or HIST_V 408. Equivalency: HIST_V 408."
+  },
+  "HIST 372": {
+    "subject_code": "HIST",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "U.S. Foreign Relations since 1945",
+    "faculty": "Faculty of Arts",
+    "description": "U.S. foreign policy and international history. Political, economic, and cultural relationships between the United States and other peoples, organizations, and states worldwide. Credit will be granted for only one of HIST_V 372 or HIST_V 409. Equivalency: HIST_V 409."
+  },
+  "HIST 373": {
+    "subject_code": "HIST",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "History of Hong Kong",
+    "faculty": "Faculty of Arts",
+    "description": "History, culture, and identities of Hong Kong from the early 1800s to the present. Credit will be granted for only one of HIST_V 373 or ASIA_V 373. Equivalency: ASIA_V 373."
+  },
+  "HIST 374": {
+    "subject_code": "HIST",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "The First World War",
+    "faculty": "Faculty of Arts",
+    "description": "WWI as a global war; cultural history and legacy; impact of imperialism on the war; military technology. Credit will be granted for only one of HIST_V 374 or HIST_V 404. Equivalency: HIST_V 404."
+  },
+  "HIST 375": {
+    "subject_code": "HIST",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "The Second World War",
+    "faculty": "Faculty of Arts",
+    "description": "Precursors and consequences of the war; military, political, cultural, social, and economic histories of how the war shaped and reflected its global context. Themes include totalitarianism, genocide, and imperialism and decolonization. Credit will be granted for only one of HIST_V 375 or HIST_V 406. Equivalency: HIST_V 406."
+  },
+  "HIST 376": {
+    "subject_code": "HIST",
+    "course_code": "376",
+    "credit": "3-6",
+    "course_name": "Modern Japanese History Since 1830",
+    "faculty": "Faculty of Arts",
+    "description": "Meanings of modernity, from the establishment of a nation-state to the creation of a colonial empire, postwar occupation, modern politics and global influence. Social change, including civil protest, mass culture, censorship and expression, and gender, sexuality, ethnicity and race."
+  },
+  "HIST 377": {
+    "subject_code": "HIST",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "History of Cantonese Worlds",
+    "faculty": "Faculty of Arts",
+    "description": "The history, culture, languages, and identities of the multi-faceted Cantonese worlds, in the context of Chinese history and the Cantonese diaspora. Credit will be granted for only one of HIST_V 377 or ASIA_V 323. Equivalency: ASIA_V 323. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 378": {
+    "subject_code": "HIST",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "History of Early China",
+    "faculty": "Faculty of Arts",
+    "description": "History of China from the earliest times to the disintegration of the Tang Empire. Students will acquire the analytical skills and tools to understand the origins and foundations of Chinese society. Credit will be granted for only one of HIST_V 378 or ASIA_V 320. Equivalency: ASIA_V 320."
+  },
+  "HIST 379": {
+    "subject_code": "HIST",
+    "course_code": "379",
+    "credit": "3",
+    "course_name": "History of Later Imperial China",
+    "faculty": "Faculty of Arts",
+    "description": "History of China from the end of Tang to the eve of its modern transformation. Students will acquire the analytical skills and tools to understand the political, socio-economic, and cultural changes in imperial China. Credit will be granted for only one of HIST_V 379 or ASIA_V 340. Equivalency: ASIA_V 340."
+  },
+  "HIST 380": {
+    "subject_code": "HIST",
+    "course_code": "380",
+    "credit": "3-6",
+    "course_name": "The Making of Modern China: Nationalism, War, Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "The history of China from 1800 to the present including the decline of the Qing empire, the rise of modern nationalism, foreign invasion, and China's multiple revolutions."
+  },
+  "HIST 381": {
+    "subject_code": "HIST",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Imperialism and Nationalism in Southeast Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The history of European imperial rule, the forms of resistance to it, and the formation of nationalist movements in Southeast Asia. The countries studied include Vietnam, Indonesia, the Philippines, Burma, and Thailand."
+  },
+  "HIST 382": {
+    "subject_code": "HIST",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Post-Colonial Southeast Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The history of the Japanese occupation, wars of independence, international relations of the independent nation-states, and internal armed conflicts. Special attention will be paid to the wars in Vietnam, Indonesia, and East Timor."
+  },
+  "HIST 383": {
+    "subject_code": "HIST",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Foundations of Sikh Traditions",
+    "faculty": "Faculty of Arts",
+    "description": "Sikh religious beliefs, practices, institutions, and thought. Emphasis on the history of the Sikh Gurus and their writings, and the larger social and cultural forces within which the tradition developed."
+  },
+  "HIST 384": {
+    "subject_code": "HIST",
+    "course_code": "384",
+    "credit": "3",
+    "course_name": "The Making of Modern Sikhism",
+    "faculty": "Faculty of Arts",
+    "description": "Historical, social, and cultural forces that shaped Sikh religious beliefs, practices, institutions, and thought in the modern period, including both colonial and post-colonial contexts and the transnational Sikh community."
+  },
+  "HIST 385": {
+    "subject_code": "HIST",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "India from Raj to Republic",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of the rise of the East India Company as territorial power, the formation of a colonial society in India, competing responses to British rule, the struggle for independence, and the legacies of partition."
+  },
+  "HIST 386": {
+    "subject_code": "HIST",
+    "course_code": "386",
+    "credit": "3-6",
+    "course_name": "Korea Since 1860",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of the political, economic, social, and cultural transformations of Korea since the late nineteenth century. Topics include the end of the Choson Dynasty, the history of Japanese colonial rule, the Korean war, and the two Koreas in the international system."
+  },
+  "HIST 387": {
+    "subject_code": "HIST",
+    "course_code": "387",
+    "credit": "3",
+    "course_name": "Voices from Medieval India",
+    "faculty": "Faculty of Arts",
+    "description": "History of medieval India explored through different stories from and about India's pre-modern past. Studies trends in society, religion, politics, and material life to reveal the dynamism of this period and to challenge simplified narratives of Hindu-Muslim confrontation."
+  },
+  "HIST 388": {
+    "subject_code": "HIST",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "India in the Early Modern World: Kings, Courtesans, and Saints",
+    "faculty": "Faculty of Arts",
+    "description": "History of India during the period of Mughal rule (roughly 1500-1750). Studies the role of India and the Mughals within the global dynamics of the early modern world."
+  },
+  "HIST 389": {
+    "subject_code": "HIST",
+    "course_code": "389",
+    "credit": "3",
+    "course_name": "Asian Cities",
+    "faculty": "Faculty of Arts",
+    "description": "Urban, environmental, and cultural history through Asian Cities."
+  },
+  "HIST 390": {
+    "subject_code": "HIST",
+    "course_code": "390",
+    "credit": "3-6",
+    "course_name": "Topics in History",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website https://history.ubc.ca/courses/ for more information. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 391": {
+    "subject_code": "HIST",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Human Rights in World History",
+    "faculty": "Faculty of Arts",
+    "description": "Changing ideas about humanity and rights. Considers the relationship between human rights and the nation-state, imperialism, and capitalism. Assesses the efforts to end large-scale human rights violations and the role of the United Nations."
+  },
+  "HIST 392": {
+    "subject_code": "HIST",
+    "course_code": "392",
+    "credit": "3",
+    "course_name": "Scientific Revolution: Circulation of Knowledge in the Early Modern World",
+    "faculty": "Faculty of Arts",
+    "description": "The profound transformation of knowledge about the world in the context of the first global encounter of civilizations between 1450 and 1800. Explores the foundations for modern science."
+  },
+  "HIST 393": {
+    "subject_code": "HIST",
+    "course_code": "393",
+    "credit": "3",
+    "course_name": "Introduction to History and Philosophy of Science",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of historical, conceptual, and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science. Credit will be granted for only one of HIST_V 393 or PHIL_V 360. Equivalency: PHIL_V 360"
+  },
+  "HIST 394": {
+    "subject_code": "HIST",
+    "course_code": "394",
+    "credit": "3",
+    "course_name": "Darwin, Evolution, and Modern History",
+    "faculty": "Faculty of Arts",
+    "description": "Darwin and the science of evolution in nineteenth and early twentieth century. Credit will be granted for only one of HIST_V 394 or PHIL_V 364. Equivalency: PHIL_V 364."
+  },
+  "HIST 395": {
+    "subject_code": "HIST",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "The Nuclear Century: Scientists, Atoms, and the World Order Since 1900",
+    "faculty": "Faculty of Arts",
+    "description": "Science and the military-industrial complex; quantum and relativistic revolutions in physics; nuclear energy and weapons of mass destruction; international tensions, environmental damage, and global perils."
+  },
+  "HIST 396": {
+    "subject_code": "HIST",
+    "course_code": "396",
+    "credit": "3",
+    "course_name": "Environmental History of North America",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of land use and environmental change in Canada and the United States; examines ideas and practices that shaped indigenous and non-indigenous resource exploitation, management, and activism to the end of the twentieth century."
+  },
+  "HIST 397": {
+    "subject_code": "HIST",
+    "course_code": "397",
+    "credit": "3",
+    "course_name": "Environmental History of the Modern World",
+    "faculty": "Faculty of Arts",
+    "description": "Major themes in global environmental history and historiography since 1500, with a particular focus on the nineteenth through twenty-first centuries."
+  },
+  "HIST 398": {
+    "subject_code": "HIST",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "The History of Modern Medicine",
+    "faculty": "Faculty of Arts",
+    "description": "The history of health and disease in the modern world, focusing in particular on the emergence and history of modern biomedicine."
+  },
+  "HIST 399": {
+    "subject_code": "HIST",
+    "course_code": "399",
+    "credit": "3-6",
+    "course_name": "Theory and Practice of History",
+    "faculty": "Faculty of Arts",
+    "description": "Approaches to the history of historical inquiry, with particular attention to theoretical and methodo-logical debates among historians. Recommended for history majors. Not open to Department of History honours students."
+  },
+  "HIST 400": {
+    "subject_code": "HIST",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "The Practice of Oral History",
+    "faculty": "Faculty of Arts",
+    "description": "The practice, ethics, and politics of oral history. Provides research training, where students design and complete projects based on oral history interviews."
+  },
+  "HIST 401": {
+    "subject_code": "HIST",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Seafaring in the Age of Sail",
+    "faculty": "Faculty of Arts",
+    "description": "Humankind's encounter with its ocean frontier through exploration, trading, fishing, whaling, piracy, and naval warfare from 1400 to 1850."
+  },
+  "HIST 403": {
+    "subject_code": "HIST",
+    "course_code": "403",
+    "credit": "3-9",
+    "course_name": "Seminar in the History of International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in the history of international relations. Restricted to fourth-year students majoring in History or International Relations, and History Honours students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 405": {
+    "subject_code": "HIST",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Diplomacy and Conflict in the Middle East, 1914 to the Present",
+    "faculty": "Faculty of Arts",
+    "description": "International relations in the Middle East in the aftermath of the Ottoman Empire, with special attention to the conflicts between Jews of Palestine/Israel and their Arab neighbours."
+  },
+  "HIST 412": {
+    "subject_code": "HIST",
+    "course_code": "412",
+    "credit": "3-6",
+    "course_name": "The American Impact on Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The influence of the United States' rise to continental, hemispheric, and world power upon Canada. Topics may include areas of economics, defence, and foreign policy."
+  },
+  "HIST 413": {
+    "subject_code": "HIST",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Imagining the Nation: 19th- and 20th-Century Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The political and intellectual history of the concept of the nation in French and English Canada, and the different forms of nationalism it inspired from the middle of the nineteenth century to the 1995 Quebec Referendum."
+  },
+  "HIST 420": {
+    "subject_code": "HIST",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "Topics in Canadian History",
+    "faculty": "Faculty of Arts",
+    "description": "May include immigration, French-English relations, the growth of the state, health and welfare, or the family."
+  },
+  "HIST 421": {
+    "subject_code": "HIST",
+    "course_code": "421",
+    "credit": "6-12",
+    "course_name": "Honours Tutorial",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 423": {
+    "subject_code": "HIST",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Economic and Business History of Modern Japan",
+    "faculty": "Faculty of Arts",
+    "description": "From 1800 to the present; emphasis on the business strategies of Japan's largest companies; attention also to broader economic topics such as international trade, government policy, social impact of industry, business and politics, labour, and post-1971 multi-nationalism."
+  },
+  "HIST 424": {
+    "subject_code": "HIST",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Economic History of the Pre-Modern World",
+    "faculty": "Faculty of Arts",
+    "description": "Historic origins and drivers of economic growth around the globe."
+  },
+  "HIST 425": {
+    "subject_code": "HIST",
+    "course_code": "425",
+    "credit": "6",
+    "course_name": "War and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Continuity and change in the relations of war and society, the connections between the economy, society, the military, and government in peacetime as well as war; not a course in military history."
+  },
+  "HIST 433": {
+    "subject_code": "HIST",
+    "course_code": "433",
+    "credit": "3-6",
+    "course_name": "Fourth-Year Honours Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 435": {
+    "subject_code": "HIST",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Gender and Sexuality in the Modern U. S.",
+    "faculty": "Faculty of Arts",
+    "description": "Gender roles and gender relations from the Gilded Age to the present day. Topics include political movements such as suffrage and feminism; labour and recreation; marriage, family, and children's socialization; sexuality; and popular culture."
+  },
+  "HIST 436": {
+    "subject_code": "HIST",
+    "course_code": "436",
+    "credit": "3-6",
+    "course_name": "European Social History",
+    "faculty": "Faculty of Arts",
+    "description": "Topics may include changes in economic activity, social structure, family life, religious attitudes, and popular behaviour which accompanied the transformation of Europe from a pre-industrial to an industrial society."
+  },
+  "HIST 446": {
+    "subject_code": "HIST",
+    "course_code": "446",
+    "credit": "3-6",
+    "course_name": "Topics in U.S. Cultural History",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "HIST 447": {
+    "subject_code": "HIST",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Selected Topics in United States History",
+    "faculty": "Faculty of Arts",
+    "description": "Examines in depth a significant period, theme, or topic in the history of the United States. Possible subjects include The West, the Great Depression, the Sixties, and Class, Race, and Gender."
+  },
+  "HIST 449": {
+    "subject_code": "HIST",
+    "course_code": "449",
+    "credit": "3-12",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 450": {
+    "subject_code": "HIST",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Selected Topics in Latin American History",
+    "faculty": "Faculty of Arts",
+    "description": "A study in depth of one major topic (such as the Cuban Revolution or Peronism) in the recent history of Latin America."
+  },
+  "HIST 451": {
+    "subject_code": "HIST",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Family and Community in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "The role of family and community from the colonial period to the present. Emergence of the nation state as it affected community and family structures."
+  },
+  "HIST 453": {
+    "subject_code": "HIST",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Class and Culture in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "The relationship between culture and class formation from the late colonial period to the present."
+  },
+  "HIST 455": {
+    "subject_code": "HIST",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Gender and Sexuality in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "The construction of gender ideologies and gendered and sexual identities, including masculine, feminine, and transgendered, in modern Latin America. [3-0-0]"
+  },
+  "HIST 456": {
+    "subject_code": "HIST",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Race in the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "Legacies of African, European, and Asian migrations, and colonial encounters with indigenous peoples in the Americas. Includes the creation of racial categories, the making of transnational and transracial families, and the emergence of race-based social and cultural movements."
+  },
+  "HIST 466": {
+    "subject_code": "HIST",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "Topics in Indigenous History of Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Selected interdisciplinary topics in the history of Canada's Indigenous peoples after European contact, including historical demography, economic interdependency, missionary encounters, gender relations, and interactions with colonial powers and the nation state. Recommended: HIST_V 302 or other background in the field. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 467": {
+    "subject_code": "HIST",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Topics in Indigenous History of the United States",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary topics in the history of the United States' Indigenous peoples from before European contact. HIST_V 302 or other background in the field is recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 470": {
+    "subject_code": "HIST",
+    "course_code": "470",
+    "credit": "3-6",
+    "course_name": "Seminar in Medieval History",
+    "faculty": "Faculty of Arts",
+    "description": "Annually changing topics of medieval studies with special attention to research methods on primary sources."
+  },
+  "HIST 472": {
+    "subject_code": "HIST",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Imagining the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "Influence of nostalgia for the history, literature, arts, architecture, and traditions of medieval European centuries on modern intellectual, artistic, and nationalist and racist political movements in Europe and North America. Restricted to students with third-year standing or higher."
+  },
+  "HIST 473": {
+    "subject_code": "HIST",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Women in the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "A study of women's roles in the family, society, law, religion, the economy, and literature from about 500 to 1500 CE."
+  },
+  "HIST 474": {
+    "subject_code": "HIST",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Ideas and Religions of the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "A survey and exploration of the development, interpenetration, conflict, and transformation of various intellectual and religious traditions during the Middle Ages."
+  },
+  "HIST 475": {
+    "subject_code": "HIST",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Documenting Punjabi Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of the history of the Punjabi Canadian community through traditional text-based methods and oral history collection. Credit will be granted for only one of HIST_V 475 or ASIA_V 475. Equivalency: ASIA_V 475. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 476": {
+    "subject_code": "HIST",
+    "course_code": "476",
+    "credit": "3",
+    "course_name": "Law and Society in the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "The history of law in the Middle Ages, including English common law, civil (Roman) law, and canon law, and how changes in both medieval law and society affected the development of each."
+  },
+  "HIST 477": {
+    "subject_code": "HIST",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "Constitutional History of Medieval Europe",
+    "faculty": "Faculty of Arts",
+    "description": "The evolution of political institutions, the emergence of royal governments as well as representative assemblies and urban republic and conflicts within and among them leading to the emergence of modern structures."
+  },
+  "HIST 478": {
+    "subject_code": "HIST",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Medieval Portraits and Personalities",
+    "faculty": "Faculty of Arts",
+    "description": "The lives of leading and controversial figures in the Middle Ages and the means by which they have portrayed themselves and been portrayed by others."
+  },
+  "HIST 479": {
+    "subject_code": "HIST",
+    "course_code": "479",
+    "credit": "3-6",
+    "course_name": "Cultural History of Imperial China",
+    "faculty": "Faculty of Arts",
+    "description": "An in-depth examination of the construction, transmission, and transformation of Chinese culture(s) prior to 1800. A maximum of 6 credits will be granted for only one of HIST_V 479 or ASIA_V 440. Equivalency: ASIA_V 479."
+  },
+  "HIST 480": {
+    "subject_code": "HIST",
+    "course_code": "480",
+    "credit": "3-6",
+    "course_name": "Social History of Modern China",
+    "faculty": "Faculty of Arts",
+    "description": "Changes and continuities in Chinese society and culture from the late imperial period to the present. Topics may include rural and urban life, social stratification, social movements and ideology, family and community, popular beliefs and cultural values."
+  },
+  "HIST 481": {
+    "subject_code": "HIST",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Education and Society in Modern China",
+    "faculty": "Faculty of Arts",
+    "description": "The relationship between education and society in China since 1600; classical learning and the civil service examination system; popular literacy; sino-foreign interactions in education; education and gender; nationalism and education; the education revolution in China after 1949."
+  },
+  "HIST 482": {
+    "subject_code": "HIST",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Chinese Migration",
+    "faculty": "Faculty of Arts",
+    "description": "This history of Chinese migrations from the founding of the state to the present day. Migration is used as a focus through which to examine some key themes of Chinese history; ethnicity, boundary creation, economic growth and international relations."
+  },
+  "HIST 484": {
+    "subject_code": "HIST",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "East Asian Military systems and warfare China",
+    "faculty": "Faculty of Arts",
+    "description": "Confucian societies are often thought of as ones in which the brush is mightier than the sword. In fact the military has been a crucial factor in East Asia, and warfare has been the engine which has driven many of the most significant changes in East Asian history. This course will look at the evolution of East Asian military systems, and at the impact of recurrent warfare on East Asia societies."
+  },
+  "HIST 485": {
+    "subject_code": "HIST",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Asian Migrant Communities in Vancouver",
+    "faculty": "Faculty of Arts",
+    "description": "This course will examine the history of Asian migration to Vancouver and British Columbia, focusing on the development of local communities and provide a background in historical research methods that will enable the students to conduct research on the history of these communities."
+  },
+  "HIST 487": {
+    "subject_code": "HIST",
+    "course_code": "487",
+    "credit": "3",
+    "course_name": "History of Alternative and Complementary Medicine: Acupuncture to Yoga",
+    "faculty": "Faculty of Arts",
+    "description": "Alternative and complementary healing in history, including Traditional Chinese Medicine (TCM), yoga, meditation, and alternative drug therapies. Specific themes may vary from year to year."
+  },
+  "HIST 488": {
+    "subject_code": "HIST",
+    "course_code": "488",
+    "credit": "3-6",
+    "course_name": "Special Topics in Asian History",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "HIST 490": {
+    "subject_code": "HIST",
+    "course_code": "490",
+    "credit": "3-9",
+    "course_name": "Seminar for Majors in History",
+    "faculty": "Faculty of Arts",
+    "description": "Selected problems in the theory and practice of historical work. Check with the department for course offerings. Restricted to fourth-year students majoring in History or in the History and Philosophy of Science. Also open to History Honours students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 491": {
+    "subject_code": "HIST",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Science and the Enlightenment",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the relationship between science and society in the long eighteenth century. Topics include empiricism, classification, academies, print culture, and voyages of exploration."
+  },
+  "HIST 493": {
+    "subject_code": "HIST",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "History and Social Relations of Modern Sciences.",
+    "faculty": "Faculty of Arts",
+    "description": "Science and society in the 19th to 21st Centuries. [3-0-0]"
+  },
+  "HIST 494": {
+    "subject_code": "HIST",
+    "course_code": "494",
+    "credit": "3",
+    "course_name": "Machines, Media, and Modernity: Frankenstein to Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "The cultural contexts and consequences of science and nineteenth century technology. European and North American developments."
+  },
+  "HIST 495": {
+    "subject_code": "HIST",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Evolution and the Sciences of Mind, Brain, and Behaviour",
+    "faculty": "Faculty of Arts",
+    "description": "Examines how Darwin's theory of evolution changed the investigation of human nature. Questions will be historical and scientific, but will also concern the social, ethical, and existential stakes raised by the human mind as a product of evolution."
+  },
+  "HIST 500": {
+    "subject_code": "HIST",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Readings in Canadian History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 505": {
+    "subject_code": "HIST",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Readings in American History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 510": {
+    "subject_code": "HIST",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Readings in British History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 520": {
+    "subject_code": "HIST",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Readings in Medieval History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 525": {
+    "subject_code": "HIST",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Professional Development for Historians",
+    "faculty": "Faculty of Arts",
+    "description": "Offers essential skills for academic and non-academic paths in the historical profession as well as identifying alternative career possibilities for historians. Offers essential skills for academic and non-academic paths in the historical profession as well as identifying alternative career possibilities for historians. Restricted to students in the following programs: PhD in History, MA in History This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 530": {
+    "subject_code": "HIST",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Readings in French History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 535": {
+    "subject_code": "HIST",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Readings in Central European History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 540": {
+    "subject_code": "HIST",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Readings in Russian and East European History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 547": {
+    "subject_code": "HIST",
+    "course_code": "547",
+    "credit": "3-12",
+    "course_name": "Readings: Special Topics in History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 548": {
+    "subject_code": "HIST",
+    "course_code": "548",
+    "credit": "3-12",
+    "course_name": "Historiography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 549": {
+    "subject_code": "HIST",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 550": {
+    "subject_code": "HIST",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Readings in Early Modern European History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 554": {
+    "subject_code": "HIST",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Readings in Modern European History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 558": {
+    "subject_code": "HIST",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "Readings in Comparative Asian History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 560": {
+    "subject_code": "HIST",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Readings in Chinese History (to 1911)",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 561": {
+    "subject_code": "HIST",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Readings in Chinese History (post-1911)",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 563": {
+    "subject_code": "HIST",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Methodology and Sources in Chinese History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 566": {
+    "subject_code": "HIST",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Readings in 20th-Century Japanese History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 568": {
+    "subject_code": "HIST",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Readings in Early Modern Japanese and World History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 569": {
+    "subject_code": "HIST",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Methodology and Sources in Japanese History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 570": {
+    "subject_code": "HIST",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Seminar in Japanese History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 573": {
+    "subject_code": "HIST",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Readings in Southeast Asian History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 575": {
+    "subject_code": "HIST",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Readings in International and Global History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 577": {
+    "subject_code": "HIST",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Readings in South Asian History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 580": {
+    "subject_code": "HIST",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Readings in Latin American History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 581": {
+    "subject_code": "HIST",
+    "course_code": "581",
+    "credit": "3-12",
+    "course_name": "Topics in Science, Technology, and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced seminar on a specific theme or themes of interest to both STS and History. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 585": {
+    "subject_code": "HIST",
+    "course_code": "585",
+    "credit": "3-12",
+    "course_name": "Topics in Cultural History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 586": {
+    "subject_code": "HIST",
+    "course_code": "586",
+    "credit": "3-12",
+    "course_name": "Topics in Intellectual History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 589": {
+    "subject_code": "HIST",
+    "course_code": "589",
+    "credit": "3",
+    "course_name": "Readings in Environmental History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 594": {
+    "subject_code": "HIST",
+    "course_code": "594",
+    "credit": "3",
+    "course_name": "Readings in Aboriginal History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 595": {
+    "subject_code": "HIST",
+    "course_code": "595",
+    "credit": "3-6",
+    "course_name": "Public History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 596": {
+    "subject_code": "HIST",
+    "course_code": "596",
+    "credit": "3",
+    "course_name": "Oral History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 597": {
+    "subject_code": "HIST",
+    "course_code": "597",
+    "credit": "3-12",
+    "course_name": "Topics in Comparative History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 599": {
+    "subject_code": "HIST",
+    "course_code": "599",
+    "credit": "3",
+    "course_name": "M.A. Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 649": {
+    "subject_code": "HIST",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HIST 699": {
+    "subject_code": "HIST",
+    "course_code": "699",
+    "credit": "3",
+    "course_name": "Ph.D. Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

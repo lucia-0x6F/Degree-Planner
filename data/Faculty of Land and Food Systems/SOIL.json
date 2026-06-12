@@ -1,0 +1,130 @@
+{
+  "SOIL 500": {
+    "subject_code": "SOIL",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Graduate Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 501": {
+    "subject_code": "SOIL",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Advanced Soil Processes",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Integrating the environmental factors influencing soil-forming processes and their ecological implications. Credit will be granted for only one of SOIL_V 501 or APBI_V 401. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 502": {
+    "subject_code": "SOIL",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Advanced Sustainable Soil Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Integration of fundamental, unifying, soil science principles in sustainable ecosystem management. Credit will be granted for only one of SOIL_V 502 or APBI_V 402. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 503": {
+    "subject_code": "SOIL",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Advanced Soil Sampling, Analyses and Data Interpretation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Field and laboratory analytical techniques in the chemical, biological and physical assessment of soils. Credit will be granted for only one of SOIL_V 503 or APBI_V 403. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 512": {
+    "subject_code": "SOIL",
+    "course_code": "512",
+    "credit": "3-6",
+    "course_name": "Advanced Soil Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Current research in root-soil interfaces. Offered in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 513": {
+    "subject_code": "SOIL",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Advanced Soil Physics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Infiltration and evaporation of water, flow and storage of heat and chemicals in soil, and interactions with the atmosphere. Emphasis on mathematical formulation of problems and solutions using analytical and numerical methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 514": {
+    "subject_code": "SOIL",
+    "course_code": "514",
+    "credit": "3-6",
+    "course_name": "Biometeorology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Energy and mass exchange in the biosphere with emphasis on the interfaces between the atmosphere and soils, plants and animals. Offered in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 515": {
+    "subject_code": "SOIL",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Watershed Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Watershed evaluation, key aspects of hydrology, water quality, land use impacts on water resources and integration of multiple land use activities and their cumulative impacts. Equivalency: LWS_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 516": {
+    "subject_code": "SOIL",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Urban Watershed Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Urbanization impacts on water resources with a focus on rainwater management, water quality, point and non-point sources of pollution, drinking water and waste water, riparian buffer zones, cumulative effects, and application of beneficial management practices. Equivalency: LWS_V 516. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 517": {
+    "subject_code": "SOIL",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Land and Water Resource Evaluation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Topics in land and water system evaluations and assessing resource development options; monitoring and modelling environmental systems. Equivalency: LWS_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 518": {
+    "subject_code": "SOIL",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Water in International Development",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Key water issues associated with international development: global water demand, scarcity, efficiency of use, water as a commodity, biophysical and policy aspects of water management, water and health, land use impact, water harvesting, improved irrigation, and pollution prevention. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 520": {
+    "subject_code": "SOIL",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Agricultural Watershed Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Intensive and extensive agriculture with a focus on water needs, water use, and impacts on water resources. Non-point sources of pollution, nutrient modelling, soil and land degradation, protection, and rehabilitation of watersheds including buffer zones, wetlands, and best management practices. Equivalency: LWS_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 524": {
+    "subject_code": "SOIL",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Instrumentation for Biometeorology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "The theory, design and evaluation of instrumentation for biometeorological research. Prerequisite: Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 530": {
+    "subject_code": "SOIL",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 549": {
+    "subject_code": "SOIL",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SOIL 649": {
+    "subject_code": "SOIL",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

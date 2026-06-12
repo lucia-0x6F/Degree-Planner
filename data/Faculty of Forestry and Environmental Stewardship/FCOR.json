@@ -1,0 +1,58 @@
+{
+  "FCOR 500": {
+    "subject_code": "FCOR",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Leadership and Sustainability",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Sustainability, change agency, systems thinking; personal awareness and perspective taking for effective engagement and communication; adaptive leadership; human change dynamics; cross-disciplinary cases studies in organizational and social change. Credit will be granted for only one of FCOR_V 500 or APPP_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FCOR 501": {
+    "subject_code": "FCOR",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Project Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Project management concepts, processes and tools for the environmental and forestry sectors. Credit will be granted for only one of FCOR_V 501 or APPP_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FCOR 502": {
+    "subject_code": "FCOR",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Entrepreneurship",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Fundamentals of innovation and entrepreneurship. Credit will be granted for only one of FCOR_V 502 or BAEN_V 550. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FCOR 503": {
+    "subject_code": "FCOR",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Policy Analysis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Fundamentals of policy analysis and project evaluation, with an emphasis on the practical decision making and behavioral considerations that underlie policy making, stakeholder engagement, and implementation processes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FCOR 510": {
+    "subject_code": "FCOR",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Professional Communication",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FCOR 511": {
+    "subject_code": "FCOR",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Working with Diverse Knowledge Systems in Sustainable Natural Resources Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FCOR 599": {
+    "subject_code": "FCOR",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Project Proposal Development and Proof of Concept",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Develop, write and present the components of an effective proposal focused on exploring an environmental issue. This course is not eligible for Credit/D/Fail grading."
+  }
+}

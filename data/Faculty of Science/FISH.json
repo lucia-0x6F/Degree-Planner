@@ -1,0 +1,130 @@
+{
+  "FISH 500": {
+    "subject_code": "FISH",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Issues in Fisheries Research: Seminars - Fisheries Management",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 501": {
+    "subject_code": "FISH",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Issues in Fisheries Research: Ecosystem Modelling",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 502": {
+    "subject_code": "FISH",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Issues in Fisheries Research: Marine and Freshwater",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 503": {
+    "subject_code": "FISH",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Issues in Fisheries Research: Policy and Evaluation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 504": {
+    "subject_code": "FISH",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Quantitative Analysis of Fisheries I",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 505": {
+    "subject_code": "FISH",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Quantitative Analysis of Fisheries II",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 506": {
+    "subject_code": "FISH",
+    "course_code": "506",
+    "credit": "1-6",
+    "course_name": "Current Topics in Fisheries",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 507": {
+    "subject_code": "FISH",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Grand Challenges in Ocean Leadership",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 508": {
+    "subject_code": "FISH",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Fisheries Economics and Management",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 509": {
+    "subject_code": "FISH",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Bayesian Methods for Fisheries Stock Assessment",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 510": {
+    "subject_code": "FISH",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Bayesian Decision Analysis for Fisheries Management",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 520": {
+    "subject_code": "FISH",
+    "course_code": "520",
+    "credit": "6",
+    "course_name": "Fisheries Conservation, Governance, and Evaluation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 548": {
+    "subject_code": "FISH",
+    "course_code": "548",
+    "credit": "1-3",
+    "course_name": "Directed Studies in Oceans and Fisheries",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 549": {
+    "subject_code": "FISH",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 599": {
+    "subject_code": "FISH",
+    "course_code": "599",
+    "credit": "18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FISH 699": {
+    "subject_code": "FISH",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

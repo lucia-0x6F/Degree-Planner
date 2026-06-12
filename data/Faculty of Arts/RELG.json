@@ -1,0 +1,218 @@
+{
+  "RELG 102": {
+    "subject_code": "RELG",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Introduction to Religions in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of religious traditions of Asia, including communities, professionals, practices and beliefs of small-scale and large-scale societies. Approaches and theories drawn from the field of religious studies. Equivalency: ASIA110"
+  },
+  "RELG 204": {
+    "subject_code": "RELG",
+    "course_code": "204",
+    "credit": "6",
+    "course_name": "Introduction to Asian Religions",
+    "faculty": "Faculty of Arts",
+    "description": "The religions of India, China, and Japan in their interactions and cultural contexts, including Hinduism, Buddhism, Jainism, Sikhism, Taoism, Confucianism, and Shinto."
+  },
+  "RELG 207": {
+    "subject_code": "RELG",
+    "course_code": "207",
+    "credit": "3",
+    "course_name": "Classical Islam",
+    "faculty": "Faculty of Arts",
+    "description": "The history and culture, values, and achievements of Islamic societies from 700-1500; the interconnections between power, politics, gender, and the arts in Islamic societies. This course is highly recommended as a basis for all 300- and 400-level Islamic Studies courses."
+  },
+  "RELG 208": {
+    "subject_code": "RELG",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Modern Islam",
+    "faculty": "Faculty of Arts",
+    "description": "The history and culture, values, and socio-political movements of the Islamic world from 1500 to the modern day; the interconnections between power, politics, gender, and the arts in modern Islamic societies. This course is highly recommended as a basis for all 300- and 400-level Islamic Studies courses."
+  },
+  "RELG 211": {
+    "subject_code": "RELG",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "History of Christianity II (15th C. C.E. - present)",
+    "faculty": "Faculty of Arts",
+    "description": "The history of Christianity from the Reformation to the present day. Provides an historical overview of Christian thought and its institutions and significant people during the rise of the Reformation in various locales of Europe and beyond (Germany, France, Great Britain, Switzerland, and Scandinavia)."
+  },
+  "RELG 302": {
+    "subject_code": "RELG",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Death and Afterlife in Western Religious Tradition",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of traditional attitudes toward death and beliefs regarding human existence after death in Western religions."
+  },
+  "RELG 309": {
+    "subject_code": "RELG",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Jews and Christians",
+    "faculty": "Faculty of Arts",
+    "description": "Aspects of Jewish-Christian relations from the beginnings of Christianity to the present day. Emphasis on the study of Christian and Jewish texts in translation."
+  },
+  "RELG 310": {
+    "subject_code": "RELG",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Jewish Responses to Catastrophe",
+    "faculty": "Faculty of Arts",
+    "description": "Topics include the destruction of the Second Temple, the Crusades, the expulsions from Spain and Portugal, and the Holocaust. A study of texts in translation."
+  },
+  "RELG 311": {
+    "subject_code": "RELG",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Jewish Literature in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of Jewish literature in medieval and modern times."
+  },
+  "RELG 312": {
+    "subject_code": "RELG",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Jews and Judaism in Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The history of the Jewish community in Canada, from New France to the present. Emphasis on the relationship between immigration and religious transformation, Jewish-Christian relations, the development of community structures."
+  },
+  "RELG 315": {
+    "subject_code": "RELG",
+    "course_code": "315",
+    "credit": "6",
+    "course_name": "History of Christian Thought",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics with special emphasis on doctrinal change and development, orthodoxy and heresy, tradition and authority, and Church and State in the Patristic, Medieval, Reformation, and Modern periods."
+  },
+  "RELG 321": {
+    "subject_code": "RELG",
+    "course_code": "321",
+    "credit": "3-6",
+    "course_name": "Prophetic Figures in the Christian Tradition",
+    "faculty": "Faculty of Arts",
+    "description": "Examined in their historical context and in terms of their continuing significance. Selection will vary from year to year, but may include Augustine, Thomas Aquinas, Martin Luther, and Teresa of Avila."
+  },
+  "RELG 323": {
+    "subject_code": "RELG",
+    "course_code": "323",
+    "credit": "6",
+    "course_name": "Christianity in the Modern World",
+    "faculty": "Faculty of Arts",
+    "description": "The interaction between Christianity and the major intellectual, social, and cultural developments since 1648 with special attention to the expansion of Christianity and its encounter with urban industrial society."
+  },
+  "RELG 328": {
+    "subject_code": "RELG",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Medieval Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of Western European thought from Augustine to the fourteenth century. Possible topics and authors include: Augustine; Abelard; the influence of Islam; the rediscovery of Aristotle; Aquinas; Scotus; Ockham. Credit will be granted for only one of RELG 328 or PHIL 313. Equivalency: PHIL 313"
+  },
+  "RELG 331": {
+    "subject_code": "RELG",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Medieval Jewish History",
+    "faculty": "Faculty of Arts",
+    "description": "The political, social, economic, and cultural history of the Jews from the time of the Christianization of the Roman Empire to the expulsion of professing Jews from Spain and Portugal at the end of the fifteenth century."
+  },
+  "RELG 332": {
+    "subject_code": "RELG",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Modern Jewish History",
+    "faculty": "Faculty of Arts",
+    "description": "The political, social, economic, and cultural history of the Jews from the beginning of the sixteenth century to the present, with special emphasis on changing attitudes to Jews and Judaism, and social and cultural transformations."
+  },
+  "RELG 365": {
+    "subject_code": "RELG",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Daoist (Taoist) Religion and Its Philosophical Background",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the Daoist religious traditions from their beginnings in the second century C.E. in cultural, intellectual and social contexts. Equivalency: ASIA381"
+  },
+  "RELG 366": {
+    "subject_code": "RELG",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "Buddhism in China",
+    "faculty": "Faculty of Arts",
+    "description": "History, thought and practices of Chinese Buddhism from its beginnings until the twentieth century. Equivalency: ASIA382"
+  },
+  "RELG 370": {
+    "subject_code": "RELG",
+    "course_code": "370",
+    "credit": "6",
+    "course_name": "Concepts and Methods in the Study of Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Required of Major and Honours students in their third year. Open to others by permission of the instructor."
+  },
+  "RELG 385": {
+    "subject_code": "RELG",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "Mystical Traditions: Jewish and Christian",
+    "faculty": "Faculty of Arts",
+    "description": "Methodology, textual study and scholarly analysis of selected texts from these traditions."
+  },
+  "RELG 408": {
+    "subject_code": "RELG",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Topics in Medieval Judaism",
+    "faculty": "Faculty of Arts",
+    "description": "The work of Maimonides and other Jewish philosophers, early developments in Jewish mysticism, the Jews as a minority culture in Islamic and Christian lands."
+  },
+  "RELG 409": {
+    "subject_code": "RELG",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Topics in Modern Judaism",
+    "faculty": "Faculty of Arts",
+    "description": "The Jews in the ghetto culture, Hasidism, the Emancipation, Reform, Orthodox, and Conservative Movements."
+  },
+  "RELG 448": {
+    "subject_code": "RELG",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Seminar in the History of the Religion of Islam",
+    "faculty": "Faculty of Arts",
+    "description": "A topic relevant to the study of Islam as a religion: e.g., the text and doctrines of the Qur'an; the Hadith (or Traditions) of the Prophet; Islamic Law; mysticism in Islam; the Shi'ah and the Isma'ilis. Not offered every year. Consult the departmental brochure for the topic to be offered."
+  },
+  "RELG 452": {
+    "subject_code": "RELG",
+    "course_code": "452",
+    "credit": "6",
+    "course_name": "Readings in Hindu Religious Texts",
+    "faculty": "Faculty of Arts",
+    "description": "Representative texts, in translation, of the Vedic, Epic, Puranic, Classical, Medieval, and Modern periods. Emphasis in the second term on texts of particular periods, movements, or sects, depending on the students' needs and interests. Those with the necessary preparation may read some texts in the original languages. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RELG 479": {
+    "subject_code": "RELG",
+    "course_code": "479",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and, where appropriate, other research on a topic arising in the discipline, arranged by agreement between the student and the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RELG 485": {
+    "subject_code": "RELG",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Images of Eve",
+    "faculty": "Faculty of Arts",
+    "description": "The story of Adam and Eve, and its influence on the role and image of women in Judaism, Christianity, and Islam."
+  },
+  "RELG 649": {
+    "subject_code": "RELG",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

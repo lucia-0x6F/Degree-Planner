@@ -1,0 +1,218 @@
+{
+  "ITAL 101": {
+    "subject_code": "ITAL",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginners' Italian I",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the essentials of Italian vocabulary, expressions, grammar and cultural life. Focus on listening, reading, speaking and writing skills in everyday situations in the present tense. Aligned with CEFR level A1 objectives. Credits will be only granted for ITAL_V 103 or both ITAL_V 101, ITAL_V 102."
+  },
+  "ITAL 102": {
+    "subject_code": "ITAL",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginners' Italian II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of foundational elements of Italian language. Development of listening, reading, speaking and writing skills in the context of everyday situations in the present and past tenses. Aligned with CEFR level A1 objectives. Credits will be only granted for ITAL_V 103 or both ITAL_V 101, ITAL_V 102. Recommended prerequisite: ITAL_V 101."
+  },
+  "ITAL 103": {
+    "subject_code": "ITAL",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Intensive Beginners' Italian",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamentals of the Italian language. Aligned with CEFR level A1 objectives. Recommended: Expertise in another Romance language. Credit will be granted for ITAL 103 or both ITAL 101, ITAL 102. Prerequisite: Language placement test."
+  },
+  "ITAL 104": {
+    "subject_code": "ITAL",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Italian for Singers",
+    "faculty": "Faculty of Arts",
+    "description": "The study of the Italian language with the study of Italian lyric diction and musical culture; practice in translation, phonetic transcription and the performance of vocal music. Recommended pre-requisite: ITAL 101."
+  },
+  "ITAL 201": {
+    "subject_code": "ITAL",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Elementary Italian I",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to complex language structures used to communicate in a variety of situations by using different tenses and modes. Enhanced ability to comprehend, interact and express wishes or feelings in common personal and social contexts. Aligned with CEFR level A2 objectives. Recommended pre-requisite: ITAL 102 or successful completion of CEFR Level A1."
+  },
+  "ITAL 202": {
+    "subject_code": "ITAL",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Elementary Italian II",
+    "faculty": "Faculty of Arts",
+    "description": "Expansion of fundamental notions and presentation of elaborate structures, present, past and future tenses and different modes. Enriched opportunities to explore Italian culture and develop intercultural skills. Aligned with CEFR level A2 objectives. Recommended pre-requisite: ITAL 201."
+  },
+  "ITAL 206": {
+    "subject_code": "ITAL",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Conversational Italian for Elementary Learners",
+    "faculty": "Faculty of Arts",
+    "description": "Develop oral and intercultural proficiency while reviewing fundamental grammar structures and expanding vocabulary. Communicate to explore Italian culture. Aligned with CEFR level A2 objectives. Recommended pre-requisite: ITAL 201."
+  },
+  "ITAL 301": {
+    "subject_code": "ITAL",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate Italian I",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced grammar structures in context, lexical repertoire and cultural elements to further increase learners' ability to communicate in most situations, including complex conversations. Aligned with CEFR level B1 objectives. Recommended pre-requisites: Second-year standing or higher and one of ITAL 202, ITAL 203, ITAL 206, or successful completion of CEFR level A2."
+  },
+  "ITAL 302": {
+    "subject_code": "ITAL",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Intermediate Italian II",
+    "faculty": "Faculty of Arts",
+    "description": "Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through written communication and discussion of relevant cultural topics. Aligned with CEFR level B1 objectives. Recommended pre-requisites: Second-year standing or higher and ITAL 301."
+  },
+  "ITAL 322": {
+    "subject_code": "ITAL",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Italian for Reading Knowledge",
+    "faculty": "Faculty of Arts",
+    "description": "Development of elementary to intermediate Italian reading skills. Aligned with CEFR Level A2/B1 reading objectives. Recommended pre-requisites: Second-year standing or higher and proficiency in another Romance language or Latin, or successful completion of ITAL 102."
+  },
+  "ITAL 325": {
+    "subject_code": "ITAL",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Italian Translation",
+    "faculty": "Faculty of Arts",
+    "description": "A task-based introduction to the theory and practice of translation as applied to Italian and English texts: word choice, semantic correspondence, cultural adaptation, communicative purpose, target readerships. Languages of instruction are English and Italian. Recommended pre-requisites: Second-year standing or higher and ITAL 202."
+  },
+  "ITAL 342": {
+    "subject_code": "ITAL",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Introduction to Italian for Senior Students I",
+    "faculty": "Faculty of Arts",
+    "description": "An intensive course in spoken and written Italian. Grammar, conversation, reading of literary texts. Prerequisite: proficiency in another Romance language or Latin. Not considered a third-year course for purposes of satisfying Italian program requirements. Recommended pre-requisites: Second-year standing or higher and proficiency in another Romance Language or in Latin."
+  },
+  "ITAL 343": {
+    "subject_code": "ITAL",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Introduction to Italian for Senior Students II",
+    "faculty": "Faculty of Arts",
+    "description": "An intensive course in spoken and written Italian. Grammar, conversation, progressive reading of various texts. Prerequisite: Proficiency in another Romance language or Latin. Not considered a third-year course for purposes of satisfying Italian program requirements. Recommended pre-requisites: Proficiency in another Romance language or in Latin AND Second-year standing or higher."
+  },
+  "ITAL 395": {
+    "subject_code": "ITAL",
+    "course_code": "395",
+    "credit": "3-6",
+    "course_name": "Special Topics Abroad",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Italian literature, history, culture, or communities in an authentic context. Topics and locations may vary. Consult Department for current offerings. Recommendation: CEFR A1 Italian proficiency level."
+  },
+  "ITAL 401": {
+    "subject_code": "ITAL",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Upper-Intermediate Italian I",
+    "faculty": "Faculty of Arts",
+    "description": "Continues building fluency, accuracy and proficiency at an autonomous level in spoken and written communication. Emphasis on culturally contextualized grammar structures and vocabulary, critical reading and discussion of a variety of texts. Aligned with CEFR level B2 objectives. Recommended pre-requisites: Second-year standing or higher and ITAL 302 or successful completion of CEFR level B1."
+  },
+  "ITAL 402": {
+    "subject_code": "ITAL",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Upper-Intermediate Italian II",
+    "faculty": "Faculty of Arts",
+    "description": "Hones language skills, deepens knowledge of vocabulary and grammar structures, and develops a higher level of fluency in writing, reading and speaking. Emphasis on contextualized grammar and vocabulary, critical reading and discussion of texts. Aligned with CEFR level B2 objectives. Recommended pre-requisites: Second-year standing or higher and ITAL 401."
+  },
+  "ITAL 495": {
+    "subject_code": "ITAL",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Research Intensive Seminar in Italian Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ITAL_V 495 or ITST_V 495."
+  },
+  "ITAL 499": {
+    "subject_code": "ITAL",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "ITAL 501": {
+    "subject_code": "ITAL",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Dante: The Minor Works",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 502": {
+    "subject_code": "ITAL",
+    "course_code": "502",
+    "credit": "3-6",
+    "course_name": "Dante: The Divine Comedy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 505": {
+    "subject_code": "ITAL",
+    "course_code": "505",
+    "credit": "3-6",
+    "course_name": "Studies in the Literature of the Renaissance",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 507": {
+    "subject_code": "ITAL",
+    "course_code": "507",
+    "credit": "3-6",
+    "course_name": "Studies in Romanticism",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 508": {
+    "subject_code": "ITAL",
+    "course_code": "508",
+    "credit": "3-6",
+    "course_name": "Studies in Modern Italian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 515": {
+    "subject_code": "ITAL",
+    "course_code": "515",
+    "credit": "3-6",
+    "course_name": "Topics in Italian Language",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 520": {
+    "subject_code": "ITAL",
+    "course_code": "520",
+    "credit": "3-12",
+    "course_name": "Italian Language and Literature",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits is available in any one topic. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 548": {
+    "subject_code": "ITAL",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Graduating Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ITAL 549": {
+    "subject_code": "ITAL",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

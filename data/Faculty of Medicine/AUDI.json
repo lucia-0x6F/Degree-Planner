@@ -1,0 +1,474 @@
+{
+  "AUDI 402": {
+    "subject_code": "AUDI",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Neuroanatomy for Audiology and Speech-Language Pathology",
+    "faculty": "Faculty of Medicine",
+    "description": "[3-0] Prerequisite: As indicated on the website at www.audiospeech.ubc.ca or by permission of the instructor."
+  },
+  "AUDI 403": {
+    "subject_code": "AUDI",
+    "course_code": "403",
+    "credit": "1.5",
+    "course_name": "Introduction to Neurolinguistics",
+    "faculty": "Faculty of Medicine",
+    "description": ""
+  },
+  "AUDI 513": {
+    "subject_code": "AUDI",
+    "course_code": "513",
+    "credit": "1-2",
+    "course_name": "Acoustic and Articulatory Phonetics",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 514": {
+    "subject_code": "AUDI",
+    "course_code": "514",
+    "credit": "2-3",
+    "course_name": "Hearing Science I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 515": {
+    "subject_code": "AUDI",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Hearing Science II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 516": {
+    "subject_code": "AUDI",
+    "course_code": "516",
+    "credit": "1-3",
+    "course_name": "Discourse Analysis",
+    "faculty": "Faculty of Medicine",
+    "description": "May be taken more than once for credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 518": {
+    "subject_code": "AUDI",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Fundamentals of Audiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 520": {
+    "subject_code": "AUDI",
+    "course_code": "520",
+    "credit": "2-3",
+    "course_name": "Phonological Development, Assessment and Intervention",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 522": {
+    "subject_code": "AUDI",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Communication Development and Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 524": {
+    "subject_code": "AUDI",
+    "course_code": "524",
+    "credit": "2",
+    "course_name": "Disorders of Speech Production",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 526": {
+    "subject_code": "AUDI",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Acquired Language Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "[2-2]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 527": {
+    "subject_code": "AUDI",
+    "course_code": "527",
+    "credit": "1",
+    "course_name": "Introduction to Dysphagia",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 528": {
+    "subject_code": "AUDI",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Aural Rehabilitation I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 529": {
+    "subject_code": "AUDI",
+    "course_code": "529",
+    "credit": "2",
+    "course_name": "Aural Rehabilitation II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 530": {
+    "subject_code": "AUDI",
+    "course_code": "530",
+    "credit": "1-3",
+    "course_name": "Research Methods",
+    "faculty": "Faculty of Medicine",
+    "description": "May be taken more than once for credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 540": {
+    "subject_code": "AUDI",
+    "course_code": "540",
+    "credit": "1",
+    "course_name": "Approaches to Audiology and Speech-Language Pathology for People of First Nations, Mtis or Inuit Heritage",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 545": {
+    "subject_code": "AUDI",
+    "course_code": "545",
+    "credit": "1",
+    "course_name": "Preparation for Clinical Practice and Externships",
+    "faculty": "Faculty of Medicine",
+    "description": "Ethics, service delivery systems, practice considerations specific to the workplace, and assessment of readiness for clinical learning. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 546": {
+    "subject_code": "AUDI",
+    "course_code": "546",
+    "credit": "1-9",
+    "course_name": "Advanced Communication Sciences and Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "May be taken for credit more than once. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 547": {
+    "subject_code": "AUDI",
+    "course_code": "547",
+    "credit": "1-9",
+    "course_name": "Directed Reading in Audiology and Speech Sciences",
+    "faculty": "Faculty of Medicine",
+    "description": "May be taken more than once. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 548": {
+    "subject_code": "AUDI",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Research Paper",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 549": {
+    "subject_code": "AUDI",
+    "course_code": "549",
+    "credit": "6",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 550": {
+    "subject_code": "AUDI",
+    "course_code": "550",
+    "credit": "0.5-6",
+    "course_name": "Advanced Topics in Audiology",
+    "faculty": "Faculty of Medicine",
+    "description": "May be taken more than once for credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 551": {
+    "subject_code": "AUDI",
+    "course_code": "551",
+    "credit": "1",
+    "course_name": "Hearing and Noise",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 552": {
+    "subject_code": "AUDI",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Diagnostic Audiology I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 553": {
+    "subject_code": "AUDI",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Diagnostic Audiology II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 555": {
+    "subject_code": "AUDI",
+    "course_code": "555",
+    "credit": "1",
+    "course_name": "Issues in Professional Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 556": {
+    "subject_code": "AUDI",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Amplification I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 557": {
+    "subject_code": "AUDI",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Amplification II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 558": {
+    "subject_code": "AUDI",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "Physiological Measurement of Auditory Function",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 559": {
+    "subject_code": "AUDI",
+    "course_code": "559",
+    "credit": "1",
+    "course_name": "Practicum in Speech-Language Pathology for Audiology Majors",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 562": {
+    "subject_code": "AUDI",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Pediatric Audiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 563": {
+    "subject_code": "AUDI",
+    "course_code": "563",
+    "credit": "2",
+    "course_name": "Cochlear Implants: Audiological Assessment and Management Issues",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 565": {
+    "subject_code": "AUDI",
+    "course_code": "565",
+    "credit": "1-3",
+    "course_name": "Audiology Practicum I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 566": {
+    "subject_code": "AUDI",
+    "course_code": "566",
+    "credit": "1-3",
+    "course_name": "Audiology Practicum II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 567": {
+    "subject_code": "AUDI",
+    "course_code": "567",
+    "credit": "1-3",
+    "course_name": "Audiology Practicum III",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 568": {
+    "subject_code": "AUDI",
+    "course_code": "568",
+    "credit": "1-3",
+    "course_name": "Audiology Practicum IV",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 569": {
+    "subject_code": "AUDI",
+    "course_code": "569",
+    "credit": "1.5",
+    "course_name": "Hearing and Aging",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 570": {
+    "subject_code": "AUDI",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Case Studies in Phonological Intervention and Aural (Re)habilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 571": {
+    "subject_code": "AUDI",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Developmental Language Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 572": {
+    "subject_code": "AUDI",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Cognitive Processing and Acquired Language Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 575": {
+    "subject_code": "AUDI",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Language Development and Disorders in the School Years",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 576": {
+    "subject_code": "AUDI",
+    "course_code": "576",
+    "credit": "2",
+    "course_name": "Topics in Fluency Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 577": {
+    "subject_code": "AUDI",
+    "course_code": "577",
+    "credit": "2",
+    "course_name": "Advanced Studies in Acquired Speech and Swallowing Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 579": {
+    "subject_code": "AUDI",
+    "course_code": "579",
+    "credit": "1",
+    "course_name": "Practicum in Audiology for Speech-Language Pathology Majors",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 580": {
+    "subject_code": "AUDI",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Speech Perception and Hearing Ability",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 581": {
+    "subject_code": "AUDI",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Perceptual, Cognitive, and Social-affective Issues in Communication Development, Assessment and Intervention",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 583": {
+    "subject_code": "AUDI",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Advanced Speech Science",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 585": {
+    "subject_code": "AUDI",
+    "course_code": "585",
+    "credit": "2",
+    "course_name": "Language Development Across the Lifespan",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 586": {
+    "subject_code": "AUDI",
+    "course_code": "586",
+    "credit": "2",
+    "course_name": "Acquired Language Disorders II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 590": {
+    "subject_code": "AUDI",
+    "course_code": "590",
+    "credit": "1-3",
+    "course_name": "Speech-Language Pathology Practicum I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 591": {
+    "subject_code": "AUDI",
+    "course_code": "591",
+    "credit": "1-3",
+    "course_name": "Speech-Language Pathology Practicum II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 593": {
+    "subject_code": "AUDI",
+    "course_code": "593",
+    "credit": "1-3",
+    "course_name": "Speech-Language Pathology Practicum III",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 594": {
+    "subject_code": "AUDI",
+    "course_code": "594",
+    "credit": "1-3",
+    "course_name": "Speech-Language Pathology Practicum IV",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 649": {
+    "subject_code": "AUDI",
+    "course_code": "649",
+    "credit": "6",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 660": {
+    "subject_code": "AUDI",
+    "course_code": "660",
+    "credit": "1-9",
+    "course_name": "Seminar in Hearing Science",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 670": {
+    "subject_code": "AUDI",
+    "course_code": "670",
+    "credit": "1-9",
+    "course_name": "Seminar in Developmental Phonetics and Phonology",
+    "faculty": "Faculty of Medicine",
+    "description": "Examination of current research, roles of theories in understanding the relationship between speech sound production and comprehension/perception. This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 675": {
+    "subject_code": "AUDI",
+    "course_code": "675",
+    "credit": "1-9",
+    "course_name": "Seminar in Developmental Language Disorders",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 685": {
+    "subject_code": "AUDI",
+    "course_code": "685",
+    "credit": "1-9",
+    "course_name": "Seminar in Language Development",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AUDI 690": {
+    "subject_code": "AUDI",
+    "course_code": "690",
+    "credit": "1-9",
+    "course_name": "Seminar in Speech Science",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

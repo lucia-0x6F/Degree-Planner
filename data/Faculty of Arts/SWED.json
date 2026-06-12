@@ -1,0 +1,34 @@
+{
+  "SWED 100": {
+    "subject_code": "SWED",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Elementary Swedish I",
+    "faculty": "Faculty of Arts",
+    "description": "Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Swedish courses (SWED 100 and SWED 110), but are welcome to join the intermediate courses (SWED 200 and SWED 210)."
+  },
+  "SWED 110": {
+    "subject_code": "SWED",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Elementary Swedish II",
+    "faculty": "Faculty of Arts",
+    "description": "Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Swedish courses (SWED 100 and SWED 110), but are welcome to join the intermediate courses (SWED 200 and SWED 210)."
+  },
+  "SWED 200": {
+    "subject_code": "SWED",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Intermediate Swedish I",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "SWED 210": {
+    "subject_code": "SWED",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Intermediate Swedish II",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "SGES 501": {
+    "subject_code": "SGES",
+    "course_code": "501",
+    "credit": "6",
+    "course_name": "Integration Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design, analysis, and implementation of technology to create a bench-scale smart grid energy system. Assessment of technology based on sustainability, market, policy and regulatory considerations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SGES 502": {
+    "subject_code": "SGES",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Renewable and Efficient Electric Power Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Electricity infrastructure, fundamentals of electric power, solar photovoltaic systems, wind electric conversion systems, other renewable energy systems, grid integration of renewables, smart grid, distributed energy resources, electricity storage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SGES 503": {
+    "subject_code": "SGES",
+    "course_code": "503",
+    "credit": "2",
+    "course_name": "Topics in Power and Energy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Current topics in smart grid systems and technologies in the context of sustainability, market, policy and regulation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SGES 531": {
+    "subject_code": "SGES",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Smart Grid Communication Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Review of probability theory, signals and noise, spectral analysis; information theory and applications; detection and estimation of signals in the presence of noise; performance calculations of modulation systems; digital communication techniques. Credit will be granted for only one of SGES_V 531 or ELEC_V 431. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SGES 550": {
+    "subject_code": "SGES",
+    "course_code": "550",
+    "credit": "2",
+    "course_name": "Power Electronic Devices",
+    "faculty": "Faculty of Applied Science",
+    "description": "New devices and applications in power electronics with applications to smart grid systems. Credit will be granted for only one of SGES_V 550 or EECE_V 550. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SGES 592": {
+    "subject_code": "SGES",
+    "course_code": "592",
+    "credit": "2",
+    "course_name": "Architecture for Learning Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Learning in neural networks, error backpropagation, simulated annealing, content addressable memories. Data representation topics. Implementation challenges in real world scale problems. Architectures for function approximation in Reinforcement Learning. Comparison with conventional artificial intelligence: history and emerging trends. Credit will be granted for only one of SGES_V 592 or EECE_V 592. This course is not eligible for Credit/D/Fail grading."
+  }
+}

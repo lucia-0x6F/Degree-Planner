@@ -1,0 +1,218 @@
+{
+  "JRNL 100": {
+    "subject_code": "JRNL",
+    "course_code": "100",
+    "credit": "3-6",
+    "course_name": "New Media and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Development of new media technologies, their applications, and their cultural, political, and social impacts."
+  },
+  "JRNL 200": {
+    "subject_code": "JRNL",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Journalism Here and Now",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the technologies and trends that are changing the profession of journalism. Explore the dynamic, changing, and sometimes problematic world of journalism through critical analysis and creating works of journalism."
+  },
+  "JRNL 201": {
+    "subject_code": "JRNL",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introduction to News Audiences",
+    "faculty": "Faculty of Arts",
+    "description": "The evolution of news audiences and their relationships with journalists. Examines different approaches to audience engagement and various forms of such engagement."
+  },
+  "JRNL 320": {
+    "subject_code": "JRNL",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Multimedia Journalism",
+    "faculty": "Faculty of Arts",
+    "description": "Principles of multimedia storytelling with hands-on journalistic methods in information gathering, fact-checking, and ethical decision making. Prerequisite: One of JRNL 200, JRNL 201."
+  },
+  "JRNL 325": {
+    "subject_code": "JRNL",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Fundamentals of Community Reporting",
+    "faculty": "Faculty of Arts",
+    "description": "Best practices of feature writing in relation to under-represented and marginalized communities with a focus on ethics and social responsibility. Prerequisite: One of JRNL 200, JRNL 201."
+  },
+  "JRNL 400": {
+    "subject_code": "JRNL",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Feminist Postcolonial Critique and Journalism in a Digital Age",
+    "faculty": "Faculty of Arts",
+    "description": "Feminist postcolonial critique of journalism, and an examination of underlying democratic ideals in a rapidly evolving media landscape."
+  },
+  "JRNL 420": {
+    "subject_code": "JRNL",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Decoding Social Media",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the challenges, opportunities and foundational research related to the emergence of social media platforms, services and tools as part of an evolving media ecosystem. Political, social, ethical and legal implications for media organizations, journalists and citizens. Prerequisite: Restricted to fourth-year students. Prior to registration, a minimum of 12-credits of 300-level courses related to media, technology and/or communications recommended."
+  },
+  "JRNL 425": {
+    "subject_code": "JRNL",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Journalism and Social Change Movements",
+    "faculty": "Faculty of Arts",
+    "description": "Critique of the role journalism and news coverage have played in major social change movements in Canada and internationally. How journalism has catalyzed, promoted, misrepresented, or undermined social change through news reporting. Prerequisite: JRNL_V 200 or JRNL_V 201."
+  },
+  "JRNL 440": {
+    "subject_code": "JRNL",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Imagine Journalism Studio",
+    "faculty": "Faculty of Arts",
+    "description": "Journalism startups and media innovation from practice, organizational models, audiences, leadership, theories of change, entrepreneurship and critical perspectives. Prerequisite: Restricted to fourth-year BMS students. Credit cannot be granted for both JRNL_V 440 and JRNL_V 540. Equivalency: JRNL_V 540."
+  },
+  "JRNL 503": {
+    "subject_code": "JRNL",
+    "course_code": "503",
+    "credit": "3-9",
+    "course_name": "Journalism Practice and Standards",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 505": {
+    "subject_code": "JRNL",
+    "course_code": "505",
+    "credit": "3-9",
+    "course_name": "Principles of Investigative Journalism",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 510": {
+    "subject_code": "JRNL",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "News Writing and Reporting",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 515": {
+    "subject_code": "JRNL",
+    "course_code": "515",
+    "credit": "3-9",
+    "course_name": "Integrated Journalism",
+    "faculty": "Faculty of Arts",
+    "description": "Grammar and syntax of media across platforms; skills and knowledge-based model of learning with an emphasis on digital literacy. Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 520": {
+    "subject_code": "JRNL",
+    "course_code": "520",
+    "credit": "1.5-9",
+    "course_name": "Special Topics in Contemporary Journalism",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 523": {
+    "subject_code": "JRNL",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Audience Research and Reception Theories",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 525": {
+    "subject_code": "JRNL",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Critical Approaches for Journalists",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 527": {
+    "subject_code": "JRNL",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Internship",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 530": {
+    "subject_code": "JRNL",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Advanced Video Reporting",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 533": {
+    "subject_code": "JRNL",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Media Ethics & Leadership",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 534": {
+    "subject_code": "JRNL",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Media Law",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 535": {
+    "subject_code": "JRNL",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Media and Society",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 539": {
+    "subject_code": "JRNL",
+    "course_code": "539",
+    "credit": "3-9",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 540": {
+    "subject_code": "JRNL",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Imagine Journalism Studio",
+    "faculty": "Faculty of Arts",
+    "description": "Journalism startups and media innovation from practice, organizational models, audiences, leadership, theories of change, entrepreneurship and critical perspectives. Restricted to Master of Journalism students. Credit can only be granted for one of JRNL_V 440 or JRNL_V 540. Equivalency: JRNL_V 440. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 548": {
+    "subject_code": "JRNL",
+    "course_code": "548",
+    "credit": "6",
+    "course_name": "Final Research Project",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 549": {
+    "subject_code": "JRNL",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 550": {
+    "subject_code": "JRNL",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Feature Writing",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "JRNL 555": {
+    "subject_code": "JRNL",
+    "course_code": "555",
+    "credit": "3-6",
+    "course_name": "International Reporting",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in Master of Journalism program. This course is not eligible for Credit/D/Fail grading."
+  }
+}

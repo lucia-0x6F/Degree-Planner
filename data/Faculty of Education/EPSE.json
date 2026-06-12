@@ -1,0 +1,1210 @@
+{
+  "EPSE 171": {
+    "subject_code": "EPSE",
+    "course_code": "171",
+    "credit": "3",
+    "course_name": "Education in the Adolescent Years",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 271": {
+    "subject_code": "EPSE",
+    "course_code": "271",
+    "credit": "3",
+    "course_name": "Teaching Adolescents with Special Learning Needs",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 301": {
+    "subject_code": "EPSE",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Introduction to Educational Psychology",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EPSE 303": {
+    "subject_code": "EPSE",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Teaching Highly Able Learners",
+    "faculty": "Faculty of Education",
+    "description": "Identification and appraisal of developmental and educational needs of highly able learners. [3-0]"
+  },
+  "EPSE 306": {
+    "subject_code": "EPSE",
+    "course_code": "306",
+    "credit": "2",
+    "course_name": "Education during the Adolescent Years",
+    "faculty": "Faculty of Education",
+    "description": "Developmental characteristics of persons from pre-school age through adulthood. Physical, social, cognitive, moral, and emotional growth of both normal and exceptional children in grades 8-12. The teacher's role in assisting such students to deal with major developmental issues and problems. Pass/Fail. [2-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 307": {
+    "subject_code": "EPSE",
+    "course_code": "307",
+    "credit": "1",
+    "course_name": "Applying Developmental Theories in the Classroom",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 308": {
+    "subject_code": "EPSE",
+    "course_code": "308",
+    "credit": "2-4",
+    "course_name": "Development, Learning and Culture in the Classroom",
+    "faculty": "Faculty of Education",
+    "description": "This course is designed to provide teacher candidates with a broad overview of how children develop, learn and grow in diverse societies, in order to build safe, supportive, caring and respectful relationships and environments. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 310": {
+    "subject_code": "EPSE",
+    "course_code": "310",
+    "credit": "2-3",
+    "course_name": "Assessment and Learning in the Classroom",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 312": {
+    "subject_code": "EPSE",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Introduction to the Study of Exceptional Children",
+    "faculty": "Faculty of Education",
+    "description": "An examination of all groups of exceptional children in terms of definition, incidence, characteristics, diagnosis and treatment. Prerequisite to most other courses in Special Education. Can be taken concurrently with several other introductory courses in Special Education. [3-0]"
+  },
+  "EPSE 313": {
+    "subject_code": "EPSE",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Educational Application of Developmental Theories",
+    "faculty": "Faculty of Education",
+    "description": "Theories of human development; physical, social, cognitive, moral, and emotional developmental characteristics from infancy to adolescence; implications for educational practice with students of different age and developmental status during the elementary school years. Pass/Fail. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 316": {
+    "subject_code": "EPSE",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Learning Disabilities",
+    "faculty": "Faculty of Education",
+    "description": "Identification, assessment and needs of children with learning disabilities. Recommended pre-requisites: one of EPSE 312, EPSE 317. [3-0-0]"
+  },
+  "EPSE 317": {
+    "subject_code": "EPSE",
+    "course_code": "317",
+    "credit": "1-3",
+    "course_name": "Development and Exceptionality in the Regular Classroom",
+    "faculty": "Faculty of Education",
+    "description": "The teacher's role in dealing with major developmental and special educational issues and problems within the regular classroom program, including working with supportive services, parents, and communities. Designated sections will focus on early childhood, middle childhood or adolescence. Pass/Fail. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 320": {
+    "subject_code": "EPSE",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Classroom Inclusion of Students who are Blind and Visually Impaired",
+    "faculty": "Faculty of Education",
+    "description": "Inclusion issues of students with visual impairments in general education classrooms; information about visual impairment, classroom adaptations and accommodations, and application of Universal Design. Appropriate for education majors and classroom teachers. [3-0]"
+  },
+  "EPSE 342": {
+    "subject_code": "EPSE",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Field Experiences with Individual Atypical Children",
+    "faculty": "Faculty of Education",
+    "description": "Supervised experience working with several atypical children in a community setting. Diagnosing needs, planning programs and integrating instruction and materials on an individual basis. [1-9] Prerequisite: Permission of the department is required."
+  },
+  "EPSE 344": {
+    "subject_code": "EPSE",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Programming in Special Education: Developing Perspective",
+    "faculty": "Faculty of Education",
+    "description": "An examination of the range of educational methodologies and teaching procedures and a discussion of their implications for the establishment of programs useful in working with exceptional children. The course comprises a practical examination and a detailed comparison of the major special educational methodologies. [3-1]"
+  },
+  "EPSE 348": {
+    "subject_code": "EPSE",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Family-Centred Practice for Children with Special Needs",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EPSE 390": {
+    "subject_code": "EPSE",
+    "course_code": "390",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Education",
+    "description": "A study of innovative practices, ideas, and theories in special education. The specific topics may change yearly to reflect changing priorities and interests in special education, and the specific interest and competencies of visiting and regular faculty. Recommended pre-requisites: one of EPSE 312, EPSE 317. [3-0]"
+  },
+  "EPSE 399": {
+    "subject_code": "EPSE",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Education and Culture in the Deaf Community",
+    "faculty": "Faculty of Education",
+    "description": "Designed for students intending to work with deaf persons."
+  },
+  "EPSE 403": {
+    "subject_code": "EPSE",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Education of Students with Developmental Disabilities in Inclusive Settings",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EPSE 404": {
+    "subject_code": "EPSE",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Principles of Applied Behaviour Analysis",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be given for only one of EPSE 404 or 405. Recommended pre-requisites: one of EPSE 312, EPSE 317. [3-0-0]"
+  },
+  "EPSE 406": {
+    "subject_code": "EPSE",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Typical and Atypical Development in Infants and Children",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EPSE 408": {
+    "subject_code": "EPSE",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Educational Programming for Highly Able Learners",
+    "faculty": "Faculty of Education",
+    "description": "Planning elementary and secondary level programs for highly able learners. [3-0]"
+  },
+  "EPSE 410": {
+    "subject_code": "EPSE",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Assistive Technologies in Special Education",
+    "faculty": "Faculty of Education",
+    "description": "The use of microcomputers, adaptive technology, and software across age levels and areas of exceptionality in special education and health care settings. [2-1]"
+  },
+  "EPSE 411": {
+    "subject_code": "EPSE",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Augmentative and Alternative Communication for Individuals with Severe Speech and/or Physical Impairments",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EPSE 415": {
+    "subject_code": "EPSE",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Technology for the Visually Impaired",
+    "faculty": "Faculty of Education",
+    "description": "Preparation of teachers to work with a variety of technological devices designed for students who are blind or visually impaired, e.g., computers, electronic reading devices, and closed circuit television. This course is restricted to students enrolled in a program for Education of Visually Impaired Children. [2-2]"
+  },
+  "EPSE 421": {
+    "subject_code": "EPSE",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Assessment of Learning Difficulties",
+    "faculty": "Faculty of Education",
+    "description": "Theories of learning and instruction; principles and practices of diagnosis and assessment as these relate to students with relevant special needs."
+  },
+  "EPSE 423": {
+    "subject_code": "EPSE",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Assessment of Classroom Learning",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 425": {
+    "subject_code": "EPSE",
+    "course_code": "425",
+    "credit": "6",
+    "course_name": "Provisions in the Education of the Visually Handicapped",
+    "faculty": "Faculty of Education",
+    "description": "Provisions, procedures and methodology in the teaching of specific curriculum for the blind and visually impaired. Life skills and adjustment to blindness. This course is restricted to students in a program of Education of Visually Impaired Children. [3-0]"
+  },
+  "EPSE 426": {
+    "subject_code": "EPSE",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Introduction to the Education of Students Who are Deaf or Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "An introductory course focused on supporting the educational and social goals of students who are d/Deaf or hard of hearing."
+  },
+  "EPSE 431": {
+    "subject_code": "EPSE",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Programming for Children with Specific Learning Disabilities",
+    "faculty": "Faculty of Education",
+    "description": "Methods and programs for learning disabilities are reviewed. Practical experience in the development and execution of a remedial program is required. [3-0] Prerequisite: [EPSE316]"
+  },
+  "EPSE 432": {
+    "subject_code": "EPSE",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Classroom Management",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EPSE 433": {
+    "subject_code": "EPSE",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Assessment and Positive Behavioural Support in School and Community Settings",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EPSE 436": {
+    "subject_code": "EPSE",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Survey of Behaviour Disorders in Children and Adolescents",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EPSE 437": {
+    "subject_code": "EPSE",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Interventions for Children and Adolescents with Behaviour Disorders",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EPSE 449": {
+    "subject_code": "EPSE",
+    "course_code": "449",
+    "credit": "3",
+    "course_name": "Education of Students with Autism",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EPSE 455": {
+    "subject_code": "EPSE",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Introduction to Orientation and Mobility for the Blind",
+    "faculty": "Faculty of Education",
+    "description": "Understanding the process of teaching independent travel to blind students, including orientation and mobility skills in school. Restricted to students enrolled in a program for Education of Visually Impaired Children or those who hold the Diploma or the equivalent. [2-2]"
+  },
+  "EPSE 456": {
+    "subject_code": "EPSE",
+    "course_code": "456",
+    "credit": "6",
+    "course_name": "Advanced Orientation and Mobility Techniques",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EPSE_V 455. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 461": {
+    "subject_code": "EPSE",
+    "course_code": "461",
+    "credit": "3-6",
+    "course_name": "Educational Diagnosis and Remedial Instruction",
+    "faculty": "Faculty of Education",
+    "description": "Interpretation of informal and standardized test scores in educational diagnosis; estimates of actual and optimum levels of individual achievement; individual differences as factors affecting performance; methods of encouraging the optimum achievement of individuals; methods and practice materials for remedial teaching."
+  },
+  "EPSE 462": {
+    "subject_code": "EPSE",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Human Development in Education",
+    "faculty": "Faculty of Education",
+    "description": "Investigates selected concepts of developmental theory in terms of their influence upon teaching and learning. The course will explore development in a wide range of domains including: social, physical, emotional and cognitive development."
+  },
+  "EPSE 481": {
+    "subject_code": "EPSE",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Introduction to Research in Education",
+    "faculty": "Faculty of Education",
+    "description": "The nature of scientific study and essentials of survey, experimental and other empirical research designs. Designed for students proceeding to graduate work. Prerequisite: EPSE 482 must be taken prior to or at the same time as EPSE 481."
+  },
+  "EPSE 482": {
+    "subject_code": "EPSE",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Introduction to Statistics for Research in Education",
+    "faculty": "Faculty of Education",
+    "description": "Basic concepts and principles of descriptive and inferential statistics. Designed for students proceeding to graduate work involving quantitative methodology. [3-0] Prerequisite: Proficiency in modern high school algebra. Equivalency: STAT 200, 203, BIOL 300, COMM 191, ECON 325, 327, FRST 231, GEOG 374, KIN 371, POLI 380, PSYC 218, 27, 366, SOCI 328"
+  },
+  "EPSE 483": {
+    "subject_code": "EPSE",
+    "course_code": "483",
+    "credit": "3",
+    "course_name": "Reading and Interpreting Research in Education",
+    "faculty": "Faculty of Education",
+    "description": "Introductory research methods course for students who wish to be critical readers rather than producers of educational research. Develops skills for locating, understanding, interpreting and critiquing educational empirical research. May not be used as a prerequisite to EPSE 592 or EPSE 596. [3-0] Prerequisite: Please consult the Faculty of Science Credit Exclusion Lists https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult… before registering."
+  },
+  "EPSE 484": {
+    "subject_code": "EPSE",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "Nonparametric and Related Statistics",
+    "faculty": "Faculty of Education",
+    "description": "Distribution-free statistical techniques for analysis of ranked data, and analysis of discrete observations. [3-0] Prerequisite: [EPSE482]"
+  },
+  "EPSE 501": {
+    "subject_code": "EPSE",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Seminar in Human Development, Learning and Culture",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 502": {
+    "subject_code": "EPSE",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Cognition, Language and Literacy Processes in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 503": {
+    "subject_code": "EPSE",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Cultural Perspectives on Learning, Development and Media",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 505": {
+    "subject_code": "EPSE",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Foundations in Human Development: Infancy to Adulthood",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 506": {
+    "subject_code": "EPSE",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Applied Psychopathology Across the Lifespan",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 507": {
+    "subject_code": "EPSE",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Applied Child and Adolescent Psychopathology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 508": {
+    "subject_code": "EPSE",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Review of Research in Educational Psychology and Special Education",
+    "faculty": "Faculty of Education",
+    "description": "Studies are made of recent research bearing on educational practice. Prerequisite: EPSE_V 482. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 509": {
+    "subject_code": "EPSE",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Organization of Special Education Services",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: One of EPSE_V 312, EPSE_V 317. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 510": {
+    "subject_code": "EPSE",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Advanced Application of Assistive Technologies in Special Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 511": {
+    "subject_code": "EPSE",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Special Topics in Human Development, Learning, and Culture",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 512": {
+    "subject_code": "EPSE",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Critical Issues in Special Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 513": {
+    "subject_code": "EPSE",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Foundations of Orientation and Mobility for Teachers of Students with Visual Impairments",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of EPSE_V 455 or EPSE_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 514": {
+    "subject_code": "EPSE",
+    "course_code": "514",
+    "credit": "6",
+    "course_name": "Advanced Orientation and Mobility Techniques for Instructors of Individuals who are Blind or Visually Impaired",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of EPSE_V 456 or EPSE_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 515": {
+    "subject_code": "EPSE",
+    "course_code": "515",
+    "credit": "3-6",
+    "course_name": "Building Supportive School and Community Environments to Nurture Positive Behaviour",
+    "faculty": "Faculty of Education",
+    "description": "The seminar provides knowledge and skills in evidence-based primary and secondary prevention approaches and practices that aim to prevent the development of behaviour disorders in children and youth. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 516": {
+    "subject_code": "EPSE",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Seminar in the Development and Education of Highly Able and Creative Learners",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 517": {
+    "subject_code": "EPSE",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Acoustic and Physical Environments in the Classroom",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 518": {
+    "subject_code": "EPSE",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Listening and Spoken Language Approaches to Instruction with Learners Who Are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 519": {
+    "subject_code": "EPSE",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Language Acquisition By and Evaluation of Learners Who Are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 520": {
+    "subject_code": "EPSE",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Literacy and Curriculum Development for Learners Who Are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 521": {
+    "subject_code": "EPSE",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Psychosocial Development of Learners who are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 522": {
+    "subject_code": "EPSE",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Language Development of Learners Who Are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 524": {
+    "subject_code": "EPSE",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Practicum and Seminar in the Education of Learners Who Are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 525": {
+    "subject_code": "EPSE",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Dual Language Approaches to Instruction with Learners Who Are Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 526": {
+    "subject_code": "EPSE",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Seminar in Specific Learning Disabilities",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 528": {
+    "subject_code": "EPSE",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Basic Principles of Measurement",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 482. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 529": {
+    "subject_code": "EPSE",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Development of Scales and Measures",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 528. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 530": {
+    "subject_code": "EPSE",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Seminar in Education of the Deaf and Hard of Hearing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 531": {
+    "subject_code": "EPSE",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Data-Based Individualization of Academic Interventions for Learning Difficulties",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 533": {
+    "subject_code": "EPSE",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Psychosocial Aspects of Exceptionality",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: One of EPSE_V 312, EPSE_V 317. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 534": {
+    "subject_code": "EPSE",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Academic Assessment",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 535": {
+    "subject_code": "EPSE",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Social and Emotional Assessment",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 536": {
+    "subject_code": "EPSE",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Foundations of Education for Students with Visual Impairments",
+    "faculty": "Faculty of Education",
+    "description": "Online course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 537": {
+    "subject_code": "EPSE",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Programming in Orientation and Mobility",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 538": {
+    "subject_code": "EPSE",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Seminar in Orientation and Mobility for the Blind",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 539": {
+    "subject_code": "EPSE",
+    "course_code": "539",
+    "credit": "3",
+    "course_name": "Research Issues and Trends in the Education of Students with Visual Impairments",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 540": {
+    "subject_code": "EPSE",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Seminar in Low Vision",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 541": {
+    "subject_code": "EPSE",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Braille Reading and Writing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 542": {
+    "subject_code": "EPSE",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Working with Infants and Preschoolers who are Blind or Visually Impaired",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 543": {
+    "subject_code": "EPSE",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Working with Students with Visual Impairments: Elementary and Secondary Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 544": {
+    "subject_code": "EPSE",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Literacy Instruction for Students who are Visually Impaired",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EPSE_V 541. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 545": {
+    "subject_code": "EPSE",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Teaching the Expanded Core Curriculum to Students with Visual Impairments",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 546": {
+    "subject_code": "EPSE",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Assistive Technology for Teachers of Students with Visual Impairments",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of EPSE_V 415 or EPSE_V 546. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 547": {
+    "subject_code": "EPSE",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Advanced Communication Skills Instruction for Students with Visual Impairments",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EPSE_V 541. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 549": {
+    "subject_code": "EPSE",
+    "course_code": "549",
+    "credit": "3",
+    "course_name": "Seminar in Autism",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EPSE_V 449. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 550": {
+    "subject_code": "EPSE",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Professional, Ethical and Legal Issues in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 551": {
+    "subject_code": "EPSE",
+    "course_code": "551",
+    "credit": "3-6",
+    "course_name": "School-based Consultation",
+    "faculty": "Faculty of Education",
+    "description": "Equivalency: CNPS_V 551. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 552": {
+    "subject_code": "EPSE",
+    "course_code": "552",
+    "credit": "3-6",
+    "course_name": "Intervention and Mental Health Promotion in Schools",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 553": {
+    "subject_code": "EPSE",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Theories of Cognitive and Affective Abilities",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 554": {
+    "subject_code": "EPSE",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Practicum in Cognitive Assessment",
+    "faculty": "Faculty of Education",
+    "description": "Administration, scoring, and interpretation of measures of cognitive ability for children and youth. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 555": {
+    "subject_code": "EPSE",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Academic and Social-Emotional Assessment",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 528. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 556": {
+    "subject_code": "EPSE",
+    "course_code": "556",
+    "credit": "6",
+    "course_name": "Cognitive and Academic Assessment Practicum",
+    "faculty": "Faculty of Education",
+    "description": "Admission to the SACP M.A. or Ph.D. program or the CNPS Ph.D. Program required. Corequisite: All of EPSE_V 528, EPSE_V 553. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 557": {
+    "subject_code": "EPSE",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Social and Emotional Interventions with Children and Youth",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: All of CNPS_V 362, EPSE_V 552 and one of EPSE_V 506, CNPS_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 560": {
+    "subject_code": "EPSE",
+    "course_code": "560",
+    "credit": "1-12",
+    "course_name": "Laboratory in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Admission to the SACP program required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 561": {
+    "subject_code": "EPSE",
+    "course_code": "561",
+    "credit": "1-12",
+    "course_name": "Laboratory Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 562": {
+    "subject_code": "EPSE",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Designing Inclusive Learning Communities: From Theory to Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 563": {
+    "subject_code": "EPSE",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Inclusive Assessment and Programming for Students Requiring Targeted Supports",
+    "faculty": "Faculty of Education",
+    "description": "Corequisite: All of EPSE_V 512, EPSE_V 562. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 565": {
+    "subject_code": "EPSE",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "Special Course in Subject Matter Field",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 568": {
+    "subject_code": "EPSE",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Applied Developmental Neuropsychology",
+    "faculty": "Faculty of Education",
+    "description": "Equivalency: CNPS_V 568. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 569": {
+    "subject_code": "EPSE",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Social Psychological Foundations in Applied Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Equivalency: CNPS_V 569. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 571": {
+    "subject_code": "EPSE",
+    "course_code": "571",
+    "credit": "3-6",
+    "course_name": "Seminar in Research in Educational Psychology and Special Education",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 501 or approved graduate coursework. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 572": {
+    "subject_code": "EPSE",
+    "course_code": "572",
+    "credit": "3",
+    "course_name": "Theory, Philosophy, and Applications of Behaviour Analysis",
+    "faculty": "Faculty of Education",
+    "description": "Philosophical underpinnings and applications of behaviour analytic principles to daily life. Corequisite: EPSE_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 573": {
+    "subject_code": "EPSE",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Advanced Seminar in Research on Exceptional Children",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 574": {
+    "subject_code": "EPSE",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Principles of Behaviour Analysis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 575": {
+    "subject_code": "EPSE",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Seminar in Instructional Methods for Persons with Significant Learning Challenges",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 576": {
+    "subject_code": "EPSE",
+    "course_code": "576",
+    "credit": "3",
+    "course_name": "Assessment and Positive Behaviour Support in School and Community Settings",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 577": {
+    "subject_code": "EPSE",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Seminar in Assessment and Positive Behaviour Support in School and Community Settings",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 576. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 578": {
+    "subject_code": "EPSE",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "Ethics for Behaviour Analysts",
+    "faculty": "Faculty of Education",
+    "description": "Knowledge of the ethical principles, standards, and practices consistent with the role of an applied behaviour analyst. Application of ethical reasoning in applied behaviour analytic work with children, youth, and adults in home, school, and community settings will be emphasized. Prerequisite: All of EPSE_V 572, EPSE_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 579": {
+    "subject_code": "EPSE",
+    "course_code": "579",
+    "credit": "3",
+    "course_name": "Supervision and Management for Behaviour Analysts",
+    "faculty": "Faculty of Education",
+    "description": "Knowledge and skills for training, supervising, and managing personnel who provide behaviour analytic services in school, home, and community settings. Prerequisite: All of EPSE_V 572, EPSE_V 574, EPSE_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 580": {
+    "subject_code": "EPSE",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Investigation and Report of a Problem in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 581": {
+    "subject_code": "EPSE",
+    "course_code": "581",
+    "credit": "3-12",
+    "course_name": "Special Topics in Measurement, Evaluation, and Research Methodology",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: Courses appropriate to a specific special topic may be required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 582": {
+    "subject_code": "EPSE",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "Social and Emotional Learning Through the Lens of Mental Health and Wellness",
+    "faculty": "Faculty of Education",
+    "description": "Theories of both Social Emotional Learning (SEL) and mental health and how the confluence of these impact overall wellbeing. Prerequisite: A graduate or upper-level undergraduate course in Social and Emotional Learning (SEL). This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 583": {
+    "subject_code": "EPSE",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Fostering Self-Regulated Learning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 584": {
+    "subject_code": "EPSE",
+    "course_code": "584",
+    "credit": "3",
+    "course_name": "Motivation in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 585": {
+    "subject_code": "EPSE",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Social and Emotional Development in Education",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EPSE_V 505. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 586": {
+    "subject_code": "EPSE",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Analyzing Discourse and Talk: An Overview of Methods",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of EPSE_V 586, LLED_V 501, and LLED_V 575. Equivalency: LLED_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 587": {
+    "subject_code": "EPSE",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "Analyzing Discourse in Education: Descriptive and Critical Approaches",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of EPSE_V 587, LLED_V 502, and LLED_V 576. Equivalency: LLED_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 588": {
+    "subject_code": "EPSE",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Indigenous Pathways Through Social and Emotional Learning",
+    "faculty": "Faculty of Education",
+    "description": "An exploration of Indigenous knowledges and methodologies in social and emotional learning. Prerequisite: A graduate course in SEL and/or a graduate level course in Indigenous Knowledge/Methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 589": {
+    "subject_code": "EPSE",
+    "course_code": "589",
+    "credit": "3-9",
+    "course_name": "Master's Internship in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: Restricted to students in the School and Applied Child Psychology Master's Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 590": {
+    "subject_code": "EPSE",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Paper/Seminar",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 591": {
+    "subject_code": "EPSE",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Theory and Practice of Program Evaluation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 592": {
+    "subject_code": "EPSE",
+    "course_code": "592",
+    "credit": "3",
+    "course_name": "Experimental Designs and Analysis in Educational Research",
+    "faculty": "Faculty of Education",
+    "description": "EPSE_V 483 may not be used as a prerequisite to EPSE_V 592. Prerequisite: EPSE_V 482. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 593": {
+    "subject_code": "EPSE",
+    "course_code": "593",
+    "credit": "3",
+    "course_name": "Design and Analysis of Research with Small Samples and Single Subjects",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 594": {
+    "subject_code": "EPSE",
+    "course_code": "594",
+    "credit": "3",
+    "course_name": "Meta-Analysis: Quantitative Research Synthesis",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 595": {
+    "subject_code": "EPSE",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Qualitative Research Methods",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 596": {
+    "subject_code": "EPSE",
+    "course_code": "596",
+    "credit": "3",
+    "course_name": "Correlational Designs and Analysis in Educational Research",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 482. EPSE_V 483 may not be used as a prerequisite. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 597": {
+    "subject_code": "EPSE",
+    "course_code": "597",
+    "credit": "3",
+    "course_name": "Structural Equation Modelling and Factor Analysis",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 598": {
+    "subject_code": "EPSE",
+    "course_code": "598",
+    "credit": "3-12",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 599": {
+    "subject_code": "EPSE",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 601": {
+    "subject_code": "EPSE",
+    "course_code": "601",
+    "credit": "3-6",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 604": {
+    "subject_code": "EPSE",
+    "course_code": "604",
+    "credit": "3-6",
+    "course_name": "Advanced Topics in Human Development, Learning, and Culture",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 606": {
+    "subject_code": "EPSE",
+    "course_code": "606",
+    "credit": "3",
+    "course_name": "College and University Teaching",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 613": {
+    "subject_code": "EPSE",
+    "course_code": "613",
+    "credit": "1-3",
+    "course_name": "Professional Seminar in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/fail. Admission to the School and Applied Child Psychology Ph.D. program required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 628": {
+    "subject_code": "EPSE",
+    "course_code": "628",
+    "credit": "3",
+    "course_name": "Translation and Adaptation of Tests and Measures",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EPSE_V 528. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 630": {
+    "subject_code": "EPSE",
+    "course_code": "630",
+    "credit": "3",
+    "course_name": "Advanced Seminar: Adolescence Through Emerging Adulthood",
+    "faculty": "Faculty of Education",
+    "description": "Exploration of the diversity of experience from adolescence through emerging adulthood, including current educational research and theory on developmental trajectories, and learning across family and peer, school and community, and cultural and global contexts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 631": {
+    "subject_code": "EPSE",
+    "course_code": "631",
+    "credit": "1-3",
+    "course_name": "Professional Seminar in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: Admission to the SACP Ph.D. program required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 632": {
+    "subject_code": "EPSE",
+    "course_code": "632",
+    "credit": "3",
+    "course_name": "Systems Change in Schools",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 633": {
+    "subject_code": "EPSE",
+    "course_code": "633",
+    "credit": "3",
+    "course_name": "Community-Based Services",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 634": {
+    "subject_code": "EPSE",
+    "course_code": "634",
+    "credit": "3-9",
+    "course_name": "Special Topics in Advanced Assessment in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 635": {
+    "subject_code": "EPSE",
+    "course_code": "635",
+    "credit": "3-9",
+    "course_name": "Special Topics in Advanced Intervention in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Admission to the SACP Ph.D. program required. Prerequisite: All of CNPS_V362, EPSE_V 552, EPSE_V 557. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 661": {
+    "subject_code": "EPSE",
+    "course_code": "661",
+    "credit": "1-12",
+    "course_name": "Doctoral Practicum in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 681": {
+    "subject_code": "EPSE",
+    "course_code": "681",
+    "credit": "3-12",
+    "course_name": "Advanced Topics in Measurement, Evaluation, and Research",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: Courses appropriate to a specific advanced topic may be required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 682": {
+    "subject_code": "EPSE",
+    "course_code": "682",
+    "credit": "3",
+    "course_name": "Multivariate Designs and Analysis in Educational Research",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: All of EPSE_V 592, EPSE_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 683": {
+    "subject_code": "EPSE",
+    "course_code": "683",
+    "credit": "3",
+    "course_name": "Hierarchical Linear Modelling, Growth and Change",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: All of EPSE_V 592, EPSE_V 596. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 684": {
+    "subject_code": "EPSE",
+    "course_code": "684",
+    "credit": "3",
+    "course_name": "Item Response Theory",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: All of EPSE_V 592, EPSE_V 596, EPSE_V 528 or introductory measurement course equivalent to EPSE_V 528. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 687": {
+    "subject_code": "EPSE",
+    "course_code": "687",
+    "credit": "3-12",
+    "course_name": "Doctoral Practicum in School and Applied Child or Counselling Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: Admission to the School and Applied Child Psychology or Counselling Psychology Ph.D. Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 688": {
+    "subject_code": "EPSE",
+    "course_code": "688",
+    "credit": "1-3",
+    "course_name": "Seminar in Supervision of School and Applied Child Psychology Practice",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: Restricted to students in the School and Applied Child Psychology Ph.D. Program Corequisite: EPSE_V 661. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 689": {
+    "subject_code": "EPSE",
+    "course_code": "689",
+    "credit": "3-9",
+    "course_name": "Pre-Doctoral Internship in School and Applied Child Psychology",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: Restricted to students in the School and Applied Child Psychology Ph.D. Program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EPSE 699": {
+    "subject_code": "EPSE",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

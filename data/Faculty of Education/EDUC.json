@@ -1,0 +1,474 @@
+{
+  "EDUC 140": {
+    "subject_code": "EDUC",
+    "course_code": "140",
+    "credit": "3",
+    "course_name": "Introduction to Indigenous Studies",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDUC 141": {
+    "subject_code": "EDUC",
+    "course_code": "141",
+    "credit": "3",
+    "course_name": "Indigenous Studies",
+    "faculty": "Faculty of Education",
+    "description": "For students in the Indigenous Teacher Education Program (NITEP) only."
+  },
+  "EDUC 143": {
+    "subject_code": "EDUC",
+    "course_code": "143",
+    "credit": "2",
+    "course_name": "Indigenous Education Seminar and Classroom Observation I",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 170": {
+    "subject_code": "EDUC",
+    "course_code": "170",
+    "credit": "3",
+    "course_name": "Reviewing the Principles of Teaching",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 172": {
+    "subject_code": "EDUC",
+    "course_code": "172",
+    "credit": "3",
+    "course_name": "Language and the Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 173": {
+    "subject_code": "EDUC",
+    "course_code": "173",
+    "credit": "2",
+    "course_name": "Teaching History and Government I",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 174": {
+    "subject_code": "EDUC",
+    "course_code": "174",
+    "credit": "2",
+    "course_name": "Teaching Geography I",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 175": {
+    "subject_code": "EDUC",
+    "course_code": "175",
+    "credit": "2",
+    "course_name": "Teaching Secondary English",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 176": {
+    "subject_code": "EDUC",
+    "course_code": "176",
+    "credit": "2",
+    "course_name": "Teaching Mathematics I",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 177": {
+    "subject_code": "EDUC",
+    "course_code": "177",
+    "credit": "2",
+    "course_name": "Teaching General Sciences",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 179": {
+    "subject_code": "EDUC",
+    "course_code": "179",
+    "credit": "3",
+    "course_name": "Practicum I",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 210": {
+    "subject_code": "EDUC",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Global Citizenship, Part 1: Introduction",
+    "faculty": "Faculty of Education",
+    "description": "Equivalency: ASTU210"
+  },
+  "EDUC 211": {
+    "subject_code": "EDUC",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Global Citizenship, Part 2: Community Service Learning and Capstone Conference",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: One of ASTU 210, EDUC 210. Equivalency: ASTU211"
+  },
+  "EDUC 240": {
+    "subject_code": "EDUC",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Issues in Indigenous Education",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDUC 244": {
+    "subject_code": "EDUC",
+    "course_code": "244",
+    "credit": "2",
+    "course_name": "Indigenous Education Seminar and Classroom Observation II",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 270": {
+    "subject_code": "EDUC",
+    "course_code": "270",
+    "credit": "2",
+    "course_name": "Communication Skills in Teaching",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 272": {
+    "subject_code": "EDUC",
+    "course_code": "272",
+    "credit": "2",
+    "course_name": "Teaching Chemistry",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 273": {
+    "subject_code": "EDUC",
+    "course_code": "273",
+    "credit": "2",
+    "course_name": "Teaching History and Government II",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 274": {
+    "subject_code": "EDUC",
+    "course_code": "274",
+    "credit": "2",
+    "course_name": "Teaching Geography II",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 275": {
+    "subject_code": "EDUC",
+    "course_code": "275",
+    "credit": "3",
+    "course_name": "Global Education",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 276": {
+    "subject_code": "EDUC",
+    "course_code": "276",
+    "credit": "2",
+    "course_name": "Teaching Mathematics II",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 277": {
+    "subject_code": "EDUC",
+    "course_code": "277",
+    "credit": "3",
+    "course_name": "Teaching Physics",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 278": {
+    "subject_code": "EDUC",
+    "course_code": "278",
+    "credit": "2",
+    "course_name": "Teaching Biology",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 279": {
+    "subject_code": "EDUC",
+    "course_code": "279",
+    "credit": "3",
+    "course_name": "Practicum II",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 280": {
+    "subject_code": "EDUC",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "English and Reading: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "For Dadaab, Kenya teacher education students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 315": {
+    "subject_code": "EDUC",
+    "course_code": "315",
+    "credit": "2",
+    "course_name": "School-based Orientation Practicum",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 316": {
+    "subject_code": "EDUC",
+    "course_code": "316",
+    "credit": "1-3",
+    "course_name": "Communication Skills in Teaching",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 319": {
+    "subject_code": "EDUC",
+    "course_code": "319",
+    "credit": "1",
+    "course_name": "Field Experience and Seminar",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 321": {
+    "subject_code": "EDUC",
+    "course_code": "321",
+    "credit": "1",
+    "course_name": "School-based Orientation Practicum: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: EDUC_V 315. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 323": {
+    "subject_code": "EDUC",
+    "course_code": "323",
+    "credit": "1",
+    "course_name": "School-based Orientation Practicum: Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: EDUC_V 315. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 342": {
+    "subject_code": "EDUC",
+    "course_code": "342",
+    "credit": "6",
+    "course_name": "Teaching First Nations Languages in Elementary Schools",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDUC 344": {
+    "subject_code": "EDUC",
+    "course_code": "344",
+    "credit": "2",
+    "course_name": "Indigenous Education Seminar and Classroom Observation III",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: All of EDUC_V 143, EDUC_V 244. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 390": {
+    "subject_code": "EDUC",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Teaching and Learning in Digital Environments: Critical Perspectives",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDUC 395": {
+    "subject_code": "EDUC",
+    "course_code": "395",
+    "credit": "3-6",
+    "course_name": "Regional Field Studies in Education: Study, Travel, and Community Experience",
+    "faculty": "Faculty of Education",
+    "description": "Not offered on a regular basis. Prerequisite: 12 credits of coursework approved by the Associate Dean (Teacher Education) as being appropriate to the particular study."
+  },
+  "EDUC 399": {
+    "subject_code": "EDUC",
+    "course_code": "399",
+    "credit": "1",
+    "course_name": "Field Experience and Seminar",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 401": {
+    "subject_code": "EDUC",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Instructional Design",
+    "faculty": "Faculty of Education",
+    "description": "Principles of instructional design and their application to the development, analysis, and evaluation of instructional plans for selected settings, instructional formats, and age groupings of learners. Credit will be granted for only one of EPSE 401 or EDUC 401. [3-0]"
+  },
+  "EDUC 418": {
+    "subject_code": "EDUC",
+    "course_code": "418",
+    "credit": "12-18",
+    "course_name": "School-based Extended Practicum: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: All of EDUC_V 315, EDUC_V 321. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 419": {
+    "subject_code": "EDUC",
+    "course_code": "419",
+    "credit": "12-18",
+    "course_name": "School-based Extended Practicum: Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: All of EDUC_V 315, EDUC_V 323. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 420": {
+    "subject_code": "EDUC",
+    "course_code": "420",
+    "credit": "2",
+    "course_name": "Governance, Finance, and School Organization in its Social Context",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 421": {
+    "subject_code": "EDUC",
+    "course_code": "421",
+    "credit": "12-18",
+    "course_name": "School-based Extended Practicum: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDUC_V 315. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 430": {
+    "subject_code": "EDUC",
+    "course_code": "430",
+    "credit": "1",
+    "course_name": "Community-based Field Experience",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Recommended pre-requisites: one of EDUC_V 418, EDUC_V 419, EDUC_V 421. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 432": {
+    "subject_code": "EDUC",
+    "course_code": "432",
+    "credit": "3-6",
+    "course_name": "Clinical Supervision of Teaching",
+    "faculty": "Faculty of Education",
+    "description": "Recent research on teaching effectiveness. Enrolment limited to persons with teaching or supervisory experience."
+  },
+  "EDUC 440": {
+    "subject_code": "EDUC",
+    "course_code": "440",
+    "credit": "1-3",
+    "course_name": "Indigenous Education in Canada",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 442": {
+    "subject_code": "EDUC",
+    "course_code": "442",
+    "credit": "1-3",
+    "course_name": "Critical Issues in Indigenous Education",
+    "faculty": "Faculty of Education",
+    "description": "Post-practicum students will explore how a school program may need to be modified in order to integrate more fully First Nations history, content, and world views. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 449": {
+    "subject_code": "EDUC",
+    "course_code": "449",
+    "credit": "3-6",
+    "course_name": "Supervised Research Investigation",
+    "faculty": "Faculty of Education",
+    "description": "Available only to outstanding students approved by the Associate Dean (Teacher Education)."
+  },
+  "EDUC 450": {
+    "subject_code": "EDUC",
+    "course_code": "450",
+    "credit": "2-3",
+    "course_name": "Inquiry Seminar I",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 451": {
+    "subject_code": "EDUC",
+    "course_code": "451",
+    "credit": "2-3",
+    "course_name": "Inquiry Seminar II",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: EDUC_V 450. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 452": {
+    "subject_code": "EDUC",
+    "course_code": "452",
+    "credit": "2-3",
+    "course_name": "Inquiry Seminar III",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: EDUC_V 451. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 480": {
+    "subject_code": "EDUC",
+    "course_code": "480",
+    "credit": "1-3",
+    "course_name": "Program Synthesis: E- Portfolio",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 490": {
+    "subject_code": "EDUC",
+    "course_code": "490",
+    "credit": "1-6",
+    "course_name": "Special Studies in Education",
+    "faculty": "Faculty of Education",
+    "description": "Topics not covered in a course. A pilot course may be offered under this name for only one year and with permission of the Associate Dean (Teacher Education)."
+  },
+  "EDUC 492": {
+    "subject_code": "EDUC",
+    "course_code": "492",
+    "credit": "3",
+    "course_name": "Critical Analysis of Teaching: Planning for Context Appropriate Instruction",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDUC 495": {
+    "subject_code": "EDUC",
+    "course_code": "495",
+    "credit": "4-18",
+    "course_name": "Practicum (Elementary) for Previously Certified Teachers",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: Completion of recent elementary teaching methods courses in the subjects to be taught. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 496": {
+    "subject_code": "EDUC",
+    "course_code": "496",
+    "credit": "4-18",
+    "course_name": "Practicum (Secondary) for Previously Certified Teachers",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: Recent completion of secondary teaching methods courses in the subjects to be taught. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 500": {
+    "subject_code": "EDUC",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Research Methodology in Education",
+    "faculty": "Faculty of Education",
+    "description": "Overview of methodological approaches to research in education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 503": {
+    "subject_code": "EDUC",
+    "course_code": "503",
+    "credit": "3-6",
+    "course_name": "Ethnography and Education",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDUC_V 500 or other course in research methodology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 504": {
+    "subject_code": "EDUC",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Seminar in Qualitative Data Analysis",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: Previous course in qualitative research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 566": {
+    "subject_code": "EDUC",
+    "course_code": "566",
+    "credit": "6",
+    "course_name": "Principles of Secondary Education",
+    "faculty": "Faculty of Education",
+    "description": "Recent thought on classroom procedures, provisions for individual differences, discipline. The place of various school subjects in total education, and remedial education in Canada and other countries. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 601": {
+    "subject_code": "EDUC",
+    "course_code": "601",
+    "credit": "6-12",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDUC 699": {
+    "subject_code": "EDUC",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

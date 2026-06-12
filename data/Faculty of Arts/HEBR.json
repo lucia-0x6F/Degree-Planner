@@ -1,0 +1,50 @@
+{
+  "HEBR 101": {
+    "subject_code": "HEBR",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginning Biblical Hebrew I",
+    "faculty": "Faculty of Arts",
+    "description": "Biblical Hebrew, with an introduction to vocabulary and grammar, and the reading of simple biblical texts in the original."
+  },
+  "HEBR 205": {
+    "subject_code": "HEBR",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Beginning Biblical Hebrew II",
+    "faculty": "Faculty of Arts",
+    "description": "Biblical Hebrew, with further introduction to vocabulary and grammar, and the reading of biblical texts in the original. Credit will be granted for only one of HEBR_V 102 or HEBR_V 205. Prerequisite: HEBR_V 101. Equivalency: HEBR_V 102."
+  },
+  "HEBR 301": {
+    "subject_code": "HEBR",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate Biblical Hebrew I",
+    "faculty": "Faculty of Arts",
+    "description": "Biblical Hebrew. Devised to enrich vocabulary and grammar and enhance fluency in reading and interpreting a range of biblical texts. Credit will be granted for only one of HEBR_V 201 or HEBR_V 301. Prerequisite: One of HEBR_V 102, HEBR_V 205. Equivalency: HEBR_V 201."
+  },
+  "HEBR 302": {
+    "subject_code": "HEBR",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Intermediate Biblical Hebrew II",
+    "faculty": "Faculty of Arts",
+    "description": "Biblical Hebrew. Devised to further enrich vocabulary and grammar and to enhance fluency in reading and interpreting a range of biblical texts. Credit will be granted for only one of HEBR_V 202 or HEBR_V 302. Prerequisite: One of HEBR_V 201, HEBR_V 301. Equivalency: HEBR_V 202."
+  },
+  "HEBR 479": {
+    "subject_code": "HEBR",
+    "course_code": "479",
+    "credit": "3-12",
+    "course_name": "Supervised Study in Classical Hebrew",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: One of HEBR_V 202, HEBR_V 302. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HEBR 509": {
+    "subject_code": "HEBR",
+    "course_code": "509",
+    "credit": "3-12",
+    "course_name": "Advanced Readings in Classical Hebrew",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will not be given for both HEBR_V 479 and HEBR_V 509. This course is not eligible for Credit/D/Fail grading."
+  }
+}

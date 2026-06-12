@@ -1,0 +1,938 @@
+{
+  "CIVL 201": {
+    "subject_code": "CIVL",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introduction to Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "The design process; graphical, visualization and computational tools; civil engineering disciplines; decision-making; teamwork; conceptual design project reflecting community, economic, environmental, sustainability and technical considerations. [3-0-0]. Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 120, ENGL_V 121, WRDS_V 150. Corequisite: CIVL_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 203": {
+    "subject_code": "CIVL",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Technical Communication in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication in civil engineering. Business correspondence, business meetings, poster presentations, oral presentations and technical reports. Restricted to students in second year of the Civil Engineering program. [3-0-0] Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 120, ENGL_V 121, WRDS_V 150. Corequisite: CIVL_V 201. Equivalency: APSC_V 201 This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 204": {
+    "subject_code": "CIVL",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Fundamentals of Environmental Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Environmental engineering issues and projects; application of scientific and engineering principles to addressing these; soil, water and air pollution, and remediation. [3-0-0] Prerequisite: CHEM 154. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 210": {
+    "subject_code": "CIVL",
+    "course_code": "210",
+    "credit": "4",
+    "course_name": "Soil Mechanics I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Soil classification, principle of effective stress, analysis of seepage, filter criteria, introduction to shear strength and slope stability analysis. [3-2*-1]. Prerequisite: One of CIVL_V 230, MECH_V 260, WOOD_V 276 or third-year standing in ENVE_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 215": {
+    "subject_code": "CIVL",
+    "course_code": "215",
+    "credit": "4",
+    "course_name": "Fluid Mechanics I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fluid properties, hydrostatics, kinematics, and fluid dynamics: energy and momentum methods with applications. Dimensional analysis, modelling, introduction to flow in pipes and forces on immersed objects. [3-0-2]. Prerequisite: All of PHYS_V 170, MATH_V 101. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 230": {
+    "subject_code": "CIVL",
+    "course_code": "230",
+    "credit": "4",
+    "course_name": "Solid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Stress and strain, Hooke's law, axially loaded members, torsion, shear forces and bending moments in beams, bending and shear stresses in beams, composite members, introduction to inelastic and statically indeterminate problems. [3-0-2]. Prerequisite: All of PHYS_V 170, MATH_V 101. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 231": {
+    "subject_code": "CIVL",
+    "course_code": "231",
+    "credit": "4",
+    "course_name": "Structural Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Deflection of beams and structural systems; analysis of determinate structures; combined axial load and bending; beam- columns; buckling (stability); biaxial stresses and strains; construction and testing of model structures. [3-2-0]. Prerequisite: All of MATH_V 152, CIVL_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 235": {
+    "subject_code": "CIVL",
+    "course_code": "235",
+    "credit": "4",
+    "course_name": "Plane Surveying",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and application of plane surveying methods. Introduction to and use of compass, transit, tape, and level. Construction and topographic surveys. Reduction of field data and construction of drawings. Demonstration of modern instruments, remote sensing methods and geographical information systems (GIS). This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 250": {
+    "subject_code": "CIVL",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Engineering and Sustainable Development",
+    "faculty": "Faculty of Applied Science",
+    "description": "Implications of a finite biosphere and the complexities inherent in environmental decision-making. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 300": {
+    "subject_code": "CIVL",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Construction Engineering and Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Project delivery systems: traditional; construction management; turnkey; project management. Network planning methods. Activity planning, including construction methods selection. Estimating, bidding and bonding. Project control tools and procedures. Human resources, including equity considerations; occupational health and safety and quality control. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 301": {
+    "subject_code": "CIVL",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Modelling and Decision-Making in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to systems engineering; applications of decision-making, modelling, and programming, including probabilistic analyses and optimization, to civil engineering projects; review of numerical methods. [3-0-1] Prerequisite: All of MATH_V 152, CIVL_V 201, STAT_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 302": {
+    "subject_code": "CIVL",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Civil Engineering Impacts",
+    "faculty": "Faculty of Applied Science",
+    "description": "The social and biophysical context of infrastructure and the impact of civil engineering on people, the economy, and the environment. Specific topics vary from year to year. [3-0-0] Prerequisite: CIVL_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 303": {
+    "subject_code": "CIVL",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Computational Tools in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Computational and numerical solutions to civil engineering problems; application to a civil engineering design project that reflects community, economic, environmental and technical considerations. [2-0-2] Prerequisite: All of CIVL_V 201, MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 305": {
+    "subject_code": "CIVL",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Water, Society and Environmental Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Environmental systems, risk and resilience, and the dynamics of water availability, management, and treatment within responsible and sustainable stewardship frameworks. [3-0-0] Prerequisite: CIVL_V 204 or third-year standing or higher in IGEN. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 311": {
+    "subject_code": "CIVL",
+    "course_code": "311",
+    "credit": "4",
+    "course_name": "Soil Mechanics II",
+    "faculty": "Faculty of Applied Science",
+    "description": "One-dimensional compression and stress-strain response of soils with application to estimation of the settlements and capacities of foundations and of retaining walls. [3-2*-1] Prerequisite: CIVL_V 210 This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 315": {
+    "subject_code": "CIVL",
+    "course_code": "315",
+    "credit": "4",
+    "course_name": "Fluid Mechanics II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Two-dimensional flow around immersed objects; velocity and pressure fields; lift and drag on cylinders and aerofoils; fluid loads on structures and structural response; pumps and turbines; analysis and design of pipeline systems; unsteady flow in pipes; frictionless water hammer analysis. [3-2*-1]. Prerequisite: One of APSC_V 201, ENVE_V 201, CIVL_V 203 and all of CIVL_V 215, MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 316": {
+    "subject_code": "CIVL",
+    "course_code": "316",
+    "credit": "4",
+    "course_name": "Hydrology and Open Channel Flow",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to open channel hydraulics, engineering hydrology, and water resource systems; estimation of design discharge; flood statistics; nonuniform steady open channel flow; energy and momentum principles, backwater analysis; culvert and bridge hydraulics. [3-2*-1]. Prerequisite: CIVL_V 215 and one of APSC_V 201, CIVL_V 203, ENVE_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 320": {
+    "subject_code": "CIVL",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Civil Engineering Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "The structure and properties of common Civil Engineering materials: aggregates, Portland cement, concrete, wood, steel and other construction materials. The emphasis is on the relationship between the structure of materials and their mechanical and durability properties. [3-0-0] Prerequisite: All of APSC_V 278, APSC_V 279. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 331": {
+    "subject_code": "CIVL",
+    "course_code": "331",
+    "credit": "4",
+    "course_name": "Steel and Timber Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to limit states design of steel and timber structures: design objectives, design loads and load combinations, structural safety, material properties, design of tension and compression members, beams, columns, and connections. [3-0-2]. Prerequisite: CIVL_V 231. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 332": {
+    "subject_code": "CIVL",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Structural Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to indeterminate structural analysis; approximate analysis of structures; calculation of displacements using virtual work; flexibility (force) method; stiffness method for frames; moment distribution method; influence lines, introduction to structural dynamics. [3-0-2]. Prerequisite: All of CIVL_V 231, MATH_V 152. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 340": {
+    "subject_code": "CIVL",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Transportation Engineering I",
+    "faculty": "Faculty of Applied Science",
+    "description": "The analysis and design of transportation facilities; vehicle motion and vehicle/pavement interaction; geometric design of roadways; traffic flow analysis and level of service; fundamentals of intersection design; traffic safety. Prerequisite: STAT_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 402": {
+    "subject_code": "CIVL",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Professionalism and Law in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "The Professional Governance Act; professional ethics, conflicts of interest, confidentiality and accountability; health and safety; sustainable development and environmental stewardship; equity considerations; design and construction contracts, specifications and tendering; labour and employment law; dispute resolution; evidence and expert witnesses; torts and legal liability. Third-year standing or higher in B.A.Sc. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 403": {
+    "subject_code": "CIVL",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Engineering Economic Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Time value of money; cash flow analysis; comparing options; depreciation, taxes, and inflation; financial accounting; company structures; public sector projects; decision-making. Third-year standing or higher in B.A.Sc. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 404": {
+    "subject_code": "CIVL",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Introduction to Solid Waste Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Characteristics of solid wastes; solid waste collection, treatment, and disposal; evaluation and analysis of landfills, composting, combined treatment, recycle, and re-use. [3-0-0]. Prerequisite: CIVL_V 204. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 406": {
+    "subject_code": "CIVL",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Water Treatment and Waste Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Processes used in water and wastewater treatment. Conditions which necessitate treatment of water or wastewater, water and wastewater treatment processes and plant design. Municipal services required and associated with solid waste management. Credit will be granted for only one of CHBE_V 373 or CIVL_V 406. [3-0-0]. Prerequisite: CIVL_V 305. or third-year standing in ENVL program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 407": {
+    "subject_code": "CIVL",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Environmental Laboratory Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Testing procedures used in water quality studies and in the operation of water and wastewater treatment plants. Prerequisite: CHEM_V 154. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 408": {
+    "subject_code": "CIVL",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Geo-Environmental Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Environmental contamination, regulatory requirements, site investigation, migration of contaminants, containment systems, site remediation technologies, design considerations related to soil-contaminant interactions, hydrogeology, geochemistry and types of contaminants. Design and performance case histories. [3-0-0] Prerequisite: CIVL 316 and fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 409": {
+    "subject_code": "CIVL",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Municipal Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of municipal infrastructure, including streets, water supply networks, and sewers, garbage collection and solid waste management. Focus is on solutions for providing an adequate water supply, collecting and disposing of stormwater and sewage, and managing excess stormwater flow. [3-0-0]. Prerequisite: All of CIVL_V 315, CIVL_V 316. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 410": {
+    "subject_code": "CIVL",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Foundation Engineering I",
+    "faculty": "Faculty of Applied Science",
+    "description": "An introduction to the process of foundation engineering. Empirical and analytical approaches used in current professional practice. Topics include site investigation, preloading, liquefaction assessment, ground improvement, design of shallow and deep foundations, and retaining structures. The importance of geology and technical communication are emphasized. [3-0-0]. Prerequisite: CIVL_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 411": {
+    "subject_code": "CIVL",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Foundation Engineering II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Aspects of Geotechnical Engineering. Design considerations illustrated by case histories pertinent to BC. Topics include: site investigation, terrain analyses, in situ testing, groundwater problems, deep foundations, tie back walls and bracing, tailings impoundments, Northern construction, ground ice, dikes and dams engineering. Many case histories presented in part by prominent consulting engineers in BC. [3-0-0]. Prerequisite: CIVL_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 413": {
+    "subject_code": "CIVL",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Design of Earth Dams and Containment Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Purpose and types of dams; design criteria; construction sequence; compaction; seepage; filter design; factors influencing the design of earth dams; stability and deformation under static and earthquake loading; slope protection; field instrumentation. [3-0-0]. Prerequisite: CIVL_V 31. Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 415": {
+    "subject_code": "CIVL",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Water Resource Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "An introduction to the planning and design of water resource systems, stream systems, and municipal and hydropower engineering. [3-0-0]. Prerequisite: All of CIVL_V 315, CIVL_V 316, STAT_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 416": {
+    "subject_code": "CIVL",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Environmental Hydraulics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of hydraulic engineering principles to problems of environmental concern. Pollutant transport and dispersion. Mixing in rivers and lakes. Theory of jets and plumes. Design of outfall diffusers. [3-0-0]. Prerequisite: All of CIVL_V 316, MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 417": {
+    "subject_code": "CIVL",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Coastal Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Linear wave theory; wave shoaling, refraction and diffraction; random waves; wave generation; long waves, tides and currents; coastal structures; beaches and coasts; mixing processes; harbour and marinas; coastal modelling. Credit will only be given for one of CIVL_V 417 or CIVL_V 540. [3-0-0]. Prerequisite: CIVL_V 316 and one of EOSC_V 213, MATH_V 256. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 418": {
+    "subject_code": "CIVL",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Engineering Hydrology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Hydrologic processes - weather, precipitation, infiltration, evaporation, snowmelt and runoff generation. Emphasis on quantitative techniques including: hydrograph analysis, reservoir and channel routing, statistical methods and design floods, hydrologic modelling. [3-0-0]. Prerequisite: CIVL_V 316. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 420": {
+    "subject_code": "CIVL",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Concrete Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Physical and chemical properties and microstructure of hydrated Portland cement; construction practices; modern use of industrial by-products such as fly ash, blast furnace slag, silica fume and metakaolin; use of chemical admixtures; environmental issues; properties of hardened concrete; issues in standardized and accelerated testing, non-destructive testing. [3-0-0]. Prerequisite: CIVL_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 422": {
+    "subject_code": "CIVL",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Project Based Learning in Civil Engineering Materials",
+    "faculty": "Faculty of Applied Science",
+    "description": "Some topical problems will be identified and students in groups will carry out experiments to study the materials involved. Site visits and external consultations are an integral requirement. [1-4-0] Prerequisite: CIVL_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 425": {
+    "subject_code": "CIVL",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Case Studies of Construction Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "Identification and evaluation of solutions to construction site operation problems: the relationship between design and construction; factors affecting productivity and safety; measurement of on-site performance. Credit will be granted for only one of CIVL_V 425 or CIVL_V 521. Restricted to students with fourth-year standing or higher. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 426": {
+    "subject_code": "CIVL",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Virtual Design and Construction",
+    "faculty": "Faculty of Applied Science",
+    "description": "Building information modelling (BIM), 4D/5D modelling, design coordination, BIM execution and performance assessment, and integrated project delivery methods. Credit will be granted for only one of CIVL_V 426 or CIVL_V 526. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 427": {
+    "subject_code": "CIVL",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Applied Machine Learning for Construction and Facility Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to classical machine learning algorithms, including linear regression, logistic regression, decision trees, and neural networks, and their applications to Civil Engineering practices, such as construction safety, building energy conservation, and traffic simulation. Other topics at the discretion of the instructor. [3-0-0] Prerequisite: CIVL 300. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 430": {
+    "subject_code": "CIVL",
+    "course_code": "430",
+    "credit": "4",
+    "course_name": "Design of Concrete Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Non-linear response of reinforced concrete members subjected to axial load, bending and shear; design of simple one-way members including beams, columns, slabs and footings. [3-2*-1]. Prerequisite: CIVL_V 231. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 432": {
+    "subject_code": "CIVL",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Advanced Structural Steel Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of steel structures to resist vertical and lateral loads. Floor and roof systems including conceptual layout, floor deck, beams, joists, trusses, and columns. Stability issues and limit states design. Connections and construction aspects. Seismic design. [3-0-0]. Prerequisite: All of CIVL_V 331, CIVL_V 332. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 433": {
+    "subject_code": "CIVL",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Advanced Concrete Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of members subjected to shear and torsion, long columns, two-way slab systems; seismic design of low-rise concrete buildings. [3-0-0]. Prerequisite: CIVL_V 430. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 435": {
+    "subject_code": "CIVL",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Advanced Structural Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Shear flow, shear deformation, St. Venant torsion, warping torsion, P-delta and geometric stiffness, buckling of columns and frames, cylindrical shells, beams on elastic foundation, shear wall analysis, elasto-plastic analysis. Introduction to the finite element method. [3-0-0]. Prerequisite: CIVL_V 332. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 436": {
+    "subject_code": "CIVL",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Matrix Structural Analysis and Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Further techniques in matrix structural analysis; non-rigid supports, temperature-shrinkage effects, computer implementation; matrix representation of structural dynamics; mode shapes, natural frequencies, continuous systems; lumped mass models, modal analysis, response spectra. [3-0-0]. Prerequisite: CIVL_V 332. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 437": {
+    "subject_code": "CIVL",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Introduction to Ship Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Structural theory and practice of ship structural design; longitudinal and transverse strength of hull girder; plates and shells; matrix analysis; introduction to classification society rules; ship section design synthesis; finite element analysis. [3-0-0]. Prerequisite: One of CIVL_V 332, MECH_V 360. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 439": {
+    "subject_code": "CIVL",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "Design of Timber Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of timber structural elements using limit states design principles; joints and fasteners, sawn lumber and engineered wood products, light frame systems and shear walls. Credit will be granted for only one of CIVL_V 439 or CIVL_V 516. [3-0-0]. Prerequisite: One of CIVL_V 331, WOOD_V 386. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 440": {
+    "subject_code": "CIVL",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Transportation Engineering II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Traffic operations and network analysis: macroscopic traffic models and shockwaves analysis; queueing theory and gaps; advanced signalized intersection analysis and design; freeway weaving and interchange analysis; data collection including field exercises. [3-0-0]. Prerequisite: CIVL_V 340. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 441": {
+    "subject_code": "CIVL",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Transportation Planning and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Transportation systems planning and analysis: data needs; surveys and analysis; sampling techniques; trip generation; trip distribution; modal choice; trip assignment; traffic impact studies; system evaluation. Credit will be granted for only one of CIVL_V 441, CIVL_V 583 or PLAN_V 535. [3-0-0]. Prerequisite: CIVL_V 340. Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 445": {
+    "subject_code": "CIVL",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Civil Engineering Design Project I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Integration and application of previously acquired knowledge and skills to find design solutions for a multi-disciplinary civil engineering project. Focus on conceptual and preliminary design. [2*-0- 4] Prerequisite: CIVL_V 303 and fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 446": {
+    "subject_code": "CIVL",
+    "course_code": "446",
+    "credit": "2",
+    "course_name": "Civil Engineering Design Project II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Integration and application of previously acquired knowledge and skills to find design solutions for a multi-disciplinary civil engineering design project. Focus on detailed design. [2*-0-2]. Prerequisite: CIVL_V 445. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 466": {
+    "subject_code": "CIVL",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "Emerging Contaminants in Water Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Emerging contaminants in water systems. Organic contaminants such as pharmaceuticals, pesticides, and other chemicals used in consumer products and industrial processes. Partitioning of contaminants in natural water systems. Methods of water treatment. Credit will be granted for only one of CIVL_V 466 or CIVL_V 566. [3-0-0]. Prerequisite: CIVL_V 305. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 475": {
+    "subject_code": "CIVL",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Environmental Stewardship in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Co-evolution of human and natural environments, approaches to the design, construction and operations of interacting built, social, and ecological systems, the integrative design process and related strategies. [3-0-0]. Prerequisite: One of APSC_V 261, APSC_V 262, APSC_V 263, CIVL_V 250, CIVL_V 302. Third-year standing in BASc program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 478": {
+    "subject_code": "CIVL",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Building Science",
+    "faculty": "Faculty of Applied Science",
+    "description": "Building science concepts associated with the design of modern buildings, focusing particularly on the building envelope's role in environmental separation, controlling the movement of heat, air, and water in liquid and vapour states. [3-0-0]. Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 492": {
+    "subject_code": "CIVL",
+    "course_code": "492",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Independent studies on a special topic. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 498": {
+    "subject_code": "CIVL",
+    "course_code": "498",
+    "credit": "1-6",
+    "course_name": "Topics in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Seminar or lecture. Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 504": {
+    "subject_code": "CIVL",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Seismic Hazard Analysis and Design Parameters",
+    "faculty": "Faculty of Applied Science",
+    "description": "Causes and characteristics of earthquakes. Properties of ground motion records. Estimation of ground motion intensity and analysis of attenuation relationships. Probabilistic and deterministic seismic hazard analysis for both sites and regions. Selection of earthquake records and construction of design spectra. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 505": {
+    "subject_code": "CIVL",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Principles of Earthquake Engineering and Seismic Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Response of structures to earthquakes; concept of ductility; understanding and applications of seismic design codes for buildings; quasi-static, modal, and nonlinear analyses; modelling of structures; design of structures using energy dissipation devices. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 506": {
+    "subject_code": "CIVL",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Performance-based Earthquake Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of performance-based earthquake engineering principles to the design and assessment of building structures. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 507": {
+    "subject_code": "CIVL",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Dynamics of Structures I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental analysis of simple structures subjected to dynamic loadings; vibration problems in structures; linear and nonlinear structural response of simple systems; numerical methods for practical vibration analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 508": {
+    "subject_code": "CIVL",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Dynamics of Structures II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Dynamic response of discrete and continuous systems; structural property matrices and eigenvalue problem; introduction to random vibrations; wave propagation analysis; experimental techniques and computer modelling. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 509": {
+    "subject_code": "CIVL",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Nonlinear Structural Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Nonlinear behaviour of structures and the formulation of elements to model such behaviour; solution strategies; nonlinear material and section response; nonlinear dynamic analysis; nonlinear geometry; application of nonlinear analysis in engineering practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 510": {
+    "subject_code": "CIVL",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Behaviour of Steel Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Elastic response; elastic limit; capacity design; non-elastic stability problems of members and frames; plastic design and analysis; connection design for ultimate loads. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 511": {
+    "subject_code": "CIVL",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Seismic Design of Steel Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Nonlinear behavior and modeling of steel structures; plastic analysis of steel structures; seismic design of steel buildings. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 513": {
+    "subject_code": "CIVL",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Concrete Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mechanics of structural concrete; comparison of analytical predictions and experimental results; simplified procedure; design using strut-and-tie models; seismic design of concrete buildings. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 516": {
+    "subject_code": "CIVL",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Behaviour of Timber Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Behaviour of timber structural elements using limit states design principles; joints and fasteners, sawn lumber and engineered wood products, light frame systems and shear walls. Credit will be granted for only one of CIVL_V 439 or CIVL_V 516. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 517": {
+    "subject_code": "CIVL",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Advanced Topics in Timber Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of timber structural systems using limit states design principles; non-standard connectors, timber-concrete composites, cross-laminated timber and hybrid systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 518": {
+    "subject_code": "CIVL",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Reliability and Structural Safety",
+    "faculty": "Faculty of Applied Science",
+    "description": "Probability theory and random variables. Performance functions and probability of non-performance: simulations and FORM/SORM methods. Applications. System reliability. Time-dependent reliability and introduction to stochastic processes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 519": {
+    "subject_code": "CIVL",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Risk and Decision Analysis for Infrastructure Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Simulation and risk analysis; decision-making under uncertainty; methods to identify, value and implement flexibility in civil engineering systems design; applications to multiple civil engineering disciplines. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 520": {
+    "subject_code": "CIVL",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Construction Planning and Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Planning of civil engineering projects using networking techniques and time space methods. Treatment of resources and cash flow. Activity planning. Concepts of control at the project and activity levels. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 521": {
+    "subject_code": "CIVL",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Construction Methods and Performance",
+    "faculty": "Faculty of Applied Science",
+    "description": "Case studies in construction methods and solutions to construction site operation problems. Construction productivity, performance measurement, safety, quality, and other production issues. Credit will be granted for only one of CIVL_V 425 or CIVL_V 521. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 522": {
+    "subject_code": "CIVL",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Project and Construction Economics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of the principles of engineering economics, economics and systems analysis techniques to the mathematical modelling of civil engineering projects. Topics treated: modelling of capital expenditures, revenues and operating expenditures, project financing, sensitivity analysis, risk analysis and management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 523": {
+    "subject_code": "CIVL",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Project Management for Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Perspectives of project management as it relates to civil engineering. Case studies are used to illustrate key issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 524": {
+    "subject_code": "CIVL",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Legal Aspects of Project and Construction Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Legal issues of construction contracts, bidding processes, negligence, insurance, bonding, liens, and labour law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 526": {
+    "subject_code": "CIVL",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Virtual Design and Construction",
+    "faculty": "Faculty of Applied Science",
+    "description": "Building information modelling (BIM), 4D/5D modelling, design coordination, BIM execution and performance assessment, and integrated project delivery methods. Credit will be granted for only one of CIVL_V 426 or CIVL_V 526. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 528": {
+    "subject_code": "CIVL",
+    "course_code": "528",
+    "credit": "2",
+    "course_name": "Advanced Concrete Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Pore structure, permeability and transport properties of concrete with and without mineral and chemical admixtures, damage modelling and application of linear and non-linear fracture mechanics, fiber reinforcement of concrete, strain-rate effects, fatigue and impact resistance, durability. Prerequisite: CIVL_V 420. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 529": {
+    "subject_code": "CIVL",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Condition Assessment and Rehabilitation of Civil Infrastructure",
+    "faculty": "Faculty of Applied Science",
+    "description": "Non-destructive testing; repair and strengthening; high performance plain, polymer-modified, and fibre-reinforced concrete; shotcrete; fibre-reinforced polymer sprays; wraps and laminates; structural health monitoring using sensors; case studies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 537": {
+    "subject_code": "CIVL",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Computational Mechanics I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Numerical techniques, weighted residual methods, finite differences, finite elements. Formulations using energy principles, shape functions, conformity, stiffness and mass matrices. Consistent load vectors. Applications to linear problems. Numerical integration and equation solvers. Dynamic problems. Introduction to nonlinear problems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 538": {
+    "subject_code": "CIVL",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Computational Mechanics II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Finite elements for geometrically nonlinear problems: Lagrangian and Eulerian formulations. Review of constitutive models: Finite elements for materially nonlinear problems. Incremental formulations. Iterative solution algorithms. Application to project type problems. Prerequisite: CIVL_V 537. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 539": {
+    "subject_code": "CIVL",
+    "course_code": "539",
+    "credit": "3",
+    "course_name": "Advanced Theory of Structures",
+    "faculty": "Faculty of Applied Science",
+    "description": "Shearflow, shear deformation, St. Venant torsion, geometric stiffness and buckling of structural components and systems, lateral torsional buckling, beams on elastic foundation, theory of plates and shells, energy methods. Credit will be granted for only one of CIVL_V 435 or CIVL_V 539. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 540": {
+    "subject_code": "CIVL",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Advanced Coastal Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Wave theories; wave shoaling, refraction, diffraction and reflection; tides and currents; random waves; wave generation; coastal structures; sedimentation; mixing processes; harbours design; coastal modelling. Credit will be granted for only one of CIVL_V 417 or CIVL_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 541": {
+    "subject_code": "CIVL",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Environmental Fluid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of density stratified flows with application to water quality problems in inland and coastal waters. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 542": {
+    "subject_code": "CIVL",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Physical Limnology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Physical processes that affect the behaviour of lakes, including reservoirs, water filled mine pits, mine tailings ponds and other standing water bodies. Impacts of these processes on water quality, and methods used in the rehabilitation of lakes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 543": {
+    "subject_code": "CIVL",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Turbulent Fluid Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Physical and mathematical models of turbulent flow suitable for engineering estimates and predictions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 546": {
+    "subject_code": "CIVL",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Fluvial Hydraulics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Hydraulics of flow in rivers. Sediment transport, flow resistance, river morphology, stable channel design, bank erosion and scour; effects of engineering works on river systems; river restoration. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 547": {
+    "subject_code": "CIVL",
+    "course_code": "547",
+    "credit": "2",
+    "course_name": "Estuary Hydraulics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Estuary dynamics and estuary classification; the effect of engineering works on salinity intrusion; physics of estuary pollution and the use of computer and hydraulic models. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 548": {
+    "subject_code": "CIVL",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Numerical Modelling of Surface Water Quality",
+    "faculty": "Faculty of Applied Science",
+    "description": "Development and application of water quality models for lakes, rivers, estuaries, and reservoirs. Derivation of differential equations of pollutant transport; kinetic relationships for physical and chemical transformation of substances; numerical and analytical solutions to transport equations; calibration and verification. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 551": {
+    "subject_code": "CIVL",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Advanced Hydrology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modelling hydrologic processes. Flow forecasting models for watersheds. Hydrology in a global perspective. Hydrological measurement techniques. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 555": {
+    "subject_code": "CIVL",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Optimization and Heuristic Approaches for Civil Engineering Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Optimization and simulation and their use in civil engineering design, analysis, and operation. Problem formulation, classical solution techniques, and heuristic approaches, and their applications to the disciplines within civil engineering are addressed. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 556": {
+    "subject_code": "CIVL",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Modelling and Optimization of Civil Engineering Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Applications of practical simulation and optimization software systems and operations research methodologies in design, analysis, and operation of civil engineering systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 558": {
+    "subject_code": "CIVL",
+    "course_code": "558",
+    "credit": "2",
+    "course_name": "Dam Infrastructure in British Columbia",
+    "faculty": "Faculty of Applied Science",
+    "description": "Case history studies of hydroelectric projects and water supply dams. Emphasis on the engineering works of Karl Terzaghi and current environmental aspects of those projects. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 559": {
+    "subject_code": "CIVL",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Advanced Water and Wastewater Treatment Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Processes for removing and mitigating impurities that are not effectively removed in conventional water and waste treatment practice; investigation of disposal practices that make use of the impurities as a resource. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 560": {
+    "subject_code": "CIVL",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Low-Pressure Membranes for Water Treatment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Parameters governing contaminant removal and system throughput in microfiltration and ultrafiltration for drinking water and wastewater treatment. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 561": {
+    "subject_code": "CIVL",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Risk and Remediation in Geo-environment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Sampling; investigations; fate and transport of chemicals in soil, water, sediment, biota and air; exposure pathways assessment and toxicological principles for receptors; risk-based approach to site remediation, treatment and control technologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 562": {
+    "subject_code": "CIVL",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Environmental Data Collection and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Development and application of sampling and data analysis programs as they apply to environmental engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 564": {
+    "subject_code": "CIVL",
+    "course_code": "564",
+    "credit": "2",
+    "course_name": "Engineering Management of Solid Wastes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Characteristics of solid wastes; introduction to solid waste collection, treatment and disposal. Evaluation of current practice and analysis of future potential of landfills, composting, combined treatment, recycle and re-use. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 565": {
+    "subject_code": "CIVL",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Physical-Chemical Treatment Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Development of the principles of selected physical and chemical treatment unit operations. Applications in both water and wastewater treatment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 566": {
+    "subject_code": "CIVL",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Emerging Contaminant Fate and Treatment Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fate of contaminants in natural waters and water treatment systems. Partitioning and transformations of contaminants via physical, chemical, and biological processes. Credit will be granted for only one of CIVL_V 466 or CIVL_V 566. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 567": {
+    "subject_code": "CIVL",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Water and Sanitation in Low Resource Contexts",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design approaches for public health engineering and water and sanitation services in resource-limited contexts. Water and excreta-related diseases and appropriate technologies for water supply, treatment, sanitation, and analysis. Local, global, and Indigenous contexts will be integrated throughout the class. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 569": {
+    "subject_code": "CIVL",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Environmental Biotechnology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Development of the principles of secondary, biological treatment processes, with application to both municipal and industrial wastewater treatment. Discussion of different treatment methodology, incorporating both aerobic and anaerobic microbiological processes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 570": {
+    "subject_code": "CIVL",
+    "course_code": "570",
+    "credit": "2",
+    "course_name": "Advanced Soil Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Soil composition and geological factors affecting engineering properties, stress and strain at a point, principle of effective stress, stress-strain relations; theories of primary and secondary consolidation, settlement; shear testing equipment, stress-strain and strength behaviour of soil under static and dynamic loading. Prerequisite: CIVL_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 574": {
+    "subject_code": "CIVL",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Experimental Soil Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Field and laboratory experimental studies of advanced aspects of soil behaviour; compressibility; shear strength; pore water pressure; dynamic tests; advanced instrumentation and measurement techniques; research reports required. Prerequisite: CIVL_V 570. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 575": {
+    "subject_code": "CIVL",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Constitutive Models for Soil",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to continuum mechanics; basics of elastoplasticity; stress-strain behavior of geomaterials; anisotropy; monotonic and cyclic loading; critical state soil mechanics; specific constitutive models for clays and sands. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 579": {
+    "subject_code": "CIVL",
+    "course_code": "579",
+    "credit": "2",
+    "course_name": "Geosynthetics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Material properties; standard tests data; soil-geosynthetic interaction; design of reinforced soil structures (walls, slopes, embankments); design of filtration and drainage works; design of geomembrane-lined waste containment facilities; regulatory requirements; case history applications. Prerequisite: CIVL_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 580": {
+    "subject_code": "CIVL",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Geotechnical Earthquake Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Local site effects, soil-structure-interaction, liquefaction, seismic slope stability, seismic design of retaining structures; advanced methods in geotechnical earthquake engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 581": {
+    "subject_code": "CIVL",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Soil Dynamics for Design Practice",
+    "faculty": "Faculty of Applied Science",
+    "description": "Seismic loading and its effect on earth structures; dynamic response of single, and multi-degree of freedom systems and continuous systems; behaviour of soil under dynamic loading; pore pressure generation and liquefaction effects; seismicity and seismic design parameters; dynamic analysis of earth structures; seismic design of soil-structure systems. Prerequisite: CIVL_V 570. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 582": {
+    "subject_code": "CIVL",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "Transportation Engineering Impacts",
+    "faculty": "Faculty of Applied Science",
+    "description": "Methods to measure, predict and evaluate impacts of transportation modes. Discussion of measures to reduce impacts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 583": {
+    "subject_code": "CIVL",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Urban Engineering Methods and Models",
+    "faculty": "Faculty of Applied Science",
+    "description": "The application of urban analysis methods and models to the design of municipal and transportation engineering systems. Credit will be granted for only one of CIVL_V 441, CIVL_V 583 or PLAN_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 584": {
+    "subject_code": "CIVL",
+    "course_code": "584",
+    "credit": "3",
+    "course_name": "Applications of Advanced Computer Techniques in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Applications of artificial intelligence, neural networks, fuzzy logic and computer simulation to civil engineering problems involving uncertainty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 585": {
+    "subject_code": "CIVL",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Pedestrian and Bicycle Transportation Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of transportation facilities for people walking, cycling, or rolling on non- or lightly-motorized vehicles (active travellers). Geometry and traffic controls for sidewalks, bike lanes, shared streets, and off-street paths. Traveller and contextual factors influencing facility use and performance, including safety, comfort, accessibility, and equity. Credit will be given for one of CIVL_V 585 or PLAN_V 548L. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 586": {
+    "subject_code": "CIVL",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Urban Transportation System Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 589": {
+    "subject_code": "CIVL",
+    "course_code": "589",
+    "credit": "3",
+    "course_name": "Traffic Flow Theory",
+    "faculty": "Faculty of Applied Science",
+    "description": "A discussion of the various traffic flow distribution models, gap acceptance, queuing processes, traffic flow simulation with applications to intersection design, signal system design and control of urban freeways. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 592": {
+    "subject_code": "CIVL",
+    "course_code": "592",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Independent studies not related to thesis work. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 597": {
+    "subject_code": "CIVL",
+    "course_code": "597",
+    "credit": "1",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Presentations and discussions of current research topics in various disciplines of Civil Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 598": {
+    "subject_code": "CIVL",
+    "course_code": "598",
+    "credit": "1-6",
+    "course_name": "Topics in Civil Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Seminar or lecture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 599": {
+    "subject_code": "CIVL",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "M.A.Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CIVL 699": {
+    "subject_code": "CIVL",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

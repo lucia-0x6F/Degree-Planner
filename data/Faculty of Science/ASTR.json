@@ -1,0 +1,226 @@
+{
+  "ASTR 101": {
+    "subject_code": "ASTR",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to the Solar System",
+    "faculty": "Faculty of Science",
+    "description": "General principles of the celestial sphere, laws of motion and light, optics, and telescopes; current knowledge of the Sun and Solar System. [3-2*-0] Prerequisite: One of PHYS 11, PHYS 12, PHYS 100. and Principles of Mathematics 12."
+  },
+  "ASTR 102": {
+    "subject_code": "ASTR",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Introduction to Stars and Galaxies",
+    "faculty": "Faculty of Science",
+    "description": "Modern stellar and extragalactic astronomy. Stars and stellar evolution from protostars to black holes; galaxies and quasars; cosmology. ASTR 200/205 rather than ASTR 102 are recommended for students who intend to pursue studies in Astronomy. [3-2*-0] Prerequisite: One of PHYS 11, PHYS 12, PHYS 100. and Principles of Mathematics 12."
+  },
+  "ASTR 200": {
+    "subject_code": "ASTR",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Frontiers of Astrophysics",
+    "faculty": "Faculty of Science",
+    "description": "Stellar masses and evolution. White dwarfs, neutron stars, and black holes. Extrasolar planet formation and detection. Dark matter in the Milky Way and other galaxies. Cosmological observations and principles. [3-0-0] Prerequisite: Either (a) one of PHYS 101, PHYS 106, PHYS 107, PHYS 117, PHYS 131, PHYS 157, PHYS 153 and one of MATH 101, MATH 103, MATH 105, MATH 121; or (b) SCIE 001."
+  },
+  "ASTR 205": {
+    "subject_code": "ASTR",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Stars and Stellar Populations",
+    "faculty": "Faculty of Science",
+    "description": "Measurement of positions, motions, and distances in astronomy. Temperature, masses, and spectra of stars. Hertzsprung-Russell diagram. Quantitative stellar structure and evolution. Chemical composition of stars in different Galactic populations. Globular and open star clusters. [3-0-0] Prerequisite: ASTR 200 and one of PHYS 210, EOSC 211, CPSC 302, CPSC 303."
+  },
+  "ASTR 300": {
+    "subject_code": "ASTR",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Galaxies",
+    "faculty": "Faculty of Science",
+    "description": "Structure and kinematics of our galaxy. Spiral arms and dynamics of stars in spiral and elliptical galaxies. Galactic formation, evolution, dynamics, and groups. Active galaxies and quasars. [3-0-0]. Prerequisite: ASTR_V 205 and one of PHYS_V 210, EOSC_V 211, CPSC_V 302, CPSC_V 303. Corequisite: One of MATH_V 217, MATH_V 227, MATH_V 317. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 310": {
+    "subject_code": "ASTR",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Exploring the Universe: The Solar System",
+    "faculty": "Faculty of Science",
+    "description": "A survey of recent discoveries about the planets and other objects in the solar system, without the use of advanced mathematics. The Sun, the existence of planetary systems around other stars, and the search for life. Not open to first year students and not for credit for students in Physics & Astronomy specializations. [3-0-1*]"
+  },
+  "ASTR 311": {
+    "subject_code": "ASTR",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Exploring the Universe: Stars and Galaxies",
+    "faculty": "Faculty of Science",
+    "description": "A survey of recent discoveries in modern astronomy without the use of advanced mathematics. Stars, pulsars, black holes, galaxies, quasars and the origin and evolution of the Universe. Not open to first year students and not for credit for students in Physics & Astronomy specializations. [3-0-1*]"
+  },
+  "ASTR 333": {
+    "subject_code": "ASTR",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Exoplanets and Astrobiology",
+    "faculty": "Faculty of Science",
+    "description": "Observations and basic characteristics of extrasolar planets, including their formation, evolution, and potential for supporting life. [3-0-0] Prerequisite: One of PHYS 101, PHYS 102, PHYS 106, PHYS 107, PHYS 108, PHYS 117, PHYS 118, PHYS 131, PHYS 153, PHYS 157, PHYS 158, SCIE 001 and one of MATH 200, MATH 217, MATH 253, STAT 200, STAT 203, STAT 241, BIOL 300, COMM 291, ECON 325, EPSE 482, EPSE 483, FRST 231, GEOG 374, KIN 371, POLI 380, PSYC 217, PSYC 218, PSYC 277, PSYC 278, PSYC 366, SOCI 328."
+  },
+  "ASTR 349": {
+    "subject_code": "ASTR",
+    "course_code": "349",
+    "credit": "3",
+    "course_name": "Directed Research Project in Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "A research project, undertaken under the direction of a faculty member, culminating in a written report. Requires approval of the course instructor and program advisor in the Department of Physics and Astronomy. [1*-6-0]"
+  },
+  "ASTR 403": {
+    "subject_code": "ASTR",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Cosmology",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to the study of the Universe as a whole. Foundations of the Hot Big Bang model, the early Universe, nucleosynthesis, the cosmic microwave background, large-scale structure, galaxy formation and quasars. Credit will be granted for only one of ASTR 403 or PHYS 571. [3-0-0] Prerequisite: One of PHYS 200, PHYS 250. ASTR 300 is recommended."
+  },
+  "ASTR 404": {
+    "subject_code": "ASTR",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Astronomical and Astrophysical Measurements",
+    "faculty": "Faculty of Science",
+    "description": "Astronomical instrumentation and techniques for ground and space-based observations. Theory of measurement, imaging, interferometry and spectroscopy of electromagnetic radiation at optical, radio, infrared, and X-ray wavelengths. Astronomical data analysis. [3-0-0] Prerequisite: All of PHYS 210, PHYS 408 and one of PHYS 312, MATH 316."
+  },
+  "ASTR 405": {
+    "subject_code": "ASTR",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Astronomical Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Experiments in the use of astronomical instrumentation and data analysis. Use of the 40-cm reflector, spectrograph and electronic detectors. Photometric and spectroscopic analysis of digital data. [0-0-3] Prerequisite: [ASTR404]"
+  },
+  "ASTR 406": {
+    "subject_code": "ASTR",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "High-Energy Astrophysics",
+    "faculty": "Faculty of Science",
+    "description": "Radiative processes. White dwarfs, neutron stars, and black holes. Accreting systems. Gamma-ray bursts. [3-0-0] Prerequisite: All of PHYS 203, PHYS 301, MATH 215 and ASTR 300."
+  },
+  "ASTR 407": {
+    "subject_code": "ASTR",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Planetary Science",
+    "faculty": "Faculty of Science",
+    "description": "Structure of planetary systems, planetary interiors, planet formation, planetary atmospheres, meteoritics, impact cratering. [3-0-0] Prerequisite: One of PHYS 210, EOSC 211 and one of MATH 217, MATH 227, MATH 317 and one of MATH 316, PHYS 312 and one of ASTR 200, EOSC 212. Corequisite: One of PHYS 206, PHYS 216, PHYS 306, EOSC 352."
+  },
+  "ASTR 449": {
+    "subject_code": "ASTR",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Honours Thesis in Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "A research project in astronomy, undertaken under the direction of a faculty member, culminating in a thesis. [1*-6-0]"
+  },
+  "ASTR 500": {
+    "subject_code": "ASTR",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Principles of Modern Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "An introduction to the physical processes occurring in the stars, the interstellar medium, and in our own and other galaxies (fourth-year Honours students in the Physics and Astronomy Department may elect this course with special permission of the Department Head). This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 502": {
+    "subject_code": "ASTR",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Astronomical Dynamics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 505": {
+    "subject_code": "ASTR",
+    "course_code": "505",
+    "credit": "2-6",
+    "course_name": "Galactic Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "The study of the structure, content and evolution of our own and other galaxies, including the study of the physical processes occurring in the interstellar medium and galactic nuclei. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 506": {
+    "subject_code": "ASTR",
+    "course_code": "506",
+    "credit": "2-3",
+    "course_name": "High-Energy Astrophysics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 507": {
+    "subject_code": "ASTR",
+    "course_code": "507",
+    "credit": "2-3",
+    "course_name": "Planetary Sciences",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 508": {
+    "subject_code": "ASTR",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Stellar Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 509": {
+    "subject_code": "ASTR",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Astronomical Statistics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 514": {
+    "subject_code": "ASTR",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Observational Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 520": {
+    "subject_code": "ASTR",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Astronomy/Astrophysics Research Seminar",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 530": {
+    "subject_code": "ASTR",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Astronomy",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 536": {
+    "subject_code": "ASTR",
+    "course_code": "536",
+    "credit": "2-6",
+    "course_name": "Studies of the Interstellar Medium",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 549": {
+    "subject_code": "ASTR",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASTR 649": {
+    "subject_code": "ASTR",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

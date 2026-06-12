@@ -1,0 +1,362 @@
+{
+  "CPEN 211": {
+    "subject_code": "CPEN",
+    "course_code": "211",
+    "credit": "5",
+    "course_name": "Computing Systems I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Boolean algebra; combinational and sequential circuits; organization and operation of microcomputers, memory addressing modes, representation of information, instruction sets, machine and assembly language programming, systems programs, I/O structures, I/O interfacing and I/O programming, introduction to digital system design using microcomputers. Credit will be granted for only one of CPEN_V 211, CPEN_V 312. [4-2-2*]. Prerequisite: APSC_V 160. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 212": {
+    "subject_code": "CPEN",
+    "course_code": "212",
+    "credit": "4",
+    "course_name": "Computing Systems II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Abstractions at the hardware-software interface and their low-level implementation. Procedure invocation, dynamic dispatch, and related exploits; library linkage, virtual memory, heap management, garbage collection, and caches; interrupts, signals, and processes; threads, locks, and cache coherence; files, devices, and network topology. Credit will only be given for one of CPEN_V 212, CPSC_V 213. [3-2-0] Prerequisite: CPEN_V 211 and one of CPEN_V 221, CPEN_V 223, CPSC_V 259. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 221": {
+    "subject_code": "CPEN",
+    "course_code": "221",
+    "credit": "4-5",
+    "course_name": "Software Construction I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design, implementation, reasoning about software systems: abstraction and specification of software, testing, verification, abstract data types, object-oriented design, type hierarchies, concurrent software design. [3-2-2*]. Prerequisite: APSC_V 160. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 223": {
+    "subject_code": "CPEN",
+    "course_code": "223",
+    "credit": "4",
+    "course_name": "Software Design for Engineers I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to robust software design: static typing, procedural specifications, unit testing, black-box & white-box tests, user- defined data types (representations, invariants, abstraction functions), data abstractions, communicating design (e.g., UML). [3-2-0]. Prerequisite: APSC_V 160. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 281": {
+    "subject_code": "CPEN",
+    "course_code": "281",
+    "credit": "3",
+    "course_name": "Technical Communication",
+    "faculty": "Faculty of Applied Science",
+    "description": "Written and oral communication in engineering. Technical description, report preparation, business correspondence, and oral presentation of technical material. Restricted to students in second year of Electrical and Computer Engineering programs. Credit will be granted for only one of ELEC_V 281, CPEN_V 281, BMEG_V 201 or APSC_V 201. [3-0-0]. Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 112, ENGL_V 120, ENGL_V 121, WRDS_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 291": {
+    "subject_code": "CPEN",
+    "course_code": "291",
+    "credit": "6",
+    "course_name": "Computer Engineering Design Studio I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design projects involving hardware (electronic devices and circuits, microcomputers) and software. [2-6-0]. Prerequisite: CPEN_V 211. Corequisite: ELEC_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 300": {
+    "subject_code": "CPEN",
+    "course_code": "300",
+    "credit": "1-12",
+    "course_name": "Special Topics in Computer Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Lectures or projects on subjects of current interest. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 311": {
+    "subject_code": "CPEN",
+    "course_code": "311",
+    "credit": "4",
+    "course_name": "Digital Systems Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced combinational and sequential electronic system design. Hardware specification, modelling, and simulation using hardware description languages (HDLs) and CAD tools. Design with programmable logic including FPGA's. Applications include complex state machines, microcontrollers, arithmetic circuits, and interface units. [3-3-0]. Prerequisite: One of CPEN_V 211, CPEN_V 312. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 312": {
+    "subject_code": "CPEN",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Digital Systems and Microcomputers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Data representation in digital computers; boolean algebra; the design and optimization and implementation of combinatorial and sequential circuits; modern digital circuit technologies; memory and programmable logic devices; organization and operation of microcomputers; data/address bus organization; input-output interfacing. Credit will be granted for only one of CPEN_V 312, CPEN_V 211. [3-2*-0]. Prerequisite: One of ELEC_V 201, ELEC_V 204, ELEC_V 203, MECH_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 320": {
+    "subject_code": "CPEN",
+    "course_code": "320",
+    "credit": "4",
+    "course_name": "Software Construction II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Contemporary concepts and techniques for developing interactive software applications: client-server architectures; session oriented systems; security and scalability; models of application deployment.[3-2-0]. Prerequisite: All of CPEN_V 221, CPSC_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 321": {
+    "subject_code": "CPEN",
+    "course_code": "321",
+    "credit": "4",
+    "course_name": "Software Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineering practices for the development of non-trivial software-intensive systems including requirements specification, software architecture, implementation, verification, and maintenance. Iterative development. Recognized standards, guidelines, and models. Credit will only be granted for only one of CPSC_V 310, CPEN_V 321. [3-2-0]. Corequisite: CPEN_V 322. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 331": {
+    "subject_code": "CPEN",
+    "course_code": "331",
+    "credit": "4",
+    "course_name": "Operating Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Operating systems, their design and their implementation. Process concurrency, synchronization, communication and scheduling. Device drivers, memory management, virtual memory, file systems, networking and security. [3-3-0] Prerequisite: CPEN 212 and CPEN 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 333": {
+    "subject_code": "CPEN",
+    "course_code": "333",
+    "credit": "3-4",
+    "course_name": "Software Design for Engineers II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Use of operating systems abstractions; real-time systems; principles of concurrent and multi-threaded programming; information structures; introduction to object oriented analysis; design, and modelling using UML; software testing. This course is not open to students in the Computer Engineering program. [3-2-0]. Prerequisite: One of CPSC_V 259, CPEN_V 223. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 355": {
+    "subject_code": "CPEN",
+    "course_code": "355",
+    "credit": "4",
+    "course_name": "Machine Learning with Engineering Applications",
+    "faculty": "Faculty of Applied Science",
+    "description": "Foundations and concepts of data science and machine learning with applications to engineering problems. [3-0-2] Prerequisite: One of MATH_V 152, MATH_V 221 and one of MATH_V 318, MATH_V 302, STAT_V 302, STAT_V 321, ELEC_V 321 and one of CPEN_V 221, CPEN_V 223, CPSC_V 259. Credit cannot be obtained for both CPEN_V 355 and CPSC_V 340. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 391": {
+    "subject_code": "CPEN",
+    "course_code": "391",
+    "credit": "6",
+    "course_name": "Computer Engineering Design Studio II",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design and implementation of a hardware platform and software design and implementation at the operating system and application layers. Project management skills. Effective presentations. Going-forward, credit will be given for only one of CPEN_V 291, CPEN_V 391. [2-6-0]. Prerequisite: All of CPEN_V 212, CPSC_V 221, ELEC_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 400": {
+    "subject_code": "CPEN",
+    "course_code": "400",
+    "credit": "1-8",
+    "course_name": "Topics in Computer Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Lectures or projects on subjects of current interest."
+  },
+  "CPEN 411": {
+    "subject_code": "CPEN",
+    "course_code": "411",
+    "credit": "4",
+    "course_name": "Computer Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "Modern processors, GPUs, and memory hierarchies; quantitative principles and instruction set design; pipelining, superscalar issue, out-of-order execution, branch prediction and speculation; memory hierarchies, caches, virtual addressing, prefetching, coherence, and consistency; multicores, VLIW, on-chip networks, and other advanced architectures. Credit will be granted for only one of CPEN_V 411 or CPSC_V 313. [3-0-2]. Prerequisite: CPEN_V 211 and CPEN_V 212. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 412": {
+    "subject_code": "CPEN",
+    "course_code": "412",
+    "credit": "4",
+    "course_name": "Microcomputer Systems Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Microprocessor and system buses; advanced I/O methods; priority interrupts; event/exception handling; serial I/O; computer networking; memory system design; interaction of hardware and software, microprocessor comparison, testability issues, safety critical systems. [3-2-0]. Prerequisite: CPEN_V 311 and one of CPEN_V 211, CPEN_V 312. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 416": {
+    "subject_code": "CPEN",
+    "course_code": "416",
+    "credit": "4",
+    "course_name": "Gate-Model Quantum Computing",
+    "faculty": "Faculty of Applied Science",
+    "description": "A software-based introduction to gate model quantum computing algorithms. Basic elements of quantum computation; analysis and software implementation of Grover's algorithm, Shor's algorithm, quantum compilation, variational algorithms, Hamiltonian simulation, noise characterization. [3-0-1] Prerequisite: One of CPEN_V 221, CPEN_V 223, CPSC_V 259, CPSC_V 221, PHYS_V 210, and one of MATH_V 152, MATH_V 221, MATH_V 223. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 421": {
+    "subject_code": "CPEN",
+    "course_code": "421",
+    "credit": "4",
+    "course_name": "Software Project Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced project planning, cost estimation and scheduling. Project management tools. Factors influencing productivity and success. Productivity metrics. Analysis of options and risk. Tools. Case studies. [3-0-2]. Prerequisite: One of CPEN_V 321, CPSC_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 422": {
+    "subject_code": "CPEN",
+    "course_code": "422",
+    "credit": "4",
+    "course_name": "Software Testing and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Different levels of testing including unit, integration, system, performance and regression levels. Requirements flowdown. Problem tracking. Coverage criteria. Static methods. Tools support. Specialized techniques. Assessment of correctness, reliability, safety. [3-2-0]. Prerequisite: One of CPEN_V 221, CPEN_V 321, CPSC_V 210, CPSC_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 423": {
+    "subject_code": "CPEN",
+    "course_code": "423",
+    "credit": "4",
+    "course_name": "Software Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "Software architecture as a bridge from requirements to implementation. Architectural description and patterns. Iterative development. Use of commercial off-the-shelf products. [3-2-0]. Prerequisite: One of CPEN_V 221, CPEN_V 321, CPSC_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 431": {
+    "subject_code": "CPEN",
+    "course_code": "431",
+    "credit": "4",
+    "course_name": "Design of Distributed Software Applications",
+    "faculty": "Faculty of Applied Science",
+    "description": "Communications, processes, naming, synchronization, consistency and replication, fault tolerance, middleware, and security technologies for distributed applications. [3-2-0]. Prerequisite: One of CPEN_V 331, CPSC_V 313 and one of CPEN_V 221, CPSC_V 210. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 432": {
+    "subject_code": "CPEN",
+    "course_code": "432",
+    "credit": "4",
+    "course_name": "Real-time System Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Multi-tasking; interrupt-driven systems; task scheduling; schedulability analysis; inter-process communication and synchronization; resource management; performance measurement; hardware/software integration; hardware/software tradeoffs; system reliability. [3-0-2]. Prerequisite: One of CPEN_V 333, CPEN_V 331, CPSC_V 313. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 441": {
+    "subject_code": "CPEN",
+    "course_code": "441",
+    "credit": "4",
+    "course_name": "Human Computer Interfaces in Engineering Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Practical issues for interfaces for modern software. Task analysis, user modelling, usability engineering, representations, metaphors, prototyping tools. Applications: interactive multimedia systems, engineering, scientific visualization, engineering design. [3-1-2*]. Prerequisite: CPSC_V 221 and one of CPEN_V 221, CPSC_V 210, CPEN_V 333. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 442": {
+    "subject_code": "CPEN",
+    "course_code": "442",
+    "credit": "4",
+    "course_name": "Introduction to Cybersecurity",
+    "faculty": "Faculty of Applied Science",
+    "description": "Security risks, threats, and vulnerabilities from technical perspectives; cryptography; software and web security; access control, assurance, accountability; usable privacy and security; engineering of secure systems; cryptocurrencies. [3-2-0]. Prerequisite: One of CPEN_V 333, CPEN_V 331, CPSC_V 313. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 455": {
+    "subject_code": "CPEN",
+    "course_code": "455",
+    "credit": "4",
+    "course_name": "Deep Learning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of deep learning, including architectures (e.g., MLPs, CNNs, RNNs, Transformers, and GNNs) and learning algorithms under different paradigms (supervised / unsupervised / reinforcement learning). Emphasis on design principles and motivating applications. Recommended pre-requisite: CPEN_V 355 or CPSC_V 340. [3-0-2] Prerequisite: One of MATH_V 152, MATH_V 221 and one of MATH_V 318, MATH_V 302, STAT_V 302, STAT_V 321, ELEC_V 321 and one of CPEN_V 221, CPEN_V 223, CPSC_V 259. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 481": {
+    "subject_code": "CPEN",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Economic Analysis of Engineering Projects",
+    "faculty": "Faculty of Applied Science",
+    "description": "Time-money relationships; economic analysis of alternatives including the effects of interest rates, inflation, depreciation, taxation and uncertainty; cost estimation and budgeting; financial analysis of engineering operations. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 491": {
+    "subject_code": "CPEN",
+    "course_code": "491",
+    "credit": "5-10",
+    "course_name": "Computer Engineering Capstone Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design, analysis, and implementation of solutions in response to a real-world computer engineering problem, provided by industry, research laboratories, or other suitable entities. Includes coverage of topics such as project management. [2-6-0] or [2-6-0; 2-6-0] Prerequisite: All of CPEN_V 331, CPSC_V 320 and one of CPEN_V 311, CPEN_V 322; and one of CPEN_V 291, CPEN_V 391. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 497": {
+    "subject_code": "CPEN",
+    "course_code": "497",
+    "credit": "1-3",
+    "course_name": "Research Experience in Computer Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Directed research experience. Communication of research ideas. Pass/Fail. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 499": {
+    "subject_code": "CPEN",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Undergraduate Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Project in electrical engineering or computer engineering involving design, experimental and/or computer simulation work as selected from topics supplied by faculty members. An individual project thesis is to be prepared according to specifications available from the departmental office. [0-6-0] or [0-12-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 502": {
+    "subject_code": "CPEN",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Architecture for Learning Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 511": {
+    "subject_code": "CPEN",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Advanced Computer Architecture",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 512": {
+    "subject_code": "CPEN",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Parallel and Reconfigurable Computing",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 513": {
+    "subject_code": "CPEN",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "CAD Algorithms for Integrated Circuits",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 514": {
+    "subject_code": "CPEN",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Quantum Information and Computation",
+    "faculty": "Faculty of Applied Science",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 521": {
+    "subject_code": "CPEN",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Topics in Software Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 522": {
+    "subject_code": "CPEN",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Software Verification and Testing",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 523": {
+    "subject_code": "CPEN",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Software Project Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 524": {
+    "subject_code": "CPEN",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Principles of Mobile Application Development and Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 533": {
+    "subject_code": "CPEN",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Error Resilient Computing Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 534": {
+    "subject_code": "CPEN",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Trade-offs in Designing Computer Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 541": {
+    "subject_code": "CPEN",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Human Interface Technologies",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 542": {
+    "subject_code": "CPEN",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Cybersecurity",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPEN 642": {
+    "subject_code": "CPEN",
+    "course_code": "642",
+    "credit": "3-9",
+    "course_name": "Cybersecurity Research Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: by permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "EECE 500": {
+    "subject_code": "EECE",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Introduction to the Academic Enterprise",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: Enrolment in the Ph.D. degree program in ECE. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 501": {
+    "subject_code": "EECE",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Mathematical Methods for Electrical and Computer Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 502": {
+    "subject_code": "EECE",
+    "course_code": "502",
+    "credit": "3-6",
+    "course_name": "Cybersecurity Research Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: by permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 510": {
+    "subject_code": "EECE",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Strategy and Leadership for Engineers",
+    "faculty": "Faculty of Applied Science",
+    "description": "Strategic frameworks. Organizational change. Team dynamics, effectiveness, and decision-making. Personal leadership style and development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 524": {
+    "subject_code": "EECE",
+    "course_code": "524",
+    "credit": "4",
+    "course_name": "Software Development for Mechatronic Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Equivalency: MECH_V 524. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 525": {
+    "subject_code": "EECE",
+    "course_code": "525",
+    "credit": "4",
+    "course_name": "Instrumentation for Mechatronic Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Equivalency: MECH_V 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 541": {
+    "subject_code": "EECE",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Multimedia Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theoretical and practical issues in designing multimedia systems. Interactive multimedia, digital video broadcasting and streaming, media asset management, video indexing and retrieval, content protection, and design of multimedia middleware. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 549": {
+    "subject_code": "EECE",
+    "course_code": "549",
+    "credit": "3",
+    "course_name": "Dynamic Modelling of Electric Machines and Controls",
+    "faculty": "Faculty of Applied Science",
+    "description": "Numerical aspects of time-domain simulation are reviewed. Dynamic modelling and analysis of power systems components including transformers, induction and synchronous machines, inverters, electric drives and associated controls. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 550": {
+    "subject_code": "EECE",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Topics in Power Electronic Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 553": {
+    "subject_code": "EECE",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Advanced Power Systems Analysis",
+    "faculty": "Faculty of Applied Science",
+    "description": "Computer-oriented analysis of electric power systems with regard to multiphase line constants, steady-state analysis of single and parallel circuits, lightning and switching surges; large-scale solution of power-flow problems; optimal real and reactive power flow. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 554": {
+    "subject_code": "EECE",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Advanced Power System Control and Dynamics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Synchronous machine modelling; excitation and speed governor systems; enhancing power system damping through excitation or governor control; linear optimal stabilization of power systems; load shedding, generator dropping and other emergency measures; asynchronous operation and resynchronization; nonlinear stability; power-frequency control. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 555": {
+    "subject_code": "EECE",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Renewable and Efficient Electric Power Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Credit will be granted for only one of EECE_V 555 or ELEC_V 352. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 560": {
+    "subject_code": "EECE",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Network Analysis and Simulation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Solution of lumped and distributed networks. Time-domain solutions, discretization and integration rules. Frequency-domain solutions, FFT and windowing techniques. Systems of linear equations, reduction and sparsity techniques. Nonlinear elements. Computer-aided simulation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 561": {
+    "subject_code": "EECE",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Alternative Energy Sources",
+    "faculty": "Faculty of Applied Science",
+    "description": "Photovoltaic, wind, small hydro and fuel cell systems for stand alone and grid connected use. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 562": {
+    "subject_code": "EECE",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Statistical Signal Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 563": {
+    "subject_code": "EECE",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Wireless Communication Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 564": {
+    "subject_code": "EECE",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Signal Detection, Estimation, and Learning",
+    "faculty": "Faculty of Applied Science",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 565": {
+    "subject_code": "EECE",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Communication Networks",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis and design of communications networks; network architectures; Internet protocols; routing; scheduling algorithms; medium access control; congestion control; admission control; optimization techniques; network management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 566": {
+    "subject_code": "EECE",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Information and Coding Theory",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 567": {
+    "subject_code": "EECE",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Power System Dynamics and Stability",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 568": {
+    "subject_code": "EECE",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "From Exploring to Building Machine Learning Models",
+    "faculty": "Faculty of Applied Science",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 569": {
+    "subject_code": "EECE",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Mobile Communications Networks",
+    "faculty": "Faculty of Applied Science",
+    "description": "Network architectures: cellular networks, ad hoc networks; access protocols; radio and network resource management; quality of service; mobility and location management; routing; mobile-IP; current wireless technologies for personal, local and satellite networks. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 570": {
+    "subject_code": "EECE",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Fundamentals of Visual Computing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Computational and mathematical methods for data driven processing and model-based analysis of digital images and other visual data: perception, capture; representation, modelling; enhancement, restoration; registration, fusion; feature extraction, segmentation; recognition; practical applications. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 571": {
+    "subject_code": "EECE",
+    "course_code": "571",
+    "credit": "1-12",
+    "course_name": "Electrical Engineering Seminar and Special Problems",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 572": {
+    "subject_code": "EECE",
+    "course_code": "572",
+    "credit": "1-12",
+    "course_name": "Special Topics in Electronics",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 573": {
+    "subject_code": "EECE",
+    "course_code": "573",
+    "credit": "1-12",
+    "course_name": "Special Topics in Electromagnetics",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 574": {
+    "subject_code": "EECE",
+    "course_code": "574",
+    "credit": "1-12",
+    "course_name": "Special Topics in Signal Processing and Communications",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 575": {
+    "subject_code": "EECE",
+    "course_code": "575",
+    "credit": "1-12",
+    "course_name": "Special Topics in Robotics and Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 576": {
+    "subject_code": "EECE",
+    "course_code": "576",
+    "credit": "1-12",
+    "course_name": "Special Topics in Decision Making and Machine Learning",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 577": {
+    "subject_code": "EECE",
+    "course_code": "577",
+    "credit": "1-12",
+    "course_name": "Special Topics in Energy Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 578": {
+    "subject_code": "EECE",
+    "course_code": "578",
+    "credit": "1-12",
+    "course_name": "Special Topics in Computing and Software Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 581": {
+    "subject_code": "EECE",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Advanced Microsystems Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Project-based modelling techniques applied to microsystems; multi-physics at microscale; physical limitations in MEMS; interface with electronics; behavioural modelling languages for mixed analog-digital system design. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 585": {
+    "subject_code": "EECE",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Electromagnetic Compatibility",
+    "faculty": "Faculty of Applied Science",
+    "description": "History of electromagnetic compatibility; standards and regulations; component models; radiated emissions; conducted emissions; transmission lines and cross-talk; shielding; electrostatic discharge; EMC system design. [2-3*-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 589": {
+    "subject_code": "EECE",
+    "course_code": "589",
+    "credit": "3",
+    "course_name": "Introduction to Robotics",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 595": {
+    "subject_code": "EECE",
+    "course_code": "595",
+    "credit": "1-6",
+    "course_name": "Electrical and Computer Engineering Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 597": {
+    "subject_code": "EECE",
+    "course_code": "597",
+    "credit": "6",
+    "course_name": "Directed Research",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 599": {
+    "subject_code": "EECE",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "For M.A.Sc. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EECE 699": {
+    "subject_code": "EECE",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "For Ph.D. This course is not eligible for Credit/D/Fail grading."
+  }
+}

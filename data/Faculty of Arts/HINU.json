@@ -1,0 +1,106 @@
+{
+  "HINU 100": {
+    "subject_code": "HINU",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introductory Hindi-Urdu I",
+    "faculty": "Faculty of Arts",
+    "description": "Spoken Hindi and Urdu, and written Hindi. Credit will be granted for only one of HINU 100 or 102."
+  },
+  "HINU 101": {
+    "subject_code": "HINU",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introductory Hindi-Urdu II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of HINU 100. Credit will be granted for only one of HINU 101 or 102. Recommended pre-requisite: HINU 100."
+  },
+  "HINU 102": {
+    "subject_code": "HINU",
+    "course_code": "102",
+    "credit": "6",
+    "course_name": "Introductory Hindi-Urdu",
+    "faculty": "Faculty of Arts",
+    "description": "Spoken and written Hindi and Urdu. As of 2011W, credit will be granted for only one of HINU 100/101 or HINU 102."
+  },
+  "HINU 200": {
+    "subject_code": "HINU",
+    "course_code": "200",
+    "credit": "6",
+    "course_name": "Intermediate Hindi-Urdu",
+    "faculty": "Faculty of Arts",
+    "description": "Conversation and grammar; an introduction to Hindi literature; an introduction to the Urdu script. As of 2011W, credit will be granted for only one of HINU 201/202 or HINU 200. Recommended pre-requisites: one of HINU 101, HINU 102."
+  },
+  "HINU 201": {
+    "subject_code": "HINU",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Hindi-Urdu I",
+    "faculty": "Faculty of Arts",
+    "description": "Conversation and grammar; an introduction to Hindi literature; an introduction to the Urdu script. Credit will be granted for only one of HINU 200 or 201. Recommended pre-requisite: HINU 101."
+  },
+  "HINU 202": {
+    "subject_code": "HINU",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Intermediate Hindi-Urdu II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of HINU 201. Credit will be granted for only one of HINU 200 or 202. Recommended pre-requisite: HINU 201."
+  },
+  "HINU 205": {
+    "subject_code": "HINU",
+    "course_code": "205",
+    "credit": "1",
+    "course_name": "Introduction to the Devanagari Script",
+    "faculty": "Faculty of Arts",
+    "description": "The writing system of Hindi for those with some background in the spoken language. May be taken at the same time as HINU 200."
+  },
+  "HINU 300": {
+    "subject_code": "HINU",
+    "course_code": "300",
+    "credit": "6",
+    "course_name": "Advanced Hindi-Urdu",
+    "faculty": "Faculty of Arts",
+    "description": "Further study of the grammar of Hindi and Urdu; advanced conversation; literary readings in Hindi and Urdu; Hindi film. As of 2011W, credit will be granted for only one of HINU 301/302 or HINU 300. Recommended pre-requisites: one of HINU 200, HINU 202."
+  },
+  "HINU 301": {
+    "subject_code": "HINU",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Advanced Hindi-Urdu I",
+    "faculty": "Faculty of Arts",
+    "description": "Further study of the grammar of Hindi and Urdu; advanced conversation; literary readings in Hindi and Urdu; Hindi film. Credit will be granted for only one of HINU 301 or HINU 300. Recommended pre-requisite: HINU 202."
+  },
+  "HINU 302": {
+    "subject_code": "HINU",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Advanced Hindi-Urdu II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of HINU 301. Credit will be granted for only one of HINU 302 or HINU 300. Recommended pre-requisite: HINU 301."
+  },
+  "HINU 305": {
+    "subject_code": "HINU",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Introduction to the Perso-Arabic (Urdu) Script",
+    "faculty": "Faculty of Arts",
+    "description": "The writing system of Urdu for those with some background in the spoken Urdu/Hindi language. This course is recommended for students who have taken HINU_V 102, or placement approval. For more information on placement approval, please visit Placement Tests at: https://asia.ubc.ca/undergraduate/advising/placement-tests/"
+  },
+  "HINU 400": {
+    "subject_code": "HINU",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Introduction to Hindi and Urdu Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Readings of various literary genres in Hindi, Urdu and their medieval equivalents. Modern fiction from India and Pakistan; the Urdu ghazal; medieval Hindi bhakti poetry; readings from the Adi Granth of the Sikhs Hindi film. Discussion in Hindi-Urdu of all materials. Recommended pre-requisite: HINU 300."
+  },
+  "HINU 450": {
+    "subject_code": "HINU",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Hindi Film",
+    "faculty": "Faculty of Arts",
+    "description": "Regional, religious, and historical dialects of Hindi and Urdu as represented in films. Recommended pre-requisite: HINU 200 or fluency in Hindi."
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "URSY 510": {
+    "subject_code": "URSY",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Urban Systems and Society",
+    "faculty": "Faculty of Applied Science",
+    "description": "Urban systems in society and economy; spatial issues; equity and social justice. Governance, policy, regulation. Globalization and international development; implications for urban systems. Urban and regional economics; infrastructure financing. Urban systems and technology; tradeoffs; socio-economic-technical systems; emerging and green technologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "URSY 520": {
+    "subject_code": "URSY",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Urban Systems Analysis and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Planning for engineers. Demand-side planning: population and demand modelling; demand management. Supply-side planning: long term planning, strategic planning. Data, metrics, indicators and assessment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "URSY 530": {
+    "subject_code": "URSY",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Urban Systems Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Technical infrastructure systems that support communities: water; waste and storm water; solid waste; transportation; energy and data. Systems services and demands; technical alternatives; distribution systems; modelling, design, construction, operations and maintenance issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "URSY 540": {
+    "subject_code": "URSY",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Urban Systems Project Delivery and Economics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Stakeholder practices: stakeholder engagement, public consultation, partnerships, stakeholder management, buy-in. Project delivery: project delivery options, public-private partnerships (P3), integrated project delivery (IPD), partnering. Modelling, analytical methods, and decision support: economic and risk modelling. This course is not eligible for Credit/D/Fail grading."
+  },
+  "URSY 550": {
+    "subject_code": "URSY",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Infrastructure Asset Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "General frameworks for infrastructure management, system-specific asset management (road conditions, pipe inspection), maintenance and renewal. Data, metrics, indicators and assessment: data sources, performance indicators, assessment, assessing condition and sustainability, multi-objective, multi-criteria decision making, performance prediction, lifecycle cost analysis (LCA), sustainability. This course is not eligible for Credit/D/Fail grading."
+  }
+}

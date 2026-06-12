@@ -1,0 +1,90 @@
+{
+  "GLBH 501": {
+    "subject_code": "GLBH",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Foundations of Global Health I",
+    "faculty": "Faculty of Medicine",
+    "description": "Key institutions and initiatives related to Global Health; global burden of disease, global social and environmental determinants of health, global health challenges, sustainable development goals, and major actors. This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 502": {
+    "subject_code": "GLBH",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Foundations of Global Health II",
+    "faculty": "Faculty of Medicine",
+    "description": "Central competencies and system-level concepts required for effective global health practice. This course is restricted to students registered in the MGH program. Prerequisite: GLBH_V 501 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 503": {
+    "subject_code": "GLBH",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Epidemiology and Biostatistics in Global Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamental principles and methods of epidemiology and biostatistics and their application to global health challenges. This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 504": {
+    "subject_code": "GLBH",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Critical Evidence Appraisal in Global Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Trends and variations in health; evidence appraisal in global health; global heath data sets, the role observational studies and clinical trials. This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. Prerequisite: All of GLBH_V 501, GLBH_V 503 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 505": {
+    "subject_code": "GLBH",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Global Health Ethics",
+    "faculty": "Faculty of Medicine",
+    "description": "Central ethical theories and issues in global health effects of global socioeconomic inequities, recruitment from low to high-resource settings, cultural relativity versus universal human rights This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 506": {
+    "subject_code": "GLBH",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Colonialism and Global Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Impacts of distinct types of colonialism on global health. Emphasis on case studies of colonialism and health of Indigenous and non-Indigenous populations both locally and internationally. Explores contextual measures that can improve health and respect for rights of Indigenous Peoples. This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. Prerequisite: All of GLBH_V 501, GLBH_V 505 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 507": {
+    "subject_code": "GLBH",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Global Environmental Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Major environmental factors that impact health on a global scale; climate change, air pollution, water quality; measures to address these challenges in local and global contexts This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 508": {
+    "subject_code": "GLBH",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Program Planning and Evaluation in Global Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Theory, approaches and methods for conducting global health programs among populations in various low resource contexts. Key concepts, ethical approaches and practices, intersectional considerations, case studies and practical skills development. This course is restricted to students registered in the MGH program. Other Students must contact the department for permission to register. Prerequisites: All of GLBH_V 501, GLBH_V 503, SPPH_V 581H, GLBH_V 505 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 509": {
+    "subject_code": "GLBH",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Global Health Economics and Financing",
+    "faculty": "Faculty of Medicine",
+    "description": "Mobilization, accumulation, and allocation of economic resources to meet the health needs of populations in global health contexts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 510": {
+    "subject_code": "GLBH",
+    "course_code": "510",
+    "credit": "6",
+    "course_name": "Global Health Practicum",
+    "faculty": "Faculty of Medicine",
+    "description": "Applied worked-integrated global health experiential learning in a professional setting. Pass/Fail. This course is restricted to students registered in the MGH program. Prerequisites: All of GLBH_V 501, GLBH_V 502, GLBH_V 503, GLBH_V 505 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GLBH 511": {
+    "subject_code": "GLBH",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Qualitative Research for Global Health",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

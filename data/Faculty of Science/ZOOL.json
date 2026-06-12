@@ -1,0 +1,98 @@
+{
+  "ZOOL 500": {
+    "subject_code": "ZOOL",
+    "course_code": "500",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Zoology",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 502": {
+    "subject_code": "ZOOL",
+    "course_code": "502",
+    "credit": "6",
+    "course_name": "Ecology Seminar",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 503": {
+    "subject_code": "ZOOL",
+    "course_code": "503",
+    "credit": "6",
+    "course_name": "Comparative Animal Physiology Seminar",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 509": {
+    "subject_code": "ZOOL",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Advanced Conservation Science",
+    "faculty": "Faculty of Science",
+    "description": "Equivalency: RES_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 521": {
+    "subject_code": "ZOOL",
+    "course_code": "521",
+    "credit": "6",
+    "course_name": "Fisheries Biology and Management",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 522": {
+    "subject_code": "ZOOL",
+    "course_code": "522",
+    "credit": "4",
+    "course_name": "Limnology Seminar",
+    "faculty": "Faculty of Science",
+    "description": "Offered in alternate years. Prerequisite: ZOOL_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 524": {
+    "subject_code": "ZOOL",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Topics in Conservation Genetics",
+    "faculty": "Faculty of Science",
+    "description": "Equivalency: CONS_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 527": {
+    "subject_code": "ZOOL",
+    "course_code": "527",
+    "credit": "6",
+    "course_name": "Theoretical Population Dynamics",
+    "faculty": "Faculty of Science",
+    "description": "Corequisite: ZOOL_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 549": {
+    "subject_code": "ZOOL",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 553": {
+    "subject_code": "ZOOL",
+    "course_code": "553",
+    "credit": "6",
+    "course_name": "Workshop in Comparative and Environmental Physiology",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 554": {
+    "subject_code": "ZOOL",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Topics in Comparative and Environmental Physiology",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ZOOL 649": {
+    "subject_code": "ZOOL",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

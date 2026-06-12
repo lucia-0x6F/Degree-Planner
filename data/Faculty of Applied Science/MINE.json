@@ -1,0 +1,682 @@
+{
+  "MINE 200": {
+    "subject_code": "MINE",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Mineral Resources Engineering I",
+    "faculty": "Faculty of Applied Science",
+    "description": "Introduction to the mining life cycle and the design, planning, operation, and closure of mining systems, with a focus on mining methods, mineral processing, community engagement, and social license to operate. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 201": {
+    "subject_code": "MINE",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Mineral Resources Engineering II",
+    "faculty": "Faculty of Applied Science",
+    "description": "The design, planning, and operation, and closure of mining operations, with a focus on mineral processing technologies, plant design, waste and tailings management, and the future of mining. [3-2-0]. Prerequisite: MINE_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 202": {
+    "subject_code": "MINE",
+    "course_code": "202",
+    "credit": "4",
+    "course_name": "Mineralogy for Resources Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of rock and minerals formation. Exploring main techniques used to understand implications of mineralogy in mining and mineral processing. [3-2-0]. Prerequisite: CHEM_V 154. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 224": {
+    "subject_code": "MINE",
+    "course_code": "224",
+    "credit": "4",
+    "course_name": "Mineralogy for Mining Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of the rock and minerals formation. Exploring main techniques used to understand implications of mineralogy in mining and mineral processing. [3-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 291": {
+    "subject_code": "MINE",
+    "course_code": "291",
+    "credit": "3",
+    "course_name": "Introduction to Mining",
+    "faculty": "Faculty of Applied Science",
+    "description": "Leading practices and technologies employed in the design, planning, and operation of mining systems. Life cycle of surface and underground mining systems. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 292": {
+    "subject_code": "MINE",
+    "course_code": "292",
+    "credit": "3",
+    "course_name": "Introduction to Mineral Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Overview; extracting a mineral or final product from an ore. [3-2-0]. Prerequisite: MINE_V 224. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 293": {
+    "subject_code": "MINE",
+    "course_code": "293",
+    "credit": "1",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Oral presentations of topics on mine safety, and mining engineering by industry practitioners, faculty and/or stake- and rights-holders. [1-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 302": {
+    "subject_code": "MINE",
+    "course_code": "302",
+    "credit": "4",
+    "course_name": "Underground Mining and Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Selection, design, and development of underground mining methods based upon physical, geological, economic, and environmental constraints. Underground excavation methods and equipment selection. [3-0-2]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 303": {
+    "subject_code": "MINE",
+    "course_code": "303",
+    "credit": "4",
+    "course_name": "Rock Engineering Fundamentals",
+    "faculty": "Faculty of Applied Science",
+    "description": "The study of the mechanical and structural properties of rock materials at the laboratory and field scale, with reference to common mining, geological and civil engineering problems. [3-2-0]. Prerequisite: One of MECH_V 260, CIVL_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 304": {
+    "subject_code": "MINE",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Rock Fragmentation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and practice of rock fragmentation by drilling and blasting; introduction to explosives and initiation systems; design of surface and underground blasts; machine excavation systems for tunneling and stoping; environmental impacts, safety, and risk assessment. [3-0-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 310": {
+    "subject_code": "MINE",
+    "course_code": "310",
+    "credit": "4",
+    "course_name": "Surface Mining and Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Surface mining methods, calculation of pit limits, cutoff grades, break-even criteria, stripping ratios, ultimate pit depth and dimensions, and pit sequencing. Geotechnical inputs to surface mine design. Loading and hauling equipment, production rates, capacity and systems. [3-2-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 331": {
+    "subject_code": "MINE",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Physical Mineral Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mineral processing unit operations and sampling, crushing, grinding, screening, classification, gravity separation, magnetic separation, electrostatic separation, concentrate dewatering practices. [3-3-0] Prerequisite: Third Year Standing."
+  },
+  "MINE 333": {
+    "subject_code": "MINE",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Flotation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and technology of flotation and ancillary processes. [2-3-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 350": {
+    "subject_code": "MINE",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Modelling and Simulation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Methods for determining the behaviour of large scale industrial systems and their application to the design and analysis of such systems. [2-2-0]. Prerequisite: STAT_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 380": {
+    "subject_code": "MINE",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Mine Waste Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Basic geotechnical, hydrological, and water management aspects of mine waste management. [3-0-0]. Prerequisite: CIVL_V 210. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 393": {
+    "subject_code": "MINE",
+    "course_code": "393",
+    "credit": "1",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Oral presentation of topics by instructor and guest lecturers. [1-0-0]. Prerequisite: Third-year standing in Mining Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 395": {
+    "subject_code": "MINE",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Mineral Deposit Modelling",
+    "faculty": "Faculty of Applied Science",
+    "description": "Types of mineral deposits. Exploration and sampling methods. Methods for data analysis and computer modelling of mineral deposits and their use in production planning and design. [2-1-1]. Prerequisite: MINE_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 396": {
+    "subject_code": "MINE",
+    "course_code": "396",
+    "credit": "3",
+    "course_name": "Engineering Economics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Discrete and continuous cash flow models, discounted cash flow analysis, effects of depreciation and taxes, economic analysis of projects, sensitivity and risk analysis, financing and cost of capital. [3-0-0]. Prerequisite: Second-year standing in Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 402": {
+    "subject_code": "MINE",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Mine Ventilation and Occupational Health and Safety",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design and analysis for ventilation systems for mining. Topics such as ventilation design, ventilation surveys, thermodynamic aspects, psychrometry of air and air conditioning. [3-2-0]. Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 403": {
+    "subject_code": "MINE",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Rock Engineering Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "The design of rock slopes and underground openings with respect to stress, structure and the rock mass. Stabilization and monitoring of rock movement. [3-0-0]. Prerequisite: MINE_V 303. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 404": {
+    "subject_code": "MINE",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Strategic Issues in Mining",
+    "faculty": "Faculty of Applied Science",
+    "description": "Strategic issues in an organization; types of organizations; personnel evaluations and job rating systems; impact of manpower planning on decision-making; union negotiations; public relations; dealing with the media; corporate responsibilities to society and employees. [3-0-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 405": {
+    "subject_code": "MINE",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Introduction to Risk Management for Mining and Large Industrial Projects",
+    "faculty": "Faculty of Applied Science",
+    "description": "Risk management and its application to mining and large industrial projects, including risk analysis, treatment, and governance. [3-0-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 406": {
+    "subject_code": "MINE",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Mine Project Valuation and Risk Assessment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mineral economics and finance. Analytical tools and techniques used in the valuation of mining companies and the financial analysis and risk assessment methods. [2-2-0] Prerequisite: MINE 396."
+  },
+  "MINE 420": {
+    "subject_code": "MINE",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Applied Geostatistics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Geostatistical analysis and simulation of spatiotemporal phenomena in natural and engineered systems with applications to mining problems. [3-0-0]. Prerequisite: STAT_V 251. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 432": {
+    "subject_code": "MINE",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Mineral Process Control",
+    "faculty": "Faculty of Applied Science",
+    "description": "Automatic control theory, PID control, Laplace and z-transforms, loop tuning, frequency response, stability analysis, control strategies in flotation, comminution, dewatering, reagent and bin/sump levels, automated load-haul-dump and drilling equipment, instrumentation and soft sensors. [2-4-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 434": {
+    "subject_code": "MINE",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Processing Precious Metal Ores",
+    "faculty": "Faculty of Applied Science",
+    "description": "Process alternatives and mineralogical considerations; physical and chemical recovery technologies; environmental protection; flowsheet studies. [2-2-0]. Prerequisite: MINE_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 435": {
+    "subject_code": "MINE",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Plant and Process Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Design of unit operations in a mineral processing plant including crushing, grinding, classification, gravity separation, magnetic separation, flotation, thickening and filtration. Equipment selection and sizing, flowsheet design, circuit analysis and processing options. [2-3-0]. Prerequisite: MINE_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 436": {
+    "subject_code": "MINE",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Industrial Mixing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamentals of mixing technology, and industrial mixing systems and equipment. Selection, design, monitor, and scale-up mixing systems for mining applications. [2-2-2*]. Prerequisite: MATH_V 255 and one of MECH_V 280, CIVL_V 215. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 438": {
+    "subject_code": "MINE",
+    "course_code": "438",
+    "credit": "3",
+    "course_name": "Advanced Process Mineralogy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Textural parameters, such as mineral liberation size and mineral associations in connection with the mineral processing techniques for mineral recovery. [3-0-2]. Prerequisite: MINE_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 444": {
+    "subject_code": "MINE",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Urban Mining: Recovering Value From E-waste",
+    "faculty": "Faculty of Applied Science",
+    "description": "Technological and social issues related to the recovery of value from e-waste seen through the eyes of engineers, social scientists and economists. Recovery of valuable minerals in the context of circular economy to provide sustainable solutions for our planet. [2-2-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 447": {
+    "subject_code": "MINE",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Dewatering of Fine Tailings",
+    "faculty": "Faculty of Applied Science",
+    "description": "Interparticle forces; DLVO theory of colloid stability; dispersion, coagulation, and flocculation phenomena; settling; thickening and consolidation processes; polymers in mineral processing; measurement techniques in tailings treatment; thickeners and principles of operation; industrial practice. [2-2-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 455": {
+    "subject_code": "MINE",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Mine Water Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mine water management covering integrated water resource management, water balances, sources, water use optimization, water quality and treatment and long-term stewardship. [2-2-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 462": {
+    "subject_code": "MINE",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Coal Preparation Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermal and metallurgical coals: objectives of their cleaning; coal washability and flotability fundamentals; coal preparation unit operations; performance characteristics of coal washing equipment; products dewatering; plant flowsheets. [2-3-0]. Prerequisite: MINE_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 465": {
+    "subject_code": "MINE",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Materials Handling",
+    "faculty": "Faculty of Applied Science",
+    "description": "Knowledge and understanding of equipment used in mining operations, including diesel, electro-mechanical, hydraulic and pneumatic equipment as well as conveyors, load-haul-dump trucks and pumps. [2-2-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 470": {
+    "subject_code": "MINE",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Indigenous Peoples and Mining in Canada",
+    "faculty": "Faculty of Applied Science",
+    "description": "Historical context of Indigenous peoples of Canada interactions with the development of mineral resources. Current best practices and systems supporting effective engagement and involvement of Indigenous peoples in the development of mines and mineral resources. [3-0-0]. Prerequisite: Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 482": {
+    "subject_code": "MINE",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Maintenance Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analytical foundation for maintenance of industrial plant equipment and mobile equipment in various production environments; maintenance planning and management, life cycle analysis, reliability theory, total quality maintenance, condition monitoring. [3-0-0]. Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 485": {
+    "subject_code": "MINE",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Cave Mining Systems: Design and Planning",
+    "faculty": "Faculty of Applied Science",
+    "description": "Designs, planning, and leading practices are applied to underground mining systems reliant on induced and controlled rock mass caving. [3-0-0]. Prerequisite: MINE_V 303. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 486": {
+    "subject_code": "MINE",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Mining and The Environment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Environmental topics of importance to engineers practicing within the mining, metallurgical and related industries including technical practices, regulatory and public issues. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 488": {
+    "subject_code": "MINE",
+    "course_code": "488",
+    "credit": "3",
+    "course_name": "Heavy Oil Sand Mining and Processing",
+    "faculty": "Faculty of Applied Science",
+    "description": "Life cycle of the production of Oil Sands resources, including mining, bitumen extraction, and reclamation. [2-3-0]. Prerequisite: MINE_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 491": {
+    "subject_code": "MINE",
+    "course_code": "491",
+    "credit": "6",
+    "course_name": "Mine and Plant Engineering Design Feasibility Study",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mining Engineering design project from scope definition to final design and project feasibility. Based on a problem from industry and/or research. [2-2-0; 2-2-0]. Prerequisite: All of MINE_V 302, MINE_V 303, MINE_V 310, MINE_V 331, MINE_V 333, MINE_V 350, MINE_V 396. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 493": {
+    "subject_code": "MINE",
+    "course_code": "493",
+    "credit": "1",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Oral presentation of a technical nature. Use of closed circuit television for personal evaluation. [0-0-1]. Prerequisite: Fourth-year standing in Mining Engineering. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 497": {
+    "subject_code": "MINE",
+    "course_code": "497",
+    "credit": "1-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Requires approval of the department head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 501": {
+    "subject_code": "MINE",
+    "course_code": "501",
+    "credit": "1-4",
+    "course_name": "Topics for Engineers in the Mining Industry",
+    "faculty": "Faculty of Applied Science",
+    "description": "Leading practices and technologies employed in the Canadian Mining Industry. Topics include: mining, mineral processing, mine finance and mining and the environment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 504": {
+    "subject_code": "MINE",
+    "course_code": "504",
+    "credit": "2",
+    "course_name": "Rock Fragmentation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Theory and practice of drilling and blasting; explosive types and strengths. Blast pattern design for underground and surface operations. Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 505": {
+    "subject_code": "MINE",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Advanced Topics in Rock Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Rock mass properties and numerical modelling applied to rock engineering design with particular emphasis on applications in rock slopes and tunneling. Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 506": {
+    "subject_code": "MINE",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Mining Methods",
+    "faculty": "Faculty of Applied Science",
+    "description": "A more advanced study of some aspects of mining methods. Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 507": {
+    "subject_code": "MINE",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Block Caving Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mass mining (caving) methods, their design and operation, the value proposition and the key value drivers. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 508": {
+    "subject_code": "MINE",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Integrated Mining and Processing Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Methods and systems for integrated mining and processing, conceptual model development, simulation, economic and technical evaluation. Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 509": {
+    "subject_code": "MINE",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Mine Ventilation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mine air conditioning, ventilation network analysis, radioactivity in mining, case studies in mine ventilation and control of dust, fumes and diesel exhausts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 515": {
+    "subject_code": "MINE",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Future of Mining",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 520": {
+    "subject_code": "MINE",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Advanced Coal Preparation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermal and metallurgical coals. Desulphurization Theory of coal beneficiation. Dense media separation. Coal surface properties and their effect on fine coal processing by flotation and oil agglomeration; coal/water/slurries. Plant performance testing and instrumentation. Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 521": {
+    "subject_code": "MINE",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Advanced Flotation Technology",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 522": {
+    "subject_code": "MINE",
+    "course_code": "522",
+    "credit": "2-4",
+    "course_name": "Processing of Mineral Fines",
+    "faculty": "Faculty of Applied Science",
+    "description": "Particulate systems. Role of particle size and interfacial phenomena in properties of disperse systems. Stability of colloids and suspensions DLVO (Dejaguin-Landau-Vervey-Overbeek). Credit will be granted for only one of MINE_V 522 or MINE_V 572. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 524": {
+    "subject_code": "MINE",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Processing of Precious Metal Ores",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advances in science and technology for recovering gold, silver, and platinum group elements. Credit will be granted for only one of MINE_V 524 or MINE_V 577. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 526": {
+    "subject_code": "MINE",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Mathematical Modelling of Mineral Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Emphasis on crushing, grinding, screening, classification and flotation. Credit will be granted for only one of MINE_V 526 or MINE_V 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 527": {
+    "subject_code": "MINE",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Simulation and Optimization of Mineral Processes",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mineral process simulators including off-line optimization strategies; optimal flow sheet design. Credit will be granted for only one of MINE_V 527 or MINE_V 576. Prerequisite: One of MINE_V 526, MINE_V 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 529": {
+    "subject_code": "MINE",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Rheology of Mineral Suspensions",
+    "faculty": "Faculty of Applied Science",
+    "description": "Rheological measurements, flow curve modelling, micro-rheology, control of rheological properties. Application to mineral processing unit operations. Credit will be granted for only one of MINE_V 529 or MINE_V 579. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 533": {
+    "subject_code": "MINE",
+    "course_code": "533",
+    "credit": "2",
+    "course_name": "Treatment of Mineral Industry Effluents",
+    "faculty": "Faculty of Applied Science",
+    "description": "Characteristics of mineral dispersions in gases and in water; dust suppression in mining and in mineral transport facilities; solid-liquid separations; removal of noxious chemicals; waste disposal systems. Credit will be granted for only one of MINE_V 533 or MINE_V 573. Prerequisite: Permission of instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 540": {
+    "subject_code": "MINE",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Acid Rock Drainage",
+    "faculty": "Faculty of Applied Science",
+    "description": "Lectures and seminars on topics of importance in acid rock drainage including fundamentals of ARD generation, prediction, prevention, control, treatment and monitoring for waste management and regulatory control in the mining industry. Credit will be granted for only one of MINE_V 540 or MINE_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 541": {
+    "subject_code": "MINE",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Environmental Risk Assessments in Relation to Mining",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced topics related to mining environment selected in consultation with the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 544": {
+    "subject_code": "MINE",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Mining Environment Case Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Regulatory requirements for mine-mill environmental protection in design, operation and closure. Studies of environmental impact statements and closure plans. Credit will be granted for only one of MINE_V 544 or MINE_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 545": {
+    "subject_code": "MINE",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "New Perspectives on Mine Closure",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 547": {
+    "subject_code": "MINE",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Industrial Expert Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "The use of artificial intelligence to solve complex problems in industry. Topics include knowledge acquisition, knowledge representation, knowledge accumulation, and conflict resolution. Credit will be granted for only one of MINE_V 547 or MINE_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 551": {
+    "subject_code": "MINE",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Applied Underground Rock Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Study of design methods; underground engineering of openings, pillars and support. Emphasis on design with input being stress, structure and rock mass, employing analytical, empirical and numerical tools. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 552": {
+    "subject_code": "MINE",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Mining Geostatistics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Basic geostatistical concepts. Applications of geostatistical techniques and stochastic simulation to orebody modelling and grade control. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 553": {
+    "subject_code": "MINE",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Modelling of Industrial Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Use of mathematical programming, network theory, queuing models and simulation to model service and production operations in industry. Use of models in decision-making. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 554": {
+    "subject_code": "MINE",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Mine Economics and Finance",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mine valuation using discounted cash flow analysis and option pricing methods. Sources of mine finance and requirements. Sensitivity and risk assessment. Introduction to metals marketing, hedging and risk management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 555": {
+    "subject_code": "MINE",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Mining and Society",
+    "faculty": "Faculty of Applied Science",
+    "description": "Discussion of social, political and technical topics concerning mining-related activities. Credit will be granted for only one of MINE_V 555 or MINE_V 583. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 559": {
+    "subject_code": "MINE",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Indigenous Peoples and Mining in Canada",
+    "faculty": "Faculty of Applied Science",
+    "description": "Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 581": {
+    "subject_code": "MINE",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Safety of Tailings Storage Facilities",
+    "faculty": "Faculty of Applied Science",
+    "description": "Safety evaluation of tailings storage facilities as a system, including tailings transport and containment structures. Consequence classifications. Credible failure modes. Breach analyses. Risk management and reporting. Emergency planning. Critical controls. Change management. Governance frameworks. Prerequisite: Permission of instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 582": {
+    "subject_code": "MINE",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "Maintenance Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "The analytical foundation for maintenance of industrial plant equipment and mobile equipment in various production environments. Reliability theory, sensing technology and theory, risk analysis, and operations research applied to maintenance management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 584": {
+    "subject_code": "MINE",
+    "course_code": "584",
+    "credit": "3",
+    "course_name": "Energy from the Earth: Renewable Versus Conventional",
+    "faculty": "Faculty of Applied Science",
+    "description": "Coal, oil, gas, uranium, hydro, wind, geothermal, and geosolar. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 585": {
+    "subject_code": "MINE",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Risk Management of Tailings Storage Facilities",
+    "faculty": "Faculty of Applied Science",
+    "description": "Prerequisite: MINE_V 581. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 586": {
+    "subject_code": "MINE",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Advanced Mine Waste Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced geotechnical, hydrological, and water management aspects of mine waste management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 587": {
+    "subject_code": "MINE",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "Advanced Mine Site Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Advanced mine site management topics including site and corporate governance and responsibility for mine waste facilities, specifically tailings; the role and responsibilities of the Engineer of Record; geochemistry of mine waste and mine closure realities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 588": {
+    "subject_code": "MINE",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Risk Assessment for Mine Waste Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Risk assessment and management topics including risk assessment methodologies, risk management, and decision-making under risk. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 589": {
+    "subject_code": "MINE",
+    "course_code": "589",
+    "credit": "3",
+    "course_name": "Mine Waste Management Case Studies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Case study analysis including design, construction, operations and closure of mine waste facilities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 590": {
+    "subject_code": "MINE",
+    "course_code": "590",
+    "credit": "1-6",
+    "course_name": "Special Advanced Topics",
+    "faculty": "Faculty of Applied Science",
+    "description": "A special advanced course may be arranged upon the approval of the department head. Prerequisite: Permission of instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 591": {
+    "subject_code": "MINE",
+    "course_code": "591",
+    "credit": "1",
+    "course_name": "Communication Skills and Workplace Readiness",
+    "faculty": "Faculty of Applied Science",
+    "description": "Preparation for mining and mineral processing engineering internships. The course includes workshops on the following topics: developing a synopsis of qualifications, written communication and interviewing skills for the engineering professional. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 592": {
+    "subject_code": "MINE",
+    "course_code": "592",
+    "credit": "3-9",
+    "course_name": "Mining Industry Internship",
+    "faculty": "Faculty of Applied Science",
+    "description": "Mining or mineral processing engineering internship in which concepts, theory and practice of mining and mineral processing engineering are applied by working with industry on appropriate technical projects. Pass/fail. Prerequisite: MINE_V 591. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 597": {
+    "subject_code": "MINE",
+    "course_code": "597",
+    "credit": "6",
+    "course_name": "Engineering Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "A project involving laboratory, pilot plant or field work is to be completed in close collaboration with an academic advisor. For M.Eng. students only. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 598": {
+    "subject_code": "MINE",
+    "course_code": "598",
+    "credit": "2",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics in mining, mineral processing and the environment for M.A.Sc. and M.Eng. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 599": {
+    "subject_code": "MINE",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "M.A.Sc. Thesis",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 698": {
+    "subject_code": "MINE",
+    "course_code": "698",
+    "credit": "2",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Topics in mining and mineral processing for Ph.D. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MINE 699": {
+    "subject_code": "MINE",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

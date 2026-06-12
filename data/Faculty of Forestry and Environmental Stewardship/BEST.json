@@ -1,0 +1,178 @@
+{
+  "BEST 200": {
+    "subject_code": "BEST",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Foundations in Bioproducts and the Bioeconomy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to the production, use, and attributes of renewable products and energy derived from biobased materials. Sustainability paradigms related to the bioeconomy; potential environmental and socio-political impacts associated with biobased technologies and transitions to sustainable economies. [3-0-0]"
+  },
+  "BEST 201": {
+    "subject_code": "BEST",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Plants, Carbon, and Environment",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to plant biology, with special emphasis on growth and development, highlighting the biological mechanisms of radiation energy capture, and water and nutrient acquisition in the production of plant biomass. [3-0-0] Prerequisite: BIOL_V 112 and BIOL _V 121"
+  },
+  "BEST 202": {
+    "subject_code": "BEST",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Alternative Energy Systems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to safe, clean, and sustainable supplies of energy. Economic, social, environmental, and policy issues raised by current systems of energy use and production are examined. [3-0-0]"
+  },
+  "BEST 203": {
+    "subject_code": "BEST",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Ecology of Managed Ecosystems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Provides a foundation in managed ecosystems and community ecology. Includes material on forest ecology and agricultural ecosystems as managed environments. [3-2-0] Prerequisite: BEST 201 and one of BIOL 112, BIOL 121."
+  },
+  "BEST 300": {
+    "subject_code": "BEST",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Biobased Polymers and Bioproducts",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Study of occurrence, synthesis, derivatization, physical properties, processing, and application of major bio-based polymers from biomass. Manufacturing processes and uses of biobased products are examined. [3-0-0] Prerequisite: One of CHEM 203, CHEM 233."
+  },
+  "BEST 301": {
+    "subject_code": "BEST",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Bioenergy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Interdisciplinary approach to bioenergy. The technology of the systems involved, the social and environmental implications of biomass use for energy systems. [3-0-0] Prerequisite: BEST 202."
+  },
+  "BEST 302": {
+    "subject_code": "BEST",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Laboratory in Bioeconomy Technology (I)",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Laboratory modules for bioeconomy technologies; plant breeding, deconstruction, fermentation, and applied biotechnology. [1-3-0] Prerequisite: BEST 200 and BEST 201 ."
+  },
+  "BEST 303": {
+    "subject_code": "BEST",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Applied Biotechnology for Bioproducts",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Use of microbiology and enzymology for processing and enhancing value of forest and agro-based bioproducts; saccharification of biomass, fermentation, and product upgrading with biocatalysts. [3-0-0] Prerequisite: BEST 300."
+  },
+  "BEST 304": {
+    "subject_code": "BEST",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Laboratory in Bioeconomy Technology (II)",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Laboratory modules for bioeconomy technologies; bioenergy and bioproducts. [1-3-0] Prerequisite: BEST 300 and BEST 302."
+  },
+  "BEST 308": {
+    "subject_code": "BEST",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Land Use Management and Planning",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Global overview of land use management and planning, with a focus on principles and practice. [3-0-2] Prerequisite: BEST 203."
+  },
+  "BEST 310": {
+    "subject_code": "BEST",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Forest Bioeconomy Sciences and Technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BEST 311": {
+    "subject_code": "BEST",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Forest Bioeconomy Sciences and Technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BEST 312": {
+    "subject_code": "BEST",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Forest Bioeconomy Sciences and Technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BEST 400": {
+    "subject_code": "BEST",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Biomimicry and Biocomposites",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to principles of self-assembly, hierarchical structures, biocomposites, and unique adaptive structures. [3-0-0] Prerequisite: BEST 300."
+  },
+  "BEST 401": {
+    "subject_code": "BEST",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Carbon and Energy Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Understanding key issues for carbon management, protocols for carbon accounting and methodologies for emissions inventories and carbon costing. Economics and business response to climate change are examined. [3-0-0] Prerequisite: One of ECON 101, FRST 101."
+  },
+  "BEST 402": {
+    "subject_code": "BEST",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Industrial Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts in sustainability around technology and material use; relevance of biological ecology to industrial ecology; life cycle analysis: components and applications; and approaches to design. [3-0-2] Prerequisite: BEST 200."
+  },
+  "BEST 403": {
+    "subject_code": "BEST",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Integrated Strategies for Bioproduct Innovation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Project-based course on development of bioeconomy products; demonstration of out-of-box thinking, service learning and teamwork. Restricted to students in the Forest Bioeconomy Sciences and Technology program. [2-3-0] Prerequisite: Fourth year standing in Forest Bioeconomy Sciences and Technology."
+  },
+  "BEST 404": {
+    "subject_code": "BEST",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Synthetic Biology for Bioproducts and Bioeconomy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles of synthetic biology, DesignBuild-Test-Learn (DBTL) cycle for bioproduct development, enzyme engineering, strain engineering for bioproducts, ethical framework, and social implications [3-0-0] Prerequisite: BEST 302 and BEST 303"
+  },
+  "BEST 410": {
+    "subject_code": "BEST",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Forest Bioeconomy Sciences and Technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BEST 411": {
+    "subject_code": "BEST",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Forest Bioeconomy Sciences and Technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BEST 412": {
+    "subject_code": "BEST",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement V",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Forest Bioeconomy Sciences and Technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BEST 502": {
+    "subject_code": "BEST",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Advanced Life Cycle Assessment",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts and applications of Life Cycle Assessment (LCA), LCA methodologies, international standards and frameworks. This course is not eligible for Credit/D/Fail grading."
+  }
+}

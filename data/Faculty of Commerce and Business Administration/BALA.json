@@ -1,0 +1,58 @@
+{
+  "BALA 500": {
+    "subject_code": "BALA",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Business and Securities Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BALA 501": {
+    "subject_code": "BALA",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Employment Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BALA 502": {
+    "subject_code": "BALA",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "The Law and Public Policy",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BALA 503": {
+    "subject_code": "BALA",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Commercial Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BALA 530": {
+    "subject_code": "BALA",
+    "course_code": "530",
+    "credit": "1.5",
+    "course_name": "The Law and International Business Transactions",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Credit will be granted for only one of BALA_V 530 or BAIM_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BALA 580": {
+    "subject_code": "BALA",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BALA 590": {
+    "subject_code": "BALA",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

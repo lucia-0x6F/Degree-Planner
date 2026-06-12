@@ -1,0 +1,130 @@
+{
+  "ENST 202": {
+    "subject_code": "ENST",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Climate Emergency",
+    "faculty": "Faculty of Arts",
+    "description": "Science, impacts, and parallel crises of the climate emergency; decarbonization challenge and measuring progress towards emission targets; strategies and tools for climate action at local, national, and global levels. Credit will only be granted for one of GEOG 202 or ENST 202. Recommended: Second-year standing. Equivalency: GEOG 202"
+  },
+  "ENST 211": {
+    "subject_code": "ENST",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "The State of the Earth",
+    "faculty": "Faculty of Arts",
+    "description": "The demographic, economic, ecological, and technological factors that underlie current environmental challenges, considering their effects to date and their possible impact in the future. Credit will only be granted for one of GEOG 211 or ENST 211. Recommended: Second-year standing. Equivalency: GEOG 211"
+  },
+  "ENST 302": {
+    "subject_code": "ENST",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Climate Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts and debates in the interdisciplinary field and practice of climate justice; the role of systemic processes and patterns underlying climate change and climate injustices. Credit will only be granted for one of GEOG 302 or ENST 302. Recommended: Second-year standing. Equivalency: GEOG 302"
+  },
+  "ENST 310": {
+    "subject_code": "ENST",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Environment and Sustainability",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts of environment, resources and sustainability; the roles of physical and human geography in understanding the interaction of humans and the environment; introduction to management of environment-resource systems. Credit will be granted for only one of ENST 310 or GEOG 310. Equivalency: GEOG310"
+  },
+  "ENST 311": {
+    "subject_code": "ENST",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Urban Environments",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of urban development on the natural environment and vice versa. Study of the ecology and metabolism of cities and green urban design, using global and local case studies. Credit will be granted for only one of ENST 311 or GEOG 311. Equivalency: GEOG 311"
+  },
+  "ENST 312": {
+    "subject_code": "ENST",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Climate Change: Science and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Climates over the geological, historical and instrument periods. Theories of climatic change. Monitoring and modelling the climate system. Impacts of change on environmental and socio-economic systems. Credit will be granted for only one of ENST 312 or GEOG 312. Recommended pre-requisites: one of GEOS 102, GEOB 102, GEOS 200, GEOB 200, GEOS 204, GEOB 204, ATSC 201, EOSC 112 and 3rd year standing. Equivalency: GEOG 312"
+  },
+  "ENST 313": {
+    "subject_code": "ENST",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Environmental Justice and Social Change",
+    "faculty": "Faculty of Arts",
+    "description": "Economic, social, political and cultural structures and institutions that shape contemporary socioecological challenges. Credit will be granted for only one of ENST_V 313 or GEOG_V 313. Recommended pre-requisite: GEOG_V 121. Equivalency: GEOG_V 313"
+  },
+  "ENST 314": {
+    "subject_code": "ENST",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Analysing Environmental Problems",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts and techniques employed in environmental research; challenges in the areas of climate change, water use, knowledge translation and natural hazards. Credit will be granted for only one of GEOG_V 314 or ENST_V 314. Restricted to students with at least third year standing. Prerequisite: One of GEOG_V 211, GEOB_V 102, GEOB_V 103, GEOS_V 102, GEOS_V 103, EOSC_V 110, EOSC_V 112. Equivalency: GEOG_V 314. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENST 316": {
+    "subject_code": "ENST",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Geography of Natural Hazards",
+    "faculty": "Faculty of Arts",
+    "description": "The role of geophysical events, human ecology, environmental perception, world social and political order in explaining the risk of natural disasters. Assessment of acceptable risk, disaster relief and reconstruction and contrasts between developed and developing nations. Credit will only be granted for one of GEOG 316 or ENST 316. Equivalency: GEOG 316"
+  },
+  "ENST 318": {
+    "subject_code": "ENST",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Sustainability in a Changing Environment",
+    "faculty": "Faculty of Arts",
+    "description": "Biophysical and human causes of short- and long-term environmental change at various spatial scales, including measurement, interpretation, and policy. Credit will only be granted for one of GEOG 318 or ENST 318. Equivalency: GEOG 318"
+  },
+  "ENST 319": {
+    "subject_code": "ENST",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Environmental Impact Assessment",
+    "faculty": "Faculty of Arts",
+    "description": "The principles, implementation, and role of environmental impact assessment in environmental management, in Canada and internationally. Credit will be granted for only one of ENST 319 or GEOG 319. Equivalency: GEOG 319"
+  },
+  "ENST 351": {
+    "subject_code": "ENST",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Urban Environmental Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Effects of urbanization and global environmental change on the geographies of cities across the world. Specific focus on urban environmental justice and inequality. Credit will be granted for only one of ENST_V 351 or GEOG_V 351. Equivalency: GEOG_V 351"
+  },
+  "ENST 410": {
+    "subject_code": "ENST",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Environment and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Geographical analysis of society-environment relations. Relates resource management to environmental politics, political economy, and sustainable development. Perspectives drawn from political ecology and political economy, environmental history and environmental philosophy. Credit will only be granted for one of GEOG_V 410 or ENST_V 410. Equivalency: GEOG_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENST 412": {
+    "subject_code": "ENST",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Water Management: Theory, Policy, and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary analysis of critical water issues, in Canada and internationally. Focus on social science perspectives. Emphasis on presentation, research, and essay-writing skills. Credit will only be granted for one of GEOG_V 412 or ENST_V 412. Equivalency: GEOG_V 412."
+  },
+  "ENST 419": {
+    "subject_code": "ENST",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Research in Environmental Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Details available from Geography Undergraduate Advisor. Not necessarily offered each year. Credit will only be granted for one of GEOG_V 419 or ENST_V 419. Equivalency: GEOG_V 419"
+  },
+  "ENST 423": {
+    "subject_code": "ENST",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Development of Environmental Thought",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of how attitudes toward human nature and non-human nature have changed from Mesolithic times to the present in Western society. Credit will only be granted for one of GEOG 423 or ENST 423. Equivalency: GEOG 423"
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "BASC 500": {
+    "subject_code": "BASC",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Process Fundamentals",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 510": {
+    "subject_code": "BASC",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Operating Supply Chains",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 512": {
+    "subject_code": "BASC",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Supply Chain Management for E-Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 515": {
+    "subject_code": "BASC",
+    "course_code": "515",
+    "credit": "1.5",
+    "course_name": "Total Quality Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 517": {
+    "subject_code": "BASC",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Operations Strategy",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 521": {
+    "subject_code": "BASC",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Project Governance and Oversight",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 523": {
+    "subject_code": "BASC",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "Supply Chain Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 524": {
+    "subject_code": "BASC",
+    "course_code": "524",
+    "credit": "1.5",
+    "course_name": "Supply Chain Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 540": {
+    "subject_code": "BASC",
+    "course_code": "540",
+    "credit": "0.7",
+    "course_name": "Operations Fundamentals",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 550": {
+    "subject_code": "BASC",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Operations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 580": {
+    "subject_code": "BASC",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Current Issues in Logistics and Operations Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BASC 590": {
+    "subject_code": "BASC",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Study in Supply Chain Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

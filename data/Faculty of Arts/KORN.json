@@ -1,0 +1,154 @@
+{
+  "KORN 100": {
+    "subject_code": "KORN",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Basic Korean I",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the grammar and syntax of modern spoken and written Korean. Credit will be granted for only one of KORN 100 or KORN 102."
+  },
+  "KORN 101": {
+    "subject_code": "KORN",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Basic Korean II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of KORN 100. Credit will be granted for only one of KORN 101 or KORN 102. Recommended pre-requisite: KORN 100."
+  },
+  "KORN 102": {
+    "subject_code": "KORN",
+    "course_code": "102",
+    "credit": "6",
+    "course_name": "Basic Korean",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the grammar and syntax of modern spoken and written Korean. As of 2011W, credit will be granted for only one of KORN 100/101 or KORN 102."
+  },
+  "KORN 104": {
+    "subject_code": "KORN",
+    "course_code": "104",
+    "credit": "6",
+    "course_name": "Basic Korean Grammar",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on grammar, writing, and reading. For heritage learners and students with prior background in spoken Korean."
+  },
+  "KORN 161": {
+    "subject_code": "KORN",
+    "course_code": "161",
+    "credit": "9",
+    "course_name": "Enriched Summer Intensive Beginning",
+    "faculty": "Faculty of Arts",
+    "description": "An integrated language course developing communicative competence in speaking, listening to, reading, and writing modern Korean. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KORN 200": {
+    "subject_code": "KORN",
+    "course_code": "200",
+    "credit": "6",
+    "course_name": "Intermediate Korean",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and writing of modern colloquial Korean at an intermediate level. As of 2011W, credit will be granted for only one of KORN 201/202 or KORN 200. Recommended pre-requisites: one of KORN 101, KORN 102."
+  },
+  "KORN 201": {
+    "subject_code": "KORN",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Korean I",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and writing of modern colloquial Korean at an intermediate level. Credit will be granted for only one of KORN 201 or KORN 200. Recommended pre-requisite: KORN 101."
+  },
+  "KORN 202": {
+    "subject_code": "KORN",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Intermediate Korean II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of KORN 201. Credit will be granted for only one of KORN 202 or KORN 200. Recommended pre-requisite: KORN 201."
+  },
+  "KORN 300": {
+    "subject_code": "KORN",
+    "course_code": "300",
+    "credit": "6",
+    "course_name": "Readings in Korean Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in intermediate-level Korean on aspects of Korean culture, customs, and contemporary life, along with structured conversations based on those readings. As of 2011W, credit will be granted for only one of KORN 301/302 or KORN 300. Recommended pre-requisites: one of KORN 200, KORN 202."
+  },
+  "KORN 301": {
+    "subject_code": "KORN",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Readings in Korean Topics I",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in intermediate-level Korean on aspects of Korean culture, customs, and contemporary life, along with structured conversations based on those readings. As of 2011W, credit will be granted for only one of KORN 301/302 or KORN 300. Recommended pre-requisite: KORN 202 or permission of instructor."
+  },
+  "KORN 302": {
+    "subject_code": "KORN",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Readings in Korean Topics II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of KORN 301. As of 2011W, credit will be granted for only one of KORN 301/302 or KORN 300. Recommended pre-requisite: KORN 301 or permission of instructor."
+  },
+  "KORN 351": {
+    "subject_code": "KORN",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Introduction to Hancha: Sinographs and Sino-Korean Vocabulary I",
+    "faculty": "Faculty of Arts",
+    "description": "Chinese characters in their Korean pronunciations and shapes. Students learn approximately 250 sinographs, related sinographic vocabulary, and do structured readings in mixed scripts on aspects of Korean culture and contemporary life. Prerequisite: One of KORN_V 200, KORN_V 202. Or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KORN 352": {
+    "subject_code": "KORN",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Introduction to Hancha: Sinographs and Sino-Korean Vocabulary II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of KORN_V 351. Students learn an additional 250 sinographs and related sinographic vocabulary. Prerequisite: KORN_V 351. Or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "KORN 410": {
+    "subject_code": "KORN",
+    "course_code": "410",
+    "credit": "3-6",
+    "course_name": "Modern Korean Short Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and translating twentieth-century Korean short fiction. Recommended pre-requisites: either (a) KORN 300 or (b) all of KORN 301, KORN 302."
+  },
+  "KORN 411": {
+    "subject_code": "KORN",
+    "course_code": "411",
+    "credit": "3-6",
+    "course_name": "Advanced Readings in Korean Non-Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Guided readings on contemporary affairs from the Korean press and/or selected readings in Korean academic prose. Recommended pre-requisite: KORN 300."
+  },
+  "KORN 412": {
+    "subject_code": "KORN",
+    "course_code": "412",
+    "credit": "3-6",
+    "course_name": "Korean-to-English Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Translation into English of Korean writing in various literary genres, including short story, poetry, personal essay, and academic essay. Supplementary readings in translation studies and translation theory."
+  },
+  "KORN 415": {
+    "subject_code": "KORN",
+    "course_code": "415",
+    "credit": "3-6",
+    "course_name": "Korean Conversation and Composition",
+    "faculty": "Faculty of Arts",
+    "description": "Structured conversation practice and weekly composition assignments based on viewing one designated Korean television program per week. Recommended pre-requisite: KORN 300."
+  },
+  "KORN 420": {
+    "subject_code": "KORN",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Readings in Middle and Early Modern Korean",
+    "faculty": "Faculty of Arts",
+    "description": "History and structure of the Korean language through targeted close readings in different editions of an illustrated text from the 15th and 18th centuries. Prerequisite: Non-heritage speakers should have completed KORN 410 or be taking it concurrently. Heritage and native speakers of Korean welcome."
+  },
+  "KORN 440": {
+    "subject_code": "KORN",
+    "course_code": "440",
+    "credit": "3-12",
+    "course_name": "Supervised Study in the Korean Language",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar in Korean-to-English literary translation. Primarily for, but not limited to, students in Asian Studies and Linguistics. Recommended pre-requisite: KORN 410 or placement exam."
+  }
+}

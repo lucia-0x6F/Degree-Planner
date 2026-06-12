@@ -1,0 +1,74 @@
+{
+  "CLST 110": {
+    "subject_code": "CLST",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Golden Age of Athens",
+    "faculty": "Faculty of Arts",
+    "description": "The history and culture, values, and achievements of fifth-century Athens."
+  },
+  "CLST 111": {
+    "subject_code": "CLST",
+    "course_code": "111",
+    "credit": "3",
+    "course_name": "Late Republican and Early Imperial Rome",
+    "faculty": "Faculty of Arts",
+    "description": "The history and culture, values, and achievements of Late Republican and Early Imperial Rome."
+  },
+  "CLST 204": {
+    "subject_code": "CLST",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Gods, Graves, and Goods: The Archaeology of Ancient Greece and Rome",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the material cultures of the pre-classical and classical civilizations of Greece and Rome, illustrating the principles and techniques used to illuminate the archaeological history of these civilizations."
+  },
+  "CLST 360": {
+    "subject_code": "CLST",
+    "course_code": "360",
+    "credit": "3-12",
+    "course_name": "Life and Society in Classical Antiquity",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in Greek and Roman life and society."
+  },
+  "CLST 501": {
+    "subject_code": "CLST",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Topography and Monuments of Athens",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the topography and monuments of ancient Athens from the Bronze Age to Late Antiquity. Offered in the first term of alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CLST 502": {
+    "subject_code": "CLST",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Topography and Monuments of Rome",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the topography and monuments of ancient Rome from the Iron Age to Late Antiquity. Offered in the second term of alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CLST 513": {
+    "subject_code": "CLST",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "The Archaeology of Greek and Roman Technology",
+    "faculty": "Faculty of Arts",
+    "description": "Material evidence for the technological achievements of the Greek and Roman world. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CLST 520": {
+    "subject_code": "CLST",
+    "course_code": "520",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Greek Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CLST 521": {
+    "subject_code": "CLST",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Roman Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

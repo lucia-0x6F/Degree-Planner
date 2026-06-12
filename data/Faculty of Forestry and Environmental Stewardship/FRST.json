@@ -1,0 +1,1130 @@
+{
+  "FRST 100": {
+    "subject_code": "FRST",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Sustainable Forests",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An overview of forests and forestry. Survey of the disciplines, areas of study, and values that frame sustainable management of forests in BC and the world. Assignments focus on critical thinking and written communication skills. [3-0-0]"
+  },
+  "FRST 101": {
+    "subject_code": "FRST",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Principles of Microeconomics for Forestry and Land and Food Systems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles of microeconomics and their applications in forestry and land and food systems. The basic concept of the economy to focus on private and social decision making related to the use of land, especially in agriculture, forestry, and conservation. Credit will be granted for only one of FRST 101, ECON 101, or LFS 101. [3-0-1] Equivalency: LFS101, ECON101"
+  },
+  "FRST 107": {
+    "subject_code": "FRST",
+    "course_code": "107",
+    "credit": "0",
+    "course_name": "Introduction to Forestry Co-op",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An introduction to Forestry Co-op including: completion of preemployment workshops, career skills toolkits, networking opportunities, interview training, individual coaching sessions, and job search skills. Restricted to students meeting the requirements of the Faculty of Forestry and Environmental Stewardship Co-operative Education Program. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 110": {
+    "subject_code": "FRST",
+    "course_code": "110",
+    "credit": "4",
+    "course_name": "Land One: First-year Integrative Seminar",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Current issues and cases in Forestry and Land and Food Systems are examined with a focus on integration of first-year subjects and exposure to both First Nations and Western perspectives. [2-0-1;2-0-1] Equivalency: LFS_V 110, NRES_V 110. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 150": {
+    "subject_code": "FRST",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Scholarly Writing and Argumentation in Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience. Credit will be granted for only one of NRES_V 150, FRST_V 150, or LFS_V 150. [3-0-0] Equivalency: LFS_V 150, NRES_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 200": {
+    "subject_code": "FRST",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Forest Plant Biology I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The structure, diversity and development of trees and other plants, with emphasis on the angiosperms. Credit will be granted for only one of NRES 200 or FRST 200. [3-2-0] Prerequisite: BIOL 121. Equivalency: NRES 200"
+  },
+  "FRST 201": {
+    "subject_code": "FRST",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Forest Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience. Credit will be granted for only one of NRES 201 or FRST 201. [3-2-0] Equivalency: NRES 201"
+  },
+  "FRST 202": {
+    "subject_code": "FRST",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Forest Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The Ecosystem concept; energy biomass and nutrient cycling; the physical environment; population and community ecology; succession, Biogeoclimatic classification and some coastal ecosystems. Available only through Distance Education. [3-2]"
+  },
+  "FRST 203": {
+    "subject_code": "FRST",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Silvics of Forest Trees of Western Canada",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ecological and silvical characteristics of forest trees; assessment of ecological site quality and biogeoclimatic classification; application of silvics in silviculture. A plant herbarium of at least 50 species is required. Only available through Distance Education. [3-2] Prerequisite: FRST202"
+  },
+  "FRST 210": {
+    "subject_code": "FRST",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Forest Plant Biology II",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The functional biology of trees and other forest plants in their environment, with an emphasis on gymnosperms. Credit will be granted for only one of NRES 210 or FRST 210. [3-2-0] Prerequisite: One of FRST 200, NRES 200. Equivalency: NRES 210."
+  },
+  "FRST 211": {
+    "subject_code": "FRST",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Forest Classification and Silvics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field. Credit will be granted for only one of NRES 211 or FRST 211. [3-2-0] Prerequisite: One of FRST 201, NRES 201. Equivalency: NRES 211"
+  },
+  "FRST 231": {
+    "subject_code": "FRST",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Introduction to Biometrics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic theories of probability and statistics. Sampling distribution, methods of estimation and hypothesis testing; goodness of fit and tests for independence; analysis of variance, regression and correlation. Consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. Credit will be granted for only one of NRES 231 or FRST 231. [3-2-0] Corequisite: One of MATH 100, MATH 180, MATH 184, MATH 190. Equivalency: NRES 231"
+  },
+  "FRST 232": {
+    "subject_code": "FRST",
+    "course_code": "232",
+    "credit": "3",
+    "course_name": "Computer Applications in Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Techniques involved in solving forestry problems with microcomputers using word processing, spreadsheet, procedural language, and database management tools. Credit will be granted for only one of NRES 232 or FRST 232. [3-2] Equivalency: NRES 232"
+  },
+  "FRST 239": {
+    "subject_code": "FRST",
+    "course_code": "239",
+    "credit": "3",
+    "course_name": "Tree and Stand Level Measurements",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An introduction to measurement of individual trees and stands; use of aerial photographs, maps, and various measurement instruments. [3-2-0] Prerequisite: One of FRST 231, NRES 231 and one of FRST 232, NRES 232."
+  },
+  "FRST 248": {
+    "subject_code": "FRST",
+    "course_code": "248",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Orientation workshops required. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 302": {
+    "subject_code": "FRST",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Forest Genetics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Population genetics and conservation of genetic resources; principles of genetics and their application to forestry. [2-2]"
+  },
+  "FRST 303": {
+    "subject_code": "FRST",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Into the Woods: An Introduction to Forest Science",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to growth of trees and forests with emphasis on evolutionary, ecological and environmental aspects. Not available for credit to undergraduate students in the Faculty of Forestry and Environmental Stewardship. [3-0-0]"
+  },
+  "FRST 304": {
+    "subject_code": "FRST",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Forest Stewardship in a Changing Climate",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Forests can provide natural solutions to climate change and social well-being through innovative management and restoration including protection of mother trees and soils, carbon and conservation financing, and emergence of value-added industries. For students without strong science backgrounds. Not available for credit to Faculty of Forestry and Environmental Stewardship students. [3-0-0]"
+  },
+  "FRST 305": {
+    "subject_code": "FRST",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Silviculture",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Silviculture concepts and principles; stand dynamics; artificial and natural regeneration; cultural techniques for forest stand establishment and stand tending; silvicultural systems; decision making and development of prescriptions; connections to forest planning. [3-4*] Prerequisite: One of FRST 201, NRES 201 and one of FRST 350, FRST 351, UFOR 400."
+  },
+  "FRST 307": {
+    "subject_code": "FRST",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Biotic Disturbances",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts of disturbance ecology with special reference to insects and diseases in the forests of British Columbia; forest health problems in the biogeoclImatic zones of BC; present management strategies and future potentials in a scenario of climate change. [3-3-0] Prerequisite: One of FRST 210, NRES 210 and one of FRST 211, NRES 211."
+  },
+  "FRST 308": {
+    "subject_code": "FRST",
+    "course_code": "308",
+    "credit": "2",
+    "course_name": "Forest Entomology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An introduction to insects that cause damage to forests and forest products; how insects live; life cycles and attack symptoms of representatives of major groups of insects; principles for control and management. Available only through Distance Education."
+  },
+  "FRST 309": {
+    "subject_code": "FRST",
+    "course_code": "309",
+    "credit": "2",
+    "course_name": "Forest Pathology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Biology and management of forest tree diseases. Available only through Distance Education."
+  },
+  "FRST 310": {
+    "subject_code": "FRST",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Soil Biology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The diversity and interactions of soil organisms (bacteria, protozoa, fungi, animals, plants) in natural and managed ecosystems; roles in primary production, nutrient cycling, decomposition and reclamation; responses to environmental change. [2-3-0] Prerequisite: BIOL 121. Equivalency: APBI342"
+  },
+  "FRST 311": {
+    "subject_code": "FRST",
+    "course_code": "311",
+    "credit": "4",
+    "course_name": "Plant Physiology I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. CHEM 203, CHEM 213, or CHEM 233 and CHEM 235 is recommended. [3-3-0] Equivalency: BIOL351, APBI351"
+  },
+  "FRST 318": {
+    "subject_code": "FRST",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Forest and Conservation Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Practical problem solving of economic issues related to forestry and conservation, touching on investment analysis, capital budgeting, non-timber economics, ecosystem services, and forest certification. Completion of FRST 232 or NRES 232 or intermediate knowledge of MS Excel essential. [2-3-0] Prerequisite: One of ECON 101, FRST 101."
+  },
+  "FRST 319": {
+    "subject_code": "FRST",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Principles of Forestry Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to the economics of production, distribution and consumption of goods and services produced by, and dependent on, the forest resource. Available only through Distance Education."
+  },
+  "FRST 320": {
+    "subject_code": "FRST",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Abiotic Disturbances: Fire and Climate",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ecological effects of fire and climatic (wind, temperature, and snow) disturbances; fire danger rating, principles of fire management and prescribed fire use; windthrow risk modelling and management. [3-2-0] Prerequisite: One of FRST 210, NRES 210 and one of FRST 211, NRES 211."
+  },
+  "FRST 339": {
+    "subject_code": "FRST",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "Forest Level Measurement and Productivity",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Obtaining and forecasting information for stands and forests. [3-2-0] Prerequisite: FRST 239."
+  },
+  "FRST 346": {
+    "subject_code": "FRST",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 347": {
+    "subject_code": "FRST",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 348": {
+    "subject_code": "FRST",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 350": {
+    "subject_code": "FRST",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Foundational Field School",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Field study concentrating on outdoor skills, forest measurements, site diagnosis, and an integrated overview of the ecological, social and economic basis for forest management. Fees will be assessed to meet expenses. Credit will be granted for only one of FRST_V 350 or 351. Prerequisite: FRST_V 211 or NRES_V 211; FRST_V 201 or NRES_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 351": {
+    "subject_code": "FRST",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Interior Field School",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Field study at an interior BC location concentrating on land use, management and silviculture. Fees will be assessed to meet expenses. Students with FRST_V 351 and FRST_V 350 can only count 3 credits toward their program requirements. Prerequisite: FRST_V 210 or NRES_V 210. Corequisite: FRST_V 211 or NRES_V 211."
+  },
+  "FRST 370": {
+    "subject_code": "FRST",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Community Forests and Community Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Community forests and community forestry throughout the world, with special attention to participation by aboriginal peoples; emphasis is on forms of governance, public participation, and adaptive learning. [3-0-0]"
+  },
+  "FRST 385": {
+    "subject_code": "FRST",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "Watershed Hydrology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Measurement and analysis of hydrological processes in response to forest management activities. [3-2-0] Prerequisite: Third- or fourth-year standing."
+  },
+  "FRST 386": {
+    "subject_code": "FRST",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Aquatic Ecosystems and Fish in Forested Watersheds",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Effects of forest management activities on fish and aquatic ecosystems. [3-2-0] Prerequisite: Third- or fourth-year standing in Forestry, Science, Applied Science or Applied Biology."
+  },
+  "FRST 395": {
+    "subject_code": "FRST",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Wildlife Ecology and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ecology, management, and conservation of terrestrial vertebrate wildlife, focusing primarily on socio-economically important, forest-dwelling species of mammals, birds, amphibians and reptiles. [3-2-0] Prerequisite: One of FRST 201, BIOL 230, BIOL 306."
+  },
+  "FRST 399": {
+    "subject_code": "FRST",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Introduction to Research Methods",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Lectures and seminars in research philosophies and the scientific method, with special emphasis on field research. [2-1] Prerequisite: One of FRST 150, LFS 150, NRES 150, WRDS 150, ENGL 110, ENGL 111, WOOD 225, NRES 225."
+  },
+  "FRST 402": {
+    "subject_code": "FRST",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Living Language: Science and Society",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Multi-disciplinary course in which students, individually and in groups, examine, integrate and apply subject-specific knowledge through the lens of language and the framework of the language sciences, with a focus on themes of real-world importance. Prerequisite: Fourth-year standing or permission of the instructor. Equivalency: APSC402, ASTU402, LFS 402, LLED402, PHAR402"
+  },
+  "FRST 403": {
+    "subject_code": "FRST",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "The Sustainability of Production in Managed Forest Ecosystems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Study of the functional and dynamic characteristics of forest ecosystems and their response to forest management using ecosystem-level microcomputer simulation models. [3-2-0] Prerequisite: One of FRST 201, NRES 201."
+  },
+  "FRST 404": {
+    "subject_code": "FRST",
+    "course_code": "404",
+    "credit": "4",
+    "course_name": "Advances in Silviculture",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Fundamental silvicultural problems; the application of research findings to the practice of silviculture. [4-0] Prerequisite: FRST 305."
+  },
+  "FRST 406": {
+    "subject_code": "FRST",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Advanced Forest Pathology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Hereditary, physiological, anatomical, environmental, and microbiological factors influencing forest tree diseases. Given in alternate years. [2-2]"
+  },
+  "FRST 408": {
+    "subject_code": "FRST",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Advanced Forest Insect Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Role of climate and climate change in the population dynamics, outbreak potentials and resultant impacts to forest ecosystems associated with herbivorous forest insects. [3-0-0] Prerequisite: One of FRST 307, APBI 327, BIOL 327."
+  },
+  "FRST 410": {
+    "subject_code": "FRST",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Introduction to Landscape Ecology and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Current concepts, methods, and applications of landscape ecology with emphasis on spatial patterning, spatial heterogeneity, and dynamics; problem-solving approaches to natural resource issues through the application of landscape ecological principles and tools. [3-0-0] Prerequisite: Fourth-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 411": {
+    "subject_code": "FRST",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Complex Adaptive Systems, Global Change Science, and Ecology Sustainability",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts of complex adaptive systems (CAS); exploration of how CAS can be used to manage natural and social environments for multiple goals under changing climatic and socio-economic conditions. [3-0-0] Prerequisite: Third-year standing"
+  },
+  "FRST 413": {
+    "subject_code": "FRST",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Ecological Plant Biochemistry.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The structure, biosynthesis, distribution and biological function of secondary plant metabolites. [3-0-0] Prerequisite: Either (a) all of BIOL 200, BIOL 201 and one of BIOL 209, BIOL 210; or (b) one of FRST 200, NRES 200 and one of FRST 210, NRES 210. Equivalency: BIOL462"
+  },
+  "FRST 415": {
+    "subject_code": "FRST",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Sustainable Forest Policy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The development, implementation, and analysis of forest policy. [3-0-0] Prerequisite: Third- or fourth-year standing."
+  },
+  "FRST 421": {
+    "subject_code": "FRST",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Quantitative Forest Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to the quantitative tools necessary in forest management. Available only through Distance Education."
+  },
+  "FRST 422": {
+    "subject_code": "FRST",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Mathematical Modelling in Forest Resource Analysis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Modelling techniques used in strategic and tactical forest resources analyses. [2-0-3] Prerequisite: Fourth-year standing in the BSF degree."
+  },
+  "FRST 423": {
+    "subject_code": "FRST",
+    "course_code": "423",
+    "credit": "6",
+    "course_name": "Forest Management Planning",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Forest management designs to identify and integrate economic, social, and environmental objectives across a forested landscape both strategically and tactically. [4-2-2] Prerequisite: FRST 422."
+  },
+  "FRST 425": {
+    "subject_code": "FRST",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Forest Planning",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Analyze and interpret existing management plans, prescribe solutions for achieving specific forest management goals at multiple scales, use basic tools to evaluate the financial implications of such solutions, and create a forest management plan for a virtual forest. Offered entirely online. Students in any of the Forestry programs requiring FRST 423 (6 cr) in order to graduate will not be granted the 3 cr of FRST 425 toward degree completion."
+  },
+  "FRST 430": {
+    "subject_code": "FRST",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Advanced Biometrics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Analysis of variance, multiple regression and analysis of covariance. Design and analysis of experiments. [3-2] Prerequisite: One of FRST 231, NRES 231, BIOL 300, STAT 200. And FRST 399 or equivalent. Restricted to students with 4th year standing or by permission of instructor."
+  },
+  "FRST 432": {
+    "subject_code": "FRST",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Ecological Genomics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The genomic basis of adaptation to environments. Topics progress through community structure, life history patterns, stress responses, and variation and adaptation. [3-0-0]"
+  },
+  "FRST 436": {
+    "subject_code": "FRST",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Growth and Yield",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Techniques of growth and yield projection and discussion of modelling approaches. Exploration of stand dynamics, quantitative implications of management treatments and environmental limitations to tree and stand growth. [2-2-0] Prerequisite: FRST339"
+  },
+  "FRST 439": {
+    "subject_code": "FRST",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "International Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The socio-economic, biological and technological aspects of forestry within the international frame, in both the developed and developing world. Regional studies and the role of national and international agencies. [2-2-0]"
+  },
+  "FRST 443": {
+    "subject_code": "FRST",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Remote Sensing for Ecosystem Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic biological concepts related to interpretation of remote sensing data for land management, including the use of films and filters, and interpretation of air photographs, and other imagery. [2-2-0]"
+  },
+  "FRST 444": {
+    "subject_code": "FRST",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Agroforestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ecological, economic and social benefits of incorporating trees into agricultural landscapes. Lectures and groupwork designing agroforestry systems in temperate and tropical contexts. [3-2-0] Prerequisite: One of FRST 201, NRES 201, APBI 260. Equivalency: APBI444"
+  },
+  "FRST 446": {
+    "subject_code": "FRST",
+    "course_code": "446",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 447": {
+    "subject_code": "FRST",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 448": {
+    "subject_code": "FRST",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement.",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Supervised work experience in an approved organization for a minimum of 15 weeks. Restricted to students in the Co-operative Education Program in the Faculty of Forestry and Environmental Stewardship. Final work term report required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 449": {
+    "subject_code": "FRST",
+    "course_code": "449",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in forestry."
+  },
+  "FRST 452": {
+    "subject_code": "FRST",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Coastal Field School",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Site diagnosis and preparation of management options in coastal forests. Extrasessional course; fees will be assessed to meet expenses. Prerequisite: FRST_V 350 or 351; FRST_V 305; Third- or fourth-year standing in the B.S.F. program, or Forest Management major or Forest Operations major in B.Sc. in Natural Resources program."
+  },
+  "FRST 456": {
+    "subject_code": "FRST",
+    "course_code": "456",
+    "credit": "6",
+    "course_name": "The Role of Natural and Planted Forests in the Global Bioeconomy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "(Go Global Seminar Series) An intensive one-month field school in Chile focused on fast-growing industrial forest plantations, innovative wood products, land use strategies for natural and planted forests, and their impact on society. Prerequisite: Third-year standing"
+  },
+  "FRST 470": {
+    "subject_code": "FRST",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Forests and Society",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Social aspects of forestry and forest communities. [3-0-1] Prerequisite: Third- or fourth-year standing."
+  },
+  "FRST 475": {
+    "subject_code": "FRST",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Indigenous Ecologies",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Application of Indigenous worldviews and knowledges to ecology. Colonial history of modern ecology, foundations and examples of Indigenous ecologies, restoration applying multiple worldviews, and Indigenized, culturally appropriate ecological research and decision-making processes. Prerequisite: One of BEST_V 203, BIOL_V 230, FRST_V 201, APBI_V 260, GEOS_V 207. And third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 485": {
+    "subject_code": "FRST",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Forest Watershed Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Effects of land management on quality, quantity and timing of water flow. [3-2-0] Prerequisite: FRST385"
+  },
+  "FRST 490": {
+    "subject_code": "FRST",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Visual Resource Management and Planning for Aesthetics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Methodologies for visual analysis, perceptions, planning & management of urban, natural and working landscapes, and implications for sustainable land-use management & community engagement. Credit will be granted for only one of FRST 490 or FRST 551. [2-2] Prerequisite: Third-year standing. Equivalency: LARC542"
+  },
+  "FRST 491": {
+    "subject_code": "FRST",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Visualization and Forest Design",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "GIS-based spatial planning and 3D landscape visualization for forest management. [3-0-1] Prerequisite: Third- or fourth-year standing."
+  },
+  "FRST 492": {
+    "subject_code": "FRST",
+    "course_code": "492",
+    "credit": "3",
+    "course_name": "Environmental Perception",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "How individuals perceive their environment. Emphasis will be given visual perception in the context of natural resource issues and the effects of those perceptions on individuals including issues of human wellbeing. [3-0-0] Prerequisite: Third-year standing"
+  },
+  "FRST 495": {
+    "subject_code": "FRST",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Biological Diversity and Conservation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles, problems, and practices of managing natural habitats for biological diversity; current issues in biological diversity important to researchers, policymakers, and the general public. [2-2-0]. Prerequisite: One of FRST_V 201, NRES_V 201 and FRST_V 395. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 497": {
+    "subject_code": "FRST",
+    "course_code": "497",
+    "credit": "3",
+    "course_name": "Communications and Professionalism",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Preparing professional reports and presentations; professionalism and professional ethics. [2-0-2] Prerequisite: Fourth-year standing."
+  },
+  "FRST 498": {
+    "subject_code": "FRST",
+    "course_code": "498",
+    "credit": "6",
+    "course_name": "B.Sc. Thesis in Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An independent study or research project of a subject of special interest to the student under the direction of a staff member. Available only to students in the BSFS Honours specialization."
+  },
+  "FRST 499": {
+    "subject_code": "FRST",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "B.S.F. Thesis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An independent study or research project on an approved topic, developed under the guidance of a Faculty member. Available only to students in their graduating year."
+  },
+  "FRST 500": {
+    "subject_code": "FRST",
+    "course_code": "500",
+    "credit": "1",
+    "course_name": "Teaching and Learning in Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An evidence-based examination of teaching and learning in forestry, focusing on instructional design, classroom practices and field instruction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 502": {
+    "subject_code": "FRST",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Tropical Rainforests: Evolution, Biology, Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Evolution and current structure, functions and diversity of moist evergreen and semi-evergreen forests of the humid tropics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 503": {
+    "subject_code": "FRST",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Plant Molecular Biology Laboratory",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Techniques of purification, cloning, sequencing, restriction-hybridization analysis of plant nucleic acids, in-vitro labeling of plant nucleic acids and proteins, and electrophoresis and immunodetection of plant proteins. Offered by the Biotechnology Teaching Laboratory in cooperation with the Department of Forest and Conservation Sciences. Admission to the course is limited and requires recommendation from the department head. Equivalency: PLNT_V 540, BOTA_V 544. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 504": {
+    "subject_code": "FRST",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Landscape Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 505": {
+    "subject_code": "FRST",
+    "course_code": "505",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Forest Science",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 506": {
+    "subject_code": "FRST",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Advanced Forest Pathology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Hereditary, physiological, anatomical, environmental, and microbiological factors influencing forest tree diseases. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 507": {
+    "subject_code": "FRST",
+    "course_code": "507",
+    "credit": "1-6",
+    "course_name": "Topics in Forest Science",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 508": {
+    "subject_code": "FRST",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Advanced Forest Insect Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Role of climate and climate change in the population dynamics, outbreak potentials and resultant impacts to forest ecosystems associated with herbivorous forest insects. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 509": {
+    "subject_code": "FRST",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Advanced Biometrics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Linear model theory and application for observational data and randomized experiments. Multiple linear regression, analysis of variance, and analysis of covariance. Design and analysis of experiments. Prerequisite: One of FRST_V 231, NRES_V 231, BIOL_V 300, or STAT_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 510": {
+    "subject_code": "FRST",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Applied Population Genetics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Equivalency: BIOL_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 512": {
+    "subject_code": "FRST",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Belowground Forest Ecosystems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Review of current literature on specific topics in forest soil ecology, including bacterial endophytes, microbial diversity, nutrient cycling, and mycorrhizae. Students with either APBI_V 412 or CONS_V 412 will not be allowed to take FRST_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 513": {
+    "subject_code": "FRST",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Biotechnology in Tree Improvement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Advanced research topics and their application to forest genetics. Emphasis on molecular genetics and experimental protocols. Prerequisite: BIOL_V 335 or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 515": {
+    "subject_code": "FRST",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Climate Change Communications and Engagement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Psychological, social, and systemic dimensions of climate change communication; approaches for engaging diverse groups for low-carbon futures; overcoming climate inaction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 516": {
+    "subject_code": "FRST",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Tree Physiology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Growth and development of woody plants; physiological responses to abiotic and biotic environmental factors; consequences of silvicultural practices on physiological processes. [3-2] Prerequisite: One of FRST_V 311, BIOL_V 351, APBI_V 351. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 517": {
+    "subject_code": "FRST",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Economics of Forest Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Applying economics to forest and forestland management, including analysis of how government policies and market designs affect forest management outcomes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 518": {
+    "subject_code": "FRST",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Land, Extraction, and The Corporation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Political ecology of resource extraction. History of the extractive corporate form. Theories of land ownership, access, and sovereignty in relation to market forces. Tensions between society, state, and the market. Global approaches to governing extraction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 519": {
+    "subject_code": "FRST",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Forests and Society",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Emphasis on tropical and sub-tropical countries, where the majority of forest-dependent people live. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 520": {
+    "subject_code": "FRST",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Land and Forest Resource Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Applications of advanced theory and quantitative analysis to problems in forest resource and land economics; multiple land use; institutions for sustainable land use; optimal management and policy. [3-0] Equivalency: AGEC_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 521": {
+    "subject_code": "FRST",
+    "course_code": "521",
+    "credit": "1-6",
+    "course_name": "Topics in Forests and Society",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 522": {
+    "subject_code": "FRST",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Social, Community, and Indigenous Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 523": {
+    "subject_code": "FRST",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Forest and Environmental Policy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 524": {
+    "subject_code": "FRST",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Environmental Perception",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Perceptual processes mediating behaviour in humans, with special attention given to the emotional processing of visual stimuli. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 525": {
+    "subject_code": "FRST",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Visualisation Theory and Applications",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 526": {
+    "subject_code": "FRST",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Directed Studies in International Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 527": {
+    "subject_code": "FRST",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "People and Forests: An International Perspective",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Biodiversity loss, deforestation, desertification, salinization, air pollution and climate change facing world forests. Credit will be granted for only one of FRST_V 439 or FRST_V 527. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 528": {
+    "subject_code": "FRST",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Social Science Research Methods for Forestry and Conservation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 529": {
+    "subject_code": "FRST",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Ecological Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Emphasis on forested ecosystems. Prerequisite: ECON_V 301. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 530": {
+    "subject_code": "FRST",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Advanced Modelling Methods for Natural Resources Applications",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Linear, nonlinear, and generalized linear models, including mixed effects versions of each. Examples include applications to forests and other natural environments. Prerequisite: FRST_V 430 or FRST_V 509 This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 531": {
+    "subject_code": "FRST",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Multivariate Statistical Methods",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Multivariate analysis of variance, cluster, principal components, factor, canonical and discriminant analysis. Theory and conceptual background are presented but emphasis is on selection of appropriate analysis and interpretation of results. Examples from forestry and related fields are analysed by computer programs at UBC. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 532": {
+    "subject_code": "FRST",
+    "course_code": "532",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Forest Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 533": {
+    "subject_code": "FRST",
+    "course_code": "533",
+    "credit": "1-6",
+    "course_name": "Problems in Statistical Methods",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Directed studies in problems of advanced statistical techniques as a tool in forest research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 534": {
+    "subject_code": "FRST",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Natural Resources Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 535": {
+    "subject_code": "FRST",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Global Environmental Issues and Forests",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Socio-economic, biological, and technological problems affecting forests and forest-dependent communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 536": {
+    "subject_code": "FRST",
+    "course_code": "536",
+    "credit": "1-6",
+    "course_name": "Advanced Studies in Forest Mensuration",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Development and analysis of forest inventory systems; sequence and patterns of tree growth; analysis of crown development; improvement of stand growth and yield; methods of biomass analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 537": {
+    "subject_code": "FRST",
+    "course_code": "537",
+    "credit": "1-6",
+    "course_name": "Topics in Forest Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 538": {
+    "subject_code": "FRST",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Advanced Geomatics for Natural Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Advanced geospatial technologies are examined and applied to pressing management issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 539": {
+    "subject_code": "FRST",
+    "course_code": "539",
+    "credit": "1-6",
+    "course_name": "Problems in Forest Sampling",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 540": {
+    "subject_code": "FRST",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Application of Operational Research Methods in Forest Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Use of operational research methods in forest planning models; emphasis on algorithms, problem formulation and interpretation of results. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 542": {
+    "subject_code": "FRST",
+    "course_code": "542",
+    "credit": "4",
+    "course_name": "Forest Policy and Law",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 543": {
+    "subject_code": "FRST",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "International Forestry Institutions, Diplomacy and Negotiation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 544": {
+    "subject_code": "FRST",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Technical Communication Skills I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles and practice of oral presentations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 545": {
+    "subject_code": "FRST",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Technical Communication Skills II",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theory and practice of technical communication necessary for preparation of effective scientific reports, reviews, grant proposals, journal articles and theses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 546": {
+    "subject_code": "FRST",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Research Methods and Philosophies in Science",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Lectures and seminars in research philosophies and methods with special emphasis on field and applied research. [3-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 547": {
+    "subject_code": "FRST",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Forestry in British Columbia",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 548": {
+    "subject_code": "FRST",
+    "course_code": "548",
+    "credit": "3-6",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "For non-thesis master's degree programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 549": {
+    "subject_code": "FRST",
+    "course_code": "549",
+    "credit": "6-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 550": {
+    "subject_code": "FRST",
+    "course_code": "550",
+    "credit": "6-18",
+    "course_name": "M.A.Sc. Thesis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 551": {
+    "subject_code": "FRST",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Landscape Planning for Sustainability",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Analysis, perception, planning of landscapes, and integration of social acceptability with sustainability. Credit will be granted for only one of FRST_V 490 or FRST_V 551. Equivalency: LARC_V 542. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 552": {
+    "subject_code": "FRST",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Tropical Forests: Management and Conservation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The use, management, and conservation of tropical and sub-tropical forests. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 553": {
+    "subject_code": "FRST",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "International Forest Governance and Policy",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 554": {
+    "subject_code": "FRST",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Forest Products and Services",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Global trends in products and services. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 555": {
+    "subject_code": "FRST",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Fundamentals of Sustainable Forest Land Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts and principles at the site and landscape scale. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 556": {
+    "subject_code": "FRST",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Land Information Acquisition and Analysis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles and application of data acquisition and use. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 557": {
+    "subject_code": "FRST",
+    "course_code": "557",
+    "credit": "5",
+    "course_name": "Site-Level Forest Land Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Design and implementation of site-level plans that integrate ecological, social, and economic components: silviculture, forest operations, and forest health. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 558": {
+    "subject_code": "FRST",
+    "course_code": "558",
+    "credit": "7",
+    "course_name": "Landscape-Level Forest Land Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Preparation of landscape-level sustainable forest management plans that integrate ecological, social, and economic components. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 559": {
+    "subject_code": "FRST",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Natural Resources Planning",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 560": {
+    "subject_code": "FRST",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Forest Business Enterprise",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 561": {
+    "subject_code": "FRST",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Quantitative Methods in Wildlife Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts and applications of statistical methods for common questions in the ecology, conservation, and monitoring of animal populations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 562": {
+    "subject_code": "FRST",
+    "course_code": "562",
+    "credit": "4",
+    "course_name": "Topics in International Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Contemporary and emerging issues in international forestry. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 575": {
+    "subject_code": "FRST",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Indigenous Ecologies",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Application of Indigenous worldviews and knowledges to ecology. Colonial history of modern ecology, foundations and examples of Indigenous ecologies, restoration applying multiple worldviews, and Indigenized, culturally appropriate ecological research and decision-making processes. Prerequisite: A second-year or higher ecology course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 578": {
+    "subject_code": "FRST",
+    "course_code": "578",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Forest Business and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 580": {
+    "subject_code": "FRST",
+    "course_code": "580",
+    "credit": "1-6",
+    "course_name": "Topics in Forest Business and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 588": {
+    "subject_code": "FRST",
+    "course_code": "588",
+    "credit": "3",
+    "course_name": "Fluvial Ecohydrology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Hydrology, geomorphology and ecology of streams and their catchments; significance of stream processes within the fluvial network; management issues, particularly in the context of forest harvesting. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 590": {
+    "subject_code": "FRST",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Statistical Methods in Hydrology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 592": {
+    "subject_code": "FRST",
+    "course_code": "592",
+    "credit": "3",
+    "course_name": "Hydrological Modelling Applications in Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 593": {
+    "subject_code": "FRST",
+    "course_code": "593",
+    "credit": "3",
+    "course_name": "Climate Adaptation in Socio-Ecological Systems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theory and evolution of adaptation at different scales in organizations and resource management systems, utilizing existing case studies, examining opportunities and barriers to adaptation, considering strategies and practices to manage climate impacts and risks. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 595": {
+    "subject_code": "FRST",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Transformative Environmental Research",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Scholarly foundations of and emerging approaches for engaging creatively and critically in environmental research that recognizes (and potentially addresses) issues of power, difference, and complexity, transforming both the researcher and the research discipline. Prerequisite: Graduate-level standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRST 649": {
+    "subject_code": "FRST",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

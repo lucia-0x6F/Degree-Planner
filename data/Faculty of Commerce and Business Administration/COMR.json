@@ -1,0 +1,162 @@
+{
+  "COMR 100": {
+    "subject_code": "COMR",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An overview of all functional areas of business. Students will be introduced to the computer and internet tools commonly used in business. For non-Commerce students only. Credit will be granted for only one of COMR 100 or COMM 100. Equivalency: COMM 100"
+  },
+  "COMR 186": {
+    "subject_code": "COMR",
+    "course_code": "186",
+    "credit": "1.5-12",
+    "course_name": "Topics in Business I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Equivalency: COMM_V 186. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 280": {
+    "subject_code": "COMR",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Entrepreneurial essentials from creating viable opportunities through building a founding team, strategic planning, going to market, fleshing out an organization and planning the future of the business. Credit will be granted for only one of COMR_V 280 or COMM_V 280. Equivalency: COMM_V 280. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 286": {
+    "subject_code": "COMR",
+    "course_code": "286",
+    "credit": "1.5-12",
+    "course_name": "Topics in Business II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Equivalency: COMM 286"
+  },
+  "COMR 329": {
+    "subject_code": "COMR",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Principles of Organizational Behaviour",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An introductory examination of work organizations and the behaviour of individuals within them. Phenomena to be studied include organizational structure, environments, group processes, motivation and leadership (for non-Commerce students only). Not for students with credit for, or exemption from, COMM_V 192, COMM_V 292, COMM_V 321. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 382": {
+    "subject_code": "COMR",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Economics of Entrepreneurship and Innovation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Fundamental economic issues faced by entrepreneurs who want to commercialize innovations within start-ups and established firms. Credit will be granted for only one of COMR_V 382 or COMM_V 382. Prerequisite: One of ECON_V 101, ECON_V 310. Corequisite: One of COMM_V 280, COMR_V 280. Equivalency: COMM_V 382. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 386": {
+    "subject_code": "COMR",
+    "course_code": "386",
+    "credit": "1.5-12",
+    "course_name": "Topics in Business III",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Prerequisite: One of COMM_V 280, COMR_V 280. Equivalency: COMM_V 386. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 387": {
+    "subject_code": "COMR",
+    "course_code": "387",
+    "credit": "3",
+    "course_name": "Entrepreneurial Finance and Private Equity",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Financial issues encountered by entrepreneurs and those active on the investing side of entrepreneurship, such as working for banks, venture capital firms, or corporate venture organizations, or anyone interacting with entrepreneurs and private equity investors. Credit will be granted for only one of COMR_V 387, COEC_V 387, or COMM_V 387. Corequisite: One of COMM_V 280, COMR_V 280. Equivalency: COEC_V 387, COMM_V 387. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 388": {
+    "subject_code": "COMR",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Design Methods for Business Innovation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Studio-based experience in thinking strategies and design processes applied to business innovation in the private, public, and social sectors. Emphasis on problem solving, co-creation, and innovation for external clients in a collaborative environment. Credit will be granted for only one of COMR_V 388 or COMM_V 388. Prerequisite: One of COMM_V 280, COMR_V 280. Equivalency: COMM_V 388. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 389": {
+    "subject_code": "COMR",
+    "course_code": "389",
+    "credit": "3",
+    "course_name": "Creativity in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The role and importance of creativity in developing successful business solutions. Credit will be granted for only one of COMR_V 389 or COMM_V 389. Prerequisite: One of COMM_V 280, COMR_V 280. Equivalency: COMM_V 389. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 398": {
+    "subject_code": "COMR",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Introduction to Business Processes and Operations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The design and management of systems that efficiently and effectively supply products and services to the end-user. The concepts apply to a variety of settings such as manufacturing, logistics, healthcare, and others (For non-Commerce students only). Not for students with credit for, or exemption from, COMM_V 204 or COMM_V 398. Equivalency: COMM_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 457": {
+    "subject_code": "COMR",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Fundamentals of Financial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Financial accounting for business organizations; principles and problems of accounting measurements; forms of business organizations; financing of businesses. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM_V 293, COMM_V 320. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 458": {
+    "subject_code": "COMR",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Fundamentals of Managerial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Use of accounting data in decision making by businesses; financial statement analysis; cash flows; cost behaviour patterns; methods of accounting for costs. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM_V 294 or COMM_V 458. Prerequisite: One of COMM_V 293, COMR_V 457. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 465": {
+    "subject_code": "COMR",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Marketing Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Basic considerations affecting the domestic and international marketing of goods and services. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM_V 296, COMM_V 420, or COMM_V 465. Corequisite: Either (a) all of ECON_V 101, ECON_V 102 or (b) ECON_V 100 or (c) all of ECON_V 310, ECON_V 311 or (d) all of ECON_V 101, ECON_V 311 or (e) all of ECON_V 102, ECON_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 473": {
+    "subject_code": "COMR",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Business Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to managerial finance, including the role and functioning of financial markets, procurement of funds and financing strategies, dividend policy, capital budgeting and financial analysis and planning. (For non-Commerce students only). Not for students with credit for, or exemption from, COMM_V 298 or COMM_V 421. Prerequisite: Either (a) all of ECON_V 101, ECON_V 102 or (b) ECON_V 100 or (c) all of ECON_V 310, ECON_V 311 or (d) all of ECON_V 101, ECON_V 311 or (e) all of ECON_V 102, ECON_V 310; and one of MATH_V 100, MATH_V 102, MATH_V 104, MATH_V 110, MATH_V 120, MATH_V 180, MATH_V 184. Corequisite: One of COMM_V 293, COMR_V 457. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 482": {
+    "subject_code": "COMR",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "New Product Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "How new products are developed and the factors that influence success and failure throughout the various stages of development. Credit will be granted for only one of COMR_V 482 or COMM_V 482. Prerequisite: One of COMM_V 280, COMR_V 280. Equivalency: COMM_V 482. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 485": {
+    "subject_code": "COMR",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Social Entrepreneurship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An applied course that examines the innovative, growing, and rapidly evolving field of social entrepreneurship, which tackles social and environmental challenges through business perspectives and methods. Credit will be granted for only one of COMR_V 485 or COMM_V 485. Equivalency: COMM_V 485. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 486": {
+    "subject_code": "COMR",
+    "course_code": "486",
+    "credit": "1.5-12",
+    "course_name": "Special Topics in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "How new products are developed and the factors that influence success and failure throughout the various stages of development. Prerequisite: One of COMM_V 280, COMR_V 280. Equivalency: COMM_V 486. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 493": {
+    "subject_code": "COMR",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Strategic Management in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change (For non-Commerce students only in fourth year). Not for students with credit for, or exemption from, COMM_V 491. Prerequisite: One of COMM_V 293, COMR_V 457 and either (a) all of ECON_V 101, ECON_V 102 or (b) all of ECON_V 310, ECON_V 311 or (c) ECON_V 100 or (d) all of ECON_V 101, ECON_V 311 or (e) all of ECON_V 102, ECON_V 310. Corequisite: All of COMR_V 329, COMR_V 465, COMR_V 473. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COMR 497": {
+    "subject_code": "COMR",
+    "course_code": "497",
+    "credit": "3",
+    "course_name": "New Enterprise Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The particular problems and experiences encountered in starting, developing, and managing new enterprises. The course includes lectures, guest speakers, and case studies. Credit will be granted for only one of COMR_V 497, COMM_V 466, COMM_V 497, COEC_V 497, APSC_V 486, or APSC_V 496E. Prerequisite: One of COMM_V 280, COMR_V 280. Corequisite: One of COMM_V 382, COMR_V 382 and one of COMM_V 387, COMR_V 387. Equivalency: COEC_V 497, COMM_V 497. This course is not eligible for Credit/D/Fail grading."
+  }
+}

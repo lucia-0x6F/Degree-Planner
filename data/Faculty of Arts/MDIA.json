@@ -1,0 +1,90 @@
+{
+  "MDIA 100": {
+    "subject_code": "MDIA",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "AI and Media Creation",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of media objects shaped by algorithms, through a balance of foundational concepts and hands-on experimentation. Examines perspectives on aesthetics, the impact of technology on media, and ethics."
+  },
+  "MDIA 150": {
+    "subject_code": "MDIA",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Media Communities",
+    "faculty": "Faculty of Arts",
+    "description": "Media engagement with community partners through data, narrative and visual processes. Prerequisite: Restricted to BMS students with 1st year standing."
+  },
+  "MDIA 270": {
+    "subject_code": "MDIA",
+    "course_code": "270",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in media studies. Not offered every year. Restricted to BMS students."
+  },
+  "MDIA 290": {
+    "subject_code": "MDIA",
+    "course_code": "290",
+    "credit": "3",
+    "course_name": "Collaborative Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Development and practice of media group production processes. Restricted to BMS students with 2nd year standing or above."
+  },
+  "MDIA 299": {
+    "subject_code": "MDIA",
+    "course_code": "299",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of readings and research undertaking topics of media studies, with the agreement, and under the supervision, of a faculty member with relevant expertise. Restricted to BMS students with approval from the Program Chair."
+  },
+  "MDIA 300": {
+    "subject_code": "MDIA",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Approaches to Writing for Media Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary perspectives of thematic topics in contemporary media and related theory with focused attention on writing practices. Restricted to B.M.S. students with third-year standing. Prerequisite: ENGL_V 232."
+  },
+  "MDIA 350": {
+    "subject_code": "MDIA",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Media Environments",
+    "faculty": "Faculty of Arts",
+    "description": "Collaborative planning and activation of media interfaces for stakeholders informed by multidisciplinary approaches. Prerequisite: MDIA_V 290. Restricted to BMS students with 3rd year standing or higher."
+  },
+  "MDIA 450": {
+    "subject_code": "MDIA",
+    "course_code": "450",
+    "credit": "6",
+    "course_name": "Capstone Media Projects",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced media works created in collaboration with community partners for public impact. Prerequisite: MDIA_V 350. Restricted to BMS students with 4th year standing."
+  },
+  "MDIA 470": {
+    "subject_code": "MDIA",
+    "course_code": "470",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in media studies. Not offered every year. Prerequisite: Restricted to students with 3rd year standing or higher."
+  },
+  "MDIA 490": {
+    "subject_code": "MDIA",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Emerging Media Practitioners",
+    "faculty": "Faculty of Arts",
+    "description": "The roles and responsibilities of media producers as agents of transformation, with a focus on the student's own media decisions and artefacts. Prerequisite: MDIA_V 350. Restricted to BMS students with 4th year standing."
+  },
+  "MDIA 499": {
+    "subject_code": "MDIA",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research undertaking topics of media studies, with the agreement and under the supervision, of a faculty member with relevant expertise. Prerequisite: Restricted to BMS students with approval from the Program Chair."
+  }
+}

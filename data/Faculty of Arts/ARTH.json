@@ -1,0 +1,858 @@
+{
+  "ARTH 101": {
+    "subject_code": "ARTH",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Ways of Seeing: Introduction to Visual Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Drawing on examples from across history and around the world, this course deals with the role of the visual in society, culture, and everyday experience."
+  },
+  "ARTH 102": {
+    "subject_code": "ARTH",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "World Art and Architecture Before 1800",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the histories of art and the built environment in a global context."
+  },
+  "ARTH 210": {
+    "subject_code": "ARTH",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Byzantium: Arts of an Empire",
+    "faculty": "Faculty of Arts",
+    "description": "Art, architecture, and material culture of the Byzantine Empire situated in the eastern Mediterranean (c. 300-1453); focus on social and cultural contexts of artistic production, including interactions with neighboring cultures. Credit will only be granted for one of ARTH 210, CNRS 207 or AMNE 279. Equivalency: AMNE 279"
+  },
+  "ARTH 225": {
+    "subject_code": "ARTH",
+    "course_code": "225",
+    "credit": "3",
+    "course_name": "Art, Patrons, and Audiences in the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic study of the relationship between patrons and audiences in painting, sculpture, and architecture through the 15th century."
+  },
+  "ARTH 226": {
+    "subject_code": "ARTH",
+    "course_code": "226",
+    "credit": "3",
+    "course_name": "Art, Colonialism, and Indigeneity",
+    "faculty": "Faculty of Arts",
+    "description": "Tensions and conflicts resulting from the expansion of trade and encounters among cultures, ethnicities, and religious practices, explored in visual art and architecture from the sixteenth century to the advent of the modern era."
+  },
+  "ARTH 227": {
+    "subject_code": "ARTH",
+    "course_code": "227",
+    "credit": "3",
+    "course_name": "What is Modern Art?",
+    "faculty": "Faculty of Arts",
+    "description": "Select issues in 20th-century art and the visual and built environment."
+  },
+  "ARTH 230": {
+    "subject_code": "ARTH",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Art & Feminism(s): Histories, Lineages, Legacies",
+    "faculty": "Faculty of Arts",
+    "description": "Feminist art and visual culture, from the political activism of the feminist first wave to its intersections with present-day social justice movements."
+  },
+  "ARTH 251": {
+    "subject_code": "ARTH",
+    "course_code": "251",
+    "credit": "3",
+    "course_name": "Asian Arts: From Chinese Warriors to Bollywood Posters",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic examination of Asian arts, such as historic, religious, and secular painting and sculpture to contemporary visual culture."
+  },
+  "ARTH 253": {
+    "subject_code": "ARTH",
+    "course_code": "253",
+    "credit": "3",
+    "course_name": "Asian Architecture: Sacred and Urban Spaces",
+    "faculty": "Faculty of Arts",
+    "description": "Select built forms in Asia, such as temples, tombs, palaces, cities and gardens, and their relations to cultural, social and political systems."
+  },
+  "ARTH 261": {
+    "subject_code": "ARTH",
+    "course_code": "261",
+    "credit": "3",
+    "course_name": "Pre-Hispanic Arts of Central and South America",
+    "faculty": "Faculty of Arts",
+    "description": "The relevance of various arts to social institutions in ancient societies of Peru and Mesoamerica."
+  },
+  "ARTH 262": {
+    "subject_code": "ARTH",
+    "course_code": "262",
+    "credit": "3",
+    "course_name": "Indigenous Arts of North America",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the artistic production by Indigenous peoples of North America from pre-contact times to the present."
+  },
+  "ARTH 285": {
+    "subject_code": "ARTH",
+    "course_code": "285",
+    "credit": "3",
+    "course_name": "Art and the Moving Image",
+    "faculty": "Faculty of Arts",
+    "description": "Intersections between visual art and the moving image in both a theoretical and historical context."
+  },
+  "ARTH 297": {
+    "subject_code": "ARTH",
+    "course_code": "297",
+    "credit": "3-6",
+    "course_name": "Special Topics in Art History",
+    "faculty": "Faculty of Arts",
+    "description": "Thematic and issue-based courses in art history. Topics vary year to year."
+  },
+  "ARTH 300": {
+    "subject_code": "ARTH",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Seminar on Methods and Approaches in Art History",
+    "faculty": "Faculty of Arts",
+    "description": "Theories, problems, and literature in the study of art history. Required of all Major and Honours students in art history. Prerequisite: 3 credits of ARTH_V coursework at any level. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 309": {
+    "subject_code": "ARTH",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Arts of Africa and the African Diasporas",
+    "faculty": "Faculty of Arts",
+    "description": "Comparative exploration of art practices and their relationship to colonial and postcolonial histories. Credit will be granted for only one of ARTH_V 309 or AFST_V 309. Equivalency: AFST_V 309."
+  },
+  "ARTH 310": {
+    "subject_code": "ARTH",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Art and the Religious Transformation of the Late Roman Empire",
+    "faculty": "Faculty of Arts",
+    "description": "Visual culture and religious diversity of the Late Roman Empire (2nd-7th c.); social, political, and religious contexts of art, including diverse viewing practices and cultural frameworks. Credit will only be granted for one of ARTH 310, CNRS 333 or AMNE 379. Equivalency: AMNE 379"
+  },
+  "ARTH 311": {
+    "subject_code": "ARTH",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Early Medieval Art",
+    "faculty": "Faculty of Arts",
+    "description": "From pagan adornment to Christian devotion to service of Christian or Islamic rule (AD 500-1000). Art and architecture of the Early Medieval world's diverse and transforming social, political, cultural contexts."
+  },
+  "ARTH 312": {
+    "subject_code": "ARTH",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Medieval Art in the Age of Monasticism",
+    "faculty": "Faculty of Arts",
+    "description": "Art in Europe between 1000 and 1200; the role of monasteries as leading institutions and patrons of art and large-scale architecture."
+  },
+  "ARTH 313": {
+    "subject_code": "ARTH",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Art, Church, Society and their Margins in the Later Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "Diversification of the arts and architecture with the expansion of patronage in late medieval society. Credit will be granted for only one of ARTH_V 313 or ARTH_V 333."
+  },
+  "ARTH 319": {
+    "subject_code": "ARTH",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "The Archaeology of Ancient Iraq and Syria: Babylon and Beyond",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of the archaeology of the ancient Near East, with special emphasis on the civilizations of Mesopotamia, from the appearance of the first cities (c. 3400 BCE) to the end of the Persian period (c. 330 BCE). AMNE 170 recommended as preparation. Credit will only be granted for one of ARTH 319, NEST 319, or AMNE 372 Equivalency: AMNE 372"
+  },
+  "ARTH 320": {
+    "subject_code": "ARTH",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Entangled Worlds: Spain and Colonial Latin America (1500-1700)",
+    "faculty": "Faculty of Arts",
+    "description": "Role of visual art and culture within Catholic Spain and colonial Latin America is surveyed, with emphasis on transculturation from mudejar to mestizaje."
+  },
+  "ARTH 321": {
+    "subject_code": "ARTH",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Public and Private Bodies: Italian Renaissance Art and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Visual art and culture within the social, political, and religious contexts of the Papacy and the city-states ca. 1350-1550 (Siena, Florence, Venice, Mantua)."
+  },
+  "ARTH 322": {
+    "subject_code": "ARTH",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Early Modern Italian Art and Culture (ca. 1550-1700)",
+    "faculty": "Faculty of Arts",
+    "description": "Focus primarily on Rome as the center of artistic, cultural, economic, and religious power in the seventeenth century."
+  },
+  "ARTH 323": {
+    "subject_code": "ARTH",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Heaven and Earth: Renaissance Art and Culture in Northern Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Early Modern painting, sculpture, and the graphic arts from the great devotional triptychs, through the Reformation, to the emergence of a secular art (1400-1600)."
+  },
+  "ARTH 324": {
+    "subject_code": "ARTH",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Urban and Courtly Arts in Early Modern Northern Europe (1600-1700)",
+    "faculty": "Faculty of Arts",
+    "description": "The role of visual art in 17th century court cultures, commercial urban centres, and emergent nation states."
+  },
+  "ARTH 325": {
+    "subject_code": "ARTH",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Ancient Egypt: The Archaeology of the Land of the Pharaohs",
+    "faculty": "Faculty of Arts",
+    "description": "The material remains of the ancient Egyptians from monumental tombs and temples to the artifacts of daily life; the development of Egyptian civilization from the rise of the first rulers to its incorporation into the Roman Empire. Credit will only be granted for one of ARTH 325, NEST 304, or AMNE 371. Equivalency: AMNE 371"
+  },
+  "ARTH 331": {
+    "subject_code": "ARTH",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Greek Art and Architecture",
+    "faculty": "Faculty of Arts",
+    "description": "Visual culture of the ancient Greek world in the second and first millennia BCE, especially from c. 1000 to 30 BCE. Credit will only be granted for one of ARTH 331, CLST 331, or AMNE 376. Equivalency: AMNE 376"
+  },
+  "ARTH 332": {
+    "subject_code": "ARTH",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Roman Art and Architecture",
+    "faculty": "Faculty of Arts",
+    "description": "Visual culture of the ancient Roman world from the 8th century BCE to the 4th century CE. Credit will only be granted for one of ARTH 332, CLST 332, or AMNE 377. Equivalency: AMNE 377"
+  },
+  "ARTH 338": {
+    "subject_code": "ARTH",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "Visual Culture in the Age of Enlightenment and Revolution (1715-1830)",
+    "faculty": "Faculty of Arts",
+    "description": "Art, architecture, and social space in Europe and America: redefining gender, identity and nation in the era of industrialization and political change."
+  },
+  "ARTH 339": {
+    "subject_code": "ARTH",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "19th-Century Art and Social Space",
+    "faculty": "Faculty of Arts",
+    "description": "Ideologies of gender, class, race, ethnicity, and economics in 19th-century European and American visual culture."
+  },
+  "ARTH 340": {
+    "subject_code": "ARTH",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "20th Century Art and Culture: The Triumph and Demise of Modernism",
+    "faculty": "Faculty of Arts",
+    "description": "A critical survey of western art and cultural production from the turn of the century to the development of Pop Art."
+  },
+  "ARTH 341": {
+    "subject_code": "ARTH",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "20th Century Art and Culture: The Postmodern",
+    "faculty": "Faculty of Arts",
+    "description": "A critical examination of international visual art and culture from the 1950s to the present; the role of art in consumerist society and the emergence of postmodernism."
+  },
+  "ARTH 342": {
+    "subject_code": "ARTH",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Latin American Art: Modern and Contemporary",
+    "faculty": "Faculty of Arts",
+    "description": "Analyses of specific works and texts will emphasize visual inventions and meaning in the light of recent theoretical debates"
+  },
+  "ARTH 343": {
+    "subject_code": "ARTH",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Inventing Canada Through Art",
+    "faculty": "Faculty of Arts",
+    "description": "The institutions and art movements that constructed a view to the country now known as Canada, from colonial contact, to Confederation, through the mid-1900s. Emphasis on the significance of locality and situated approaches to understanding the land."
+  },
+  "ARTH 344": {
+    "subject_code": "ARTH",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Contemporary Conversations about Art in Kanata/Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Radical shifts in thinking about Canadian art and culture since the mid-20th century. The art movements, debates, and institutions that contribute to the complexity of artistic approaches to representing Canada today."
+  },
+  "ARTH 345": {
+    "subject_code": "ARTH",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "History of Photography: Archive, Spectacle, Reality",
+    "faculty": "Faculty of Arts",
+    "description": "History and theory of photography, from the competitive context of invention in the 1830s to contemporary uses in social media."
+  },
+  "ARTH 346": {
+    "subject_code": "ARTH",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Architecture in Europe: Building the Fabric of the Modern State (1715-1837)",
+    "faculty": "Faculty of Arts",
+    "description": "The role of architecture within the development of the modern state. A survey of broad cultural dynamics, particular building projects and design careers."
+  },
+  "ARTH 347": {
+    "subject_code": "ARTH",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Architecture in Europe: Modern Paradigms of Design (1837-present)",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of new requirements imposed on architecture by the consolidation of a capitalist economy, industrialization, new technologies and scientific methods."
+  },
+  "ARTH 348": {
+    "subject_code": "ARTH",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Architecture in North America: Colonial Projects and Disruptions (1605-1867)",
+    "faculty": "Faculty of Arts",
+    "description": "The role of architecture in the imposition of European governance within North America; the modification of received conventions in relation to topographical, ethnic-religious and political factors."
+  },
+  "ARTH 349": {
+    "subject_code": "ARTH",
+    "course_code": "349",
+    "credit": "3",
+    "course_name": "Architecture in North America: Independent Design Idioms (1867-present)",
+    "faculty": "Faculty of Arts",
+    "description": "The emergence of a distinctive architecture that superseded British and European agendas; the growth of private and public patronage and the establishment of modern design and practice."
+  },
+  "ARTH 350": {
+    "subject_code": "ARTH",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Grounding the Islamic Image",
+    "faculty": "Faculty of Arts",
+    "description": "Contextualizing the complex language of images in the Islamic world."
+  },
+  "ARTH 351": {
+    "subject_code": "ARTH",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Art and Urban Culture in the Islamic World",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic and comparative study of visual arts and architecture in their urban contexts."
+  },
+  "ARTH 352": {
+    "subject_code": "ARTH",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Historic India: Images, Temples and the Construction of Indian Art History",
+    "faculty": "Faculty of Arts",
+    "description": "North and South Indian art and architecture with an emphasis on Buddhism and Hinduism."
+  },
+  "ARTH 353": {
+    "subject_code": "ARTH",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Nepal and Tibet: Art, Ritual and Performance",
+    "faculty": "Faculty of Arts",
+    "description": "Art of the Himalayan region situated within social and religious practices, festivals, and performances."
+  },
+  "ARTH 354": {
+    "subject_code": "ARTH",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "Mughal India: Art, Architecture and the Spectacle of Empire",
+    "faculty": "Faculty of Arts",
+    "description": "The complex relationship of Mughal imperial architecture and painting with those of the Hindu Rajput courts."
+  },
+  "ARTH 355": {
+    "subject_code": "ARTH",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Modern and Contemporary India: Art in Colonial and Independent India",
+    "faculty": "Faculty of Arts",
+    "description": "The development of a new Indian art during the colonial period and nationalist movement; the construction of India's contemporary visual culture."
+  },
+  "ARTH 357": {
+    "subject_code": "ARTH",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "Chinese Art and Architecture: Patronage and Collecting",
+    "faculty": "Faculty of Arts",
+    "description": "The commission, production, preservation, and transmission of Chinese monuments and artworks focusing on the court and questions of cultural policies."
+  },
+  "ARTH 358": {
+    "subject_code": "ARTH",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "Chinese Art for the Afterlife",
+    "faculty": "Faculty of Arts",
+    "description": "Close analyses of Chinese tomb objects and tombs as spatial constructs in their historical, ritual, and social context."
+  },
+  "ARTH 360": {
+    "subject_code": "ARTH",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Chinese Painting: Word and Image",
+    "faculty": "Faculty of Arts",
+    "description": "Analyses visual narratives and relationships between painting, calligraphy, and poetry in court and literati painting."
+  },
+  "ARTH 361": {
+    "subject_code": "ARTH",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Chinese Modern and Contemporary Art",
+    "faculty": "Faculty of Arts",
+    "description": "Chinese art and its global entanglements from Qing Encounters to the 21st century."
+  },
+  "ARTH 362": {
+    "subject_code": "ARTH",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "Art in Japan: Objects and Spaces",
+    "faculty": "Faculty of Arts",
+    "description": "Changing relationship between art objects and the built environment in the Japanese archipelago, in its social and historical context."
+  },
+  "ARTH 363": {
+    "subject_code": "ARTH",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Art in Japan: The Problem with Painting",
+    "faculty": "Faculty of Arts",
+    "description": "Key debates in the history of painting and its institutionalization."
+  },
+  "ARTH 368": {
+    "subject_code": "ARTH",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Art in Japan: Print Media",
+    "faculty": "Faculty of Arts",
+    "description": "Historical and theoretical questions concerning the development of print media in Japan, from Edo period woodcuts to the advent of digital technologies."
+  },
+  "ARTH 369": {
+    "subject_code": "ARTH",
+    "course_code": "369",
+    "credit": "3",
+    "course_name": "Art in Japan: Modern Visual Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Self and community in the art and visual culture of modern Japan."
+  },
+  "ARTH 370": {
+    "subject_code": "ARTH",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Arts of Mexico's Early Peoples",
+    "faculty": "Faculty of Arts",
+    "description": "Pre-Aztec monumental and portable arts of the Olmec, Zapotec, Teotihuacan and Classic Veracruz peoples."
+  },
+  "ARTH 371": {
+    "subject_code": "ARTH",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Arts of the Aztec period in Mexico.",
+    "faculty": "Faculty of Arts",
+    "description": "Symbolic meanings and political agendas of Aztec architecture, sculpture and manuscript illustration investigated using Spanish accounts."
+  },
+  "ARTH 372": {
+    "subject_code": "ARTH",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Maya Public Ritual Arts",
+    "faculty": "Faculty of Arts",
+    "description": "Architecture, sculpture, costume, and visual productions associated with Maya public ritual, including the ancient ball game and modern cofrada dances."
+  },
+  "ARTH 373": {
+    "subject_code": "ARTH",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Maya Arts of Everyday Life",
+    "faculty": "Faculty of Arts",
+    "description": "Social context and meaning of the Maya's elaborate architecture, sculpture, mural paintings, jewelry, ceramics, figurines, and textiles, ancient and modern, of residences from humble to palatial."
+  },
+  "ARTH 376": {
+    "subject_code": "ARTH",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "Arts of the Northwest Coast Peoples: The North",
+    "faculty": "Faculty of Arts",
+    "description": "The histories, historiography and cultural diversity of the Northern Northwest Coast region; persistence and innovation in the arts in communities, and in cross-cultural and market spheres."
+  },
+  "ARTH 377": {
+    "subject_code": "ARTH",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "Arts of the Northwest Coast Peoples: The South",
+    "faculty": "Faculty of Arts",
+    "description": "The histories, historiography and cultural diversity of the Southern Northwest Coast region; persistence and innovation in the arts in communities, and in cross-cultural and market spheres."
+  },
+  "ARTH 380": {
+    "subject_code": "ARTH",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Art as Technology",
+    "faculty": "Faculty of Arts",
+    "description": "Relationship between artistic practice and media, examined through a history of paradigm shifts in technology."
+  },
+  "ARTH 381": {
+    "subject_code": "ARTH",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "The Artist in the World",
+    "faculty": "Faculty of Arts",
+    "description": "Critical approach to the figure of the artist in art, film and texts, from the Early Modern period to the present."
+  },
+  "ARTH 382": {
+    "subject_code": "ARTH",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Is Art History Queer?",
+    "faculty": "Faculty of Arts",
+    "description": "Issues in the history of art through the lens of queer theory."
+  },
+  "ARTH 383": {
+    "subject_code": "ARTH",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Queer Partnerships in Art & Art-Making",
+    "faculty": "Faculty of Arts",
+    "description": "Diverse forms of human contact and creative collaboration, their effects on art and art-making, and their capacity to challenge conventions of artistic genius as dependent on masculinity, singularity, and heteronormativity. ARTH 382 recommended as preparation."
+  },
+  "ARTH 386": {
+    "subject_code": "ARTH",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Art and Ecologies",
+    "faculty": "Faculty of Arts",
+    "description": "Reparative possibilities of art and art history as ways of sensing and responding to human impact on planetary life."
+  },
+  "ARTH 397": {
+    "subject_code": "ARTH",
+    "course_code": "397",
+    "credit": "3-6",
+    "course_name": "Special Topics in Art History",
+    "faculty": "Faculty of Arts",
+    "description": "Thematic and issue-based courses in art history. Topics vary year to year."
+  },
+  "ARTH 410": {
+    "subject_code": "ARTH",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Seminar in African Art",
+    "faculty": "Faculty of Arts",
+    "description": "Key debates in the art of Africa and the African diaspora. Credit will be granted for only one of AFST_V 410 or ARTH_V 410. Equivalency: AFST_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 429": {
+    "subject_code": "ARTH",
+    "course_code": "429",
+    "credit": "3-6",
+    "course_name": "Seminar in the Art and Archeology of Greece and Rome",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "ARTH 432": {
+    "subject_code": "ARTH",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Seminar in the Art of the Middle Ages",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 432, ARTH_V 431, ARTH_V 433. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 435": {
+    "subject_code": "ARTH",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Seminar in Early Modern: Renaissance",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 436": {
+    "subject_code": "ARTH",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Seminar in Early Modern Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 437": {
+    "subject_code": "ARTH",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Seminar in Early Modern: 17th Century",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 439": {
+    "subject_code": "ARTH",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "Seminar in 18th & 19th-Century Visual Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 439 or ARTH_V 438. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 440": {
+    "subject_code": "ARTH",
+    "course_code": "440",
+    "credit": "3-6",
+    "course_name": "Seminar in Modern and Contemporary Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 442": {
+    "subject_code": "ARTH",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Seminar in Contemporary Latin American Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 443": {
+    "subject_code": "ARTH",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Seminar in Canadian Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 445": {
+    "subject_code": "ARTH",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Seminar in Film and the City",
+    "faculty": "Faculty of Arts",
+    "description": "The complex interrelations between film and the city; dominant urban theories, film technologies and viewing practices and the intersections between them. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 448": {
+    "subject_code": "ARTH",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Seminar in North American Architecture",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 450": {
+    "subject_code": "ARTH",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Seminar in Art in the Islamic World",
+    "faculty": "Faculty of Arts",
+    "description": "Key debates in the field of art and architecture in the Islamic World."
+  },
+  "ARTH 455": {
+    "subject_code": "ARTH",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Seminar in the Art of South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 455, ARTH_V 457, ARTH_V 458. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 458": {
+    "subject_code": "ARTH",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Seminar in Chinese Art",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 458, ARTH_V 451, ARTH_V 452. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 459": {
+    "subject_code": "ARTH",
+    "course_code": "459",
+    "credit": "3",
+    "course_name": "Seminar in Chinese Art",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 459, ARTH_V 451, ARTH_V 452. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 464": {
+    "subject_code": "ARTH",
+    "course_code": "464",
+    "credit": "3",
+    "course_name": "Seminar in Japanese Art",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 464, ARTH_V 453, ARTH_V 454. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 471": {
+    "subject_code": "ARTH",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Seminar in Pre-Hispanic Art",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 471, ARTH_V 463, ARTH_V 465. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 476": {
+    "subject_code": "ARTH",
+    "course_code": "476",
+    "credit": "3",
+    "course_name": "Seminar in North American Indigenous Art",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARTH_V 476, ARTH_V 469. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 479": {
+    "subject_code": "ARTH",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "Seminar in Performance Actions and Approaches",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced performance art practices and research methodologies. Credit will be granted for only one of ARTH_V 479 or VISA_V 479. Equivalency: VISA_V 479. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 480": {
+    "subject_code": "ARTH",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Seminar in Visual and Digital Media Theory",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic examination of key arguments in visual and digital media theory, focusing on developments in lens-based and digital media in relationship to twentieth-century and contemporary artistic practice."
+  },
+  "ARTH 490": {
+    "subject_code": "ARTH",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Art History Internship",
+    "faculty": "Faculty of Arts",
+    "description": "Prequisite: ARTH_V 300 and departmental approval. Interested students may contact the department for details on how to proceed. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 499": {
+    "subject_code": "ARTH",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 531": {
+    "subject_code": "ARTH",
+    "course_code": "531",
+    "credit": "3-6",
+    "course_name": "Studies in Early Medieval Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 533": {
+    "subject_code": "ARTH",
+    "course_code": "533",
+    "credit": "3-6",
+    "course_name": "Studies in Medieval Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 535": {
+    "subject_code": "ARTH",
+    "course_code": "535",
+    "credit": "3-6",
+    "course_name": "Early Modern: Renaissance",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 537": {
+    "subject_code": "ARTH",
+    "course_code": "537",
+    "credit": "3-6",
+    "course_name": "Early Modern: 17th Century",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 539": {
+    "subject_code": "ARTH",
+    "course_code": "539",
+    "credit": "3-6",
+    "course_name": "Studies in 19th-Century Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 540": {
+    "subject_code": "ARTH",
+    "course_code": "540",
+    "credit": "3-6",
+    "course_name": "Studies in 20th Century Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 543": {
+    "subject_code": "ARTH",
+    "course_code": "543",
+    "credit": "3-6",
+    "course_name": "Studies in Canadian Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 548": {
+    "subject_code": "ARTH",
+    "course_code": "548",
+    "credit": "3-6",
+    "course_name": "Studies in Architecture",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 550": {
+    "subject_code": "ARTH",
+    "course_code": "550",
+    "credit": "3-6",
+    "course_name": "Studies in Art in the Islamic World",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 551": {
+    "subject_code": "ARTH",
+    "course_code": "551",
+    "credit": "3-6",
+    "course_name": "Studies in Chinese Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 553": {
+    "subject_code": "ARTH",
+    "course_code": "553",
+    "credit": "3-6",
+    "course_name": "Studies in Japanese Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 555": {
+    "subject_code": "ARTH",
+    "course_code": "555",
+    "credit": "3-6",
+    "course_name": "Studies in South and Southeast Asian Art",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 561": {
+    "subject_code": "ARTH",
+    "course_code": "561",
+    "credit": "3-6",
+    "course_name": "Studies in the Indigenous Arts of the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 571": {
+    "subject_code": "ARTH",
+    "course_code": "571",
+    "credit": "6",
+    "course_name": "The Methodology of Art History",
+    "faculty": "Faculty of Arts",
+    "description": "Required of all art history graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 577": {
+    "subject_code": "ARTH",
+    "course_code": "577",
+    "credit": "3-6",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 597": {
+    "subject_code": "ARTH",
+    "course_code": "597",
+    "credit": "3-6",
+    "course_name": "Special Topics in Art History",
+    "faculty": "Faculty of Arts",
+    "description": "Topics vary year to year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 599": {
+    "subject_code": "ARTH",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTH 649": {
+    "subject_code": "ARTH",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

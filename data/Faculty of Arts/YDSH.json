@@ -1,0 +1,18 @@
+{
+  "YDSH 101": {
+    "subject_code": "YDSH",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Learning Yiddish: Foundations I",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to Yiddish language and culture. Find out more at https://cenes.ubc.ca/courses/"
+  },
+  "YDSH 102": {
+    "subject_code": "YDSH",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Learning Yiddish: Foundations II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of YDSH 101. Yiddish language and culture. Find out more at https://cenes.ubc.ca/courses/"
+  }
+}

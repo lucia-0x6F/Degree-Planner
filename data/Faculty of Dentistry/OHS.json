@@ -1,0 +1,82 @@
+{
+  "OHS 430": {
+    "subject_code": "OHS",
+    "course_code": "430",
+    "credit": "4",
+    "course_name": "Operative Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "The art and science of diagnosing and treating single tooth defects. [0-4.5-0]"
+  },
+  "OHS 431": {
+    "subject_code": "OHS",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Orthodontics",
+    "faculty": "Faculty of Dentistry",
+    "description": "Differential diagnosis, treatment planning, biomechanical principles and clinical treatment. [1-2-0]"
+  },
+  "OHS 432": {
+    "subject_code": "OHS",
+    "course_code": "432",
+    "credit": "4",
+    "course_name": "Pediatric Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "[0-4.5-0; 1-4.5-0]"
+  },
+  "OHS 434": {
+    "subject_code": "OHS",
+    "course_code": "434",
+    "credit": "2",
+    "course_name": "Behavioural Sciences in Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "[1-0-0]"
+  },
+  "OHS 435": {
+    "subject_code": "OHS",
+    "course_code": "435",
+    "credit": "8",
+    "course_name": "Prosthodontics I",
+    "faculty": "Faculty of Dentistry",
+    "description": "The art and science of restoring and replacing teeth and surrounding tissues. [2-5-0; 1-9-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "OHS 440": {
+    "subject_code": "OHS",
+    "course_code": "440",
+    "credit": "2",
+    "course_name": "Advanced Operative Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "The art and science of diagnosing and treating single tooth defects. [0-3-0] Prerequisite: [OHS 430]"
+  },
+  "OHS 441": {
+    "subject_code": "OHS",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Advanced Orthodontics",
+    "faculty": "Faculty of Dentistry",
+    "description": "[1-2-0; 0-3-0]"
+  },
+  "OHS 442": {
+    "subject_code": "OHS",
+    "course_code": "442",
+    "credit": "1",
+    "course_name": "Advanced Pediatric Dentistry",
+    "faculty": "Faculty of Dentistry",
+    "description": "[0-3-0]"
+  },
+  "OHS 444": {
+    "subject_code": "OHS",
+    "course_code": "444",
+    "credit": "4",
+    "course_name": "Practice Management",
+    "faculty": "Faculty of Dentistry",
+    "description": "Ethics, jurisprudence, practice management, intra- and interprofessional relationships. [2-0-0]"
+  },
+  "OHS 445": {
+    "subject_code": "OHS",
+    "course_code": "445",
+    "credit": "8",
+    "course_name": "Prosthodontics II",
+    "faculty": "Faculty of Dentistry",
+    "description": "The art and science of restoring and replacing teeth and surrounding tissues. [1-9-0; 0-12-0]. This course is not eligible for Credit/D/Fail grading."
+  }
+}

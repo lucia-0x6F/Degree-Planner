@@ -1,0 +1,18 @@
+{
+  "ECPS 310": {
+    "subject_code": "ECPS",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "International Development and Human Security",
+    "faculty": "Faculty of Education",
+    "description": "This course supports the acquisition of skills and tools necessary for evidence-based practice in post-conflict and conflict humanitarian and development settings. The course promotes capacity and self-awareness regarding the practical and ethical issues related to various assistance and intervention strategies commonly used in development practice, and students learn the cycle of intervention or project design and impact assessment."
+  },
+  "ECPS 490": {
+    "subject_code": "ECPS",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Directed Study in Educational & Counselling Psychology, and Special Education",
+    "faculty": "Faculty of Education",
+    "description": "Directed investigation of a problem or issue, requiring a written report or alternate mode of reporting or disseminating results of the investigation. This course is not eligible for Credit/D/Fail grading."
+  }
+}

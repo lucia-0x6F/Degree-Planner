@@ -1,0 +1,74 @@
+{
+  "BABS 500": {
+    "subject_code": "BABS",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Applied Business Statistics I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 502": {
+    "subject_code": "BABS",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Forecasting and Time Series Prediction",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Time series forecasting including common smoothing methods and autocorrelation methods; students will work with publicly available data. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 506": {
+    "subject_code": "BABS",
+    "course_code": "506",
+    "credit": "1.5",
+    "course_name": "Analyzing and Modelling Uncertainty",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Probability and models that incorporate uncertainty; working with data and extracting information to provide input for predictive and prescriptive analytic models within the Master of Business Analytics program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 507": {
+    "subject_code": "BABS",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Descriptive and Predictive Business Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Descriptive data analysis and extraction of useful information; predictive analytics and other clustering techniques; use of appropriate software. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 508": {
+    "subject_code": "BABS",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Advanced Predictive Business Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Application of descriptive analytic skills to predictive analytics; using single/multiple regression, logistic regression and Poisson regression use of Discrete Choice Model. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 540": {
+    "subject_code": "BABS",
+    "course_code": "540",
+    "credit": "0.8",
+    "course_name": "Data Analysis and Utlization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 550": {
+    "subject_code": "BABS",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Application of Statistics in Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 580": {
+    "subject_code": "BABS",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Business Statistics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BABS 590": {
+    "subject_code": "BABS",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Business Statistics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

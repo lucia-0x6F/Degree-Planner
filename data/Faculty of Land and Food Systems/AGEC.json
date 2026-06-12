@@ -1,0 +1,18 @@
+{
+  "AGEC 530": {
+    "subject_code": "AGEC",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AGEC 549": {
+    "subject_code": "AGEC",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,458 @@
+{
+  "VISA 101": {
+    "subject_code": "VISA",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "BFA Studio Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to a broad range of contemporary studio practice. Intended for first year Bachelor of Fine Arts VISA students."
+  },
+  "VISA 110": {
+    "subject_code": "VISA",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Foundation Studio: Digital Media",
+    "faculty": "Faculty of Arts",
+    "description": "Foundation instruction in techniques and approaches to digital practice. The nature of digital technologies and their role in contemporary culture will be examined. (This course is open to all UBC students, regardless of prior experience.)"
+  },
+  "VISA 180": {
+    "subject_code": "VISA",
+    "course_code": "180",
+    "credit": "3",
+    "course_name": "Foundation Studio: Approaches to Media",
+    "faculty": "Faculty of Arts",
+    "description": "Drawing, painting, and related media in an introduction to studio practice. (This course is open to all UBC students, regardless of prior experience.)"
+  },
+  "VISA 183": {
+    "subject_code": "VISA",
+    "course_code": "183",
+    "credit": "3",
+    "course_name": "Foundation Studio: Ideas as Practice I",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary art practices, emphasizing the relationship between meanings and materials, art historical contexts and concepts, and non-traditional materials. (This course is open to all UBC students, regardless of prior experience.)"
+  },
+  "VISA 210": {
+    "subject_code": "VISA",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Digital Arts",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of current art practices and issues related to digital technologies and contemporary culture, with an emphasis on the theoretical conceptualization of digital artistic media. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110."
+  },
+  "VISA 220": {
+    "subject_code": "VISA",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Drawing",
+    "faculty": "Faculty of Arts",
+    "description": "Development of skills in drawing including life drawing. Introduction to the development of personal style and concepts. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183."
+  },
+  "VISA 230": {
+    "subject_code": "VISA",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Painting",
+    "faculty": "Faculty of Arts",
+    "description": "Development of a variety of techniques and approaches to painting. Emphasis on developing a strong paint vocabulary as well as acquiring knowledge of historical and contemporary issues in painting. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183."
+  },
+  "VISA 240": {
+    "subject_code": "VISA",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Photography",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to photography techniques and image-making. Emphasis on camera techniques and film and darkroom production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Arts. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183."
+  },
+  "VISA 241": {
+    "subject_code": "VISA",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Digital Photography",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to digital photography image creation in relation to contemporary art. Emphasis on digital camera use, file management, and digital print production. Only one of VISA 240 or VISA 241 may be used toward requirements for Major, Minor, or Honours programs in Visual Arts. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183; or BMS student and VISA 110."
+  },
+  "VISA 250": {
+    "subject_code": "VISA",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Print Media",
+    "faculty": "Faculty of Arts",
+    "description": "Visual print culture, and contemporary and historical technical print practices. Emphasis on hand-drawn intaglio, relief, screen and/or stencil printing, and graphic digital applications. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183."
+  },
+  "VISA 260": {
+    "subject_code": "VISA",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Sculpture",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary sculpture practice and theory. Various sculpture materials and technologies including machinery use. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183."
+  },
+  "VISA 270": {
+    "subject_code": "VISA",
+    "course_code": "270",
+    "credit": "3",
+    "course_name": "Special Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to various aspects of contemporary studio practice. Not offered every year. Prerequisite: A score of 72% or higher in two of VISA 110, VISA 180, VISA 183."
+  },
+  "VISA 280": {
+    "subject_code": "VISA",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Contemporary Art: Ideas as Practice II",
+    "faculty": "Faculty of Arts",
+    "description": "Development and history of contemporary art practice, with a focus on how artists realize and exchange ideas. Intended for second year BFA VISA students. Prerequisite: A score of 72% or higher in VISA 183."
+  },
+  "VISA 310": {
+    "subject_code": "VISA",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Intermediate Digital Arts I",
+    "faculty": "Faculty of Arts",
+    "description": "Exploring issues and topics in interactive digital media and culture through the creation of critical contemporary art. Includes technical instruction with a focus on the development of individual and group projects. Prerequisite: One of VISA 210, VISA 287, FINA 287."
+  },
+  "VISA 311": {
+    "subject_code": "VISA",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Intermediate Digital Arts II",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of issues and topics in digital media and visual culture through the production of contemporary video art. Technical instruction in video manipulation software. Individual and/or group projects. Prerequisite: One of VISA 240, VISA 241."
+  },
+  "VISA 312": {
+    "subject_code": "VISA",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Expanded Visual Media",
+    "faculty": "Faculty of Arts",
+    "description": "Pre- and/or post-production strategies, techniques, and processes for time-based media effects. Credit will only be granted for one of THFL 312 or VISA 312. Prerequisite: One of VISA 241, VISA 210, FIPR 133, FIPR 233. Or B.M.S. students with 3rd year standing. Equivalency: THFL 312."
+  },
+  "VISA 320": {
+    "subject_code": "VISA",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Intermediate Drawing I",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of drawing as a discipline in the context of contemporary art. Emphasis on expanding definitions of the drawing practice while focusing on technical and conceptual development. Prerequisite: One of VISA 220, VISA 281, FINA 281."
+  },
+  "VISA 321": {
+    "subject_code": "VISA",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Intermediate Drawing II",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of drawing as a discipline in the context of contemporary art and theory. Emphasis on self-directed projects in consultation with the instructor. Prerequisite: One of VISA 220, VISA 281, FINA 281."
+  },
+  "VISA 330": {
+    "subject_code": "VISA",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Intermediate Painting I",
+    "faculty": "Faculty of Arts",
+    "description": "Development of techniques and personal style in relation to ideas. History and contemporary issues in painting will be introduced to assist students in conceptualizing their painting practice. Prerequisite: One of VISA 230, VISA 282, FINA 282."
+  },
+  "VISA 331": {
+    "subject_code": "VISA",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Intermediate Painting II",
+    "faculty": "Faculty of Arts",
+    "description": "Further investigation of painting in the context of contemporary art. Emphasis on self directed projects in consultation with the instructor. Prerequisite: One of VISA 230, VISA 282, FINA 282."
+  },
+  "VISA 340": {
+    "subject_code": "VISA",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Intermediate Photography I",
+    "faculty": "Faculty of Arts",
+    "description": "An investigation of approaches to photography and its meaning in the context of contemporary art. The term theme will be determined by the instructor. B & W, colour and digital production. Prerequisite: One of VISA 240, VISA 241."
+  },
+  "VISA 341": {
+    "subject_code": "VISA",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Intermediate Photography II",
+    "faculty": "Faculty of Arts",
+    "description": "An investigation of contemporary photography production and approaches to the constructed image with emphasis on medium and large format camera use and studio lighting techniques. Prerequisite: One of VISA 240, VISA 241."
+  },
+  "VISA 350": {
+    "subject_code": "VISA",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Intermediate Print Media I: Interdisciplinary Approaches to Image Production",
+    "faculty": "Faculty of Arts",
+    "description": "Intaglio and relief print applications (i.e., etching, wood and/or lino cut, and collagraph) in combination with digital and photographic technologies, and drawing; discussion of contemporary and historical visual print culture. Prerequisite: Either (a) VISA 250 or (b) one of VISA 290, VISA 283, VISA 284, FINA 290, FINA 283, FINA 284."
+  },
+  "VISA 351": {
+    "subject_code": "VISA",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Intermediate Print Media II: Interdisciplinary Approaches to Image Production",
+    "faculty": "Faculty of Arts",
+    "description": "Screen printing and other print applications in combination with digital and photographic technologies, and drawing, explored within the context of contemporary art. Prerequisite: Either(a) VISA 250 or (b) one of VISA 283, VISA 284, VISA 290, FINA 283, FINA 284, FINA 290."
+  },
+  "VISA 352": {
+    "subject_code": "VISA",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Intermediate Print Media III: Interdisciplinary Approaches to Image Production",
+    "faculty": "Faculty of Arts",
+    "description": "Lithographic printing; suitable for students interested in drawing and print media interface in context of contemporary art; related digital and photographic technologies employed. Prerequisite: Either (a) one of VISA 220, VISA 250 or (b) one of VISA 281, FINA 281, VISA 283, VISA 284, VISA 290, FINA 283, FINA 284, FINA 290."
+  },
+  "VISA 360": {
+    "subject_code": "VISA",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Intermediate Sculpture I",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of contemporary practices in sculpture and the use of scale. Emphasis on public sculpture. Prerequisite: One of VISA 260, VISA 285, VISA 286, FINA 285, FINA 286."
+  },
+  "VISA 361": {
+    "subject_code": "VISA",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Intermediate Sculpture II",
+    "faculty": "Faculty of Arts",
+    "description": "Development of personal concerns in three-dimensional work. Emphasis on the integration of diverse materials and techniques. Prerequisite: One of VISA 260, VISA 285, VISA 286, FINA 285, FINA 286."
+  },
+  "VISA 370": {
+    "subject_code": "VISA",
+    "course_code": "370",
+    "credit": "3-6",
+    "course_name": "Special Studies I",
+    "faculty": "Faculty of Arts",
+    "description": "Intermediate tutorial. Not offered every year. Prerequisite: 6 credits of 200-level VISA."
+  },
+  "VISA 371": {
+    "subject_code": "VISA",
+    "course_code": "371",
+    "credit": "3-6",
+    "course_name": "Special Studies II",
+    "faculty": "Faculty of Arts",
+    "description": "Intermediate tutorial. Not offered every year. Prerequisite: 6 credits of 200 level VISA"
+  },
+  "VISA 375": {
+    "subject_code": "VISA",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Artists in Society",
+    "faculty": "Faculty of Arts",
+    "description": "Exploring artistic practice through community-engaged partnerships and critical study. Prerequisite: Restricted to students with at least third-year standing, majoring in Visual Art or Art History. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 376": {
+    "subject_code": "VISA",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "Artist Books as Form and Idea",
+    "faculty": "Faculty of Arts",
+    "description": "Approaches to book creation from the perspective of contemporary art and exploration of the artist book as an expansion of both art and books. Prerequisite: 3 credits of any 200-level VISA course."
+  },
+  "VISA 380": {
+    "subject_code": "VISA",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Studio Theory",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar in problems in contemporary art practice and related theory. Preference given to Visual Art students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 381": {
+    "subject_code": "VISA",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Studio Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar in problems in contemporary art practice and related theory. Preference given to Visual Art students. Prerequisite: VISA_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 390": {
+    "subject_code": "VISA",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Performance Art",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar-based studio focusing on performance and actions in the field of contemporary art. Prerequisite: 6 credits of 200-level VISA with an average of at least 72%."
+  },
+  "VISA 401": {
+    "subject_code": "VISA",
+    "course_code": "401",
+    "credit": "3-18",
+    "course_name": "Advanced Open Studio",
+    "faculty": "Faculty of Arts",
+    "description": "Research-based studio with thematic or disciplinary focus. Intended for senior Visual Art undergraduate students. Prerequisite: Three of VISA_V 310, VISA_V 311, VISA_V 320, VISA_V 321, VISA_V 330, VISA_V 331, VISA_V 340, VISA_V 341, VISA_V 350, VISA_V 351, VISA_V 352, VISA_V 360, VISA_V 361, VISA_V 370, VISA_V 375, VISA_V 390. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 410": {
+    "subject_code": "VISA",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Advanced Digital Arts I",
+    "faculty": "Faculty of Arts",
+    "description": "Development of contemporary art works utilizing digital technologies including 3-dimensional applications, spatial, interactive and time-based installations. Focus on student-generated projects, either individual or group. Prerequisite: One of VISA_V 310, VISA_V 311. Plus an additional 3 credits of 300-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 411": {
+    "subject_code": "VISA",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Advanced Digital Arts II: Video",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary practices in video media examined through individual projects and directed study. Prerequisite: One of VISA_V 310, VISA_V 311. Plus an additional 3 credits of 300-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 430": {
+    "subject_code": "VISA",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Advanced Drawing and Painting I",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary studio practice with emphasis on drawing, painting, and related media. Prerequisite: Two of VISA_V 320, VISA_V 321, VISA_V 330, VISA_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 431": {
+    "subject_code": "VISA",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Advanced Drawing and Painting II",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary studio practice with emphasis on drawing, painting, and related media. Prerequisite: Two of VISA_V 320, VISA_V 321, VISA_V 330, VISA_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 440": {
+    "subject_code": "VISA",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Advanced Photography I",
+    "faculty": "Faculty of Arts",
+    "description": "Photography practice in the context of contemporary art. Interdisciplinary connections to other media will be encouraged. Prerequisite: Two of VISA_V 340, VISA_V 341, VISA_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 441": {
+    "subject_code": "VISA",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Advanced Photography II",
+    "faculty": "Faculty of Arts",
+    "description": "The production of self-directed projects investigating photography as art. Focus on integrative approaches including conventional, digital and multi-media. Prerequisite: Two of VISA_V 340, VISA_V 341, VISA_V 440. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 450": {
+    "subject_code": "VISA",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Advanced Print Media and Sculpture I",
+    "faculty": "Faculty of Arts",
+    "description": "Studies in contemporary trends in studio practice and theory. Emphasis on advanced two and three-dimensional work developed out of experimental approaches to sculpture, installation art and print-based media. Prerequisite: One of VISA_V 350, VISA_V 351, VISA_V 360, VISA_V 361. Plus an additional 3 credits of 300-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 451": {
+    "subject_code": "VISA",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Advanced Print Media and Sculpture II",
+    "faculty": "Faculty of Arts",
+    "description": "Further studies in advanced two and three-dimensional work developed out of experimental approaches to sculpture, installation art and print-based media. Prerequisite: One of VISA_V 350, VISA_V 351, VISA_V 360, VISA_V 361. Plus an additional 3 credits of 300-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 469": {
+    "subject_code": "VISA",
+    "course_code": "469",
+    "credit": "3-6",
+    "course_name": "Interdisciplinary Projects",
+    "faculty": "Faculty of Arts",
+    "description": "Group projects and workshops with students majoring in other creative arts. Prerequisite: Permission of instructor. Credit will be granted for only one of VISA_V 469, THTR_V 469, CRWR_V 440, MUSC_V 469. Equivalency: THTR_V 469, CRWR_V 440, MUSC_V 469. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 470": {
+    "subject_code": "VISA",
+    "course_code": "470",
+    "credit": "3-6",
+    "course_name": "Advanced Special Studies I",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced work in contemporary and historical aspects of studio practice. Not offered every year. Prerequisite: 6 credits of 300-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 471": {
+    "subject_code": "VISA",
+    "course_code": "471",
+    "credit": "3-6",
+    "course_name": "Advanced Special Studies II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced work in contemporary and historical aspects of studio practice. Not offered every year. Prerequisite: 6 credits of 300-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 475": {
+    "subject_code": "VISA",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Exhibition Theory and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Exhibition course focusing on current curatorial practices and theories with an emphasis on contemporary visual art with the aim of preparing students to engage in the active organization of a large exhibition. Restricted to 4th year Majors in either VISA or ARTH, or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 479": {
+    "subject_code": "VISA",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "Performance Actions and Approaches",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced performance art practices and research methodologies. Credit will be granted for only one of VISA_V 479 or ARTH_V 479. Equivalency: ARTH_V 479. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 480": {
+    "subject_code": "VISA",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Advanced Seminar I",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in art theory and criticism. Prerequisite: VISA_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 481": {
+    "subject_code": "VISA",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Advanced Seminar II",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in art theory and criticism. Prerequisite: VISA_V 480. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 490": {
+    "subject_code": "VISA",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Advanced Tutorial in Studio I",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced work in contemporary and historical aspects of studio practice. Permission of instructor required. Not offered every year. Prerequisite: 6 credits of 300-level VISA_V and 3 credits of 400-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 491": {
+    "subject_code": "VISA",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Advanced Tutorial in Studio II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced work in contemporary and historical aspects of studio practice. Permission of instructor required. Prerequisite: 6 credits of 300-level VISA_V and 3 credits of 400-level VISA_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 580": {
+    "subject_code": "VISA",
+    "course_code": "580",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "M.F.A. only. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 581": {
+    "subject_code": "VISA",
+    "course_code": "581",
+    "credit": "12",
+    "course_name": "MFA Studio V",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 582": {
+    "subject_code": "VISA",
+    "course_code": "582",
+    "credit": "12",
+    "course_name": "MFA Studio VI",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 583": {
+    "subject_code": "VISA",
+    "course_code": "583",
+    "credit": "3-6",
+    "course_name": "MFA Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VISA 590": {
+    "subject_code": "VISA",
+    "course_code": "590",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Visual Art",
+    "faculty": "Faculty of Arts",
+    "description": "Tutorial work in visual arts and theory arranged by permission with an individual faculty member. Not available to students enrolled in the M.F.A. program in Visual Arts. This course is not eligible for Credit/D/Fail grading."
+  }
+}

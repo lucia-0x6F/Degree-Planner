@@ -1,0 +1,42 @@
+{
+  "CSIS 200": {
+    "subject_code": "CSIS",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Critical Studies in Gender and Sexuality",
+    "faculty": "Faculty of Arts",
+    "description": "Introductory course that emphasizes how sexuality and gender intersect with race, class, ability, and geography. This course is recommended for students who have completed GRSJ_V 101."
+  },
+  "CSIS 300": {
+    "subject_code": "CSIS",
+    "course_code": "300",
+    "credit": "3-6",
+    "course_name": "Critical Engagements in Sexuality Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A multi-disciplinary course that explores the study of sexuality, including lesbian, gay, bisexual, heterosexual, and transgender issues and related topics. This course is recommended for students who have completed CSIS_V 200."
+  },
+  "CSIS 301": {
+    "subject_code": "CSIS",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Critical Engagements in Trans* Studies",
+    "faculty": "Faculty of Arts",
+    "description": "How race, citizenship, gender, sexuality, culture and dis/ability are materially and socially constructed together to give meaning to the category trans*. (Trans*: transgender, transsexual, gender variant and other articulations.) This course is recommended for students who have completed CSIS_V 200."
+  },
+  "CSIS 450": {
+    "subject_code": "CSIS",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Topics in Critical Studies in Sexuality",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic course, which explores current questions and issues in relation to the study of sexuality. Topics may vary from year to year."
+  },
+  "CSIS 490": {
+    "subject_code": "CSIS",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Directed Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Designed to allow a student to develop an individual course of study in a specific area as approved by a faculty member affiliated with the CSIS program."
+  }
+}

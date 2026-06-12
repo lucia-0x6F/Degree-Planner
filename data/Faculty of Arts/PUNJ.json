@@ -1,0 +1,114 @@
+{
+  "PUNJ 100": {
+    "subject_code": "PUNJ",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introductory Punjabi I",
+    "faculty": "Faculty of Arts",
+    "description": "Spoken and written Punjabi. Credit will be granted for only one of PUNJ 100 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 100 for credit."
+  },
+  "PUNJ 101": {
+    "subject_code": "PUNJ",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introductory Punjabi II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PUNJ 100. Credit will be granted for only one of PUNJ 101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 101 for credit. Recommended pre-requisite: PUNJ 100."
+  },
+  "PUNJ 102": {
+    "subject_code": "PUNJ",
+    "course_code": "102",
+    "credit": "6",
+    "course_name": "Introductory Punjabi",
+    "faculty": "Faculty of Arts",
+    "description": "Spoken and written Punjabi. As of 2011W, credit will be granted for only one of PUNJ 100/101 or PUNJ 102. Students who have taken Punjabi 11 in high school cannot take PUNJ 102 for credit."
+  },
+  "PUNJ 200": {
+    "subject_code": "PUNJ",
+    "course_code": "200",
+    "credit": "6",
+    "course_name": "Intermediate Punjabi",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the grammar and introduction to Punjabi literature. As of 2011W, credit will be granted for only one of PUNJ 201/202 or PUNJ 200. Recommended pre-requisites: one of PUNJ 101, PUNJ 102."
+  },
+  "PUNJ 201": {
+    "subject_code": "PUNJ",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Intermediate Punjabi I",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the grammar and introduction to Punjabi literature. Credit will be granted for only one of PUNJ 201 or PUNJ 200. Recommended pre-requisite: PUNJ 101."
+  },
+  "PUNJ 202": {
+    "subject_code": "PUNJ",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Intermediate Punjabi II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PUNJ 201. Credit will be granted for only one of PUNJ 202 or PUNJ 200. Recommended pre-requisite: PUNJ 201."
+  },
+  "PUNJ 205": {
+    "subject_code": "PUNJ",
+    "course_code": "205",
+    "credit": "1",
+    "course_name": "Introduction to the Gurmukhi Script",
+    "faculty": "Faculty of Arts",
+    "description": "The writing system of Punjabi for those with some background in the spoken language. May be taken at the same time as PUNJ 200."
+  },
+  "PUNJ 300": {
+    "subject_code": "PUNJ",
+    "course_code": "300",
+    "credit": "6",
+    "course_name": "Advanced Punjabi",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced grammar and conversation. Major genres of Punjabi literature. As of 2011W, credit will be granted for only one of PUNJ 301/302 or PUNJ 300. Recommended pre-requisites: one of PUNJ 200, PUNJ 202."
+  },
+  "PUNJ 401": {
+    "subject_code": "PUNJ",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Devotional Literature in Punjabi",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis is on reading and written expression. Analytical writing in English and Punjabi required. Recommended pre-requisite: PUNJ 300."
+  },
+  "PUNJ 402": {
+    "subject_code": "PUNJ",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Waris Shah's Hir",
+    "faculty": "Faculty of Arts",
+    "description": "A detailed study of Waris Shah's poetic narration of the story of Hir. Emphasis is on reading and written expression. Analytical writing in English and Punjabi required. Recommended pre-requisite: PUNJ 300."
+  },
+  "PUNJ 403": {
+    "subject_code": "PUNJ",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Modern Punjabi Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Popular and literary works in modern Punjabi, with a focus on short stories and poetry. Emphasis on reading, writing, and vocabulary development. Recommended pre-requisite: PUNJ 300."
+  },
+  "PUNJ 404": {
+    "subject_code": "PUNJ",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "The Punjabi Novel (Advanced Punjabi)",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the modern Punjabi novel to deepen understanding and use of Punjabi, and strengthen analysis in English and Punjabi. Recommended pre-requisite: PUNJ 300."
+  },
+  "PUNJ 457": {
+    "subject_code": "PUNJ",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Punjabi Theatre",
+    "faculty": "Faculty of Arts",
+    "description": "Punjabi-language theatre, with emphasis on Canadian forms. Reading, writing, and performance of plays; examination of history of Punjabi theatre. Recommended pre-requisite: PUNJ 300."
+  },
+  "PUNJ 475": {
+    "subject_code": "PUNJ",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Oral Histories in Punjabi",
+    "faculty": "Faculty of Arts",
+    "description": "Develops students' oral expression and listening comprehension in Punjabi through Community Based Learning. Students engage in oral history collection in the Punjabi-speaking community and develop short video or sound projects. Analytical reading and writing required. Recommended pre-requisite: PUNJ 300."
+  }
+}

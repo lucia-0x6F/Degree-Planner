@@ -1,0 +1,58 @@
+{
+  "ONCO 501": {
+    "subject_code": "ONCO",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Interdisciplinary Research in Oncology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ONCO 502": {
+    "subject_code": "ONCO",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Concepts in Oncology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ONCO 510": {
+    "subject_code": "ONCO",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Seminars in Oncology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ONCO 521": {
+    "subject_code": "ONCO",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Molecular and Cell Biology of Cancer",
+    "faculty": "Faculty of Medicine",
+    "description": "Focuses on molecular and cell biology of cancer through a series of lectures, reviews, student presentations and discussion. Recommended prerequisites: One of BIOL_V 234, BIOL_V 335, BIOC_V 303, MEDG_V 421. [3-0]. Equivalency: PATH_V 531 and MEDG_V 521. Credit will be granted for only one of MEDG_V 521, ONCO_V 521 or PATH_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ONCO 548": {
+    "subject_code": "ONCO",
+    "course_code": "548",
+    "credit": "3-9",
+    "course_name": "Oncology Rotation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ONCO 549": {
+    "subject_code": "ONCO",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "Master of Science Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ONCO 649": {
+    "subject_code": "ONCO",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

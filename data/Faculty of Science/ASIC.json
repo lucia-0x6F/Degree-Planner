@@ -1,0 +1,18 @@
+{
+  "ASIC 200": {
+    "subject_code": "ASIC",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Global Issues in the Arts and Sciences",
+    "faculty": "Faculty of Science",
+    "description": "Selected global issues explored through the methodologies and perspectives of both the physical and life sciences and the humanities and social sciences. [3-0-0] Prerequisite: Second year standing in the Faculty of Arts or Faculty of Science."
+  },
+  "ASIC 220": {
+    "subject_code": "ASIC",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Introduction to Sustainability",
+    "faculty": "Faculty of Science",
+    "description": "Sustainability examined from scientific, economic, and societal perspectives. [3-0-0] Prerequisite: Second-year standing."
+  }
+}

@@ -1,0 +1,826 @@
+{
+  "GEOG 121": {
+    "subject_code": "GEOG",
+    "course_code": "121",
+    "credit": "3",
+    "course_name": "Geography, Environment and Globalization",
+    "faculty": "Faculty of Arts",
+    "description": "Human geography of the modern world with particular attention to human-environment relationships, urbanization, and regional growth; trade and communications; environment and war; environmental governance and sustainability."
+  },
+  "GEOG 122": {
+    "subject_code": "GEOG",
+    "course_code": "122",
+    "credit": "3",
+    "course_name": "Geography, Modernity and Globalization",
+    "faculty": "Faculty of Arts",
+    "description": "The human geography of the modern world since 1945: global interdependence in economic geography, geopolitics, and cultural geography; consequences of modernization, including demography, urbanization and environmental effects; regional case studies; reactions to modernization."
+  },
+  "GEOG 202": {
+    "subject_code": "GEOG",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Climate Emergency",
+    "faculty": "Faculty of Arts",
+    "description": "Science, impacts, and parallel crises of the climate emergency; decarbonization challenge and measuring progress towards emission targets; strategies and tools for climate action at local, national, and global levels. Credit will only be granted for one of GEOG 202 or ENST 202. Recommended: Second-year standing. Equivalency: ENST 202"
+  },
+  "GEOG 210": {
+    "subject_code": "GEOG",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Vancouver and Its Region",
+    "faculty": "Faculty of Arts",
+    "description": "An integrated approach to the physical and human geography of the Lower Mainland of British Columbia. Field trips."
+  },
+  "GEOG 211": {
+    "subject_code": "GEOG",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "The State of the Earth",
+    "faculty": "Faculty of Arts",
+    "description": "The demographic, economic, ecological, and technological factors that underlie current environmental challenges, considering their effects to date and their possible impact in the future. Credit will only be granted for one of GEOG 211 or ENST 211. Recommended: Second-year standing. Equivalency: ENST 211"
+  },
+  "GEOG 220": {
+    "subject_code": "GEOG",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Geopolitics",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the political geographic perspectives on today's interdependent world through three themes: borders, regions, and flows."
+  },
+  "GEOG 250": {
+    "subject_code": "GEOG",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Cities",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary introduction to the city in the context of contemporary globalization. Analysis of urban patterns and processes from the theoretical perspectives of various disciplines and methodologies. Credit will be granted for only one of GEOG_V 250 or URST_V 200. Equivalency: URST_V 200."
+  },
+  "GEOG 257": {
+    "subject_code": "GEOG",
+    "course_code": "257",
+    "credit": "3",
+    "course_name": "People, Places & Landscapes",
+    "faculty": "Faculty of Arts",
+    "description": "Relationships among individuals, social groups, and place, with a focus on everyday spaces. Examines how social identities are intertwined with the places we live."
+  },
+  "GEOG 281": {
+    "subject_code": "GEOG",
+    "course_code": "281",
+    "credit": "3",
+    "course_name": "Geography of the Pacific Rim",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to changing geographies (social, economic, and political) of the Pacific Rim, with special emphasis on the relationships between Canada and Japan."
+  },
+  "GEOG 290": {
+    "subject_code": "GEOG",
+    "course_code": "290",
+    "credit": "3",
+    "course_name": "Introduction to the Geography of Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in human geography focusing on the regional distribution of natural resources, population, urban systems, and economic activities."
+  },
+  "GEOG 302": {
+    "subject_code": "GEOG",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Climate Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts and debates in the interdisciplinary field and practice of climate justice; the role of systemic processes and patterns underlying climate change and climate injustices. Credit will only be granted for one of GEOG 302 or ENST 302. Recommended: Second-year standing. Equivalency: ENST 302"
+  },
+  "GEOG 310": {
+    "subject_code": "GEOG",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Environment and Sustainability",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts of environment, resources and sustainability; the roles of physical and human geography in understanding the interaction of humans and the environment; introduction to management of environment-resource systems. Credit will be granted for only one of GEOG 310 or ENST 310. Equivalency: ENST310"
+  },
+  "GEOG 311": {
+    "subject_code": "GEOG",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Urban Environments",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of urban development on the natural environment and vice versa. Study of the ecology and metabolism of cities and green urban design, using global and local case studies. Credit will be granted for only one of GEOG 311 or ENST 311. Equivalency: ENST311"
+  },
+  "GEOG 312": {
+    "subject_code": "GEOG",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Climate Change: Science and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Climates over the geological, historical and instrument periods. Theories of climatic change. Monitoring and modelling the climate system. Impacts of change on environmental and socio-economic systems. Credit will be granted for only one of GEOG 312 or ENST 312. Recommended pre-requisites: one of GEOS 102, GEOB 102, GEOS 200, GEOB 200, GEOS 204, GEOB 204, ATSC 201, EOSC 112. Third-year standing. Equivalency: ENST312"
+  },
+  "GEOG 313": {
+    "subject_code": "GEOG",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Environmental Justice and Social Change",
+    "faculty": "Faculty of Arts",
+    "description": "Economic, social, political and cultural structures and institutions that shape contemporary socioecological challenges. Credit will be granted for only one of GEOG_V 313 or ENST_V 313. Recommended pre-requisite: GEOG_V 121. Equivalency: ENST_V 313 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 314": {
+    "subject_code": "GEOG",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Analysing Environmental Problems",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts and techniques employed in environmental research; challenges in the areas of climate change, water use, knowledge translation and natural hazards. Credit will be granted for only one of GEOG_V 314 or ENST_V 314. Restricted to students with at least third-year standing. Prerequisite: One of GEOG_V 211, GEOB_V 102, GEOB_V 103, GEOS_V 102, GEOS_V 103, EOSC_V 110 or EOSC_V 112. Equivalency: ENST_V 314. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 315": {
+    "subject_code": "GEOG",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Human and Environmental Geography Field Course",
+    "faculty": "Faculty of Arts",
+    "description": "Engage in primary field-based research in British Columbia on important issues concerning intercultural understanding, engagement with local communities and sustainability. Focus will shift on a bi-annual basis in accordance with location and available community partners. Special fees and liability insurance are required. Third year standing is recommended. Prerequisite: Permission of the instructor."
+  },
+  "GEOG 316": {
+    "subject_code": "GEOG",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Geography of Natural Hazards",
+    "faculty": "Faculty of Arts",
+    "description": "The role of geophysical events, human ecology, environmental perception, world social and political order in explaining the risk of natural disasters. Assessment of acceptable risk, disaster relief and reconstruction and contrasts between developed and developing nations. Credit will only be granted for one of GEOG 316 or ENST 316. Recommended pre-requisites: one of GEOB 102, GEOS 102 and one of GEOB 103, GEOS 103. Equivalency: ENST 316"
+  },
+  "GEOG 318": {
+    "subject_code": "GEOG",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Sustainability in a Changing Environment",
+    "faculty": "Faculty of Arts",
+    "description": "Biophysical and human causes of short- and long-term environmental change at various spatial scales, including measurement, interpretation, and policy. Credit will only be granted for one of GEOG 318 or ENST 318. Recommended pre-requisite: GEOG 310. Equivalency: ENST 318"
+  },
+  "GEOG 319": {
+    "subject_code": "GEOG",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Environmental Impact Assessment",
+    "faculty": "Faculty of Arts",
+    "description": "The principles, implementation, and role of environmental impact assessment in environmental management, in Canada and internationally. Credit will be granted for only one of GEOG 319 or ENST 319. Equivalency: ENST319"
+  },
+  "GEOG 321": {
+    "subject_code": "GEOG",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Historical Geography of Urbanization: Cities, Space, and Power",
+    "faculty": "Faculty of Arts",
+    "description": "From the origins of urbanism to the modern era."
+  },
+  "GEOG 327": {
+    "subject_code": "GEOG",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Creating Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Canada from the beginning of European contact to the mid-19th century, stressing the changing geographical patterns of settlement, economy, and culture."
+  },
+  "GEOG 328": {
+    "subject_code": "GEOG",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Constructing Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The construction of Canadian political space after Confederation, aboriginal-newcomer relations, regional development and conflict, industrialization, urbanization, and war."
+  },
+  "GEOG 329": {
+    "subject_code": "GEOG",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Political Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Review of political geography and geopolitics; relations among space, power and politics; cases from current global affairs."
+  },
+  "GEOG 342": {
+    "subject_code": "GEOG",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Post- and Anti-colonial Geographies",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of some key postcolonia and anticolonial theories to engage with questions of geographical difference, uneven development, and the politics of knowledge production at the global scale."
+  },
+  "GEOG 345": {
+    "subject_code": "GEOG",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Theory and Practice in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "A consideration of major intellectual issues and debates in the development of contemporary human geography, in relation to developments in other fields and changes in politics, culture and society."
+  },
+  "GEOG 346": {
+    "subject_code": "GEOG",
+    "course_code": "346",
+    "credit": "3-6",
+    "course_name": "Topics in Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the departmental website or contact the Geography undergraduate advisor for details."
+  },
+  "GEOG 350": {
+    "subject_code": "GEOG",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Urban Worlds",
+    "faculty": "Faculty of Arts",
+    "description": "City systems and theories of urban location; internal spatial structure of the city; commercial and industrial location; social areas; neighbourhood and land use change; urban trends and public policy."
+  },
+  "GEOG 351": {
+    "subject_code": "GEOG",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Urban Environmental Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Effects of urbanization and global environmental change on the geographies of cities across the world. Specific focus on urban environmental justice and inequality. Credit will be granted for only one of GEOG 351 or ENST 351. Equivalency: ENST351"
+  },
+  "GEOG 352": {
+    "subject_code": "GEOG",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Urbanization in the Global South",
+    "faculty": "Faculty of Arts",
+    "description": "The role of cities in development and global capital circulation, and urban politics with emphasis on regions in Latin America, Africa, and Asia. Credit will be granted for only one of GEOG 352 or URST 352. Equivalency: URST 352"
+  },
+  "GEOG 353": {
+    "subject_code": "GEOG",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Geographies of Migration and Settlement",
+    "faculty": "Faculty of Arts",
+    "description": "International regimes regulating migration, changes in global demographics, immigration policies of nation states, international migration patterns, settlement policies and outcomes."
+  },
+  "GEOG 355": {
+    "subject_code": "GEOG",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Geographies of Urban Indigeneity",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the geographies of urban Indigenous communities in settler colonial contexts, with a focus on urban Indigenous communities within Canadian cities."
+  },
+  "GEOG 357": {
+    "subject_code": "GEOG",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "Society, Culture & Space",
+    "faculty": "Faculty of Arts",
+    "description": "The development of social and behavioural geography, focusing on how places, landscapes, and environments both reflect and shape social life. Third year standing is recommended."
+  },
+  "GEOG 361": {
+    "subject_code": "GEOG",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Critical Geographies of the Economy",
+    "faculty": "Faculty of Arts",
+    "description": "History and methods of economic geography. Location of resource industries, manufacturing, and service activities with emphasis on British Columbia in its North American and world setting. Recommended for students with no previous exposure to geographies of the economy, before taking other courses in the 36x and 46x series. Recommended pre-requisite: GEOG 122."
+  },
+  "GEOG 362": {
+    "subject_code": "GEOG",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "Geography of Economic Development",
+    "faculty": "Faculty of Arts",
+    "description": "Geographical approaches to economic development; models of economic development and spatial change; influences on spatial economic change; case studies from the developed, third, and socialist worlds. Recommended pre-requisites: either (a) GEOG 122 or (b) GEOG 260."
+  },
+  "GEOG 364": {
+    "subject_code": "GEOG",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "Globalization, Cities, and Regions",
+    "faculty": "Faculty of Arts",
+    "description": "Forms of economic development; changing location of economic activities and functions; implications for government and politics; local strategies for growth and equity. Recommended pre-requisites: one of GEOG 121, GEOG 122."
+  },
+  "GEOG 371": {
+    "subject_code": "GEOG",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Research Strategies in Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Formulating a research problem and selecting an appropriate research strategy. Research strategies range from social scientific survey methods to ethnography. Priority enrolment for honours and major students in Geography. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 374": {
+    "subject_code": "GEOG",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Statistics in Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to statistical techniques and their application to geographical problems. Priority enrolment for honours and major students in Geography. Consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…."
+  },
+  "GEOG 379": {
+    "subject_code": "GEOG",
+    "course_code": "379",
+    "credit": "3-6",
+    "course_name": "Field Course in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "As announced by the department a year in advance."
+  },
+  "GEOG 380": {
+    "subject_code": "GEOG",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Geography of Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative regional analysis stressing the historical development and changing cultural, economic, and political patterns of the area. Special reference to India, Indonesia, China, and Japan."
+  },
+  "GEOG 390": {
+    "subject_code": "GEOG",
+    "course_code": "390",
+    "credit": "3-6",
+    "course_name": "Geography of Selected Regions",
+    "faculty": "Faculty of Arts",
+    "description": "A geographical analysis of selected regions not regularly included in the Department's offerings in regional geography (e.g., tropical Africa, Oceania). Students should consult the Department regarding regions to be covered."
+  },
+  "GEOG 391": {
+    "subject_code": "GEOG",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Cities, Places, and Borders in Modern Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Present-day human geography of the cities and regions of Europe. Restricted to students with at least second-year standing."
+  },
+  "GEOG 395": {
+    "subject_code": "GEOG",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Culture, Nature, and Coloniality in Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "Socio-ecologies in 1491; Spanish colonialism and biological imperialism; contemporary coloniality and neoliberalism; and social movements."
+  },
+  "GEOG 396": {
+    "subject_code": "GEOG",
+    "course_code": "396",
+    "credit": "3",
+    "course_name": "Geography of Africa",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative regional analysis of Africa with a focus on contemporary environmental and development issues. Credit will be allowed for only one of GEOG_V 396 or GEOG_V 496. Equivalency: GEOG_V 496. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 397": {
+    "subject_code": "GEOG",
+    "course_code": "397",
+    "credit": "3",
+    "course_name": "The Arctic",
+    "faculty": "Faculty of Arts",
+    "description": "Physical and biological characteristics of the circumpolar Arctic, emphasizing terrestrial environments and the impacts on and by humans, including: glacial history; climatology; biogeography/ecology of arctic tundra; human-environment interactions, settlement and exploration; and current environmental, social and economic problems. Restricted to students with second-year standing or higher. Credit will only be granted for one of GEOG_V 397 or GEOG_V 497."
+  },
+  "GEOG 402": {
+    "subject_code": "GEOG",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Climate Studies and Action Capstone",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the departmental website or contact the instructor for details. Restricted to Certificate of Climate Studies and Action students. Credit will only be granted for one of GEOG_V 402 or ENVR_V 402. Prerequisite: ENVR_V 401. Equivalency: ENVR_V 402 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 410": {
+    "subject_code": "GEOG",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Environment and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Geographical analysis of society-environment relations. Relates resource management to environmental politics, political economy, and sustainable development. Perspectives drawn from political ecology and political economy, environmental history and environmental philosophy. It is recommended students complete GEOG_V 310 before enrolling in this course. Registration is restricted to students enrolled in any program of study offered by the Department of Geography or permission of instructor. Credit will only be granted for one of GEOG_V 410 or ENST_V 410. Equivalency: ENST_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 411": {
+    "subject_code": "GEOG",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Dynamics of Agriculture and the Global Environment",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary geographies of global agriculture and food production systems in relation to global environmental change and crisis. Restricted to students with 3rd year standing or higher (or permission of instructor)."
+  },
+  "GEOG 412": {
+    "subject_code": "GEOG",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Water Management: Theory, Policy, and Practice.",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary analysis of critical water issues, in Canada and internationally. Focus on social science perspectives. Emphasis on presentation, research, and essay-writing skills. Credit will only be granted for one of GEOG_V 412 or ENST_V 412. Prerequisite: GEOG_V 310. Equivalency: ENST_V 412. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 419": {
+    "subject_code": "GEOG",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Research in Environmental Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Details available from Geography Undergraduate Advisor. Not necessarily offered each year. Registration is restricted to Major or Honours in Geography with at least 75 credits, or permission of instructor. Recommended: GEOG 313 and 314. Credit will only be granted for one of GEOG 419 or ENST 419. Equivalency: ENST 419"
+  },
+  "GEOG 423": {
+    "subject_code": "GEOG",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Development of Environmental Thought",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of how attitudes toward human nature and non-human nature have changed from Mesolithic times to the present in Western society. Credit will only be granted for one of GEOG 423 or ENST 423. Equivalency: ENST 423."
+  },
+  "GEOG 424": {
+    "subject_code": "GEOG",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Feminist Geographies",
+    "faculty": "Faculty of Arts",
+    "description": "An introductory survey of contemporary feminist approaches to human geography."
+  },
+  "GEOG 426": {
+    "subject_code": "GEOG",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Historical Geography of British Columbia, I",
+    "faculty": "Faculty of Arts",
+    "description": "Colonialism, resistance, and land use in early British Columbia. Prerequisite: GEOG 327 and GEOG 328 are recommended."
+  },
+  "GEOG 429": {
+    "subject_code": "GEOG",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Research in Historical Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Details available from Geography Undergraduate Advisor. Not necessarily offered each year. Recommended: Major or Honours in Geography with at least 75 credits."
+  },
+  "GEOG 432": {
+    "subject_code": "GEOG",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Radical Traditions of Decolonization and Liberation",
+    "faculty": "Faculty of Arts",
+    "description": "Decolonial theory and practice through an examination of critical Indigenous and critical race scholarship and activism. Prerequisite: Restricted to students with 3rd year standing or higher. GEOG 121, or equivalent, is strongly recommended for students with 3rd year standing."
+  },
+  "GEOG 442": {
+    "subject_code": "GEOG",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Student Directed Seminar in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Self-directed, collaborative studies in human geography, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment, and delivery methods will comply with the Handbook for Student Directed Seminars. Credit will be granted for only one of GEOG 442 or GEOG 443. Prerequisite: Third-year standing in human geography. Equivalency: GEOG 443"
+  },
+  "GEOG 446": {
+    "subject_code": "GEOG",
+    "course_code": "446",
+    "credit": "3",
+    "course_name": "Topics in Geography",
+    "faculty": "Faculty of Arts",
+    "description": "See the departmental undergraduate advisor for details."
+  },
+  "GEOG 447": {
+    "subject_code": "GEOG",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Directed Studies: Off Campus Research",
+    "faculty": "Faculty of Arts",
+    "description": "Based on project work outside the university, on a topic to be agreed upon by the supervising faculty member and the student. Prerequisite: Open to upper-level students enrolled in the Geography Majors or Honours programs. Permission of the Undergraduate Advisor and supervising faculty member is required."
+  },
+  "GEOG 448": {
+    "subject_code": "GEOG",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Directed Studies in Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of a topic to be agreed upon by the supervising faculty member and the student. Prerequisite: Open to upper-level students enrolled in the Geography Majors or Honours programs. Permission of the Undergraduate Advisor and supervising faculty member is required."
+  },
+  "GEOG 450": {
+    "subject_code": "GEOG",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Urban Research",
+    "faculty": "Faculty of Arts",
+    "description": "Historical, legal, and quantitative analysis of urban research. Emphasis on spatial, racial, and political dynamics of urban inequality. Credit will be granted for only one of GEOG 450 or URST 450. Prerequisite: Fourth-year standing. Equivalency: URST 450"
+  },
+  "GEOG 451": {
+    "subject_code": "GEOG",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Urban Studies Capstone I",
+    "faculty": "Faculty of Arts",
+    "description": "Formulation of key elements of urban studies theory, concepts, and methods to a community-engaged urban challenge. Credit will be granted for only one of GEOG 451 or URST 451. Prerequisite: One of GEOG 250, URST 200 and all of PLAN 211, PLAN 231, GEOG 371. Equivalency: URST 451"
+  },
+  "GEOG 453": {
+    "subject_code": "GEOG",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Political Geographic Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Political organization of space; territorial and spatial patterns of power and identity; contemporary geopolitical struggles. Prerequisite: At least third-year standing."
+  },
+  "GEOG 456": {
+    "subject_code": "GEOG",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Film and the City",
+    "faculty": "Faculty of Arts",
+    "description": "The complex interrelations between film and the city; dominant urban theories, film technologies and viewing practices and the intersections between them. Credit will be granted for only one of GEOG_V 456, FINA_V 445, or ARTH_V 445."
+  },
+  "GEOG 457": {
+    "subject_code": "GEOG",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Social and Behavioural Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Theories of social change in the global city; labour markets; poverty and inequality; social polarization; housing markets; gentrification and housing affordability; immigration and segregation; diversity and multiculturalism; transnationalism; the entrepreneurial state; the convivial city. Recommended pre-requisites: One of GEOG_V 350, GEOG_V 357. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 461": {
+    "subject_code": "GEOG",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Urban Political Economy",
+    "faculty": "Faculty of Arts",
+    "description": "Principal theories and debates in urban political economy and political-economic geography, with particular emphasis on global transformations."
+  },
+  "GEOG 462": {
+    "subject_code": "GEOG",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Political Economy of Capitalism and Racism",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the geographical and historical relationship between capitalism and racism through the perspective of the Black experience and the global African Diaspora, from the era of New World slavery to the present. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 481": {
+    "subject_code": "GEOG",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Geography of Japan",
+    "faculty": "Faculty of Arts",
+    "description": "A critical analysis of significant human adaptations to changing ecological conditions in the Japanese archipelago."
+  },
+  "GEOG 484": {
+    "subject_code": "GEOG",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "Geography of Southeast Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A critical analysis of significant features of political, economic, and cultural development in the region from pre-colonial times to the present."
+  },
+  "GEOG 485": {
+    "subject_code": "GEOG",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Geography of China",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the changing cultural, social and economic geography of China."
+  },
+  "GEOG 491": {
+    "subject_code": "GEOG",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Global Ocean: Geography, Sustainability, and Governance",
+    "faculty": "Faculty of Arts",
+    "description": "Maritime issues and ocean governance from a geographical perspective. Uses political geography and political ecology approaches to examine conflicts and propose initiatives to promote ocean sustainability and social inclusion."
+  },
+  "GEOG 492": {
+    "subject_code": "GEOG",
+    "course_code": "492",
+    "credit": "3",
+    "course_name": "Oceanic Geographies: Movement, Materiality, and Mobility",
+    "faculty": "Faculty of Arts",
+    "description": "Moves beyond continental landmasses to consider global oceanic connections, mobility and materiality, and seascape epistemologies or ways of knowing through a cultural, social and historical geographies perspective. Restricted to students with third-year standing or above."
+  },
+  "GEOG 493": {
+    "subject_code": "GEOG",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Contemporary Europe: Identity and Geopolitics",
+    "faculty": "Faculty of Arts",
+    "description": "Political, economic, and social geographies of post Cold War Europe with a special emphasis on east-central Europe: societal transformations in the formerly socialist states; European Union and NATO enlargement; the external relations of these two organizations. Restricted to students with at least second-year standing."
+  },
+  "GEOG 495": {
+    "subject_code": "GEOG",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Geographies of Social Movements in the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "The politics of North-South solidarity in theory and practice through community service learning models. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 496": {
+    "subject_code": "GEOG",
+    "course_code": "496",
+    "credit": "3",
+    "course_name": "Geography of Africa",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative regional analysis of Africa with a focus on contemporary environmental and development issues. Credit will be allowed for only one of GEOG_V 396 or GEOG_V 496. Equivalency: GEOG_V 396."
+  },
+  "GEOG 498": {
+    "subject_code": "GEOG",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Geographies of the Middle East",
+    "faculty": "Faculty of Arts",
+    "description": "Critical analysis of economic, social, and political development and processes defining the modern Middle East region."
+  },
+  "GEOG 514": {
+    "subject_code": "GEOG",
+    "course_code": "514",
+    "credit": "1-6",
+    "course_name": "Topics in Environmental Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 516": {
+    "subject_code": "GEOG",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Perspectives on the Anthropocene",
+    "faculty": "Faculty of Arts",
+    "description": "Transdisciplinary (holistic and problem-oriented) approach to the Anthropocene as an integrative lens for studying contemporary socio-ecological crises. Critical and embodied understandings of human-environment relations oriented to collaborative and public scholarship that addresses current crises. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 517": {
+    "subject_code": "GEOG",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Environmental Sustainability",
+    "faculty": "Faculty of Arts",
+    "description": "Environmental sustainability is examined through conceptual literature and empirical examples. Emphasis on resources and livelihoods in the South and North. Case studies are used to discuss sustainable development, and the distribution of costs and benefits associated with resources allocation, with perspectives drawn from political ecology and economy, environmental history and philosophy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 519": {
+    "subject_code": "GEOG",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Environment, Development and Security",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of environment-development-security linkages in relation to livelihoods and conflicts in poor countries, with a focus on Africa. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 520": {
+    "subject_code": "GEOG",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Themes and Interpretive Issues in Modern Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Themes and interpretive issues in modern human geography. Students from outside Geography require the permission of the Head of the department. Restricted to M.A. GEOG, M.Sc. GEOG, or Ph.D. GEOG. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 521": {
+    "subject_code": "GEOG",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Philosophy, Social Theory, and Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 522": {
+    "subject_code": "GEOG",
+    "course_code": "522",
+    "credit": "1-3",
+    "course_name": "Feminism and Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Feminist critiques of the discipline of geography and feminist reconstructions of geography. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 523": {
+    "subject_code": "GEOG",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 524": {
+    "subject_code": "GEOG",
+    "course_code": "524",
+    "credit": "3-6",
+    "course_name": "Cultural Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 525": {
+    "subject_code": "GEOG",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Cultures of Nature in Contemporary Political Ecologies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 527": {
+    "subject_code": "GEOG",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Remaking North America: Historical Geographies of Changing Environments",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 528": {
+    "subject_code": "GEOG",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Society and Environment in British Columbia",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 533": {
+    "subject_code": "GEOG",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Political Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Investigate how politics is bound with territorial definition. Examine how the management of political issues is intertwined with the ways in which these issues are understood in geographical and territorial terms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 535": {
+    "subject_code": "GEOG",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "International Migration and Settlement",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 545": {
+    "subject_code": "GEOG",
+    "course_code": "545",
+    "credit": "1-6",
+    "course_name": "Topics in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 547": {
+    "subject_code": "GEOG",
+    "course_code": "547",
+    "credit": "1-6",
+    "course_name": "Directed Reading in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 548": {
+    "subject_code": "GEOG",
+    "course_code": "548",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 551": {
+    "subject_code": "GEOG",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Urban Social Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 552": {
+    "subject_code": "GEOG",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Urban Systems in Developed Countries",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 553": {
+    "subject_code": "GEOG",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Urbanization in Developing Countries",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 554": {
+    "subject_code": "GEOG",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Historical Urban Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 560": {
+    "subject_code": "GEOG",
+    "course_code": "560",
+    "credit": "1-6",
+    "course_name": "Economic Geography",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 570": {
+    "subject_code": "GEOG",
+    "course_code": "570",
+    "credit": "1-3",
+    "course_name": "Advanced Geographic Information Systems",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 571": {
+    "subject_code": "GEOG",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Research Methods in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. Restricted to Human Geography graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 572": {
+    "subject_code": "GEOG",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Spatial and Cartographic Techniques",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 575": {
+    "subject_code": "GEOG",
+    "course_code": "575",
+    "credit": "1-3",
+    "course_name": "Research Strategies in Human Geography",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop-based seminar for Master's and Ph.D. students in human geography concerned with the evaluation of alternative research strategies and the development of individual research proposals. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 599": {
+    "subject_code": "GEOG",
+    "course_code": "599",
+    "credit": "15",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to M.A. in Geography students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEOG 699": {
+    "subject_code": "GEOG",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

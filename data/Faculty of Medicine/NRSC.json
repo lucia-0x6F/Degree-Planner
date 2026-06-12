@@ -1,0 +1,66 @@
+{
+  "NRSC 510": {
+    "subject_code": "NRSC",
+    "course_code": "510",
+    "credit": "1-6",
+    "course_name": "Topics in Neurodata",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures or projects on special topics in neuroscience related to neurodata and neuroimaging. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 530": {
+    "subject_code": "NRSC",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Advanced Research Skills in Neuroscience",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamental skills in planning, conducting, analyzing, interpreting, and presenting neuroscience research. Restricted to students in MSc and PhD in Neuroscience, or MSc and PhD in Psychology. Credit will be granted for only one of NRSC_V 530 or PSYC_V 596. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 549": {
+    "subject_code": "NRSC",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. Restricted to students in the M.Sc. in Neuroscience. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 550": {
+    "subject_code": "NRSC",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Action Potential and Synaptic Neuroscience",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic mechanisms controlling the resting membrane potential, excitability, and synaptic transmission of cells within the brain. Restricted to students in the M.Sc. or Ph.D. in Neuroscience. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 551": {
+    "subject_code": "NRSC",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Molecular and Developmental Neuroscience",
+    "faculty": "Faculty of Medicine",
+    "description": "Introduction to concepts and applications of molecular/cell biology and genomics in neuroscience, with an emphasis on the development of the nervous system. Restricted to students in the M.Sc. or Ph.D. in Neuroscience. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 552": {
+    "subject_code": "NRSC",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Sensorimotor Systems",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic systems-level mechanisms underlying sensory transduction, perception and movement. Restricted to students in the MSc or PhD in Neuroscience. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 553": {
+    "subject_code": "NRSC",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Cognition and Emotion",
+    "faculty": "Faculty of Medicine",
+    "description": "Systems-level mechanisms underlying cognitive and affective behaviours in health and disease. Restricted to students in the M.Sc. or Ph.D. in Neuroscience. Credit will be granted for only one of NRSC_V 553 or PSYC_V 539. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRSC 649": {
+    "subject_code": "NRSC",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

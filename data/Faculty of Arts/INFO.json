@@ -1,0 +1,90 @@
+{
+  "INFO 100": {
+    "subject_code": "INFO",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "(De)coding Information and Why it Matters",
+    "faculty": "Faculty of Arts",
+    "description": "Information and data as concepts and aspects of everyday experience. Creation, sharing, authorization, and valuing of information with implications for society. Critical perspectives and practices to engage with data, information, and technologies for personal productivity, scholarly inquiry, and civic engagement."
+  },
+  "INFO 200": {
+    "subject_code": "INFO",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Foundations of Informatics",
+    "faculty": "Faculty of Arts",
+    "description": "Theory, methods, and approaches for the analysis, design, and evaluation of information objects, activities, systems, and infrastructures in contemporary societies."
+  },
+  "INFO 250": {
+    "subject_code": "INFO",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Networks, Crowds, and Communities",
+    "faculty": "Faculty of Arts",
+    "description": "Introduces network concepts and methods for exploring social and organizational connectivity for work, socializing, and knowledge production. Examines impact of social media on connections that span space and place; peer production on authority structures; ubiquitous mobile connectivity on daily life."
+  },
+  "INFO 300": {
+    "subject_code": "INFO",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Information and Data Design",
+    "faculty": "Faculty of Arts",
+    "description": "Design of interactive information systems informed by human capabilities and behavior. Application of contemporary information design principles and practices to the conceptualization, creation, and testing of real-world prototypes of information objects and applications. This course is recommended for students who have completed INFO_V 100. Credit will only be granted for one of INFO_V 300 or LIBR_V 555. Prerequisite: INFO_V 200."
+  },
+  "INFO 301": {
+    "subject_code": "INFO",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Digital Cultural Collections",
+    "faculty": "Faculty of Arts",
+    "description": "Design, construction and critique of digital collections from a cultural informatics perspective."
+  },
+  "INFO 302": {
+    "subject_code": "INFO",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Sociotechnical Perspectives for Information Systems Design",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary approaches to theorizing, evaluating, envisioning, and designing information systems as assemblages of society and technology that can favor historically, persistently, or systemically marginalized groups and communities."
+  },
+  "INFO 303": {
+    "subject_code": "INFO",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Search Engines and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Aspects of technical implementation and societal impact of search engines. Explores how Google and other Internet search engines are powerful, global, and non-neutral tools that drive economies and shape our views of the world. Recommended pre-requisite: INFO 200."
+  },
+  "INFO 304": {
+    "subject_code": "INFO",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Memory and Identity in the Digital Age",
+    "faculty": "Faculty of Arts",
+    "description": "Personal and collective constructions of the past from collections of digital artefacts. Emphasis on history, social movements, lived experience, and public life."
+  },
+  "INFO 419": {
+    "subject_code": "INFO",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Information Visualization",
+    "faculty": "Faculty of Arts",
+    "description": "Basic theory and practice required to visually represent information. Introduces design principles and practical skills to create effective information visualizations. Examines effect of different visual representations on understanding and meaning. Credit will only be granted for one of INFO_V 419 or LIBR_V 515."
+  },
+  "INFO 441": {
+    "subject_code": "INFO",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Media Design for Contemporary Childhood",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural narratives, values, and practices promoted by media technologies designed for children/youth and the tensions they create. Credit will only be granted for one of INFO_V 441 or LIBR_V 541."
+  },
+  "INFO 456": {
+    "subject_code": "INFO",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Information Policy and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Develops capabilities required to assess the need for information policies in professional contexts, evaluate relevant socio-technical dimensions and envision likely implications for specific communities and practice settings. Credit will only be granted for one of INFO_V 456 or LIBR_V 561."
+  }
+}

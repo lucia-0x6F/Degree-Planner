@@ -1,0 +1,74 @@
+{
+  "CMST 500": {
+    "subject_code": "CMST",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of FIST_V 500 or CMST_V 500. Equivalency: FIST_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 510": {
+    "subject_code": "CMST",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Advanced Theory, Film and Media",
+    "faculty": "Faculty of Arts",
+    "description": "Current trends and topics in scholarship, based on an intensive look at a few key theorists and theories. Credit will be granted for only one of FIST_V 510 or CMST_V 510. Equivalency: FIST_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 520": {
+    "subject_code": "CMST",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Advanced Cinema and Media Criticism",
+    "faculty": "Faculty of Arts",
+    "description": "Film and media criticism, with detailed interrogation of conceptual foundations and contemporary case-studies. Credit will be granted for only one of FIST_V 520 or CMST_V 520. Equivalency: FIST_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 531": {
+    "subject_code": "CMST",
+    "course_code": "531",
+    "credit": "3-6",
+    "course_name": "Seminar: Styles in Film",
+    "faculty": "Faculty of Arts",
+    "description": "Studies in styles or film genres such as narrative, documentary, ethnographic, experimental, etc. Topics will vary from year to year. A maximum of 6 credits will be granted for FIST_V 531 or CMST_V 531. Equivalency: FIST_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 532": {
+    "subject_code": "CMST",
+    "course_code": "532",
+    "credit": "3-6",
+    "course_name": "Seminar: Study of Major Film Artists",
+    "faculty": "Faculty of Arts",
+    "description": "Investigations into the biographical, social, and national backgrounds of two or three major artists, with attention to the specific nature of their work in its historical, psychological, and cultural contexts. Topics will vary from year to year. Credit will be granted for only one of FIST 532 or CMST 532. A maximum of 6 credits will be granted for FIST_V 532 or CMST_V 532. Equivalency: FIST_V 532. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 534": {
+    "subject_code": "CMST",
+    "course_code": "534",
+    "credit": "3-6",
+    "course_name": "Seminar in Cinema Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics to be arranged. A maximum of 6 credits will be granted for FIST_V 534 or CMST_V 534. Equivalency: FIST_V 534. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 547": {
+    "subject_code": "CMST",
+    "course_code": "547",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Cinema and Media",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for FIST_V 547 or CMST_V 547. Equivalency: FIST_V 547. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 549": {
+    "subject_code": "CMST",
+    "course_code": "549",
+    "credit": "6-18",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 18 credits will be granted for FIST_V 549 or CMST_V 549. Equivalency: FIST_V 549. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CMST 649": {
+    "subject_code": "CMST",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

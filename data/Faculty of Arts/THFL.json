@@ -1,0 +1,58 @@
+{
+  "THFL 100": {
+    "subject_code": "THFL",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "The Art of Storytelling for Stage and Screen",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental elements of the art of storytelling as approached within each of the core areas taught in the Department of Theatre and Film: Acting/Directing, Design and Production, and Film Production. Restricted to students in one of the following BFA programs: Major in Acting; Major in Film Production; Major in Theatre Design and Production"
+  },
+  "THFL 200": {
+    "subject_code": "THFL",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Visual Narrative: Exploring Design and Creative Process",
+    "faculty": "Faculty of Arts",
+    "description": "Visual storytelling, combining practical design techniques with creative methodologies. Uses design principles to shape visual narratives by emphasizing innovative visual communication and a thorough understanding of the creative process."
+  },
+  "THFL 226": {
+    "subject_code": "THFL",
+    "course_code": "226",
+    "credit": "3",
+    "course_name": "Celebrity Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Critical analysis of global celebrity in the performing arts."
+  },
+  "THFL 304": {
+    "subject_code": "THFL",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Production Design",
+    "faculty": "Faculty of Arts",
+    "description": "The tools and processes used by set designers, art directors, and production designers in North America. Prerequisite: One of THTR 205, THTR 305, FIPR 233."
+  },
+  "THFL 312": {
+    "subject_code": "THFL",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Expanded Visual Media",
+    "faculty": "Faculty of Arts",
+    "description": "Pre- and/or post-production strategies, techniques, and processes for time-based media effects. Credit will only be granted for one of THFL 312 or VISA 312. Prerequisite: One of VISA 241, VISA 210, FIPR 133, FIPR 233. Or B.M.S. students with 3rd year standing. Equivalency: VISA 312."
+  },
+  "THFL 402": {
+    "subject_code": "THFL",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Professional Portfolio Preparation for Live and Digital Performance",
+    "faculty": "Faculty of Arts",
+    "description": "Preparation to transition into the theatre and film industry. Portfolio development, visual identity, and skills to support professional performance practices aligned with theatre and film professional associations. Restricted to students in third or fourth-year in one of the following programs: Major in Film Production; Major in Theatre Design and Production. Prerequisite: One of THTR 305, THTR 306, THTR 307, THTR 308, FIPR 333."
+  },
+  "THFL 599": {
+    "subject_code": "THFL",
+    "course_code": "599",
+    "credit": "3-6",
+    "course_name": "Production",
+    "faculty": "Faculty of Arts",
+    "description": "Assigned projects in Theatre and Film design and production. Restricted to students in the MFA THTR and MFA FIPR programs. This course is not eligible for Credit/D/Fail grading."
+  }
+}

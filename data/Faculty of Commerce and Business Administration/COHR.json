@@ -1,0 +1,186 @@
+{
+  "COHR 301": {
+    "subject_code": "COHR",
+    "course_code": "301",
+    "credit": "1.5",
+    "course_name": "Business and Management Values",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Balancing organizational, personal, and community interests in a global economy. In addition to standard management textbooks and readings, the class will draw from the work of poets, fiction writers, essayists, and social critics. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 302": {
+    "subject_code": "COHR",
+    "course_code": "302",
+    "credit": "1.5",
+    "course_name": "Critical Evaluation of Information, Evidence, and Arguments",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Strategies to critically evaluate information relevant to Human Resource Managers. This course will examine common errors in logic, decision biases, and cause and effect relationships. [3-0]. Prerequisite: COMM_V 203 and one of COMM_V 191, COMM_V 291. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 303": {
+    "subject_code": "COHR",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Strategic Staffing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Processes of workforce recruitment, selection, retention, and renewal. Includes human resources planning, development of an effective staffing strategy and employer brand, job analysis and descriptions, cost-benefit analysis of various recruiting methods, analysis and evaluation of selection methods. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 304": {
+    "subject_code": "COHR",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Training, Development, and Performance Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Employee training, development and performance management in a variety of employment settings. Application of various training methods to performance enhancement, performance appraisal, feedback, and empirical evaluation of training investments. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 305": {
+    "subject_code": "COHR",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Strategic Compensation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Employee compensation, including pay systems, benefits systems, and rewards and recognition programs. Examination of the motivational underpinnings of compensation administration and the application of compensation principles to the achievement of employer strategic objectives. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 307": {
+    "subject_code": "COHR",
+    "course_code": "307",
+    "credit": "1.5",
+    "course_name": "Introduction to Organizational Consulting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Frameworks from the social sciences useful for understanding organizational processes and how to apply these frameworks to particular organizational consulting challenges. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 308": {
+    "subject_code": "COHR",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Labour Relations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Integrated coverage of union-management relations including labour law, collective bargaining, and collective agreement administration. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 310": {
+    "subject_code": "COHR",
+    "course_code": "310",
+    "credit": "1.5",
+    "course_name": "Industrial Relations in an Era of Globalization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Comprehensive examination of the Canadian industrial relations system, and its legal foundations, in the context of a global economy. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 311": {
+    "subject_code": "COHR",
+    "course_code": "311",
+    "credit": "1.5",
+    "course_name": "Organizational Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An analysis of organizational structures and intraorganizational processes; effects of organizational factors on individual behaviour. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 401": {
+    "subject_code": "COHR",
+    "course_code": "401",
+    "credit": "1.5",
+    "course_name": "Organizational Change",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The tactics and strategies for implementing constructive modifications in organizations. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 402": {
+    "subject_code": "COHR",
+    "course_code": "402",
+    "credit": "1.5",
+    "course_name": "Leadership",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Explores the characteristics of effective leadership and examines how to be a better leader. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 403": {
+    "subject_code": "COHR",
+    "course_code": "403",
+    "credit": "1.5",
+    "course_name": "Managing Diversity",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Explores the business and legal cases for diversity in the workplace. Examines how to effectively manage a diverse work force. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 404": {
+    "subject_code": "COHR",
+    "course_code": "404",
+    "credit": "1.5",
+    "course_name": "Power and Politics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Examines the sources and consequences of power in the context of different corporate and national cultures. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 405": {
+    "subject_code": "COHR",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Managing the Family Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Managing and working in a family business presents unique challenges: family issues can conflict with business issues. This course examines governance structures and tools to manage the interface between the family and the business. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 406": {
+    "subject_code": "COHR",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "International Human Resource Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Application of human resource management practices to multinational enterprises. Comparative analysis of national human resource management systems. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 407": {
+    "subject_code": "COHR",
+    "course_code": "407",
+    "credit": "1.5",
+    "course_name": "Advanced Organizational Consulting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Methods and techniques to diagnose and solve a broad range of organizational problems from the perspective of an organizational consultant. [3-0]. Prerequisite: All of COMM_V 203, COHR_V 307. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 408": {
+    "subject_code": "COHR",
+    "course_code": "408",
+    "credit": "1.5",
+    "course_name": "Organizational Design",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Techniques and approaches for evaluating and adjusting the structures of organization. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 409": {
+    "subject_code": "COHR",
+    "course_code": "409",
+    "credit": "1.5",
+    "course_name": "Creativity and Innovation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Techniques and approaches to managing creativity and innovation in organizations. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 410": {
+    "subject_code": "COHR",
+    "course_code": "410",
+    "credit": "1.5",
+    "course_name": "Knowledge Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Techniques and approaches to managing knowledge and learning in organizations. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 411": {
+    "subject_code": "COHR",
+    "course_code": "411",
+    "credit": "1.5",
+    "course_name": "Managing and Building Teams",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Techniques and approaches for building effective teams, handling decision-making in teams, creating reward structures, and developing appropriate leadership models. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 412": {
+    "subject_code": "COHR",
+    "course_code": "412",
+    "credit": "1.5",
+    "course_name": "Advanced Topics in Organizational Behaviour",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Understanding, critiquing, and analyzing behaviour and social processes in organizations. This course focuses on provocative and current topics that could not be covered in depth in the introductory course. [3-0]. Prerequisite: COMM_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 433": {
+    "subject_code": "COHR",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Employment Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to legislation and application of legal principles that govern the employment relationship. [3-0]. Prerequisite: All of COMM_V 203, COMM_V 393. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COHR 486": {
+    "subject_code": "COHR",
+    "course_code": "486",
+    "credit": "1.5-6",
+    "course_name": "Special Topics in Organizational Behaviour and Human Resources",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

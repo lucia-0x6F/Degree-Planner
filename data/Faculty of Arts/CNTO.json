@@ -1,0 +1,50 @@
+{
+  "CNTO 301": {
+    "subject_code": "CNTO",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Basic Cantonese I",
+    "faculty": "Faculty of Arts",
+    "description": "Elementary level (part I) course in Cantonese for non-heritage learners with no prior exposure to or background in Cantonese. Focus on training for basic listening and conversational skills in Cantonese. Heritage speakers of Mandarin are NOT eligible. Recommended pre-requisites: one of CHIN_V 107, CHIN_V 233, CHIN_V 108, CHIN_V 234 or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CNTO 303": {
+    "subject_code": "CNTO",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Basic Cantonese II",
+    "faculty": "Faculty of Arts",
+    "description": "Elementary level (part II) Cantonese for non-heritage learners. Continuation of CNTO_V 301. Focus on training for basic listening, conversational, and reading skills. Recommended pre-requisite: CNTO_V 301 or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CNTO 311": {
+    "subject_code": "CNTO",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Basic Cantonese for Mandarin Speakers",
+    "faculty": "Faculty of Arts",
+    "description": "Basic oral and presentation skills in Cantonese. This is an accelerated course that covers content and topics similar to CNTO_V 301 and CNTO_V 303, but is structured specifically for heritage speakers of Mandarin. Recommended pre-requisites: one of CHIN_V 243, CHIN_V 244 or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CNTO 401": {
+    "subject_code": "CNTO",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Intermediate Cantonese I",
+    "faculty": "Faculty of Arts",
+    "description": "Intermediate lower level (part I) Cantonese for non-heritage learners. Recommended pre-requisites: One of CNTO_V 303, CNTO_V 311, or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CNTO 403": {
+    "subject_code": "CNTO",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Intermediate Cantonese II",
+    "faculty": "Faculty of Arts",
+    "description": "Intermediate lower level (part II) Cantonese for non-heritage learners. Continuation of CNTO_V 401. Recommended pre-requisite: CNTO_V 401 or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CNTO 451": {
+    "subject_code": "CNTO",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Advanced Cantonese through Popular Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Popular culture in Hong Kong from media such as television, cinema, popular music, literature, social media, etc., through advanced authentic Cantonese listening and reading materials. Open to non-heritage and heritage speakers of Mandarin and/or Cantonese. Recommended pre-requisite: CNTO_V 401. Prior to registration, a minimum of 9 credits of 300-level ASIA_V coursework is strongly recommended. This course is not eligible for Credit/D/Fail grading."
+  }
+}

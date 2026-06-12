@@ -1,0 +1,58 @@
+{
+  "GEM 500": {
+    "subject_code": "GEM",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Landscape Ecology and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Current concepts and skills in ecological modelling and spatial analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEM 510": {
+    "subject_code": "GEM",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Geographic Information Systems for Forestry and Conservation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles and practices of Geographic Information Systems (GIS). [2-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEM 511": {
+    "subject_code": "GEM",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Advanced Geographic Information Systems for Environmental Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Advanced topics, techniques and functions in Geographic Information Systems. [2-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEM 520": {
+    "subject_code": "GEM",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Remote Sensing for Ecosystem Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Capturing spatial data and the use of remote sensing systems to map, monitor and better manage forest, vegetation and ecosystem resources. [2-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEM 521": {
+    "subject_code": "GEM",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Advanced Earth Observation and Image Processing",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Advanced topics and techniques in remote sensing and image processing. [2-1-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEM 530": {
+    "subject_code": "GEM",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Geospatial Data Analysis",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Understanding geo-spatial data structures, databases and developing, maintaining and utilizing geo-spatial data. [2-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GEM 540": {
+    "subject_code": "GEM",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Linear Regression Models and Introduction to Spatial Statistics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "[3-2-0]. This course is not eligible for Credit/D/Fail grading."
+  }
+}

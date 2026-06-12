@@ -1,0 +1,362 @@
+{
+  "BIOC 202": {
+    "subject_code": "BIOC",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Introductory Medical Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Introduction to proteins and enzymes, carbohydrate metabolism, and glucose homeostasis. The course emphasis is on human biochemistry and it is designed for students going into health science fields. Credit will be granted for only one of BIOC 202, BIOC 203 or BIOL 201. [3-0-0] Prerequisite: One of CHEM 203, CHEM 223, CHEM 233."
+  },
+  "BIOC 203": {
+    "subject_code": "BIOC",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Fundamentals of Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Amino acids and proteins. Enzymes and enzymology. Human metabolic pathways. Structure, function and metabolism of carbohydrates including glycogen storage and gluconeogenesis. Restricted to students in Biochemistry specializations. Credit will be granted for only one of BIOC 202, BIOC 203 or BIOL 201. [3-0-1] Prerequisite: BIOL 200 and one of CHEM 203, CHEM 223. Corequisite: CHEM 213."
+  },
+  "BIOC 301": {
+    "subject_code": "BIOC",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Biochemistry Laboratory",
+    "faculty": "Faculty of Medicine",
+    "description": "Techniques by which the chemical and physical properties of fundamental components of the cell are studied. [0-3-1] Prerequisite: Either (a) CHEM_V 245 and third-year class standing or higher in Biochemistry or (b) CHEM_V 235 and third-year class standing or higher in Pharmacology. Corequisite: One of BIOC_V 302, BIOC_V 303."
+  },
+  "BIOC 302": {
+    "subject_code": "BIOC",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "General Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Metabolic reactions of lipids, steroids, amino acids and nucleotides; the biochemistry of replication, transcription and translation. Credit will be granted for only one of BIOC 302 or BIOC 303. [3-0-1] Prerequisite: One of BIOL 201, BIOC 202, BIOC 203 and one of CHEM 203, CHEM 223, CHEM 233. Equivalency: BIOC 303"
+  },
+  "BIOC 303": {
+    "subject_code": "BIOC",
+    "course_code": "303",
+    "credit": "6",
+    "course_name": "Molecular Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Structure, function and metabolism of lipids, steroids, amino acids and nucleotides; the biochemistry and molecular biology of replication, transcription, translation and gene regulation. For students in Biochemistry and Honours programs in other life sciences. Credit will be granted for only one of BIOC 302 or BIOC 303. [3-0-0] Prerequisite: One of BIOC 203, BIOC 202, BIOL 201 and either (a) CHEM 213 or (b) CHEM 233."
+  },
+  "BIOC 304": {
+    "subject_code": "BIOC",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Contemporary Biochemical Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Exploration of the breadth and importance of biochemical research to present day challenges in medicine and biotechnology. Detailed experimental research case studies of novel biochemical methods used to address pressing and ongoing biochemical issues. [3-0-0] Prerequisite: CHEM 213. Corequisite: BIOC 303."
+  },
+  "BIOC 306": {
+    "subject_code": "BIOC",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Quantitative Methods in Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Quantitative and computational methods of biological information transfer. Methods; data analysis approaches and theories involved in bioinformatics; computational biology and high-throughput data. [3-0-0] Prerequisites: a) BIOC 203 and a corequisite of BIOC 303 or b) One of BIOC 202 or BIOL 201 with a grade of 76% or higher and a corequisite of BIOC 302."
+  },
+  "BIOC 398": {
+    "subject_code": "BIOC",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Internship Work Placement I",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial or academic laboratory for three or four months. Technical report required. Restricted to students admitted to the Internship Program in Biochemistry and Molecular Biology. Prerequisite: Completion of academic third year in Biochemistry major or honours program is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 399": {
+    "subject_code": "BIOC",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Internship Work Placement II",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial or academic research setting for four months. Technical report required. Restricted to students admitted to the Internship Program in Biochemistry and Molecular Biology. Prerequisite: BIOC_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 402": {
+    "subject_code": "BIOC",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Proteins: Structure and Function",
+    "faculty": "Faculty of Medicine",
+    "description": "Structural components of proteins, classification by primary, secondary and tertiary structure, protein chemistry and purification, peptide and protein synthesis by chemical means and three-dimensional structure determination using X-ray diffraction and NMR. [3-0-0] Prerequisite: One of BIOC 302, BIOC 303, BIOT 380. A minimum standing of 65% is recommended in these courses."
+  },
+  "BIOC 403": {
+    "subject_code": "BIOC",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Enzymology",
+    "faculty": "Faculty of Medicine",
+    "description": "Kinetic analysis, catalytic mechanisms, transition state stabilization and regulation of activity, strategies for active site characterization and case studies of well-documented enzyme systems. Credit will be granted for only one of BIOC 403, CHEM 413 or CHEM 569. [3-0-0] Prerequisite: BIOC402 A minimum standing of 65% is recommended."
+  },
+  "BIOC 404": {
+    "subject_code": "BIOC",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Biochemical Methods",
+    "faculty": "Faculty of Medicine",
+    "description": "Theory and application of classical and emerging technologies in biochemical research. Emphasis on using primary literature and oral presentation skills. Restricted to Honours students in Biochemistry or others with permission of the instructor. [1-0; 2-0]"
+  },
+  "BIOC 410": {
+    "subject_code": "BIOC",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Nucleic Acids-Structure and Function",
+    "faculty": "Faculty of Medicine",
+    "description": "Chemical, physical and biological properties of nucleic acids and their role in replication, transcription, translation and regulation of expression of genetic material. Credit will be granted for only one of BIOC 410 or BIOC 510. [3-0-0] Prerequisite: Either (a) all of BIOC 303, BIOL 335 or (b) BIOT 380. A minimum standing of 65% is recommended in these courses."
+  },
+  "BIOC 420": {
+    "subject_code": "BIOC",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Advanced Biochemical Techniques",
+    "faculty": "Faculty of Medicine",
+    "description": "Multi-week experiments in areas of contemporary biochemistry research using classical and modern techniques. Emphasis on experimental design, technique, critical analysis of data, and scientific communication skills. Restricted to Honours students in Biochemistry and others with permission of the instructor. [0-6-0] Corequisite: One of BIOC 404, FSCT 480."
+  },
+  "BIOC 421": {
+    "subject_code": "BIOC",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Recombinant DNA Techniques",
+    "faculty": "Faculty of Medicine",
+    "description": "Multi-week experiments involving contemporary nucleic acid research, cloning and recombinant protein engineering. Emphasis is on experimental design, critical analysis of data and scientific communication skills. Restricted to Major students in Biochemistry. [0-6-0] Prerequisite: All of BIOC 301, BIOC 410."
+  },
+  "BIOC 430": {
+    "subject_code": "BIOC",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Advanced Topics in Protein Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Advanced topics in protein structure and function. [3-0-0] Prerequisites: BIOC 402"
+  },
+  "BIOC 440": {
+    "subject_code": "BIOC",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Concepts in Molecular Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "Developing areas of molecular biology, focusing on experimental design and data analysis. Signal transduction, the use of model eukaryotes, and the regulation of gene expression. [3-0-0] Prerequisite: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410."
+  },
+  "BIOC 448": {
+    "subject_code": "BIOC",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "A library (3 credits) or a laboratory project with written report (3 or 6 credits) allowing a student to undertake an investigation on a specific topic as agreed upon by the faculty and student. Prerequisite: Permission of the Department Head is required."
+  },
+  "BIOC 449": {
+    "subject_code": "BIOC",
+    "course_code": "449",
+    "credit": "3-6",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "A research problem under the direction of a faculty member. Restricted to Honours students."
+  },
+  "BIOC 450": {
+    "subject_code": "BIOC",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Membrane Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Biochemistry of membranes and membrane proteins, membrane fusion, electrical signaling, and the involvement of membrane proteins in disease and drug development. [3-0-0] Prerequisite: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410."
+  },
+  "BIOC 460": {
+    "subject_code": "BIOC",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Advanced Techniques in Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Theoretical basis and practical applications of a selection of advanced techniques currently used in biochemical research. Topics will vary. [3-0-0] Prerequisite: One of BIOC 303, BIOT 380 and all of BIOC 402, BIOC 410."
+  },
+  "BIOC 470": {
+    "subject_code": "BIOC",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Biochemistry & Society: Current Issues",
+    "faculty": "Faculty of Medicine",
+    "description": "Biochemical basis of select global challenges. Critical evaluation of primary literature to form evidence-based opinions and communicating biochemistry as it relates to several controversial societal issues. [3-0-1] Prerequisite: One of BIOC 302, BIOC 303."
+  },
+  "BIOC 490": {
+    "subject_code": "BIOC",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Student Directed Seminars",
+    "faculty": "Faculty of Medicine",
+    "description": "Self-directed, collaborative studies, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment, and delivery methods will comply with the Handbook for Student Directed Seminars. Not given every year. [3-0-0] Prerequisite: Third-year standing. Corequisite: One of BIOC 302, BIOC 303."
+  },
+  "BIOC 498": {
+    "subject_code": "BIOC",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Internship Work Placement III",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial or academic research setting for four months. Technical report required. Restricted to students admitted to the Internship Program in Biochemistry and Molecular Biology. Prerequisite: BIOC_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 499": {
+    "subject_code": "BIOC",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Internship Work Placement IV",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial or academic research setting for four months. Technical report required. Restricted to students admitted to the Internship Program in Biochemistry and Molecular Biology. Prerequisite: BIOC_V 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 501": {
+    "subject_code": "BIOC",
+    "course_code": "501",
+    "credit": "2-6",
+    "course_name": "Advanced Biochemistry Laboratory",
+    "faculty": "Faculty of Medicine",
+    "description": "Practical applications of advanced biochemical techniques. Admission is limited and is by permission of the department head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 509": {
+    "subject_code": "BIOC",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Membrane Structure and Function",
+    "faculty": "Faculty of Medicine",
+    "description": "The physical properties and functional roles of lipids in membranes, liposomes, membrane permiability; membrane function; structure, biosynthesis and cell sorting of membrane proteins; and the structure-function relationships of channels, transporters and receptors. Given in alternate years. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 510": {
+    "subject_code": "BIOC",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Nucleic Acids: Structure and Function",
+    "faculty": "Faculty of Medicine",
+    "description": "Structure and function of nucleic acids and their role in replication, transcription, translation and expression of genetic information. Credit will be granted for only one of BIOC_V 410 or BIOC_V 510. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 511": {
+    "subject_code": "BIOC",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Biochemical Aspects of Cellular Regulation",
+    "faculty": "Faculty of Medicine",
+    "description": "A lecture and discussion course on the molecular basis of cellular regulation with special emphasis on mammalian cells. Mechanisms involved in the responses of cells to adrenergic, steroid and peptide hormones and growth factors. Regulation of the concentration and specific activity of key enzymes, transport systems and structural proteins. Given in alternate years. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 514": {
+    "subject_code": "BIOC",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Advanced Topics in Protein Chemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Topics will include contemporary theoretical and experimental investigation of protein structure-function relationships. Topics will vary. Given in alternate years. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 522": {
+    "subject_code": "BIOC",
+    "course_code": "522",
+    "credit": "1.5",
+    "course_name": "Membrane Proteins",
+    "faculty": "Faculty of Medicine",
+    "description": "Structure, biosynthesis and cell sorting of membrane proteins; and the structure-function relationships of channels, transporters and receptors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 530": {
+    "subject_code": "BIOC",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Seminar in Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Attendance is required of all graduate students in Biochemistry. Normally students will make a presentation once per year on a topic approved by their research advisor or committee or on the results of their research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 548": {
+    "subject_code": "BIOC",
+    "course_code": "548",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "In special cases, with approval of the department head, advanced courses may be arranged for graduate students in attendance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 549": {
+    "subject_code": "BIOC",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 551": {
+    "subject_code": "BIOC",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Advanced Topics in Biochemistry and Molecular Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "Discussions based on topics in the current literature. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 552": {
+    "subject_code": "BIOC",
+    "course_code": "552",
+    "credit": "1.5",
+    "course_name": "Membrane Proteins",
+    "faculty": "Faculty of Medicine",
+    "description": "Structure, biosynthesis and cell sorting of membrane proteins; and the structure-function relationships of channels, transporters and receptors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 553": {
+    "subject_code": "BIOC",
+    "course_code": "553",
+    "credit": "1.5",
+    "course_name": "Advanced Topics in Lipid Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles of lipid structure and dynamics; biochemical approaches to study lipids and applications of lipid biology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 554": {
+    "subject_code": "BIOC",
+    "course_code": "554",
+    "credit": "1.5",
+    "course_name": "Nucleic Acids: DNA/RNA Structure and Function",
+    "faculty": "Faculty of Medicine",
+    "description": "Mechanisms, regulation and dynamics of DNA and RNA biology. Structure and function of nucleic acids and their role in replication, transcription, translation and expression of genetic information. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 555": {
+    "subject_code": "BIOC",
+    "course_code": "555",
+    "credit": "1.5",
+    "course_name": "Epigenetics",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles, regulation and dynamics of epigenetics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 556": {
+    "subject_code": "BIOC",
+    "course_code": "556",
+    "credit": "1.5",
+    "course_name": "Biochemical Aspects of Cellular Regulation",
+    "faculty": "Faculty of Medicine",
+    "description": "Mechanisms involved in the responses of cells to adrenergic, steroid and peptide hormones and growth factors. Recent advances in approaches and regulation of the concentration and specific activity of key enzymes, transport systems and structural proteins. Given in alternate years. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 557": {
+    "subject_code": "BIOC",
+    "course_code": "557",
+    "credit": "1.5",
+    "course_name": "Advanced Topics in Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Advances in biochemical approaches. Topics vary. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 558": {
+    "subject_code": "BIOC",
+    "course_code": "558",
+    "credit": "1.5",
+    "course_name": "Advanced Topics in Protein Chemistry I",
+    "faculty": "Faculty of Medicine",
+    "description": "Contemporary theoretical and experimental investigation of protein structure-function relationships. Topics will vary. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 559": {
+    "subject_code": "BIOC",
+    "course_code": "559",
+    "credit": "1.5",
+    "course_name": "Advanced Topics in Protein Chemistry II",
+    "faculty": "Faculty of Medicine",
+    "description": "Contemporary theoretical and experimental investigation of protein structure-function relationships. Topics will vary. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 560": {
+    "subject_code": "BIOC",
+    "course_code": "560",
+    "credit": "1.5",
+    "course_name": "Computational Approaches in Biochemistry",
+    "faculty": "Faculty of Medicine",
+    "description": "Computational approaches to study protein and nucleic acids. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOC 649": {
+    "subject_code": "BIOC",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

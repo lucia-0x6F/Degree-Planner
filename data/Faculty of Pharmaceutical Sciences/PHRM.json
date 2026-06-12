@@ -1,0 +1,618 @@
+{
+  "PHRM 100": {
+    "subject_code": "PHRM",
+    "course_code": "100",
+    "credit": "18",
+    "course_name": "Foundations of Pharmacy",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Scientific concepts and pharmacy practice principles. Role of the pharmacist, patient assessment skills, professional identity, communication skills, and an understanding of legal and ethical responsibilities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 111": {
+    "subject_code": "PHRM",
+    "course_code": "111",
+    "credit": "15",
+    "course_name": "Medication Management I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Modules and integration activities focusing on: an introduction to infectious diseases; musculoskeletal disorders; dermatology; head, eyes, ears, nose, and throat disorders; and hematology. Prerequisite: PHRM_V 100. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 131": {
+    "subject_code": "PHRM",
+    "course_code": "131",
+    "credit": "2",
+    "course_name": "Study Design and Interpretation I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles of clinical study design, focusing on biostatistical foundations, randomized controlled trials, and systematic review of randomized controlled trials. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 141": {
+    "subject_code": "PHRM",
+    "course_code": "141",
+    "credit": "2",
+    "course_name": "Seminar: Pharmacists in Practice I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Current and future roles for pharmacists and controversies in pharmacy practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 161": {
+    "subject_code": "PHRM",
+    "course_code": "161",
+    "credit": "2",
+    "course_name": "Technology in Healthcare",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Knowledge and skills related to the role and applications of technology in health care. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 171": {
+    "subject_code": "PHRM",
+    "course_code": "171",
+    "credit": "2",
+    "course_name": "Introductory Pharmacy Practice Experience - Outpatient I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Direct patient care and drug distribution activities in an outpatient setting. Pass/Fail. Prerequisite: All of PHRM_V 100, PHRM_V 111, PHRM_V 131, PHRM_V 141, PHRM_V 161. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 211": {
+    "subject_code": "PHRM",
+    "course_code": "211",
+    "credit": "15",
+    "course_name": "Medication Management II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Modules and integration activities focusing on respirology and cardiovascular disorders. Prerequisite: PHRM_V 171. Corequisite: PHRM_V 231. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 212": {
+    "subject_code": "PHRM",
+    "course_code": "212",
+    "credit": "15",
+    "course_name": "Medication Management III",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Modules and integration activities focusing on nephrology, endocrinology, and neurology. Prerequisite: PHRM_V 211. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 221": {
+    "subject_code": "PHRM",
+    "course_code": "221",
+    "credit": "2",
+    "course_name": "Nutrition for Pharmacists",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Foundations of nutrition, nutrition for healthy individuals through the lifespan, and selected clinical applications of nutrition in pharmacy practice. Prerequisite: PHRM 171."
+  },
+  "PHRM 231": {
+    "subject_code": "PHRM",
+    "course_code": "231",
+    "credit": "2",
+    "course_name": "Study Design and Interpretation II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles of screening and diagnostic tests, clinical prediction rules, clinical practice guidelines, conflicts of interest, economic evaluation of therapeutics and medical technologies, harm-benefit analysis, and how to incorporate the best available evidence into practice. Prerequisite: PHRM_V 171. Corequisite: PHRM_V 211. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 241": {
+    "subject_code": "PHRM",
+    "course_code": "241",
+    "credit": "2",
+    "course_name": "Seminar: Pharmacists in Practice II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Current and future roles for pharmacists and controversies in pharmacy practice, focusing on the roles and training opportunities for pharmacists in specialty areas of outpatient and inpatient practice. Prerequisite: PHRM_V 171. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 251": {
+    "subject_code": "PHRM",
+    "course_code": "251",
+    "credit": "1",
+    "course_name": "Institutional Practice Skills",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Practice environment familiarization and skill development in preparation for experiential learning in inpatient and health authority-based settings. Prerequisite: PHRM_V 171. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 252": {
+    "subject_code": "PHRM",
+    "course_code": "252",
+    "credit": "1",
+    "course_name": "Clinical Skills: Administration of Injections",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Training for authorization to administer injections. Prerequisite: PHRM_V 171. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 261": {
+    "subject_code": "PHRM",
+    "course_code": "261",
+    "credit": "1",
+    "course_name": "Indigenous Health and Cultural Safety",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Overview of Indigenous health in Canada and the role a pharmacist can have in collaborating with Indigenous communities in providing culturally safe care and healing. Prerequisite: PHRM_V 171. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 270": {
+    "subject_code": "PHRM",
+    "course_code": "270",
+    "credit": "1",
+    "course_name": "Community Service Learning",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Service learning activities with external community partner sites and members. Pass/Fail. Prerequisite: PHRM_V 171. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 271": {
+    "subject_code": "PHRM",
+    "course_code": "271",
+    "credit": "2",
+    "course_name": "Introductory Pharmacy Practice Experience - Outpatient II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Direct patient care and drug distribution activities in an outpatient setting, building pharmaceutical knowledge and problem-solving ability. Pass/Fail. Prerequisite: All of PHRM_V 211, PHRM_V 212, PHRM_V 221, PHRM_V 231, PHRM_V 241, PHRM_V 251, PHRM_V 252, PHRM_V 261, PHRM_V 270. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 272": {
+    "subject_code": "PHRM",
+    "course_code": "272",
+    "credit": "1",
+    "course_name": "Introductory Pharmacy Practice Experience - Inpatient and Health Authority-Based",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Direct patient care activities in inpatient and other health authority-based settings, with application of foundational knowledge and skills. Pass/Fail. Prerequisite: All of PHRM_V 211, PHRM_V 212, PHRM_V 221, PHRM_V 231, PHRM_V 241, PHRM_V 251, PHRM_V 252, PHRM_V 261, PHRM_V 270. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 300": {
+    "subject_code": "PHRM",
+    "course_code": "300",
+    "credit": "2-9",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": ""
+  },
+  "PHRM 301": {
+    "subject_code": "PHRM",
+    "course_code": "301",
+    "credit": "2-9",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Thesis or essay."
+  },
+  "PHRM 302": {
+    "subject_code": "PHRM",
+    "course_code": "302",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Clinical Pharmacy",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving library and clinical investigation of specific problems relating to drug utilization and information topics."
+  },
+  "PHRM 303": {
+    "subject_code": "PHRM",
+    "course_code": "303",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Pharmaceutics and Biopharmaceutics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving library and laboratory investigation of problems involved in the development of pharmaceutical dosage forms."
+  },
+  "PHRM 304": {
+    "subject_code": "PHRM",
+    "course_code": "304",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Pharmacy Education",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving library and scholarly inquiry related to pharmacy education."
+  },
+  "PHRM 305": {
+    "subject_code": "PHRM",
+    "course_code": "305",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Pharmacology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving library and laboratory investigation of certain aspects of drug action."
+  },
+  "PHRM 306": {
+    "subject_code": "PHRM",
+    "course_code": "306",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Pharmacy Practice",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving library and field work investigations of problems associated with pharmacy practice."
+  },
+  "PHRM 307": {
+    "subject_code": "PHRM",
+    "course_code": "307",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Epidemiology and Health Outcomes",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving scholarly inquiry related to epidemiology or health outcomes."
+  },
+  "PHRM 311": {
+    "subject_code": "PHRM",
+    "course_code": "311",
+    "credit": "12",
+    "course_name": "Medication Management IV",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Modules and integration activities focusing on psychiatry, gastroenterology disorders, and oncology and palliative care. Prerequisite: All of PHRM_V 271, PHRM_V 272."
+  },
+  "PHRM 312": {
+    "subject_code": "PHRM",
+    "course_code": "312",
+    "credit": "12",
+    "course_name": "Medication Management V",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Modules and integration activities focusing on reproductive health, sexual health, and genitourinary disorders; special infectious diseases; and toxicology. Prerequisite: PHRM_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 321": {
+    "subject_code": "PHRM",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Travel Health",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Providing a consultative service to patients based on patient medical and travel history. Recommending and administering vaccinations according to guidelines. Making recommendations regarding oral medications needed for safe travel. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 322": {
+    "subject_code": "PHRM",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Peer Teaching in Pharmacy Skills",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Development and delivery of patient counselling role-playing activities. Prerequisite: All of PHRM_V 271 and PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 323": {
+    "subject_code": "PHRM",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Pharmaceutical Care in Indigenous Health",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Indigenous health in Canada and the role pharmacists' cultural humility and safety can play when collaborating with other health professionals and Indigenous communities to provide care and healing. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 324": {
+    "subject_code": "PHRM",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Primary Care Pharmacy Practice",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Strategies for leveraging opportunities and addressing barriers to effective pharmacist integration into multidisciplinary primary care teams and optimizing patient care. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 325": {
+    "subject_code": "PHRM",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Clinical Pharmacokinetics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Lectures and discussions of topics on the application of pharmacokinetic principles and the use of therapeutic drug level monitoring in clinical pharmacy practice. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 326": {
+    "subject_code": "PHRM",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Renal Pharmacotherapeutics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Case-based approach to pathophysiology, pharmacology, clinical pharmacokinetics, and pharmacotherapy in nephrology with emphasis on the integration and application of fundamental principles to clinical situations in class. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 327": {
+    "subject_code": "PHRM",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Precision Medicine",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Precision medicine approaches in research and medical practice to mitigate drug toxicity and improve drug efficacy. Equivalency: PHAR_V 421. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 328": {
+    "subject_code": "PHRM",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Pharmacology of Drugs of Misuse and Abuse",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Biological, pharmacological, and psychological aspects of drugs of misuse and abuse. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 329": {
+    "subject_code": "PHRM",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Leadership Experience Applied to Pharmacy (LEAP)",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Leadership skills in preparation for the practice of pharmacy in direct or non-direct patient care settings and contexts. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 330": {
+    "subject_code": "PHRM",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Pharmacy Practice in Acute and Critically Ill Patients",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Pharmaceutical care concepts for managing acute and critically ill patients. Prerequisite: A combined average of 70% or higher in PHRM_V 211 and PHRM_V 212, and all of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 331": {
+    "subject_code": "PHRM",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Queering Health",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "The historical and contemporary contexts of 2SLGBTQ+ health, the role of pharmacists, and select therapeutic topics related to 2SLGBTQ+ health. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 332": {
+    "subject_code": "PHRM",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Practical Applications of Pharmacoepidemiology & Health Economics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles and methods of collecting epidemiological and economic evidence used to assess the value of pharmaceuticals and services provided by pharmacists. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 333": {
+    "subject_code": "PHRM",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Pharmacotherapy in Oncology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Common oncological diseases and their drug treatment. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 334": {
+    "subject_code": "PHRM",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Supporting Patients with Substance Use Disorders",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Substance use disorders and their treatment; the pharmacist's role in working with individuals who have a substance use disorder. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 340": {
+    "subject_code": "PHRM",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Pain Research and Therapy",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Basic mechanisms and the clinical management of acute and chronic pain. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 341": {
+    "subject_code": "PHRM",
+    "course_code": "341",
+    "credit": "2",
+    "course_name": "Seminar: Pharmacists in Practice III",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Current and potential roles for pharmacists, and contemporary issues in pharmacy practice. Focus on the role of pharmacists as patient educators, researchers and collaborators in interprofessional teams. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 346": {
+    "subject_code": "PHRM",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Diabesity",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Current issues in obesity and diabetes from pathophysiology to patient care, with a focus on healthcare quality improvement, patient safety, and optimizing outcomes. Prerequisite: All of PHRM_V 271, PHRM_V 272. Equivalency: PHAR_V 546. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 351": {
+    "subject_code": "PHRM",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Practice Management and Leadership",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of management and leadership principles and skills to pharmacy operations. Prerequisite: All of PHRM_V 271, PHRM_V 272. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 371": {
+    "subject_code": "PHRM",
+    "course_code": "371",
+    "credit": "10",
+    "course_name": "Outpatient I Advanced Pharmacy Practice Experience",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Direct patient care activities in an outpatient setting, with increasing diversity of patient care situations. Pass/Fail. Prerequisite: All of PHRM_V 311, PHRM_V 312, PHRM_V 341, PHRM_V 351. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 441": {
+    "subject_code": "PHRM",
+    "course_code": "441",
+    "credit": "1",
+    "course_name": "Seminar: Advanced Topics in Pharmacy Practice",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Pharmacists in practice, emerging pharmacy practice issues and pharmacists as preceptors. Pass/Fail. Prerequisite: PHRM_V 371. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 450": {
+    "subject_code": "PHRM",
+    "course_code": "450",
+    "credit": "2",
+    "course_name": "PharmD Seminar",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Seminar course about current and potential roles for pharmacists. Students will also deliver an individual and a group seminar. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 451": {
+    "subject_code": "PHRM",
+    "course_code": "451",
+    "credit": "4",
+    "course_name": "Critical Appraisal of Pharmacotherapy Literature",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles of clinical study design, focusing on randomized controlled trials, systematic reviews, epidemiologic studies (cohort, case-control), pharmacoeconomic analyses, clinical prediction rules, and guidelines. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 452": {
+    "subject_code": "PHRM",
+    "course_code": "452",
+    "credit": "4",
+    "course_name": "Patient Assessment Skills",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles and practices of patient assessment, applied to the monitoring of drug efficacy and toxicity. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 453": {
+    "subject_code": "PHRM",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Applied Pharmacokinetics and Pharmacogenomics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Pharmacokinetic monitoring of drug therapy in common clinical situations with foundations for application to other drugs. Pharmacogenomics and personalized medicine principles and applications to practice. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 454": {
+    "subject_code": "PHRM",
+    "course_code": "454",
+    "credit": "2",
+    "course_name": "Practice Management",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Values, concepts, issues and responsibilities of individuals exercising leadership and management roles in pharmacy practice and health care settings. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 461": {
+    "subject_code": "PHRM",
+    "course_code": "461",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 1",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Therapeutic foundations. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 462": {
+    "subject_code": "PHRM",
+    "course_code": "462",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 2",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Respirology, dermatology, and ears, eyes, nose, and throat. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 463": {
+    "subject_code": "PHRM",
+    "course_code": "463",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 3",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Cardiovascular disorders. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 464": {
+    "subject_code": "PHRM",
+    "course_code": "464",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 4",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Infectious diseases. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 465": {
+    "subject_code": "PHRM",
+    "course_code": "465",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 5",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Neurology and psychiatry. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 466": {
+    "subject_code": "PHRM",
+    "course_code": "466",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 6",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Gastroenterology and musculoskeletal disorders. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 467": {
+    "subject_code": "PHRM",
+    "course_code": "467",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 7",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Genitourinary disorders, reproductive health, endocrinology, and nephrology. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 468": {
+    "subject_code": "PHRM",
+    "course_code": "468",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 8",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Oncology, hematology, and toxicology. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 469": {
+    "subject_code": "PHRM",
+    "course_code": "469",
+    "credit": "2",
+    "course_name": "Pharmacotherapeutics 9",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Acute and critical care of nephrology, neurology, cardiovascular disorders, gastroenterology, infectious diseases, and respirology. Pass/Fail. Prerequisite: PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 471": {
+    "subject_code": "PHRM",
+    "course_code": "471",
+    "credit": "10",
+    "course_name": "Outpatient II Advanced Pharmacy Practice Experience",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Direct patient care activities in an outpatient setting, with increasingly complex drug-therapy problems in a wide range of therapeutic areas. Pass/Fail. Prerequisite: PHRM_V 371. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 472": {
+    "subject_code": "PHRM",
+    "course_code": "472",
+    "credit": "10",
+    "course_name": "Inpatient and Health Authority-Based Advanced Pharmacy Practice Experience",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Direct patient care activities in inpatient and other health authority based-settings, with increasingly complex drug-therapy problems in a wide range of therapeutic areas. Pass/Fail. Prerequisite: PHRM_V 371. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 473": {
+    "subject_code": "PHRM",
+    "course_code": "473",
+    "credit": "5-10",
+    "course_name": "Selected Advanced Pharmacy Practice Experience",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Diverse pharmacy practice experiences in various pharmacy practice, research, health policy, education, and other settings. Placement options will vary from year to year depending on practicum site availability. Pass/Fail. Prerequisite: PHRM_V 371. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 481": {
+    "subject_code": "PHRM",
+    "course_code": "481",
+    "credit": "2",
+    "course_name": "Healthcare Quality Improvement",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Builds on the foundation of patient care and management learning with knowledge about healthcare system improvement. Focuses on principles of quality measurement and quality improvement in health. Pass/Fail. Prerequisite: PHRM_V 371. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 491": {
+    "subject_code": "PHRM",
+    "course_code": "491",
+    "credit": "6",
+    "course_name": "Advanced Pharmacy Practice Experience - Outpatient",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of outpatient settings. Pass/Fail. Prerequisite: All of PHRM_V 451, PHRM_V 452, PHRM_V 453, PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 492": {
+    "subject_code": "PHRM",
+    "course_code": "492",
+    "credit": "6",
+    "course_name": "Advanced Pharmacy Practice Experience - Inpatient and Health Authority-Based",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of inpatient and/or health authority-based settings. Pass/Fail. Prerequisite: All of PHRM_V 451, PHRM_V 452, PHRM_V 453, PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 493": {
+    "subject_code": "PHRM",
+    "course_code": "493",
+    "credit": "6",
+    "course_name": "Advanced Pharmacy Practice Experience - Specialized Outpatient",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of specialized outpatient settings. Prerequisite: All of PHRM_V 451, PHRM_V 452, PHRM_V 453, PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 494": {
+    "subject_code": "PHRM",
+    "course_code": "494",
+    "credit": "6",
+    "course_name": "Advanced Pharmacy Practice Experience - Ambulatory/Primary Care",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in a variety of ambulatory or primary care settings. Pass/Fail. Prerequisite: All of PHRM_V 451, PHRM_V 452, PHRM_V 453, PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 495": {
+    "subject_code": "PHRM",
+    "course_code": "495",
+    "credit": "6",
+    "course_name": "Advanced Pharmacy Practice Experience - Selected Direct Patient Care",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of integrated problem-solving skills to resolve increasingly complex drug-therapy problems in outpatient or inpatient settings. Pass/Fail. Prerequisite: All of PHRM_V 451, PHRM_V 452, PHRM_V 453, PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 496": {
+    "subject_code": "PHRM",
+    "course_code": "496",
+    "credit": "8",
+    "course_name": "Advanced Pharmacy Practice Experience - Selected Direct Patient Care or Non-Direct Patient Care",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Options available in such domains as patient care (various settings), research, health policy, education, and others. The available placement options will vary from year to year depending on site/practice educator availability. Pass/Fail. Prerequisite: All of PHRM_V 451, PHRM_V 452, PHRM_V 453, PHRM_V 461. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 499": {
+    "subject_code": "PHRM",
+    "course_code": "499",
+    "credit": "1",
+    "course_name": "Comprehensive Examination",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Assessment of skills in the clinical problem-solving process. Pass/Fail. Prerequisite: Successful completion of all other coursework. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 520": {
+    "subject_code": "PHRM",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Leadership and Organizational Behaviour",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 521": {
+    "subject_code": "PHRM",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Evidence-Informed Decision-Making in Healthcare",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Corequisite: PHRM_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 522": {
+    "subject_code": "PHRM",
+    "course_code": "522",
+    "credit": "6",
+    "course_name": "Contemporary Leadership Issues in Pharmacy",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Corequisite: PHRM_V 520. Prerequisite: PHRM_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 523": {
+    "subject_code": "PHRM",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Pharmacy Leaders as Educators",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Corequisite: PHRM_V 520. Prerequisite: PHRM_V 522. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHRM 524": {
+    "subject_code": "PHRM",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Seminar: Leadership Effectiveness in Pharmacy",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Corequisite: PHRM_V 520. Prerequisite: PHRM_V 523. This course is not eligible for Credit/D/Fail grading."
+  }
+}

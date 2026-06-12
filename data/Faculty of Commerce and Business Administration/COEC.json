@@ -1,0 +1,98 @@
+{
+  "COEC 293": {
+    "subject_code": "COEC",
+    "course_code": "293",
+    "credit": "3",
+    "course_name": "Financial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Construction and interpretation of financial reports prepared primarily for external use. Credit will be granted for only one of COEC_V 293 or COMM_V 293. Equivalency: COMM_V 293. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 294": {
+    "subject_code": "COEC",
+    "course_code": "294",
+    "credit": "3",
+    "course_name": "Managerial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to the development and use of accounting information for management planning and control and the development of cost information for financial reports. Credit will be granted for only one of COEC_V 294 or COMM_V 294. Prerequisite: One of COEC_V 293, COMM_V 293. Equivalency: COMM_V 294. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 365": {
+    "subject_code": "COEC",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Market Research",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The process of marketing research including problem/opportunity formulation, research objectives, data sources, research instrument design, sampling, data collection and processing and methods of data analysis. Credit will be granted for only one of COEC_V 365 or COMM_V 365. Prerequisite: Either (a) all of ECON_V 315, ECON_V 316 or (b) ECON_V 308. Equivalency: COMM_V 365. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 370": {
+    "subject_code": "COEC",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Corporate Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Corporate enterprise decisions including capital budgeting; capital structure choice; and financial policies, tools, and valuation. Credit will be granted for only one of COEC_V 370 or COMM_V 370. Prerequisite: Either (a) all of ECON_V 315, ECON_V 316 or (b) ECON_V 308. Equivalency: COMM_V 370. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 371": {
+    "subject_code": "COEC",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Investment Theory",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Basic concepts of finance, including security valuation, security markets, and financial decisions concerning risk and return. Credit will be granted for only one of COEC_V 371 or COMM_V 371. Prerequisite: Either (a) ECON_V 308 or (b) all of ECON_V 315, ECON_V 316. Equivalency: COMM_V 371. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 377": {
+    "subject_code": "COEC",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "International Financial Markets and Institutions",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Structure, nature and institutions of foreign exchange markets, including spot, forward, futures, options, and offshore currency markets. Factors affecting exchange rates are also discussed. Credit will be granted for only one of ECON_V 456, COEC_V 377, or COMM_V 377. Prerequisite: COEC_V 371. Equivalency: COMM_V 377. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 387": {
+    "subject_code": "COEC",
+    "course_code": "387",
+    "credit": "3",
+    "course_name": "Entrepreneurial Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Financial issues encountered by those active on the investing side of entrepreneurship, such as working for banks, venture capital firms, or corporate venture organizations, or anyone interacting with entrepreneurs and private equity investors. Credit will be granted for only one of COEC 387, COMM 387, or COMR 387. Equivalency: COMM387, COMR387"
+  },
+  "COEC 437": {
+    "subject_code": "COEC",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Database Technology",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Theory and technology of database management from an applications perspective; database design; database administration. Credit will be granted for only one of COEC_V 437, COMM_V 437, or CPSC_V 304. Equivalency: COMM_V 437. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 475": {
+    "subject_code": "COEC",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "The Economics & Policy of the Environment, Energy, and Natural Resources",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Economic analysis of environmental problems, energy systems, and natural resources. Policy options to help resolve these issues. Credit will be granted for only one of COEC 475, COMM 487, COMM 597, or ECON 371. Prerequisite: ECON 315 and one of ECON 316, ECON 308."
+  },
+  "COEC 491": {
+    "subject_code": "COEC",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Concepts and processes for the strategic management of single- and multi-business unit private sector enterprises, analyzed using the case method. Integrates methodologies from economic and organizational theory to form the foundations for strategic analyses. Credit will be granted for only one of COEC_V 491 or COMM_V 491. Equivalency: COMM_V 491. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 497": {
+    "subject_code": "COEC",
+    "course_code": "497",
+    "credit": "3",
+    "course_name": "New Enterprise Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The particular problems and experiences encountered in starting, developing, and managing new enterprises. The course includes lectures, guest speakers, and case studies. Credit will be granted for only one of COEC_V 497, COMM_V 497, or COMR_V 497. Equivalency: COMM_V 497, COMR_V 497. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COEC 498": {
+    "subject_code": "COEC",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "International Business Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Development of general environmental framework for international business studies by drawing on international and development economics, research into government-business relations and studies in comparative socio-cultural systems and political systems. Credit will be granted for only one of COEC_V 498 or COMM_V 498. Equivalency: COMM_V 498. This course is not eligible for Credit/D/Fail grading."
+  }
+}

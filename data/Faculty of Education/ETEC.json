@@ -1,0 +1,194 @@
+{
+  "ETEC 500": {
+    "subject_code": "ETEC",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Research Methodology in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 510": {
+    "subject_code": "ETEC",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Design of Technology-Supported Learning Environments",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 511": {
+    "subject_code": "ETEC",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "New Foundations of Educational Technology",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 512": {
+    "subject_code": "ETEC",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Applications of Learning Theories to the Analysis of Instructional Settings",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 520": {
+    "subject_code": "ETEC",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Planning and Managing eLearning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 521": {
+    "subject_code": "ETEC",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Indigeneity, Technology, and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 522": {
+    "subject_code": "ETEC",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "The Innovative Educator",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 523": {
+    "subject_code": "ETEC",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Mobile Intelligence",
+    "faculty": "Faculty of Education",
+    "description": "Experiential immersion in the proven and emerging educational potentials of mobile technologies and open learning. Theory and strategy of mobile and open education through collective critical analysis of trending knowledge. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 524": {
+    "subject_code": "ETEC",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Learning Technologies: Selection, Design, and Application",
+    "faculty": "Faculty of Education",
+    "description": "Theoretical frameworks to assist educators in evaluating, selecting, and using various learning technologies. Hands-on experience using a range of learning technologies and platforms, including learning and content management systems and multimedia and social media tools. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 530": {
+    "subject_code": "ETEC",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Constructivist Strategies for eLearning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 531": {
+    "subject_code": "ETEC",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Curriculum Issues in Cultural and New Media Studies",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 532": {
+    "subject_code": "ETEC",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Technology in Arts and Humanities Classrooms",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 533": {
+    "subject_code": "ETEC",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Technology in the Mathematics and Science Classroom",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 534": {
+    "subject_code": "ETEC",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Metatheory: New Materialism meets the History of Educational Media",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 540": {
+    "subject_code": "ETEC",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Text Technologies: The Changing Spaces of Reading and Writing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 541": {
+    "subject_code": "ETEC",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Energy Literacy in Society and Digital Culture",
+    "faculty": "Faculty of Education",
+    "description": "Basic energy systems and technologies in the context of the cultural and social dimensions of environmental education and climate emergency--through conceptual, digital, and narrative models, as well as policy, design, and science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 542": {
+    "subject_code": "ETEC",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Culture and Communication in Virtual Learning Environments",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 543": {
+    "subject_code": "ETEC",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Understanding Learning Analytics",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 544": {
+    "subject_code": "ETEC",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Digital Games & Learning",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 545": {
+    "subject_code": "ETEC",
+    "course_code": "545",
+    "credit": "0",
+    "course_name": "Tec de Monterrey",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 565": {
+    "subject_code": "ETEC",
+    "course_code": "565",
+    "credit": "3-12",
+    "course_name": "Special Course in Subject Matter Field",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 580": {
+    "subject_code": "ETEC",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Problems in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 581": {
+    "subject_code": "ETEC",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "MET Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ETEC 590": {
+    "subject_code": "ETEC",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Project",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

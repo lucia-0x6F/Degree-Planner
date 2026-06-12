@@ -1,0 +1,98 @@
+{
+  "BAAC 500": {
+    "subject_code": "BAAC",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Financial Reporting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 501": {
+    "subject_code": "BAAC",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Financial Statement Analysis I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 505": {
+    "subject_code": "BAAC",
+    "course_code": "505",
+    "credit": "2.3",
+    "course_name": "Fundamentals of Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 510": {
+    "subject_code": "BAAC",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Cost Analysis for Decision Making",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 511": {
+    "subject_code": "BAAC",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Intermediate Managerial Accounting: Decision Making and Performance Evaluation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 520": {
+    "subject_code": "BAAC",
+    "course_code": "520",
+    "credit": "1.5",
+    "course_name": "Taxation and Decision Making I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 521": {
+    "subject_code": "BAAC",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Taxation and Decision Making II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 540": {
+    "subject_code": "BAAC",
+    "course_code": "540",
+    "credit": "0.7",
+    "course_name": "Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 550": {
+    "subject_code": "BAAC",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Foundations in Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Same as HCEC_V 502; credit will not be given for both. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 551": {
+    "subject_code": "BAAC",
+    "course_code": "551",
+    "credit": "1.5",
+    "course_name": "Foundations in Accounting II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 580": {
+    "subject_code": "BAAC",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAAC 590": {
+    "subject_code": "BAAC",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

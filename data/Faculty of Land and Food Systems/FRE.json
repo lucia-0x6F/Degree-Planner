@@ -1,0 +1,362 @@
+{
+  "FRE 290": {
+    "subject_code": "FRE",
+    "course_code": "290",
+    "credit": "3-6",
+    "course_name": "Introductory Topics in Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and interpretation of current issues in food and resource economics. Topics will vary from year to year. Prerequisite: One of ECON_V 101, ECON_V 310."
+  },
+  "FRE 295": {
+    "subject_code": "FRE",
+    "course_code": "295",
+    "credit": "3",
+    "course_name": "Managerial Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Economic foundations of managerial decision-making. Organization of the firm, demand theory, cost and production, market structure, competitive strategy, welfare-economic foundations of business regulation. Credit may be obtained for only one of ECON _V 301, ECON _V 304, COMM _V 295. Prerequisite: ECON_V 102, one of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101, and one of MATH_V 100, MATH_V 105, MATH_V 110, MATH_V 180."
+  },
+  "FRE 302": {
+    "subject_code": "FRE",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Small Business Management in Agri-food Industries",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Emphasizes the building of a business plan by exploring topics such as the planning process and financing, marketing and human resource concepts, as applied to an agri-food business, domestically and internationally. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 306": {
+    "subject_code": "FRE",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Introduction to Global Food Markets",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "An overview of global food markets including recent trends (e.g., vertical coordination, strategic alliances, multinationals and small firms in niche markets), marketing and trade institutions such as state-trading enterprises and WTO regulations, issues specific to developing nations, and case studies. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 326": {
+    "subject_code": "FRE",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Empirical Methods for Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Introduction to empirical methods with applications for problems in food and resource economics; standard linear regression and methods to address data deficiencies; interpretation of regression results for forecasting and policy analysis. Prerequisite: One of LFS_V 252, STAT_V 200, BIOL_V 300, FRST_V 231, ECON_V 325. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 340": {
+    "subject_code": "FRE",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "International Agricultural Development",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Characteristics, processes and sources of economic growth, role of agricultural and resource sectors in economic growth, analysis of output and input markets in those sectors, policy failures, tools for empirical analysis of rural markets, growth, and the environment. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 374": {
+    "subject_code": "FRE",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Land and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Willingness to pay, opportunity costs, externalities, and market failures in natural resource markets; dynamic efficiency; economic applications including mineral, marine, forest, land, water, and biodiversity. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101. Equivalency: ECON_V 374"
+  },
+  "FRE 385": {
+    "subject_code": "FRE",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "Quantitative Methods for Business and Resource Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Spreadsheet modeling and analysis of business and resource management problems: decision analysis, forecasting, linear programming, simulation modeling, and inventory management. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101 and one of LFS_V 252, BIOL_V 300, FRST_V 231, STAT_V 200, ECON_V 325."
+  },
+  "FRE 394": {
+    "subject_code": "FRE",
+    "course_code": "394",
+    "credit": "3",
+    "course_name": "Environment, Society and Government",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Roles of government and business in the Canadian economy, emphasizing interactions with the environment and society, including Indigenous communities. Ethical foundations of government, business and personal decision-making. Prerequisite: One of COMM_V 295, ECON_V 301. Equivalency: COMM_V 394. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 402": {
+    "subject_code": "FRE",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Market Research and Analysis in Agri-Food Industries",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Macro and micro aspects of agri-food market and industry analysis, market strategy, consumer behaviour, secondary market research, quantitative and qualitative market research. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 420": {
+    "subject_code": "FRE",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "The Economics of International Trade and the Environment",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Market failure and gains from trade in the presence of environmental externalities; multilateral trade and environmental agreements; case studies, including biological invasions, transport emissions, climate-induced migration, carbon leakage, ivory trade, food miles. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 426": {
+    "subject_code": "FRE",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Predictive Analytics for Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Statistical and machine learning algorithms for predictive analytics in the context of relevant problems in food, sustainability, and resource-related issues. Prerequisite: FRE 326."
+  },
+  "FRE 430": {
+    "subject_code": "FRE",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Spatial Data Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Spatial data and its analysis in the R programming language including satellite remote sensing of environmental and human variables using color and texture-based approaches. Prerequisites: One of LFS_V 252, STAT_V 200, STAT_V 201, BIOL_V 300, ECON_V 325, ECON _V 326, ECON_V 327, COMM_V 191, FRST_V 231, GEOG_V 374. And either one of CPSC_V 203, CPSC_V 210, EOSC_V 211, ECON_V 323, FRE_V 326, COMM_V 337 or one of GEOS_V 370, GEOS_V 373."
+  },
+  "FRE 460": {
+    "subject_code": "FRE",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Economics of Food Consumption",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Microeconomics of consumer decisions and public policy in food contexts; foodborne illness; economic causes and consequences of obesity; sin taxes and prohibitions; information campaigns and advertising; labeling; food waste and ethics. Prerequisite: One of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 474": {
+    "subject_code": "FRE",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Causal Inference in the Economics of Natural Resource Conservation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Estimating causal relationships in natural resource economics; applied data analysis; econometrics; counterfactual thinking, and applications to the economics of: natural resource conservation, species loss and extraction, protected areas, international trade of wildlife products, and endangered species legislation. Prerequisite: One of LFS_V 252, STAT_V 200, BIOL_V 300, ECON_V 325, COMM_V 291, FRST_V 231 and one of ECON_V 101, ECON_V 310, FRST_V 101, LFS_V 101."
+  },
+  "FRE 490": {
+    "subject_code": "FRE",
+    "course_code": "490",
+    "credit": "3-12",
+    "course_name": "Current Issues in Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "[3-0] Prerequisite: One of ECON_V 101, ECON_V 310."
+  },
+  "FRE 497": {
+    "subject_code": "FRE",
+    "course_code": "497",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Prerequisite: Approval of program advisor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 499": {
+    "subject_code": "FRE",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Undergraduate Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Design and execution of an experimental/analytical research project leading to preparation of a thesis. Prerequisite: Approval of a program advisor; consult before the end of classes in third year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 500": {
+    "subject_code": "FRE",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "MSc Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 501": {
+    "subject_code": "FRE",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Strategic Economic Analysis of Agri-Food Markets",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 502": {
+    "subject_code": "FRE",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Food Market Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 504": {
+    "subject_code": "FRE",
+    "course_code": "504",
+    "credit": "1.5",
+    "course_name": "Agricultural and Resource Policy Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 505": {
+    "subject_code": "FRE",
+    "course_code": "505",
+    "credit": "1.5",
+    "course_name": "Agricultural and Resource Policy Analysis - Policy and Project Evaluation Tools",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 515": {
+    "subject_code": "FRE",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Agribusiness Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Credit will be granted for only one of FNH_V 415, FOOD_V 515 or FRE_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 516": {
+    "subject_code": "FRE",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Financial and Marketing Management in Agri-food Industries",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 517": {
+    "subject_code": "FRE",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Futures Trading in Agricultural Commodities",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 518": {
+    "subject_code": "FRE",
+    "course_code": "518",
+    "credit": "1.5",
+    "course_name": "Survey Design and Data Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 520": {
+    "subject_code": "FRE",
+    "course_code": "520",
+    "credit": "2",
+    "course_name": "Professional Masters Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 521": {
+    "subject_code": "FRE",
+    "course_code": "521",
+    "credit": "1-3",
+    "course_name": "Topics in Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 522": {
+    "subject_code": "FRE",
+    "course_code": "522",
+    "credit": "1.5",
+    "course_name": "Environmental Externalities in the Global Economy",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Prerequisite: FRE_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 523": {
+    "subject_code": "FRE",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "Resource Economics I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 524": {
+    "subject_code": "FRE",
+    "course_code": "524",
+    "credit": "1.5",
+    "course_name": "Resource Economics II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 526": {
+    "subject_code": "FRE",
+    "course_code": "526",
+    "credit": "1.5",
+    "course_name": "Environmental Economics and Policy: Theory",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 527": {
+    "subject_code": "FRE",
+    "course_code": "527",
+    "credit": "1.5",
+    "course_name": "Environmental Economics and Policy: Empirical Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 528": {
+    "subject_code": "FRE",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Applied Econometrics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 529": {
+    "subject_code": "FRE",
+    "course_code": "529",
+    "credit": "1.5",
+    "course_name": "Estimating Econometric Models",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 530": {
+    "subject_code": "FRE",
+    "course_code": "530",
+    "credit": "1.5",
+    "course_name": "Econometrics with Time Series Data",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 531": {
+    "subject_code": "FRE",
+    "course_code": "531",
+    "credit": "1.5",
+    "course_name": "Global Food and Resource Governance",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 541": {
+    "subject_code": "FRE",
+    "course_code": "541",
+    "credit": "1.5",
+    "course_name": "Project Monitoring and Evaluation in International Development",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 547": {
+    "subject_code": "FRE",
+    "course_code": "547",
+    "credit": "6",
+    "course_name": "Graduating Project",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 585": {
+    "subject_code": "FRE",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Quantitative Methods for Business and Natural Resource Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 600": {
+    "subject_code": "FRE",
+    "course_code": "600",
+    "credit": "3",
+    "course_name": "PhD Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 601": {
+    "subject_code": "FRE",
+    "course_code": "601",
+    "credit": "3",
+    "course_name": "Advanced Microeconomic Theory for Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Prerequisite: ECON_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 602": {
+    "subject_code": "FRE",
+    "course_code": "602",
+    "credit": "3",
+    "course_name": "Advanced Econometrics for Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Prerequisite: ECON_V 527. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FRE 603": {
+    "subject_code": "FRE",
+    "course_code": "603",
+    "credit": "3",
+    "course_name": "Advanced Food and Resource Economics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Prerequisite: One of FRE 523, FRE 524, ECON 573 This course is not eligible for Credit/D/Fail grading."
+  }
+}

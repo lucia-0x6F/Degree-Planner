@@ -1,0 +1,162 @@
+{
+  "FNIS 100": {
+    "subject_code": "FNIS",
+    "course_code": "100",
+    "credit": "3-6",
+    "course_name": "Indigenous Foundations",
+    "faculty": "Faculty of Arts",
+    "description": "The historical, cultural, political, economic and legal issues that inform the experiences of Indigenous peoples in Canada, examined from both Indigenous and non-Indigenous perspectives. Credit will be granted for only one of FNIS 100, FNSP 100, or FNSP 200. Restricted to Undergraduate Students."
+  },
+  "FNIS 210": {
+    "subject_code": "FNIS",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Indigenous Politics and Self-Determination",
+    "faculty": "Faculty of Arts",
+    "description": "The cultural, historical, political, economic, and gender dynamics that structure the relationship between Indigenous peoples and the state in Canada; Indigenous self-determination struggles in relation to constitutional recognition, self-government, land claims, and economic development. Credit will be granted for only one of FNSP 200, FNIS 210, or FNSP 210. Restricted to Undergraduate Students. Recommended pre-requisite: FNIS 100."
+  },
+  "FNIS 220": {
+    "subject_code": "FNIS",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Representation and Indigenous Cultural Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Representation, identity, and cultural politics through Indigenous literature, film, and the visual arts; the relationship between these sites of cultural production and the self-determination struggles of Indigenous peoples. Credit will be granted for only one of FNSP 200, FNIS 220, or FNSP 220. Restricted to Undergraduate Students. Recommended pre-requisite: FNIS 100"
+  },
+  "FNIS 260": {
+    "subject_code": "FNIS",
+    "course_code": "260",
+    "credit": "3-12",
+    "course_name": "Applied Learning: Collaborative Place-Based Research",
+    "faculty": "Faculty of Arts",
+    "description": "Topic and community/location of instruction will vary from year to year. Applied, intense delivery experiential learning course designed and implemented in collaboration with faculty and Indigenous community partner(s). Examines the importance of Indigenous place-based research and learning for student and community empowerment. Restricted to Undergraduate Students. Prerequisite: Permission of the Instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 300": {
+    "subject_code": "FNIS",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Writing First Nations",
+    "faculty": "Faculty of Arts",
+    "description": "writing-intensive course examining approaches to writing Indigenous research: Representation & the Other; Indigenous critiques of research & representation; Indigenous, feminist and cultural studies approaches to writing ethnography, oral history, and related research methods. Credit will be granted for only one of FNIS_V 300 or FNSP_V 300. Restricted to Undergraduate Students. Prerequisite: Either (a) one of FNIS_V 210, FNIS_V 220 or (b) one of FNSP_V 210, FNSP_V 220. Equivalency: FNSP_V 300. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 310": {
+    "subject_code": "FNIS",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Critical Indigenous Theory Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Adapting and integrating current conceptual paradigms in the humanities, social sciences, performing arts, and Indigenous studies into approaches in First Nations/Indigenous Studies, including identity construction, political and cultural self-determination, representation, essentialism/authenticity, ethics, and decolonization. Credit will be granted for only one of FNIS_V 310 or FNSP_V 310. Restricted to Undergraduate Students. Prerequisite: Either (a) FNSP_V 200 or (b) all of FNIS_V 210, FNIS_V 220 or (c) all of FNSP_V 210, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 320": {
+    "subject_code": "FNIS",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Critical Indigenous Methodologies and Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Responsible and community-based research from a critical Indigenous perspective; methods for identifying and assessing research materials, critical analysis, oral history/qualitative research interviewing and analysis, and research ethics in the design and implementation of community-based student research projects. Credit will be granted for only one of FNIS_V 320 or FNSP_V 320. Restricted to Undergraduate Students. Prerequisite: Either (a) FNIS_V 310 or (b) FNSP_V 310. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 360": {
+    "subject_code": "FNIS",
+    "course_code": "360",
+    "credit": "3-12",
+    "course_name": "Applied Learning: Collaborative Place-Based Research",
+    "faculty": "Faculty of Arts",
+    "description": "Topic and community/location of instruction will vary from year to year. Applied, intense delivery experiential learning course designed and implemented in collaboration with faculty and Indigenous community partner(s). Examines the importance of Indigenous place-based research and learning for student and community empowerment. Restricted to Undergraduate Students. Prerequisite: One of FNSP_V 200, FNIS_V 210, FNSP_V 210, FNIS_V 220, FNSP_V 220. And Permission of the Instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 400": {
+    "subject_code": "FNIS",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Practicum/Advanced Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Applied research/community oriented project designed and implemented in collaboration with student, faculty and Aboriginal community organization. Emphasis on examining ethical issues and developing culturally respectful and academically rigorous forms of research. Credit will be granted for only one of FNIS_V 400 or FNSP_V 400. Restricted to Majors in First Nations and Indigenous Studies. Prerequisite: Either (a) all of FNIS_V 310, FNIS_V 320 or (b) all of FNSP_V 310, FNSP_V 320. Students must pass FNIS_V 320 or FNSP_V 320 with a B- or higher or request program approval. Equivalency: FNSP_V 400. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 401": {
+    "subject_code": "FNIS",
+    "course_code": "401",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the departmental website: http://fnsp.arts.ubc.ca. Restricted to Undergraduate Students. Prerequisite: One of FNIS 100, FNSP 200, FNIS 210, FNSP 210, FNIS 220, FNSP 220."
+  },
+  "FNIS 433": {
+    "subject_code": "FNIS",
+    "course_code": "433",
+    "credit": "3-6",
+    "course_name": "Directed Study",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to Undergraduate Students."
+  },
+  "FNIS 451": {
+    "subject_code": "FNIS",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Indigenous Feminisms",
+    "faculty": "Faculty of Arts",
+    "description": "The historical, cultural, political, and activist roots of contemporary Indigenous feminisms. Indigenous feminist methodologies, theory, and praxis in relation to contemporary Indigenous politics and social justice movements. Credit will be granted for only one of FNSP_V 401D, FNIS_V 451, or FNSP_V 451. Restricted to Undergraduate Students. Prerequisite: One of FNIS_V 100, FNSP_V 200, FNIS_V 210, FNSP_V 210, FNIS_V 220, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 452": {
+    "subject_code": "FNIS",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Indigenous Social Movements",
+    "faculty": "Faculty of Arts",
+    "description": "Draws on Indigenous and non-Indigenous intellectual traditions to explore the theoretical, cultural, political, economic, and historical bases of Indigenous peoples decolonization struggles in Canada. Credit will be granted for only one of FNSP_V 401A, FNIS_V 452, or FNSP_V 452. Restricted to Undergraduate Students. Prerequisite: One of FNIS_V 100, FNSP_V 200, FNIS_V 210, FNSP_V 210, FNIS_V 220, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 453": {
+    "subject_code": "FNIS",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Indigenous Legal Traditions",
+    "faculty": "Faculty of Arts",
+    "description": "Socio-historical, political and cultural context of Indigenous legal traditions and strategies for ethical engagement within state and Indigenous polities. Methods include oral history analysis, legal theory, literary/narrative studies, and philosophy from an Indigenous studies perspective. Restricted to Undergraduate Students. Prerequisite: One of FNIS_V 100, FNSP_V 200, FNIS_V 210, FNSP_V 210, FNIS_V 220, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 454": {
+    "subject_code": "FNIS",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Indigenous New Media",
+    "faculty": "Faculty of Arts",
+    "description": "New media and digital storytelling works designed and implemented by Indigenous artists, authors, and programmers. Restricted to Undergraduate Students. Prerequisite: One of FNIS_V 100, FNSP_V 200, FNIS_V 210, FNSP_V 210, FNIS_V 220, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 455": {
+    "subject_code": "FNIS",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Indigenous Geographies: Our Home on Native Land",
+    "faculty": "Faculty of Arts",
+    "description": "Indigenous people's place-based relations, colonial processes of de-territorialization, and spatial negotiations of settler colonialism. Restricted to Undergraduate Students. Prerequisite: One of FNIS_V 100, FNSP_V 200, FNIS_V 210, FNSP_V 210, FNIS_V 220, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 456": {
+    "subject_code": "FNIS",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Indigenous Two-Spirit and Queer Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural contexts, scholarship, literature, and artistic expressions of Queer, LGBTI, and Two-Spirited Indigenous people, both as an academic area of study and as lived experience and relationship. Restricted to Undergraduate Students. Prerequisite: One of FNIS_V 100, FNIS_V 210, FNIS_V 220, FNSP_V 200, FNSP_V 210, FNSP_V 220. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 501": {
+    "subject_code": "FNIS",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 533": {
+    "subject_code": "FNIS",
+    "course_code": "533",
+    "credit": "3-6",
+    "course_name": "Directed Study",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FNIS 560": {
+    "subject_code": "FNIS",
+    "course_code": "560",
+    "credit": "3-6",
+    "course_name": "Applied Learning: Collaborative Place-Based Research",
+    "faculty": "Faculty of Arts",
+    "description": "Applied, immersive experiential learning course designed and implemented in collaboration with faculty and Indigenous community partner(s). Emphasis on examining the importance of Indigenous place-based research and learning for student and community empowerment. Topic and community/location of instruction will vary from year to year. Prerequisite: Permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  }
+}

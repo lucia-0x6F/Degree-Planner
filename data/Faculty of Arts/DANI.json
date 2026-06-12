@@ -1,0 +1,34 @@
+{
+  "DANI 100": {
+    "subject_code": "DANI",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Elementary Danish I",
+    "faculty": "Faculty of Arts",
+    "description": "Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Danish courses (DANI 100 and DANI 110), but are welcome to join the intermediate courses (DANI 200 and DANI 210)."
+  },
+  "DANI 110": {
+    "subject_code": "DANI",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Elementary Danish II",
+    "faculty": "Faculty of Arts",
+    "description": "Students with native or near-native proficiency in a Scandinavian language (e.g. Danish, Norwegian, Swedish) cannot participate in the elementary Danish courses (DANI 100 and DANI 110), but are welcome to join the intermediate courses (DANI 200 and DANI 210)."
+  },
+  "DANI 200": {
+    "subject_code": "DANI",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Intermediate Danish I",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "DANI 210": {
+    "subject_code": "DANI",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Intermediate Danish II",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  }
+}

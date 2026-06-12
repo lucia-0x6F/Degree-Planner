@@ -1,0 +1,106 @@
+{
+  "VRHC 501": {
+    "subject_code": "VRHC",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Issues in Vocational Rehabilitation Counselling",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 502": {
+    "subject_code": "VRHC",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Medical Aspects of Disability",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 503": {
+    "subject_code": "VRHC",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Vocational Implications of Disability",
+    "faculty": "Faculty of Education",
+    "description": "Corequisite: VRHC_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 504": {
+    "subject_code": "VRHC",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Job Development and Placement",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 505": {
+    "subject_code": "VRHC",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Rehabilitation Literature and Applications to Practice",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EPSE_V 481. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 507": {
+    "subject_code": "VRHC",
+    "course_code": "507",
+    "credit": "3-6",
+    "course_name": "Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 508": {
+    "subject_code": "VRHC",
+    "course_code": "508",
+    "credit": "6",
+    "course_name": "Internship",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 510": {
+    "subject_code": "VRHC",
+    "course_code": "510",
+    "credit": "8",
+    "course_name": "Vocational Evaluation Internship",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 511": {
+    "subject_code": "VRHC",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Case and Disability Management",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: All of VRHC_V 501, VRHC_V 502. At least 3 credits of VRHC_V 502 is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 512": {
+    "subject_code": "VRHC",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Psychosocial and Vocational Aspects of Disability",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: All of VRHC_V 501, VRHC_V 502, VRHC_V 511. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 513": {
+    "subject_code": "VRHC",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Case Management and Job Development Counselling",
+    "faculty": "Faculty of Education",
+    "description": "Integration of theoretical constructs and research evidence to develop the competencies required for the case management/coordination of a continuum of vocational/rehabilitation counselling services, including job development, placement strategies and interventions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 590": {
+    "subject_code": "VRHC",
+    "course_code": "590",
+    "credit": "0",
+    "course_name": "Major Paper",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "VRHC 599": {
+    "subject_code": "VRHC",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

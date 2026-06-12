@@ -1,0 +1,162 @@
+{
+  "BAIT 501": {
+    "subject_code": "BAIT",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Survey of Information Technology Applications in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 504": {
+    "subject_code": "BAIT",
+    "course_code": "504",
+    "credit": "1.5",
+    "course_name": "Business Database Technology",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 506": {
+    "subject_code": "BAIT",
+    "course_code": "506",
+    "credit": "1.5",
+    "course_name": "Business Modelling for Information Technology Applications",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 507": {
+    "subject_code": "BAIT",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Data Management for Business Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Databases and data management, data designs for business analytics; data access using structured query language; design interfaces facilitating user-centric access and queries. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 508": {
+    "subject_code": "BAIT",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Business Analytics Programming",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Programming for business analytics; problem definition, software design, program design, and system implementation; development of systems to implement common business applications. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 509": {
+    "subject_code": "BAIT",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Business Applications of Machine Learning",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Supervised and unsupervised machine learning algorithms, support vector machines, and ensemble methods for text mining projects. Applications in descriptive and predictive analytics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 510": {
+    "subject_code": "BAIT",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Project Management in Delivering Business Solutions",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 511": {
+    "subject_code": "BAIT",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Managing Information Technology",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 513": {
+    "subject_code": "BAIT",
+    "course_code": "513",
+    "credit": "1.5",
+    "course_name": "Managing e-Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 515": {
+    "subject_code": "BAIT",
+    "course_code": "515",
+    "credit": "1.5",
+    "course_name": "AI Commercialization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 516": {
+    "subject_code": "BAIT",
+    "course_code": "516",
+    "credit": "1.5",
+    "course_name": "Health and Technology",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 517": {
+    "subject_code": "BAIT",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Applications of Predictive Analytics and Machine Learning",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 518": {
+    "subject_code": "BAIT",
+    "course_code": "518",
+    "credit": "1.5",
+    "course_name": "Data Visualization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 519": {
+    "subject_code": "BAIT",
+    "course_code": "519",
+    "credit": "1.5",
+    "course_name": "Managing Automation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 521": {
+    "subject_code": "BAIT",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Introduction to Business Programming",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 527": {
+    "subject_code": "BAIT",
+    "course_code": "527",
+    "credit": "1.5",
+    "course_name": "Business Intelligence for Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 529": {
+    "subject_code": "BAIT",
+    "course_code": "529",
+    "credit": "1.5",
+    "course_name": "Data Modernization for Business Innovation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 550": {
+    "subject_code": "BAIT",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Information Technology for Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Not available to MBA students. Equivalency: HCEC_V 543. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 580": {
+    "subject_code": "BAIT",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Information Technology Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAIT 590": {
+    "subject_code": "BAIT",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Information Technology and Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "CHIL 500": {
+    "subject_code": "CHIL",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Research in Children's and Young Adult Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Multidisciplinary approaches to principles, practice, and current trends in academic research in children's literature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIL 599": {
+    "subject_code": "CHIL",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Thesis for Master of Arts in Children's Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

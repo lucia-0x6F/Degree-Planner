@@ -1,0 +1,98 @@
+{
+  "RUSS 101": {
+    "subject_code": "RUSS",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Learning Russian 1",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the language for beginners. Ability to enjoy communicating in everyday situations and cultural contexts. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 101 or RUSS _V 100."
+  },
+  "RUSS 102": {
+    "subject_code": "RUSS",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Learning Russian 2",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of RUSS _V 101. Find out more at https://cenes.ubc.ca/courses/ . Credit will be granted for only one of RUSS_V 102 or RUSS _V 100."
+  },
+  "RUSS 201": {
+    "subject_code": "RUSS",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Learning Russian 3",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of RUSS_V 102. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 201 or RUSS _V 200."
+  },
+  "RUSS 202": {
+    "subject_code": "RUSS",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Learning Russian 4",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of RUSS_V 201. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 202 or RUSS_V 200."
+  },
+  "RUSS 208": {
+    "subject_code": "RUSS",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Russian Conversation Practice 1",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasis on the study of oral communication skills and strategies. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 208 or RUSS_V 215. Equivalency: RUSS_V 215."
+  },
+  "RUSS 301": {
+    "subject_code": "RUSS",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Learning Russian 5",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of RUSS_V 202. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 301 or RUSS_V 300."
+  },
+  "RUSS 302": {
+    "subject_code": "RUSS",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Learning Russian 6",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of RUSS_V 301. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 302 or RUSS_V 300."
+  },
+  "RUSS 304": {
+    "subject_code": "RUSS",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Readings in Russophone Texts",
+    "faculty": "Faculty of Arts",
+    "description": "Texts are selected from 19th-, 20th-, and 21stcentury sources. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 304 or RUSS_V 305. Equivalency: RUSS_V 305."
+  },
+  "RUSS 307": {
+    "subject_code": "RUSS",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Russian through Film",
+    "faculty": "Faculty of Arts",
+    "description": "Conversation and composition using Russian film. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 307 or RUSS_V 316. Equivalency: RUSS_V 316."
+  },
+  "RUSS 308": {
+    "subject_code": "RUSS",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Russian Conversation Practice 2",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of RUSS_V 208. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 308 or RUSS_V 315. Equivalency: RUSS_V 315."
+  },
+  "RUSS 401": {
+    "subject_code": "RUSS",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Learning Russian through Critical Contemporary Topics",
+    "faculty": "Faculty of Arts",
+    "description": "Discussion and analysis of current issues in a Russian-speaking seminar format. Spoken and written communication about societal topics fostering advance competence. Continuation of RUSS_V 302. Find out more at https://cenes.ubc.ca/courses/ Credit will be granted for only one of RUSS_V 401 or RUSS_V 400."
+  },
+  "RUSS 441": {
+    "subject_code": "RUSS",
+    "course_code": "441",
+    "credit": "3-6",
+    "course_name": "Contemporary Russophone Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Find out more at https://cenes.ubc.ca/courses/ A maximum of 6 credits will be granted for RUSS_V 441 or RUSS_V 409. Equivalency: RUSS_V 409."
+  }
+}

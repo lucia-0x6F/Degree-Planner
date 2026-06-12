@@ -1,0 +1,98 @@
+{
+  "MEDD 411": {
+    "subject_code": "MEDD",
+    "course_code": "411",
+    "credit": "17",
+    "course_name": "Foundations of Medical Practice I",
+    "faculty": "Faculty of Medicine",
+    "description": "Integrating foundational and clinical sciences and clinical practice themes. Case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Organized on the basis of clinical presentations. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 412": {
+    "subject_code": "MEDD",
+    "course_code": "412",
+    "credit": "15",
+    "course_name": "Foundations of Medical Practice II",
+    "faculty": "Faculty of Medicine",
+    "description": "Increasingly complex clinical presentations through integration of foundational and clinical sciences and clinical practice themes. Developmental, case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 419": {
+    "subject_code": "MEDD",
+    "course_code": "419",
+    "credit": "8",
+    "course_name": "Foundations of Scholarship and Flexible Enhanced Learning I",
+    "faculty": "Faculty of Medicine",
+    "description": "Various medically-related learning experiences and scholarly activities. Emphasizes social accountability, introduces scholarly methods, and fosters innovation, creativity, and critical thought to prepare graduates for roles as scholars, lifelong learners, and leaders. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 421": {
+    "subject_code": "MEDD",
+    "course_code": "421",
+    "credit": "15",
+    "course_name": "Foundations of Medical Practice III",
+    "faculty": "Faculty of Medicine",
+    "description": "Increasingly complex clinical presentations integrating foundational sciences and clinical practice themes. Developmental, case-based approach fostering the development of evidence-based clinical reasoning and clinical skills. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 422": {
+    "subject_code": "MEDD",
+    "course_code": "422",
+    "credit": "15",
+    "course_name": "Foundations of Medical Practice IV and Transition into Clinical Education",
+    "faculty": "Faculty of Medicine",
+    "description": "Prepares students to transition from classroom-based to clinical learning environments. Increasingly complex clinical presentations integrating foundational sciences and clinical practice themes. Prepares students for clinical practice in Year 3 Clerkship. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 429": {
+    "subject_code": "MEDD",
+    "course_code": "429",
+    "credit": "6",
+    "course_name": "Flexible Enhanced Learning II",
+    "faculty": "Faculty of Medicine",
+    "description": "Opportunity to build on scholarly activities initiated in MEDD_V 419, or start new ones. Emphasizes social accountability and fosters innovation, creativity, and critical thought to prepare graduates for roles as scholars, lifelong learners, and leaders. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 431": {
+    "subject_code": "MEDD",
+    "course_code": "431",
+    "credit": "48",
+    "course_name": "Clerkship",
+    "faculty": "Faculty of Medicine",
+    "description": "Core experiences across the breadth of medicine through clinical and academic learning opportunities in ambulatory, hospital-based, and rural/remote settings. Interactions with patients under supervision. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 440": {
+    "subject_code": "MEDD",
+    "course_code": "440",
+    "credit": "24",
+    "course_name": "Senior Elective",
+    "faculty": "Faculty of Medicine",
+    "description": "Senior Elective encompasses 6 months of Year 4 of the MD undergraduate program. Students will choose from available electives between 2 and 4 weeks in duration and participate in all relevant clinical and academic activities associated with those electives. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 448": {
+    "subject_code": "MEDD",
+    "course_code": "448",
+    "credit": "9",
+    "course_name": "Transition into Postgraduate Education and Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Enables students to effectively transition from medical school to residency and medical practice. Complex clinical presentations that integrate foundational sciences and practice themes. Prepares students for practice as residents and physicians. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 449": {
+    "subject_code": "MEDD",
+    "course_code": "449",
+    "credit": "4",
+    "course_name": "Flexible Enhanced Learning III",
+    "faculty": "Faculty of Medicine",
+    "description": "Opportunity to build on scholarly activities initiated in MEDD_V 419 and 429, or start new ones. Emphasizes social accountability and fosters innovation and critical thought to prepare graduates for roles as scholars, lifelong learners, and leaders. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 451": {
+    "subject_code": "MEDD",
+    "course_code": "451",
+    "credit": "0",
+    "course_name": "Clinical Skills IV",
+    "faculty": "Faculty of Medicine",
+    "description": "Final examination for fourth year encompassing all clinical subjects. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDD 499": {
+    "subject_code": "MEDD",
+    "course_code": "499",
+    "credit": "4-8",
+    "course_name": "Clinical Electives",
+    "faculty": "Faculty of Medicine",
+    "description": "Summer clinical experience for UBC medical graduates who did not attain a residency position. Prerequisite: Students must have a UBC MD degree and have fully completed applications to residency positions for the first iteration of the postgraduate match in their Year 4 (submission of a Rank Order List to the Canadian Residency Matching Service, CaRMS). Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

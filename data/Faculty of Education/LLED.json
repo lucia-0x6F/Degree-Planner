@@ -1,0 +1,1090 @@
+{
+  "LLED 200": {
+    "subject_code": "LLED",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Writing in Academic and Professional Registers",
+    "faculty": "Faculty of Education",
+    "description": "Examination of sociolinguistic knowledge and skills that are central to the production of academic and professional texts."
+  },
+  "LLED 201": {
+    "subject_code": "LLED",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Critical Reading and Writing in Academic and Professional Registers",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 206": {
+    "subject_code": "LLED",
+    "course_code": "206",
+    "credit": "3-6",
+    "course_name": "Language Field Experience",
+    "faculty": "Faculty of Education",
+    "description": "Guided individual and group projects related to concurrent studies. Field-based assignments related to language study."
+  },
+  "LLED 210": {
+    "subject_code": "LLED",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Introduction to Analyzing Meanings of Images in Texts",
+    "faculty": "Faculty of Education",
+    "description": "Systematic analysis of visual and verbal modalities in academic and professional registers through a grammar designed for this purpose."
+  },
+  "LLED 211": {
+    "subject_code": "LLED",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Field Research in Social Processes of Inclusion and Exclusion: Discourse Perspectives",
+    "faculty": "Faculty of Education",
+    "description": "Roles that social discourses of inclusion and exclusion play in intercultural integration."
+  },
+  "LLED 212": {
+    "subject_code": "LLED",
+    "course_code": "212",
+    "credit": "3",
+    "course_name": "Introduction to Language Communities and Variation in Language Practices",
+    "faculty": "Faculty of Education",
+    "description": "Sociolinguistic analysis of language variation according to age, ethnicity, class, race, and gender, and how these variations function in both reflecting and constructing specific identities and memberships in society."
+  },
+  "LLED 213": {
+    "subject_code": "LLED",
+    "course_code": "213",
+    "credit": "3",
+    "course_name": "Introduction to Intercultural Communication and Socialization in Diverse Contexts",
+    "faculty": "Faculty of Education",
+    "description": "This course examines intercultural communication and language socialization relevant to the formation and preservation of cultural groups, as well as relations between groups."
+  },
+  "LLED 220": {
+    "subject_code": "LLED",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Introduction to Translating in a Globalized Society",
+    "faculty": "Faculty of Education",
+    "description": "Basic tenets of translation as a methodology for increasing students' sociocultural understanding, intercultural communication, pragmatics, and written English."
+  },
+  "LLED 221": {
+    "subject_code": "LLED",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Language Maintenance and the Integration of Immigrants in Canada: An Introduction",
+    "faculty": "Faculty of Education",
+    "description": "The concept of societal and individual bilingualism/multilingualism in a variety of settings, including Canada in particular."
+  },
+  "LLED 222": {
+    "subject_code": "LLED",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Introduction to Public and Private Language Practices in a Globalized Society",
+    "faculty": "Faculty of Education",
+    "description": "Exploration of the interrelationships between language structure, usage and social context and the interpretive differences that may result from their interaction."
+  },
+  "LLED 223": {
+    "subject_code": "LLED",
+    "course_code": "223",
+    "credit": "3",
+    "course_name": "Introduction to the Nature of World Englishes",
+    "faculty": "Faculty of Education",
+    "description": "Exploration of the emergence of new English varieties, as well as a critical examination of main reasons linked to the rise of English worldwide and its proposed role as a neutral global language."
+  },
+  "LLED 226": {
+    "subject_code": "LLED",
+    "course_code": "226",
+    "credit": "3-6",
+    "course_name": "Introduction to Language Across the Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "Understanding text structure within, and language diversity among, subject areas. Analysis of oral and written language from various curriculum areas in which English is the medium of instruction; implications for learning and instruction. [1.5-3-0]"
+  },
+  "LLED 300": {
+    "subject_code": "LLED",
+    "course_code": "300",
+    "credit": "5",
+    "course_name": "Foundations of Language and Literacy Education: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 301": {
+    "subject_code": "LLED",
+    "course_code": "301",
+    "credit": "4",
+    "course_name": "Language Across the Curriculum in Multilingual Classrooms: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 310": {
+    "subject_code": "LLED",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Introduction to Reading and Language Arts Instruction: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 312": {
+    "subject_code": "LLED",
+    "course_code": "312",
+    "credit": "4-5",
+    "course_name": "Curriculum and Instruction in French: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Taught in French. Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 313": {
+    "subject_code": "LLED",
+    "course_code": "313",
+    "credit": "4-5",
+    "course_name": "Curriculum and Instruction in Theatre and Drama: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 315": {
+    "subject_code": "LLED",
+    "course_code": "315",
+    "credit": "3-5",
+    "course_name": "English as a Second Language - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 318": {
+    "subject_code": "LLED",
+    "course_code": "318",
+    "credit": "4-5",
+    "course_name": "Curriculum and Instruction in Modern Languages: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "A completed concentration in a modern language (Chinese, German, Italian, Japanese, Russian, Spanish, or Punjabi) or permission of the Head. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 320": {
+    "subject_code": "LLED",
+    "course_code": "320",
+    "credit": "4",
+    "course_name": "Curriculum and Instruction in Language and Literacy Education: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [2-4-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 323": {
+    "subject_code": "LLED",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Teaching and Learning Modern Languages: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Curriculum and methods of teaching in modern languages (including Chinese, French, German, Italian, Japanese, Punjabi, Russian, and Spanish). This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 324": {
+    "subject_code": "LLED",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Teaching and Learning French: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "An introduction to communicative core French teaching and learning for generalists. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 325": {
+    "subject_code": "LLED",
+    "course_code": "325",
+    "credit": "4-6",
+    "course_name": "Teaching and Learning French in Elementary Schools",
+    "faculty": "Faculty of Education",
+    "description": "Taught in French. Strategies, theoretical foundations, and approaches related to teaching elementary French (Immersion, Core, Intensive) programs. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 326": {
+    "subject_code": "LLED",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Introduction to Teaching and Learning Mandarin: Elementary/Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail for B.Ed. students. Non-B.Ed. students are eligible for percentage grading or Credit/D/Fail."
+  },
+  "LLED 336": {
+    "subject_code": "LLED",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Communication: Voice, Audience, Message",
+    "faculty": "Faculty of Education",
+    "description": "Knowledge and development of skills necessary to create a transactional style of teaching. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 350": {
+    "subject_code": "LLED",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Classroom Discourses: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 351": {
+    "subject_code": "LLED",
+    "course_code": "351",
+    "credit": "2",
+    "course_name": "Literacy Practices and Assessment: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 352": {
+    "subject_code": "LLED",
+    "course_code": "352",
+    "credit": "2",
+    "course_name": "Teaching and Learning French as a Second Language in Multilingual Settings: Elementary.",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 353": {
+    "subject_code": "LLED",
+    "course_code": "353",
+    "credit": "2",
+    "course_name": "Teaching and Learning English as an Additional Language: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 360": {
+    "subject_code": "LLED",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Classroom Discourses and Teaching English Language Learners: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 361": {
+    "subject_code": "LLED",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Literacy Practices and Assessment: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 363": {
+    "subject_code": "LLED",
+    "course_code": "363",
+    "credit": "1",
+    "course_name": "Teaching and Learning English as an Additional Language: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 366": {
+    "subject_code": "LLED",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "Teaching Literature",
+    "faculty": "Faculty of Education",
+    "description": "Curriculum and pedagogy related to the theories, concepts, and strategies relevant in secondary school classrooms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 367": {
+    "subject_code": "LLED",
+    "course_code": "367",
+    "credit": "3",
+    "course_name": "Teaching Writing",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 368": {
+    "subject_code": "LLED",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Multiliteracies in English Language Arts Classrooms",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 371": {
+    "subject_code": "LLED",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Foundations of Teaching French: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 372": {
+    "subject_code": "LLED",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Teaching French Language and Literacy: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Language of instruction is French. Pass/Fail for B.Ed. students. Non-B.Ed. students are eligible for percentage grading or Credit/D/Fail grading."
+  },
+  "LLED 381": {
+    "subject_code": "LLED",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Foundations of Teaching Modern Languages: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 382": {
+    "subject_code": "LLED",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Teaching Language and Literacy - Modern Languages: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail for B.Ed. students. Non-B.Ed. students are eligible for percentage grading or Credit/D/Fail grading."
+  },
+  "LLED 386": {
+    "subject_code": "LLED",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Secondary Theatre: Introduction to Curriculum & Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 387": {
+    "subject_code": "LLED",
+    "course_code": "387",
+    "credit": "3",
+    "course_name": "Secondary Theatre: Applications to Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 388": {
+    "subject_code": "LLED",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Secondary Theatre: Principles and Design",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 391": {
+    "subject_code": "LLED",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Theory and Practice in Reading Instruction",
+    "faculty": "Faculty of Education",
+    "description": "Credit may be obtained for only one of LLED 310, 391, 300."
+  },
+  "LLED 399": {
+    "subject_code": "LLED",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Practicum in Teaching English as a Second Language",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisites: 12 credits of LLED_V 489 and LLED_V 478. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 402": {
+    "subject_code": "LLED",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Living Language: Science and Society",
+    "faculty": "Faculty of Education",
+    "description": "Multi-disciplinary course in which students, individually and in groups, examine, integrate and apply subject-specific knowledge through the lens of language and the framework of the language sciences, with a focus on themes of real-world importance. Prerequisite: Fourth-year standing or permission of the instructor. Equivalency: APSC402, ASTU402, FRST402, LFS 402, PHAR402"
+  },
+  "LLED 420": {
+    "subject_code": "LLED",
+    "course_code": "420",
+    "credit": "3-4",
+    "course_name": "Using Canadian Children's Literature in the French Education Classroom",
+    "faculty": "Faculty of Education",
+    "description": "Taught in French. Credit will be given for one of LLED 440, LLED 420."
+  },
+  "LLED 421": {
+    "subject_code": "LLED",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Gramligne: Learning and Teaching Grammar in Text for the Second Language Classroom",
+    "faculty": "Faculty of Education",
+    "description": "Taught in French."
+  },
+  "LLED 422": {
+    "subject_code": "LLED",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Language Assessment in the French as a Second/Additional Language Classroom",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 423": {
+    "subject_code": "LLED",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Teaching French Adolescent Literature: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 426": {
+    "subject_code": "LLED",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Principles and Practice of French Program Development",
+    "faculty": "Faculty of Education",
+    "description": "Taught in French. The development and implementation of French Immersion, Program Cadre, and French as a Second language Programs for preschool, elementary, secondary, or adult."
+  },
+  "LLED 428": {
+    "subject_code": "LLED",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Applied Linguistics for Teachers of French",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 429": {
+    "subject_code": "LLED",
+    "course_code": "429",
+    "credit": "3-6",
+    "course_name": "Advanced Studies in Modern Language Education",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be given for only 6 credits of LLED_V 480 and LLED_V 429."
+  },
+  "LLED 433": {
+    "subject_code": "LLED",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Drama in Education: Creative Approaches and Strategies",
+    "faculty": "Faculty of Education",
+    "description": "Drama-based activities relevant to a wide range of classroom contexts; involves reading about, practicing, and discussing various creative drama approaches and strategies developed by contemporary scholars and practitioners. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 434": {
+    "subject_code": "LLED",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Drama in Education: Cross-Curricular Learning and Story",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 435": {
+    "subject_code": "LLED",
+    "course_code": "435",
+    "credit": "3-6",
+    "course_name": "Drama in Education: Community, Inquiry, and Performance",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [2-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 436": {
+    "subject_code": "LLED",
+    "course_code": "436",
+    "credit": "3-6",
+    "course_name": "Advanced Speech Communication",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 439": {
+    "subject_code": "LLED",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "Shakespeare in the Classroom",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 440": {
+    "subject_code": "LLED",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Using Canadian Children's Literature in the Classroom",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 441": {
+    "subject_code": "LLED",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Introduction to Teaching Children's Literature",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 442": {
+    "subject_code": "LLED",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Trends and Issues in Teaching Children's Literature",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 443": {
+    "subject_code": "LLED",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Teaching Folklore in the Elementary Classroom",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 444": {
+    "subject_code": "LLED",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Transcultural Children's Literature",
+    "faculty": "Faculty of Education",
+    "description": "Ways in which children's literature is informed by diverse, complex influences including culture(s) and language(s), and related problems, issues and controversies."
+  },
+  "LLED 445": {
+    "subject_code": "LLED",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Teaching Poetry",
+    "faculty": "Faculty of Education",
+    "description": "Instructional methodologies and theories in teaching all forms of poetry."
+  },
+  "LLED 446": {
+    "subject_code": "LLED",
+    "course_code": "446",
+    "credit": "3",
+    "course_name": "Teaching with Illustrated Materials, K-12: From Picture Books to Information Texts",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 449": {
+    "subject_code": "LLED",
+    "course_code": "449",
+    "credit": "3",
+    "course_name": "Teaching Adolescents Literature",
+    "faculty": "Faculty of Education",
+    "description": "Instructional methodologies and theories in teaching literature to adolescents."
+  },
+  "LLED 450": {
+    "subject_code": "LLED",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Teaching and Learning Language and Literacy: Kindergarten and Primary Grades",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 451": {
+    "subject_code": "LLED",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Teaching and Learning Language and Literacy: Intermediate and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 452": {
+    "subject_code": "LLED",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Disciplinary Literacies: Intermediate Through Secondary",
+    "faculty": "Faculty of Education",
+    "description": "How teachers can support students to develop disciplinary literacies that will enable them to understand, analyze, interpret and critique ideas, genres, and language in discipline-specific texts in and beyond the intermediate and secondary school contexts."
+  },
+  "LLED 453": {
+    "subject_code": "LLED",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Materials and Texts of Literacy Instruction: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 454": {
+    "subject_code": "LLED",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Adolescent Literacies: Processes and Practices",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 455": {
+    "subject_code": "LLED",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Supporting Language and Literacy for First Nations Learners (K-12)",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 456": {
+    "subject_code": "LLED",
+    "course_code": "456",
+    "credit": "3-6",
+    "course_name": "Identifying and Supporting Learners with Literacy Difficulties",
+    "faculty": "Faculty of Education",
+    "description": "Individualized assessment, diagnosis, and instructional planning for students with literacy difficulties."
+  },
+  "LLED 457": {
+    "subject_code": "LLED",
+    "course_code": "457",
+    "credit": "3-6",
+    "course_name": "Special Topics in Reading",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 459": {
+    "subject_code": "LLED",
+    "course_code": "459",
+    "credit": "3",
+    "course_name": "Trends and Issues in Literacy Instruction",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 462": {
+    "subject_code": "LLED",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "School Library Resource Centre Programs",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 469": {
+    "subject_code": "LLED",
+    "course_code": "469",
+    "credit": "3",
+    "course_name": "Inquiry-Based Pedagogy in School Library Programs",
+    "faculty": "Faculty of Education",
+    "description": "Principles and practices of teachers and teacher-librarians designing and teaching curriculum using inquiry-based pedagogy. LLED 469 is a core course for the Teacher Librarian Diploma."
+  },
+  "LLED 478": {
+    "subject_code": "LLED",
+    "course_code": "478",
+    "credit": "3-6",
+    "course_name": "Introduction to Teaching English as a Second Language",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 479": {
+    "subject_code": "LLED",
+    "course_code": "479",
+    "credit": "3",
+    "course_name": "The Education of Immigrant Students",
+    "faculty": "Faculty of Education",
+    "description": "An examination of the cultural backgrounds of major ethnic groups. Instructional techniques for meeting the needs of immigrant students in the regular classroom with respect to culture and language."
+  },
+  "LLED 480": {
+    "subject_code": "LLED",
+    "course_code": "480",
+    "credit": "1-6",
+    "course_name": "Advanced Studies in Language and Literacy Education",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be given for only 6 credits of LLED 480 and 429."
+  },
+  "LLED 481": {
+    "subject_code": "LLED",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Digital Media in English Language Arts Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 482": {
+    "subject_code": "LLED",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Language, Education, and Gender",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 486": {
+    "subject_code": "LLED",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Supporting Children's Oral Language Development",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 487": {
+    "subject_code": "LLED",
+    "course_code": "487",
+    "credit": "3-6",
+    "course_name": "Special Topics in English Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 489": {
+    "subject_code": "LLED",
+    "course_code": "489",
+    "credit": "3-6",
+    "course_name": "Applied Linguistics for Teachers",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 491": {
+    "subject_code": "LLED",
+    "course_code": "491",
+    "credit": "3-6",
+    "course_name": "Supervised Study in English Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 492": {
+    "subject_code": "LLED",
+    "course_code": "492",
+    "credit": "3-6",
+    "course_name": "Supervised Study in Reading",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 493": {
+    "subject_code": "LLED",
+    "course_code": "493",
+    "credit": "3-6",
+    "course_name": "Supervised Study in Modern Languages Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "LLED 501": {
+    "subject_code": "LLED",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Analyzing Discourse and Talk: An Overview of Methods",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of LLED_V 501 or EPSE_V 586. Equivalency: EPSE_V 586. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 502": {
+    "subject_code": "LLED",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Analyzing Discourse in Education: Descriptive and Critical Approaches",
+    "faculty": "Faculty of Education",
+    "description": "Credit will be granted for only one of LLED_V 502 or EPSE_V 587. Equivalency: EPSE_V 587. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 503": {
+    "subject_code": "LLED",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Qualitative Research Interviewing in Education: Theories and Methods",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 504": {
+    "subject_code": "LLED",
+    "course_code": "504",
+    "credit": "1-3",
+    "course_name": "Discourse Analysis in Education Research",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Permission of instructor required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 505": {
+    "subject_code": "LLED",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Environmental Literacy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 506": {
+    "subject_code": "LLED",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Place-Based Literacies",
+    "faculty": "Faculty of Education",
+    "description": "Critical consideration of how intersections of literacies, languages, and place influence social and ecological justice issues in literacy education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 510": {
+    "subject_code": "LLED",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Language, Discourse and Identity",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 511": {
+    "subject_code": "LLED",
+    "course_code": "511",
+    "credit": "3-6",
+    "course_name": "Child Language in Education",
+    "faculty": "Faculty of Education",
+    "description": "Language development in preschool and early school years: influence in education, heritage language, English as an Additional Language and multilingual contexts for development are explored across multiple theoretical approaches. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 512": {
+    "subject_code": "LLED",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Multilingual Literacy and International Development",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 513": {
+    "subject_code": "LLED",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Indigenous Storytelling in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 520": {
+    "subject_code": "LLED",
+    "course_code": "520",
+    "credit": "3-6",
+    "course_name": "Theory and Research in Teaching of Modern Languages",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 521": {
+    "subject_code": "LLED",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Critical Intercultural Studies in Language Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 522": {
+    "subject_code": "LLED",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Asia-Pacific Narratives as Inquiry on Intercultural Aspects of Language Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 523": {
+    "subject_code": "LLED",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Teacher Action Research in Language and Literacy Education",
+    "faculty": "Faculty of Education",
+    "description": "Taught in French. Understanding of the literature and methods associated with teacher (action) research in language and literacy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 525": {
+    "subject_code": "LLED",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Bilingual Education: Theory and Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 526": {
+    "subject_code": "LLED",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Second Language Assessment: Conceptual and Empirical Approaches",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 527": {
+    "subject_code": "LLED",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Materials Development for Indigenous Language Learning and Teaching",
+    "faculty": "Faculty of Education",
+    "description": "Conceptual understanding and practical experience in designing and developing language print materials and interactive multimedia. Overview of production, publication, dissemination, and accessibility of language resources, and pedagogical approaches for language revitalization and education efforts using multimodal resources. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 534": {
+    "subject_code": "LLED",
+    "course_code": "534",
+    "credit": "3-6",
+    "course_name": "Theory and Research in Teaching Written Composition",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 535": {
+    "subject_code": "LLED",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Theory and Research in Drama in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 536": {
+    "subject_code": "LLED",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Drama, Literacies and Literature in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 540": {
+    "subject_code": "LLED",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Introduction to Research in the Teaching of Literature",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 541": {
+    "subject_code": "LLED",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Theories and Perspectives in Teaching Literature",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 550": {
+    "subject_code": "LLED",
+    "course_code": "550",
+    "credit": "3-6",
+    "course_name": "Review of Reading Research",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 551": {
+    "subject_code": "LLED",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Introduction to Literacies Across the Lifespan: Theories and Practices",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 552": {
+    "subject_code": "LLED",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Theoretical Foundations of Reading Research and Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 553": {
+    "subject_code": "LLED",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Theoretical Foundations of ESL/EL Reading Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 554": {
+    "subject_code": "LLED",
+    "course_code": "554",
+    "credit": "3-6",
+    "course_name": "Assessment in Reading and Other Language Arts",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 555": {
+    "subject_code": "LLED",
+    "course_code": "555",
+    "credit": "6",
+    "course_name": "Supervision of Reading",
+    "faculty": "Faculty of Education",
+    "description": "Curriculum analysis and planning. Implications for the administrator, the consultant and supervisor of reading. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 556": {
+    "subject_code": "LLED",
+    "course_code": "556",
+    "credit": "3-6",
+    "course_name": "Theory and Research in Early Literacy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 557": {
+    "subject_code": "LLED",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Family and Community Literacy: Issues and Perspectives",
+    "faculty": "Faculty of Education",
+    "description": "Literacy learning, teaching, policy and research across the lifespan. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 558": {
+    "subject_code": "LLED",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "Literacy and Multimodality",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 559": {
+    "subject_code": "LLED",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Digital Media Literacies",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 560": {
+    "subject_code": "LLED",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Picturebooks and Literacy Development",
+    "faculty": "Faculty of Education",
+    "description": "Explore, analyze and critique recent developments in picturebooks, ways of engaging with these texts and bridging picturebook forms and innovations with theories of literacy development in children. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 561": {
+    "subject_code": "LLED",
+    "course_code": "561",
+    "credit": "3-12",
+    "course_name": "Laboratory Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 562": {
+    "subject_code": "LLED",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Practicum in Assessment in Reading and Other Language Arts",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 565": {
+    "subject_code": "LLED",
+    "course_code": "565",
+    "credit": "3-12",
+    "course_name": "Special Course in Subject Matter Field",
+    "faculty": "Faculty of Education",
+    "description": "Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 570": {
+    "subject_code": "LLED",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Theory and Research in English Language Education: Discourse Perspectives",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 571": {
+    "subject_code": "LLED",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Research in Language Curriculum: Social Practice Perspectives",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 572": {
+    "subject_code": "LLED",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Theory and Research in Teaching English as a Second Language",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 573": {
+    "subject_code": "LLED",
+    "course_code": "573",
+    "credit": "3-6",
+    "course_name": "Theories of Second Language Acquisition",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 574": {
+    "subject_code": "LLED",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Theory and Research in Teaching Second Language Writing",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 577": {
+    "subject_code": "LLED",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "Culture and Politics in Second Language Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 580": {
+    "subject_code": "LLED",
+    "course_code": "580",
+    "credit": "3-6",
+    "course_name": "Problems in Education",
+    "faculty": "Faculty of Education",
+    "description": "Investigation and report of a problem. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 590": {
+    "subject_code": "LLED",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating PROJECT",
+    "faculty": "Faculty of Education",
+    "description": "Demonstration of students' theoretical and applied knowledge as acquired during their M.Ed. program. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 598": {
+    "subject_code": "LLED",
+    "course_code": "598",
+    "credit": "3-12",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "For those on master's, doctoral, and diploma programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 599": {
+    "subject_code": "LLED",
+    "course_code": "599",
+    "credit": "9",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is restricted to students in Language and Literacy Education (LLED) M.A. programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 601": {
+    "subject_code": "LLED",
+    "course_code": "601",
+    "credit": "3",
+    "course_name": "Theories for Language and Literacy Research",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: Admission to the Ph.D. program in LLED. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 602": {
+    "subject_code": "LLED",
+    "course_code": "602",
+    "credit": "3",
+    "course_name": "Critical Analysis of Issues and Methodology in Language and Literacy Education",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: Admission to the Ph.D. program in LLED. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LLED 699": {
+    "subject_code": "LLED",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

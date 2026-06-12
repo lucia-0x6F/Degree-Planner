@@ -1,0 +1,258 @@
+{
+  "ARST 500": {
+    "subject_code": "ARST",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Information Technology and Archives",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 510": {
+    "subject_code": "ARST",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Truth, Trust, and Records",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 515": {
+    "subject_code": "ARST",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Arrangement and Description of Archives",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 516": {
+    "subject_code": "ARST",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Management of Current Records",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 517": {
+    "subject_code": "ARST",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "History of Record Keeping",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 518": {
+    "subject_code": "ARST",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Cybersecurity, Information Assurance, and Risk Management for Library, Archival and Information Professionals",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARST_V 518 or LIBR_V 518. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 520": {
+    "subject_code": "ARST",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Selection and Acquisition of Archival Documents",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 530": {
+    "subject_code": "ARST",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "The History of the Canadian Administrative System",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 535": {
+    "subject_code": "ARST",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Personal and Community Archives",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 540": {
+    "subject_code": "ARST",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Archival Public Services",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 545": {
+    "subject_code": "ARST",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Advanced Arrangement and Description of Archival Documents",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 550": {
+    "subject_code": "ARST",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Management of Audiovisual and Non-textual Archives",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 554": {
+    "subject_code": "ARST",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Database Design",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of ARST_V 554 or LIBR_V 554. Equivalency: LIBR_V 554. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 555": {
+    "subject_code": "ARST",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "The Preservation of Digital Records",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 556": {
+    "subject_code": "ARST",
+    "course_code": "556",
+    "credit": "1-12",
+    "course_name": "Topics in Archival Automation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 560": {
+    "subject_code": "ARST",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Records and Information Governance",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 562": {
+    "subject_code": "ARST",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Metadata",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of ARST_V 562 or LIBR_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 565": {
+    "subject_code": "ARST",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Administering Records under Freedom of Information and Protection of Privacy Legislation",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ARST_V 565 or LIBR_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 570": {
+    "subject_code": "ARST",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Management of Information Organizations",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of ARST_V 570 or LIBR_V 504. Equivalency: LIBR_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 573": {
+    "subject_code": "ARST",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Archival Systems and the Profession",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 575": {
+    "subject_code": "ARST",
+    "course_code": "575",
+    "credit": "1-12",
+    "course_name": "Topics in the Management of Records",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 580": {
+    "subject_code": "ARST",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Records, Archives, and the Law",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 585": {
+    "subject_code": "ARST",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Information Practice and Protocol in Support of Indigenous Initiatives",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of ARST_V 585 or LIBR_V 564. Equivalency: LIBR_V 564. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 586": {
+    "subject_code": "ARST",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Progressive and Radical Information Work",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of ARST_V 586 or LIBR_V 565. Equivalency: LIBR_V 565. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 587": {
+    "subject_code": "ARST",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "Preservation",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of ARST_V 587 or LIBR_V 587. Equivalency: LIBR_V 587. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 591": {
+    "subject_code": "ARST",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Archival Research and Scholarship",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 592": {
+    "subject_code": "ARST",
+    "course_code": "592",
+    "credit": "3-6",
+    "course_name": "Directed Research Project",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: ARST_V 591. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 593": {
+    "subject_code": "ARST",
+    "course_code": "593",
+    "credit": "3-12",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 594": {
+    "subject_code": "ARST",
+    "course_code": "594",
+    "credit": "3-6",
+    "course_name": "Directed Study",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 595": {
+    "subject_code": "ARST",
+    "course_code": "595",
+    "credit": "3",
+    "course_name": "Internship",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 596": {
+    "subject_code": "ARST",
+    "course_code": "596",
+    "credit": "3",
+    "course_name": "Professional Experience",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: All of ARST_V 500, ARST_V 510, ARST_V 520, ARST_V 515, ARST_V 516, ARST_V 555, and ARST_V 573 This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARST 599": {
+    "subject_code": "ARST",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: ARST_V 591. This course is not eligible for Credit/D/Fail grading."
+  }
+}

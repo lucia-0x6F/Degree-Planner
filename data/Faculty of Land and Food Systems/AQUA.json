@@ -1,0 +1,58 @@
+{
+  "AQUA 501": {
+    "subject_code": "AQUA",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Aquaculture Production Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AQUA 502": {
+    "subject_code": "AQUA",
+    "course_code": "502",
+    "credit": "2",
+    "course_name": "Fish Nutrition, Feeds and Feeding",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AQUA 503": {
+    "subject_code": "AQUA",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Fish Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AQUA 504": {
+    "subject_code": "AQUA",
+    "course_code": "504",
+    "credit": "2",
+    "course_name": "Finfish Genetics and Reproduction in Aquaculture",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AQUA 505": {
+    "subject_code": "AQUA",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Ecological Sustainability of Aquaculture",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AQUA 506": {
+    "subject_code": "AQUA",
+    "course_code": "506",
+    "credit": "2",
+    "course_name": "Business Concepts in Aquaculture",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "AQUA 507": {
+    "subject_code": "AQUA",
+    "course_code": "507",
+    "credit": "2",
+    "course_name": "Seafood Processing",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

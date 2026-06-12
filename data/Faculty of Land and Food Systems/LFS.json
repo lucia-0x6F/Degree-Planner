@@ -1,0 +1,202 @@
+{
+  "LFS 100": {
+    "subject_code": "LFS",
+    "course_code": "100",
+    "credit": "1",
+    "course_name": "Introduction to Land, Food and Community",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Orientation to the programs, learning environment and core values of the Faculty of Land and Food Systems; career programs; survey of professional opportunities and requirements. [1-0-0]"
+  },
+  "LFS 101": {
+    "subject_code": "LFS",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Principles of Microeconomics with Applications to Land and Food Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Microeconomic principles focused on private and social decision making related to the use of land, especially in agriculture, forestry, and conservation. Restricted to Faculty of Land and Food Systems students in Land One Option. Credit will be granted for only one of FRST_V 101, LFS_V 101, ECON_V 101, or ECON_V 310. Equivalency: FRST_V 101, ECON_V 101. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 110": {
+    "subject_code": "LFS",
+    "course_code": "110",
+    "credit": "4",
+    "course_name": "Land One: First-year Integrative Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Current issues and cases in Forestry and Land and Food Systems are examined with a focus on integration of first-year subjects and exposure to both Indigenous and Western perspectives. Restricted to Faculty of Land and Food Systems students in the Land One option. Equivalency: FRST_V 110, NRES_V 110. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 150": {
+    "subject_code": "LFS",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Scholarly Writing and Argumentation in Land and Food Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Communicating concepts of food systems and links to human and environmental health through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience. Enrolment limited to LFS students with first year status. Credit will be granted for only one of NRES_V 150, FRST_V 150, or LFS_V 150. Equivalency: FRST_V 150, NRES_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 250": {
+    "subject_code": "LFS",
+    "course_code": "250",
+    "credit": "6",
+    "course_name": "Land, Food and Community I: Introduction to Food Systems and Sustainability",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Managed systems and concepts of sustainability; economic, ecological and social components; managed landscapes, agri-food systems, and communities; urban and rural systems; the land, food, nutrition and human health continuum."
+  },
+  "LFS 252": {
+    "subject_code": "LFS",
+    "course_code": "252",
+    "credit": "3",
+    "course_name": "Land, Food, and Community: Quantitative Data Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Introduction to tools needed for data analysis of the economic, ecological, health, and scientific components of land and food systems. [3-0-1] Prerequisite: One of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184."
+  },
+  "LFS 301": {
+    "subject_code": "LFS",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Aquaculture Field Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "An orientation to the aquaculture system in BC. Participating students are assessed a fee."
+  },
+  "LFS 302": {
+    "subject_code": "LFS",
+    "course_code": "302",
+    "credit": "3-6",
+    "course_name": "International Field Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Field studies carried out abroad under staff direction. Participating students are assessed a fee."
+  },
+  "LFS 303": {
+    "subject_code": "LFS",
+    "course_code": "303",
+    "credit": "6",
+    "course_name": "International Field Studies in Policy Analysis for Agriculture and Natural Resources",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Field studies carried out abroad under the direction of the instructor. Students will be guided to apply selected tools for analysis of agricultural and natural resource policy in developing countries with input from local policymakers. Participating students are assessed a fee. Prerequisite: One of ECON_V 101, LFS_V 101. Third-year standing and permission of instructor. 9 credits of upper level ECON, FRE or COMM courses are strongly recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 340": {
+    "subject_code": "LFS",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "First Nations Health and the Traditional Role of Plants",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This Interprofessional Health and Human Service (IHHS) course covers the First Nations medical systems and medicinal plants. Bridging the traditional with modern sciences. Credit will be granted for only one of LFS 340 or IHHS 301."
+  },
+  "LFS 350": {
+    "subject_code": "LFS",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Land, Food, and Community II: Principles and Practice of Community Food Security",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Project-based application of the principles and processes of community food security. Emphasis on developing skills required to address economic, ecological, social, and technological components of managed landscapes, agri-food systems, and communities comprising the land, food, nutrition and health continuum. Prerequisite: LFS 250."
+  },
+  "LFS 398": {
+    "subject_code": "LFS",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail. Prerequisite: Must attend all Co-op pre-employment workshops. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 399": {
+    "subject_code": "LFS",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail. Prerequisite: LFS_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 400": {
+    "subject_code": "LFS",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Audio Storytelling",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Adopts a journalistic framework to communicate powerful stories and present academic content in new ways through the use of audio and podcasting technology. Prerequisite: Third-year standing or higher."
+  },
+  "LFS 402": {
+    "subject_code": "LFS",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Living Language: Science and Society",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Multidisciplinary course in which students, individually and in groups, examine, integrate and apply subject-specific knowledge through the lens of language and the framework of the language sciences, with a focus on themes of real-world importance. Prerequisite: Fourth-year standing or permission of the instructor. Equivalency: APSC402, ASTU402, FRST402, LLED402, PHAR402"
+  },
+  "LFS 450": {
+    "subject_code": "LFS",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Land, Food, and Community III: Leadership in Campus Food System Sustainability",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Design, analysis, recommendation or implementation of solutions in response to a food sustainability issue faced by community partners. Emphasis is on professional communication, leadership development, project management and decision-making skills."
+  },
+  "LFS 490": {
+    "subject_code": "LFS",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Topics in Land and Food Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and interpretation of current issues related to land and food systems."
+  },
+  "LFS 496": {
+    "subject_code": "LFS",
+    "course_code": "496",
+    "credit": "3-6",
+    "course_name": "Career Development Practicum",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practical application of degree program learning appropriate to students' career goals. Enrolment subject to competition and availability of practicum placements."
+  },
+  "LFS 498": {
+    "subject_code": "LFS",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail. Prerequisite: LFS_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 499": {
+    "subject_code": "LFS",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Work experience in relevant private and/or public sector settings. Work terms are normally four months long. Restricted to students admitted to the Co-op Program in Land and Food Systems. Pass/Fail. Prerequisite: LFS_V 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 500": {
+    "subject_code": "LFS",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Graduate Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 501": {
+    "subject_code": "LFS",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Approaches to the Integration of Knowledge",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 530": {
+    "subject_code": "LFS",
+    "course_code": "530",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 549": {
+    "subject_code": "LFS",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LFS 649": {
+    "subject_code": "LFS",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

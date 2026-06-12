@@ -1,0 +1,1522 @@
+{
+  "EDCP 150": {
+    "subject_code": "EDCP",
+    "course_code": "150",
+    "credit": "6",
+    "course_name": "General Science for Elementary Classrooms",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 210": {
+    "subject_code": "EDCP",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Introduction to Music Education",
+    "faculty": "Faculty of Education",
+    "description": "Role of music education in schools and society, including historical, philosophical, psychological, and sociological perspectives. Includes guided class observations and practice music teaching in elementary and secondary schools. Criminal Record Check required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 301": {
+    "subject_code": "EDCP",
+    "course_code": "301",
+    "credit": "2",
+    "course_name": "Art - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 302": {
+    "subject_code": "EDCP",
+    "course_code": "302",
+    "credit": "3-5",
+    "course_name": "Art - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A concentration in art or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 303": {
+    "subject_code": "EDCP",
+    "course_code": "303",
+    "credit": "6",
+    "course_name": "Ceramic Design and Pedagogical Approaches: Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: 6 credits of introductory art studio or art history courses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 304": {
+    "subject_code": "EDCP",
+    "course_code": "304",
+    "credit": "6",
+    "course_name": "Textile Design and Pedagogical Approaches: Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: 6 credits of introductory art studio or art history courses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 305": {
+    "subject_code": "EDCP",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Digital Media in Arts Education: Introduction",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 306": {
+    "subject_code": "EDCP",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Digital Media in Arts Education: Advanced",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 308": {
+    "subject_code": "EDCP",
+    "course_code": "308",
+    "credit": "2",
+    "course_name": "Music - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 309": {
+    "subject_code": "EDCP",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Instrumental Pedagogy: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EDCP 311": {
+    "subject_code": "EDCP",
+    "course_code": "311",
+    "credit": "3-5",
+    "course_name": "Music - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. A minimum grade of 76% in EDCP_V 312 and EDCP_V 313 or equivalent courses completed at another university, plus admission to B.Ed. program in Music Education: Secondary. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 312": {
+    "subject_code": "EDCP",
+    "course_code": "312",
+    "credit": "4-6",
+    "course_name": "Instrumental Pedagogy: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Recommended: Students are encouraged to complete as many of MUSC_V 311, MUSC_V 312, MUSC_V 313 as possible prior to registering. Prerequisite: One of MUSC_V 311, MUSC_V 312, MUSC_V 313 or equivalent course(s) completed at another university."
+  },
+  "EDCP 313": {
+    "subject_code": "EDCP",
+    "course_code": "313",
+    "credit": "4-6",
+    "course_name": "Choral Pedagogy: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Recommended: Students are encouraged to complete as many of MUSC_V 311, MUSC_V 312, MUSC_V 313 as possible prior to registering. Prerequisite: One of MUSC_V 311, MUSC_V 312, MUSC_V 313 or equivalent course(s) completed at another university. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 314": {
+    "subject_code": "EDCP",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Instrumental Jazz Pedagogy: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 315": {
+    "subject_code": "EDCP",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Choral Jazz Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 316": {
+    "subject_code": "EDCP",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Contemporary Methods of Instruction in Ear Training, Music Reading, and Musicianship I",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 317": {
+    "subject_code": "EDCP",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Contemporary Methods of Instruction in Ear Training, Music Reading, and Musicianship II",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP_V 316. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 318": {
+    "subject_code": "EDCP",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Canadian Music in the Classroom: Elementary/Secondary",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 319": {
+    "subject_code": "EDCP",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "The Musical: Organization and Production",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 320": {
+    "subject_code": "EDCP",
+    "course_code": "320",
+    "credit": "2",
+    "course_name": "Physical Education - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [0-2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 322": {
+    "subject_code": "EDCP",
+    "course_code": "322",
+    "credit": "3-5",
+    "course_name": "Physical Education - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in physical education or permission of the head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 323": {
+    "subject_code": "EDCP",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Outdoor Environmental Education: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Costs for field trips and an overnight experience are borne by students. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 325": {
+    "subject_code": "EDCP",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Approaches to Health Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 326": {
+    "subject_code": "EDCP",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Health Education: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 327": {
+    "subject_code": "EDCP",
+    "course_code": "327",
+    "credit": "3-6",
+    "course_name": "Special Topics in Health Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 328": {
+    "subject_code": "EDCP",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Environmental Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 329": {
+    "subject_code": "EDCP",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Agriculture in the Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "Agricultural awareness, understanding the food system, and integration of food and agricultural literacy across the curriculum. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 331": {
+    "subject_code": "EDCP",
+    "course_code": "331",
+    "credit": "2",
+    "course_name": "Social Studies - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 332": {
+    "subject_code": "EDCP",
+    "course_code": "332",
+    "credit": "3-5",
+    "course_name": "Social Studies - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 333": {
+    "subject_code": "EDCP",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Contemporary Issues in Social Studies: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 334": {
+    "subject_code": "EDCP",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Canadian Studies: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 335": {
+    "subject_code": "EDCP",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Law-Related Education: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 340": {
+    "subject_code": "EDCP",
+    "course_code": "340",
+    "credit": "2",
+    "course_name": "Mathematics - Elementary and Middle Years: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 341": {
+    "subject_code": "EDCP",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Mathematics across the Curriculum: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 342": {
+    "subject_code": "EDCP",
+    "course_code": "342",
+    "credit": "3-5",
+    "course_name": "Mathematics - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in mathematics or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 343": {
+    "subject_code": "EDCP",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Mathematics Education: Problem Solving",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisites: one of EDCP 340, EDCP 342. [3-0-0]"
+  },
+  "EDCP 344": {
+    "subject_code": "EDCP",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Mathematics Education: Geometry and Measurement",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisites: one of EDCP 340, EDCP 342. [3-0-0]"
+  },
+  "EDCP 349": {
+    "subject_code": "EDCP",
+    "course_code": "349",
+    "credit": "2",
+    "course_name": "Science - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 350": {
+    "subject_code": "EDCP",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Biological Sciences - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 351": {
+    "subject_code": "EDCP",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Physical Sciences - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 352": {
+    "subject_code": "EDCP",
+    "course_code": "352",
+    "credit": "2-5",
+    "course_name": "General Science - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in agricultural sciences, biological sciences, chemistry, earth and space science, or physics, or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 353": {
+    "subject_code": "EDCP",
+    "course_code": "353",
+    "credit": "2-3",
+    "course_name": "Agricultural Sciences - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in Agricultural Sciences or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 354": {
+    "subject_code": "EDCP",
+    "course_code": "354",
+    "credit": "2-3",
+    "course_name": "Biological Sciences - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in biological sciences or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 355": {
+    "subject_code": "EDCP",
+    "course_code": "355",
+    "credit": "2-3",
+    "course_name": "Chemistry - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in chemistry or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 356": {
+    "subject_code": "EDCP",
+    "course_code": "356",
+    "credit": "2-3",
+    "course_name": "Earth and Space Science - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in earth and space science or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 357": {
+    "subject_code": "EDCP",
+    "course_code": "357",
+    "credit": "2-3",
+    "course_name": "Physics - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. Prerequisite: A completed concentration in physics or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 358": {
+    "subject_code": "EDCP",
+    "course_code": "358",
+    "credit": "3-5",
+    "course_name": "Science, Technology, Engineering, and Mathematics (STEM) Education I: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 360": {
+    "subject_code": "EDCP",
+    "course_code": "360",
+    "credit": "1",
+    "course_name": "Elementary and Middle Years: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 362": {
+    "subject_code": "EDCP",
+    "course_code": "362",
+    "credit": "3-12",
+    "course_name": "Curriculum Design and Evaluation: Practical and Theoretical Issues",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 363": {
+    "subject_code": "EDCP",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Interdisciplinarity in Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 370": {
+    "subject_code": "EDCP",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Integrating ICT Across the Curriculum: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 371": {
+    "subject_code": "EDCP",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Integrating Design and Technology Across the Curriculum: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 372": {
+    "subject_code": "EDCP",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Integrating Business Applications across the Curriculum: Elementary and Middle Years",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 373": {
+    "subject_code": "EDCP",
+    "course_code": "373",
+    "credit": "3-5",
+    "course_name": "Information and Communication Technologies I - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 374": {
+    "subject_code": "EDCP",
+    "course_code": "374",
+    "credit": "3-5",
+    "course_name": "Design and Technology I - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 375": {
+    "subject_code": "EDCP",
+    "course_code": "375",
+    "credit": "3-5",
+    "course_name": "Business Education I - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 376": {
+    "subject_code": "EDCP",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "Information and Communication Technologies II - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 377": {
+    "subject_code": "EDCP",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "Design and Technology II - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EDCP_V 374. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 378": {
+    "subject_code": "EDCP",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Business Education II - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 390": {
+    "subject_code": "EDCP",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Home Economics - Elementary and Middle Years: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 391": {
+    "subject_code": "EDCP",
+    "course_code": "391",
+    "credit": "3-5",
+    "course_name": "Home Economics I - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 392": {
+    "subject_code": "EDCP",
+    "course_code": "392",
+    "credit": "3",
+    "course_name": "Assessment and Evaluation in Textile Studies: Home Economics",
+    "faculty": "Faculty of Education",
+    "description": "Practical and conceptual issues of developing and evaluating secondary school textile studies curricula in home economics."
+  },
+  "EDCP 400": {
+    "subject_code": "EDCP",
+    "course_code": "400",
+    "credit": "2-6",
+    "course_name": "Studies in an Art Education Studio Area",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 401": {
+    "subject_code": "EDCP",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Visual Arts for Classroom Practice: Two-Dimensional Practices and Processes",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 402": {
+    "subject_code": "EDCP",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Visual Arts for Classroom Practice: Printmaking Practices and Processes",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 403": {
+    "subject_code": "EDCP",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Visual Arts for Classroom Practice: Three-Dimensional Practices and Processes",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 404": {
+    "subject_code": "EDCP",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Visual Arts for Classroom Practice: Textile Design",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 405": {
+    "subject_code": "EDCP",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Visual Arts for Classroom Practice: New Media and Digital Processes",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 406": {
+    "subject_code": "EDCP",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Visual Arts for Classroom Practice: Photography",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 407": {
+    "subject_code": "EDCP",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Art Education Curriculum and Pedagogy: Theory and Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 408": {
+    "subject_code": "EDCP",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Art, Education and Cultural Diversity",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 409": {
+    "subject_code": "EDCP",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Art Education Theory and Research",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. [3-0]. Prerequisite: Art education as a major or minor and completion of a practicum in Art Education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 410": {
+    "subject_code": "EDCP",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Music and Movement - Elementary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: An introductory course in music education or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 411": {
+    "subject_code": "EDCP",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Music - Elementary: Advanced Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP_V 410 or comparable expertise in teaching music, or permission of the Head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 412": {
+    "subject_code": "EDCP",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Conducting and Rehearsal Techniques for Teachers",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP 311A or prior experience in teaching music ensemble classes for secondary school students."
+  },
+  "EDCP 413": {
+    "subject_code": "EDCP",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Digital Media for Music Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 414": {
+    "subject_code": "EDCP",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Elementary Choral Music",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP_V 308 or an introductory course in music education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 415": {
+    "subject_code": "EDCP",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Music Education for Children with Exceptional Needs",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: One of EPSE_V 312, EPSE_V 317. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 416": {
+    "subject_code": "EDCP",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Music Education: Orff Basics",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 417": {
+    "subject_code": "EDCP",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Music Education: Orff Level I",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: One of EDCP 308, EDCP 309, EDCP 410, EDCP 411, EDCP 414, EDCP 416. or permission of the Head."
+  },
+  "EDCP 418": {
+    "subject_code": "EDCP",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Music Education: Orff Level II",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP 417."
+  },
+  "EDCP 419": {
+    "subject_code": "EDCP",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Music Education: Orff Level III",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP 418."
+  },
+  "EDCP 420": {
+    "subject_code": "EDCP",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Advanced Physical Education: Elementary",
+    "faculty": "Faculty of Education",
+    "description": "[0-3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 423": {
+    "subject_code": "EDCP",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Outdoor Environmental Education: Design, Implementation and Assessment",
+    "faculty": "Faculty of Education",
+    "description": "Costs for field trips and an overnight experience are borne by students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 430": {
+    "subject_code": "EDCP",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Social Studies - Elementary: Advanced Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisite: EDCP_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 431": {
+    "subject_code": "EDCP",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Special Study in Social Studies: History",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 432": {
+    "subject_code": "EDCP",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Special Study in Social Studies: Geography",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 433": {
+    "subject_code": "EDCP",
+    "course_code": "433",
+    "credit": "3-6",
+    "course_name": "Current Practices in Values Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 440": {
+    "subject_code": "EDCP",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Topics in the Curriculum and Pedagogy in Mathematics: Secondary",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EDCP 441": {
+    "subject_code": "EDCP",
+    "course_code": "441",
+    "credit": "3-6",
+    "course_name": "Assessment in Mathematics Education",
+    "faculty": "Faculty of Education",
+    "description": "Recommended pre-requisites: one of EDCP 340, EDCP 342."
+  },
+  "EDCP 442": {
+    "subject_code": "EDCP",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Mathematics History for Teachers",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 446": {
+    "subject_code": "EDCP",
+    "course_code": "446",
+    "credit": "3",
+    "course_name": "Forest Education",
+    "faculty": "Faculty of Education",
+    "description": "Transportation and living costs for required field experiences will be borne by the student. [3-0]"
+  },
+  "EDCP 447": {
+    "subject_code": "EDCP",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Technology-Based Science Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 448": {
+    "subject_code": "EDCP",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Conceptions of the Natural World: Implications for Science Education",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 449": {
+    "subject_code": "EDCP",
+    "course_code": "449",
+    "credit": "3",
+    "course_name": "Teaching Earth and Space Science Beyond the Textbook",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 450": {
+    "subject_code": "EDCP",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Teaching Life Science Beyond the Textbook",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 451": {
+    "subject_code": "EDCP",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Teaching Physical Science Beyond the Textbook",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 452": {
+    "subject_code": "EDCP",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Science, Technology, and Society",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 453": {
+    "subject_code": "EDCP",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Biology for Teaching: Topics and Pedagogical Approaches - Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Teacher Education Office approval is required. Open only to secondary students admitted with an academic deficiency. Not for credit towards a graduate degree or for undergraduate credit in an academic subject. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 454": {
+    "subject_code": "EDCP",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Chemistry for Teaching: Topics and Pedagogical Approaches - Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Teacher Education Office approval is required. Open only to secondary students admitted with an academic deficiency. Not for credit toward graduate degree or for undergraduate credit in an academic subject. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 455": {
+    "subject_code": "EDCP",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Earth and Space Science for Teaching: Topics and Pedagogical Approaches - Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Teacher Education Office approval is required. Open only to secondary students admitted with an academic deficiency. Not for credit toward graduate degree or for undergraduate credit in an academic subject. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 456": {
+    "subject_code": "EDCP",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Botany for Teaching: Topics and Pedagogical Approaches - Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Teacher Education Office approval is required. Open only to secondary students admitted with an academic deficiecy. Not for credit toward graduate degree or for undergraduate credit in an academic subject. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 457": {
+    "subject_code": "EDCP",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Zoology for Teaching: Topics and Pedagogical Approaches - Secondary",
+    "faculty": "Faculty of Education",
+    "description": "Teacher Education Office approval is required. Open only to secondary students admitted with an academic deficiency. Not for credit toward graduate degree or for undergraduate credit in an academic subject. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 458": {
+    "subject_code": "EDCP",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Science, Technology, Engineering, and Mathematics (STEM) Education II: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 460": {
+    "subject_code": "EDCP",
+    "course_code": "460",
+    "credit": "3-6",
+    "course_name": "Recent Developments in Elementary Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EDCP 462": {
+    "subject_code": "EDCP",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Perspectives in Curriculum Theory",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]"
+  },
+  "EDCP 467": {
+    "subject_code": "EDCP",
+    "course_code": "467",
+    "credit": "3-6",
+    "course_name": "Special Topics in Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 468": {
+    "subject_code": "EDCP",
+    "course_code": "468",
+    "credit": "3-9",
+    "course_name": "Directed Study in Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 470": {
+    "subject_code": "EDCP",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Digital Media in Education",
+    "faculty": "Faculty of Education",
+    "description": "[3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 471": {
+    "subject_code": "EDCP",
+    "course_code": "471",
+    "credit": "3-12",
+    "course_name": "Technological Practices in Education: Technical Problems",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 472": {
+    "subject_code": "EDCP",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Business Practices in Education",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 473": {
+    "subject_code": "EDCP",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Digital Media in Education: Ethical Uses",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 474": {
+    "subject_code": "EDCP",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "Digital Media in Education: Design and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 475": {
+    "subject_code": "EDCP",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Digital Media in Education: Development and Assessment",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 480": {
+    "subject_code": "EDCP",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Visual Culture Across the Curriculum",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 481": {
+    "subject_code": "EDCP",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Media Studies Across the Curriculum",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 491": {
+    "subject_code": "EDCP",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Home Economics II - Secondary: Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: EDCP_V 391. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 492": {
+    "subject_code": "EDCP",
+    "course_code": "492",
+    "credit": "3-12",
+    "course_name": "Special Topics in Home Economics: Textile Studies",
+    "faculty": "Faculty of Education",
+    "description": "Interdisciplinary exploration of textile studies in secondary schools for students or teacher candidates in home economics/textile studies, or those with general interest. May be repeated for credit if different topics are covered, in accordance with program requirements."
+  },
+  "EDCP 493": {
+    "subject_code": "EDCP",
+    "course_code": "493",
+    "credit": "3-12",
+    "course_name": "Special Topics in Home Economics: Foods Studies",
+    "faculty": "Faculty of Education",
+    "description": "Interdisciplinary exploration of food studies in secondary schools for students or teacher candidates in home economics/family studies, or those with general interest. May be repeated for credit if different topics are covered, in accordance with program requirements."
+  },
+  "EDCP 494": {
+    "subject_code": "EDCP",
+    "course_code": "494",
+    "credit": "3-12",
+    "course_name": "Special Topics in Home Economics: Family Studies",
+    "faculty": "Faculty of Education",
+    "description": "Interdisciplinary exploration of family studies in secondary schools for students or teacher candidates in home economics/family studies, or those with general interest. May be repeated for credit if different topics are covered, in accordance with program requirements."
+  },
+  "EDCP 495": {
+    "subject_code": "EDCP",
+    "course_code": "495",
+    "credit": "3-12",
+    "course_name": "Special Topics in Home Economics Education",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 496": {
+    "subject_code": "EDCP",
+    "course_code": "496",
+    "credit": "3",
+    "course_name": "Global Education and Curriculum",
+    "faculty": "Faculty of Education",
+    "description": "[3-0-0]"
+  },
+  "EDCP 497": {
+    "subject_code": "EDCP",
+    "course_code": "497",
+    "credit": "3",
+    "course_name": "Career Education and Curriculum",
+    "faculty": "Faculty of Education",
+    "description": ""
+  },
+  "EDCP 498": {
+    "subject_code": "EDCP",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Curriculum Inquiry in Home Economics Education",
+    "faculty": "Faculty of Education",
+    "description": "Culminating inquiry in curriculum and pedagogy for the Home Economics Education Diploma. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 501": {
+    "subject_code": "EDCP",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Master's Seminar",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 504": {
+    "subject_code": "EDCP",
+    "course_code": "504",
+    "credit": "3-12",
+    "course_name": "Review of Research in Art Education: Theory and Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 505": {
+    "subject_code": "EDCP",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Review of Research in Music Education: Theory and Practice",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 508": {
+    "subject_code": "EDCP",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Review of Research in Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 510": {
+    "subject_code": "EDCP",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Video Ethnography in Education Research: Culture, Technology, and Interpretation",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: A qualitative research methods course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 512": {
+    "subject_code": "EDCP",
+    "course_code": "512",
+    "credit": "3-6",
+    "course_name": "Education Action Research",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 513": {
+    "subject_code": "EDCP",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Case-Study Research and Cross-Case Analysis",
+    "faculty": "Faculty of Education",
+    "description": "Prerequisite: A qualitative research methods course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 514": {
+    "subject_code": "EDCP",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Arts-Based Educational Research: A/r/tography",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 515": {
+    "subject_code": "EDCP",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Education and Complexity Theory",
+    "faculty": "Faculty of Education",
+    "description": "Critical examination of current practices in education, teaching, and teacher education from a complexity science perspective. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 520": {
+    "subject_code": "EDCP",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Perspectives, Practice, and Curriculum Issues in Contemporary Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Emphasis is placed upon the foundations and conflicting conceptions of curriculum in art education. Theory/practice issues in the development, implementation, and evaluation of art programs are explored. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 521": {
+    "subject_code": "EDCP",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Historical and Social Foundations of Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Histories of art education are examined. Social and cultural implications for art education (past and present) are explored. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 522": {
+    "subject_code": "EDCP",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Psychological Foundations of Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Psychological considerations specifically related to cognitive development in art, are explored. Implications for art education theory and practice are drawn. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 523": {
+    "subject_code": "EDCP",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Seminar in Art Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 524": {
+    "subject_code": "EDCP",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Technology, Virtual Worlds, and Digital Visual Culture in Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Foundations and conflicting conceptions of digital visual culture and art education. Theory and practice in the development and implementation of art education technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 525": {
+    "subject_code": "EDCP",
+    "course_code": "525",
+    "credit": "3-6",
+    "course_name": "Special Colloquia in Music Education",
+    "faculty": "Faculty of Education",
+    "description": "The Special Colloquia in Music Education offer opportunities to critically engage with particular aspects of music education. Specific topics vary from year to year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 526": {
+    "subject_code": "EDCP",
+    "course_code": "526",
+    "credit": "3-6",
+    "course_name": "Theory and Principles of Music Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 530": {
+    "subject_code": "EDCP",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Curriculum Innovations in Physical Education",
+    "faculty": "Faculty of Education",
+    "description": "Developing an integrated approach toward curriculum planning and instruction by examining curriculum models. Rethinking the PE curriculum. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 531": {
+    "subject_code": "EDCP",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Health Promotion, Wellness and Lifeskills in Outdoor Settings",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 532": {
+    "subject_code": "EDCP",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Theories and Dimensions of Place-Based Education: Ecohumanist, Critical, and Indigenous Lenses",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 533": {
+    "subject_code": "EDCP",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Health, Outdoor and Physical Experiential Education Curriculum, Pedagogy and Place in the Elementary School",
+    "faculty": "Faculty of Education",
+    "description": "Concepts, skills, and dispositions necessary to teach health, outdoor and physical education through inclusive, developmentally appropriate progressions. Introduction to theoretical, philosophical and practical research dimensions of constructivist learning and teaching approaches with reference to the BC Curriculum. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 534": {
+    "subject_code": "EDCP",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Health Promotion and Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 535": {
+    "subject_code": "EDCP",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Research in School Health Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 536": {
+    "subject_code": "EDCP",
+    "course_code": "536",
+    "credit": "3",
+    "course_name": "Curriculum and Pedagogy in Home Economics",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 537": {
+    "subject_code": "EDCP",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Foundations of Home Economics Education",
+    "faculty": "Faculty of Education",
+    "description": "A review and critical analysis of the history and philosophy of school home economics programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 538": {
+    "subject_code": "EDCP",
+    "course_code": "538",
+    "credit": "3",
+    "course_name": "Theory and Research in Environmental Education",
+    "faculty": "Faculty of Education",
+    "description": "Research literature and theoretical issues in environmental education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 539": {
+    "subject_code": "EDCP",
+    "course_code": "539",
+    "credit": "3",
+    "course_name": "Narrativity, Ecopedagogy and Indigeneity",
+    "faculty": "Faculty of Education",
+    "description": "Through seminars, course readings, and experiential learning, the power of narrative is explored as it intersects with ecological and Indigenous knowings and practices toward a more multi-storied, just, and ecologically sustainable world. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 541": {
+    "subject_code": "EDCP",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Problems in Historical Understanding",
+    "faculty": "Faculty of Education",
+    "description": "Recent controversies in North American historical literature and implications for school curriculum in the light of research on teaching and learning history. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 542": {
+    "subject_code": "EDCP",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Theorizing Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pedagogy as construed by teacher-researchers, curriculum thinkers, indigenous scholars, educational philosophers, and cultural theorists. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 544": {
+    "subject_code": "EDCP",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Mathematics and Science Teaching and Learning with Technologies",
+    "faculty": "Faculty of Education",
+    "description": "Theoretical underpinnings and pedagogical, social and economic implications of 21st century technology-enhanced mathematics and science education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 545": {
+    "subject_code": "EDCP",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Educational Programming in Museums",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 546": {
+    "subject_code": "EDCP",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Indigenous Visual Expression as Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "Pedagogical implications of Indigenous art making and visual expression both for Indigenous peoples and for non-Indigenous viewers and consumers through the lenses of misrepresentation, self-representation, and auto-pedagogical potential and practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 547": {
+    "subject_code": "EDCP",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Home Economics: Enacting Transformative Pedagogies",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 548": {
+    "subject_code": "EDCP",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Museum Exhibitions & Educational Design",
+    "faculty": "Faculty of Education",
+    "description": "Examination of the complex narrative, experiential, discursive, socio-political and pedagogical impacts posed by the design choices in museum exhibitions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 550": {
+    "subject_code": "EDCP",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Mathematics Education: Origins and Issues",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 551": {
+    "subject_code": "EDCP",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Mathematics Education: Current Issues",
+    "faculty": "Faculty of Education",
+    "description": "An advanced course in curriculum and pedagogy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 552": {
+    "subject_code": "EDCP",
+    "course_code": "552",
+    "credit": "3",
+    "course_name": "Mathematics Education: Early Years",
+    "faculty": "Faculty of Education",
+    "description": "Recent theories and research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 553": {
+    "subject_code": "EDCP",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Mathematics Education: Beyond the Early Years",
+    "faculty": "Faculty of Education",
+    "description": "Recent theories and research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 555": {
+    "subject_code": "EDCP",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Critical Analysis of Curriculum in Science Education",
+    "faculty": "Faculty of Education",
+    "description": "Current ideas about science curriculum, the nature of science, and its implications for scientific literacy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 556": {
+    "subject_code": "EDCP",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Theory and Research in the Social Context of School Science",
+    "faculty": "Faculty of Education",
+    "description": "Historical and current social, political and economic influences on science curriculum and science teaching. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 557": {
+    "subject_code": "EDCP",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Issues in the Teaching and Learning of the Sciences",
+    "faculty": "Faculty of Education",
+    "description": "Conceptual and practical issues associated with contemporary approaches. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 558": {
+    "subject_code": "EDCP",
+    "course_code": "558",
+    "credit": "3",
+    "course_name": "Science Learning in Informal Environments",
+    "faculty": "Faculty of Education",
+    "description": "Theoretical perspectives and current research on science learning in contexts other than formal science classes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 559": {
+    "subject_code": "EDCP",
+    "course_code": "559",
+    "credit": "3",
+    "course_name": "Research in the Teaching and Learning of the Sciences",
+    "faculty": "Faculty of Education",
+    "description": "Current models and methods of inquiry in science education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 560": {
+    "subject_code": "EDCP",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Scholarship of Curriculum Practice in Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 561": {
+    "subject_code": "EDCP",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Scholarship of Teaching and Learning in Higher Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 562": {
+    "subject_code": "EDCP",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Curriculum Issues and Theories",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 563": {
+    "subject_code": "EDCP",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Curriculum Evaluation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 564": {
+    "subject_code": "EDCP",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Texts, Politics, and Ideologies of Curriculum Development",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 565": {
+    "subject_code": "EDCP",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Teaching in Museums",
+    "faculty": "Faculty of Education",
+    "description": "Issues, theories, and research studies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 566": {
+    "subject_code": "EDCP",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Curriculum Change, Planning, and Implementation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 567": {
+    "subject_code": "EDCP",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Curriculum Issues and Theories in Museums",
+    "faculty": "Faculty of Education",
+    "description": "The intersection between Museum Education and Curriculum Theory through a survey of research and practices in curriculum, teaching, and learning. Curriculum studies as it relates to museum education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 568": {
+    "subject_code": "EDCP",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Curricula in their Historical Context",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 569": {
+    "subject_code": "EDCP",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Schooling in Comparative Perspective: North American and International Interpretations",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 570": {
+    "subject_code": "EDCP",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Seminar in the Teaching of Information and Communication Technologies",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 571": {
+    "subject_code": "EDCP",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "History of Media and Technology in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 575": {
+    "subject_code": "EDCP",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Media Education: Curriculum, Pedagogy, and Issues",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 580": {
+    "subject_code": "EDCP",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Problems in Education",
+    "faculty": "Faculty of Education",
+    "description": "Directed Studies and Major Essay in the diverse disciplines and topics of curriculum and pedagogy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 581": {
+    "subject_code": "EDCP",
+    "course_code": "581",
+    "credit": "3-12",
+    "course_name": "Laboratory or Studio Practicum",
+    "faculty": "Faculty of Education",
+    "description": "Emphasis on the identification and development of content and processes essential to the on-going laboratory or studio engagement. Such areas include media, installation and performance art, and music performance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 585": {
+    "subject_code": "EDCP",
+    "course_code": "585",
+    "credit": "3-6",
+    "course_name": "Special Course in Curriculum and Pedagogy",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 590": {
+    "subject_code": "EDCP",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Paper",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 598": {
+    "subject_code": "EDCP",
+    "course_code": "598",
+    "credit": "3-12",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "Field experiences in community-based or museum contexts. Focus on curriculum design and evaluation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 599": {
+    "subject_code": "EDCP",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 601": {
+    "subject_code": "EDCP",
+    "course_code": "601",
+    "credit": "3-6",
+    "course_name": "Doctoral Seminar in Curriculum and Pedagogy: History and Theory",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 602": {
+    "subject_code": "EDCP",
+    "course_code": "602",
+    "credit": "3-6",
+    "course_name": "Doctoral Seminar in Curriculum and Pedagogy: Conceptualizing Research",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 605": {
+    "subject_code": "EDCP",
+    "course_code": "605",
+    "credit": "3-12",
+    "course_name": "Doctoral Seminar in Art Education",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 606": {
+    "subject_code": "EDCP",
+    "course_code": "606",
+    "credit": "3-12",
+    "course_name": "Doctoral Seminar in Music Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EDCP 699": {
+    "subject_code": "EDCP",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

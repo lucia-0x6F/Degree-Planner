@@ -1,0 +1,546 @@
+{
+  "APBI 100": {
+    "subject_code": "APBI",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Soil and the Global Environment",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Soil as the base of the Earth's ecosystem pyramid. The interconnection between soil, climate change and human activity, the carbon cycle, water resources, food security, food safety, and biofuel production. Strategies for sustaining soil resources."
+  },
+  "APBI 200": {
+    "subject_code": "APBI",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Soil Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Physical, chemical and biological properties of soils; soil formation, classification, use and conservation. There are no prerequisites for this course, but background in Biology 12, Chemistry 12, and Physics 12 (or first-year university-level) is strongly advised."
+  },
+  "APBI 210": {
+    "subject_code": "APBI",
+    "course_code": "210",
+    "credit": "4",
+    "course_name": "Vascular Plants",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "A comparative study of pteridophytes, gymnosperms and angiosperms, integrating form, function, and ecology. Prerequisite: One of (a) all of BIOL_V 121, BIOL_V 180 or (b) all of SCIE_V 001, BIOL_V 180 or (c) all of BIOL_V 121, BIOL_V 140 or (d) all of SCIE_V 001, BIOL_V 140, or (e) 7 credits of first-year biology. Equivalency: BIOL_V 210"
+  },
+  "APBI 214": {
+    "subject_code": "APBI",
+    "course_code": "214",
+    "credit": "3",
+    "course_name": "Animal Sheltering and Companion Animal Support Services",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "History, philosophy, and current practices of animal shelters and companion animal support services, with a focus on emerging issues from a One Health/One Welfare perspective. Prerequisite: Second-year standing or higher."
+  },
+  "APBI 222": {
+    "subject_code": "APBI",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Introduction to Horticulture",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "The cultivation of key temperate fruits, vegetables, greenhouse, ornamental and nursery crops in BC, integrated with scientific and practical aspects of their sustainable production and marketing."
+  },
+  "APBI 235": {
+    "subject_code": "APBI",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Biotechnology in Agricultural Food Production",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Genetics, genomics, and biotechnology concepts with applications to agricultural food production and food safety. Prerequisite: All of BIOL 112, BIOL 121, BIOL 180."
+  },
+  "APBI 244": {
+    "subject_code": "APBI",
+    "course_code": "244",
+    "credit": "3",
+    "course_name": "Atmospheric Environments",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Physical principles underlying weather and climates. Thermal, moisture and wind climates from the scale of plants and animals to the globe. Daily weather systems and climate change. Credit will be granted for only one of GEOS (or GEOB) 200, GEOS (or GEOB) 204 or APBI 244. Equivalency: GEOS (OR GEOB) 200"
+  },
+  "APBI 260": {
+    "subject_code": "APBI",
+    "course_code": "260",
+    "credit": "6",
+    "course_name": "Agroecology I: Introduction to principles and techniques",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Basic ecological approaches for understanding and managing agricultural production and food systems. Includes hands-on field data collection, data analysis and problem-based discussions."
+  },
+  "APBI 265": {
+    "subject_code": "APBI",
+    "course_code": "265",
+    "credit": "3",
+    "course_name": "Sustainable Agriculture and Food Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Principles and practices necessary to understand practical concerns of sustainable food systems. Students who already present credit for APBI_V 260 are not permitted to receive credit for APBI_V 265."
+  },
+  "APBI 290": {
+    "subject_code": "APBI",
+    "course_code": "290",
+    "credit": "3-6",
+    "course_name": "Introductory Topics in Applied Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and interpretation of current issues in applied biology. Topics will vary from year to year."
+  },
+  "APBI 301": {
+    "subject_code": "APBI",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Soil, People and Landscape",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "How environmental factors and landpeople relationships control the distribution of soil types in the landscape and the changes of soil properties in space and time. Prerequisite: APBI_V 200."
+  },
+  "APBI 311": {
+    "subject_code": "APBI",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Comparative Cardiovascular, Respiratory and Osmoregulatory Physiology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Cardiovascular, respiratory and osmoregulatory physiology of vertebrates. Prerequisite: BIOL 204 and one of BIOL 260, BIOL 361. And 3rd year standing. Equivalency: BIOL364"
+  },
+  "APBI 312": {
+    "subject_code": "APBI",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Reproductive Physiology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Function and processes involved in reproductive physiology in domesticated animals. This course will focus on physiological mechanisms related to puberty, reproductive cycle, fertilization, embryo development, pregnancy, and parturition. Prerequisite: One of BIOL_V 204, BIOL_V 260. 3rd year standing."
+  },
+  "APBI 313": {
+    "subject_code": "APBI",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Experimental Analysis of Animal Behaviour",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Case studies will be used to discover how behavioural principles explain complexity in the behaviour of individual animals and contribute to our understanding of animal welfare. Prerequisite: Third-year standing or higher. One of PSYC_V 100, PSYC_V 101 or PSYC_V 102 recommended."
+  },
+  "APBI 314": {
+    "subject_code": "APBI",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Animals and Society",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Contemporary use of animals for food production, companionship, recreation and science; social and ethical issues concerning human impacts on animals; animals in human culture; protection of animals by society and the law. Prerequisite: At least third-year standing in any faculty."
+  },
+  "APBI 315": {
+    "subject_code": "APBI",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Animal Welfare and the Ethics of Animal Use",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Scientific assessment of animal well-being, ethical concepts applied to animal use, and animal welfare issues arising in agriculture, biomedical research and other areas. Credit will be granted for only one of APBI_V 315, ANSC_V 515, or AANB_V 515. Prerequisite: At least third-year standing in any faculty."
+  },
+  "APBI 316": {
+    "subject_code": "APBI",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Equine Biology, Health and Welfare",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Anatomy, physiology, reproduction, nutrition of the horse; common disease pathology, prevention and treatments; equine behaviour."
+  },
+  "APBI 317": {
+    "subject_code": "APBI",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Welfare and Ethics of using Animals in Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Historical and current debate, ethical perspectives, governance, and scientific understanding of experiences of animals in research."
+  },
+  "APBI 318": {
+    "subject_code": "APBI",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Introduction to Plant Breeding",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Small-scale classical (i.e., non-biotechnological) plant breeding and seed saving. Practical approaches to crop improvement, designing and implementing a simple plant breeding program."
+  },
+  "APBI 319": {
+    "subject_code": "APBI",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Aquaculture and the Environment",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Interactions between aquaculture and the environment. Current issues, comparison of systems, species, production methods, environments, and socioeconomics. Prerequisite: One of BIOL 230, APBI 260, APBI 265, CONS 330, ENVR 200, ENVR 300. and third year standing. Or permission of the instructor."
+  },
+  "APBI 322": {
+    "subject_code": "APBI",
+    "course_code": "322",
+    "credit": "4",
+    "course_name": "Horticultural Techniques",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Horticulture theory and methodology in an experiential learning format. Plant identification, seeding, propagation, canopy management, cultivation media, horticultural systems examined in the context of integrated crop management."
+  },
+  "APBI 324": {
+    "subject_code": "APBI",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Introduction to Seed Plant Taxonomy",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Introduction to seed plant taxonomy emphasizing descriptive morphology and identification. Each student will be required to submit a plant collection. Prerequisite: BIOL_V 121. Equivalency: BIOL_V 324."
+  },
+  "APBI 326": {
+    "subject_code": "APBI",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Introductory Plant Pathology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Study of the ecology of plant pathogenic organisms; principles of disease development and control."
+  },
+  "APBI 327": {
+    "subject_code": "APBI",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Introduction to Entomology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "A survey of the structure, classification and biology of insects; ecology and life-histories of insects; insect-plant relations. Prerequisite: BIOL_V 121. Equivalency: BIOL_V 327."
+  },
+  "APBI 328": {
+    "subject_code": "APBI",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Invasive Species Ecology and Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Advanced understanding of invasion ecology and the complexities of invasive species management globally in the context of a changing climate. Prerequisite: BIOL_V 121 or ILS_V 108. Equivalency: BIOL_V 317, CONS_V 328."
+  },
+  "APBI 342": {
+    "subject_code": "APBI",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Soil Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "The diversity of soil organisms (bacteria, protozoa, fungi, animals, plants) in natural and managed ecosystems; roles in primary production, nutrient cycling, decomposition and reclamation; interactions between soil organisms; responses to environmental change. Prerequisite: BIOL_V 121. Equivalency: FRST_V 310."
+  },
+  "APBI 351": {
+    "subject_code": "APBI",
+    "course_code": "351",
+    "credit": "4",
+    "course_name": "Plant Physiology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Mechanisms and regulation of functional processes contributing to the assimilation, transport and utilization of water, mineral nutrients and carbon by plants. Prerequisite: BIOL_V 121 and either(a) CHEM_V 123 or (b) all of CHEM_V 111, CHEM_V 113. CHEM_V 233 is recommended. Equivalency: BIOL_V 351, FRST_V 311."
+  },
+  "APBI 360": {
+    "subject_code": "APBI",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Agroecology II: Ecology of Agricultural Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "A variety of ecological processes shape agricultural landscapes. Students will learn the research foundations of applied ecology in agriculture and how to read and critique the scientific literature in this field. Prerequisite: One of BIOL 230, APBI 260, APBI 265."
+  },
+  "APBI 361": {
+    "subject_code": "APBI",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Key Indicators of Agroecosystem Sustainability",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "A detailed exploration of biophysical, economic, and social ecosystem sustainability indicators for primary production subsystems."
+  },
+  "APBI 365": {
+    "subject_code": "APBI",
+    "course_code": "365",
+    "credit": "6",
+    "course_name": "Summer Practicum in Sustainable Agriculture and Food Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Based at the UBC Farm. Application required. Fees will be assessed to meet expenses. Prerequisite: One of APBI 260, APBI 265. and third-year standing."
+  },
+  "APBI 398": {
+    "subject_code": "APBI",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Research Methods in Applied Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Research methods including research design, scientific critique, writing proposals and reports, and oral presentation. Prerequisite: Third-year standing in the Applied Biology program or permission of the instructor."
+  },
+  "APBI 401": {
+    "subject_code": "APBI",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Soil Processes",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Understanding environmental factors influencing soil-forming processes and their ecological implications. Credit will be granted for only one of SOIL 501 or APBI 401. Prerequisite: APBI 200."
+  },
+  "APBI 402": {
+    "subject_code": "APBI",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Sustainable Soil Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Application of fundamental, unifying, soil science principles in sustainable ecosystem management. Credit will be granted for only one of SOIL_V 502 or APBI_V 402. Prerequisite: APBI_V 200."
+  },
+  "APBI 403": {
+    "subject_code": "APBI",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Soil Sampling, Analyses and Data Interpretation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Field and laboratory analytical techniques in the chemical, biological and physical assessment of soils. Credit will be granted for only one of SOIL_V 503 or APBI_V 403. Prerequisite: APBI_V 200."
+  },
+  "APBI 405": {
+    "subject_code": "APBI",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Plant-Water Relations for Sustainable Agriculture",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Plant water requirements for production and survival, physiological stress thresholds, soil-plant-atmosphere interactions, structure-function relationships, cutting-edge and traditional monitoring tools, precision agriculture, application for sustainable water management. Prerequisite: Third year standing or higher."
+  },
+  "APBI 406": {
+    "subject_code": "APBI",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Pollination Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Fundamental research and topics in pollination biology related to various themes in applied biology including: natural selection, insect cognition, conservation and agriculture. Credit will be granted for only one of PLNT 506 or APBI 406. Prerequisite: One of APBI 260, APBI 265, BIOL 230."
+  },
+  "APBI 410": {
+    "subject_code": "APBI",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Applied Animal Health and Physiology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Physiological processes related to common health disorders in production and domesticated animals. The course will incorporate anatomy, physiology, biochemistry and pathology. Prerequisite: One of BIOL_V 201, BIOC_V 202 or BIOC_V 203."
+  },
+  "APBI 411": {
+    "subject_code": "APBI",
+    "course_code": "411",
+    "credit": "4",
+    "course_name": "Reproductive Physiology and Technology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "A comparative overview of reproductive physiology and reproductive technologies in domesticated and laboratory animals. Prerequisite: BIOL_V 201. Third year standing or higher."
+  },
+  "APBI 412": {
+    "subject_code": "APBI",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Belowground Ecosystems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Concepts, methods, and applications of belowground ecology with emphasis on biotic interactions in soil; roles that aboveground and belowground communities play in regulating the structure and function of terrestrial ecosystems and their responses to global change. Credit will be granted for only one of APBI_V 412 or FRST_V 512 or CONS_V 412. Prerequisite: Fourth year standing in a Bachelor of Science Program. Permission is required for registration. Equivalency: CONS_V 412."
+  },
+  "APBI 413": {
+    "subject_code": "APBI",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Stress and Coping in Animals",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Understanding, assessing, and managing stress in farm, companion, captive wildlife, and research animals: sources of stress; behavioural, emotional, cognitive, and physiological responses; effects on growth, reproduction, health. Prerequisite: Third-year standing or higher. APBI 315 and courses in animal physiology and animal behavior recommended."
+  },
+  "APBI 414": {
+    "subject_code": "APBI",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Animals and Global Issues",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Research seminar integrating diverse information to address global animal issues including: animal-source foods and human health, environmental impact of livestock production, trade in exotic animals. Prerequisite: One of APBI_V 314, APBI_V 315."
+  },
+  "APBI 415": {
+    "subject_code": "APBI",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Applied Animal Behaviour",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Application of principles and research methods of animal behaviour to practical problems in the care of farm, companion, wild and research animals, and in animal training, and human-wildlife conflict."
+  },
+  "APBI 416": {
+    "subject_code": "APBI",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Compassionate Conservation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Evaluation of humane treatment of individual animals living in the wild and managed within conservation biology. Assessment of attitudes and viewpoints of the role of animal welfare in conservation biology. Prerequisite: Third-year standing or higher. APBI 315 and BIOL 416 or CONS 330 recommended."
+  },
+  "APBI 417": {
+    "subject_code": "APBI",
+    "course_code": "417",
+    "credit": "4",
+    "course_name": "Production and Postharvest Physiology of Vegetable Crops",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Morphology, growth and development, production, composition, quality, and postharvest physiology of vegetable crops."
+  },
+  "APBI 418": {
+    "subject_code": "APBI",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Intensive Fish Production",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Management of fin fish throughout the life cycle; broodstock, egg, larvae, and juvenile. Control of environmental factors, including pathogens, for maximum productivity at all life stages. Prerequisite: Third-year standing or higher. One of APBI_V 311, BIOL_V 204 or BIOL_V 260. APBI_V 312 recommended."
+  },
+  "APBI 419": {
+    "subject_code": "APBI",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Fish Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Management of fish health in aquaculture; common fish pathogens, epidemiology, prevention, and treatment of diseases. Prerequisite: Third year standing or higher. One of APBI 311, BIOL 204 or BIOL 260. APBI 312 and APBI 418 strongly recommended."
+  },
+  "APBI 420": {
+    "subject_code": "APBI",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Fish and Climate Change",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Effects of climate change on fish physiology, fisheries and aquaculture on regional and global scales. Third-year standing or higher. Prerequisite: BIOL_V 121."
+  },
+  "APBI 422": {
+    "subject_code": "APBI",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Indigenous Food Systems in Canada",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Indigenous food systems are a complex, relational web of connections between land, culture, and spirit. Topics include: major elements of Indigenous food systems and present-day food stories from Indigenous communities across the country. Prerequisite: LFS_V 350. Or third-year standing or higher."
+  },
+  "APBI 423": {
+    "subject_code": "APBI",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Ecological Restoration",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Perspectives and practices of ecological restoration in diverse ecosystems worldwide. Prerequisite: APBI 200 and one of FRST 201, APBI 260, BIOL 230. Equivalency: UFOR 403"
+  },
+  "APBI 426": {
+    "subject_code": "APBI",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Plant-Microbe Interactions",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Biology and physiology of selected plant-microbe relationships. Impacts of plant-microbe relationships on society. Prerequisite: BIOL 200 and one of BIOC 202, BIOC 203, BIOL 201, BIOL 233, BIOL 234, BIOL 260. Equivalency: BIOL421"
+  },
+  "APBI 427": {
+    "subject_code": "APBI",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Insect Ecology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Behavioural, population, and community ecology of insects. Interaction between insects and plants and the application of the principals of insect ecology to biological control of insects and weeds. Prerequisite: One of BIOL_V 205, BIOL_V 327, APBI_V 327. Equivalency: BIOL_V 411."
+  },
+  "APBI 428": {
+    "subject_code": "APBI",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Integrated Pest Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Development and implementation of multi-disciplinary pest management programs in agricultural crops. Prerequisite: BIOL_V 121."
+  },
+  "APBI 440": {
+    "subject_code": "APBI",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Plant Genomics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Concepts, principles, and recent discoveries in genome structure and comparative genomics in plants with a focus on economically important plants; applications of genomics approaches to questions in plant genetics, evolution, and ecology. Corequisite: BIOL_V 335. Equivalency: BIOL_V 440."
+  },
+  "APBI 442": {
+    "subject_code": "APBI",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Wine Grape and Berry Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Grapevine genetics, morphology, and physiology and major biological features of other important berry crops for British Columbia such as blueberry, cranberry, and raspberry. Credit will be granted for only one of APBI_V 442, APBI_V 443, or PLNT_V 542. Prerequisite: BIOL_V 112 and BIOL_V 121."
+  },
+  "APBI 443": {
+    "subject_code": "APBI",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Field Study of Wine Grape Production",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Lectures, field trips, laboratory sessions focused on major issues related to grape and wine production. Origin of grape varieties and rootstocks, morphological features of the grapevine, training systems, canopy management strategies, berry composition, the impact of terroir on wine quality. Credit will be granted for only one of PLNT 542, APBI 442 OR APBI 443. Prerequisite: One of BIOL 112 and BIOL 121."
+  },
+  "APBI 444": {
+    "subject_code": "APBI",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Agroforestry",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Ecological, economic and social benefits of incorporating trees into agricultural landscapes. Lectures and groupwork designing agroforestry systems in temperate and tropical contexts. Prerequisite: One of FRST_V 201, APBI_V 260. Equivalency: FRST_V 444"
+  },
+  "APBI 460": {
+    "subject_code": "APBI",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Agroecology III: Synthesis and Application",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Application of agroecological knowledge towards the creation of real-world solutions for real-world problems. Prerequisite: Third-year standing or higher"
+  },
+  "APBI 461": {
+    "subject_code": "APBI",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Applied Agroecology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and solution of problems in agricultural production systems through the integration and application of agroecological knowledge and principles."
+  },
+  "APBI 462": {
+    "subject_code": "APBI",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Conservation Agriculture and Biodiversity Monitoring",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Biodiversity indicators and basic monitoring methods. Sources of agroecosystem biodiversity, including plants, insects, soil invertebrates, and vertebrates. Proficiency in using techniques to measure key abiotic factors in the field. Prerequisite: One of BIOL 300, GEOG 374, FRST 231, LFS 252. APBI 260 recommended"
+  },
+  "APBI 463": {
+    "subject_code": "APBI",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "Insects in Agroecosystems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Insect ecology and evolutionary biology of pests, predators, pollinators and other insect groups in agroecosystems. Application to biodiversity management and sustainable agricultural practices. Prerequisite: One of APBI 327, BIOL 327 and one of BIOL 300, GEOG 374, FRST 231, LFS 252, STAT 200."
+  },
+  "APBI 465": {
+    "subject_code": "APBI",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Capstone in Sustainable Agriculture and Food Systems",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Integrates classroom and applied learning at the UBC Farm with design project. Prerequisite: APBI_V 365."
+  },
+  "APBI 475": {
+    "subject_code": "APBI",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Indigenous Ecologies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Application of Indigenous worldviews and knowledges to ecology. Colonial history of modern ecology, foundations and examples of Indigenous ecologies, restoration applying multiple worldviews, and Indigenized, culturally appropriate ecological research and decision-making processes. Credit will only be granted for only one of APBI 475, FRST 475, PLNT 575 or FRST 575. Prerequisite: One of BEST 203, BIOL 230, FRST 201, APBI 260, GEOS 207. Third-year standing. Equivalency: FRST 475"
+  },
+  "APBI 490": {
+    "subject_code": "APBI",
+    "course_code": "490",
+    "credit": "3-12",
+    "course_name": "Advanced Topics in Applied Biology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Analysis and interpretation of current issues in applied biology. Prerequisite: 3rd year standing or higher."
+  },
+  "APBI 495": {
+    "subject_code": "APBI",
+    "course_code": "495",
+    "credit": "6",
+    "course_name": "Human Wildlife Conflict",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Evaluation of the impacts of human wildlife conflicts on wildlife populations; application of innovative methods to reduce human wildlife conflicts. [2-0-1] Prerequisite: Third-year standing or higher. BIOL 230 or FRST 395 and APBI 315 or APBI 416 recommended. Equivalency: CONS495"
+  },
+  "APBI 496": {
+    "subject_code": "APBI",
+    "course_code": "496",
+    "credit": "3-6",
+    "course_name": "Applied Animal Biology Practicum",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Application of principles and concepts of Applied Animal Biology to experiential learning in the fields of wild, companion, lab, and farm animal welfare and management. Prerequisite: Third-year standing or higher. APBI_V 314 and/or APBI_V 315 are recommended."
+  },
+  "APBI 497": {
+    "subject_code": "APBI",
+    "course_code": "497",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Prerequisite: Approval of program advisor."
+  },
+  "APBI 498": {
+    "subject_code": "APBI",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Undergraduate Essay",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Preparation of a comprehensive and analytical review of an approved topic under the supervision of a faculty member. Consultation with a program advisor is required."
+  },
+  "APBI 499": {
+    "subject_code": "APBI",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Undergraduate Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Design and execution of an experimental/analytical research project leading to the preparation of a thesis. Prerequisite: Approval of a program advisor; consult before the end of classes in third year."
+  }
+}

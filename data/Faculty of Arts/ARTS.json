@@ -1,0 +1,10 @@
+{
+  "ARTS 001": {
+    "subject_code": "ARTS",
+    "course_code": "001",
+    "credit": "18",
+    "course_name": "Arts One",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

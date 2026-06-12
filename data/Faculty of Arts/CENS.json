@@ -1,0 +1,114 @@
+{
+  "CENS 104": {
+    "subject_code": "CENS",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Canadian Monuments to Central and Eastern European History",
+    "faculty": "Faculty of Arts",
+    "description": "Structural monuments and sites dedicated to the history and immigration from Central and Eastern Europe in Canada and their influence on Canadian cultures of remembrance."
+  },
+  "CENS 201": {
+    "subject_code": "CENS",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Contrasts and Conflicts: The Cultures of Central, Eastern and Northern Europe (in English)",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the cultural history of the peoples of Central, Eastern and Northern Europe as reflected in their literature, art and music."
+  },
+  "CENS 202": {
+    "subject_code": "CENS",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Great Works of Literature from Central, Eastern and Northern Europe (in English).",
+    "faculty": "Faculty of Arts",
+    "description": "Major works of Central, Eastern and Northern European literature from the eighteenth century to the present in their European context."
+  },
+  "CENS 203": {
+    "subject_code": "CENS",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Arctic Art and Activism",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of contemporary political and social conflicts in the arctic and circumpolar north, focusing on ways Indigenous people have used art, performance and activism as a tool for resistance and decolonization."
+  },
+  "CENS 299": {
+    "subject_code": "CENS",
+    "course_code": "299",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of readings and research undertaking topics of Modern European Studies, with the agreement and under the supervision of a faculty member with relevant expertise. Restricted to MEST students with approval from the Director of Undergraduate Studies."
+  },
+  "CENS 303": {
+    "subject_code": "CENS",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Representations of the Holocaust: Ghetto",
+    "faculty": "Faculty of Arts",
+    "description": "The Nazi Ghetto in film and literature from Central, Eastern, and Northern European Countries."
+  },
+  "CENS 304": {
+    "subject_code": "CENS",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Representations of the Holocaust: Auschwitz",
+    "faculty": "Faculty of Arts",
+    "description": "Concentration camps in art, film and literature from Central, Eastern and Northern European countries."
+  },
+  "CENS 307": {
+    "subject_code": "CENS",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Witches: Myth and Reality",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of the cultural, social, and historical construction of the witch in central and northern Europe with comparisons to recent history, current events, and popular culture."
+  },
+  "CENS 308": {
+    "subject_code": "CENS",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Comics and Graphic Novels in Central, Eastern and Northern Europe",
+    "faculty": "Faculty of Arts",
+    "description": "Political, cultural and social themes in European comics and graphic media."
+  },
+  "CENS 315": {
+    "subject_code": "CENS",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Becoming Multilingual: Experience, Aesthetics, Community",
+    "faculty": "Faculty of Arts",
+    "description": "Practice, theory, history, aesthetics, and poetics of the multilingual experience in its diverse contexts in Central, Eastern, and Northern Europe."
+  },
+  "CENS 319": {
+    "subject_code": "CENS",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Language, Place and Power",
+    "faculty": "Faculty of Arts",
+    "description": "Examines how languages have been disconnected from place, land, and environmental context through colonial settlement. Consequences and social effects, with emphasis on institutions and communities in British Columbia. Find out more at https://cenes.ubc.ca/courses/."
+  },
+  "CENS 404": {
+    "subject_code": "CENS",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Gender and Nation: Women's State in Modern Central, Eastern and Northern European Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural and social discourses of gender in literary works written in Central, Eastern and Northern Europe roughly between 1850 - 1930."
+  },
+  "CENS 405": {
+    "subject_code": "CENS",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Supernatural Folklore",
+    "faculty": "Faculty of Arts",
+    "description": "Supernatural folklore and belief situated in Central, Eastern and Northern European cultures, with focus on its role in religion, health, and expressive culture, power structures and Indigenous contexts."
+  },
+  "CENS 499": {
+    "subject_code": "CENS",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research undertaking topics of Modern European Studies, with the agreement and under the supervision, of a faculty member with relevant expertise. Restricted to MEST students with approval from the Director of Undergraduate Studies."
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "SOAL 100": {
+    "subject_code": "SOAL",
+    "course_code": "100",
+    "credit": "6",
+    "course_name": "Khichri: The South Asian Languages of Vancouver",
+    "faculty": "Faculty of Arts",
+    "description": "A systematic introduction to the grammars and scripts of Hindi, Urdu, Punjabi and Sanskrit, primarily through the media of Indo-Canadian popular culture (film, radio, bhangra, etc.)"
+  },
+  "SOAL 440": {
+    "subject_code": "SOAL",
+    "course_code": "440",
+    "credit": "3-18",
+    "course_name": "Supervised Study in South Asian Languages",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  }
+}

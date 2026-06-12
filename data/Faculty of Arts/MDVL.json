@@ -1,0 +1,58 @@
+{
+  "MDVL 200": {
+    "subject_code": "MDVL",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Global Medieval and Early Modern Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to interdisciplinary practices and global approaches to the study of the medieval and early modern periods (500- 1800 CE), integrating history, literature, and the arts; specific topics and case studies may vary from year to year. Credit will only be granted for one of MDVL_V 200 or MDVL_V 210."
+  },
+  "MDVL 210": {
+    "subject_code": "MDVL",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Introduction to Medieval Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the study of the medieval period in Western Europe (400-1550), integrating history, literature, and the arts; topics vary from year to year; interested students should consult the Medieval Studies Advisor."
+  },
+  "MDVL 301": {
+    "subject_code": "MDVL",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "European Literature from the 5th to the 14th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Selected works from the 5th to the 14th centuries in their cultural and social contexts. Recommended pre-requisites: Third-year standing or above in the Faculty of Arts. Credit will be granted for only one of RMST_V 321 or MDVL_V 301. Equivalency: RMST_V 321."
+  },
+  "MDVL 302": {
+    "subject_code": "MDVL",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "European Literature from the 14th to the 16th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Selected works of the Late Middle Ages and Renaissance in their cultural and social contexts. Recommended pre-requisites: Third-year standing or above in the Faculty of Arts."
+  },
+  "MDVL 310": {
+    "subject_code": "MDVL",
+    "course_code": "310",
+    "credit": "3-6",
+    "course_name": "Topics in Medieval Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary approaches to selected topics in medieval history, literature, and the arts; topics vary from year to year; interested students should consult the Medieval Studies advisor."
+  },
+  "MDVL 449": {
+    "subject_code": "MDVL",
+    "course_code": "449",
+    "credit": "6-12",
+    "course_name": "Graduating Essay or Supervised Study",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "MDVL 490": {
+    "subject_code": "MDVL",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Research Seminar in Medieval Studies",
+    "faculty": "Faculty of Arts",
+    "description": "An intensive research seminar in a specific period, area, or issue integrating topics in medieval history, literature, and the arts; topics vary from year to year; interested students should consult the Medieval Studies advisor."
+  }
+}

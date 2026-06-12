@@ -1,0 +1,130 @@
+{
+  "MEDI 501": {
+    "subject_code": "MEDI",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Molecular and Cellular Biology of Experimental Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Cell and molecular function in normal tissues and in specific disease processes, including, genetic, viral, bacterial, immune, and physiological disorders. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 502": {
+    "subject_code": "MEDI",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Experimental Medicine Methodology",
+    "faculty": "Faculty of Medicine",
+    "description": "Laboratory experience with experimental models of human disease; critical reviews of their relevance. Laboratory rotations, oral presentations and written reviews. Registration requires permission of the Department. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 503": {
+    "subject_code": "MEDI",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Introduction to Clinical, Patient Oriented and Translational Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Framing appropriate research questions, appropriate research designs, protocol development, key concepts in regulatory approval and human ethical oversight in Canada, privacy and knowledge translation. For students pursuing clinical, patient oriented and translational research. Prerequisite: Permission of Experimental Medicine Program Director. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 504": {
+    "subject_code": "MEDI",
+    "course_code": "504",
+    "credit": "1.5-3",
+    "course_name": "Emerging Topics in Experimental Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Restricted to students in Master of Science in Experimental Medicine or Doctor of Philosophy in Experimental Medicine. Equivalency: WACH_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 510": {
+    "subject_code": "MEDI",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Nephrology",
+    "faculty": "Faculty of Medicine",
+    "description": "Mechanisms of regulation of acid-base balance, fluid and electrolyte content, excretion of proteins and organic substances in kidney disease; abnormal renal mechanisms in hypertension. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 520": {
+    "subject_code": "MEDI",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Advanced Topics in Visual Sciences",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamental principles of vision from basic physiology to clinical syndromes across the visual pathway spanning the globe, ocular structures including the retina, up to striate and extrastriate cortices. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 530": {
+    "subject_code": "MEDI",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Gastroenterology",
+    "faculty": "Faculty of Medicine",
+    "description": "Pathogenesis and abnormal physiology in disease of the intestine and accessory organs; carcinogenesis; regulatory peptides; liver disease; inflammatory bowel disease; oesophageal dysfunction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 535": {
+    "subject_code": "MEDI",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Research Seminar",
+    "faculty": "Faculty of Medicine",
+    "description": "Reviews of research in selected areas of experimental medicine, including presentation of student's own research results. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 540": {
+    "subject_code": "MEDI",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Advances in Neurology",
+    "faculty": "Faculty of Medicine",
+    "description": "Pathogenesis and immunological mechanisms in acute and chronic virus infections of the central nervous system; immunologically induced non-infectious neurological disease. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 548": {
+    "subject_code": "MEDI",
+    "course_code": "548",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Experimental Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 549": {
+    "subject_code": "MEDI",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 560": {
+    "subject_code": "MEDI",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Pulmonary Pathophysiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Same as PATH_V 518. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 570": {
+    "subject_code": "MEDI",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Cardiovascular Pathophysiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Pathogenesis, abnormal physiology and therapeutic approaches in heart disease including cardiac arrhythmia, heart failure, myocardial infarction, hypertension, atherosclerosis. Equivalency: PATH_V 570. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 580": {
+    "subject_code": "MEDI",
+    "course_code": "580",
+    "credit": "3-6",
+    "course_name": "Experimental Medicine: Infectious Diseases",
+    "faculty": "Faculty of Medicine",
+    "description": "Supervised individual program of directed studies in experimental aspects of pathogenesis, diagnosis and treatment of infectious diseases, and mechanisms of host defence against microbial infections. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 590": {
+    "subject_code": "MEDI",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Molecular Regulation of Cell Growth and Differentiation",
+    "faculty": "Faculty of Medicine",
+    "description": "Receptors, kinases, phosphatases, G proteins, adapters, transcription factors and other regulatory proteins involved in eukaryotic cell activation, growth and differentiation; defective cell signalling in human diseases; methods to track actions of toxins and drugs in experimental model systems. Prerequisite: A third-year or higher Biochemistry course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MEDI 649": {
+    "subject_code": "MEDI",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Ph.D. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

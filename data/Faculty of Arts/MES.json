@@ -1,0 +1,34 @@
+{
+  "MES 300": {
+    "subject_code": "MES",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "The Middle East: Critical Questions and Debates",
+    "faculty": "Faculty of Arts",
+    "description": "Critical questions and debates in Middle East Studies that shape scholarly and public perception of the region."
+  },
+  "MES 301": {
+    "subject_code": "MES",
+    "course_code": "301",
+    "credit": "3-6",
+    "course_name": "Topics in Middle East Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website (https://mes.arts.ubc.ca/courses/) for further details."
+  },
+  "MES 360": {
+    "subject_code": "MES",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Political Economy of the Modern Middle East",
+    "faculty": "Faculty of Arts",
+    "description": "Roles of material and political forces, economic policies, and ideologies in the transformation of the Middle East. Topics include oil, colonial finance, trade, hydropower, industrialization, land reform, social reproduction, and geo-economic warfare. Restricted to students with second year standing or above."
+  },
+  "MES 450": {
+    "subject_code": "MES",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Directed Studies Project",
+    "faculty": "Faculty of Arts",
+    "description": "Projects that provide essential knowledge and skills for academic and/or community engagement in Middle East Studies. May include academic works or presentations, community projects, and/or digital initiatives. Prerequisite: MES 300. and permission of instructor."
+  }
+}

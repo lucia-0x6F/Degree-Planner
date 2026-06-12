@@ -1,0 +1,106 @@
+{
+  "AFST 250": {
+    "subject_code": "AFST",
+    "course_code": "250",
+    "credit": "3-6",
+    "course_name": "Introduction to African Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural, historical, and geographical issues of African Studies."
+  },
+  "AFST 256": {
+    "subject_code": "AFST",
+    "course_code": "256",
+    "credit": "3",
+    "course_name": "History of Africa",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to selected themes and historical approaches in African history. These may include African geography and identities, sources and methodology, pre-modern state formation, gender relations, world religions, labour systems, colonialism, and post-colonialism. Credit will be granted for only one of AFST 256 or HIST 256. Equivalency: HIST 256"
+  },
+  "AFST 308": {
+    "subject_code": "AFST",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "The Languages of Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Linguistic survey of the languages of Africa, including typological and historical connections between languages, individual and comparative surveys of sound systems, word structures, sentence structures, semantics, and sociolinguistic properties of a representative selection of languages. Credit will be granted for only one of AFST 308 or LING 308 Equivalency: LING 308"
+  },
+  "AFST 309": {
+    "subject_code": "AFST",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Arts of Africa and the African Diasporas",
+    "faculty": "Faculty of Arts",
+    "description": "Comparative exploration of art practices and their relationship to colonial and postcolonial histories. Credit will be granted for only one of AFST 309 or ARTH 309. Equivalency: ARTH 309"
+  },
+  "AFST 312": {
+    "subject_code": "AFST",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Southern Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Pre-colonial, colonial, and contemporary, emphasizing South Africa. Credit will be granted for only one of AFST 312 or HIST 312. Equivalency: HIST 312"
+  },
+  "AFST 313": {
+    "subject_code": "AFST",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Modern Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Africa in the 19th and 20th Centuries: Islamic revolutions, the end of the slave trades, colonial conquest, labour struggles, Christianity's new appeal, PanAfricanism, nationalist resistance, and decolonization. Post-independence challenges of nation-building and economic development. Cultural renaissances and the politics of tradition. Credit will be granted for only one of AFST_V 313 or HIST_V 313. Equivalency: HIST_V 313"
+  },
+  "AFST 350": {
+    "subject_code": "AFST",
+    "course_code": "350",
+    "credit": "3-6",
+    "course_name": "Topics in African Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website (https://africanstudies.arts.ubc.ca) for further details."
+  },
+  "AFST 351": {
+    "subject_code": "AFST",
+    "course_code": "351",
+    "credit": "3-6",
+    "course_name": "Perspectives in African Studies: Literary and Theoretical Approaches",
+    "faculty": "Faculty of Arts",
+    "description": "Major issues and theoretical approaches."
+  },
+  "AFST 352": {
+    "subject_code": "AFST",
+    "course_code": "352",
+    "credit": "3-6",
+    "course_name": "Perspectives in African Studies: A Social Science Approach",
+    "faculty": "Faculty of Arts",
+    "description": "Major issues and theoretical approaches."
+  },
+  "AFST 370": {
+    "subject_code": "AFST",
+    "course_code": "370",
+    "credit": "3-6",
+    "course_name": "Literatures and Cultures of Africa and/or the Middle East",
+    "faculty": "Faculty of Arts",
+    "description": "Literary and cultural works from Africa; some sections include Africa and the Middle East. Multiple perspectives on local, national, and global issues including colonialism, migration, transnationalism, education, art and politics. May include fiction, poetry, drama, digital media, and other forms. Consult department website for current year's offerings. Credit will be granted for only one of AFST 370 or ENGL 370. Prerequisite: For ENGL courses at the 200- or 300- level, prior completion of at least one 100- level ENGL course is recommended. Equivalency: ENGL 370"
+  },
+  "AFST 380": {
+    "subject_code": "AFST",
+    "course_code": "380",
+    "credit": "3-6",
+    "course_name": "Study of Sociolinguistics of a Selected African Language",
+    "faculty": "Faculty of Arts",
+    "description": "Selected African language with emphasis on major syntactic structures, vocabulary, conversation patterns, reading short texts, and the cultural and historical contexts of language use."
+  },
+  "AFST 410": {
+    "subject_code": "AFST",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Seminar in African Art",
+    "faculty": "Faculty of Arts",
+    "description": "Key debates in the art of Africa and the African diaspora. Credit will be granted for only one of AFST_V 410 or ARTH_V 410. Equivalency: ARTH_V 410 This course is not eligible for Credit/D/Fail grading."
+  },
+  "AFST 450": {
+    "subject_code": "AFST",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "African Diasporic Culture in African Canadian Communities",
+    "faculty": "Faculty of Arts",
+    "description": "African diasporic culture in Canadian society, fostering dialogue with members of African Canadian communities on cultural values, traditions, memory, adaptation and change."
+  }
+}

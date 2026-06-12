@@ -1,0 +1,906 @@
+{
+  "PHIL 100": {
+    "subject_code": "PHIL",
+    "course_code": "100",
+    "credit": "6",
+    "course_name": "Introduction to Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Basic problems and methods of Philosophy. Topics such as the existence of God, the nature and scope of human knowledge, the relationship between mind and body, personal identity, free will, issues and problems in moral philosophy. Credit will be granted for only one of PHIL 100 and either or both PHIL 101 or PHIL 102."
+  },
+  "PHIL 101": {
+    "subject_code": "PHIL",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Basic problems and methods of philosophy. Topics such as the nature and scope of human knowledge, the existence of God, and the relationship between mind and body. Credit will be granted for only one of PHIL 100 or PHIL 101."
+  },
+  "PHIL 102": {
+    "subject_code": "PHIL",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Introduction to Philosophy II",
+    "faculty": "Faculty of Arts",
+    "description": "Basic problems and methods of philosophy. Topics such as morality, personal identity, free will and determinism, and the meaning of life. Credit will be granted for only one of PHIL 100 or PHIL 102."
+  },
+  "PHIL 104": {
+    "subject_code": "PHIL",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Happiness",
+    "faculty": "Faculty of Arts",
+    "description": "What makes for deep, lasting happiness, joy, and wellbeing? Contemporary and classical works of philosophy and important debates in related fields such as psychology, economics, political theory, and sociology."
+  },
+  "PHIL 120": {
+    "subject_code": "PHIL",
+    "course_code": "120",
+    "credit": "3",
+    "course_name": "Introduction to Critical Thinking",
+    "faculty": "Faculty of Arts",
+    "description": "Tools for dealing with both everyday and more technical arguments and concepts. Analysis and resolution of confusions, ambiguities, and fallacies. This course is restricted to students with fewer than 90 credits."
+  },
+  "PHIL 125": {
+    "subject_code": "PHIL",
+    "course_code": "125",
+    "credit": "3",
+    "course_name": "Introduction to Scientific Reasoning",
+    "faculty": "Faculty of Arts",
+    "description": "Historical and logical analysis of various types of scientific hypotheses and the data that support or undermine them. This course is restricted to students with fewer than 90 credits."
+  },
+  "PHIL 211": {
+    "subject_code": "PHIL",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Greek Philosophy I: Socrates and Plato",
+    "faculty": "Faculty of Arts",
+    "description": "The Pre-Socratics; Socrates; Sophists; Plato. Recommended as preparation for PHIL 310. Credit will only be granted for one of PHIL 211, CLST 211 or AMNE 235. Equivalency: CLST211, AMNE235"
+  },
+  "PHIL 212": {
+    "subject_code": "PHIL",
+    "course_code": "212",
+    "credit": "3",
+    "course_name": "Greek Philosophy II: Aristotle and After",
+    "faculty": "Faculty of Arts",
+    "description": "Aristotle; selections from Hellenistic and Late Antique Philosophy. Recommended as preparation for PHIL 310. Credit will only be granted for one of PHIL 212, CLST 212 or AMNE 236. Equivalency: CLST212, AMNE236"
+  },
+  "PHIL 220": {
+    "subject_code": "PHIL",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Symbolic Logic",
+    "faculty": "Faculty of Arts",
+    "description": "Sentential and predicate logic. Translation from natural language; truth tables and interpretations; systems of natural deduction up to relational predicate logic with identity; alternative proof methods. Some sections may use computer-based materials and tests. Credit will be granted for only one of PHIL 220 and PHIL 222. Equivalency: PHIL 222"
+  },
+  "PHIL 222": {
+    "subject_code": "PHIL",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Enriched Symbolic Logic",
+    "faculty": "Faculty of Arts",
+    "description": "Naïve set theory, relations and functions, recursion and induction; Propositional and predicate logic; Symbolizations, semantics, and formal proof theory; Metatheory for propositional logic. Recommended for students interested in pursuing upper-level courses in logic or formal philosophy. Credit will be granted for only one of PHIL 220 and PHIL 222."
+  },
+  "PHIL 230": {
+    "subject_code": "PHIL",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Introduction to Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Theories of obligation and value; moral reasoning; normative ethics, descriptive ethics and meta-ethics. Readings in classic and contemporary texts."
+  },
+  "PHIL 235": {
+    "subject_code": "PHIL",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Contemporary Moral Issues",
+    "faculty": "Faculty of Arts",
+    "description": "Moral issues such as life and death decisions, paternalism, markets, animal welfare, technology, and global justice."
+  },
+  "PHIL 240": {
+    "subject_code": "PHIL",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Introduction to Epistemology",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in epistemology such as skepticism, truth, justification, a priori and a posteriori knowledge. Readings from classic and contemporary texts."
+  },
+  "PHIL 250": {
+    "subject_code": "PHIL",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Minds and Machines",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical and theoretical issues that pertain to how mental phenomena fit into the material world. Examine questions such as whether a sophisticated enough computer should be deemed a conscious intelligent being. Focus on philosophical literature on consciousness, intelligence, animal minds, and the mind-body relation."
+  },
+  "PHIL 260": {
+    "subject_code": "PHIL",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Science and Society in the Contemporary World",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the historical development, conceptual foundations, and cultural significance of contemporary science. Themes will vary from year to year. Credit will be granted for only one of PHIL 260 or HIST 260. Equivalency: HIST 260."
+  },
+  "PHIL 310": {
+    "subject_code": "PHIL",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "The Philosophy of Plato",
+    "faculty": "Faculty of Arts",
+    "description": "A study of Plato's dialogues and his influence on subsequent philosophy. PHIL/CLST 211 or AMNE 235 and PHIL/CLST 212 or AMNE 236 are recommended."
+  },
+  "PHIL 311": {
+    "subject_code": "PHIL",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "The Philosophy of Aristotle",
+    "faculty": "Faculty of Arts",
+    "description": "A study of Aristotle's writings and his influence on subsequent philosophy. Recommended pre-requisite: PHIL 310."
+  },
+  "PHIL 313": {
+    "subject_code": "PHIL",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Medieval Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of Western European thought from Augustine to the 14th century. Possible topics and authors include: Augustine; Abelard; the influence of Islam; the rediscovery of Aristotle; Aquinas; Scotus; Ockham. Credit will be granted for only one of PHIL 313 and RELG 328. Equivalency: RELG 328"
+  },
+  "PHIL 314": {
+    "subject_code": "PHIL",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Philosophy in the 17th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of 17th-century philosophy from Bacon to Leibniz, including the writings of Hobbes, Descartes, and Spinoza. The influence of science and religion on philosophy."
+  },
+  "PHIL 315": {
+    "subject_code": "PHIL",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Philosophy in the 18th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of 18th-century philosophy from Locke to Kant, including the writings of Berkeley, Rousseau, and Hume. The influence of science and religion on philosophy."
+  },
+  "PHIL 316": {
+    "subject_code": "PHIL",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Philosophy After 1800",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of 19th and 20th century philosophy. May include Hegel, Schopenhauer, Nietzsche, Mill, Meinong, Brentano, the British Idealists, Russell, and Moore. Social and political currents in 19th century philosophical thought."
+  },
+  "PHIL 320": {
+    "subject_code": "PHIL",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Logic: Metatheory and Computability",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of PHIL 220. A system of deduction for predicate logic is selected for further study. Completeness of this system and other metatheoretic results are proved. Other topics include computability, recursive function theory, incompleteness and decidability. Recommended pre-requisite: one of PHIL 220, PHIL 222. PHIL 222 is recommended."
+  },
+  "PHIL 321": {
+    "subject_code": "PHIL",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Induction, Decision and Game Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Formal methods relevant to probabilistic and inductive reasoning. Decision theory, game theory, axiomatic probability theory and its interpretations, belief dynamics, simulation and modelling. Recommended pre-requisite: one of PHIL125, PHIL 220, PHIL 222 or instructor permission."
+  },
+  "PHIL 322": {
+    "subject_code": "PHIL",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Modal Logic",
+    "faculty": "Faculty of Arts",
+    "description": "Logic of the modal operators It is necessary that and It is possible that. Possible-world semantics and a method of derivation for this logic. Recommended pre-requisite: one of PHIL 220, PHIL 222. PHIL 222 is recommended."
+  },
+  "PHIL 323": {
+    "subject_code": "PHIL",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Non-Classical Logics",
+    "faculty": "Faculty of Arts",
+    "description": "One or more of conditional logic, deontic logic, epistemic logic, many-valued logic, systems of belief dynamics. Recommended pre-requisite: one of PHIL 220, PHIL 222. PHIL 222 is recommended."
+  },
+  "PHIL 324": {
+    "subject_code": "PHIL",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Philosophy of Logic",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental concepts and methods of logic; the logistic method, syntax and semantics; the conditional; entailment; consequence; modal logic; problems concerning extensionality and intentionality. Frege's distinction between sense and reference; Russell's theory of definite descriptions; Tarski's definition of truth. Recommended pre-requisite: one of PHIL 220, PHIL 222. PHIL 222 is recommended."
+  },
+  "PHIL 326": {
+    "subject_code": "PHIL",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Philosophy of Language I",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical discussion of language, meaning, and communication. Prerequisite: At least one of LING 201/PHIL 220/PHIL 222, plus 6 additional credits of PHIL/LING at the 200-level or above."
+  },
+  "PHIL 330": {
+    "subject_code": "PHIL",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Social and Political Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Theories of political and legal obligation and authority, legal reasoning, society and the state. Readings in classic and contemporary texts. Prerequisite: PHIL 230 is strongly recommended."
+  },
+  "PHIL 331": {
+    "subject_code": "PHIL",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Business and Professional Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Moral problems in contemporary business and professional practice, general moral theory, the law, and policy formation. Corporate social and environmental responsibility, employee rights, preferential hiring and affirmative action programs, conflicts of interest, advertising, whistle blowing and self-regulation."
+  },
+  "PHIL 332": {
+    "subject_code": "PHIL",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Environmental Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Moral problems arising in the context of human relationships to nature and to non-human living things, considered in terms of both general moral theory and policy formation. Topics include moral standing, animal rights, obligations to future generations, pollution, hazardous materials, the depletion of natural resources and the treatment of non-human living things."
+  },
+  "PHIL 333": {
+    "subject_code": "PHIL",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Bio-Medical Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Moral problems arising in the health sciences, especially in medicine but also in biology, psychology, and social work. Topics include abortion, death and euthanasia, genetic engineering, behaviour modification, compulsory treatment, experimentation with human beings and animals, and the relationship between professionals and their patients, subjects or clients. No philosophical background is required."
+  },
+  "PHIL 334": {
+    "subject_code": "PHIL",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Sex, Gender and Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Relationship between sex, gender, and philosophy. Topics may include ethics, epistemology, science, social relations, law, and personhood."
+  },
+  "PHIL 335": {
+    "subject_code": "PHIL",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Power and Oppression",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical approaches to historical problems of inequality and social harm, with readings drawn from historical and contemporary sources. Topics to be studied may include slavery, colonialism, labour, and the position of women in society."
+  },
+  "PHIL 336": {
+    "subject_code": "PHIL",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Big Data, Artificial Intelligence, and Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of the main ethical questions and challenges from mass data collection and analysis, automated decision making, and artificial intelligence. Some prior study of philosophical ethics and data analysis is helpful but not required. Recommended for both Major in Philosophy students and other students interested in this topic. Credit will only be granted for one of PHIL_V 336 or CPSC_V 430."
+  },
+  "PHIL 337": {
+    "subject_code": "PHIL",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Ethics for the Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical exploration of ethical issues in the non-medical sciences, including topics such as intellectual integrity, responsible conduct of research, protection of human subjects, ethics of animal experimentation, and the social responsibilities of scientists. Credit will be granted for only one of ISCI_V 433 or PHIL_V 337."
+  },
+  "PHIL 338": {
+    "subject_code": "PHIL",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "Philosophy of Law",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts of law, constitution and sovereignty; law and morality; natural law theories and legal positivism; obligation, responsibility, and punishment. Prerequisite: Restricted to second- or higher-year standing."
+  },
+  "PHIL 339": {
+    "subject_code": "PHIL",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "Philosophy of Art",
+    "faculty": "Faculty of Arts",
+    "description": "Topics include art and perception, art and reality, imagination, expression, censorship, and the role of art in human life."
+  },
+  "PHIL 340": {
+    "subject_code": "PHIL",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Introduction to Metaphysics",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in metaphysics such as the nature of physical reality, personal identity, the mind/body problem, free will, causation and action theory. Readings from classic and contemporary texts. Prerequisite: PHIL 240 is recommended."
+  },
+  "PHIL 347": {
+    "subject_code": "PHIL",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Philosophy of Religion",
+    "faculty": "Faculty of Arts",
+    "description": "A critical and analytical examination of arguments for and arguments against the existence of God, and other related topics."
+  },
+  "PHIL 348": {
+    "subject_code": "PHIL",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Introduction to Continental Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Major themes and figures in the Continental philosophy tradition; possible topics include 19th century precursors, 20th century philosophers, and comparisons between analytic and continental philosophy."
+  },
+  "PHIL 351": {
+    "subject_code": "PHIL",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Philosophical Perspectives on Cognitive Systems Research",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical exploration of questions and theories arising from research into the mind, as conducted in psychology, linguistics, and computer science. Prerequisite: 3 credits selected from any of PHIL 211, 212, 220, 222, 230, 235, 240, 250, 260, or COGS 200"
+  },
+  "PHIL 360": {
+    "subject_code": "PHIL",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Introduction to History and Philosophy of Science",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of historical, conceptual and methodological conditions of scientific knowledge through detailed consideration of important episodes in the history of science. Credit will be granted for only one of PHIL 360 or HIST 393. Equivalency: HIST 393"
+  },
+  "PHIL 362": {
+    "subject_code": "PHIL",
+    "course_code": "362",
+    "credit": "3-6",
+    "course_name": "History and Philosophy of Economics from Aristotle to Adam Smith",
+    "faculty": "Faculty of Arts",
+    "description": "The development of economic thought from Aristotle to Adam Smith, focusing primarily on the conceptual foundations of economics, particularly the problems of value, distribution, and economic growth. A maximum of 6 credits will be granted for PHIL_V 362 or ECON _V 318. Equivalency: ECON _V 318"
+  },
+  "PHIL 363": {
+    "subject_code": "PHIL",
+    "course_code": "363",
+    "credit": "3-6",
+    "course_name": "History and Philosophy of Economics from Ricardo to Keynes",
+    "faculty": "Faculty of Arts",
+    "description": "The development of economic thought from David Ricardo up to the present, including such figures as Mill, Jevons, and Keynes, focusing primarily on the conceptual foundations of economics, particularly the problems of value, distribution and growth. A maximum of 6 credits will be granted for PHIL_V 363 or ECON_V 319. Equivalency: ECON_V 319"
+  },
+  "PHIL 364": {
+    "subject_code": "PHIL",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "Darwin, Evolution, and Modern History",
+    "faculty": "Faculty of Arts",
+    "description": "Darwin and the science of evolution in nineteenth and early twentieth century. Credit will be granted for only one of PHIL 364 or HIST 394. Equivalency: HIST 394"
+  },
+  "PHIL 369": {
+    "subject_code": "PHIL",
+    "course_code": "369",
+    "credit": "3-6",
+    "course_name": "Philosophy of Science",
+    "faculty": "Faculty of Arts",
+    "description": "Issues common to all sciences. Philosophical questions including the character of scientific laws, theories and revolutions, the nature of scientific confirmation, causality, explanation and prediction, and the use of logic and probability. Difficulties in the interpretation of atomic physics and questions about relationships between biology and psychology. No philosophical background is assumed."
+  },
+  "PHIL 371": {
+    "subject_code": "PHIL",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Foundations of Chinese Thought",
+    "faculty": "Faculty of Arts",
+    "description": "Early (pre 221 BCE) Chinese thought (Confucianism, Daoism, Mohism, Legalism), its contemporary implications, and the role of philosophy and religion in human flourishing./ Credit will only be granted for one of PHIL 371 or ASIA 371. Equivalency: ASIA371"
+  },
+  "PHIL 375": {
+    "subject_code": "PHIL",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Philosophy and Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical issues in works of literature or arising from theories of literary interpretation. Topics include issues relating to relativism, the nature of morality, free will, personal identity, the nature of the emotions."
+  },
+  "PHIL 378": {
+    "subject_code": "PHIL",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Philosophical Wisdom of Early India",
+    "faculty": "Faculty of Arts",
+    "description": "Epistemological and ontological thought from the Vedic Period to the period of the rise of philosophical schools or systems. Philosophy in the Mahabharata, Gita; early Buddhist and Jain views on knowledge and reality; views on language. Credit will be granted for only one of PHIL 378 or ASIA 378. Equivalency: ASIA 378"
+  },
+  "PHIL 385": {
+    "subject_code": "PHIL",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "Existentialism",
+    "faculty": "Faculty of Arts",
+    "description": "Meaning, identity and alienation as explored in the works for example of Kierkegaard, Dostoyevsky, Tolstoy, Sartre, and Camus."
+  },
+  "PHIL 388": {
+    "subject_code": "PHIL",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Classical South Asian Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Debates on issues of epistemology, language and ontology among the philosophical traditions of classical South Asia. PHIL 378/ASIA 378 is recommended. Credit will be granted for only one of PHIL 388 or ASIA 388. Equivalency: ASIA 388"
+  },
+  "PHIL 390": {
+    "subject_code": "PHIL",
+    "course_code": "390",
+    "credit": "6-12",
+    "course_name": "Honours Tutorial",
+    "faculty": "Faculty of Arts",
+    "description": "For students in third-year Honours."
+  },
+  "PHIL 400": {
+    "subject_code": "PHIL",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Morals, Politics and the Individual",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to major themes in moral and political philosophy. Primarily for fourth-year and graduate students who have had no previous course in Philosophy. Credit will be granted for only one of PHIL 400, PHIL 100 or PHIL 101 and 102."
+  },
+  "PHIL 401": {
+    "subject_code": "PHIL",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Knowledge, Explanation, and the Nature of Things",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to major themes in epistemology and metaphysics. Primarily for fourth-year and graduate students who have had no previous course in Philosophy. Credit will be granted for only one of PHIL 401, PHIL 100 or PHIL 101 and 102."
+  },
+  "PHIL 410": {
+    "subject_code": "PHIL",
+    "course_code": "410",
+    "credit": "3-6",
+    "course_name": "Topics in Ancient Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of the Presocratics, or of a philosopher such as Plato, or of a school such as the Sceptics or Stoics. Topics vary from year to year. Recommended pre-requisite: PHIL 311."
+  },
+  "PHIL 412": {
+    "subject_code": "PHIL",
+    "course_code": "412",
+    "credit": "3-6",
+    "course_name": "Topics in Medieval Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of a medieval philosopher such as Aquinas, or school. Recommended pre-requisite: PHIL 313."
+  },
+  "PHIL 414": {
+    "subject_code": "PHIL",
+    "course_code": "414",
+    "credit": "3-6",
+    "course_name": "Topics in the History of Modern Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive study of a major philosopher or school such as Descartes, Hume, Empiricism, Rationalism, or the British utilitarians. Recommended pre-requisites: one of PHIL 314, PHIL 315, PHIL 316."
+  },
+  "PHIL 415": {
+    "subject_code": "PHIL",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "The Philosophy of Immanuel Kant",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Kant's critical philosophy. Recommended pre-requisite: one of PHIL 314, PHIL 315, PHIL 340"
+  },
+  "PHIL 416": {
+    "subject_code": "PHIL",
+    "course_code": "416",
+    "credit": "3-6",
+    "course_name": "Topics in 19th-Century Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Study of a major 19th-century philosopher such as Hegel, Mill or Nietzsche, or school, such as German Idealism. Recommended pre-requisites: one of PHIL 314, PHIL 315, PHIL 316, PHIL 340."
+  },
+  "PHIL 418": {
+    "subject_code": "PHIL",
+    "course_code": "418",
+    "credit": "3-6",
+    "course_name": "Topics in Twentieth-Century Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive study of a major philosopher such as Wittgenstein, Russell, or Heidegger, or school, such as pragmatism or logical empiricism. Recommended pre-requisite: PHIL 340."
+  },
+  "PHIL 419": {
+    "subject_code": "PHIL",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Philosophy of History",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts of history and historical explanation, historical progress, purpose, necessity, law and causation. Hegel, Marx, Vico, Spengler, Pareto, Collingwood, Croce, and Toynbee, as well as contemporary figures. Students will be expected to have an adequate knowledge of ancient or modern history."
+  },
+  "PHIL 420": {
+    "subject_code": "PHIL",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "Topics in Symbolic Logic",
+    "faculty": "Faculty of Arts",
+    "description": "Formal semantics, proof theory, incompleteness and decidability, axiomatic set theory, independence results. Consult the Department as to which topics are offered in a given year. Prerequisite: PHIL_V 320."
+  },
+  "PHIL 426": {
+    "subject_code": "PHIL",
+    "course_code": "426",
+    "credit": "3-6",
+    "course_name": "Topics in Philosophy of Language",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced topics in the philosophy of language. Recommended pre-requisite: PHIL 326 and 6 credits of PHIL/LING at the 200-level or above."
+  },
+  "PHIL 427": {
+    "subject_code": "PHIL",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Philosophy of Mathematics",
+    "faculty": "Faculty of Arts",
+    "description": "Logicism, formalism and constructivism, implications of metatheorems such as those of Gödel and Church, mathematical truth, mathematics and mental construction, mathematics and the physical world. Prerequisite: Philosophy or mathematics courses totaling 9 credits at the 200-level or above."
+  },
+  "PHIL 431": {
+    "subject_code": "PHIL",
+    "course_code": "431",
+    "credit": "3-6",
+    "course_name": "Topics in Social and Political Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Central concepts and problems in political life and thought including obligation, citizenship, representation, justice; equality; civil rights and liberty; disobedience. Prerequisite: 9 credits of PHIL_V/POLI_V at the 200-level or above."
+  },
+  "PHIL 432": {
+    "subject_code": "PHIL",
+    "course_code": "432",
+    "credit": "3-6",
+    "course_name": "Topics in Ethical Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Classic or contemporary works in ethical theory. Prerequisite: PHIL_V 230. 9 credits of PHIL_V at the 200-level or above"
+  },
+  "PHIL 440": {
+    "subject_code": "PHIL",
+    "course_code": "440",
+    "credit": "3-6",
+    "course_name": "Topics in Epistemology",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the concept of knowledge; problems of justifying ordinary and basic empirical beliefs. Recommended pre-requisite: PHIL_V 240."
+  },
+  "PHIL 441": {
+    "subject_code": "PHIL",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Philosophy of Perception",
+    "faculty": "Faculty of Arts",
+    "description": "The contribution of the senses to knowledge of the external world; the nature of perception and its contribution to empirical knowledge. Recommended pre-requisites: Either (a) PHIL 240 or (b) COGS 200. If COGS 200, accompanied by 3 credits in PHIL at the 200-level or above."
+  },
+  "PHIL 448": {
+    "subject_code": "PHIL",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Topics in Continental Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "A study of European philosophers from amongst Husserl, Heidegger, Habermas, Foucault, Derrida, Lacan, Levinas, and others."
+  },
+  "PHIL 450": {
+    "subject_code": "PHIL",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Topics in Metaphysics",
+    "faculty": "Faculty of Arts",
+    "description": "Topics including ontology, universals and particulars, substance, determinism and indeterminism, identity over time, and theories of truth. Prerequisite: 9 credits in PHIL at the 200-level or above. PHIL 340 is recommended."
+  },
+  "PHIL 451": {
+    "subject_code": "PHIL",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Philosophy of Mind",
+    "faculty": "Faculty of Arts",
+    "description": "The nature of the mental and physical; the relation between minds and bodies; the character of psychological explanation. Recommended pre-requisites: Either (a) PHIL 240 or (b) COGS 200. If COGS 200, accompanied by 3 credits of PHIL at the 200-level or above."
+  },
+  "PHIL 452": {
+    "subject_code": "PHIL",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Philosophy of Action",
+    "faculty": "Faculty of Arts",
+    "description": "Explanation of human actions; the conditions of responsibility; freedom of the will; the domains of rational and moral appraisal; the category of action and the individuation of actions. Recommended pre-requisite: PHIL 340."
+  },
+  "PHIL 455": {
+    "subject_code": "PHIL",
+    "course_code": "455",
+    "credit": "3-6",
+    "course_name": "Topics in the Philosophy of Cognitive Science",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical topics in the cognitive sciences, such as empiricism vs. nativism, consciousness, mental representation, cognitive architecture, language & thought, and situated cognition. Prerequisite: One of PHIL 441, PHIL 451. Or any 6 credits of Philosophy at the 200-level or above (except PHIL 220, PHIL 222, PHIL 320)."
+  },
+  "PHIL 461": {
+    "subject_code": "PHIL",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Philosophy of Social Science",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in the philosophy of science of special concern to the social sciences: the problem of objectivity, the use of models and evidence, causation and causal reasoning, formal methods, the status of social kinds and norms, scientific explanation, laws. Prerequisite: 9 credits at the 200-level or above from philosophy, anthropology, geography, economics, history, political science, psychology or sociology."
+  },
+  "PHIL 462": {
+    "subject_code": "PHIL",
+    "course_code": "462",
+    "credit": "3-6",
+    "course_name": "Space and Time",
+    "faculty": "Faculty of Arts",
+    "description": "Such topics as: Are space and time continuous? Is motion always relative to another body? Does time flow? Is time irreversible? Recommended pre-requisites: PHIL 340 or 12 credits of mathematics or science."
+  },
+  "PHIL 464": {
+    "subject_code": "PHIL",
+    "course_code": "464",
+    "credit": "3",
+    "course_name": "Philosophy of Biology",
+    "faculty": "Faculty of Arts",
+    "description": "Methodological, historical, philosophical and social science questions about biology. Prerequisite: Fourth-year standing in any degree program or 9 credits of philosophy."
+  },
+  "PHIL 469": {
+    "subject_code": "PHIL",
+    "course_code": "469",
+    "credit": "3-6",
+    "course_name": "Topics in Philosophy of Science",
+    "faculty": "Faculty of Arts",
+    "description": "Topics such as probability and induction; foundations of measurement; theory construction. Recommended pre-requisite: PHIL_V 369."
+  },
+  "PHIL 470": {
+    "subject_code": "PHIL",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Comparative Conceptions of the Self",
+    "faculty": "Faculty of Arts",
+    "description": "Ways in which the 'self' has been portrayed in eastern and western religious traditions. Thinkers to be considered include Aristotle, Mencius, Freud, Xunzi (Hsn-tzu), Nietzche, and Zhuangzi (Chuang-tzu). Credit will be granted for only one of PHIL 470 or ASIA 470. Equivalency: ASIA 470"
+  },
+  "PHIL 485": {
+    "subject_code": "PHIL",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "Same as PHIL 486-9."
+  },
+  "PHIL 486": {
+    "subject_code": "PHIL",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "PHIL 487": {
+    "subject_code": "PHIL",
+    "course_code": "487",
+    "credit": "3",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "PHIL 488": {
+    "subject_code": "PHIL",
+    "course_code": "488",
+    "credit": "3",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "PHIL 489": {
+    "subject_code": "PHIL",
+    "course_code": "489",
+    "credit": "3",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "PHIL 490": {
+    "subject_code": "PHIL",
+    "course_code": "490",
+    "credit": "6-12",
+    "course_name": "Honours Tutorial",
+    "faculty": "Faculty of Arts",
+    "description": "For students in fourth-year Honours."
+  },
+  "PHIL 491": {
+    "subject_code": "PHIL",
+    "course_code": "491",
+    "credit": "3-6",
+    "course_name": "Seminar for Majors in Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Selected problems in philosophy, with attention to methods of research. Check with the department for specific topics. Primarily for fourth-year Philosophy Major students, but also open to Philosophy Honours."
+  },
+  "PHIL 499": {
+    "subject_code": "PHIL",
+    "course_code": "499",
+    "credit": "1",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "PHIL 510": {
+    "subject_code": "PHIL",
+    "course_code": "510",
+    "credit": "3-12",
+    "course_name": "Ancient Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 512": {
+    "subject_code": "PHIL",
+    "course_code": "512",
+    "credit": "3-12",
+    "course_name": "Medieval Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 514": {
+    "subject_code": "PHIL",
+    "course_code": "514",
+    "credit": "3-12",
+    "course_name": "Early Modern Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 516": {
+    "subject_code": "PHIL",
+    "course_code": "516",
+    "credit": "3-12",
+    "course_name": "Modern Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 518": {
+    "subject_code": "PHIL",
+    "course_code": "518",
+    "credit": "3-12",
+    "course_name": "Twentieth-Century Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 520": {
+    "subject_code": "PHIL",
+    "course_code": "520",
+    "credit": "3-12",
+    "course_name": "Logic",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 525": {
+    "subject_code": "PHIL",
+    "course_code": "525",
+    "credit": "3-12",
+    "course_name": "Philosophy of Language",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 527": {
+    "subject_code": "PHIL",
+    "course_code": "527",
+    "credit": "3-12",
+    "course_name": "Philosophy of Mathematics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 528": {
+    "subject_code": "PHIL",
+    "course_code": "528",
+    "credit": "3-12",
+    "course_name": "Philosophical Issues in the Foundations of Mathematics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 530": {
+    "subject_code": "PHIL",
+    "course_code": "530",
+    "credit": "3-12",
+    "course_name": "Moral Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 531": {
+    "subject_code": "PHIL",
+    "course_code": "531",
+    "credit": "3-12",
+    "course_name": "Political Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 532": {
+    "subject_code": "PHIL",
+    "course_code": "532",
+    "credit": "3-12",
+    "course_name": "Ethical Theory and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 533": {
+    "subject_code": "PHIL",
+    "course_code": "533",
+    "credit": "3-12",
+    "course_name": "Issues in Bio-Medical Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 534": {
+    "subject_code": "PHIL",
+    "course_code": "534",
+    "credit": "3-12",
+    "course_name": "Issues in Business and Professional Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 535": {
+    "subject_code": "PHIL",
+    "course_code": "535",
+    "credit": "3-12",
+    "course_name": "Issues in Environmental Ethics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 536": {
+    "subject_code": "PHIL",
+    "course_code": "536",
+    "credit": "3-12",
+    "course_name": "Ethical Issues in Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 539": {
+    "subject_code": "PHIL",
+    "course_code": "539",
+    "credit": "3-12",
+    "course_name": "Aesthetics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 540": {
+    "subject_code": "PHIL",
+    "course_code": "540",
+    "credit": "3-12",
+    "course_name": "Epistemology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 550": {
+    "subject_code": "PHIL",
+    "course_code": "550",
+    "credit": "3-12",
+    "course_name": "Metaphysics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 551": {
+    "subject_code": "PHIL",
+    "course_code": "551",
+    "credit": "3-12",
+    "course_name": "Philosophy of Mind",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 560": {
+    "subject_code": "PHIL",
+    "course_code": "560",
+    "credit": "3-12",
+    "course_name": "Philosophy of Science",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 561": {
+    "subject_code": "PHIL",
+    "course_code": "561",
+    "credit": "3-12",
+    "course_name": "Topics in Science and Technology Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced seminar on a theme or topic of interest to both STS and Philosophy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 581": {
+    "subject_code": "PHIL",
+    "course_code": "581",
+    "credit": "3-12",
+    "course_name": "Problems",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 585": {
+    "subject_code": "PHIL",
+    "course_code": "585",
+    "credit": "3-12",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 586": {
+    "subject_code": "PHIL",
+    "course_code": "586",
+    "credit": "3",
+    "course_name": "Philosophy of Action",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 599": {
+    "subject_code": "PHIL",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "MA Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHIL 699": {
+    "subject_code": "PHIL",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

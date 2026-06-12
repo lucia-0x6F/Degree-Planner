@@ -1,0 +1,234 @@
+{
+  "BAFI 500": {
+    "subject_code": "BAFI",
+    "course_code": "500",
+    "credit": "1.5",
+    "course_name": "Introductory Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 501": {
+    "subject_code": "BAFI",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Banking and Capital Markets",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 502": {
+    "subject_code": "BAFI",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Corporate Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 503": {
+    "subject_code": "BAFI",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Topics in Corporate Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 504": {
+    "subject_code": "BAFI",
+    "course_code": "504",
+    "credit": "1.5",
+    "course_name": "Capital Structure and Dividend Policy",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 506": {
+    "subject_code": "BAFI",
+    "course_code": "506",
+    "credit": "1.5",
+    "course_name": "Financial Strategies",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 507": {
+    "subject_code": "BAFI",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Mergers and Acquisitions",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 508": {
+    "subject_code": "BAFI",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Data-driven Investments",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 509": {
+    "subject_code": "BAFI",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Debt, Financial Distress, and Reorganization",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 510": {
+    "subject_code": "BAFI",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Security Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 511": {
+    "subject_code": "BAFI",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Investment Theory and Asset Pricing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 512": {
+    "subject_code": "BAFI",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Options and Futures",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 513": {
+    "subject_code": "BAFI",
+    "course_code": "513",
+    "credit": "1.5",
+    "course_name": "Risk Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 514": {
+    "subject_code": "BAFI",
+    "course_code": "514",
+    "credit": "1.5",
+    "course_name": "Portfolio Strategies",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 515": {
+    "subject_code": "BAFI",
+    "course_code": "515",
+    "credit": "1.5",
+    "course_name": "Portfolio Tactics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 516": {
+    "subject_code": "BAFI",
+    "course_code": "516",
+    "credit": "1.5",
+    "course_name": "Financial Engineering",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 517": {
+    "subject_code": "BAFI",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Options on Real Assets",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 518": {
+    "subject_code": "BAFI",
+    "course_code": "518",
+    "credit": "1.5",
+    "course_name": "Fixed Income Securities",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 519": {
+    "subject_code": "BAFI",
+    "course_code": "519",
+    "credit": "1.5",
+    "course_name": "Topics in Investment Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 520": {
+    "subject_code": "BAFI",
+    "course_code": "520",
+    "credit": "1.5",
+    "course_name": "Empirical Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 522": {
+    "subject_code": "BAFI",
+    "course_code": "522",
+    "credit": "1.5",
+    "course_name": "Market Microstructure",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 523": {
+    "subject_code": "BAFI",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "FinTech",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 530": {
+    "subject_code": "BAFI",
+    "course_code": "530",
+    "credit": "1.5",
+    "course_name": "International Financial Environment",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 532": {
+    "subject_code": "BAFI",
+    "course_code": "532",
+    "credit": "1.5",
+    "course_name": "International Financial Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 540": {
+    "subject_code": "BAFI",
+    "course_code": "540",
+    "credit": "0.8",
+    "course_name": "Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 541": {
+    "subject_code": "BAFI",
+    "course_code": "541",
+    "credit": "0.7",
+    "course_name": "Principles of Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 550": {
+    "subject_code": "BAFI",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Fundamental Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Fundamental topics in corporate finance and investments, including: business financing methods, capital budgeting, capital structure, valuation of stocks and bonds, risk and return in investments; roles of financial institutions. Note: For students who do not plan to specialize in finance. [3-0-1]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 580": {
+    "subject_code": "BAFI",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Special Topics in Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAFI 590": {
+    "subject_code": "BAFI",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

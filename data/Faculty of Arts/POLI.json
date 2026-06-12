@@ -1,0 +1,1162 @@
+{
+  "POLI 100": {
+    "subject_code": "POLI",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Political issues and case studies, drawn from Canadian and international contexts, will be used to introduce students to central debates and concepts of politics and political analysis."
+  },
+  "POLI 101": {
+    "subject_code": "POLI",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Canadian Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Canadian governments, politics, and public policy. How policies emerge from politics contested through the interaction of institutions (Constitution, Parliament, federalism, elections, and the courts) and actors (individuals, parties, interest groups, nations). Insights are applied to explain current events and controversies."
+  },
+  "POLI 110": {
+    "subject_code": "POLI",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Investigating Politics: An Introduction to Scientific Political Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "The logic, challenges, and major strategies of empirical political research. Core research tasks including: asking answerable questions, defining concepts, formulating hypotheses, gathering evidence, measuring variables, constructing comparisons, drawing causal inferences, and reporting findings."
+  },
+  "POLI 220": {
+    "subject_code": "POLI",
+    "course_code": "220",
+    "credit": "3-6",
+    "course_name": "Introduction to Political Systems Around the World",
+    "faculty": "Faculty of Arts",
+    "description": "Compares political systems around the world. Investigates why some countries are democracies and others are dictatorships; how different countries resolve political conflict; how institutions and culture affect the use of power and collective choices. Prerequisite: POLI_V 100. Or second-year standing or higher."
+  },
+  "POLI 240": {
+    "subject_code": "POLI",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Currents of Political Thought",
+    "faculty": "Faculty of Arts",
+    "description": "A critical introduction to some major ideologies and traditions of Western political thought that examines their philosophical origins as well as their implications for political life. Prerequisite: POLI_V 100. Or second-year standing or higher."
+  },
+  "POLI 260": {
+    "subject_code": "POLI",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Introduction to Global Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Examines key themes and issues in the study of political interaction between states and non-state actors, including international security, armed conflict and conflict management, global governance and international institutions, the world economy, poverty and inequality, and climate change. Prerequisite: POLI_V 100. Or second-year standing or higher."
+  },
+  "POLI 300": {
+    "subject_code": "POLI",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Current Issues in Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Major issues in global, national, and local politics explored through core political science concepts. This course is designed for students who are not enrolled in Political Science or International Relations programs. No prior POLI_V coursework is required. Restricted to students with third-year standing or above. This course is not open to students in the Major, Honours, Minor and Combined Majors in Political Science or the Major, Honours, and Minor in International Relations."
+  },
+  "POLI 301": {
+    "subject_code": "POLI",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Canadian Political Parties",
+    "faculty": "Faculty of Arts",
+    "description": "The organization and operation of party politics and the systems of party competition in Canada. The focus is on national-level politics. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 302": {
+    "subject_code": "POLI",
+    "course_code": "302",
+    "credit": "3-6",
+    "course_name": "Public Administration",
+    "faculty": "Faculty of Arts",
+    "description": "The structure and organization of the administrative branch of government in theory and practice. Administrative powers and policy-making in the modern state. Examples of the administrative processes are drawn from Canada and other countries. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 303": {
+    "subject_code": "POLI",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Federalism in Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and practice of Canadian federalism, its relationship to public policy, cultural pluralism, social stresses, and role of the courts. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 304": {
+    "subject_code": "POLI",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "British Columbia Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of political history, party politics, and public policy in British Columbia. Prerequisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 305": {
+    "subject_code": "POLI",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Canadian Political Ideas",
+    "faculty": "Faculty of Arts",
+    "description": "Political theories and ideologies in Canada. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 306": {
+    "subject_code": "POLI",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Local Government and Politics in Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Local and regional political institutions and public policies in Canada, with particular attention to those of Vancouver and other British Columbia localities. Prerequisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 307": {
+    "subject_code": "POLI",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Quebec Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "The nature of politics and the conduct of government in contemporary Quebec. The course is open to students from fields other than political science. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 308": {
+    "subject_code": "POLI",
+    "course_code": "308",
+    "credit": "3-6",
+    "course_name": "Topics in Canadian Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An important topic in Canadian politics and public policies. Possible topics include elections, media, and gender and identity. Topics vary year to year; see www.politics.ubc.ca/courses. Prerequisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 309": {
+    "subject_code": "POLI",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Canadian Perspectives on Human Rights",
+    "faculty": "Faculty of Arts",
+    "description": "Key issues in the theory and practice of human rights in Canada. Topics will vary from year to year. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 310": {
+    "subject_code": "POLI",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "The Strategy of Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Uses game theory to show how politicians strike bargains, outmanoeuvre opponents, and manipulate institutional rules. Prerequisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 311": {
+    "subject_code": "POLI",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Political Psychology",
+    "faculty": "Faculty of Arts",
+    "description": "How psychology explains political behavior, exploring personality, cognition, emotion, and social influence in political identity, media effects, leadership, conflict, and decision-making. Prerequisite: Two of POLI_V 100, POLI_V 101, POLI_V 110, POLI_V 240. Or third-year standing or higher."
+  },
+  "POLI 312": {
+    "subject_code": "POLI",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Threats to Contemporary Democracies",
+    "faculty": "Faculty of Arts",
+    "description": "Domestic and international challenges to democracy, and innovative democratic responses to populism, polarization, globalization and disinformation. Prerequisite: Two of POLI_V 100, POLI_V 101, POLI_V 110, POLI_V 240. Or third-year standing or higher."
+  },
+  "POLI 316": {
+    "subject_code": "POLI",
+    "course_code": "316",
+    "credit": "3-6",
+    "course_name": "Global Indigenous Politics",
+    "faculty": "Faculty of Arts",
+    "description": "The political dynamics of Indigenous peoples' politics on the global level; the legal and practical realities of colonization as a global Indigenous experience; current global Indigenous political issues and avenues of Indigenous resistance. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 317": {
+    "subject_code": "POLI",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Queer Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Political processes and policies governing advances and setbacks in gender and sexual minority rights around the world. Prerequisite: Two of POLI _V 100, POLI_V 101, POLI_V 110, POLI_V 240. Or third-year standing or higher."
+  },
+  "POLI 320": {
+    "subject_code": "POLI",
+    "course_code": "320",
+    "credit": "3-6",
+    "course_name": "Government and Politics of the United States of America",
+    "faculty": "Faculty of Arts",
+    "description": "The distinctive political system of the U.S. Covers all major institutions and processes, focusing on contemporary issues. Comparisons with the Canadian system. Sources of political failure and possible reform. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 321": {
+    "subject_code": "POLI",
+    "course_code": "321",
+    "credit": "3-6",
+    "course_name": "Chinese Politics and Development",
+    "faculty": "Faculty of Arts",
+    "description": "The course will explore various aspects of Chinese politics and the dynamics of China's development since 1949. Topics include: the Cultural Revolution, political reform and protest, and economic reform policies and their consequences. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 322": {
+    "subject_code": "POLI",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Japanese Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to modern Japanese politics and public policy from various theoretical and comparative perspectives. Prerequisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 323": {
+    "subject_code": "POLI",
+    "course_code": "323",
+    "credit": "3-6",
+    "course_name": "South Asian Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Comparative analysis of politics and government in India, Pakistan, Bangladesh, and Sri Lanka. Imperial legacies and nationalist movements; political institution-building amidst socio-cultural diversity; parties and interest groups; elections and leadership crises; military intervention; ethnic and class conflicts; foreign policy. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 324": {
+    "subject_code": "POLI",
+    "course_code": "324",
+    "credit": "3-6",
+    "course_name": "Southeast Asian Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "The political systems of contemporary Southeast Asia. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 325": {
+    "subject_code": "POLI",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Communist and Post-Communist Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of the origins, development, and demise of Communist political systems, as well as the nature of post-Communist politics, with special emphasis on the Soviet Union and its successor states. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 326": {
+    "subject_code": "POLI",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "European Politics: Selected Cases",
+    "faculty": "Faculty of Arts",
+    "description": "The politics and government of one or more European countries: political development, institutional structure, party politics, and policy-making. The specific country or countries will vary by section. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 327": {
+    "subject_code": "POLI",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "European Integration",
+    "faculty": "Faculty of Arts",
+    "description": "Post-1945 integration of Europe, comparison of national politics and attitudes to integration, and the history and institutions of the European Union. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 328": {
+    "subject_code": "POLI",
+    "course_code": "328",
+    "credit": "3-6",
+    "course_name": "Topics in Comparative Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the departmental website. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 329": {
+    "subject_code": "POLI",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Gender and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Relations between gender and political processes and institutions, including the impact of globalization and economic development. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 330": {
+    "subject_code": "POLI",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Japanese Political Economy",
+    "faculty": "Faculty of Arts",
+    "description": "Issues in contemporary Japanese political economy, including industrial policy, the Keiretsu groupings, the main-bank system, trends toward deregulation, and business-labour relations. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 331": {
+    "subject_code": "POLI",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Korean Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the politics of Korea. The evolution of Korean politics from authoritarian rule to democratic transition, focusing on present and future political, economic and social issues. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 332": {
+    "subject_code": "POLI",
+    "course_code": "332",
+    "credit": "3-6",
+    "course_name": "Politics and Government of Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative examination of democracy and authoritarianism in Latin America: populism, corporatism, bureaucratic authoritarianism, transitions from authoritarianism, and contemporary debates on the quality and diversity of democratic institutions. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 333": {
+    "subject_code": "POLI",
+    "course_code": "333",
+    "credit": "3-6",
+    "course_name": "Issues in Comparative Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of a major issue in comparative politics (e.g., the media, gender, nationalism, ethnic conflict). Topics will vary from year to year. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 334": {
+    "subject_code": "POLI",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Comparative Democratization",
+    "faculty": "Faculty of Arts",
+    "description": "Literatures and theories on regime democratization around the world; the roles of political, economic, social, and international factors in encouraging or impeding democratization. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 335": {
+    "subject_code": "POLI",
+    "course_code": "335",
+    "credit": "3-6",
+    "course_name": "Comparative Federalism",
+    "faculty": "Faculty of Arts",
+    "description": "An empirical and normative analysis of federalism as a way of structuring political life in industrialized democracies, investigating explanations for the design, persistence and operation of federal systems. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 336": {
+    "subject_code": "POLI",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Associations and the State in Comparative Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "How organised groups (civil society organizations, NGOs, interest groups) interact with governments in a variety of countries. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 337": {
+    "subject_code": "POLI",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "The U.S. Presidency in Comparative Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "Executive leadership of the U.S. presidency in comparison to the leadership of other Anglo-American systems, including the U.K., Canada, and Australia. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 338": {
+    "subject_code": "POLI",
+    "course_code": "338",
+    "credit": "3-6",
+    "course_name": "Politics and Development",
+    "faculty": "Faculty of Arts",
+    "description": "The relationship between political institutions and economic growth. How governments shape economic policy and development aid. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 340": {
+    "subject_code": "POLI",
+    "course_code": "340",
+    "credit": "3-6",
+    "course_name": "History of Political Ideas",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the political ideas of leading political philosophers from Ancient Greece to the 19th century. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or above."
+  },
+  "POLI 341": {
+    "subject_code": "POLI",
+    "course_code": "341",
+    "credit": "3-6",
+    "course_name": "Contemporary Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Topics may include freedom, colonialism, capitalism, Critical Theory and ideology, power and knowledge, social justice, rationalism, gender and identity politics, and the political. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 342": {
+    "subject_code": "POLI",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Modern Political Theory: Analysis of a Selected Theorist",
+    "faculty": "Faculty of Arts",
+    "description": "A detailed examination of an acknowledged masterpiece of modern political theory. The text and attendant literature vary from year to year. Consult the departmental website. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 343": {
+    "subject_code": "POLI",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Theories of State and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Classical origins of contemporary theories of the state, market, and civil society, focused on the relationship between social order, politics, and democracy. Readings from Smith, Tocqueville, Weber, and contemporary sources. Prerequisite: All of POLI_V 100, POLI_V 101, POLI_V 240. Or third-year standing or higher."
+  },
+  "POLI 344": {
+    "subject_code": "POLI",
+    "course_code": "344",
+    "credit": "3-6",
+    "course_name": "Social and Political Thought",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of some of the major concepts in political philosophy such as justice, equality, rights, obligation, liberty in the context of both classical and contemporary political thought. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 345": {
+    "subject_code": "POLI",
+    "course_code": "345",
+    "credit": "3-6",
+    "course_name": "Gender and Politics: Political Thought and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "The role of gender in Western political theory and the implications for the practice of politics. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 346": {
+    "subject_code": "POLI",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Democratic Theory",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of both classical and contemporary theories of democracy. Representative democratic theory, participatory democratic theory, and their relationship to twentieth century concepts of democracy. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 347": {
+    "subject_code": "POLI",
+    "course_code": "347",
+    "credit": "3-6",
+    "course_name": "Law and Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of law and political theory that considers topics such as sovereignty, constitutionalism, civil disobedience, rights and the political role of judges. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 348": {
+    "subject_code": "POLI",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Political Theory and Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Application of frameworks to policy questions that factor in debates about citizenship and social inclusion, and an examination of contemporary normative frameworks that fall along, and transcend, the left-right political spectrum. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 350": {
+    "subject_code": "POLI",
+    "course_code": "350",
+    "credit": "3-6",
+    "course_name": "Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to public policy: rationales for government intervention, the influence of interest groups and political institutions on policy outcomes, and the various stages in the policy process. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 351": {
+    "subject_code": "POLI",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Environmental Politics and Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Domestic and international determinants of environmental policy; alternative approaches to environmental protection. The sustainable development paradigm; public opinion and interest group pressures; risk assessment; mandatory, voluntary and market-based policy instruments. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 352": {
+    "subject_code": "POLI",
+    "course_code": "352",
+    "credit": "3-6",
+    "course_name": "Comparative Politics of Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Policy making across industrialized democracies, with a focus on North America and Europe. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 353": {
+    "subject_code": "POLI",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Public Opinion and Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "The interaction of public opinion and public policies of climate change, inequality, poverty, and democratic institutions and values in Canada and other democracies. Prerequisite: Two of POLI_V 100, POLI_V 101, POLI_V 110, POLI_V 240. Or third-year standing or higher."
+  },
+  "POLI 360": {
+    "subject_code": "POLI",
+    "course_code": "360",
+    "credit": "3-6",
+    "course_name": "Security Studies",
+    "faculty": "Faculty of Arts",
+    "description": "The contemporary international security context: reorientation of the study of security, patterns of inter- and intrastate conflict and communal violence, dilemmas of international response and conflict management. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 361": {
+    "subject_code": "POLI",
+    "course_code": "361",
+    "credit": "3-6",
+    "course_name": "International Violence and Its Control",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the nature of international violence from guerrilla to nuclear war; a survey of theories of the causes of interstate war; recent research findings on the causes of war and conditions for peace; a comparative analysis of strategies for controlling violence through disarmament and the promotion of alternative means of conflict resolution. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 362": {
+    "subject_code": "POLI",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "The Great Powers and International Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of the changing nature of Great Power relations, including procedures and institutions for managing their conflicts, in the pre-Cold War, Cold War, and post-Cold War international systems. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 363": {
+    "subject_code": "POLI",
+    "course_code": "363",
+    "credit": "3-6",
+    "course_name": "Canadian Foreign Policy",
+    "faculty": "Faculty of Arts",
+    "description": "An analysis of Canadian foreign policy on important international issues since the 1960s and of the policy-making process. Issues may include defence commitments, economic relations, activities of international organizations, and relations with the US, Europe, USSR, Asia and the Third World. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 364": {
+    "subject_code": "POLI",
+    "course_code": "364",
+    "credit": "3-6",
+    "course_name": "International Organizations",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the activities and influence of modern international organizations in international security, economic, and social issue areas. The course will focus on organizations associated with the United Nations, but other world and regional bodies will be analysed as well. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 365": {
+    "subject_code": "POLI",
+    "course_code": "365",
+    "credit": "3-6",
+    "course_name": "Asian International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the foreign policies of one or more of the states of East, Southeast, and South Asia; their relations with other states in the region as well as with major outside powers. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 366": {
+    "subject_code": "POLI",
+    "course_code": "366",
+    "credit": "3",
+    "course_name": "International Political Economy",
+    "faculty": "Faculty of Arts",
+    "description": "An analysis of governmental policies and international political bargaining in regard to such issues as international investment, trade, and monetary relations. Prerequisite: Two of POLI_V 100, POLI_V 101, POLI_V 110, POLI_V 240. Or third-year standing or higher."
+  },
+  "POLI 367": {
+    "subject_code": "POLI",
+    "course_code": "367",
+    "credit": "3-6",
+    "course_name": "International Relations Theory and the International System",
+    "faculty": "Faculty of Arts",
+    "description": "The evolution of the international system and empirical and normative theories of international relations such as realism, liberalism, and Marxism. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 368": {
+    "subject_code": "POLI",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Topics in International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Consult the program website (https://politics.ubc.ca/courses/) for more information. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 369": {
+    "subject_code": "POLI",
+    "course_code": "369",
+    "credit": "3-6",
+    "course_name": "Topics in International Security",
+    "faculty": "Faculty of Arts",
+    "description": "Possible topics include armed conflict, terrorism, environmental change, or international crime. Topics vary year to year, see www.politics.ubc.ca/courses. Pre-requisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or above."
+  },
+  "POLI 370": {
+    "subject_code": "POLI",
+    "course_code": "370",
+    "credit": "3-6",
+    "course_name": "Topics in International Conflict Management",
+    "faculty": "Faculty of Arts",
+    "description": "Problems of managing conflict in the international system. Possible topics include intervention, mediation, or sanctions. Topics vary year to year; see www.politics.ubc.ca/courses. Pre-requisite: Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or above."
+  },
+  "POLI 371": {
+    "subject_code": "POLI",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Humanitarian Engineering: Politics and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary study of best practice, politics, and ethics associated with technical solutions to humanitarian assistance within Canada and abroad; examines policies used in aid and development contexts with emphasis on the application of engineering. Restricted to students with a Major, Combined Major, Honours, Honours with, or Minor specialization in Political Science or International Relations, or at least third-year standing in any BASc program. Credit will be granted for only one of POLI 371 or APSC 367. Equivalency: APSC 367"
+  },
+  "POLI 372": {
+    "subject_code": "POLI",
+    "course_code": "372",
+    "credit": "3-6",
+    "course_name": "Multinational Corporations and Globalization",
+    "faculty": "Faculty of Arts",
+    "description": "Multinational corporations and the state in the contemporary international system, including the impact of multinationals and foreign direct investment on governments, societies, and industry. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 373": {
+    "subject_code": "POLI",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Ethics in World Politics",
+    "faculty": "Faculty of Arts",
+    "description": "When is it right to wage war? Who should pay for global warming? Should the wealthy provide foreign aid- how much? Analysis of traditions of moral thought to reach reasoned judgments about such dilemmas in global politics. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 374": {
+    "subject_code": "POLI",
+    "course_code": "374",
+    "credit": "3-6",
+    "course_name": "International Peacekeeping",
+    "faculty": "Faculty of Arts",
+    "description": "The development of peacekeeping within and outside the United Nations system and as an instrument of conflict management. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 375": {
+    "subject_code": "POLI",
+    "course_code": "375",
+    "credit": "3-6",
+    "course_name": "Global Environmental Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Ecological consequences of the global political economy. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 376": {
+    "subject_code": "POLI",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "International Law",
+    "faculty": "Faculty of Arts",
+    "description": "The nature, sources, and sanctions of international law; the notion of nationhood with particular reference to the status of the British Dominions; territorial and extra-territorial jurisdiction; diplomatic and sovereign immunities; international delinquency; treaties; settlement of disputes; international organizations. This course may not be taken for credit in both Arts and Law. Credit will be granted for only one of POLI 376 or LAW 316. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher. Equivalency: LAW 316"
+  },
+  "POLI 377": {
+    "subject_code": "POLI",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "Nuclear Weapons and Arms Control",
+    "faculty": "Faculty of Arts",
+    "description": "Evolution and contemporary significance of nuclear weapons and arms control policy and technology from the perspective of the physical and life sciences and the social sciences and humanities. Credit will be granted for only one of POLI 377 or APSC 377. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher. Equivalency: APSC377"
+  },
+  "POLI 378": {
+    "subject_code": "POLI",
+    "course_code": "378",
+    "credit": "3-6",
+    "course_name": "The Politics of Terrorism",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of contemporary terrorism as a contested area of understanding and as a social construct. Includes origins and motives, evolution of terrorist groups, strategies and tactics, and anti-terrorism and counter-terrorism responses. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 379": {
+    "subject_code": "POLI",
+    "course_code": "379",
+    "credit": "3-6",
+    "course_name": "China in World Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Impact and implications of the rise of China in historical and contemporary perspective. Prerequisite: All of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 380": {
+    "subject_code": "POLI",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Quantitative Methods in Political Science",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to quantitative research methods and data analysis used in the study of politics. Students are advised to review the Science Credit Exclusion Lists for course equivalencies to avoid unnecessary registration. Prerequisite: POLI_V 110. Or third-year standing or higher. This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 381": {
+    "subject_code": "POLI",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Managing Quantitative Data in Political Science",
+    "faculty": "Faculty of Arts",
+    "description": "The basics of quantitative analysis and managing data in Political Science, including the sourcing, construction, cleaning, manipulation, and visualization of data sets. Prerequisite: POLI_V 110"
+  },
+  "POLI 385": {
+    "subject_code": "POLI",
+    "course_code": "385",
+    "credit": "3-6",
+    "course_name": "Public Opinion and Elections",
+    "faculty": "Faculty of Arts",
+    "description": "Psychological and social foundations of public opinion; quality of democratic decision-making; how voters make up their minds; impact of electoral systems; social bases of party systems; campaigns and the mass media. The Canadian experience in comparative context. Prerequisite: All of POLI 100, POLI 101, POLI 240. Or third-year standing or higher."
+  },
+  "POLI 390": {
+    "subject_code": "POLI",
+    "course_code": "390",
+    "credit": "6",
+    "course_name": "Honours Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of the dimensions of Political Science and the major debates within the discipline. Restricted to students with an Honours or Honours with specialization in Political Science."
+  },
+  "POLI 395": {
+    "subject_code": "POLI",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Political Science in Practice",
+    "faculty": "Faculty of Arts",
+    "description": "The practical application of political science capacities and knowledge. Restricted to Political Science and International Relations Majors and Minors. Pass/Fail This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 401": {
+    "subject_code": "POLI",
+    "course_code": "401",
+    "credit": "3-6",
+    "course_name": "Canadian Provincial and Regional Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar examines political parties, processes, and institutions in the provincial political systems and regional arrangements between provinces. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 402": {
+    "subject_code": "POLI",
+    "course_code": "402",
+    "credit": "3-6",
+    "course_name": "Law and Politics of the Canadian Constitution",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar on the origins and development of the Canadian Constitution: the political aspects of federalism and the legal consequences of the Charter of Rights. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 403": {
+    "subject_code": "POLI",
+    "course_code": "403",
+    "credit": "3-6",
+    "course_name": "The Political Economy of Canada",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar devoted to the analysis of the interplay of economic and social factors in the shaping of Canadian politics: the major issues and strains in the functioning of the Canadian polity. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 404": {
+    "subject_code": "POLI",
+    "course_code": "404",
+    "credit": "3-6",
+    "course_name": "Public Policy and Its Administration",
+    "faculty": "Faculty of Arts",
+    "description": "Political and administrative aspects of public policy, particularly in Canada. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 405": {
+    "subject_code": "POLI",
+    "course_code": "405",
+    "credit": "3-6",
+    "course_name": "Advanced Topics in Canadian Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Important topics in Canadian politics and public policies. Possible topics include elections, gender and identity, or media. Topics vary year to year; see www.politics.ubc.ca/courses. Restricted to students in fourth-year standing or above."
+  },
+  "POLI 406": {
+    "subject_code": "POLI",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Indigenous Peoples and Canadian Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar in political structures, activities, and demands of Indigenous peoples; policies of federal, provincial, and territorial governments; relations between these governments and Indigenous peoples; role of the courts and the Constitution. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 420": {
+    "subject_code": "POLI",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "Advanced Topics in Comparative Politics",
+    "faculty": "Faculty of Arts",
+    "description": "An important topic involving politics, policies, and political systems around the world including, for example, ethnic politics, development, and the growth and erosion of democracy. Topics vary year to year; see www.politics.ubc.ca/courses. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 422": {
+    "subject_code": "POLI",
+    "course_code": "422",
+    "credit": "3-6",
+    "course_name": "Selected Problems in Comparative Politics",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar devoted to intensive analysis of a contemporary political problem from a comparative perspective, e.g., ethnic politics, class politics, the politics of post-industrial society. For specific content in a given year, consult the departmental website. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 423": {
+    "subject_code": "POLI",
+    "course_code": "423",
+    "credit": "3-6",
+    "course_name": "Issues in Comparative Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar in comparative analysis of constitutionalism, authoritarianism, democracy, etc. For specific content in a given year, consult the departmental website. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 424": {
+    "subject_code": "POLI",
+    "course_code": "424",
+    "credit": "3-6",
+    "course_name": "Ethics in Democratic Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Ethics in politics, including citizenship and public service, and practices demanded by the institutions of democracy. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 426": {
+    "subject_code": "POLI",
+    "course_code": "426",
+    "credit": "3-6",
+    "course_name": "Seminar on Comparative Parties and Party Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 427": {
+    "subject_code": "POLI",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Advanced Topics in Chinese Politics and Development",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in Chinese politics and public policies. Possible topics include environmental politics, local government, or state-society relations from a comparative perspective. Topics vary year to year; see www.politics.ubc.ca/courses. Restricted to students in fourth-year standing or above."
+  },
+  "POLI 428": {
+    "subject_code": "POLI",
+    "course_code": "428",
+    "credit": "3-6",
+    "course_name": "Comparative Public Management",
+    "faculty": "Faculty of Arts",
+    "description": "Major changes in the structures and processes of government in advanced democracies, including the welfare state, citizenship, ethics, accountability, and institutional reform. Restricted to students in fourth-year standing or higher. This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 429": {
+    "subject_code": "POLI",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Seminar in Issues in Gender and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 439": {
+    "subject_code": "POLI",
+    "course_code": "439",
+    "credit": "3-6",
+    "course_name": "Politics and Economic Growth",
+    "faculty": "Faculty of Arts",
+    "description": "The relationship between politics, economics, and development. The role of the state, political institutions, economic policy, and foreign aid in development strategies. Restricted to students in fourth-year standing or higher. This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 440": {
+    "subject_code": "POLI",
+    "course_code": "440",
+    "credit": "3-6",
+    "course_name": "Contemporary Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the political ideas of leading contemporary political philosophers. Topics vary year to year; see www.politics.ubc.ca/courses. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 441": {
+    "subject_code": "POLI",
+    "course_code": "441",
+    "credit": "3-6",
+    "course_name": "Interpretation and Criticism in Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Approaches to political criticism: Critical Theory, Foucauldian genealogy, critical realism, and feminism, including forms of domination, which shape people's beliefs and self-conceptions. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 442": {
+    "subject_code": "POLI",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Contemporary Political Theorists: Analysis of a Selected Theorist",
+    "faculty": "Faculty of Arts",
+    "description": "This seminar examines in detail the political ideas of an important political philosopher of the twentieth century. The theorist studied varies from year to year. Consult the departmental website. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 443": {
+    "subject_code": "POLI",
+    "course_code": "443",
+    "credit": "3-6",
+    "course_name": "Modern Western Political Thought",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar: Texts in the history of modern Western political thought, such as works by Thomas Hobbes, John Locke, Jean-Jacques Rousseau, Karl Marx, Alexis de Tocqueville, John Stuart Mill, Friedrich Nietzsche, Max Weber, and Sigmund Freud. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 445": {
+    "subject_code": "POLI",
+    "course_code": "445",
+    "credit": "3-6",
+    "course_name": "Critical Theory: Political Theory and the Problems of Race",
+    "faculty": "Faculty of Arts",
+    "description": "Traditions of critical social theory, broadly construed, to examine the modern politics of 'race,' racism, and racialized identities. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 446": {
+    "subject_code": "POLI",
+    "course_code": "446",
+    "credit": "3-6",
+    "course_name": "Multiculturalism and Identity Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar will examine how identity is theorized in contemporary political thought, beginning with the role that identity plays in the western canon and proceeding to examine feminist, multicultural, queer, and post-colonial theories of citizenship along with their critics. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 448": {
+    "subject_code": "POLI",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Democratic Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of traditional democratic theory with close readings of several contemporary theories, such as those of Habermas, Rawls, and Arendt. Readings are drawn from complete original texts, and assessment is based on a research essay. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 449": {
+    "subject_code": "POLI",
+    "course_code": "449",
+    "credit": "3-6",
+    "course_name": "Topics in Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 450": {
+    "subject_code": "POLI",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Policy Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical tools and practical policy analysis to address real-world issues for clients or employers. Involves collecting and analyzing policy-relevant data, generating alternatives, and evaluating trade-offs. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 460": {
+    "subject_code": "POLI",
+    "course_code": "460",
+    "credit": "3-6",
+    "course_name": "Foreign Policy Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar devoted to the analysis of the foreign policies of one or more states, as well as to the study of literature pertaining to foreign policy analysis. For specific content in a given year, consult the departmental website. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 461": {
+    "subject_code": "POLI",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Peace and Conflict Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A seminar on a selected topic concerning the causes of war and strategies for the promotion of peace. For specific content in a given year, consult the departmental website. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 462": {
+    "subject_code": "POLI",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "International Relations Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This seminar examines some of the major theoretical approaches to the study of international relations. For specific content in a given year, consult the departmental website. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 463": {
+    "subject_code": "POLI",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "International Interdependence",
+    "faculty": "Faculty of Arts",
+    "description": "Topics and public policies relating to international economic relations. Topics vary year to year; see www.politics.ubc.ca/courses. Restricted to students in fourth-year standing or above."
+  },
+  "POLI 464": {
+    "subject_code": "POLI",
+    "course_code": "464",
+    "credit": "3-6",
+    "course_name": "Advanced Topics in International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Topics and public policies related to interactions between states and non-state actors, such as armed conflict management or international institutions. Topics vary year to year; see www.politics.ubc.ca/courses. One section (3 credits) reserved for fourth-year International Relations Majors. Restricted to students in fourth-year standing or above."
+  },
+  "POLI 466": {
+    "subject_code": "POLI",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "The Politics of International Law",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar on the origins and politics of international law, and its impact on international affairs; the laws of war, human rights, environment, law of the sea, and international criminal law. Restricted to students in fourth-year standing or higher."
+  },
+  "POLI 482": {
+    "subject_code": "POLI",
+    "course_code": "482",
+    "credit": "3",
+    "course_name": "Data and Models Capstone",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar on data analysis and modeling in Political Science. Restricted to Certificate in Data and Models in Political Science students. Prerequisite: All of POLI_V 310, POLI_V 380, POLI_V 381."
+  },
+  "POLI 492": {
+    "subject_code": "POLI",
+    "course_code": "492",
+    "credit": "12",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "In consultation with faculty, students develop a research project, report on their project during seminars, give feedback on their fellow students' projects, and write a thesis. Restricted to students with an Honours or Honours with specialization in Political Science. Fourth-year standing or higher required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 500": {
+    "subject_code": "POLI",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Professional Development in Political Science",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. Evidence-based practices and tools for academic and non-academic paths in the political science profession as well as identifying alternative career possibilities. Includes potential alignment with personal strengths and self-awareness. Restricted to students in the following programs: PhD in Political Science, MA in Political Science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 501": {
+    "subject_code": "POLI",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Core Seminar in Canadian Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 502": {
+    "subject_code": "POLI",
+    "course_code": "502",
+    "credit": "3-6",
+    "course_name": "Canadian Political Institutions and Processes",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 503": {
+    "subject_code": "POLI",
+    "course_code": "503",
+    "credit": "3-6",
+    "course_name": "Canadian Political Parties and Participation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 504": {
+    "subject_code": "POLI",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Topics in Canadian Politics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 511": {
+    "subject_code": "POLI",
+    "course_code": "511",
+    "credit": "3-6",
+    "course_name": "Core Seminar in Comparative Government and Politics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 512": {
+    "subject_code": "POLI",
+    "course_code": "512",
+    "credit": "3-6",
+    "course_name": "Theories in Comparative Politics: Political Development",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 513": {
+    "subject_code": "POLI",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Current Debates in Comparative Political Economy: Globalization and Democracy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 514": {
+    "subject_code": "POLI",
+    "course_code": "514",
+    "credit": "3-6",
+    "course_name": "Comparative Western Governments",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 515": {
+    "subject_code": "POLI",
+    "course_code": "515",
+    "credit": "3-6",
+    "course_name": "State and Society in the Developing World",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 516": {
+    "subject_code": "POLI",
+    "course_code": "516",
+    "credit": "3-6",
+    "course_name": "Issues in Comparative Politics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 517": {
+    "subject_code": "POLI",
+    "course_code": "517",
+    "credit": "3-6",
+    "course_name": "The State in Comparative Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 521": {
+    "subject_code": "POLI",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 523": {
+    "subject_code": "POLI",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Political Thought",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 531": {
+    "subject_code": "POLI",
+    "course_code": "531",
+    "credit": "3-6",
+    "course_name": "Public Administration",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 532": {
+    "subject_code": "POLI",
+    "course_code": "532",
+    "credit": "3-6",
+    "course_name": "Topics in Public Administration",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 533": {
+    "subject_code": "POLI",
+    "course_code": "533",
+    "credit": "3-6",
+    "course_name": "Topics in Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 540": {
+    "subject_code": "POLI",
+    "course_code": "540",
+    "credit": "3-6",
+    "course_name": "Core Seminar in Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 547": {
+    "subject_code": "POLI",
+    "course_code": "547",
+    "credit": "3-6",
+    "course_name": "Topics in Political Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 549": {
+    "subject_code": "POLI",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 551": {
+    "subject_code": "POLI",
+    "course_code": "551",
+    "credit": "3-6",
+    "course_name": "Elections: Parties and Voters",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 552": {
+    "subject_code": "POLI",
+    "course_code": "552",
+    "credit": "3-6",
+    "course_name": "Political Psychology and Public Opinion",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 553": {
+    "subject_code": "POLI",
+    "course_code": "553",
+    "credit": "3-6",
+    "course_name": "Topics in Empirical Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 561": {
+    "subject_code": "POLI",
+    "course_code": "561",
+    "credit": "3-6",
+    "course_name": "Core Seminar in International Relations Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 562": {
+    "subject_code": "POLI",
+    "course_code": "562",
+    "credit": "3-6",
+    "course_name": "Topics in International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 563": {
+    "subject_code": "POLI",
+    "course_code": "563",
+    "credit": "3-6",
+    "course_name": "International Organization",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 564": {
+    "subject_code": "POLI",
+    "course_code": "564",
+    "credit": "3-6",
+    "course_name": "Research Seminar in International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 565": {
+    "subject_code": "POLI",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "International Security",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 567": {
+    "subject_code": "POLI",
+    "course_code": "567",
+    "credit": "3-6",
+    "course_name": "Norms and Ethics in World Politics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 571": {
+    "subject_code": "POLI",
+    "course_code": "571",
+    "credit": "3-6",
+    "course_name": "Qualitative Methods of Political Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 572": {
+    "subject_code": "POLI",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Quantitative Techniques of Political Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 573": {
+    "subject_code": "POLI",
+    "course_code": "573",
+    "credit": "3-6",
+    "course_name": "Formal Models in Political Science",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 574": {
+    "subject_code": "POLI",
+    "course_code": "574",
+    "credit": "3-6",
+    "course_name": "Advanced Statistical Methods for Political Science",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 580": {
+    "subject_code": "POLI",
+    "course_code": "580",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "POLI 649": {
+    "subject_code": "POLI",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

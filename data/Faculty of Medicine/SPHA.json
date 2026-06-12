@@ -1,0 +1,226 @@
+{
+  "SPHA 501": {
+    "subject_code": "SPHA",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Basic Finance",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamental concepts of asset pricing and corporate finance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 502": {
+    "subject_code": "SPHA",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Managerial Accounting",
+    "faculty": "Faculty of Medicine",
+    "description": "Development and use of accounting information for management planning and control, and the development of cost information for financial reports. Same as BAAC_V 550; credit will not be given for both. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 503": {
+    "subject_code": "SPHA",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "Financial Accounting",
+    "faculty": "Faculty of Medicine",
+    "description": "Financial accounting concepts as they relate to health care administration, including the preparation of external financial reports and financial statement and analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 510": {
+    "subject_code": "SPHA",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Canadian Health Policy and the Healthcare System",
+    "faculty": "Faculty of Medicine",
+    "description": "Analysis of topical Canadian health policy issues including an historical overview of the health care system, health care funding, public / private financing, health care personnel and pharmaceutical policy challenges. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 511": {
+    "subject_code": "SPHA",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Government, Business and Health Care Policy",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 512": {
+    "subject_code": "SPHA",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Indigenous Health and Cultural Safety",
+    "faculty": "Faculty of Medicine",
+    "description": "Core concepts of Indigenous-specific racism and human rights, cultural safety and how this relates to the practice of health administrators. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 521": {
+    "subject_code": "SPHA",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Organizational Behavior",
+    "faculty": "Faculty of Medicine",
+    "description": "The effects of individual and group behaviour on organizational processes and outcomes. The organization as an actor and how it behaves in different types of environments. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 522": {
+    "subject_code": "SPHA",
+    "course_code": "522",
+    "credit": "1.5",
+    "course_name": "Strategic Human Resources Management",
+    "faculty": "Faculty of Medicine",
+    "description": "Aligning the management of human resources with organizational strategy. Best practices in HR management, as well as the role of health care leaders in effectiveness and efficiency. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 531": {
+    "subject_code": "SPHA",
+    "course_code": "531",
+    "credit": "1.5",
+    "course_name": "Economic Evaluation",
+    "faculty": "Faculty of Medicine",
+    "description": "Maximizing health benefits from health care budgets. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 532": {
+    "subject_code": "SPHA",
+    "course_code": "532",
+    "credit": "1.5",
+    "course_name": "Health Economics",
+    "faculty": "Faculty of Medicine",
+    "description": "Economic strengths and weaknesses of current arrangements, and the prospects and objectives of various proposals for reform. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 533": {
+    "subject_code": "SPHA",
+    "course_code": "533",
+    "credit": "1.5",
+    "course_name": "Health Care Priority Setting",
+    "faculty": "Faculty of Medicine",
+    "description": "Application of priority setting and resource allocation methods to improve health from the perspective of the policy maker, health professional, and patient. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 542": {
+    "subject_code": "SPHA",
+    "course_code": "542",
+    "credit": "1.5",
+    "course_name": "Operations and Logistics",
+    "faculty": "Faculty of Medicine",
+    "description": "The application of management tools and principles to production and allocation problems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 543": {
+    "subject_code": "SPHA",
+    "course_code": "543",
+    "credit": "1.5",
+    "course_name": "Information Technology for Management",
+    "faculty": "Faculty of Medicine",
+    "description": "The role of IT in health care management, the importance of effective IT in a health care setting, and the strategic uses of IT. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 544": {
+    "subject_code": "SPHA",
+    "course_code": "544",
+    "credit": "1.5",
+    "course_name": "Health Information Systems",
+    "faculty": "Faculty of Medicine",
+    "description": "Information systems in planning and management of health care services provided through single-purpose units, comprehensive clinics and hospitals. Emphasis on computerized systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 551": {
+    "subject_code": "SPHA",
+    "course_code": "551",
+    "credit": "1.5",
+    "course_name": "Design and Measurement 1",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic concepts and methods in Epidemiology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 552": {
+    "subject_code": "SPHA",
+    "course_code": "552",
+    "credit": "1.5",
+    "course_name": "Design and Measurement 2",
+    "faculty": "Faculty of Medicine",
+    "description": "Clinical Epidemiology, trials and the evaluation of diagnostic tools and therapeutic interventions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 553": {
+    "subject_code": "SPHA",
+    "course_code": "553",
+    "credit": "1.5",
+    "course_name": "Program Planning and Evaluation",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic concepts and principles underlying program planning and evaluation in health services. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 554": {
+    "subject_code": "SPHA",
+    "course_code": "554",
+    "credit": "1.5",
+    "course_name": "Application of Statistics in Management",
+    "faculty": "Faculty of Medicine",
+    "description": "Data analysis and statistical inference. Applications in assessment of the legitimacy and significance of reports. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 555": {
+    "subject_code": "SPHA",
+    "course_code": "555",
+    "credit": "1.5",
+    "course_name": "Biostatistics",
+    "faculty": "Faculty of Medicine",
+    "description": "Data collection, numeric and graphic summarization, and elementary statistical analysis. Examples primarily from health sciences. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 556": {
+    "subject_code": "SPHA",
+    "course_code": "556",
+    "credit": "1.5",
+    "course_name": "Social Determinants of Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Foundations of population health. An overview of research on determinants of health, with an emphasis on the social determinants of health. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 557": {
+    "subject_code": "SPHA",
+    "course_code": "557",
+    "credit": "1.5",
+    "course_name": "Quality of Health Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Current concepts, methods, and applications in health care quality assessment and improvement. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 561": {
+    "subject_code": "SPHA",
+    "course_code": "561",
+    "credit": "1.5",
+    "course_name": "Strategic Management",
+    "faculty": "Faculty of Medicine",
+    "description": "Management of multi-faceted organizations; weighting functions, understanding industry and organization-specific effects. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 562": {
+    "subject_code": "SPHA",
+    "course_code": "562",
+    "credit": "1.5",
+    "course_name": "Health Care Law",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 563": {
+    "subject_code": "SPHA",
+    "course_code": "563",
+    "credit": "1.5",
+    "course_name": "Ethics and Ethical Decision Making in Health Care",
+    "faculty": "Faculty of Medicine",
+    "description": "Ethical dilemmas in the health care setting. Understanding how Ethical features of the system may contribute to or perpetuate some of these problems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 564": {
+    "subject_code": "SPHA",
+    "course_code": "564",
+    "credit": "1.5",
+    "course_name": "Leadership and Management Skills",
+    "faculty": "Faculty of Medicine",
+    "description": "A comprehensive understanding of what it takes to be a credible leader in the health economy. Concepts of leadership through a number of lenses and perspectives, using case studies, group activities and individual assignments. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 580": {
+    "subject_code": "SPHA",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Medicine",
+    "description": "Current and emerging trends and issues. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 581": {
+    "subject_code": "SPHA",
+    "course_code": "581",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "Opportunity to focus on a selected topic under faculty supervision. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPHA 590": {
+    "subject_code": "SPHA",
+    "course_code": "590",
+    "credit": "1.5-6",
+    "course_name": "Research Project",
+    "faculty": "Faculty of Medicine",
+    "description": "Completion of a bounded project within a health agency and under individual faculty supervision. Honours/Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

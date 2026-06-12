@@ -1,0 +1,538 @@
+{
+  "LING 100": {
+    "subject_code": "LING",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Language and Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Study of language as a universal and uniquely human cognitive system: What universals do all languages share and how do languages differ? An investigation of sound systems, word-building, grammatical principles, language change, dialect variation, language acquisition, neurolinguistics. Recommended but not required for an honours, major, or minor in linguistics or speech sciences."
+  },
+  "LING 101": {
+    "subject_code": "LING",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Languages of the World",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the linguistic map of the world, examining how languages are genetically classified and how different languages evolve. Principles underlying different writing systems and the decipherment of historical documents. Issues of languages in contact, minority language endangerment, language death and the role of English as a world language. Recommended but not required for an honours, major, or minor in linguistics or speech sciences."
+  },
+  "LING 140": {
+    "subject_code": "LING",
+    "course_code": "140",
+    "credit": "3",
+    "course_name": "Challenging Language Myths",
+    "faculty": "Faculty of Arts",
+    "description": "Critical consideration of a broad range of commonly held beliefs about language and its relation to the brain and cognition, learning, society, change and evolution. Note. This is an elective course that does not fulfill writing requirements in any faculty or the literature requirement in the Faculty of Arts. Credit will be granted for only one of LING_V 140 or ENGL_V 140. Equivalency: ENGL_V 140. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 142": {
+    "subject_code": "LING",
+    "course_code": "142",
+    "credit": "3",
+    "course_name": "Language in the Age of AI",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the impact of generative AI, large language models, and virtual assistants on human communication. Includes evolving language trends, ethics, and applications like speech recognition, text-to-speech, and machine translation. No computational or programming background required."
+  },
+  "LING 170": {
+    "subject_code": "LING",
+    "course_code": "170",
+    "credit": "3",
+    "course_name": "Introduction to How to Learn a Language",
+    "faculty": "Faculty of Arts",
+    "description": "Skills and strategies for second language acquisition, through the foundations of pronunciation, vocabulary, grammar, and pragmatics, connected to the practical, social, and personal challenges of language learning."
+  },
+  "LING 200": {
+    "subject_code": "LING",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Linguistic Theory and Analysis I",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to phonetics and phonology; training in the identification and production of speech sounds; principles and methods for describing and writing the sound system of a language; phonological theory with reference to selected languages; the interface between phonology and morphology. Analytical practice and seminar discussion."
+  },
+  "LING 201": {
+    "subject_code": "LING",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Linguistic Theory and Analysis II",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to grammatical analysis; morphology, syntax, semantics; synchronic analysis and description with illustrations from various languages. Analytical practice and seminar discussion."
+  },
+  "LING 209": {
+    "subject_code": "LING",
+    "course_code": "209",
+    "credit": "3",
+    "course_name": "Clinical Topics in Speech, Language, and Hearing Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to speech and hearing sciences, with emphasis on the clinical perspectives of audiology and speech pathology."
+  },
+  "LING 222": {
+    "subject_code": "LING",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Language Acquisition",
+    "faculty": "Faculty of Arts",
+    "description": "Audition and speech perception, phonological organization, word learning, syntax, and pragmatics."
+  },
+  "LING 242": {
+    "subject_code": "LING",
+    "course_code": "242",
+    "credit": "3",
+    "course_name": "Computational Tools for Linguistic Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Practical skills for analyzing language using the Python programming language and relevant packages. Prerequisite: One of LING 100, LING 101, LING 140, LING 170, LING 200, LING 201, ENGL 330, ENGL 331. Recommended: LING 201 and CPSC 103 or CPSC 110 (or other programming experience)."
+  },
+  "LING 270": {
+    "subject_code": "LING",
+    "course_code": "270",
+    "credit": "3",
+    "course_name": "Introduction to Studies in Second Language Acquisition",
+    "faculty": "Faculty of Arts",
+    "description": "Linguistic systems that learners of an additional language develop as they approximate towards the target language, and key questions about what this 'interlanguage' system reveals about how we learn languages. Prerequisite: One of LING 100, LING 101, LING 140, LING 170."
+  },
+  "LING 300": {
+    "subject_code": "LING",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Studies in Grammar",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to syntactic analysis and theory, with emphasis on description and analysis of data from a wide variety of languages. Prerequisite: LING 201."
+  },
+  "LING 308": {
+    "subject_code": "LING",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "The Languages of Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Linguistic survey of the languages of Africa, including typological and historical connections between languages, individual and comparative surveys of sound systems, word structures, sentence structures, semantics, and sociolinguistic properties of a representative selection of languages. Credit will only be granted for one of LING_V 308 or AFST_V 308. Equivalency: AFST_V 308."
+  },
+  "LING 311": {
+    "subject_code": "LING",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Studies in Phonology",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to phonological analysis and theory, with a strong emphasis on description and analysis of data from a wide variety of languages. Prerequisite: LING 200."
+  },
+  "LING 313": {
+    "subject_code": "LING",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Introduction to Linguistic Phonetics and Speech Science",
+    "faculty": "Faculty of Arts",
+    "description": "The articulatory and acoustic properties of speech production and perception, including practice in phonetic transcription, instrumental recording, and the analysis of normal speech. Prerequisite: [LING200]"
+  },
+  "LING 314": {
+    "subject_code": "LING",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Instrumental Phonetics",
+    "faculty": "Faculty of Arts",
+    "description": "Physiological and/or acoustic phonetics. Focus on experimental methods and analysis techniques. Topics may include: source-filter theory; spectral and temporal acoustic analysis, inter-articulator timing and motor coordination. Prerequisite: LING 200. Recommended: LING 313"
+  },
+  "LING 315": {
+    "subject_code": "LING",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Sociolinguistics",
+    "faculty": "Faculty of Arts",
+    "description": "The systematic study of language as a social phenomenon. Credit will be granted for only one of LING 445 or 315. Prerequisite: All of LING 200, LING 201."
+  },
+  "LING 319": {
+    "subject_code": "LING",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Historical Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "How and why languages change over time, and how languages can be grouped into families based on historical relationships. Methods of comparative and internal reconstruction of phonological, morphological, syntactic, semantic change. Social factors in language change. Not offered every year. Prerequisite: LING 200 and LING 201."
+  },
+  "LING 327": {
+    "subject_code": "LING",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Introduction to Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "The analysis and theory of linguistic meaning with emphasis on formal techniques for semantic analysis and their application to empirical phenomena in language, including pragmatics. Prerequisite: LING 201."
+  },
+  "LING 333": {
+    "subject_code": "LING",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Research Methods for Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Research methods used in linguistics and speech science. Emphasis on scientific reasoning, critical thinking, experimental design, and the ethics and methods of linguistic data-collection. Prerequisite: All of LING 200, LING 201."
+  },
+  "LING 342": {
+    "subject_code": "LING",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Computational Models of Language",
+    "faculty": "Faculty of Arts",
+    "description": "A re-examination of major areas of linguistics from a computational perspective, including popular formalisms and algorithms associated with morphology, syntax, semantics, and discourse. Prerequisite: LING 242 and one of LING 201, ENGL 331 and one of STAT 200, STAT 203, STAT 251, STAT 302, MATH 302, PSYC 218."
+  },
+  "LING 345": {
+    "subject_code": "LING",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Pragmatics",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in pragmatics and information structure, including variations in their cross-linguistic expression and the corresponding influence of sentence form on context. Prerequisite: One of LING 201, ENGL 331, PHIL 220, PHIL 222."
+  },
+  "LING 405": {
+    "subject_code": "LING",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Morphology",
+    "faculty": "Faculty of Arts",
+    "description": "Analytic and theoretical consideration of the interrelation of word formation, sound patterning, and meaningful sentence structure. Not offered every year. Prerequisite: All of LING_V 300, LING_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 410": {
+    "subject_code": "LING",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Advanced Phonology",
+    "faculty": "Faculty of Arts",
+    "description": "Current issues in phonological theory. Prerequisite: LING_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 415": {
+    "subject_code": "LING",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Language Across Time, Geography, and Society",
+    "faculty": "Faculty of Arts",
+    "description": "A cross-linguistic exploration of language change, discussing theories, data, and methods. Topics can include change across historical time periods, lifespan; change across regions, within areas; change due to language contact and other social and cultural factors. Prerequisite: One of LING 319, LING 315, LING 445, ENGL 318, ENGL 319, ENGL 324 and two of LING 300, LING 311, LING 313, LING 327."
+  },
+  "LING 420": {
+    "subject_code": "LING",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Introduction to Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "General background to linguistic studies; the different approaches to the analysis of languages; synchronic and diachronic linguistics; phonetics, phonology, morphology, syntax, and semantics. Not available for credit toward a Major or Honours program in Linguistics."
+  },
+  "LING 421": {
+    "subject_code": "LING",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Advanced Syntax",
+    "faculty": "Faculty of Arts",
+    "description": "Current issues in syntactic theory. Prerequisite: LING 300."
+  },
+  "LING 425": {
+    "subject_code": "LING",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Advanced Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "Current issues in semantic theory. Prerequisite: One of LING_V 327, PHIL_V 220, PHIL_V 222. A basic introduction to syntax is recommended (e.g., LING_V 100, LING_V 201, or ENGL_V 331). This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 430": {
+    "subject_code": "LING",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Honours Seminar in Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Research papers on general linguistic topics to be read and discussed."
+  },
+  "LING 431": {
+    "subject_code": "LING",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Field Methods I",
+    "faculty": "Faculty of Arts",
+    "description": "Elicitation, transcription, organization, and analysis of linguistic data from a native speaker of a language not commonly studied. Practical experience in the use of fieldwork equipment. Prerequisite: All of LING 300, LING 311."
+  },
+  "LING 432": {
+    "subject_code": "LING",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Field Methods II",
+    "faculty": "Faculty of Arts",
+    "description": "Elicitation, transcription, organization, and analysis of linguistic data from a native speaker of a language not commonly studied. Practical experience in the use of fieldwork equipment. Prerequisite: LING 431."
+  },
+  "LING 433": {
+    "subject_code": "LING",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Indigenous Languages of the Americas",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of the Indigenous languages of the Americas. Genetic classification and areal similarities. Structures of representative languages. The present status of Indigenous languages in the Americas, language shift, and reclamation. (Note: this course is not necessarily offered every year.)"
+  },
+  "LING 436": {
+    "subject_code": "LING",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Community-based Language Research",
+    "faculty": "Faculty of Arts",
+    "description": "Research methods and partnerships, ethical paradigms, the social, cultural and historical context of language research, and the relation of language research to pedagogy, policy and planning."
+  },
+  "LING 440": {
+    "subject_code": "LING",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Language as a Social Instrument",
+    "faculty": "Faculty of Arts",
+    "description": "Language as a tool that shapes and is shaped by technology, media, politics and power relations in society. Considers multiple levels of linguistic structure from a cross-linguistic perspective. Prerequisite: All of LING_V 200, LING_V 201. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 447": {
+    "subject_code": "LING",
+    "course_code": "447",
+    "credit": "3-12",
+    "course_name": "Topics in Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "A capstone course for Linguistics and Speech Sciences majors, normally taken after three years of study. Individual sections will differ substantially; see online Course List for detailed descriptions and prerequisites. May be repeated for credit when content is different."
+  },
+  "LING 448": {
+    "subject_code": "LING",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Supervisor and topic chosen by mutual agreement between student and Linguistics faculty member. Department Advisor approval is required."
+  },
+  "LING 449": {
+    "subject_code": "LING",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "LING 451": {
+    "subject_code": "LING",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Acquisition of Phonology",
+    "faculty": "Faculty of Arts",
+    "description": "Development of the phonological system in typical first language acquisition from the perspective of diverse linguistic topics. Phonetic transcription of child speech. Prerequisite: All of LING 222, LING 311."
+  },
+  "LING 452": {
+    "subject_code": "LING",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Acquisition of Syntax",
+    "faculty": "Faculty of Arts",
+    "description": "Central issues in the first language acquisition of syntax, including early lexical and semantic development, acquisition of morphology, and syntactic development (e.g., word order, questions). Prerequisite: All of LING 222, LING 300."
+  },
+  "LING 469": {
+    "subject_code": "LING",
+    "course_code": "469",
+    "credit": "3",
+    "course_name": "Clinical Topics in Speech, Language, and Hearing Sciences",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to speech and hearing sciences with emphasis on the clinical perspectives of audiology and speech pathology."
+  },
+  "LING 502": {
+    "subject_code": "LING",
+    "course_code": "502",
+    "credit": "4",
+    "course_name": "Formal Foundations of Syntax & Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "Conceptual underpinnings of the study of sentence structure and meaning; core issues in syntax and semantics; the place of syntax and semantics in a model of grammar; interface issues. Prerequisite: LING_V 520 and 525 are recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 503": {
+    "subject_code": "LING",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Topics in Language Acquisition",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 505": {
+    "subject_code": "LING",
+    "course_code": "505",
+    "credit": "3-6",
+    "course_name": "Issues in Morphological Theory and Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Morphology from both historical and theoretical perspectives. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 507": {
+    "subject_code": "LING",
+    "course_code": "507",
+    "credit": "4",
+    "course_name": "Formal Foundations of Phonetics & Phonology",
+    "faculty": "Faculty of Arts",
+    "description": "Conceptual underpinnings of the study of speech sounds; core issues in phonetics and phonology; the place of phonetics and phonology in a model of grammar; interface issues. Prerequisite: LING_V 508 and 510 are recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 508": {
+    "subject_code": "LING",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Phonetic Theory & Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Discussion and critical analysis of current issues in linguistic phonetics; instrumental analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 510": {
+    "subject_code": "LING",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Phonological Theory and Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Discussion and critical analysis of current issues in phonological theory. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 511": {
+    "subject_code": "LING",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Topics in Phonology",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LING_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 512": {
+    "subject_code": "LING",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Topics in Phonetics & Phonology",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced topics in phonetics and phonology; in-depth analysis of specific issues and problems. Prerequisite: One of LING_V 508, LING_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 513": {
+    "subject_code": "LING",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Topics in Phonetics",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LING_V 508. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 518": {
+    "subject_code": "LING",
+    "course_code": "518",
+    "credit": "3-9",
+    "course_name": "Advanced Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 519": {
+    "subject_code": "LING",
+    "course_code": "519",
+    "credit": "3-6",
+    "course_name": "Problems in Comparative and Historical Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 520": {
+    "subject_code": "LING",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Syntactic Theory and Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Discussion and critical analysis of current issues in syntactic theory. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 521": {
+    "subject_code": "LING",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Topics in Syntax",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LING_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 522": {
+    "subject_code": "LING",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Topics in Syntax and Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced topics in syntax and semantics; in-depth analysis of specific issues and problems. Prerequisite: One of LING_V 520, LING_V 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 525": {
+    "subject_code": "LING",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Semantic Theory and Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Discussion and critical analysis of current issues in semantic theory. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 527": {
+    "subject_code": "LING",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Topics in Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LING_V 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 530": {
+    "subject_code": "LING",
+    "course_code": "530",
+    "credit": "3-12",
+    "course_name": "Linguistic Problems in a Special Area",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 531": {
+    "subject_code": "LING",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Field Methods in Linguistics I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 532": {
+    "subject_code": "LING",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Field Methods in Linguistics II",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LING_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 533": {
+    "subject_code": "LING",
+    "course_code": "533",
+    "credit": "3-6",
+    "course_name": "Indigenous Languages of the Northwest",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 538": {
+    "subject_code": "LING",
+    "course_code": "538",
+    "credit": "3-6",
+    "course_name": "Seminar on Language Acquisition in Children",
+    "faculty": "Faculty of Arts",
+    "description": "Linguistic analysis of data from children learning a first language. Intensive examination of a topic that will vary each year dealing with advanced research into phonological, syntactic, and semantic aspects of language acquisition. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 545": {
+    "subject_code": "LING",
+    "course_code": "545",
+    "credit": "3-6",
+    "course_name": "Problems in Sociolinguistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 546": {
+    "subject_code": "LING",
+    "course_code": "546",
+    "credit": "3-6",
+    "course_name": "Directed Reading in Topics related to Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 548": {
+    "subject_code": "LING",
+    "course_code": "548",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 549": {
+    "subject_code": "LING",
+    "course_code": "549",
+    "credit": "3-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 560": {
+    "subject_code": "LING",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Managing and Preserving Linguistic Data",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and practice of research data management and preservation with an emphasis on linguistic and language data. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LING 649": {
+    "subject_code": "LING",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

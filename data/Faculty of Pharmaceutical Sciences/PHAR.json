@@ -1,0 +1,578 @@
+{
+  "PHAR 180": {
+    "subject_code": "PHAR",
+    "course_code": "180",
+    "credit": "1",
+    "course_name": "Pharmaceutical Topics and Communication Seminar I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Current topics in the Pharmaceutical Sciences and basic skills for a short presentation on a biological science topic. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 202": {
+    "subject_code": "PHAR",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Biochemical Pharmacology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Biochemical pharmacology including fundamental aspects of enzymology, biochemistry, enzyme kinetics, drug metabolism and pharmacokinetics. Prerequisite: BIOL_V 112, BIOL_V 155, one of CHEM_V 111 or 121, CHEM_V 123, and one of MATH_V 100, MATH_V 120 or MATH_V 180. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 203": {
+    "subject_code": "PHAR",
+    "course_code": "203",
+    "credit": "4",
+    "course_name": "Genetics for the Pharmaceutical Sciences",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Theoretical and practical knowledge of foundational concepts in genetics as they apply to the pharmaceutical sciences. Prerequisite: PHAR_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 204": {
+    "subject_code": "PHAR",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Pharmaceutical Research",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Types of research scientists in Academia and Industry across the broad range of Pharmaceutical Science Disciplines. Prerequisite: PHAR_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 205": {
+    "subject_code": "PHAR",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Clinical Epidemiology & Pharmaceutical Outcomes I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Population-level study designs and critical appraisal skills in evidence evaluation, with a special emphasis on evidence-based pharmacy practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 280": {
+    "subject_code": "PHAR",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Pharmaceutical Topics and Communication Seminar II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Current topics in the Pharmaceutical and Biotechnology Industry and intermediate level skills for a short presentation. Prerequisite: PHAR_V 180 and WRDS_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 302": {
+    "subject_code": "PHAR",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Pharmacokinetics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Basic pharmacokinetic concepts: absorption, distribution, metabolism, and excretion. Evaluation of how drug physicochemistry, organism physiology, and pharmacogenetics affect pharmacokinetics. Prerequisite: MATH_V 101 and PHAR_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 303": {
+    "subject_code": "PHAR",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Nanomedicine",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Advanced nanomedicine concepts for drug packaging, delivery, and efficacy. Prerequisite: CHEM_V 233 and PHAR_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 304": {
+    "subject_code": "PHAR",
+    "course_code": "304",
+    "credit": "4",
+    "course_name": "Techniques in Molecular Biology and Pharmacology Theory and Laboratory",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Theoretical and practical knowledge of the foundational techniques used in pharmaceutical research in both Academic Research and the Pharmaceutical and Biotechnology Industries. Prerequisite: CHEM_V 211, CHEM_V 233, CHEM_V 235, PHAR_V 203, PHAR_V 204, MICB_V 212, and STAT_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 305": {
+    "subject_code": "PHAR",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Clinical Epidemiology & Pharmaceutical Outcomes II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Population-level study designs and their critical appraisal skills in evidence evaluation, with a special emphasis on evidence-based pharmacy practice and the practical application of population-level data analysis and interpretation. Prerequisite: PHAR_V 205. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 306": {
+    "subject_code": "PHAR",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Medicinal Chemistry of High-Impact Pharmaceuticals in Major Diseases",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Structure and mechanism of action of drugs used in the treatment of major chronic diseases: heart disease, cancer, lung disease, and diabetes. Prerequisite: CHEM_V 233 and PHAR_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 307": {
+    "subject_code": "PHAR",
+    "course_code": "307",
+    "credit": "4",
+    "course_name": "Analytical Sciences Theory and Laboratory",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Theoretical and practical knowledge of the analytical sciences commonly used in Academic Research as well as the Pharmaceutical and Biotechnology Industries. Prerequisite: PHAR_V 304. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 308": {
+    "subject_code": "PHAR",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Systematic Pharmacology I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles of pharmacodynamics and pharmacokinetics: drug action on infections, immune disorders, cancer, and major organ systems; beneficial and detrimental effects of drug action. Prerequisite: PHAR_V 202 and PHAR_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 309": {
+    "subject_code": "PHAR",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Systematic Pharmacology II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles of pharmacodynamics and pharmacokinetics: drug action on nervous and endocrine systems; beneficial and detrimental effects of drug action. Prerequisite: PHAR_V 308. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 370": {
+    "subject_code": "PHAR",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Pharmaceutical Cases I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application and problem solving in the pharmaceutical sciences. Integration of knowledge and skills from multiple courses to problem solve authentic cases and problems of increasing complexity. Development of self-directed learning skills. Prerequisite: PHAR_V 202, PHAR_V 203, PHAR_V 204, and PHAR_V 205. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 380": {
+    "subject_code": "PHAR",
+    "course_code": "380",
+    "credit": "1",
+    "course_name": "Pharmaceutical Topics and Communication Seminar III",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Preliminary skills and concepts for planning, delivering and critiquing a scientific presentation using selected topics in the pharmaceutical sciences. Prerequisite: PHAR_V 280. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 398": {
+    "subject_code": "PHAR",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 13 weeks. Restricted to students admitted to the Co-operative Education Program in the Bachelor of Pharmaceutical Sciences Program. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 399": {
+    "subject_code": "PHAR",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 13 weeks. Restricted to students admitted to the Co-operative Education Program in the Bachelor of Pharmaceutical Sciences Program. Pass/Fail. Prerequisite: PHAR_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 415": {
+    "subject_code": "PHAR",
+    "course_code": "415",
+    "credit": "4",
+    "course_name": "Topics in Pharmaceutics and Biopharmaceutics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "A study of selected topics in the field of pharmaceutics and biopharmaceutics. Registration restricted. Permission of instructor required. [2-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 421": {
+    "subject_code": "PHAR",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Precision Medicine",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Precision medicine approaches in research and medical practice to mitigate drug toxicity and improve drug efficacy. Prerequisite: PHAR_V 203. Equivalency: PHRM_V 327. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 422": {
+    "subject_code": "PHAR",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Pharmacoeconomics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Evidence evaluation skills and understanding the role of, and the methods and principles used in, health economics and economic evaluation in healthcare, with a focus on health technology assessment studies. Prerequisite: PHAR_V 305. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 423": {
+    "subject_code": "PHAR",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Statistical Methods and Data Science for Pharmaceutical Outcomes Research",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles of biostatistics, data science and epidemiology. Application of epidemiologic and statistical knowledge in the area of health outcomes. Prerequisite: PHAR_V 305. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 424": {
+    "subject_code": "PHAR",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Financing and Therapeutics in the Canadian Health Care System",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Foundation in Canadian health care delivery systems and policies, with a focus on pharmaceutical policy and on comparison with other types of health care systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 425": {
+    "subject_code": "PHAR",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Biologics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Biologics as a therapeutic; how biologics are developed as drugs; synthesis and unique properties of biologics as drugs. Prerequisite: PHAR_V 303, PHAR_V 306, and PHAR_V 307. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 426": {
+    "subject_code": "PHAR",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Advanced Anesthetics and Analgesics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Advanced concepts in anesthetic and analgesic drugs, their uses and abuses. Prerequisite: PHAR_V 308. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 427": {
+    "subject_code": "PHAR",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Drug Structures in Medicinal Chemistry",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Therapeutically important privileged scaffolds and functional groups, and selectivity achieved through different chemical modifications. Prerequisite: CHEM_V 233 and PHAR_V 202. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 429": {
+    "subject_code": "PHAR",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Adverse Drug Reactions",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Molecular and physiological basis of common adverse drug reactions (ADRs). ADRs in the context of current understanding of drug metabolism and pharmacogenetics. New approaches to prediction, detection and treatment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 430": {
+    "subject_code": "PHAR",
+    "course_code": "430",
+    "credit": "4",
+    "course_name": "Biomolecular Pharmaceutical Chemistry",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Chemical principles and their application to drugs used to regulate enzyme activity. [4-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 431": {
+    "subject_code": "PHAR",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Functional Foods",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Functional food concepts related to efficacy and safety; examples of bioactive component-disease relationships; natural health products; approval of functional food and health claims; the importance of clinical studies in support of efficacy for health claims; market determinants of functional foods. Credit will be granted for only one of PHAR_V 431 or FNH_V 402. Prerequisite: PHAR_V 202 and PHAR_V 203. Equivalency: FNH_V 402. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 432": {
+    "subject_code": "PHAR",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Toxicology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Biochemical, cellular, and molecular processes that govern toxicity elicited by drugs and environmental toxins at the molecular, cellular, tissue, and organ system levels. Adverse drug reactions and precision medicine approaches to mitigate drug toxicity. Prerequisite: PHAR 308. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 433": {
+    "subject_code": "PHAR",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Advanced Pharmacokinetics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Polyexponential pharmacokinetics, pharmacokinetic/pharmacodynamic modeling, pharmacokinetic predictions, physiologically-based pharmacokinetic modeling and population-based pharmacokinetic modeling. Credit will be granted for only one of PHAR_V 433 or PHAR_V 502. Prerequisite: PHAR_V 302. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 450": {
+    "subject_code": "PHAR",
+    "course_code": "450",
+    "credit": "2-9",
+    "course_name": "Selected Topics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 470": {
+    "subject_code": "PHAR",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Pharmaceutical Cases II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Application of pharmaceutical sciences to authentic, complex cases spanning drug development and commercialization. Individual and team-based case analysis to strengthen problem-solving, critical thinking, professional communication and self-directed learning skills. Prerequisite: PHAR_V 370. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 480": {
+    "subject_code": "PHAR",
+    "course_code": "480",
+    "credit": "3",
+    "course_name": "Pharmaceutical Topics and Communication Seminar IV",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Senior level skills and concepts for planning, delivering and critiquing a scientific seminar using extended topics in the pharmaceutical sciences and beyond. Prerequisite: PHAR_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 485": {
+    "subject_code": "PHAR",
+    "course_code": "485",
+    "credit": "15",
+    "course_name": "Research Project",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Provides research experience equivalent to one full-time term of work on a defined research project in an area of pharmaceutical research. Prerequisite: PHAR_V 302, PHAR_V 303, PHAR_V 304, PHAR_V 305, PHAR_V 306, PHAR_V 307, PHAR_V 308, and PHAR_V 370. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 491": {
+    "subject_code": "PHAR",
+    "course_code": "491",
+    "credit": "12",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Research project and production of a thesis document in an area of pharmaceutical research according to national/international standards. Prerequisite: PHAR_V 485 This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 495": {
+    "subject_code": "PHAR",
+    "course_code": "495",
+    "credit": "15",
+    "course_name": "Practicum",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Provides practicum experience equivalent to one full-time term of work in a professional area of pharmaceutical research. Prerequisite: PHAR_V 302, PHAR_V 303, PHAR_V 304, PHAR_V 305, PHAR_V 306, PHAR_V 307, PHAR_V 308, and PHAR_V 370. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 496": {
+    "subject_code": "PHAR",
+    "course_code": "496",
+    "credit": "3-6",
+    "course_name": "Industry-Based Directed Studies in Pharmaceutical Sciences",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual projects in an area of pharmaceutical research hosted at an industrial site. Prerequisite: PHAR_V 204 and permission of the instructor. Preference will be given to students who have not completed PHAR_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 497": {
+    "subject_code": "PHAR",
+    "course_code": "497",
+    "credit": "3-6",
+    "course_name": "Faculty-Based Directed Studies in Pharmaceutical Sciences",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Individual assignments involving library and laboratory investigation in an area of pharmaceutical research. Prerequisite: PHAR_V 204. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 498": {
+    "subject_code": "PHAR",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 13 weeks. Restricted to students admitted to the Co-operative Education Program in the Bachelor of Pharmaceutical Sciences Program. Pass/Fail. Prerequisite: PHAR_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 499": {
+    "subject_code": "PHAR",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Approved and supervised technical work experience in an industrial, university or government setting for a minimum of 13 weeks. Restricted to students admitted to the Co-operative Education Program in the Bachelor of Pharmaceutical Sciences Program. Pass/Fail. Prerequisite: PHAR_V 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 502": {
+    "subject_code": "PHAR",
+    "course_code": "502",
+    "credit": "4",
+    "course_name": "Advanced Concepts in Pharmacokinetics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Models of linear and dose-dependent systems in pharmacokinetics including sustained release, volumes of distribution, drug clearance, metabolite kinetics, multiple dosing and computer modelling. Credit will be granted for only one of PHAR_V 502 or PHAR_V 433. [4-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 510": {
+    "subject_code": "PHAR",
+    "course_code": "510",
+    "credit": "2-6",
+    "course_name": "Advanced Pharmaceutics I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "A study of physical and chemical properties of pharmaceutical systems with emphasis on formulation and preparative aspects. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 511": {
+    "subject_code": "PHAR",
+    "course_code": "511",
+    "credit": "2-6",
+    "course_name": "Advanced Pharmaceutics II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "A study of problems in pharmaceutics with emphasis on biopharmaceutical aspects. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 515": {
+    "subject_code": "PHAR",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Nanomedicines",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Nano-sized drug delivery systems and their interactions with biological systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 516": {
+    "subject_code": "PHAR",
+    "course_code": "516",
+    "credit": "2",
+    "course_name": "Polymeric Drug and Protein Delivery",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Advances in polymer-based drug delivery systems. [2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 517": {
+    "subject_code": "PHAR",
+    "course_code": "517",
+    "credit": "2",
+    "course_name": "Lipid-Based Drug Delivery",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Advances in lipophilic drug delivery systems. [2-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 518": {
+    "subject_code": "PHAR",
+    "course_code": "518",
+    "credit": "4",
+    "course_name": "Diagnostic Imaging and Radiopharmaceuticals",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Radiation-related, optical, and other imaging methods (SPECT, PET, CT, MRI, microscopy, ultrasound) and their application in research. [3-4*-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 520": {
+    "subject_code": "PHAR",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Applied Omics Science for Drug Discovery and Development",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "General principles of genomics, proteomics, glycomics, and metabolomics; advanced functional omics techniques and their applications in pharmaceutical research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 521": {
+    "subject_code": "PHAR",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Basic Theory & Practice of Scanning Electron Microscopy and Dynamic Light Scattering",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Sample preparation; standard & advanced imaging techniques; image interpretation & quantification, applications in pharmaceutical research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 522": {
+    "subject_code": "PHAR",
+    "course_code": "522",
+    "credit": "1",
+    "course_name": "Basic Theory and Practice of Liquid Chromatography - Mass Spectrometry in Pharmaceutical Research",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Fundamental and practical knowledge and skills to run liquid chromatography tandem mass spectrometry. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 523": {
+    "subject_code": "PHAR",
+    "course_code": "523",
+    "credit": "1",
+    "course_name": "Basic Theory & Practice of Isothermal Titration Calorimetry",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Isothermal titration calorimetry thermodynamic concepts and practical applications in measuring molecular interactions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 524": {
+    "subject_code": "PHAR",
+    "course_code": "524",
+    "credit": "1",
+    "course_name": "Cell Culture and New Biomedical Approaches",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Basic cell culture techniques and novel insights into alternative methods in biomedical research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 525": {
+    "subject_code": "PHAR",
+    "course_code": "525",
+    "credit": "4",
+    "course_name": "Pharmaceutical Research Techniques I",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Spectroscopic, GC, HPLC, LCMS and NMR analytical techniques for drug analysis, pharmacokinetics and metabolism. [2-6]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 526": {
+    "subject_code": "PHAR",
+    "course_code": "526",
+    "credit": "4",
+    "course_name": "Pharmaceutical Research Techniques II",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Immunological assays, capillary and gel electrophoresis, radioisotope techniques, PET, peptide analysis and receptor binding studies. [2-6-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 540": {
+    "subject_code": "PHAR",
+    "course_code": "540",
+    "credit": "2-6",
+    "course_name": "Topics in Pharmacology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Lectures and supervised studies in selected areas of pharmacology. Enrolment restricted. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 541": {
+    "subject_code": "PHAR",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Drug Metabolism and Toxicology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "The biotransformation of drugs, pesticides, carcinogens and other foreign chemicals in animals and humans. The biochemical mechanisms responsible, particularly the cytochrome P-450 mono-oxygenases, will be emphasized. The formation of toxic reactive metabolites and their effects will be discussed. Enrolment restricted. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 542": {
+    "subject_code": "PHAR",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Central Nervous System Pharmacology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "A course comprised of lectures, assigned readings and reports on selected topics dealing with drug actions in the central nervous system. Given in alternate years. Permission of instructor required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 543": {
+    "subject_code": "PHAR",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Advanced Laboratory in Pharmacology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "A laboratory course giving instruction in the methods and techniques used in pharmacological research. Registration limited. [0-6]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 545": {
+    "subject_code": "PHAR",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Cardiovascular Pharmacology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "A course composed of lectures, assigned readings and conferences dealing with aspects of drug actions and cardiovascular function. Topics include the role of adenylate cyclase in cardiac function, the role of calcium in myocardial contractility and the effect of drugs on myocardial and vascular function. Enrolment restricted. Given in alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 546": {
+    "subject_code": "PHAR",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Etiology of Diabesity, from Cell to Society",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Advanced course on pathophysiology and patient care for obesity and diabetes focusing on healthcare quality improvement, patient safety and optimising outcomes. Equivalency: PHRM_V 346. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 548": {
+    "subject_code": "PHAR",
+    "course_code": "548",
+    "credit": "2",
+    "course_name": "M.Sc. Seminar",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 549": {
+    "subject_code": "PHAR",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 550": {
+    "subject_code": "PHAR",
+    "course_code": "550",
+    "credit": "1-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 560": {
+    "subject_code": "PHAR",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Advanced Economic Evaluation in Health Care",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Economic evaluation of health technologies, considering, in detail, the policy context for the use of economic evaluation. Prerequisite: SPPH_V 541. Or equivalent training. Equivalency: SPPH_V 549. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 561": {
+    "subject_code": "PHAR",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Pharmacoepidemiology",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Principles and applications of pharmacoepidemiology. Practical skills in designing, conducting, and appraising studies of medications in large populations. Prerequisite: Previous coursework in statistics or biostatistics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 590": {
+    "subject_code": "PHAR",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Research in the Pharmaceutical Sciences: Principles and Methods",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 591": {
+    "subject_code": "PHAR",
+    "course_code": "591",
+    "credit": "1",
+    "course_name": "Scholarly Integrity and Research Ethics",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 592": {
+    "subject_code": "PHAR",
+    "course_code": "592",
+    "credit": "1-3",
+    "course_name": "Fundamentals of the Pharmaceutical Sciences Disciplines",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 598": {
+    "subject_code": "PHAR",
+    "course_code": "598",
+    "credit": "3-6",
+    "course_name": "Graduate Practicum in Pharmaceutical Sciences",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Permission of the supervisor required. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 648": {
+    "subject_code": "PHAR",
+    "course_code": "648",
+    "credit": "2",
+    "course_name": "Seminar for Ph.D. Students",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "Attendance at regular seminars throughout the session and presentation of one or more papers on selected topics. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHAR 649": {
+    "subject_code": "PHAR",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Pharmaceutical Sciences",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

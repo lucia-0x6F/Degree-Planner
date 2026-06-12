@@ -1,0 +1,106 @@
+{
+  "COLX 521": {
+    "subject_code": "COLX",
+    "course_code": "521",
+    "credit": "1",
+    "course_name": "Corpus Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Describe, compare, and apply the main theories used in corpus linguistics, using qualitative and quantitative corpora, to perform diachronic and synchronic analyses. Restricted to students in the M.D.S. program with Computational Linguistics option. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 523": {
+    "subject_code": "COLX",
+    "course_code": "523",
+    "credit": "1",
+    "course_name": "Advanced Corpus Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced computational techniques in multilingual corpora. Language change and linguistic variation; best practices for data collection, annotation and analysis. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: All of DSCI_V 511, COLX_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 525": {
+    "subject_code": "COLX",
+    "course_code": "525",
+    "credit": "1",
+    "course_name": "Computational Morphology",
+    "faculty": "Faculty of Arts",
+    "description": "Identify and differentiate morphological processes occurring in natural language for implementation in computational linguistics applications. Restricted to students in the M.D.S. program with Computational Linguistics option. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 527": {
+    "subject_code": "COLX",
+    "course_code": "527",
+    "credit": "1",
+    "course_name": "Advanced Computational Morphology",
+    "faculty": "Faculty of Arts",
+    "description": "Morphological parsing tools to analyze and understand multiple languages, including majority and low-resource languages, and to demonstrate computational implementation of fragments. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: COLX_V 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 531": {
+    "subject_code": "COLX",
+    "course_code": "531",
+    "credit": "1",
+    "course_name": "Machine Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Machine translation (MT), including an ability to implement lexical translation models, discriminative training models, and syntactic models in MT. Includes noisy channel translation, phrase-based machine translation, and how to evaluate models. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: DSC_VI 571. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 533": {
+    "subject_code": "COLX",
+    "course_code": "533",
+    "credit": "1",
+    "course_name": "Advanced Machine Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Machine translation (MT) for diverse groups of languages. Tools covered will include syntax decoding, synchronous parsing, large-scale language modelling, system combination, morphology in MT, topics in modelling, example-based MT, mining parallel data, and quality estimation. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: COLX_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 535": {
+    "subject_code": "COLX",
+    "course_code": "535",
+    "credit": "1",
+    "course_name": "Parsing for Computational Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Methods of natural language parsing: finite state approaches, class-based language models, part-of-speech tagging, NP chunking, shallow parsing, and context free syntactic parsing. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: All of DSCI_V 511, DSCI_V 551, COLX_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 561": {
+    "subject_code": "COLX",
+    "course_code": "561",
+    "credit": "1",
+    "course_name": "Computational Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "Language processing to analyze lexical semantics. WordNet, FrameNet, and the semantic web, applied to word-sense disambiguation, entailment, question-answering, and knowledge base populations. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: COLX_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 563": {
+    "subject_code": "COLX",
+    "course_code": "563",
+    "credit": "1",
+    "course_name": "Advanced Computational Semantics",
+    "faculty": "Faculty of Arts",
+    "description": "Statistical and neural approaches to natural-language meaning in computational semantics. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: COLX_V 561. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 565": {
+    "subject_code": "COLX",
+    "course_code": "565",
+    "credit": "1",
+    "course_name": "Sentiment Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Data crawling, annotation, evaluation, and modelling lexical information. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: COLX_V 563. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 581": {
+    "subject_code": "COLX",
+    "course_code": "581",
+    "credit": "1",
+    "course_name": "Natural Language Processing for Low-Resource Languages",
+    "faculty": "Faculty of Arts",
+    "description": "Computational tools in relation to low-resource and other under-documented and very-low-resource language. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: COLX_V 535. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 585": {
+    "subject_code": "COLX",
+    "course_code": "585",
+    "credit": "1",
+    "course_name": "Trends in Computational Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques for identifying, analyzing, and synthesizing primary sources for the most current research in computational linguistics. Restricted to students in the M.D.S. program with Computational Linguistics option. This course is not eligible for Credit/D/Fail grading."
+  },
+  "COLX 595": {
+    "subject_code": "COLX",
+    "course_code": "595",
+    "credit": "6",
+    "course_name": "Capstone Project",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques for identifying, analyzing, and synthesizing primary sources for the most current research in computational linguistics. Restricted to students in the M.D.S. program with Computational Linguistics option. Prerequisite: 24 credits of DSCI and COLX courses. This course is not eligible for Credit/D/Fail grading."
+  }
+}

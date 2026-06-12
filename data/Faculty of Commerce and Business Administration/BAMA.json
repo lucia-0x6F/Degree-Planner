@@ -1,0 +1,154 @@
+{
+  "BAMA 503": {
+    "subject_code": "BAMA",
+    "course_code": "503",
+    "credit": "1.5",
+    "course_name": "New Product Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 504": {
+    "subject_code": "BAMA",
+    "course_code": "504",
+    "credit": "1.5",
+    "course_name": "Integrated Marketing Communication",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 505": {
+    "subject_code": "BAMA",
+    "course_code": "505",
+    "credit": "1.5",
+    "course_name": "Business Development",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Study of business development as a tool for creating long-term value from clients, markets and relationships. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 506": {
+    "subject_code": "BAMA",
+    "course_code": "506",
+    "credit": "1.5",
+    "course_name": "Consumer Behaviour",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 508": {
+    "subject_code": "BAMA",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Marketing Research",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 509": {
+    "subject_code": "BAMA",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Marketing Foundations for Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Concepts, frameworks and data analytic approaches for solving marketing strategy problems in a systematic, process-driven manner. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 510": {
+    "subject_code": "BAMA",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Public and Nonprofit Marketing Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 511": {
+    "subject_code": "BAMA",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Pricing Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Proven concepts, techniques, and frameworks for assessing and formulating pricing strategies. Understanding the process of making pricing decisions and exploring innovative approaches for setting prices. State-of-the-art frameworks for analyzing pricing decisions; strategies for revenue model migration and increasing profitability. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 513": {
+    "subject_code": "BAMA",
+    "course_code": "513",
+    "credit": "1.5",
+    "course_name": "Digital Marketing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 514": {
+    "subject_code": "BAMA",
+    "course_code": "514",
+    "credit": "1.5",
+    "course_name": "Brand Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to students in one of the following programs: M.B.A., J.D./M.B.A., M.B.A./M.A.A.P.S., M.Sc.B., M.M., I.M.B.A.; or a Ph.D. with a BADM specialization. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 515": {
+    "subject_code": "BAMA",
+    "course_code": "515",
+    "credit": "1.5",
+    "course_name": "Services Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 516": {
+    "subject_code": "BAMA",
+    "course_code": "516",
+    "credit": "1.5",
+    "course_name": "Customer Relationship Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Concepts of customer relationship management; metrics for customer loyalty satisfaction; RFM (recency, frequency, monetary) analysis in direct marketing, economics of customer relationship and customer loyalty program designs; exposure to trending topics; managerial understanding; practical analytical experience on real customer databases. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 517": {
+    "subject_code": "BAMA",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Data Driven Marketing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Statistical models of customer behaviour and past marketing actions, and applications to determining elements of the marketing mix. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 519": {
+    "subject_code": "BAMA",
+    "course_code": "519",
+    "credit": "1.5",
+    "course_name": "Building Brands with Purpose",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 520": {
+    "subject_code": "BAMA",
+    "course_code": "520",
+    "credit": "1.5",
+    "course_name": "Customer Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 521": {
+    "subject_code": "BAMA",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Business Development for Scaling Up",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 550": {
+    "subject_code": "BAMA",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Marketing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 580": {
+    "subject_code": "BAMA",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Marketing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAMA 590": {
+    "subject_code": "BAMA",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Marketing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

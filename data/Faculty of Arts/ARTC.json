@@ -1,0 +1,138 @@
+{
+  "ARTC 100": {
+    "subject_code": "ARTC",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Arts Co-op Search Term #1",
+    "faculty": "Faculty of Arts",
+    "description": "Search term to obtain first work term. Completion of pre-employment workshops, group and individual coaching sessions on job search processes, and minimum number of job applications required. Students apply for jobs and go for interviews until they are hired. Pass/Fail. Restricted to students in the Arts Co-op Program. Prerequisite: Completion of Writing Component of Arts Writing and Research Requirement strongly recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 110": {
+    "subject_code": "ARTC",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #1",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Restricted to students in the Arts Co-operative Education Program. Pass/Fail. Recommended prerequisite: ARTC_V 100. Recommended corequisite: ARTC_V 110 can be taken at the same time as ARTC_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 200": {
+    "subject_code": "ARTC",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Arts Co-op Search Term #2",
+    "faculty": "Faculty of Arts",
+    "description": "Search term to obtain second work term. Reflective assignment required and individual coaching sessions optional. Students apply for jobs and go for interviews until they are hired. Restricted to students in the Arts Co-operative Education Program. Pass/Fail. Recommended pre-requisite: ARTC_V 110 Recommended co-requisite: ARTC_V 110 can be taken at the same time as ARTC_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 210": {
+    "subject_code": "ARTC",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #2",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 210 or 211. ARTC_V 210 can be taken at the same time as ARTC_V 300. Pass/Fail. Recommended pre-requisite: ARTC_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 211": {
+    "subject_code": "ARTC",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #2 (Extension)",
+    "faculty": "Faculty of Arts",
+    "description": "Extension of co-op term with the same employer as ARTC_V 110 for a minimum of 12 weeks and/or 420 hours full-time. ARTC_V 211 can be taken at the same time as ARTC_V 300. Pass/Fail. Recommended pre-requisite: ARTC_V 110. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 300": {
+    "subject_code": "ARTC",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Arts Co-op Search Term #3",
+    "faculty": "Faculty of Arts",
+    "description": "Search term to obtain third work term. Reflective assignment required and individual coaching sessions optional. Students apply for jobs and go for interviews until they are hired. ARTC_V 210 and ARTC_V 211 can be taken at the same time as ARTC_V 300. Pass/Fail. Recommended pre-requisites: one of ARTC_V 210, ARTC_V 211. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 310": {
+    "subject_code": "ARTC",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #3",
+    "faculty": "Faculty of Arts",
+    "description": "Approved and supervised work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC 310_V and 311. ARTC_V 310 can be taken at the same time as ARTC_V 400. Pass/Fail. Recommended pre-requisite: ARTC_V 300. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 311": {
+    "subject_code": "ARTC",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #3 (Extension)",
+    "faculty": "Faculty of Arts",
+    "description": "Extension of co-op term with the same employer as ARTC_V 210 or 211 for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 310 and 311. ARTC_V 311 can be taken at the same time as ARTC_V 400. Pass/Fail. Recommended pre-requisites: one of ARTC_V 210, ARTC_V 211. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 400": {
+    "subject_code": "ARTC",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Arts Co-op Search Term #4",
+    "faculty": "Faculty of Arts",
+    "description": "Search term to obtain optional fourth work term. Reflective assignment required and individual coaching sessions optional. Students apply for jobs and go for interviews until they are hired. ARTC_V 310 and ARTC_V 311 can be taken at the same time as ARTC_V 400. Pass/Fail. Recommended pre-requisites: one of ARTC_V 310, ARTC_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 410": {
+    "subject_code": "ARTC",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #4",
+    "faculty": "Faculty of Arts",
+    "description": "Optional fourth work term. Approved and supervised work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 410 and 411. ARTC_V 410 and ARTC_V 411 can be taken at the same time as ARTC_V 445. Pass/Fail. Recommended pre-requisite: ARTC_V 400. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 411": {
+    "subject_code": "ARTC",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #4 (Extension)",
+    "faculty": "Faculty of Arts",
+    "description": "Extension of co-op term with the same employer as ARTC_V 310 or 311 for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 410 and 411. ARTC_V 411 can be taken at the same time as ARTC_V 445. Pass/Fail. Recommended pre-requisite: one of ARTC_V 310, ARTC_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 445": {
+    "subject_code": "ARTC",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Arts Co-op Search Term #5",
+    "faculty": "Faculty of Arts",
+    "description": "Search term to obtain optional fifth work term. Reflective assignment required and individual coaching sessions optional. Students apply for jobs and go for interviews until they are hired. ARTC_V 410 and ARTC_V 411 can be taken at the same time as ARTC_V 445. Pass/Fail. Recommended pre-requisites: one of ARTC_V 410, ARTC_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 450": {
+    "subject_code": "ARTC",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #5",
+    "faculty": "Faculty of Arts",
+    "description": "Optional fifth work term. Approved and supervised work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 450 and 451. ARTC_V 450 can be taken at the same time as ARTC_V 456. Pass/Fail. Recommended pre-requisite: ARTC_V 445. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 451": {
+    "subject_code": "ARTC",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #5 (Extension)",
+    "faculty": "Faculty of Arts",
+    "description": "Extension of co-op term with the same employer as ARTC_V 410 or 411 for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 450 and 451. ARTC_V 451 can be taken at the same time as ARTC_V 456. Pass/Fail. Recommended pre-requisites: one of ARTC_V 410, ARTC_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 456": {
+    "subject_code": "ARTC",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "Arts Co-op Search Term #6",
+    "faculty": "Faculty of Arts",
+    "description": "Search term to obtain optional sixth work term. Reflective assignment required and individual coaching sessions optional. Students apply for jobs and go for interviews until they are hired. ARTC_V 450 and ARTC_V 451 can be taken at the same time as ARTC_V 456. Pass/Fail. Recommended pre-requisites: one of ARTC_V 450, ARTC_V 451. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 460": {
+    "subject_code": "ARTC",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #6",
+    "faculty": "Faculty of Arts",
+    "description": "Optional sixth work term. Approved and supervised work experience with a non-profit, public or private organization for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Pass/Fail. Recommended pre-requisite: ARTC_V 456. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ARTC 461": {
+    "subject_code": "ARTC",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Arts Co-op Work Term #6 (Extension)",
+    "faculty": "Faculty of Arts",
+    "description": "Extension of co-op term with the same employer as ARTC_V 450 or 451 for a minimum of 12 weeks and/or 420 hours full-time. Reflective assignments required. Credit will be granted for only one of ARTC_V 460 and 461. Pass/Fail. Recommended pre-requisites: one of ARTC_V 450, ARTC_V 451. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "BIOF 501": {
+    "subject_code": "BIOF",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Special Topics in Bioinformatics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOF 520": {
+    "subject_code": "BIOF",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Problem-Based Learning In Bioinformatics",
+    "faculty": "Faculty of Science",
+    "description": "Develops the student's ability to exchange ideas in small groups focused on real but simplified problems in bioinformatics. Problems are carefully selected to cover all aspects of Bioinformatics research. Required of students in the Bioinformatics graduate program. Students not registered in the Bioinformatics graduate program must get permission to register in this course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOF 540": {
+    "subject_code": "BIOF",
+    "course_code": "540",
+    "credit": "1-3",
+    "course_name": "Statistical Methods for High Dimensional Biology",
+    "faculty": "Faculty of Science",
+    "description": "Equivalency: STAT_V 540, GSAT_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOF 548": {
+    "subject_code": "BIOF",
+    "course_code": "548",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Science",
+    "description": "Advanced study under the direction of a faculty member composed of laboratory sessions and directed readings related to selected areas of bioinformatics. Students must get permission to register in this course. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOF 599": {
+    "subject_code": "BIOF",
+    "course_code": "599",
+    "credit": "12",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BIOF 699": {
+    "subject_code": "BIOF",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

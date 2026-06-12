@@ -1,0 +1,658 @@
+{
+  "CHIN 131": {
+    "subject_code": "CHIN",
+    "course_code": "131",
+    "credit": "3",
+    "course_name": "Basic Chinese I: Part 1 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing in Mandarin Chinese, an active vocabulary of about 250 Chinese words, and basic grammar. Credit will be granted for only one of CHIN_V 131 or CHIN_V 101 or CHIN_V 134. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 133": {
+    "subject_code": "CHIN",
+    "course_code": "133",
+    "credit": "3",
+    "course_name": "Basic Chinese I: Part 2 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN 131. This credit is not eligible for Credit/D/Fail. Credit will be granted for only one of CHIN 133 or CHIN 103 or CHIN 134. Recommended pre-requisites: one of CHIN 101, CHIN 131. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 134": {
+    "subject_code": "CHIN",
+    "course_code": "134",
+    "credit": "6",
+    "course_name": "Intensive Basic Chinese I (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing in Mandarin Chinese, an active vocabulary of about 500 Chinese words, and basic grammar. Credit will be granted for only one of CHIN_V 134 or CHIN_V 104 or both CHIN_V 101, CHIN_V 103, or both CHIN_V 131, CHIN_V 133. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 141": {
+    "subject_code": "CHIN",
+    "course_code": "141",
+    "credit": "3",
+    "course_name": "Basic Chinese I: Part 1 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening to and speaking Mandarin and reading and writing modern written Chinese. Emphasis on reading and writing. Credit will be granted for only one of CHIN_V 141 or CHIN_V 111 or CHIN_V 144. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 143": {
+    "subject_code": "CHIN",
+    "course_code": "143",
+    "credit": "3",
+    "course_name": "Basic Chinese I: Part 2 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN 141. Credit will be granted for only one of CHIN 143 or CHIN 113 or CHIN 144. Recommended pre-requisites: one of CHIN 111, CHIN 141. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 144": {
+    "subject_code": "CHIN",
+    "course_code": "144",
+    "credit": "6",
+    "course_name": "Intensive Basic Chinese I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening to and speaking Mandarin and in reading and writing modern written Chinese. Emphasis on reading and writing. Credit will be granted for only one of CHIN_V 144 or CHIN_V 114 or both CHIN_V 111, CHIN_V 113, or both CHIN_V 141, CHIN_V 143. Equivalency: CHIN_V 141, CHIN_V 143. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 161": {
+    "subject_code": "CHIN",
+    "course_code": "161",
+    "credit": "9",
+    "course_name": "Enriched Summer Intensive Beginning Chinese",
+    "faculty": "Faculty of Arts",
+    "description": "An integrated language course developing communicative competence in speaking, listening to, reading, and writing modern Mandarin Chinese. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 195": {
+    "subject_code": "CHIN",
+    "course_code": "195",
+    "credit": "1",
+    "course_name": "Chinese Characters I",
+    "faculty": "Faculty of Arts",
+    "description": "250-300 basic and frequently-used Chinese characters in their simplified form, including character radicals, strokes and stroke-order, meaning, and pronunciation. Introduction to theories of Chinese character formation."
+  },
+  "CHIN 200": {
+    "subject_code": "CHIN",
+    "course_code": "200",
+    "credit": "1-3",
+    "course_name": "Topics in Chinese Language Basic Skills",
+    "faculty": "Faculty of Arts",
+    "description": "Specific linguistic skills such as pronunciation, characters, or grammatical structures, at the basic level. Skills taught vary from section to section; consult Department for current offerings. Corequisite: One of CHIN_V 131, CHIN_V133, CHIN_V 134, CHIN_V 141, CHIN_V 143, CHIN_V 144, CHIN_V 231, CHIN_V 233, CHIN_V 234, CHIN_V 241, CHIN_V 243, CHIN_V 244."
+  },
+  "CHIN 231": {
+    "subject_code": "CHIN",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Basic Chinese II: Part 1 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing Mandarin Chinese, active vocabulary of about 750 Chinese words, and basic grammar. Credit will be granted for only one of CHIN_V 231 or CHIN_V 105 or CHIN_V 234. Recommended pre-requisites: one of CHIN_V 103, CHIN_V 104, CHIN_V 133, CHIN_V 134. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 233": {
+    "subject_code": "CHIN",
+    "course_code": "233",
+    "credit": "3",
+    "course_name": "Basic Chinese II: Part 2 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 231. Credit will be granted for only one of CHIN_V 233 or CHIN_V 107, or CHIN_V 234. Recommended pre-requisites: one of CHIN_V 105, CHIN_V 231. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 234": {
+    "subject_code": "CHIN",
+    "course_code": "234",
+    "credit": "6",
+    "course_name": "Intensive Basic Chinese II (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing in Mandarin Chinese, an active vocabulary of about 1000 Chinese words, and basic grammar. Credit will be granted for only one of CHIN_V 234 or CHIN_V 108 or both CHIN_V 105, CHIN_V 107, or both CHIN_V 231, CHIN_V 233. Recommended pre-requisites: one of CHIN_V 103, CHIN_V 104, CHIN_V 133, CHIN_V 134. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 241": {
+    "subject_code": "CHIN",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Basic Chinese II: Part 1 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening to and speaking Mandarin and reading and writing modern written Chinese. Emphasis on reading and writing. Credit will be granted for only one of CHIN_V 241 or CHIN_V 115 or CHIN_V 244. Recommended pre-requisite: one of CHIN_V 113, CHIN_V 114, CHIN_V 143, CHIN_V 144. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 243": {
+    "subject_code": "CHIN",
+    "course_code": "243",
+    "credit": "3",
+    "course_name": "Basic Chinese II: Part 2 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 241. Credit will be granted for only one of CHIN_V 243 or CHIN_V 117 or CHIN_V 244. Recommended pre-requisites: one of CHIN_V 115, CHIN_V 241. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 244": {
+    "subject_code": "CHIN",
+    "course_code": "244",
+    "credit": "6",
+    "course_name": "Intensive Basic Chinese II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening to and speaking Mandarin and reading and writing modern written Chinese. Emphasis on reading and writing. Credit will be granted for only one of CHIN_V 244 or CHIN_V 118 or both CHIN_V 115, CHIN_V 117 or both CHIN_V 241, CHIN_V 243. Recommended pre-requisites: one of CHIN_V 113, CHIN_V 114, CHIN_V 143, CHIN_V 144. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 300": {
+    "subject_code": "CHIN",
+    "course_code": "300",
+    "credit": "1-3",
+    "course_name": "Topics in Chinese Language Intermediate Skills",
+    "faculty": "Faculty of Arts",
+    "description": "Specific linguistic skills such as pronunciation, characters, grammatical structures, and so on, at the intermediate level. Skills taught vary from section to section; Consult Department for current offerings. Corequisite: One of CHIN 231, CHIN 233, CHIN 234, CHIN 241, CHIN 243, CHIN 244, CHIN 331, CHIN 333, CHIN 334, CHIN 335, CHIN 337, CHIN 338, CNTO 301, CNTO 303, CNTO 311."
+  },
+  "CHIN 331": {
+    "subject_code": "CHIN",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Intermediate Chinese I: Part 1 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing, and understanding of Chinese culture. Credit will be granted for only one of CHIN_V 331 or CHIN_V 201 or CHIN_V 334. Recommended pre-requisites: one of CHIN_V 107, CHIN_V 108, CHIN_V 233, CHIN_V 234. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 333": {
+    "subject_code": "CHIN",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Intermediate Chinese I: Part 2 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 331. Credit will be granted for only one of CHIN_V 333 or CHIN_V 203 or CHIN_V 334. Recommended pre-requisites: one of CHIN_V 201, CHIN_V 331. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 334": {
+    "subject_code": "CHIN",
+    "course_code": "334",
+    "credit": "6",
+    "course_name": "Intensive Intermediate Chinese I (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing, and better understanding of Chinese culture. Credit will be granted for only one of CHIN_V 334 or CHIN_V 204 or both CHIN_V 201, CHIN_V 203 or both CHIN_V 331, CHIN_V 333. Recommended pre-requisites: one of CHIN_V 107, CHIN_V 108, CHIN_V 233, CHIN_V 234. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 335": {
+    "subject_code": "CHIN",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Intermediate Chinese II: Part I (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing, and better understanding of Chinese culture. Credit will be granted for only one of CHIN_V 335 or CHIN_V 205 or CHIN_V 338. Recommended pre-requisites: one of CHIN_ V 203, CHIN_V 204, CHIN_V 333, CHIN_V 334. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 337": {
+    "subject_code": "CHIN",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Intermediate Chinese II: Part 2 (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 335. Credit will be granted for only one of CHIN_V 337 or CHIN_V 207 or CHIN_V 338. Recommended pre-requisites: one of CHIN_V 205, CHIN_V 335. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 338": {
+    "subject_code": "CHIN",
+    "course_code": "338",
+    "credit": "6",
+    "course_name": "Intensive Intermediate Chinese II (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening, speaking, reading, and writing, and understanding of Chinese culture. Credit will be granted for only one of CHIN_V 338 or CHIN_V 208 or both CHIN_V 205, CHIN_V 207 or both CHIN_V 335, CHIN_V 337. Recommended pre-requisites: one of CHIN_V 203, CHIN_V 204, CHIN_V 333, CHIN_V 334. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 341": {
+    "subject_code": "CHIN",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Intermediate Chinese I: Part 1 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Integrated skills in modern Chinese. Focus on reading, writing, and better understanding of Chinese culture. Credit will be granted for only one of CHIN_V 341 or CHIN_V 211 or CHIN_V 344. Recommended pre-requisites: one of CHIN_V 117, CHIN_V 118, CHIN_V 243, CHIN_V 244. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 343": {
+    "subject_code": "CHIN",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Intermediate Chinese I: Part 2 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 341. Credit will be granted for only one of CHIN_V 343 or CHIN_V 213 or CHIN_V 344. Recommended pre-requisites: one of CHIN_V 211, CHIN_V 341. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 344": {
+    "subject_code": "CHIN",
+    "course_code": "344",
+    "credit": "6",
+    "course_name": "Intensive Intermediate Chinese I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Integrated skills in modern Chinese. Emphasis on reading and writing and better understanding of Chinese culture. Credit will be granted for only one of CHIN_V 344 or CHIN_V 214 or both CHIN_V 211, CHIN_V 213 or both CHIN_V 341, CHIN_V 343. Recommended pre-requisites: one of CHIN_V 117, CHIN_V 118, CHIN_V 243, CHIN_V 244. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 345": {
+    "subject_code": "CHIN",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Intermediate Chinese II: Part I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Integrated skills in modern Chinese. Focus on reading, writing, and better understanding of Chinese culture. Credit will be granted for only one of CHIN_V 345 or CHIN_V 215 or CHIN_V 348. Recommended pre-requisites: one of CHIN_V 213, CHIN_V 214, CHIN_V 343, CHIN_V 344. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 347": {
+    "subject_code": "CHIN",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Intermediate Chinese II: Part 2 (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 345. Credit will be granted for only one of CHIN_V 347 or CHIN_V 217 or CHIN_V 348. Recommended pre-requisites: one of CHIN_V 215, CHIN_V 345. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 348": {
+    "subject_code": "CHIN",
+    "course_code": "348",
+    "credit": "6",
+    "course_name": "Intensive Intermediate Chinese II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Communication skills. Focus on reading, writing, and better understanding of Chinese culture. Credit will be granted for only one of CHIN_V 348 or CHIN_V 218 or both CHIN_V 215, CHIN_V 217 or both CHIN_V 345, CHIN_V 347. Recommended pre-requisites: one of CHIN_V 213, CHIN_V 214, CHIN_V 343, CHIN_V 344. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 380": {
+    "subject_code": "CHIN",
+    "course_code": "380",
+    "credit": "6",
+    "course_name": "Reading Course in Chinese for Honours Students",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "CHIN 381": {
+    "subject_code": "CHIN",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Mandarin for Cantonese Speakers I",
+    "faculty": "Faculty of Arts",
+    "description": "Strictly for Cantonese speakers from Hong Kong who cannot speak Mandarin but who have advanced Chinese reading and writing skills (2,000 characters). Credit will be granted for only one of CHIN_V 381 or CHIN_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 383": {
+    "subject_code": "CHIN",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Mandarin for Cantonese Speakers II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 381. Credit will be granted for only one of CHIN_V 383 or CHIN_V 223. Recommended pre-requisites: one of CHIN_V 221, CHIN_V 381. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 388": {
+    "subject_code": "CHIN",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Introduction to Classical Chinese I (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "The basics of classical Chinese grammar, with short illustrations from texts of the Warring States and early Han Period. Credit will be granted for only one of CLCH 389 or CHIN 388. Recommended pre-requisites: one of CHIN 107, CHIN 108, CHIN 233, CHIN 234, JAPN 103, JAPN 151, JAPN 201, JAPN 260, KORN 200, or placement approval."
+  },
+  "CHIN 389": {
+    "subject_code": "CHIN",
+    "course_code": "389",
+    "credit": "3",
+    "course_name": "Introduction to Classical Chinese II (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Practice and expansion of the grammar skills learned in CLCH 389 or CHIN 388; reading of additional and longer passages from the classical canon. Credit will be granted for only one of CLCH 399 or CHIN 389. Recommended pre-requisites: one of CLCH 389, CHIN 388."
+  },
+  "CHIN 400": {
+    "subject_code": "CHIN",
+    "course_code": "400",
+    "credit": "1-3",
+    "course_name": "Topics in Chinese Language Advanced Skills",
+    "faculty": "Faculty of Arts",
+    "description": "Specific linguistic skills such as pronunciation, characters, or grammatical structures, at the advanced level. Skills taught vary from section to section; consult Department for current offerings. Corequisite: One of CHIN 331, CHIN 333, CHIN 334, CHIN 335, CHIN 337, CHIN 341, CHIN 343, CHIN 344, CHIN 345, CHIN 347, CHIN 401, CHIN 403, CHIN 405, CHIN 407, CHIN 415, CHIN 435, CHIN 437, CHIN 441, CHIN 443, CHIN 444, CHIN 445, CHIN 447, CHIN 451, CHIN 453."
+  },
+  "CHIN 401": {
+    "subject_code": "CHIN",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Advanced Chinese Reading and Writing I (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and writing skills addressing social, cultural, and economic issues. Can be taken concurrently with CHIN_V 405. Credit will be granted for only one of CHIN_V 401 or CHIN_V 301 or CHIN_V 404. Recommended pre-requisites: one of CHIN_V 207, CHIN_V 208, CHIN_V 337, CHIN_V 338. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 403": {
+    "subject_code": "CHIN",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Advanced Chinese Reading and Writing II (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 401. Can be taken concurrently with CHIN_V 407. Credit will be granted for only one of CHIN_V 403 or CHIN_V 303 or CHIN_V 404. Recommended pre-requisites: one of CHIN_V 301, CHIN_V 401. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 404": {
+    "subject_code": "CHIN",
+    "course_code": "404",
+    "credit": "6",
+    "course_name": "Intensive Advanced Chinese Reading and Writing (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and writing skills addressing social, cultural, and economic issues. Can be taken concurrently with CHIN_V 408. Credit will be granted for only one of CHIN_V 404 or CHIN_V 304 or both CHIN_V 301, CHIN_V 303 or both CHIN_V 401, CHIN_V 403. Recommended pre-requisites: one of CHIN_V 207, CHIN_V 208, CHIN_V 337, CHIN_V 338. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 405": {
+    "subject_code": "CHIN",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Advanced Chinese Speaking and Writing I (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "More formal styles of oral and written communication. Can be taken concurrently with CHIN_V 401. Credit will be granted for only one of CHIN_V 405 or CHIN_V 305 or CHIN_V 408. Recommended pre-requisites: one of CHIN_V 207, CHIN_V 208, CHIN_V 337, CHIN_V 338. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 407": {
+    "subject_code": "CHIN",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Advanced Chinese Speaking and Writing II (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 405. Can be taken concurrently with CHIN_V 403. Credit will be granted for only one of CHIN_V 407 or CHIN_V 307 or CHIN_V 408. Recommended pre-requisites: one of CHIN_V 305, CHIN_V 405. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 408": {
+    "subject_code": "CHIN",
+    "course_code": "408",
+    "credit": "6",
+    "course_name": "Intensive Advanced Chinese Speaking and Writing (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "More formal styles of oral and written communication. Can be taken concurrently with CHIN_V 404. Credit will be granted for only one of CHIN_V 408 or CHIN_V 308 or both CHIN_V 305, CHIN_V 307 or both CHIN_V 405, CHIN_V 407. Recommended pre-requisites: one of CHIN_V 207, CHIN_V 208, CHIN_V 337, CHIN_V 338. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 415": {
+    "subject_code": "CHIN",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Media Chinese I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and understanding Chinese as used in newspapers, radio/TV, and the internet news. Credit will be granted for only one of CHIN 415 or CHIN 309. Recommended pre-requisites: one of CHIN 347, CHIN 348."
+  },
+  "CHIN 422": {
+    "subject_code": "CHIN",
+    "course_code": "422",
+    "credit": "6",
+    "course_name": "Twentieth-Century Chinese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Selected short stories, novels, plays, essays, and poems from 1917 to the end of the twentieth century. For students who have a good reading knowledge of modern Chinese. Prerequisite: 12 credits at CHIN_V 300-level or above is recommended. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 435": {
+    "subject_code": "CHIN",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Business Chinese I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Reading, writing, and presentation skills in business documentation, focusing on technical Chinese as used in the workplace. Emphasis on specialized vocabulary and development of communicative competence as relevant to advertising, the stock market and E-commerce. Credit will be granted for only one of CHIN_V 435 or CHIN_V 321. Recommended pre-requisites: one of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 437": {
+    "subject_code": "CHIN",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Business Chinese II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Reading, writing, and presentation skills in business documentation, focusing on technical Chinese as used in the workplace. Emphasis on specialized vocabulary and development of communicative competence as relevant to legal and financial documents such as contracts, investments, and insurance. Credit will be granted for only one of CHIN_V 437 or CHIN_V 323. Recommended pre-requisites: one of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 440": {
+    "subject_code": "CHIN",
+    "course_code": "440",
+    "credit": "3-9",
+    "course_name": "Special Topics in Advanced Chinese Language",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced reading and writing through thematically organized topics in Chinese language used for different disciplines or in different forms. Topics vary from section to section. Consult Department for current offerings."
+  },
+  "CHIN 441": {
+    "subject_code": "CHIN",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Advanced Chinese Reading and Writing I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Transition from language to literature. Can be taken concurrently with CHIN_V 435 and CHIN_V 445. Credit will be granted for only one of CHIN_V 441 or CHIN_V 311 or CHIN_V 444. Recommended pre-requisites: one of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 443": {
+    "subject_code": "CHIN",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Advanced Chinese Reading and Writing II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 441. Can be taken concurrently with CHIN_V 437 and/or CHIN_V 447. Credit will be granted for only one of CHIN_V 443 or CHIN_V 313 or CHIN_V 444. Recommended pre-requisites: one of CHIN_V 311, CHIN_V 441. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 444": {
+    "subject_code": "CHIN",
+    "course_code": "444",
+    "credit": "6",
+    "course_name": "Intensive Advanced Chinese Reading and Writing (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Transition from language to literature. Can be taken concurrently with CHIN_V 448. Credit will be granted for only one of CHIN_V 444 or CHIN_V 314 or both CHIN_V 311, CHIN_V 313 or both CHIN_V 441, CHIN_V 443. Recommended pre-requisites: one of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 445": {
+    "subject_code": "CHIN",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Advanced Chinese Speaking and Writing I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Public-speaking and writing skills at an advanced level. Can be taken concurrently with CHIN_V 435 and/or CHIN_V 441. Credit will be granted for only one of CHIN_V 445 or CHIN_V 315 or CHIN_V 448. Recommended pre-requisites: one of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. Prerequisite: One of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 447": {
+    "subject_code": "CHIN",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Advanced Chinese Speaking and Writing II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of CHIN_V 445. Can be taken concurrently with CHIN_V 437 and/or CHIN_V 443. Credit will be granted for only one of CHIN_V 447 or CHIN_V 317 or CHIN_V 448. Recommended pre-requisites: one of CHIN_V 315, CHIN_V 445. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 448": {
+    "subject_code": "CHIN",
+    "course_code": "448",
+    "credit": "6",
+    "course_name": "Intensive Advanced Chinese Speaking and Writing (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Public-speaking and writing skills at an advanced level. Can be taken concurrently with CHIN_V 438 and/or CHIN_V 444. Credit will be granted for only one of CHIN_V 448 or CHIN_V 318 or both CHIN_V 315, CHIN_V 317 or both CHIN_V 445, CHIN_V 447. Recommended pre-requisites: one of CHIN_V 217, CHIN_V 218, CHIN_V 347, CHIN_V 348. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 449": {
+    "subject_code": "CHIN",
+    "course_code": "449",
+    "credit": "3",
+    "course_name": "Advanced Readings in Classical Chinese",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on reading longer texts in Classical Chinese, producing careful and polished translation, using appropriate reference works and appreciating nuances of style and genre. Transition from textbook-based study to independent reading and scholarly translation necessary for advanced study and research."
+  },
+  "CHIN 451": {
+    "subject_code": "CHIN",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Introductory Modern Chinese Literature I",
+    "faculty": "Faculty of Arts",
+    "description": "A reading-intensive introduction to modern Chinese literature from 1900 to 1949, with a focus on fiction. Credit will be granted for only one of CHIN_V 451 or CHIN_V 411. Recommended pre-requisites: one of CHIN_V 303, CHIN_V 304, CHIN_V 403, CHIN_V 404, CHIN_V 435, CHIN_V 441, CHIN_V 443 and one of CHIN_V 307, CHIN_V 308, CHIN_V 407, CHIN_V 408, CHIN_V 437, CHIN_V 445, CHIN_V 447. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 453": {
+    "subject_code": "CHIN",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Introductory Modern Chinese Literature II",
+    "faculty": "Faculty of Arts",
+    "description": "A reading-intensive introduction to modern Chinese literature from 1949 to the present, with a focus on fiction. Credit will be granted for only one of CHIN_V 453 or CHIN_V 413. Recommended pre-requisites: one of CHIN_V 411, CHIN_V 451. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 455": {
+    "subject_code": "CHIN",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Introductory Classical Chinese Literature (Early Periods) (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Early fiction, including tales of the supernatural and romance, to the Tang Dynasty. Credit will be granted for only one of CHIN_V 455 or CHIN_V 421 or CHIN_V 458. Recommended pre-requisites: one of CHIN_V 303, CHIN_V 304, CHIN_V 403, CHIN_V 404 and one of CHIN_V 307, CHIN_V 308, CHIN_V 407, CHIN_V 408. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 457": {
+    "subject_code": "CHIN",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "Introductory Classical Chinese Literature (Later Periods) (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Texts in vernacular Chinese, including drama and fiction, from the Yuan to the Qing Dynasties. Credit will be granted for only one of CHIN_V 457 or CHIN_V 423 or CHIN_V 458. Recommended pre-requisites: one of CHIN_V 303, CHIN_V 304, CHIN_V 403, CHIN_V 404 and one of CHIN_V 307, CHIN_V 308, CHIN_V 407, CHIN_V 408. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 458": {
+    "subject_code": "CHIN",
+    "course_code": "458",
+    "credit": "6",
+    "course_name": "Introductory Classical Chinese Literature (Intensive) (Non-Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Covers a range of stories, fiction, and drama to the Qing Dynasty. Only for students who did not have a good reading knowledge of modern Chinese before entering university. Credit will be granted for only one of CHIN_V 458 or CHIN_V 424 or both CHIN_V 421, CHIN_V 423 or both CHIN_V 455, CHIN_V 457. Recommended pre-requisites: one of CHIN_V 303, CHIN_V 304, CHIN_V 403, CHIN_V 404 and one of CHIN_V 307, CHIN_V 308, CHIN_V 407, CHIN_V 408. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 460": {
+    "subject_code": "CHIN",
+    "course_code": "460",
+    "credit": "3-9",
+    "course_name": "Special Topics in Critical Chinese Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Thematically organized topics in the scholarly and critical studies of Chinese language and culture for advanced Chinese learners. Topics vary from section to section. Consult Department for current offerings."
+  },
+  "CHIN 461": {
+    "subject_code": "CHIN",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Early Classical Chinese Poetry (to Han)",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in classical poetry from the pre-Qin to the end of the Han Dynasties, at an advanced level. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 461 or CHIN_V 464. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 463": {
+    "subject_code": "CHIN",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "Early Classical Chinese Poetry (Han to Tang)",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in classical poetry from the Six Dynasties to early Tang, at an advanced level. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN 441/ 443/ 444/ 445/ 447/ 448/ 435/ 437. Credit will be granted for only one of CHIN 463 or CHIN 464. Recommended pre-requisites: one of CHIN 313, CHIN 314, CHIN 317, CHIN 318, CHIN 323, CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 464": {
+    "subject_code": "CHIN",
+    "course_code": "464",
+    "credit": "6",
+    "course_name": "Early Classical Chinese Poetry (Intensive)",
+    "faculty": "Faculty of Arts",
+    "description": "A combination of CHIN 461 and 463. Classical poetry from pre-Qin to the early Tang Dynasties, at an advanced level. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 464 or both CHIN_V 461, CHIN_V 463. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 465": {
+    "subject_code": "CHIN",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Fantasy in Chinese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Themes in Chinese literature from pre-Qin to the present, with a focus on narratives about the supernatural, the marvelous, and the fantastic. Recommended pre-requisites: one of CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448, or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 466": {
+    "subject_code": "CHIN",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "Chinese Martial Arts Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Chinese martial arts fiction as a form of cultural expression first created in classical Chinese fiction and then evolved into contemporary popular literature. Recommended pre-requisites: one of CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448, or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 467": {
+    "subject_code": "CHIN",
+    "course_code": "467",
+    "credit": "3",
+    "course_name": "Artistic Images in Chinese Literature from the Bronze Age to the Tang",
+    "faculty": "Faculty of Arts",
+    "description": "Visual and material forms of Chinese culture, as represented in literary texts, from 1046 BCE to 978 CE. Emphasis on the interplay between images and words in the formation of ideas and cultures. Credit will be granted for only one of CHIN 467 or CHIN 469. Recommended pre-requisites: one of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448, or placement approval."
+  },
+  "CHIN 468": {
+    "subject_code": "CHIN",
+    "course_code": "468",
+    "credit": "3",
+    "course_name": "Artistic Images in Chinese Literature from the Song to the Present",
+    "faculty": "Faculty of Arts",
+    "description": "Visual and material forms of Chinese culture, as represented in literary texts, from 1082 to 2020. Emphasis on the interplay between images and words in the formation of ideas and cultures. Credit will be granted for only one of CHIN 468 or CHIN 469. Recommended pre-requisites: one of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448, or placement approval."
+  },
+  "CHIN 469": {
+    "subject_code": "CHIN",
+    "course_code": "469",
+    "credit": "6",
+    "course_name": "Artistic Images in Chinese Literature from the Bronze Age to the Present",
+    "faculty": "Faculty of Arts",
+    "description": "Combination of CHIN_V 467 and 468. Visual and material forms of Chinese culture, as represented in literary texts, from 1046 BCE to 2020 CE. Emphasis on the interplay between images and words in the formation of ideas and cultures. Not to be taken concurrently with any of the following: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 469 or both CHIN_V 467, CHIN_V 468. Recommended: one of CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448, or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 470": {
+    "subject_code": "CHIN",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Reading and Writing Classical Chinese Poetry",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and skills of writing major forms of Classical Chinese poetry, including regulated verse and song lyrics. Emphasis on application of poetry and rules to the writing of metrical poems and critique of classical Chinese poetry. Recommended pre-requisites: placement exam certificate and permission of the instructor."
+  },
+  "CHIN 471": {
+    "subject_code": "CHIN",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Later Classical Chinese Poetry (Tang)",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in classical poetry from the time of Du Fu (712-770) to the end of the Tang Dynasty, at an advanced level. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 471 or 474. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 473": {
+    "subject_code": "CHIN",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Later Classical Chinese Poetry (after Tang)",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in classical poetry from the Song to the Qing dynasties, at an advanced level. Not to be taken concurrently with any CHIN courses lower than 400-level. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 473 or 474. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 474": {
+    "subject_code": "CHIN",
+    "course_code": "474",
+    "credit": "6",
+    "course_name": "Later Classical Chinese Poetry (Intensive)",
+    "faculty": "Faculty of Arts",
+    "description": "A combination of CHIN 471 and 473. Classical poetry from the time of Du Fu (712-770) to the end of the Qing Dynasty, at an advanced level. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 474 or both CHIN_V 471, CHIN_V 473. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 480": {
+    "subject_code": "CHIN",
+    "course_code": "480",
+    "credit": "3-12",
+    "course_name": "Tutorial in Chinese for Honours Students",
+    "faculty": "Faculty of Arts",
+    "description": "Will require the presentation of at least one research paper. Review the course section information or consult the Department for details. May be taken for up to a total of 12 credits. Restricted to students in the Honours Asian Area Studies or Asian Language and Culture programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 481": {
+    "subject_code": "CHIN",
+    "course_code": "481",
+    "credit": "3",
+    "course_name": "Modern Chinese Literature I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Selected readings from the May Fourth Era to present. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 481 or CHIN_V 484. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 482": {
+    "subject_code": "CHIN",
+    "course_code": "482",
+    "credit": "3-18",
+    "course_name": "Supervised Study in the Chinese Language",
+    "faculty": "Faculty of Arts",
+    "description": "Focus changes from year to year. Please see Department website (asia.ubc.ca) for further details. Open to undergraduate and graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 483": {
+    "subject_code": "CHIN",
+    "course_code": "483",
+    "credit": "3",
+    "course_name": "Modern Chinese Literature II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Historical continuation of CHIN_V 481. Not to be taken concurrently with any of the following CHIN_V 400-level language courses: CHIN 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 483 or CHIN_V 484. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 484": {
+    "subject_code": "CHIN",
+    "course_code": "484",
+    "credit": "6",
+    "course_name": "Intensive Modern Chinese Literature (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "A combination of CHIN 481 and 483. Selected readings from the May Fourth Era to the present. Not to be taken concurrently with any of the following CHIN_V 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 484 or both CHIN_V 481, CHIN_V 483. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 485": {
+    "subject_code": "CHIN",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Contemporary Chinese Fiction in Film",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary Chinese films from the 21st century adapted from literary works. Recommended pre-requisites: One of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448, or placement approval."
+  },
+  "CHIN 486": {
+    "subject_code": "CHIN",
+    "course_code": "486",
+    "credit": "3",
+    "course_name": "Staging Drama in Modern China",
+    "faculty": "Faculty of Arts",
+    "description": "Development, performance, intercultural interactions, and multi-media adaptations of modern Chinese drama. Recommended pre-requisites: one of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448, or placement approval."
+  },
+  "CHIN 489": {
+    "subject_code": "CHIN",
+    "course_code": "489",
+    "credit": "3",
+    "course_name": "Reading Modern Sinophone Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Sinophone literature produced beyond mainland China after 1949 as a dynamic part of understanding cultural Chineseness in its local, communal and global context. Recommended pre-requisites: one of CHIN 437, CHIN 443, CHIN 444, CHIN 447, CHIN 448, or placement approval."
+  },
+  "CHIN 491": {
+    "subject_code": "CHIN",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Classical Chinese I (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "The development of early Chinese from the classical period through the Six Dynasties (5th century BCE to 6th century CE). Not to be taken concurrently with any of the following CHIN_V 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 491 or CHIN_V 431 or CHIN_V 494. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 493": {
+    "subject_code": "CHIN",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Classical Chinese II (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "Focus in on the Tang and Song dynasties (617 - 1279). Not to be taken concurrently with any of the following CHIN_V 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 493 or CHIN_V 433 or CHIN_V 494. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 494": {
+    "subject_code": "CHIN",
+    "course_code": "494",
+    "credit": "6",
+    "course_name": "Intensive Classical Chinese (Heritage)",
+    "faculty": "Faculty of Arts",
+    "description": "A combination of CHIN_V 491 and 493. Readings on classical philosophy, history, literature, and culture. Not to be taken concurrently with any of the following CHIN 400-level language courses: CHIN_V 441, 443, 444, 445, 447, 448, 435, 437. Credit will be granted for only one of CHIN_V 494 or CHIN_V 434 or both CHIN_V 431, CHIN_V 433 or both CHIN_V 491, CHIN_V 493. Recommended pre-requisites: one of CHIN_V 313, CHIN_V 314, CHIN_V 317, CHIN_V 318, CHIN_V 323, CHIN_V 437, CHIN_V 443, CHIN_V 444, CHIN_V 447, CHIN_V 448. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHIN 496": {
+    "subject_code": "CHIN",
+    "course_code": "496",
+    "credit": "3",
+    "course_name": "Chinese-English Modern Literary Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Practicum in the art of literary translation from modern Chinese into English, covering a range of literary genres and emphasizing peer learning. Open to both heritage and non-heritage students. This course is recommended for students with credit for any 300-level CHIN_V course and placement approval. For more information on placement approval, please visit Placement Tests at http://asia.ubc.ca/undergraduate/placement-tests/."
+  }
+}

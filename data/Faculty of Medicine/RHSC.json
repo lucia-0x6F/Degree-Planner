@@ -1,0 +1,242 @@
+{
+  "RHSC 420": {
+    "subject_code": "RHSC",
+    "course_code": "420",
+    "credit": "4",
+    "course_name": "Elements of Neuroanatomy and Neurophysiology",
+    "faculty": "Faculty of Medicine",
+    "description": "An introduction to the structure and function of the human nervous system. [2-3-0]"
+  },
+  "RHSC 500": {
+    "subject_code": "RHSC",
+    "course_code": "500",
+    "credit": "2",
+    "course_name": "Advanced Concepts for Rehabilitation Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Issues relevant to clinical investigations in rehabilitation. Emphasis on research design, measurement issues, selection of analytical approaches, and relevant epidemiological concepts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 501": {
+    "subject_code": "RHSC",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Evidence for Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 502": {
+    "subject_code": "RHSC",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Rehabilitation Theory",
+    "faculty": "Faculty of Medicine",
+    "description": "The history, evolution and analysis of conceptual systems underlying practice in occupational therapy and physical therapy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 503": {
+    "subject_code": "RHSC",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Reasoning and Decision-Making",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 504": {
+    "subject_code": "RHSC",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 505": {
+    "subject_code": "RHSC",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Measurement for Assessment, Planning, and Evaluation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 506": {
+    "subject_code": "RHSC",
+    "course_code": "506",
+    "credit": "1-6",
+    "course_name": "Current Topics in Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 507": {
+    "subject_code": "RHSC",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Developing Effective Rehabilitation Programs",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 508": {
+    "subject_code": "RHSC",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Cross-Cultural Issues in Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 509": {
+    "subject_code": "RHSC",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Facilitating Learning in Rehabilitation Contexts",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 510": {
+    "subject_code": "RHSC",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Disability: Social, Economic and Political Influence",
+    "faculty": "Faculty of Medicine",
+    "description": "Interrelationships between disability and the social, economic and political environment, with emphasis on factors shaping experiences of health and illness. The social consequences of disability in the context of family, community and workplace. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 512": {
+    "subject_code": "RHSC",
+    "course_code": "512",
+    "credit": "2",
+    "course_name": "Directed Studies in Pathology in Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 514": {
+    "subject_code": "RHSC",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Neuroimaging: Basic Concepts and Applications to Research and Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 515": {
+    "subject_code": "RHSC",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Physical Activity in Health and Chronic Conditions",
+    "faculty": "Faculty of Medicine",
+    "description": "Epidemiology, measurement, physiology, and adoption of physical activity in the prevention and treatment of chronic conditions. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 516": {
+    "subject_code": "RHSC",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Biomechanics in Musculoskeletal Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "Biomechanical analysis of human movement as it pertains to musculoskeletal disorders. Hands-on human movement assessment. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 517": {
+    "subject_code": "RHSC",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Society and Human Occupation",
+    "faculty": "Faculty of Medicine",
+    "description": "Explores society's influence on human occupation, conceptualized as all activities people do based on need, obligation, or preference. As the core construct of the discipline of occupational science and practice of occupational therapy, human occupation is examined for its impact across social, ethical and productive aspects of society. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 519": {
+    "subject_code": "RHSC",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Neurotrauma - from Basic to Community Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Basic, clinical, and rehabilitation research. Challenges with translational approaches and clinical issues facing people living with spinal cord and traumatic brain injury as they transition into the community. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 520": {
+    "subject_code": "RHSC",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Neurorehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "Therapeutic approaches and strategies in physical and occupational therapy for persons with motor control problems resulting from central nervous system dysfunction. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 521": {
+    "subject_code": "RHSC",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Rehabilitation Technology: Theory and Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Explores different technology models, and theories and approaches to assistive and rehabilitation technology design and development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 530": {
+    "subject_code": "RHSC",
+    "course_code": "530",
+    "credit": "1",
+    "course_name": "Research Proposal",
+    "faculty": "Faculty of Medicine",
+    "description": "Development, appraisal and formatting of a research proposal. Emphasis on research writing and critical analysis of a variety of research proposal formats. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 537": {
+    "subject_code": "RHSC",
+    "course_code": "537",
+    "credit": "3",
+    "course_name": "Randomized Intervention Trials in Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "Co-requisite: RHSC 500 or equivalent graduate or senior undergraduate course (300-400 level) on general quantitative and qualitative research methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 549": {
+    "subject_code": "RHSC",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 581": {
+    "subject_code": "RHSC",
+    "course_code": "581",
+    "credit": "1.5-3",
+    "course_name": "Writing to Enhance Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 583": {
+    "subject_code": "RHSC",
+    "course_code": "583",
+    "credit": "1.5-6",
+    "course_name": "Applying Research to Practice",
+    "faculty": "Faculty of Medicine",
+    "description": "Prerequisite: RHSC_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 585": {
+    "subject_code": "RHSC",
+    "course_code": "585",
+    "credit": "3",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Medicine",
+    "description": "Prerequisite: RHSC_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 587": {
+    "subject_code": "RHSC",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "Major Project, Part I",
+    "faculty": "Faculty of Medicine",
+    "description": "Prerequisite: Permission of the project coordinator is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 589": {
+    "subject_code": "RHSC",
+    "course_code": "589",
+    "credit": "3-6",
+    "course_name": "Major Project, Part II",
+    "faculty": "Faculty of Medicine",
+    "description": "Prerequisite: RHSC_V 587. Permission of the project coordinator is also required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 591": {
+    "subject_code": "RHSC",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Leadership in Rehabilitation",
+    "faculty": "Faculty of Medicine",
+    "description": "Leadership approaches, styles and research evidence applied to clinical rehabilitation contexts; Role and critique of emotional intelligence in effective personal leadership practices. Prerequisite: RHSC_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RHSC 699": {
+    "subject_code": "RHSC",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

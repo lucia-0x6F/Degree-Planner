@@ -1,0 +1,922 @@
+{
+  "CHEM 100": {
+    "subject_code": "CHEM",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Foundations of Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Atomic and molecular properties, chemical reactions, bonding, nomenclature, kinetics, equilibrium processes, acids and bases, oxidation and reduction. Intended for students who do not receive a satisfactory score on the UBC Chemistry Basic Skills Test, and need to establish a foundation of chemistry skills before proceeding to other first year chemistry courses. [3-0-1]. Prerequisite: Not open to students with credit for Chemistry 12. Permission of the department head. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 110": {
+    "subject_code": "CHEM",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Structure, Bonding and Equilibrium in Chemistry (Lecture)",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society. [3-0-1]. Prerequisite: Not open to students with credit for Chemistry 12. A satisfactory score on the UBC Chemistry Basic Skills Test. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 111": {
+    "subject_code": "CHEM",
+    "course_code": "111",
+    "credit": "4",
+    "course_name": "Structure, Bonding, and Equilibrium in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of bonding theories, structural chemistry and equilibrium with applications relevant to modern society. [3-3-1] Prerequisite: Not open to students with credit for CHEM 12. A satisfactory score on the UBC Chemistry Basic Skills Test."
+  },
+  "CHEM 115": {
+    "subject_code": "CHEM",
+    "course_code": "115",
+    "credit": "1",
+    "course_name": "Introductory Chemical Laboratory I",
+    "faculty": "Faculty of Science",
+    "description": "An introduction to the principles and techniques of the chemistry laboratory. [0-3-0] Prerequisite: One of CHEM 110, CHEM 120."
+  },
+  "CHEM 120": {
+    "subject_code": "CHEM",
+    "course_code": "120",
+    "credit": "3",
+    "course_name": "Structure and Bonding in Chemistry (Lecture)",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of bonding theories, structural chemistry, with applications relevant to modern society. [3-0-0]. Prerequisite: One of CHEM 12, CHEM_V 100. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 121": {
+    "subject_code": "CHEM",
+    "course_code": "121",
+    "credit": "4",
+    "course_name": "Structure and Bonding in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of bonding theories and structural chemistry, with applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM_V 12, CHEM_V 100. Equivalency: CHEM_V 141"
+  },
+  "CHEM 123": {
+    "subject_code": "CHEM",
+    "course_code": "123",
+    "credit": "4",
+    "course_name": "Thermodynamics, Kinetics and Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-3-0] Prerequisite: One of CHEM 111, CHEM 121, CHEM 141."
+  },
+  "CHEM 130": {
+    "subject_code": "CHEM",
+    "course_code": "130",
+    "credit": "3",
+    "course_name": "Thermodynamics, Kinetics and Organic Chemistry (Lecture)",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of chemical reactivity: thermodynamics; kinetics; organic chemistry, including stereochemistry; applications relevant to modern society. [3-0-0] Prerequisite: One of CHEM 110, CHEM 111, CHEM 120, CHEM 121, CHEM 141."
+  },
+  "CHEM 135": {
+    "subject_code": "CHEM",
+    "course_code": "135",
+    "credit": "1",
+    "course_name": "Introductory Chemical Laboratory II",
+    "faculty": "Faculty of Science",
+    "description": "An introduction to the principles and techniques of the chemistry laboratory. [0-3-0] Prerequisite: One of CHEM 111, CHEM 115, CHEM 121, CHEM 141."
+  },
+  "CHEM 141": {
+    "subject_code": "CHEM",
+    "course_code": "141",
+    "credit": "4",
+    "course_name": "Chemical Bonding, Molecular Structure and Properties for Lab Sciences",
+    "faculty": "Faculty of Science",
+    "description": "Bonding theories, their predictions, experimental tests, and consequences regarding chemical structure and observable properties. Applications relevant to modern society are emphasized. For students interested in lab-focused sciences such as Chemistry, Physics, Biochemistry, Microbiology and related disciplines. Restricted to students in the Faculty of Science. [3-3-0] Prerequisite: One of CHEM 12, CHEM 100. Equivalency: CHEM121"
+  },
+  "CHEM 154": {
+    "subject_code": "CHEM",
+    "course_code": "154",
+    "credit": "3",
+    "course_name": "Chemistry for Engineering",
+    "faculty": "Faculty of Science",
+    "description": "Chemical bonding, properties of matter. Chemical thermodynamics with applications to phase equilibria, aqueous equilibria and electrochemistry. Processes at surfaces. [3-3*-0] Prerequisite: CHEM 12."
+  },
+  "CHEM 203": {
+    "subject_code": "CHEM",
+    "course_code": "203",
+    "credit": "4",
+    "course_name": "Introduction to Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Structure, bonding and physical properties of aliphatic and aromatic compounds; mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-heteroatom bond formation; functional group interconversion and oxidation/reduction reactions. Only open to students in Chemistry or Biochemistry specializations. Credit will be granted for only one of CHEM 203 or CHEM 223, CHEM 225 or CHEM 233, 235. [3-3-0] Prerequisite: Either (a) CHEM 123 or (b) all of CHEM 130, CHEM 135 or (c) SCIE 001."
+  },
+  "CHEM 205": {
+    "subject_code": "CHEM",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Physical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Chemical kinetics and thermodynamics and spectroscopy useful in biological, medical, agricultural, earth, and related sciences. [3-0-0] Prerequisite: Either (a) SCIE 001 or (b) one of MATH 100, MATH 102, MATH 104, MATH 110, MATH 120, MATH 180, MATH 184 and one of CHEM 130, CHEM 123, CHEM 154."
+  },
+  "CHEM 208": {
+    "subject_code": "CHEM",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Coordination Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Fundamental concepts and principles governing bonding and reactivity of coordination complexes: ligand field theory; symmetry and point groups; frontier molecular orbital theory. [3-0-1]. Prerequisite: One of CHEM_V 130, CHEM_V 123, SCIE_V 001. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 210": {
+    "subject_code": "CHEM",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Introduction to Chemical Analysis (Lecture)",
+    "faculty": "Faculty of Science",
+    "description": "Quantitative chemical analysis; chemical and physical principles of spectrophotometry, potentiometry, and chromatography. [3-0-0] Prerequisite: One of CHEM_V 123, CHEM_V 130, SCIE_V 001. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 211": {
+    "subject_code": "CHEM",
+    "course_code": "211",
+    "credit": "4",
+    "course_name": "Introduction to Chemical Analysis",
+    "faculty": "Faculty of Science",
+    "description": "Quantitative chemical analysis; chemical and physical principles of spectrophotometry, potentiometry, and chromatography. [3-3-0]. Prerequisite: Either (a) CHEM_V 123 or (b) all of CHEM_V 130, CHEM_V 135 or (c) SCIE_V 001. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 213": {
+    "subject_code": "CHEM",
+    "course_code": "213",
+    "credit": "3",
+    "course_name": "Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Spectroscopy of organic compounds. Mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-carbon bond formation; functional group interconversion. Preference will be given to students in Chemistry or Biochemistry specializations. [3-0-0] Prerequisite: Either (a) one of CHEM 203, CHEM 223 or (b) a score of 76% or higher in CHEM 233."
+  },
+  "CHEM 215": {
+    "subject_code": "CHEM",
+    "course_code": "215",
+    "credit": "1",
+    "course_name": "Introductory Analytical Chemical Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "An introduction to the principles and techniques in the analytical chemistry laboratory. [0-3-0] Prerequisite: CHEM 210 and one of CHEM 123, CHEM 135."
+  },
+  "CHEM 218": {
+    "subject_code": "CHEM",
+    "course_code": "218",
+    "credit": "3",
+    "course_name": "Fundamentals of Reactivity in Inorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Chemical reactivity of inorganic systems: oxidation/reduction chemistry; multiply-bonded systems; main group chemistry. [3-0-1]. Prerequisite: CHEM_V 208. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 223": {
+    "subject_code": "CHEM",
+    "course_code": "223",
+    "credit": "3",
+    "course_name": "Introduction to Organic Chemistry (Lecture)",
+    "faculty": "Faculty of Science",
+    "description": "Structure, bonding and physical properties of aliphatic and aromatic compounds; mechanistic analysis of chemical reactivity of common functional groups with a focus on carbon-heteroatom bond formation; functional group interconversion and oxidation/reduction reactions. Only open to students in Chemistry or Biochemistry specializations. Students should consult the Credit Exclusion List for credit exclusions relating to second-year organic chemistry courses. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, SCIE 001."
+  },
+  "CHEM 225": {
+    "subject_code": "CHEM",
+    "course_code": "225",
+    "credit": "1",
+    "course_name": "Introductory Synthetic Chemical Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "An introduction to the principles and techniques in the synthetic organic and inorganic chemistry laboratory. [0-3-0] Prerequisite: One of CHEM 123, CHEM 135."
+  },
+  "CHEM 233": {
+    "subject_code": "CHEM",
+    "course_code": "233",
+    "credit": "3",
+    "course_name": "Organic Chemistry for the Biological Sciences",
+    "faculty": "Faculty of Science",
+    "description": "Reactions and properties of carbonyl compounds, carbohydrates, amino acids, nucleic acids. Credit will be granted for only one of CHEM 233 or CHEM 203 or CHEM 223. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, SCIE 001."
+  },
+  "CHEM 235": {
+    "subject_code": "CHEM",
+    "course_code": "235",
+    "credit": "1",
+    "course_name": "Organic Chemistry Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Techniques of organic chemistry. To be taken in conjunction with, or in the term following, CHEM 233. Credit will be granted for only one of CHEM 235 or CHEM 203. [0-3-0] Prerequisite: One of CHEM 123, CHEM 135, SCIE 001. Corequisite: [CHEM233]"
+  },
+  "CHEM 245": {
+    "subject_code": "CHEM",
+    "course_code": "245",
+    "credit": "1",
+    "course_name": "Intermediate Synthetic Chemistry Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Techniques in synthetic organic and inorganic chemistry. Open only to students in Chemistry or Biochemistry specializations. [0-3-1]. Prerequisite: Either (a) CHEM_V 203 or (b) all of CHEM_V 223, CHEM_V 225 or (c) all of CHEM_V 233, CHEM_V 235. Corequisite: CHEM_V 213. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 250": {
+    "subject_code": "CHEM",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Inorganic Chemistry for Engineers",
+    "faculty": "Faculty of Science",
+    "description": "Chemistry of selected groups of inorganic compounds, considered in relation to industrial processes. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, CHEM 154, SCIE 001."
+  },
+  "CHEM 251": {
+    "subject_code": "CHEM",
+    "course_code": "251",
+    "credit": "3",
+    "course_name": "Physical Chemistry for Engineers",
+    "faculty": "Faculty of Science",
+    "description": "States of matter, properties of gases, phase diagrams. Elementary chemical thermodynamics and kinetics. Reaction equilibria. [3-0-1] Prerequisite: One of CHEM 123, CHEM 130, CHEM 154, SCIE 001."
+  },
+  "CHEM 260": {
+    "subject_code": "CHEM",
+    "course_code": "260",
+    "credit": "3",
+    "course_name": "Organic Chemistry for Engineers",
+    "faculty": "Faculty of Science",
+    "description": "A description of the properties and reactions of organic compounds. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, CHEM 154, SCIE 001."
+  },
+  "CHEM 300": {
+    "subject_code": "CHEM",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Communicating Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Effective argumentation and communication skills in chemistry. Only open to students in a Chemistry specialization. [1-0-3]. Prerequisite: Third year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 301": {
+    "subject_code": "CHEM",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Aqueous Environmental Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Properties and composition of natural waters, including gas and solid equilibria, pH and acidification, redox chemistry, complexation, corrosion, ion exchange, colloids and microbial transformations. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, CHBE 220. and Third year standing."
+  },
+  "CHEM 302": {
+    "subject_code": "CHEM",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Atmospheric Environmental Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to structure, composition and chemical processes occurring in Earth's atmosphere, including interactions with solar radiation, stratospheric ozone layer, photochemical smog and acid rain. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130, CHBE 220. and Third year standing."
+  },
+  "CHEM 304": {
+    "subject_code": "CHEM",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Fundamentals of Thermodynamics and Statistical Mechanics",
+    "faculty": "Faculty of Science",
+    "description": "Principles of chemical thermodynamics; introduction to statistical mechanics; phase equilibria; electrochemistry. [3-0-1] Prerequisite: One of CHEM_V 123, CHEM_V 130 and one of MATH_V 200, MATH_V 217, MATH_V 226, MATH_V 253."
+  },
+  "CHEM 305": {
+    "subject_code": "CHEM",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Biophysical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Diffusion and transport phenomena; interaction of radiation and matter. Methods for determining molecular weight, size, and shape of molecules in solution. [3-0-0] Prerequisite: One of MATH 200, MATH 217, MATH 226, MATH 253 and either (a) a score of 76% or higher in CHEM 205 or (b) CHEM 304 or (c) PHYS 203."
+  },
+  "CHEM 311": {
+    "subject_code": "CHEM",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Instrumental Analytical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Theory, design, and application of instrumental methods of chemical analysis including spectroscopy, mass spectrometry, electroanalysis, and chemical separations. [3-0-1] Prerequisite: One of CHEM_V 210, CHEM_V 211."
+  },
+  "CHEM 312": {
+    "subject_code": "CHEM",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Introduction to Quantum Mechanics and Spectroscopy",
+    "faculty": "Faculty of Science",
+    "description": "Principles of quantum mechanics; atomic wavefunctions; angular momentum; spin; atomic term symbols. [3-0-1] Prerequisite: One of CHEM_V 123, SCIE_V 001 and one of MATH_V 200, MATH_V 217, MATH_V 226, MATH_V 253."
+  },
+  "CHEM 313": {
+    "subject_code": "CHEM",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Advanced Organic Chemistry for the Life Sciences",
+    "faculty": "Faculty of Science",
+    "description": "Chemistry of organic substances having particular relevance to the life sciences. [3-0-0] Prerequisite: CHEM 213."
+  },
+  "CHEM 315": {
+    "subject_code": "CHEM",
+    "course_code": "315",
+    "credit": "1",
+    "course_name": "Chemistry Integrated Laboratory I",
+    "faculty": "Faculty of Science",
+    "description": "Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. [0-4-0] Prerequisite: One of CHEM 211, CHEM 215 and all of CHEM 213, CHEM 245."
+  },
+  "CHEM 318": {
+    "subject_code": "CHEM",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Principles of Catalysis",
+    "faculty": "Faculty of Science",
+    "description": "Fundamental aspects of chemical catalysis: kinetic models; catalytic processes in biochemistry and industry; emerging topics in catalysis. [3-0-0]. Prerequisite: One of CHEM_V 218, CHEM_V 250. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 319": {
+    "subject_code": "CHEM",
+    "course_code": "319",
+    "credit": "1",
+    "course_name": "Practical Skills for Chemical Research",
+    "faculty": "Faculty of Science",
+    "description": "The nature of scientific research; practical skills for chemical research; communicating science. Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing. [1-0-0.5]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 325": {
+    "subject_code": "CHEM",
+    "course_code": "325",
+    "credit": "2",
+    "course_name": "Integrated Chemistry Laboratory I",
+    "faculty": "Faculty of Science",
+    "description": "Principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry specializations. [0-8-0] Prerequisite: One of CHEM 211, CHEM 215 and all of CHEM 208, CHEM 213, CHEM 245."
+  },
+  "CHEM 327": {
+    "subject_code": "CHEM",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Introduction to Materials Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Basic principles of materials chemistry: classification; nomenclature; synthetic methods; characterization. [3-0-0]. Prerequisite: One of CHEM_V 208, CHEM_V 250 and one of CHEM_V 203, CHEM_V 223, CHEM_V 233, CHEM_V 260. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 329": {
+    "subject_code": "CHEM",
+    "course_code": "329",
+    "credit": "1",
+    "course_name": "Research Ethics and Data Analysis Skills",
+    "faculty": "Faculty of Science",
+    "description": "Research ethics; data analysis skills for chemical research. Restricted to Honours students with third year standing and, with permission of the department Head, to Major students with satisfactory third year standing. [1-0-0.5]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 330": {
+    "subject_code": "CHEM",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Advanced Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Application of carbonyl group chemistry, cyclization reactions, conformational analysis and rearrangement reactions in organic synthesis. [3-0-0] Prerequisite: CHEM 213."
+  },
+  "CHEM 335": {
+    "subject_code": "CHEM",
+    "course_code": "335",
+    "credit": "1",
+    "course_name": "Chemistry Integrated Laboratory II",
+    "faculty": "Faculty of Science",
+    "description": "Further development of principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. [0-4-0] Prerequisite: CHEM 315."
+  },
+  "CHEM 341": {
+    "subject_code": "CHEM",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Global Challenges: A Chemical Perspective",
+    "faculty": "Faculty of Science",
+    "description": "Importance of chemistry in society. Detailed case studies drawn from modern chemistry: human health, energy, commodity chemicals, materials, green chemistry, agriculture. [3-0-0] Prerequisite: one of CHEM_V 203, CHEM_V 211, CHEM_V 223, CHEM_V 233, CHEM_V 260."
+  },
+  "CHEM 345": {
+    "subject_code": "CHEM",
+    "course_code": "345",
+    "credit": "2",
+    "course_name": "Integrated Chemistry Laboratory II",
+    "faculty": "Faculty of Science",
+    "description": "Further development of principles and techniques of modern chemistry applied by integrating experiments chosen from organic, inorganic, physical, and analytical chemistry. Open only to students in Chemistry Major or Honours specializations. [0-8-0] Prerequisite: CHEM_V 325."
+  },
+  "CHEM 355": {
+    "subject_code": "CHEM",
+    "course_code": "355",
+    "credit": "1",
+    "course_name": "Chemistry Integrated Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Principles and techniques of modern chemistry for students in Combined Major in Science or a Minor in Chemistry integrating experiments from organic, inorganic, physical and analytical chemistry. [0-4-0] Prerequisite: One of CHEM 203, CHEM 211, CHEM 235."
+  },
+  "CHEM 398": {
+    "subject_code": "CHEM",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Taken during the winter term of the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Chemistry. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 399": {
+    "subject_code": "CHEM",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Taken during the summer following the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Chemistry. Prerequisite: CHEM_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 401": {
+    "subject_code": "CHEM",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Principles of Spectroscopy",
+    "faculty": "Faculty of Science",
+    "description": "Rotational, vibrational, electronic and magnetic resonance spectroscopy and associated techniques; group theory. [3-0-0] Prerequisite: One of MATH_V 111, MATH_V 131, MATH_V 152, MATH_V 221, MATH_V 223 and one of CHEM_V 312, PHYS_V 304."
+  },
+  "CHEM 402": {
+    "subject_code": "CHEM",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Diffraction Methods",
+    "faculty": "Faculty of Science",
+    "description": "Crystal structures; point and space groups; X-ray diffraction, neutron diffraction, electron diffraction of gases and surfaces. Credit will be granted for only one of CHEM 402 or CHEM 514. [3-0-0] Prerequisite: CHEM 208."
+  },
+  "CHEM 403": {
+    "subject_code": "CHEM",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Surface Chemistry and Surface Analysis",
+    "faculty": "Faculty of Science",
+    "description": "Surfaces and phenomena occurring at surfaces and interfaces: adsorption, thermodynamic treatments, technological applications. Methods for characterization and modification of surfaces. Dynamic electrochemistry and its application to understanding fuel cells. [3-0-0] Prerequisite: CHEM_V 304 and one of MATH_V 200, MATH_V 217, MATH_V 226, MATH_V 253."
+  },
+  "CHEM 404": {
+    "subject_code": "CHEM",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Computational Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Application of numerical techniques to study chemical systems; molecular simulation. Prior computer programming experience is not required. [3-0-1]. Prerequisite: Either (a) SCIE_V 001 or (b) one of CHEM_V 123, CHEM_V 130, CHEM_V 154 and one of PHYS_V 106, PHYS_V 107, PHYS_V 108, PHYS_V 117, PHYS_V 118, PHYS_V 170 and one of MATH_V 101, MATH_V 103, MATH_V 105, MATH_V 121 and Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 405": {
+    "subject_code": "CHEM",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Biophysical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Interactions of macromolecules in solution: ligand, antibody and ion binding to macromolecules; thermodynamics of polymer solutions; excluded volume effects; phase separation; partition in two phase polymer solutions. [3-0-0] Prerequisite: One of CHEM 304, CHEM 305, PHYS 203."
+  },
+  "CHEM 406": {
+    "subject_code": "CHEM",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Polymer Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Structure and availability of monomers; Propagation mechanisms; synthesis of polymers with predetermined properties; measurement and interpretation of physical properties of polymers. [3-0-0] Prerequisite: One of CHEM 213, CHEM 260 and one of CHEM 205, CHEM 304, CHBE 220."
+  },
+  "CHEM 407": {
+    "subject_code": "CHEM",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Statistical Mechanics in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Introductory concepts of statistical mechanics and statistical thermodynamics. Applications to chemistry with emphasis on understanding chemical reactivity. Credit will be granted for only one of CHEM 503/CHEM 407 or PHYS 455. [3-0-0] Prerequisite: One of CHEM 304, PHYS 203."
+  },
+  "CHEM 408": {
+    "subject_code": "CHEM",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Chemical Dynamics",
+    "faculty": "Faculty of Science",
+    "description": "Macroscopic and microscopic kinetics; photochemistry; theory of reaction rates; reaction cross sections, energy distributions, experimental methods. Credit will be granted for only one of CHEM 408 or CHEM 508. [3-0-0] Prerequisite: One of CHEM 304, PHYS 203 and one of CHEM 312, PHYS 304."
+  },
+  "CHEM 409": {
+    "subject_code": "CHEM",
+    "course_code": "409",
+    "credit": "3",
+    "course_name": "Astrochemistry",
+    "faculty": "Faculty of Science",
+    "description": "Application of physical chemistry concepts and principles to the study of molecules in interstellar media and celestial bodies. Credit will be granted for only one of CHEM 409 or CHEM 509. [3-0-0] Prerequisite: One of CHEM 312, PHYS 304. Students with CHEM 205 with a minimum grade of 76% may be admitted with permission of the instructor."
+  },
+  "CHEM 410": {
+    "subject_code": "CHEM",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Properties of Materials",
+    "faculty": "Faculty of Science",
+    "description": "Electromagnetic, optical, thermal and mechanical properties, and chemical reactivity of solids; electrons in periodic systems: bands, zones; excitations: excitons, phonons, plasmons, polaritons; crystalline order and disorder; ionic conductivity. Credit will be granted for only one of CHEM 410 or CHEM 502. [3-0-0] Prerequisite: One of CHEM 304, PHYS 203 and one of CHEM 312, PHYS 304."
+  },
+  "CHEM 411": {
+    "subject_code": "CHEM",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Synthesis and Chemistry of Natural Products",
+    "faculty": "Faculty of Science",
+    "description": "Methods and tactics for the synthesis of biologically active natural products and analogs, particularly alkaloids, polyketides, steroids and terpenes. Credit will be granted for only one of CHEM 411 or CHEM 566. [3-0-0] Prerequisite: CHEM 460."
+  },
+  "CHEM 412": {
+    "subject_code": "CHEM",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Electronic Structure of Atoms and Molecules",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to variational methods; many-electron systems; semi-empirical methods; perturbation theory; computational methods. [3-0-0] Prerequisite: One of CHEM_V 312, PHYS_V 304 and one of MATH_V 111, MATH_V 131, MATH_V 152, MATH_V 221, MATH_V 223."
+  },
+  "CHEM 413": {
+    "subject_code": "CHEM",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Bioorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Enzyme catalysis; mechanistic enzymology; chemistry of cofactors; biosynthetic transformations; natural product biosynthesis; topics in chemical biology. Credit will be granted for only one of CHEM_V 413, CHEM_V 569, or BIOC_V 403. [3-0-0] Prerequisite: One of CHEM_V 313, CHEM_V 330."
+  },
+  "CHEM 414": {
+    "subject_code": "CHEM",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Coordination Chemistry of the Transition Elements",
+    "faculty": "Faculty of Science",
+    "description": "Molecular and electronic structures and reactivities of coordination compounds of the transition elements. Credit will be granted for only one of CHEM 414 or CHEM 525. [3-0-0] Prerequisite: CHEM 218."
+  },
+  "CHEM 416": {
+    "subject_code": "CHEM",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Physical and Theoretical Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Energetics and catalysis in organic reactions. Pericyclic reactions. Substituent effects. Linear free energy relationships. Credit will be granted for only one of CHEM_V 416 or CHEM_V 563. [3-0-0] Prerequisite: One of CHEM_V 313, CHEM_V 330."
+  },
+  "CHEM 417": {
+    "subject_code": "CHEM",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Nuclear Chemistry and Radiochemistry",
+    "faculty": "Faculty of Science",
+    "description": "Basic treatment of the nucleus, with analogy to concepts in chemistry. Nuclear stabilities and associated radioactive decay processes. Nuclear structure. Applications of radioisotopes in chemistry. The interaction of radiation with matter. [3-0-0] Prerequisite: One of CHEM 123, CHEM 130. and Third year standing. CHEM 312 is recommended."
+  },
+  "CHEM 418": {
+    "subject_code": "CHEM",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Organometallic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "The chemistry of compounds containing organic groups directly bonded to metals and metalloids. Emphasis will be placed on the structure and bonding of the compounds and their use in synthetic chemistry. Credit will be granted for only one of CHEM 418 or CHEM 524. [3-0-0] Prerequisite: CHEM 318."
+  },
+  "CHEM 419": {
+    "subject_code": "CHEM",
+    "course_code": "419",
+    "credit": "1",
+    "course_name": "Establishing a Career in Chemical Research",
+    "faculty": "Faculty of Science",
+    "description": "Current research and career perspectives in chemistry. Restricted to Honours students with fourth year standing and, with permission of the department Head, to Major students with satisfactory fourth year standing. [1-0-0.5]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 427": {
+    "subject_code": "CHEM",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Applications of Materials Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Contemporary materials chemistry, including design and synthesis of materials for energy, electronics, and health applications. [3-0-0] Prerequisite: CHEM 327."
+  },
+  "CHEM 430": {
+    "subject_code": "CHEM",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Developments in Contemporary Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "A review of modern developments in general chemistry for teachers of Secondary School chemistry (Not for credit in the Faculty of Science). Course is offered periodically in extra-sessional sessions."
+  },
+  "CHEM 434": {
+    "subject_code": "CHEM",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Principles of Chemical Separation",
+    "faculty": "Faculty of Science",
+    "description": "Unified theory of separation science; liquid and gas chromatography; capillary electrophoresis; electrochemical and spectroscopic detection; separation methods coupled with mass spectrometry and tandem mass spectrometry; biochemical applications. Credit will be granted for only one of CHEM 434 or CHEM 534. [3-0-0] Prerequisite: CHEM 311."
+  },
+  "CHEM 435": {
+    "subject_code": "CHEM",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Bio-Inorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "A discussion of the involvement of inorganic chemistry in biological systems. Chemistry of cations, metalloenzymes, and simpler model systems. Reactions of coordinated ligands, chemistry of sulfur and phosphorus. Credit will be granted for only one of CHEM 435 or CHEM 526. [3-0-0] Prerequisite: All of CHEM 218, CHEM 304."
+  },
+  "CHEM 445": {
+    "subject_code": "CHEM",
+    "course_code": "445",
+    "credit": "3-6",
+    "course_name": "Projects in Experimental Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Principles of experimental design, practice and problem solving in chemistry, including the opportunity to pursue projects in a research setting. Students cannot take both CHEM_V 445 and CHEM_V 449. [0-8-0] Prerequisite: One of CHEM_V 345, CHEM_V 335. Students satisfying the prerequisite requirement using CHEM_V 335 must have 4th-year class standing in a Chemistry Combined Major specialization."
+  },
+  "CHEM 448": {
+    "subject_code": "CHEM",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Students will undertake an investigation of a specific topic as agreed upon by the student and the faculty supervisor. Open to third- and fourth-year chemistry students."
+  },
+  "CHEM 449": {
+    "subject_code": "CHEM",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Seminar and Thesis",
+    "faculty": "Faculty of Science",
+    "description": "Original research work under the direction of a faculty member. Weekly seminar. Required of all Honours students. Open to Majors students with a satisfactory standing and permission of the department head. Students cannot take both CHEM_V 445 and CHEM_V 449. Prerequisite: Students will have completed their Year 3 laboratory requirements as outlined in their specialization."
+  },
+  "CHEM 460": {
+    "subject_code": "CHEM",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Organic Synthesis: A Mechanistic Approach",
+    "faculty": "Faculty of Science",
+    "description": "Presentation, mechanistic discussion and analysis of modern synthetic methods using principles of physical organic chemistry. Credit will be granted for only one of CHEM 460 or CHEM 560. [3-0-0] Prerequisite: CHEM 330."
+  },
+  "CHEM 461": {
+    "subject_code": "CHEM",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Synthetic Chemical Biology",
+    "faculty": "Faculty of Science",
+    "description": "Synthetic, mechanistic, and biochemical approaches to chemical biology, including the design of drugs, probes, and catalysts. Credit will be granted for only one of CHEM_V 461 or CHEM_V 561. [3-0-0]. Prerequisite: One of CHEM_V 313, CHEM_V 330. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 473": {
+    "subject_code": "CHEM",
+    "course_code": "473",
+    "credit": "3",
+    "course_name": "Structure Determination and Reaction Analysis",
+    "faculty": "Faculty of Science",
+    "description": "Application of mass spectrometry and modern spectroscopic techniques, including multidimensional NMR spectroscopy, to reaction analysis and detailed characterization of complex organic and organometallic molecular structures. [3-0-0] Prerequisite: CHEM 245 and one of CHEM 313, CHEM 318, CHEM 330."
+  },
+  "CHEM 488": {
+    "subject_code": "CHEM",
+    "course_code": "488",
+    "credit": "3-6",
+    "course_name": "Topics in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Selected topics in a specific area of Chemistry. May be taken more than once for credit with permission of the Department. [3-0-0] Prerequisite: Third-year standing in a Chemistry specialization and permission of the Department."
+  },
+  "CHEM 498": {
+    "subject_code": "CHEM",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Taken during the summer following fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Chemistry. Prerequisite: CHEM_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 499": {
+    "subject_code": "CHEM",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Taken during the fall term of the fifth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Chemistry. Prerequisite: [CHEM498]"
+  },
+  "CHEM 501": {
+    "subject_code": "CHEM",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Applications of Quantum Mechanics in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 502": {
+    "subject_code": "CHEM",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Advanced Physical Chemistry of the Solid State",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 502 or CHEM_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 503": {
+    "subject_code": "CHEM",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Equilibrium Statistical Mechanics in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Introductory principles of Statistical Mechanics with illustrations of chemical importance. Applications to molecular gases, liquids, solids, independent particle statistics, electric and magnetic moments, radiation, chemical equilibrium and reaction rates. Credit will be granted for only one of CHEM_V 407, CHEM_V 503 or PHYS_V 455. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 506": {
+    "subject_code": "CHEM",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Polymer Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 506 or CHEM_V 406. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 507": {
+    "subject_code": "CHEM",
+    "course_code": "507",
+    "credit": "3-6",
+    "course_name": "Topics in Physical and Theoretical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 508": {
+    "subject_code": "CHEM",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Chemical Kinetics and Reaction Dynamics",
+    "faculty": "Faculty of Science",
+    "description": "Macroscopic and microscopic kinetics; transition state theory; collision theory and reaction cross section, energy distributions, molecular beams and experimental techniques. Credit will be granted for only one of CHEM 408_V or CHEM_V 508. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 509": {
+    "subject_code": "CHEM",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Astrochemistry",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM 509 or CHEM 409. [3-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 512": {
+    "subject_code": "CHEM",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Advanced Electronic Structure Theory",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 513": {
+    "subject_code": "CHEM",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Surface Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Chemistry of the solid-gas interface: Modern methods for investigation of the structure of solid surfaces and interactions between solid surfaces and gases. Theory of adsorption, surface reactivity, and heterogeneous catalysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 514": {
+    "subject_code": "CHEM",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Crystal Structures",
+    "faculty": "Faculty of Science",
+    "description": "Crystal structures and structural analysis by the methods of X-ray diffraction and neutron diffraction. Credit will be granted for only one of CHEM_V 402 or CHEM_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 516": {
+    "subject_code": "CHEM",
+    "course_code": "516",
+    "credit": "3-6",
+    "course_name": "Topics in Biophysical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 517": {
+    "subject_code": "CHEM",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Electrochemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 518": {
+    "subject_code": "CHEM",
+    "course_code": "518",
+    "credit": "3-6",
+    "course_name": "Topics in Magnetic Resonance",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 519": {
+    "subject_code": "CHEM",
+    "course_code": "519",
+    "credit": "3-6",
+    "course_name": "Topics in Molecular Spectroscopy",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 521": {
+    "subject_code": "CHEM",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Topics in Inorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 524": {
+    "subject_code": "CHEM",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Advanced Applications in Organometallic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 418 or CHEM_V 524. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 525": {
+    "subject_code": "CHEM",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Advanced Coordination Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 525 or CHEM_V 414. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 526": {
+    "subject_code": "CHEM",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Bioinorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Inorganic aspects of biological chemistry; emphasis on the role of metal ions and metalloenzymes. Credit will be granted for only one of CHEM_V 526 or CHEM_V 435. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 527": {
+    "subject_code": "CHEM",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Nanomaterials",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 528": {
+    "subject_code": "CHEM",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Nanomaterials Characterization",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 529": {
+    "subject_code": "CHEM",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Structural Methods in Inorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "NMR, ESR, mass spectrometry, photoelectron spectroscopy (Auger, UV, X-Ray), Mossbauer spectroscopy, electrochemistry. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 533": {
+    "subject_code": "CHEM",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Bioanalytical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 534": {
+    "subject_code": "CHEM",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Principles of Chemical Separation",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 534 or CHEM_V 434. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 535": {
+    "subject_code": "CHEM",
+    "course_code": "535",
+    "credit": "3-6",
+    "course_name": "Topics in Analytical Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 540": {
+    "subject_code": "CHEM",
+    "course_code": "540",
+    "credit": "1",
+    "course_name": "Seminar in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 548": {
+    "subject_code": "CHEM",
+    "course_code": "548",
+    "credit": "0",
+    "course_name": "Research Conference",
+    "faculty": "Faculty of Science",
+    "description": "Attendance is compulsory for all graduate students in each year of registration for the M.Sc. or Ph.D. in chemistry. No credit value. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 549": {
+    "subject_code": "CHEM",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 560": {
+    "subject_code": "CHEM",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Organic Chemistry: Building Molecules and Understanding Reactivity",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 460 or CHEM_V 560. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 561": {
+    "subject_code": "CHEM",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Advanced Chemical Biology",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 461 and CHEM_V 561. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 563": {
+    "subject_code": "CHEM",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Advanced Physical Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Discussion of acidity functions, photochemistry and reactive intermediates in organic chemistry. Applications of molecular orbital theory to organic systems. Credit will be granted for only one of CHEM_V 563 or CHEM_V 416. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 566": {
+    "subject_code": "CHEM",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Advanced Organic Synthesis",
+    "faculty": "Faculty of Science",
+    "description": "Discussion of modern synthetic methods and applications to the synthesis of complex organic molecules. Credit will be granted for only one of CHEM_V 566 or CHEM_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 568": {
+    "subject_code": "CHEM",
+    "course_code": "568",
+    "credit": "3-6",
+    "course_name": "Topics in Organic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 569": {
+    "subject_code": "CHEM",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Advanced Bioorganic Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "Credit will be granted for only one of CHEM_V 569, CHEM_V 413, or BIOC_V 403. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 573": {
+    "subject_code": "CHEM",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Application of Spectroscopy to Organic Structural Determinations",
+    "faculty": "Faculty of Science",
+    "description": "A problem solving course to illustrate the application of NMR, mass spectrometry, ORD, CD, etc. to elucidation of structures of organic and organometallic compounds. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 588": {
+    "subject_code": "CHEM",
+    "course_code": "588",
+    "credit": "1-6",
+    "course_name": "Topics in Chemistry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CHEM 649": {
+    "subject_code": "CHEM",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

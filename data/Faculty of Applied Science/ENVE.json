@@ -1,0 +1,50 @@
+{
+  "ENVE 200": {
+    "subject_code": "ENVE",
+    "course_code": "200",
+    "credit": "4",
+    "course_name": "Environmental Engineering Design and Decision Making",
+    "faculty": "Faculty of Applied Science",
+    "description": "Environmental Engineering design and decision-making, analysis tools and techniques, data illustration and other communication techniques, professional development including ethics and equity. Subject themes include water, air and soil. [3-0-2]. Prerequisite: Second-year standing in ENVL. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVE 201": {
+    "subject_code": "ENVE",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Technical Communications for Environmental Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "All aspects of technical communication, including report preparation, business correspondence, and oral presentation, applied to environmental engineering specific cases and projects. [3-0-0] Prerequisite: One of APSC_V 176, ENGL_V 110, ENGL_V 111, ENGL_V 112, ENGL_V 120, ENGL_V 121, WRDS_V 150. Corequisite: ENVE_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVE 202": {
+    "subject_code": "ENVE",
+    "course_code": "202",
+    "credit": "4",
+    "course_name": "Environmental Engineering Science",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of integrated environmental systems, quantification of fundamental chemical and biological processes, systems design, evaluation of environmental impact, future trends. [3-2-0]. Prerequisite: All of CIVL_V 204 and CHBE_V 241, and either CHEM_V 154 or all of CHEM_V 121, CHEM_V 123. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVE 203": {
+    "subject_code": "ENVE",
+    "course_code": "203",
+    "credit": "4",
+    "course_name": "Environmental Engineering and Sustainability",
+    "faculty": "Faculty of Applied Science",
+    "description": "Sustainability vocabulary and systems theory relevant to environmental engineering practice, foundational sustainability topics including those relating to urban ecology, industrial ecology/circular economy, and humanitarian engineering, stakeholder analysis, communication, and adaptive change leadership skills [3-0-2] Prerequisite: ENVE_V 200."
+  },
+  "ENVE 301": {
+    "subject_code": "ENVE",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Environmental Engineering Intermediate Design Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Real-time, fully-integrated, conceptual and detailed design experiences that address an ill-structured, socially and technically complex environmental engineering problem for communities with consideration to the cultural history and needs of the communities. Restricted to students in ENVE or ENVL with third-year or higher standing. [2-0-3] Prerequisite: ENVE_V 203. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ENVE 401": {
+    "subject_code": "ENVE",
+    "course_code": "401",
+    "credit": "8",
+    "course_name": "Environmental Engineering Capstone Project",
+    "faculty": "Faculty of Applied Science",
+    "description": "Application of chemical, biological, and environmental science; engineering concepts; sustainable development and health and safety considerations; engineering economics; and life cycle analysis. Conceptual and detailed design for a multi-scale and complex environment health and protection problem. [2-0-4; 2-0-4]. Prerequisite: All of CHBE_V 244, CHBE_V 373, ENVE_V 301 and fourth-year standing in ENVL. Corequisites: CIVL_V 402, CIVL_V 416. This course is not eligible for Credit/D/Fail grading."
+  }
+}

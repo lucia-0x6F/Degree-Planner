@@ -1,0 +1,58 @@
+{
+  "UROL 510": {
+    "subject_code": "UROL",
+    "course_code": "510",
+    "credit": "2",
+    "course_name": "Advanced Urology I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UROL 511": {
+    "subject_code": "UROL",
+    "course_code": "511",
+    "credit": "2",
+    "course_name": "Advanced Urology II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UROL 760": {
+    "subject_code": "UROL",
+    "course_code": "760",
+    "credit": "0",
+    "course_name": "Urology Conference I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UROL 761": {
+    "subject_code": "UROL",
+    "course_code": "761",
+    "credit": "0",
+    "course_name": "Urology Conference II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UROL 762": {
+    "subject_code": "UROL",
+    "course_code": "762",
+    "credit": "0",
+    "course_name": "Urologic Radiology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UROL 764": {
+    "subject_code": "UROL",
+    "course_code": "764",
+    "credit": "0",
+    "course_name": "Urology Seminars",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "UROL 765": {
+    "subject_code": "UROL",
+    "course_code": "765",
+    "credit": "0",
+    "course_name": "Operative Urologic Surgery",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,106 @@
+{
+  "CCFI 501": {
+    "subject_code": "CCFI",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Living Inquiry in Learning Communities",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 502": {
+    "subject_code": "CCFI",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Theorizing Knowing in Education",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 508": {
+    "subject_code": "CCFI",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Review of Research in Educational Methods",
+    "faculty": "Faculty of Education",
+    "description": "Studies are made of recent research bearing on educational practice. Prerequisite: Appropriate senior undergraduate introductory or methods course is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 561": {
+    "subject_code": "CCFI",
+    "course_code": "561",
+    "credit": "3-12",
+    "course_name": "Laboratory Practicum",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 565": {
+    "subject_code": "CCFI",
+    "course_code": "565",
+    "credit": "3-6",
+    "course_name": "Special Course in Subject Matter Field",
+    "faculty": "Faculty of Education",
+    "description": "Courses in various subject matter fields designed to bring teachers up to date in recent findings in each field. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 567": {
+    "subject_code": "CCFI",
+    "course_code": "567",
+    "credit": "3-6",
+    "course_name": "Problems and Issues in Elementary Education",
+    "faculty": "Faculty of Education",
+    "description": "Recent developments, current issues, analysis, and evaluation of research in elementary education. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 572": {
+    "subject_code": "CCFI",
+    "course_code": "572",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Cross-Faculty Inquiry in Education",
+    "faculty": "Faculty of Education",
+    "description": "Examination of current theories and practices in education emphasizing factors affecting decision-making. The emphasis of the seminar will vary according to faculty and student interests and students will be encouraged to investigate an area of personal concern and present their findings. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 580": {
+    "subject_code": "CCFI",
+    "course_code": "580",
+    "credit": "3-12",
+    "course_name": "Problems in Education",
+    "faculty": "Faculty of Education",
+    "description": "Investigation and report of a problem. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 590": {
+    "subject_code": "CCFI",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Graduating Paper",
+    "faculty": "Faculty of Education",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 598": {
+    "subject_code": "CCFI",
+    "course_code": "598",
+    "credit": "3-12",
+    "course_name": "Field Experiences",
+    "faculty": "Faculty of Education",
+    "description": "For those on master's, doctoral, and diploma programs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 599": {
+    "subject_code": "CCFI",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 601": {
+    "subject_code": "CCFI",
+    "course_code": "601",
+    "credit": "3-12",
+    "course_name": "Doctoral Seminar",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCFI 699": {
+    "subject_code": "CCFI",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Education",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

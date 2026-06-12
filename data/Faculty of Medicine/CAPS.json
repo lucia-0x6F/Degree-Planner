@@ -1,0 +1,234 @@
+{
+  "CAPS 200": {
+    "subject_code": "CAPS",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Biomedical Research: Essential Skills and Concepts",
+    "faculty": "Faculty of Medicine",
+    "description": "Analysis of the underlying questions and assumptions, experimental approach, results and significance of work described in selected biomedical research presentations. [3-0-0] Prerequisite: BIOL 200. Limited to students in second year."
+  },
+  "CAPS 205": {
+    "subject_code": "CAPS",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Fundamentals of Physiology in Human Health and Disease I",
+    "faculty": "Faculty of Medicine",
+    "description": "The principles of physiological regulation of neuromuscular, cardiovascular and blood systems in the human body with practical applications in health and disease. Credit will only be granted for one of CAPS_V 301 or CAPS_V 205. [3-0-0] Prerequisite: a) All of BIOL_V 112, CHEM_V 123 and 100-level PHYS_V beyond PHYS_V 100 or b) SCIE_V 001."
+  },
+  "CAPS 206": {
+    "subject_code": "CAPS",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Fundamentals of Physiology in Human Health and Disease II",
+    "faculty": "Faculty of Medicine",
+    "description": "The principles of physiological regulation of respiratory, renal, gastrointestinal, endocrine and reproductive systems in the human body with practical applications in health and disease. Credit will only be granted for one of CAPS_V 301 or CAPS_V 206. [3-0-0] Prerequisite: a) All of BIOL_V 112, CHEM_V 123 and 100-level PHYS_V beyond PHYS_V 100 or b) SCIE_V 001."
+  },
+  "CAPS 210": {
+    "subject_code": "CAPS",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Human Health Literacy",
+    "faculty": "Faculty of Medicine",
+    "description": "An on-line course teaching students to research and understand relevant health diagnoses. Not for students with Biology 12, Anatomy and Physiology 12, or enrolled in the Faculties of Science, Land and Food Systems, Pharmaceutical Sciences, Applied Science or School of Kinesiology. [3-0-0]"
+  },
+  "CAPS 301": {
+    "subject_code": "CAPS",
+    "course_code": "301",
+    "credit": "6",
+    "course_name": "Human Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Organ systems function with particular reference to mammalian and human physiology. See credit exclusion list: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. Credit will only be granted for one of CAPS 301 or CAPS 205. Credit will only be granted for one of CAPS 301 or CAPS 206. [3-0-0;3-0-0] Prerequisite: Either (a) SCIE 001 or (b) all of BIOL 112, BIOL 121 and one of MATH 101, MATH 103, MATH 105, MATH 121 and one of PHYS 100, PHYS 101, PHYS 107, PHYS 117, PHYS 131 and one of CHEM 203, CHEM 233, CHEM 260."
+  },
+  "CAPS 302": {
+    "subject_code": "CAPS",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Human Physiology Laboratory",
+    "faculty": "Faculty of Medicine",
+    "description": "Physiological techniques and principles. Must be taken in conjunction with CAPS 301. Enrolment limited. Available only to students in the Faculty of Pharmaceutical Sciences. [0-3]"
+  },
+  "CAPS 303": {
+    "subject_code": "CAPS",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Laboratory in Human Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Techniques and principles of human physiology. Restricted to Cellular, Anatomical and Physiological Sciences and Pharmacology students. [1-4-0] Prerequisite: Both of CAPS_V 205, CAPS_V 206; or corequisite: CAPS_V 301."
+  },
+  "CAPS 305": {
+    "subject_code": "CAPS",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Integrated Human Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "An integrated study of advanced physiological processes and the consequences of dysregulation in disease pathophysiology. [3-0-0] Prerequisite: One of CAPS 205, CAPS 206."
+  },
+  "CAPS 306": {
+    "subject_code": "CAPS",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Molecular and Cellular Mechanisms of Human Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "A study of the molecular and cellular mechanisms of human health, disease and therapeutics. [3-0-0] Prerequisite: BIOL 234 and one of CAPS 205, CAPS 206, BIOL 200."
+  },
+  "CAPS 310": {
+    "subject_code": "CAPS",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Modern Biomedical Research Techniques and their Application",
+    "faculty": "Faculty of Medicine",
+    "description": "Core and advanced biomedical research techniques which have impacted our current understanding of health and disease. [3-0-0] Prerequisite: One of MATH 101, BIOL 112, BIOL 121 and one of BIOL 234, BIOL 335, BIOL 338. And PHYS 100-level beyond PHYS 100."
+  },
+  "CAPS 390": {
+    "subject_code": "CAPS",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Introduction to Microscopic Human Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "Organ system development, structure and function at the microscopic level. [3-0-0] Prerequisite: One of BIOL 121, SCIE 001. BIOL 200 is recommended."
+  },
+  "CAPS 391": {
+    "subject_code": "CAPS",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Introduction to Gross Human Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "Structure and function of body regions at the macroscopic level. [3-0-0] Prerequisite: One of BIOL_V 121, SCIE_V 001, KIN_V 131 (or 190), KIN_V 132 (or 191)."
+  },
+  "CAPS 398": {
+    "subject_code": "CAPS",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks full-time. Work term report required. Restricted to students admitted to the Co-op Option in Cellular, Anatomical and Physiological Sciences (B.Sc.). Prerequisite: All of CAPS_V 205, CAPS_V 303 and one of CAPS_V 206, CAPS_V 301. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CAPS 399": {
+    "subject_code": "CAPS",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement II",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks full-time. Work term report required. Restricted to students admitted to the Co-op Option in Cellular, Anatomical and Physiological Sciences (B.Sc.). Prerequisite: CAPS_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CAPS 420": {
+    "subject_code": "CAPS",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Human Disease Modeling and Therapeutics",
+    "faculty": "Faculty of Medicine",
+    "description": "Focusing primarily on stem cells and in vitro organoids as disease models, topics cover regenerative medicine, aging, tissue regeneration and repair, novel genetic diseases and therapy development. [3-0-0] Prerequisite: All of CAPS_V 306, CAPS_V 310."
+  },
+  "CAPS 421": {
+    "subject_code": "CAPS",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Cell Biology and Human Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Outlines major discoveries and current advancements that are revolutionizing our understanding of subcellular structures and function in health and disease, such as cancer. [3-0-0]. Prerequisite: Either (a) all of CAPS_V 306, CAPS_V 310 or (b) one of CAPS_V 301, NSCI_V 300. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CAPS 422": {
+    "subject_code": "CAPS",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Mammalian Cardiovascular and Respiratory Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "The control and integration of cardio-pulmonary function in mammals. Intended for Honours students in Cellular, Anatomical and Physiological Sciences or other life sciences. [3-0-0] Prerequisite: A cumulative average of 75% over at least 90 credits attempted in the first three years of a student's program and a minimum mark of 75% in CAPS 301 or PHYL 301 or its equivalent. Permission of the course director is also required."
+  },
+  "CAPS 423": {
+    "subject_code": "CAPS",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Human Renal and Gastrointestinal Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Control of human renal and gastrointestinal systems. Role in homeostasis in health and disease. Intended for students in Cellular, Anatomical and Physiological Sciences or other life sciences. [3-0-0] Prerequisite: Either (a) all of CAPS 305, CAPS 306 or (b) CAPS 301."
+  },
+  "CAPS 424": {
+    "subject_code": "CAPS",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Mammalian Endocrinology",
+    "faculty": "Faculty of Medicine",
+    "description": "Hormonal control of homeostatic, metabolic and reproductive function. Intended for Honours students in Cellular, Anatomical and Physiological Sciences or other life sciences. [3-0-0] Prerequisite: A cumulative average of 75% over at least 90 credits attempted in the first three years of a student's program and a minimum mark of 75% in CAPS 301 or PHYL 301. Permission of the course director is also required."
+  },
+  "CAPS 426": {
+    "subject_code": "CAPS",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Nervous System Function in Human Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "An integrated study of the theory and experimental findings of neuronal synaptic plasticity, including underlying molecular mechanisms and their role in cellular systems, cognitive biology and disease. [3-0-0] Prerequisite: One of CAPS 305, CAPS 301, NSCI 300."
+  },
+  "CAPS 427": {
+    "subject_code": "CAPS",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Gross Human Anatomy Lab",
+    "faculty": "Faculty of Medicine",
+    "description": "A clinical and surgical exploration of the body's structure and function in normal and select pathological conditions. [1-4-0] Prerequisite: CAPS_V 391. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CAPS 430": {
+    "subject_code": "CAPS",
+    "course_code": "430",
+    "credit": "6",
+    "course_name": "Advanced Laboratory in Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Methods, techniques, and use of instruments required for physiological investigation. CAPS 303 or PHYL 303 and the consent of the department are required and enrolment will be limited. [0-6]"
+  },
+  "CAPS 431": {
+    "subject_code": "CAPS",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Advanced Laboratory in the Physiology of Human Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Techniques relevant to human genetics and physiology in the assessment of human health and disease. This course is restricted to CAPS students. [1-4-0] Prerequisite: CAPS 303."
+  },
+  "CAPS 432": {
+    "subject_code": "CAPS",
+    "course_code": "432",
+    "credit": "3",
+    "course_name": "Systems Physiology in Human Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Major discoveries and current advancements that are revolutionizing our understanding of the physiological, compensatory responses of the human body to extreme conditions. [3-0-0]"
+  },
+  "CAPS 434": {
+    "subject_code": "CAPS",
+    "course_code": "434",
+    "credit": "3",
+    "course_name": "Endocrinology and Metabolism in Human Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Major discoveries and current advancements that are revolutionizing our understanding of the biology, disease states and therapeutic approaches for metabolic and reproductive disorders, stress and endocrine disorders including diabetes. [3-0-0]. Prerequisites: CAPS_V 305 and CAPS_V 306 and CAPS_V 310."
+  },
+  "CAPS 448": {
+    "subject_code": "CAPS",
+    "course_code": "448",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Physiology",
+    "faculty": "Faculty of Medicine",
+    "description": ""
+  },
+  "CAPS 449": {
+    "subject_code": "CAPS",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Graduating Essay",
+    "faculty": "Faculty of Medicine",
+    "description": "Written report and presentation on an independent investigaton approved by the department head."
+  },
+  "CAPS 498": {
+    "subject_code": "CAPS",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement III",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks full time. Work term report required. Restricted to students admitted to the Co-op Option in Cellular, Anatomical and Physiological Sciences (B.Sc.). Prerequisite: CAPS_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CAPS 499": {
+    "subject_code": "CAPS",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement IV",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised relevant work experience in an industrial, academic, or government setting for a minimum of 13 weeks full time. Work term report required. Restricted to students admitted to the Co-op Option in Cellular, Anatomical and Physiological Sciences (B.Sc.). Prerequisite: CAPS_V 498. This course is not eligible for Credit/D/Fail grading."
+  }
+}

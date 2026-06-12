@@ -1,0 +1,898 @@
+{
+  "CPSC 100": {
+    "subject_code": "CPSC",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Computational Thinking",
+    "faculty": "Faculty of Science",
+    "description": "Meaning and impact of computational thinking. Solving problems using computational thinking, testing, debugging. How computers work. No prior computing experience required. Not for students with existing credit for or exemption from CPSC 107, CPSC 110 or APSC 160. [3-1-0]"
+  },
+  "CPSC 103": {
+    "subject_code": "CPSC",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Introduction to Systematic Program Design",
+    "faculty": "Faculty of Science",
+    "description": "Computation as a tool for systematic problem solving in non-computer-science disciplines. Introductory programming skills. Not for credit for students who have credit for, or exemption from, or are concurrently taking CPSC 110 or APSC 160. No programming experience expected. [3-0-1]"
+  },
+  "CPSC 107": {
+    "subject_code": "CPSC",
+    "course_code": "107",
+    "credit": "3",
+    "course_name": "Systematic Program Design",
+    "faculty": "Faculty of Science",
+    "description": "Fundamental computation and program structures. Continuing systematic program design from CPSC 103. [3-2-0] Prerequisite: CPSC 103."
+  },
+  "CPSC 110": {
+    "subject_code": "CPSC",
+    "course_code": "110",
+    "credit": "4",
+    "course_name": "Computation, Programs, and Programming",
+    "faculty": "Faculty of Science",
+    "description": "Fundamental program and computation structures. Introductory programming skills. Computation as a tool for information processing, simulation and modelling, and interacting with the world. [3-3-0]"
+  },
+  "CPSC 121": {
+    "subject_code": "CPSC",
+    "course_code": "121",
+    "credit": "4",
+    "course_name": "Models of Computation",
+    "faculty": "Faculty of Science",
+    "description": "Physical and mathematical structures of computation. Boolean algebra and combinations logic circuits; proof techniques; functions and sequential circuits; sets and relations; finite state machines; sequential instruction execution. [3-2-1] Prerequisite: Principles of Mathematics 12 or Pre-calculus 12. Corequisite: One of CPSC 107, CPSC 110."
+  },
+  "CPSC 203": {
+    "subject_code": "CPSC",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Programming, Problem Solving, and Algorithms",
+    "faculty": "Faculty of Science",
+    "description": "Analysis of increasingly complex algorithmic problems, using a modern programming language and a variety of approaches. Problem decomposition and abstraction guide explorations of topics from applied algorithms, for example Voronoi Diagrams, Markov Chains, Bin Packing, and Graph Search. Not for students with credit for, or currently enrolled in, CPSC 210 or CPEN 221. [3-0-1] Prerequisite: One of CPSC 103, CPSC 110, APSC 160, EOSC 211, MATH 210, PHYS 210, COMM 337."
+  },
+  "CPSC 210": {
+    "subject_code": "CPSC",
+    "course_code": "210",
+    "credit": "4",
+    "course_name": "Software Construction",
+    "faculty": "Faculty of Science",
+    "description": "Design, development, and analysis of robust software components. Topics such as software design, computational models, data structures, debugging, and testing. [3-2-0] Prerequisite: One of CPSC 107, CPSC 110."
+  },
+  "CPSC 213": {
+    "subject_code": "CPSC",
+    "course_code": "213",
+    "credit": "4",
+    "course_name": "Introduction to Computer Systems",
+    "faculty": "Faculty of Science",
+    "description": "Software architecture, operating systems, and I/O architectures. Relationships between application software, operating systems, and computing hardware; critical sections, deadlock avoidance, and performance; principles and operation of disks and networks. [3-3-0] Prerequisite: All of CPSC 121, CPSC 210."
+  },
+  "CPSC 221": {
+    "subject_code": "CPSC",
+    "course_code": "221",
+    "credit": "4",
+    "course_name": "Basic Algorithms and Data Structures",
+    "faculty": "Faculty of Science",
+    "description": "Design and analysis of basic algorithms and data structures; algorithm analysis methods, searching and sorting algorithms, basic data structures, graphs and concurrency. [3-2-0] Prerequisite: One of CPSC 210, CPEN 221 and either (a) one of CPSC 121, MATH 220 or (b) a score of 68% or higher in MATH 226."
+  },
+  "CPSC 259": {
+    "subject_code": "CPSC",
+    "course_code": "259",
+    "credit": "4",
+    "course_name": "Data Structures and Algorithms for Electrical Engineers",
+    "faculty": "Faculty of Science",
+    "description": "Advanced procedural programming. Fundamental algorithms for sorting and searching. Data structures including lists, trees, and hash tables. Introduction to scripting languages and file input/output. [3-2-0] Prerequisite: APSC 160."
+  },
+  "CPSC 298": {
+    "subject_code": "CPSC",
+    "course_code": "298",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during Winter Session of second year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 299": {
+    "subject_code": "CPSC",
+    "course_code": "299",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the second year. Technical report required. Restricted to students admitted to the Co-operative Education. Prerequisite: CPSC_V 298. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 302": {
+    "subject_code": "CPSC",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Numerical Computation for Algebraic Problems",
+    "faculty": "Faculty of Science",
+    "description": "Numerical techniques for basic mathematical processes involving no discretization, and their analysis. Solution of linear systems, including analysis of round-off errors; norms and condition number; introduction to iterative techniques in linear algebra, including eigenvalue problems; solution to nonlinear equations. [3-0-0] Prerequisite: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223."
+  },
+  "CPSC 303": {
+    "subject_code": "CPSC",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Numerical Approximation and Discretization",
+    "faculty": "Faculty of Science",
+    "description": "Numerical techniques for basic mathematical processes involving discretization, and their analysis. Interpolation and approximation, including splines and least squares data fitting; numerical differentiation and integration; introduction to numerical initial value ordinary differential equations. [3-0-0] Prerequisite: One of CPSC 103, CPSC 110, CPEN 221, EOSC 211, PHYS 210 and one of MATH 101, MATH 103, MATH 105, MATH 121, SCIE 001 and one of MATH 152, MATH 221, MATH 223."
+  },
+  "CPSC 304": {
+    "subject_code": "CPSC",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Introduction to Relational Databases",
+    "faculty": "Faculty of Science",
+    "description": "Overview of database systems, ER models, logical database design and normalization, formal relational query languages, SQL and other commercial languages, data warehouses, special topics. [3-0-1] Prerequisite: CPSC_V 221 or DSCI_V 221."
+  },
+  "CPSC 310": {
+    "subject_code": "CPSC",
+    "course_code": "310",
+    "credit": "4",
+    "course_name": "Introduction to Software Engineering",
+    "faculty": "Faculty of Science",
+    "description": "Specification, design, validation, evolution and construction of modern software systems, within the context of socially and professionally relevant domains such as ethics, intellectual property, and information security. [3-2-0] Prerequisite: All of CPSC 213, CPSC 221."
+  },
+  "CPSC 311": {
+    "subject_code": "CPSC",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Definition of Programming Languages",
+    "faculty": "Faculty of Science",
+    "description": "Comparative study of advanced programming language features. Statement types, data types, variable binding, parameter passing mechanisms. Methods for syntactic and semantic description of programming languages. [3-0-1] Prerequisite: CPSC 210."
+  },
+  "CPSC 312": {
+    "subject_code": "CPSC",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Functional and Logic Programming",
+    "faculty": "Faculty of Science",
+    "description": "Principles of symbolic computing, using languages based upon first-order logic and the lambda calculus. Algorithms for implementing such languages. Applications to artificial intelligence and knowledge representation. [3-0-0] Prerequisite: One of CPSC 210, CPEN 221."
+  },
+  "CPSC 313": {
+    "subject_code": "CPSC",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Computer Hardware and Operating Systems",
+    "faculty": "Faculty of Science",
+    "description": "Instruction sets, pipelining, code optimization, caching, virtual memory management, dynamically linked libraries, exception processing, execution time of programs. [3-0-1] Prerequisite: CPSC_V 213 and either CPSC_V 221 or DSCI_V 221."
+  },
+  "CPSC 314": {
+    "subject_code": "CPSC",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Computer Graphics",
+    "faculty": "Faculty of Science",
+    "description": "Human vision and colour; geometric transformations; algorithms for 2-D and 3-D graphics; hardware and system architectures; shading and lighting; animation. [3-1-0] Prerequisite: CPSC 221 and one of MATH 200, MATH 217, MATH 226, MATH 253 and one of MATH 152, MATH 221, MATH 223."
+  },
+  "CPSC 317": {
+    "subject_code": "CPSC",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "Introduction to Computer Networking",
+    "faculty": "Faculty of Science",
+    "description": "Computer networking, basic communication protocols, network infrastructure and routing. Common application-level protocols and principles associated with developing distributed applications. [3-0-1] Prerequisite: CPSC_V 213 and either CPSC_V 221 or DSCI_V 221."
+  },
+  "CPSC 319": {
+    "subject_code": "CPSC",
+    "course_code": "319",
+    "credit": "4",
+    "course_name": "Software Engineering Project",
+    "faculty": "Faculty of Science",
+    "description": "The design, implementation, and test of a large software system, using a team approach. [3-0-2] Prerequisite: CPSC 310."
+  },
+  "CPSC 320": {
+    "subject_code": "CPSC",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Intermediate Algorithm Design and Analysis",
+    "faculty": "Faculty of Science",
+    "description": "Systematic study of basic concepts and techniques in the design and analysis of algorithms, illustrated from various problem areas. Topics include models of computation; choice of data structures; and graph-theoretic, algebraic, and text processing algorithms. [3-0-1] Prerequisite: All of (a) CPSC_V 221 or DSCI_V 221, (b) at least 3 credits from MATH_V or STAT_V at 200 level or above or any course on the STAT_V 200 credit exclusion: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…."
+  },
+  "CPSC 322": {
+    "subject_code": "CPSC",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Introduction to Artificial Intelligence",
+    "faculty": "Faculty of Science",
+    "description": "Problem-solving and planning. State/action models and graph searching. Natural language understanding. Computational vision. Applications of artificial intelligence. [3-0-0] Prerequisite: Either CPSC_V 221 or DSCI_V 221. Equivalency: AI_V 322?."
+  },
+  "CPSC 330": {
+    "subject_code": "CPSC",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Applied Machine Learning",
+    "faculty": "Faculty of Science",
+    "description": "Application of machine learning tools, with an emphasis on solving practical problems. Data cleaning, feature extraction, supervised and unsupervised machine learning, reproducible workflows, and communicating results. [3-0-1] Prerequisite: Either (a) one of CPSC_V 203, CPSC_V 210, CPEN_V 221, DSCI_V 221 or (b) MATH_V 210 and one of CPSC_V 107, CPSC_V 110."
+  },
+  "CPSC 337": {
+    "subject_code": "CPSC",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Introduction to Computer Security",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of computer security and privacy. Cryptography, network security, and application security. Security assessments, problem diagnosis, defensive strategies. Impacts and outcomes of security design decisions. [3-1-0] Prerequisites: CPSC_V 213."
+  },
+  "CPSC 340": {
+    "subject_code": "CPSC",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Machine Learning and Data Mining",
+    "faculty": "Faculty of Science",
+    "description": "Models of algorithms for dimensionality reduction, nonlinear regression, classification, clustering and unsupervised learning; applications to computer graphics, computer games, bio-informatics, information retrieval, e-commerce, databases, computer vision and artificial intelligence. [3-0-1] Prerequisite: All of (a) one of CPSC_V 221, DSCI_V 221 (b) one of MATH_V 152, MATH_V 221, MATH_V 223 (c) one of MATH_V 200, MATH_V 217, MATH_V 226, MATH_V 253, MATH_V 254 (d) one of STAT_V 241, STAT_V 251, ECON_V 325, ECON_V 327, MATH_V 302, STAT_V 302, MATH_V 318."
+  },
+  "CPSC 344": {
+    "subject_code": "CPSC",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Introduction to Human Computer Interaction Methods",
+    "faculty": "Faculty of Science",
+    "description": "Basic tools and techniques, teaching a systematic approach to interface design, task analysis, analytic and empirical evaluation methods. [2-2-2] Prerequisite: One of CPSC 210, CPEN 221."
+  },
+  "CPSC 349": {
+    "subject_code": "CPSC",
+    "course_code": "349",
+    "credit": "0",
+    "course_name": "Honours Research Seminar",
+    "faculty": "Faculty of Science",
+    "description": "Students will attend a series of research seminars presented by faculty members, produce a thesis proposal, and choose their honours thesis supervisor. Available to Honours students. Majors students with satisfactory standing may also be permitted to enrol. [1-0-0] This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 368": {
+    "subject_code": "CPSC",
+    "course_code": "368",
+    "credit": "3",
+    "course_name": "Databases in Data Science",
+    "faculty": "Faculty of Science",
+    "description": "Overview of relational and non-relational database systems, role and usage of a database when querying data, data modelling, query languages, and query optimization. [3-0-1] Prerequisite: One of CPSC_V 203, CPSC_V 210, CPEN_V 221, DSCI_V 221."
+  },
+  "CPSC 398": {
+    "subject_code": "CPSC",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the third year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 399": {
+    "subject_code": "CPSC",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the fall term of the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 402": {
+    "subject_code": "CPSC",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Numerical Linear Algebra",
+    "faculty": "Faculty of Science",
+    "description": "Investigation of the practical techniques of computational linear algebra. Orthogonal transformations and their application to the solution of linear equations, the eigenproblem, and linear least squares. Complete solution of the symmetric eigenproblem, including bisection and the QR method. Refinements of these techniques for sparse matrices. [3-0-0] Prerequisite: One of CPSC 302, CPSC 303, MATH 307."
+  },
+  "CPSC 404": {
+    "subject_code": "CPSC",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Advanced Relational Databases",
+    "faculty": "Faculty of Science",
+    "description": "Physical database design, indexing, external mergesort, relational query processing and optimization, transaction processing, concurrency control, crash recovery, special topics. [3-0-0] Prerequisite: CPSC 304 and one of CPSC 213, CPSC 261, CPEN 212."
+  },
+  "CPSC 406": {
+    "subject_code": "CPSC",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Computational Optimization",
+    "faculty": "Faculty of Science",
+    "description": "Formulation and analysis of algorithms for continuous and discrete optimization problems; linear, nonlinear, network, dynamic, and integer optimization; large-scale problems; software packages and their implementation; duality theory and sensitivity. [3-0] Prerequisite: One of CPSC 302, CPSC 303, MATH 307."
+  },
+  "CPSC 410": {
+    "subject_code": "CPSC",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Advanced Software Engineering",
+    "faculty": "Faculty of Science",
+    "description": "Specification, design, construction and validation of multi-version software systems. [3-0-0] Prerequisite: Either (a) CPSC 310 or (b) all of CPEN 321, CPEN 331."
+  },
+  "CPSC 411": {
+    "subject_code": "CPSC",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Introduction to Compiler Construction",
+    "faculty": "Faculty of Science",
+    "description": "A practical introduction to lexical analysis, syntactic analysis, type-checking, code generation and optimization. This will be used to design and implement a compiler for a small language. [3-0-0] Prerequisite: All of CPSC 213, CPSC 221, CPSC 311."
+  },
+  "CPSC 415": {
+    "subject_code": "CPSC",
+    "course_code": "415",
+    "credit": "4",
+    "course_name": "Operating Systems Design and Implementation",
+    "faculty": "Faculty of Science",
+    "description": "Team-based design and implementation of a complete operating system, with emphasis on applicability to modern hardware and the practical implementation of operating systems concepts. [2-1-2] Prerequisite: All of the following with a minimum grade of 76% in each of: (a) CPSC_V 310 or CPEN_V 321, (b) CPSC_V 313 or CPEN_V 331, and (c) CPSC_V 317 or ELEC_V 331."
+  },
+  "CPSC 416": {
+    "subject_code": "CPSC",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "Distributed Systems",
+    "faculty": "Faculty of Science",
+    "description": "Concepts and design of distributed systems. Communication architecture and models for interprocess communication. Process migration, naming, distributed file systems, fault tolerance, and concurrency control. [3-0-0] Prerequisite: One of CPSC 313, CPEN 331 and one of CPSC 317, ELEC 331."
+  },
+  "CPSC 417": {
+    "subject_code": "CPSC",
+    "course_code": "417",
+    "credit": "3",
+    "course_name": "Computer Networking",
+    "faculty": "Faculty of Science",
+    "description": "Network protocols and architecture including internetworking, the Internet, layered communication protocols, routing, flow and congestion control, network performance, wired and wireless data communication. [3-0] Prerequisite: All of CPSC_V 313, CPSC_V 317."
+  },
+  "CPSC 418": {
+    "subject_code": "CPSC",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Parallel Computation",
+    "faculty": "Faculty of Science",
+    "description": "Algorithms, architectures, and programming paradigms for parallel computation. Shared memory, message passing, and data parallel architectures and programming models. Parallel algorithms including reduce, scan, and sorting networks. Reasoning about the correctness of parallel programs. Performance analysis and measurement for parallel programs. [3-0-0] Prerequisite: CPSC 320 and one of CPSC 261, CPSC 313, CPEN 212, CPEN 411."
+  },
+  "CPSC 420": {
+    "subject_code": "CPSC",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Advanced Algorithms Design and Analysis",
+    "faculty": "Faculty of Science",
+    "description": "The study of advanced topics in the design and analysis of algorithms and associated data structures. Topics include algorithms for graph-theoretic; algebraic and geometric problems; algorithms on nonsequential models; complexity issues; approximation algorithms. [3-0-0] Prerequisite: [CPSC320]"
+  },
+  "CPSC 421": {
+    "subject_code": "CPSC",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Introduction to Theory of Computing",
+    "faculty": "Faculty of Science",
+    "description": "Characterizations of computability (using machines, languages and functions). Universality, equivalence and Church's thesis. Unsolvable problems. Restricted models of computation. Finite automata, grammars and formal languages. [3-0-0] Prerequisite: One of CPSC 320 or MATH 220 or MATH 226."
+  },
+  "CPSC 423": {
+    "subject_code": "CPSC",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Natural Language Processing",
+    "faculty": "Faculty of Science",
+    "description": "Fundamentals of data-driven natural language processing, including applications (machine translation, summarization, question answering), text representations (word embeddings, language models), and statistical and neural-network methods. [3-0-0] Prerequisites: Either CPSC_V 340 or both (a) one of AI_V 240, CPSC_V 330 and (b) one of STAT_V 200, STAT_V 251, ECON_V 325, ECON_V 327, MATH_V 302, STAT_V 302, MATH_V 318."
+  },
+  "CPSC 424": {
+    "subject_code": "CPSC",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Geometric Modelling",
+    "faculty": "Faculty of Science",
+    "description": "Digital representation of curves and surfaces, including splines, subdivision surfaces and meshes. Principles, algorithms and mathematical foundations for geometry representation in computer graphics, computer vision, fabrication, CAD/CAM, and medical imaging. Algorithms for acquisition, creation, representation, and processing of 3D shapes. [3-0-1] Prerequisite: One of MATH 152, MATH 221, MATH 223 and one of MATH 200, MATH 217, MATH 226, MATH 253."
+  },
+  "CPSC 425": {
+    "subject_code": "CPSC",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Computer Vision",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to the processing and interpretation of images. Image sensing, sampling, and filtering. Algorithms for colour analysis, texture description, stereo imaging, motion interpretation, 3D shape recovery, and recognition. [3-0-0] Prerequisite: CPSC_V 221 and one of MATH_V 200, MATH_V 217, MATH_V 226, MATH_V 253, MATH_V 254 and one of MATH_V 111, MATH_V 131, MATH_V 152, MATH_V 221, MATH_V 223."
+  },
+  "CPSC 426": {
+    "subject_code": "CPSC",
+    "course_code": "426",
+    "credit": "3",
+    "course_name": "Computer Animation",
+    "faculty": "Faculty of Science",
+    "description": "Motion in computer graphics for characters and their environments. Keyframing, inverse kinematics, particle systems, rigid body dynamics, contact and collision, controller-based active motion, motion capture. [3-0-0] Prerequisite: CPSC 314."
+  },
+  "CPSC 427": {
+    "subject_code": "CPSC",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Video Game Programming",
+    "faculty": "Faculty of Science",
+    "description": "Video game programming techniques and technologies, including rendering, animation, interaction, game AI, real-time software development for games; start-to-finish simple video-game design and implementation. [1.5–1.5-1] Prerequisites: CPSC_V 314 and one of MATH_V 200, MATH_V 217, MATH_V 226, MATH_V 253 and one of MATH_V 152, MATH_V 221, MATH_V 223."
+  },
+  "CPSC 430": {
+    "subject_code": "CPSC",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Computers and Society",
+    "faculty": "Faculty of Science",
+    "description": "Impact of computer technology on society; historical perspectives; social and economic consequences of large-scale information processing systems and automatic control; legal and ethical problems in computer applications. Computers and the individual: machine versus human capabilities, fact and fancy; problematic interface between man and machine. [3-0-0] Prerequisite: 3 credits of Computer Science and at least third-year standing."
+  },
+  "CPSC 436": {
+    "subject_code": "CPSC",
+    "course_code": "436",
+    "credit": "1-6",
+    "course_name": "Topics in Computer Science",
+    "faculty": "Faculty of Science",
+    "description": "Selected topics in a specific area within Computer Science. May be taken more than once for credit with permission of the department. Prerequisite: Third-year standing in a Computer Science or Computer Engineering specialization, and permission of the department."
+  },
+  "CPSC 440": {
+    "subject_code": "CPSC",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Advanced Machine Learning",
+    "faculty": "Faculty of Science",
+    "description": "Advanced machine learning techniques focusing on probabilistic models. Deep learning and differentiable programming, exponential families and Bayesian inference, probabilistic graphical models and other generative models, Monte Carlo and variational inference methods. [3-0-1] Prerequisite: Either CPSC_V 340 or both (a) AI_V 240 and (b) one of STAT_V 251, ECON_V 325, ECON_V 327, MATH_V 302, STAT_V 302, MATH_V 318."
+  },
+  "CPSC 444": {
+    "subject_code": "CPSC",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Advanced Methods for Human Computer Interaction",
+    "faculty": "Faculty of Science",
+    "description": "Design and evaluation methodologies and theories; formal models of the user including visual, motor, and information processing; advanced evaluation methods including laboratory experiments and field studies; HCI research frontiers. [2-2-2] Prerequisite: CPSC 344 and one of STAT 200, STAT 201, STAT 203, STAT 241, STAT 251, BIOL 300, COMM 291, ECON 325, ECON 327, FRST 231, GEOG 374, KIN 206, KIN 371, POLI 380, PSYC 218, PSYC 278, PSYC 366, SOCI 328."
+  },
+  "CPSC 445": {
+    "subject_code": "CPSC",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Algorithms in Bioinformatics",
+    "faculty": "Faculty of Science",
+    "description": "Sequence alignment, phylogenetic tree reconstruction, prediction of RNA and protein structure, gene finding and sequence annotation, gene expression, and biomolecular computing. [3-0-0] Prerequisite: CPSC 320. and either BMEG 250 or six credits of BIOL beyond BIOL 111."
+  },
+  "CPSC 447": {
+    "subject_code": "CPSC",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Introduction to Visualization",
+    "faculty": "Faculty of Science",
+    "description": "Design and implementation of static and interactive visualizations. Selection of appropriate visualization methods for given combinations of data type and intended analysis task. Assessment of visual representations according to design and perceptual principles. [3-0-0] Prerequisite: One of CPSC 310, CPEN 321."
+  },
+  "CPSC 448": {
+    "subject_code": "CPSC",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Computer Science",
+    "faculty": "Faculty of Science",
+    "description": "Open ordinarily to students in Computer Science with at least a 72% average and permission of the department. The course may consist of supervised reading, participation in a seminar, and one or more programming projects. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 449": {
+    "subject_code": "CPSC",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Science",
+    "description": "Under supervision of a faculty member, students investigate a research topic and prepare a thesis. Prerequisite: [CPSC349]"
+  },
+  "CPSC 455": {
+    "subject_code": "CPSC",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Applied Industry Practices",
+    "faculty": "Faculty of Science",
+    "description": "Hands-on project, mentored by industry experts, integrating skills relevant to early career in the computing industry: technical skills, communication, teamwork, networking and portfolio building. [2.5-2-0] Prerequisite: One of CPSC 310, CPEN 321."
+  },
+  "CPSC 490": {
+    "subject_code": "CPSC",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Student Directed Seminars",
+    "faculty": "Faculty of Science",
+    "description": "Self-directed, collaborative studies, in a group-learning environment, initiated and coordinated by senior undergraduate students with the supervision of a faculty advisor. Course structure, enrolment and delivery methods will comply with the Handbook for Student Directed Seminars. [3-0-0]"
+  },
+  "CPSC 491": {
+    "subject_code": "CPSC",
+    "course_code": "491",
+    "credit": "6",
+    "course_name": "Interactive Digital Media Practicum",
+    "faculty": "Faculty of Science",
+    "description": "Design and implementation of interactive digital media systems using modern processes and tools. Projects provided by external clients or vetted entrepreneurial pitches are developed by interdisciplinary teams composed of one CPSC_V 491 student and multiple Master of Digital Media students. Prerequisite: All of CPSC_V 221, CPSC_V 310, CPSC_V 344 and Third-year standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 499": {
+    "subject_code": "CPSC",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement V",
+    "faculty": "Faculty of Science",
+    "description": "Approved and supervised technical work experience in the computing industry for a minimum of 3.5 months. Normally taken during the summer following the fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Computer Science. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 500": {
+    "subject_code": "CPSC",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Fundamentals of Algorithm Design and Analysis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 501": {
+    "subject_code": "CPSC",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Theory of Automata, Formal Languages and Computability",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 502": {
+    "subject_code": "CPSC",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Artificial Intelligence I",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 503": {
+    "subject_code": "CPSC",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Computational Linguistics I",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 504": {
+    "subject_code": "CPSC",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Data Management",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 505": {
+    "subject_code": "CPSC",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Image Understanding I: Image Analysis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 506": {
+    "subject_code": "CPSC",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Complexity of Computation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 507": {
+    "subject_code": "CPSC",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Software Engineering",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 508": {
+    "subject_code": "CPSC",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Operating Systems",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 509": {
+    "subject_code": "CPSC",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Programming Language Principles",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 511": {
+    "subject_code": "CPSC",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Implementation of Programming Languages",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 513": {
+    "subject_code": "CPSC",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Introduction to Formal Verification and Analysis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 514": {
+    "subject_code": "CPSC",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Computer Graphics: Rendering",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 515": {
+    "subject_code": "CPSC",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Computational Robotics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 516": {
+    "subject_code": "CPSC",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Computational Geometry",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 517": {
+    "subject_code": "CPSC",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Sparse Matrix Computation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 519": {
+    "subject_code": "CPSC",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Logic Programming and Functional Programming",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 520": {
+    "subject_code": "CPSC",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Numerical Solution of Differential Equations",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 521": {
+    "subject_code": "CPSC",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Parallel Algorithms and Architectures",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 522": {
+    "subject_code": "CPSC",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Artificial Intelligence II",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 524": {
+    "subject_code": "CPSC",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Computer Graphics: Modelling",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 525": {
+    "subject_code": "CPSC",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Image Understanding II: Scene Analysis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 526": {
+    "subject_code": "CPSC",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Computer Animation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 527": {
+    "subject_code": "CPSC",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Computer Communication Protocols",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 528": {
+    "subject_code": "CPSC",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Topics in Software Engineering",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 529": {
+    "subject_code": "CPSC",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Definition of Programming Languages",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 530": {
+    "subject_code": "CPSC",
+    "course_code": "530",
+    "credit": "3-12",
+    "course_name": "Topics in Information Processing",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 531": {
+    "subject_code": "CPSC",
+    "course_code": "531",
+    "credit": "3-12",
+    "course_name": "Topics in Theory of Computation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 532": {
+    "subject_code": "CPSC",
+    "course_code": "532",
+    "credit": "3-12",
+    "course_name": "Topics in Artificial Intelligence",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 533": {
+    "subject_code": "CPSC",
+    "course_code": "533",
+    "credit": "3-12",
+    "course_name": "Topics in Computer Graphics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 534": {
+    "subject_code": "CPSC",
+    "course_code": "534",
+    "credit": "3-12",
+    "course_name": "Topics in Data Management",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 535": {
+    "subject_code": "CPSC",
+    "course_code": "535",
+    "credit": "3-12",
+    "course_name": "Topics in Simulation and Optimization",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 536": {
+    "subject_code": "CPSC",
+    "course_code": "536",
+    "credit": "3-12",
+    "course_name": "Topics in Algorithms and Complexity",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 537": {
+    "subject_code": "CPSC",
+    "course_code": "537",
+    "credit": "3-12",
+    "course_name": "Topics in Coding and Information Theory",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 538": {
+    "subject_code": "CPSC",
+    "course_code": "538",
+    "credit": "3-12",
+    "course_name": "Topics in Computer Systems",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 539": {
+    "subject_code": "CPSC",
+    "course_code": "539",
+    "credit": "3-12",
+    "course_name": "Topics in Programming Languages",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 540": {
+    "subject_code": "CPSC",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Machine Learning",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 541": {
+    "subject_code": "CPSC",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Topics in Computer Security and Privacy",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 542": {
+    "subject_code": "CPSC",
+    "course_code": "542",
+    "credit": "3-12",
+    "course_name": "Topics in Numerical Computation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 543": {
+    "subject_code": "CPSC",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Physical User Interface Design and Evaluation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 544": {
+    "subject_code": "CPSC",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Human Computer Interaction",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 545": {
+    "subject_code": "CPSC",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Algorithms for Bioinformatics",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 546": {
+    "subject_code": "CPSC",
+    "course_code": "546",
+    "credit": "3",
+    "course_name": "Numerical Optimization",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 547": {
+    "subject_code": "CPSC",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Information Visualization",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 548": {
+    "subject_code": "CPSC",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Directed Study",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 549": {
+    "subject_code": "CPSC",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 550": {
+    "subject_code": "CPSC",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Machine Learning II",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 554": {
+    "subject_code": "CPSC",
+    "course_code": "554",
+    "credit": "3-12",
+    "course_name": "Topics in Human-Computer Interaction",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 564": {
+    "subject_code": "CPSC",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Data Mining",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 589": {
+    "subject_code": "CPSC",
+    "course_code": "589",
+    "credit": "3",
+    "course_name": "M.Sc. Major Essay",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 590": {
+    "subject_code": "CPSC",
+    "course_code": "590",
+    "credit": "3",
+    "course_name": "Research Methods in Computer Science",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CPSC 649": {
+    "subject_code": "CPSC",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

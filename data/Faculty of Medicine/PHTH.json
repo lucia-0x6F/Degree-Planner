@@ -1,0 +1,218 @@
+{
+  "PHTH 301": {
+    "subject_code": "PHTH",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Physical Therapy Foundations",
+    "faculty": "Faculty of Medicine",
+    "description": "Builds on prerequisite concepts in anatomy, physiology, and physics taken at undergraduate and high school level to apply basic theories and principles of anatomy, human physiology, pathophysiology, biomechanics, and physics to essential rehabilitation concepts."
+  },
+  "PHTH 511": {
+    "subject_code": "PHTH",
+    "course_code": "511",
+    "credit": "2",
+    "course_name": "Pathology for Physical Therapy I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 514": {
+    "subject_code": "PHTH",
+    "course_code": "514",
+    "credit": "5",
+    "course_name": "Clinical Practice I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 516": {
+    "subject_code": "PHTH",
+    "course_code": "516",
+    "credit": "2",
+    "course_name": "Clinical Decision-Making I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 517": {
+    "subject_code": "PHTH",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Exercise and Movement I",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 521": {
+    "subject_code": "PHTH",
+    "course_code": "521",
+    "credit": "2",
+    "course_name": "Pathology for Physical Therapy II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 524": {
+    "subject_code": "PHTH",
+    "course_code": "524",
+    "credit": "6",
+    "course_name": "Clinical Practice II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 526": {
+    "subject_code": "PHTH",
+    "course_code": "526",
+    "credit": "2",
+    "course_name": "Clinical Decision Making II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 527": {
+    "subject_code": "PHTH",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Exercise and Movement II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 528": {
+    "subject_code": "PHTH",
+    "course_code": "528",
+    "credit": "1",
+    "course_name": "Case-based Integration",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 531": {
+    "subject_code": "PHTH",
+    "course_code": "531",
+    "credit": "2",
+    "course_name": "Pathology for Physical Therapy III",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 534": {
+    "subject_code": "PHTH",
+    "course_code": "534",
+    "credit": "4",
+    "course_name": "Clinical Practice III",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 538": {
+    "subject_code": "PHTH",
+    "course_code": "538",
+    "credit": "1",
+    "course_name": "Case-based Integration II",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 544": {
+    "subject_code": "PHTH",
+    "course_code": "544",
+    "credit": "5",
+    "course_name": "Clinical Practice IVa",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 545": {
+    "subject_code": "PHTH",
+    "course_code": "545",
+    "credit": "6",
+    "course_name": "Clinical Practice IVb",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 546": {
+    "subject_code": "PHTH",
+    "course_code": "546",
+    "credit": "2",
+    "course_name": "Clinical Decision-Making III",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 548": {
+    "subject_code": "PHTH",
+    "course_code": "548",
+    "credit": "1",
+    "course_name": "Case-based Integration III",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 552": {
+    "subject_code": "PHTH",
+    "course_code": "552",
+    "credit": "5",
+    "course_name": "Rehabilitation Research",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 554": {
+    "subject_code": "PHTH",
+    "course_code": "554",
+    "credit": "4",
+    "course_name": "Clinical Practice V",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 558": {
+    "subject_code": "PHTH",
+    "course_code": "558",
+    "credit": "1",
+    "course_name": "Case-Based Integration IV",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 564": {
+    "subject_code": "PHTH",
+    "course_code": "564",
+    "credit": "4",
+    "course_name": "Clinical Practice VIa",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 565": {
+    "subject_code": "PHTH",
+    "course_code": "565",
+    "credit": "6",
+    "course_name": "Clinical Practice VIb",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 566": {
+    "subject_code": "PHTH",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Clinical Decision-Making IV",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 574": {
+    "subject_code": "PHTH",
+    "course_code": "574",
+    "credit": "4",
+    "course_name": "Clinical Practice VII",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 576": {
+    "subject_code": "PHTH",
+    "course_code": "576",
+    "credit": "1",
+    "course_name": "Clinical Decision Making V",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 580": {
+    "subject_code": "PHTH",
+    "course_code": "580",
+    "credit": "9",
+    "course_name": "Orthopaedic Clinical Reasoning and Skills",
+    "faculty": "Faculty of Medicine",
+    "description": "Restricted to students in the Graduate Certificate in Orthopaedic Manipulative Physical Therapy program. Prerequisite: RHSC_V 501. Corequisite: PHTH_V 581. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PHTH 581": {
+    "subject_code": "PHTH",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Evidence and Theory in Musculoskeletal Physical Therapy",
+    "faculty": "Faculty of Medicine",
+    "description": "Restricted to students in the Graduate Certificate in Orthopaedic Musculoskeletal Physical Therapy program. Prerequisite: RHSC_V 501. Corequisite: PHTH_V 580. This course is not eligible for Credit/D/Fail grading."
+  }
+}

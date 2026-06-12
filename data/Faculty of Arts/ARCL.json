@@ -1,0 +1,234 @@
+{
+  "ARCL 103": {
+    "subject_code": "ARCL",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Introduction to Archaeology: Past Perspectives and Future Promise",
+    "faculty": "Faculty of Arts",
+    "description": "A critical introductory overview to the discipline of archaeology, its functions and entanglements, and potential contributions and transformations for the future."
+  },
+  "ARCL 140": {
+    "subject_code": "ARCL",
+    "course_code": "140",
+    "credit": "3",
+    "course_name": "Bones: The Origins of Humanity",
+    "faculty": "Faculty of Arts",
+    "description": "The origin and evolution of the human lineage and the emergence of human biological and cultural traits with emphasis on the fossil record before the Pleistocene."
+  },
+  "ARCL 203": {
+    "subject_code": "ARCL",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Archaeological Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Introduces the methods and principles applied in anthropological archaeology and cultural-historical research."
+  },
+  "ARCL 204": {
+    "subject_code": "ARCL",
+    "course_code": "204",
+    "credit": "3",
+    "course_name": "Great Archaeological Discoveries",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of some momentous discoveries in archaeology that have shaped our knowledge of the ancient world and the history of humanity."
+  },
+  "ARCL 228": {
+    "subject_code": "ARCL",
+    "course_code": "228",
+    "credit": "3",
+    "course_name": "Forensic Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "The application of methods from biological anthropology and archaeology to the identification, recovery, and analysis of skeletal remains from crime scenes, mass disasters, and unexplained deaths."
+  },
+  "ARCL 231": {
+    "subject_code": "ARCL",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Ancient North America",
+    "faculty": "Faculty of Arts",
+    "description": "Introductory survey of North American archaeology comparing the ancient cultures from all major regions of Canada and the US."
+  },
+  "ARCL 232": {
+    "subject_code": "ARCL",
+    "course_code": "232",
+    "credit": "3",
+    "course_name": "Ancient Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "The archaeology of ancient Mexico, Central and South America, highlighting recent discoveries about the emergence and growth of civilizations such as the Aztecs, Maya, Zapotec, Inca, Chimor and their ancestors."
+  },
+  "ARCL 235": {
+    "subject_code": "ARCL",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Taming the Wild: Animals, Alcohol and Agriculture",
+    "faculty": "Faculty of Arts",
+    "description": "How, when and why humans became dependent on cultivated foods and domestic animals and the methods used to document plant and animal domestication."
+  },
+  "ARCL 305": {
+    "subject_code": "ARCL",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Archaeological Interpretation",
+    "faculty": "Faculty of Arts",
+    "description": "Current theoretical developments explored through the practice of archaeology. Examples drawn from a range of times and places focusing on emerging technologies, food production, colonial encounters and culture contact, materiality and symbolic systems, social inequality and complexity, and human-environmental interactions."
+  },
+  "ARCL 306": {
+    "subject_code": "ARCL",
+    "course_code": "306",
+    "credit": "6",
+    "course_name": "Summer Field Training in Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive training in excavation techniques and interpretation, including mapping procedures, recording, preliminary analysis, and reporting. Students will participate in an excavation for the Summer Session and will use this excavation as a basis for lectures, discussions and reports. Additional Field Trip Fees are charged for this course."
+  },
+  "ARCL 309": {
+    "subject_code": "ARCL",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "The Archaeology of Collapse and Sustainability",
+    "faculty": "Faculty of Arts",
+    "description": "An evaluation of the issues of sustainability and collapse of ecological and social systems through the archaeological study of the past."
+  },
+  "ARCL 318": {
+    "subject_code": "ARCL",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Archaeology of Hunter-Gatherer-Forager-Societies",
+    "faculty": "Faculty of Arts",
+    "description": "Early hunter-gatherer-forager societies, spanning the period from the emergence of the first tool-using hominins to the origins of agriculture."
+  },
+  "ARCL 319": {
+    "subject_code": "ARCL",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "The Emergence of Complex Societies in Eurasia and Africa",
+    "faculty": "Faculty of Arts",
+    "description": "Archaeological evidence and theories for the origins and spread of settled village life, food production systems, and complex social and political organization: Early Neolithic period through to the appearance of the old world civilizations."
+  },
+  "ARCL 322": {
+    "subject_code": "ARCL",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Archaeological Foundations of East and Southeast Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of the archaeology of East and Southeast Asia, with an emphasis on the beginnings of the economic, social, political, and artistic traditions and systems of the great civilizations, and the conditions in which they arose. Theories of cultural development emphasizing Neolithic and state-level societies will be discussed."
+  },
+  "ARCL 323": {
+    "subject_code": "ARCL",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Archaeological Foundations of Mesoamerica",
+    "faculty": "Faculty of Arts",
+    "description": "The archaeology of Mexico and Central America with an emphasis on the emergence of economic, social, political, and religious organization. Seminar format discussing recent research and current discoveries."
+  },
+  "ARCL 324": {
+    "subject_code": "ARCL",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "The Inca and Their Ancestors",
+    "faculty": "Faculty of Arts",
+    "description": "The archaeology of South America with an emphasis on the emergence of economic, social, political, and religious organization, and a primary focus on the Andean region. Seminar format with lectures discussing recent research and current discoveries."
+  },
+  "ARCL 325": {
+    "subject_code": "ARCL",
+    "course_code": "325",
+    "credit": "3-6",
+    "course_name": "Paleoanthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Origin and development of the hominins; the hominin fossil record, and theories relating to hominin evolution. Prerequisite: ARCL 140."
+  },
+  "ARCL 326": {
+    "subject_code": "ARCL",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Primatology",
+    "faculty": "Faculty of Arts",
+    "description": "A comprehensive survey of primates, with emphasis on evolution, ecology, social organization, social behaviour, and field studies. Prerequisite: ARCL 140."
+  },
+  "ARCL 345": {
+    "subject_code": "ARCL",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Molecular Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Molecular techniques in archaeology and their application to anthropological and archaeological research."
+  },
+  "ARCL 405": {
+    "subject_code": "ARCL",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Archaeological and Anthropological Mapping",
+    "faculty": "Faculty of Arts",
+    "description": "Current methods in mapping spatial information in archaeology and related subfields of anthropology."
+  },
+  "ARCL 406": {
+    "subject_code": "ARCL",
+    "course_code": "406",
+    "credit": "3-6",
+    "course_name": "Analytical Techniques in Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of methods and techniques in the interpretation of archaeological data; practical experience in processing and analyzing archaeological materials by means of a research project. Students will prepare manuscripts, drawings and photographs for publication and will learn the basics of lithic and faunal analyses."
+  },
+  "ARCL 410": {
+    "subject_code": "ARCL",
+    "course_code": "410",
+    "credit": "3-6",
+    "course_name": "Archaeology of a Special Area",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the archaeology of a specific areal, methodological, and theoretical topic, including a summary of the literature and examination of specific sites and analytical issues. The area covered will vary according to the instructor's expertise."
+  },
+  "ARCL 411": {
+    "subject_code": "ARCL",
+    "course_code": "411",
+    "credit": "3-6",
+    "course_name": "Prehistory of a Special Area in the New World",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the prehistory of a selected New World area, including a summary of the literature and discussion of relevant problems. The course will provide background for students in North, Central, and South American area studies. Typical offerings include the prehistory of Mesoamerica, the Southwest, North America and the Mayan areas."
+  },
+  "ARCL 419": {
+    "subject_code": "ARCL",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "The Archaeology of Death",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of methods, theory, and case-studies in mortuary archaeology. Prerequisite: ARCL 203."
+  },
+  "ARCL 420": {
+    "subject_code": "ARCL",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "First Nations Archaeology of British Columbia",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced study of the prehistoric archaeology of coastal and interior Native Peoples. A critical analysis of the archaeological evidence and interpretations of prehistoric cultural developments from the earliest migrations up to historical contact."
+  },
+  "ARCL 424": {
+    "subject_code": "ARCL",
+    "course_code": "424",
+    "credit": "3-6",
+    "course_name": "Practising Archaeology and the Management of Cultural Resources",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of the use of archaeology in the public context and interest, particularly the identification, evaluation, conservation, and management of archaeological resources. Laws and policies, principles, methods, and ethical concerns guiding current practices, public involvement, relationships with indigenous communities, and contemporary issues in cultural resources management."
+  },
+  "ARCL 425": {
+    "subject_code": "ARCL",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Paleodiet",
+    "faculty": "Faculty of Arts",
+    "description": "The archaeological evidence for the change of human diets over time and the methods used to reconstruct past diets."
+  },
+  "ARCL 430": {
+    "subject_code": "ARCL",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Archaeological Survey Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical and practical skills in locating archaeological sites and data leading to spatial patterns and historical interpretation."
+  },
+  "ARCL 435": {
+    "subject_code": "ARCL",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "Culture Through the Animal Body: Fundamentals of Zooarchaeology",
+    "faculty": "Faculty of Arts",
+    "description": "Methods to study animal bones and shell remains to understand the ways that people acquired food, negotiated their social status, and contributed to ceremonial practices. Prerequisite: ARCL 103."
+  }
+}

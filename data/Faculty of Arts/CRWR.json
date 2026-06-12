@@ -1,0 +1,890 @@
+{
+  "CRWR 200": {
+    "subject_code": "CRWR",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Creative Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of and practice in multiple genres of writing, including fiction, poetry, creative nonfiction, screenplay, stageplay, graphic forms, lyric forms, children's literature, and writing for new media. Manuscript submission is not required for admission."
+  },
+  "CRWR 201": {
+    "subject_code": "CRWR",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introduction to Writing Poetry",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of and practice in the writing of poetry, focusing on how a writer employs the technical elements of the craft of poetry. Manuscript submission not required for admission."
+  },
+  "CRWR 203": {
+    "subject_code": "CRWR",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Introduction to Writing for Children and Young Adults",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of and practice in creating, developing and writing for children and young adults. Manuscript submission is not required for admission."
+  },
+  "CRWR 205": {
+    "subject_code": "CRWR",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Introduction to Writing Creative Nonfiction",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of and practice in the writing of creative nonfiction, focusing on how a writer employs the technical elements of the craft of creative nonfiction. Manuscript submission not required for admission."
+  },
+  "CRWR 206": {
+    "subject_code": "CRWR",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Introduction to Writing for the Screen",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of and practice in creating, developing, and writing a screenplay. Manuscript submission is not required for admission."
+  },
+  "CRWR 208": {
+    "subject_code": "CRWR",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Introduction to Writing for Graphic Forms",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of and practice in creating, developing, and writing the graphic novel, manga, and other forms of illustrated writing. The ability to draw is not required. Manuscript submission is not required for admission."
+  },
+  "CRWR 209": {
+    "subject_code": "CRWR",
+    "course_code": "209",
+    "credit": "3",
+    "course_name": "Introduction to Writing Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of the writing of fiction, focusing on how a writer employs the technical elements of the craft of fiction. Manuscript submission not required for admission."
+  },
+  "CRWR 210": {
+    "subject_code": "CRWR",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Introduction to Video Game Writing",
+    "faculty": "Faculty of Arts",
+    "description": "A practical, project-based class for the creation of indie-scale, story-driven video games."
+  },
+  "CRWR 213": {
+    "subject_code": "CRWR",
+    "course_code": "213",
+    "credit": "3",
+    "course_name": "Introduction to Writing for the New Media",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of and practice in writing for new media, including podcasting, blogging, and writing for websites, games, and online environments. Manuscript submission is not required for admission."
+  },
+  "CRWR 216": {
+    "subject_code": "CRWR",
+    "course_code": "216",
+    "credit": "3",
+    "course_name": "Short Screenplay Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to B.F.A. Film Production students."
+  },
+  "CRWR 220": {
+    "subject_code": "CRWR",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Introduction to Creative Writing with an Indigenous Focus",
+    "faculty": "Faculty of Arts",
+    "description": "Covers three genres from fiction, poetry, creative nonfiction, radio drama, radio feature, or stageplay."
+  },
+  "CRWR 230": {
+    "subject_code": "CRWR",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Introduction to Writing for Comedic Forms",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of and practice in creative writing in comedic forms, including stand-up, sketch, film, new media, and text. Manuscript submission not required for admission."
+  },
+  "CRWR 301": {
+    "subject_code": "CRWR",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate Writing Poetry",
+    "faculty": "Faculty of Arts",
+    "description": "The writing of poetry in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission. Prerequisite: CRWR 201."
+  },
+  "CRWR 302": {
+    "subject_code": "CRWR",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Writing for Podcast",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of and practice in writing for podcast."
+  },
+  "CRWR 303": {
+    "subject_code": "CRWR",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Intermediate Writing for Children and Young Adults",
+    "faculty": "Faculty of Arts",
+    "description": "The writing of work for children and young adults in various forms using a combination of workshopping and online modules. Manuscript submission not required for admission. Prerequisite: CRWR 203."
+  },
+  "CRWR 305": {
+    "subject_code": "CRWR",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Intermediate Writing of Creative Nonfiction",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of and practice in the writing of creative non-fiction, covering four of the more basic forms of this genre: memoir, profile, commentary, and exposition. Manuscript submission is not required for admission. Prerequisite: CRWR 205."
+  },
+  "CRWR 306": {
+    "subject_code": "CRWR",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Intermediate Writing for the Screen",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of and practice in writing for the screen, focusing on how a writer employs the technical elements of the craft of screenwriting. Manuscript submission is not required for admission. Prerequisite: CRWR 206."
+  },
+  "CRWR 307": {
+    "subject_code": "CRWR",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Intermediate Writing for the Stage",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of practice in the writing of the one-act stage play, focusing on how a writer employs the technical elements of the craft of this genre. Manuscript submission is not required for admission. Prerequisite: CRWR 200."
+  },
+  "CRWR 308": {
+    "subject_code": "CRWR",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Intermediate Writing for Graphic Forms",
+    "faculty": "Faculty of Arts",
+    "description": "The writing of graphica (comics, manga and graphic novels), using a combination of workshopping and online modules. Manuscript submission not required for admission. Prerequisite: CRWR 208."
+  },
+  "CRWR 309": {
+    "subject_code": "CRWR",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Intermediate Writing Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of the writing of fiction, focusing on how a writer employs the technical elements of the craft of fiction. Manuscript submission not required for admission. Prerequisite: CRWR 209."
+  },
+  "CRWR 310": {
+    "subject_code": "CRWR",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Intermediate Video Game Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Narrative design and writing for video games. Prerequisite: CRWR_V 210."
+  },
+  "CRWR 311": {
+    "subject_code": "CRWR",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Intermediate Writing for Lyric Forms",
+    "faculty": "Faculty of Arts",
+    "description": "Techniques of and practice in writing for lyric forms, including song lyrics, lyrical narratives, and libretti. Manuscript submission is not required for admission. Prerequisite: CRWR_V 200."
+  },
+  "CRWR 312": {
+    "subject_code": "CRWR",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Interactive Storytelling",
+    "faculty": "Faculty of Arts",
+    "description": "Origin, theory and practice of interactive story forms. Exploring structural links between interactive theatre, gaming, and extended (virtual, mixed, and augmented) reality. Prerequisite: One of CRWR 213 or B.M.S. student with 3rd year standing or higher."
+  },
+  "CRWR 316": {
+    "subject_code": "CRWR",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Intermediate Writing for Television",
+    "faculty": "Faculty of Arts",
+    "description": "Elements of episodic and serialized comedic and dramatic television writing with writing practice applied to primary formats and genres. Prerequisite: CRWR 206."
+  },
+  "CRWR 319": {
+    "subject_code": "CRWR",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Writing Genre Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration and practice in writing major genres of genre fiction, including fantasy, science fiction, romance, crime, horror, and historical fiction. Prerequisite: CRWR_V 209."
+  },
+  "CRWR 330": {
+    "subject_code": "CRWR",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Intermediate Comedic Forms",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary and historical comedic writing in a variety of forms. Emphasis on critical analysis and creative writing of comedic works, and changes in the comedic landscape. Prerequisite: CRWR_V 230."
+  },
+  "CRWR 351": {
+    "subject_code": "CRWR",
+    "course_code": "351",
+    "credit": "3-9",
+    "course_name": "Intermediate Poetry Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An intermediate level workshop class in writing poetry. Manuscript submission is not required for admission. Prerequisite: CRWR 301."
+  },
+  "CRWR 353": {
+    "subject_code": "CRWR",
+    "course_code": "353",
+    "credit": "3-9",
+    "course_name": "Intermediate Children and Young Adult Writing Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An intermediate level workshop class in writing for children and young adults. Manuscript submission is not required for admission. Prerequisite: CRWR 303."
+  },
+  "CRWR 355": {
+    "subject_code": "CRWR",
+    "course_code": "355",
+    "credit": "3-9",
+    "course_name": "Intermediate Creative Nonfiction Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An intermediate level workshop class in writing of creative nonfiction. Manuscript submission is not required for admission. Prerequisite: CRWR 305."
+  },
+  "CRWR 356": {
+    "subject_code": "CRWR",
+    "course_code": "356",
+    "credit": "3-9",
+    "course_name": "Intermediate Screenplay Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An intermediate level workshop class in writing for the screen. Manuscript submission is not required for admission. Prerequisite: CRWR 306."
+  },
+  "CRWR 358": {
+    "subject_code": "CRWR",
+    "course_code": "358",
+    "credit": "3-9",
+    "course_name": "Intermediate Graphic Forms Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An intermediate level workshop class in writing for graphic forms. The ability to draw is not required. Manuscript submission is not required for admission. Prerequisite: CRWR 308."
+  },
+  "CRWR 359": {
+    "subject_code": "CRWR",
+    "course_code": "359",
+    "credit": "3-9",
+    "course_name": "Intermediate Fiction Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An intermediate level workshop class in writing of fiction. Manuscript submission is not required for admission. Prerequisite: CRWR 309."
+  },
+  "CRWR 401": {
+    "subject_code": "CRWR",
+    "course_code": "401",
+    "credit": "3-12",
+    "course_name": "Writing Poetry I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in the writing of poetry. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 402": {
+    "subject_code": "CRWR",
+    "course_code": "402",
+    "credit": "3-12",
+    "course_name": "Writing for New Media I",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for new media. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 403": {
+    "subject_code": "CRWR",
+    "course_code": "403",
+    "credit": "3-12",
+    "course_name": "Writing for Children and Young Adults I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in writing for Children and Young Adults. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 404": {
+    "subject_code": "CRWR",
+    "course_code": "404",
+    "credit": "3-12",
+    "course_name": "Writing for Radio I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in writing for the radio. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 405": {
+    "subject_code": "CRWR",
+    "course_code": "405",
+    "credit": "3-12",
+    "course_name": "Writing Creative Nonfiction I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in writing creative nonfiction, which may include forms such as autobiography, rhetoric, literary journalism, and the personal essay. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 406": {
+    "subject_code": "CRWR",
+    "course_code": "406",
+    "credit": "3-12",
+    "course_name": "Writing for the Screen I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in writing for the screen. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 407": {
+    "subject_code": "CRWR",
+    "course_code": "407",
+    "credit": "3-12",
+    "course_name": "Writing of Drama for the Stage I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in writing of drama for the stage. Studio work is required, and some plays may be given a live stage production in Brave New Play Rites (adjudication process involved). Restricted to Majors in Creative Writing."
+  },
+  "CRWR 408": {
+    "subject_code": "CRWR",
+    "course_code": "408",
+    "credit": "3-12",
+    "course_name": "Writing for Graphic Forms I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in the writing of graphic novel, manga, and other forms of illustrated writing. The ability to draw is not required. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 409": {
+    "subject_code": "CRWR",
+    "course_code": "409",
+    "credit": "3-12",
+    "course_name": "Writing Fiction I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in the writing of fiction. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 410": {
+    "subject_code": "CRWR",
+    "course_code": "410",
+    "credit": "3-6",
+    "course_name": "Video Game Writing",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class on writing for video games. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 411": {
+    "subject_code": "CRWR",
+    "course_code": "411",
+    "credit": "3-12",
+    "course_name": "Writing for Lyric Forms I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class exploring the words that accompany music in varied forms including pop, art, musical theatre, and opera. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 415": {
+    "subject_code": "CRWR",
+    "course_code": "415",
+    "credit": "3-6",
+    "course_name": "Workshop in Literary Translation I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in literary translation. Restricted to Majors in Creative Writing. Prerequisite: Proficiency in a language other than English."
+  },
+  "CRWR 416": {
+    "subject_code": "CRWR",
+    "course_code": "416",
+    "credit": "3-12",
+    "course_name": "Writing for Television I",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class in writing for television. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 417": {
+    "subject_code": "CRWR",
+    "course_code": "417",
+    "credit": "3-12",
+    "course_name": "Play Development Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary course, in cooperation with the Theatre program, emphasizing script development through scene work, character development and stagecraft. Prerequisite: Manuscript submission or equivalent theatre experience."
+  },
+  "CRWR 419": {
+    "subject_code": "CRWR",
+    "course_code": "419",
+    "credit": "3-12",
+    "course_name": "Writing Speculative Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Workshop-based class focused on writing speculative fiction, including fantasy, science fiction, and horror; emphasis on reading various genres and peer feedback. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 420": {
+    "subject_code": "CRWR",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "Indigenous Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of contemporary Indigenous writing in North America across genres focusing on the production of critical and creative writing about coloniality, race, history, and identity. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 423": {
+    "subject_code": "CRWR",
+    "course_code": "423",
+    "credit": "3-6",
+    "course_name": "Experimental Forms",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary perspectives on non-traditional forms of writing. Emphasis on combinations of poetry with prose, extra-literary structures, and visuals. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 425": {
+    "subject_code": "CRWR",
+    "course_code": "425",
+    "credit": "3-6",
+    "course_name": "Climate Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Workshop-based class focused on writing related to climate change and environmental issues; emphasis on reading various genres and peer feedback. Restricted to Majors in Creative Writing. A maximum of 6 credits is permitted between CRWR_V 425 and 525."
+  },
+  "CRWR 430": {
+    "subject_code": "CRWR",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Preparation for a Career in Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. Credit will be granted for only one of CRWR 430 or CRWR 530. Restricted to Majors in Creative Writing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 431": {
+    "subject_code": "CRWR",
+    "course_code": "431",
+    "credit": "3-6",
+    "course_name": "Writing Comedic Forms",
+    "faculty": "Faculty of Arts",
+    "description": "A workshop class exploring comedic writing in varied forms including film and television, prose and poetry, non-fiction, and new media. Restricted to Majors in Creative Writing."
+  },
+  "CRWR 440": {
+    "subject_code": "CRWR",
+    "course_code": "440",
+    "credit": "3-6",
+    "course_name": "Interdisciplinary Projects",
+    "faculty": "Faculty of Arts",
+    "description": "Group projects and workshops with students majoring in other creative arts. Restricted to Majors in Creative Writing. Credit will be granted for only one of CRWR_V 440, THTR_V 469, VISA_V 469, MUSC_V 469. Equivalency: THTR_V 469, VISA_V 469, MUSC_V 469."
+  },
+  "CRWR 451": {
+    "subject_code": "CRWR",
+    "course_code": "451",
+    "credit": "3-12",
+    "course_name": "Writing Poetry II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing poetry. Restricted to Majors in Creative Writing. Prerequisite: CRWR 401."
+  },
+  "CRWR 452": {
+    "subject_code": "CRWR",
+    "course_code": "452",
+    "credit": "3-12",
+    "course_name": "Writing for New Media II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for new media. Restricted to Majors in Creative Writing. Prerequisite: CRWR 402."
+  },
+  "CRWR 453": {
+    "subject_code": "CRWR",
+    "course_code": "453",
+    "credit": "3-12",
+    "course_name": "Writing for Children and Young Adults II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for children and young adults. Restricted to Majors in Creative Writing. Prerequisite: CRWR 403."
+  },
+  "CRWR 454": {
+    "subject_code": "CRWR",
+    "course_code": "454",
+    "credit": "3-12",
+    "course_name": "Writing for Radio II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for the radio. Restricted to Majors in Creative Writing. Prerequisite: CRWR 404."
+  },
+  "CRWR 455": {
+    "subject_code": "CRWR",
+    "course_code": "455",
+    "credit": "3-12",
+    "course_name": "Writing Creative Nonfiction II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class focusing on memoir, biography, rhetoric, literary journalism, the personal essay, and some hybrid forms of creative nonfiction. Restricted to Majors in Creative Writing. Prerequisite: CRWR_V 405."
+  },
+  "CRWR 456": {
+    "subject_code": "CRWR",
+    "course_code": "456",
+    "credit": "3-12",
+    "course_name": "Writing for the Screen II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for the screen. Restricted to Majors in Creative Writing. Prerequisite: CRWR 406."
+  },
+  "CRWR 457": {
+    "subject_code": "CRWR",
+    "course_code": "457",
+    "credit": "3-12",
+    "course_name": "Writing of Drama for the Stage II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing drama for the stage. Studio work is required. Assumes a greater level of experience in writing drama for the stage than CRWR 407. Prerequisite: Restricted to Majors in Creative Writing."
+  },
+  "CRWR 458": {
+    "subject_code": "CRWR",
+    "course_code": "458",
+    "credit": "3-12",
+    "course_name": "Writing for Graphic Forms II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for graphic forms. The ability to draw is not required. Restricted to Majors in Creative Writing. Prerequisite: CRWR 408."
+  },
+  "CRWR 459": {
+    "subject_code": "CRWR",
+    "course_code": "459",
+    "credit": "3-12",
+    "course_name": "Writing Fiction II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing fiction. Restricted to Majors in Creative Writing. Prerequisite: CRWR 409."
+  },
+  "CRWR 460": {
+    "subject_code": "CRWR",
+    "course_code": "460",
+    "credit": "3-12",
+    "course_name": "Workshop in Literary Translation II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in literary translation. Restricted to Majors in Creative Writing. Prerequisite: CRWR 415. and proficiency in a language other than English."
+  },
+  "CRWR 461": {
+    "subject_code": "CRWR",
+    "course_code": "461",
+    "credit": "3-12",
+    "course_name": "Writing for Lyric Forms II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for lyric forms. Restricted to Majors in Creative Writing. Prerequisite: CRWR 411."
+  },
+  "CRWR 466": {
+    "subject_code": "CRWR",
+    "course_code": "466",
+    "credit": "3-12",
+    "course_name": "Writing for Television II",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced workshop class in writing for television. Restricted to Majors in Creative Writing. Prerequisite: CRWR 416."
+  },
+  "CRWR 470": {
+    "subject_code": "CRWR",
+    "course_code": "470",
+    "credit": "3-12",
+    "course_name": "Special Projects in Creative Writing",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive permission to do advanced work on a specific project. Admission is restricted to B.F.A. Majors in Creative Writing."
+  },
+  "CRWR 471": {
+    "subject_code": "CRWR",
+    "course_code": "471",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing Poetry",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 473": {
+    "subject_code": "CRWR",
+    "course_code": "473",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing for Children",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 474": {
+    "subject_code": "CRWR",
+    "course_code": "474",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing Drama for Radio",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 475": {
+    "subject_code": "CRWR",
+    "course_code": "475",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing Non-Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 476": {
+    "subject_code": "CRWR",
+    "course_code": "476",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing for Screen and Television",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 477": {
+    "subject_code": "CRWR",
+    "course_code": "477",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing Drama for the Stage",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 479": {
+    "subject_code": "CRWR",
+    "course_code": "479",
+    "credit": "3-12",
+    "course_name": "Special Projects in Writing Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in this genre."
+  },
+  "CRWR 480": {
+    "subject_code": "CRWR",
+    "course_code": "480",
+    "credit": "3-12",
+    "course_name": "Special Projects in Literary Translation",
+    "faculty": "Faculty of Arts",
+    "description": "For students who receive departmental permission to do advanced work in translation."
+  },
+  "CRWR 490": {
+    "subject_code": "CRWR",
+    "course_code": "490",
+    "credit": "3-12",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "The course will emphasize current trends and techniques rather than critical evaluation. Not offered every year."
+  },
+  "CRWR 501": {
+    "subject_code": "CRWR",
+    "course_code": "501",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Poetry I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 502": {
+    "subject_code": "CRWR",
+    "course_code": "502",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for New Media I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 503": {
+    "subject_code": "CRWR",
+    "course_code": "503",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Children I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 504": {
+    "subject_code": "CRWR",
+    "course_code": "504",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Radio I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 505": {
+    "subject_code": "CRWR",
+    "course_code": "505",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Creative Non-Fiction I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 506": {
+    "subject_code": "CRWR",
+    "course_code": "506",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Drama for Screen I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 507": {
+    "subject_code": "CRWR",
+    "course_code": "507",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Drama for the Stage I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 508": {
+    "subject_code": "CRWR",
+    "course_code": "508",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Graphic Forms I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 509": {
+    "subject_code": "CRWR",
+    "course_code": "509",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Fiction I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 511": {
+    "subject_code": "CRWR",
+    "course_code": "511",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Lyric Forms I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 514": {
+    "subject_code": "CRWR",
+    "course_code": "514",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Television I",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 515": {
+    "subject_code": "CRWR",
+    "course_code": "515",
+    "credit": "3-6",
+    "course_name": "Advanced Workshop in Literary Translation I",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: Proficiency in a language other than English. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 517": {
+    "subject_code": "CRWR",
+    "course_code": "517",
+    "credit": "3-12",
+    "course_name": "Advanced Play Development Workshop",
+    "faculty": "Faculty of Arts",
+    "description": "An interdisciplinary course, in cooperation with the Acting and the M.F.A. Directing programs in Theatre, emphasizing script development through scenework, character development, and stagecraft. Prerequisite: Manuscript submission or equivalent theatre experience. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 519": {
+    "subject_code": "CRWR",
+    "course_code": "519",
+    "credit": "3-12",
+    "course_name": "Writing Speculative Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced writing of speculative fiction, including fantasy, science fiction, magical realism, horror, folk tales, and weird stories. Emphasis on reading examples from the subgenres and peer feedback. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 520": {
+    "subject_code": "CRWR",
+    "course_code": "520",
+    "credit": "3-12",
+    "course_name": "Editing and Managing a Literary Magazine",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: Permission of the instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 521": {
+    "subject_code": "CRWR",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Advanced Indigenous Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of contemporary Indigenous writing in North America across genres focusing on the production of critical and creative writing about coloniality, race, history, and identity. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 523": {
+    "subject_code": "CRWR",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Thinking and Writing Through Art",
+    "faculty": "Faculty of Arts",
+    "description": "Interdisciplinary perspectives on non-traditional forms of writing. Emphasis on poets working at the intersection of writing and art practices and rigorous experimentation in hybrid works. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 525": {
+    "subject_code": "CRWR",
+    "course_code": "525",
+    "credit": "3-6",
+    "course_name": "Advanced Climate Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced workshop-based class focused on writing related to climate change and environmental issues; emphasis on reading various genres and peer feedback. Restricted to graduate students in the M.F.A. Program in Creative Writing. A maximum of 6 credits is permitted between CRWR_V 425 and 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 530": {
+    "subject_code": "CRWR",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Preparation for a Career in Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Pass/Fail. Credit will be granted for only one of CRWR 430 or CRWR 530. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 531": {
+    "subject_code": "CRWR",
+    "course_code": "531",
+    "credit": "3-6",
+    "course_name": "Advanced Comedic Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of comedic writing in varied forms including film and television, prose and poetry, non-fiction, and new media. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 550": {
+    "subject_code": "CRWR",
+    "course_code": "550",
+    "credit": "3-12",
+    "course_name": "Teaching Creative Writing",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 551": {
+    "subject_code": "CRWR",
+    "course_code": "551",
+    "credit": "3-12",
+    "course_name": "Advanced Writing Poetry II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 552": {
+    "subject_code": "CRWR",
+    "course_code": "552",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for New Media II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 553": {
+    "subject_code": "CRWR",
+    "course_code": "553",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Children II",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: CRWR_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 554": {
+    "subject_code": "CRWR",
+    "course_code": "554",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Radio II",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: CRWR_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 555": {
+    "subject_code": "CRWR",
+    "course_code": "555",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Non-Fiction II",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: CRWR_V 505. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 556": {
+    "subject_code": "CRWR",
+    "course_code": "556",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for the Screen II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 557": {
+    "subject_code": "CRWR",
+    "course_code": "557",
+    "credit": "3-12",
+    "course_name": "Advanced Writing of Drama for the Stage II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 558": {
+    "subject_code": "CRWR",
+    "course_code": "558",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Graphic Forms II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 559": {
+    "subject_code": "CRWR",
+    "course_code": "559",
+    "credit": "3-12",
+    "course_name": "Advanced Writing Fiction II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 560": {
+    "subject_code": "CRWR",
+    "course_code": "560",
+    "credit": "3-12",
+    "course_name": "Advanced Workshop in Literary Translation II",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: CRWR_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 561": {
+    "subject_code": "CRWR",
+    "course_code": "561",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Lyric Forms II",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 566": {
+    "subject_code": "CRWR",
+    "course_code": "566",
+    "credit": "3-12",
+    "course_name": "Advanced Writing for Television II",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: CRWR_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 570": {
+    "subject_code": "CRWR",
+    "course_code": "570",
+    "credit": "3-12",
+    "course_name": "Advanced Special Projects in Creative Writing",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 590": {
+    "subject_code": "CRWR",
+    "course_code": "590",
+    "credit": "3-12",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CRWR 599": {
+    "subject_code": "CRWR",
+    "course_code": "599",
+    "credit": "6",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

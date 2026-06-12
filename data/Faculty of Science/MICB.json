@@ -1,0 +1,378 @@
+{
+  "MICB 201": {
+    "subject_code": "MICB",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Introductory Environmental Microbiology",
+    "faculty": "Faculty of Science",
+    "description": "Prokaryotic diversity and the impact and applications of bacterial and archaeal metabolic, genetic, and growth processes in environmental contexts. [3-0-0] Prerequisite: One of BIOL 112, BIOL 200, SCIE 001. For students with BIOL 112, CHEM 121 is recommended."
+  },
+  "MICB 202": {
+    "subject_code": "MICB",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Introductory Medical Microbiology and Immunology",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to cellular and humoral immune responses, the properties of viruses and the principles of bacterial pathogenesis. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar.) [3-0-0] Prerequisite: One of BIOL 112, BIOL 200, BMEG 245, MICB 201, SCIE 001."
+  },
+  "MICB 203": {
+    "subject_code": "MICB",
+    "course_code": "203",
+    "credit": "1",
+    "course_name": "Basic Microbiology Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Procedures and principles associated with isolation, characterization and handling of microorganisms. Intended for students requiring a basic microbiology laboratory course. [1*-3-1*] Prerequisite: One of BIOL 112, SCIE 001."
+  },
+  "MICB 205": {
+    "subject_code": "MICB",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "Fundamental Data Science in Microbiology and Immunology",
+    "faculty": "Faculty of Science",
+    "description": "Foundations in data science course that incorporates the use of biological data science tools to perform survey-level analysis of microbiology and immunology datasets. [3-0-0] Prerequisite: DSCI 100. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 211": {
+    "subject_code": "MICB",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Foundations of Microbiology",
+    "faculty": "Faculty of Science",
+    "description": "Prokaryotic diversity and the impact and applications of microbial metabolic, genetic, and growth processes in environmental contexts. Bacteria-human interactions in health and disease, mode of action of antibiotics and antibiotic resistance, virulence factors of bacteria, and host response to infection. [3-0-1] Prerequisite: Either (a) all of BIOL 112, CHEM 121 or (b) one of BIOL 200, BMEG 245, SCIE 001."
+  },
+  "MICB 212": {
+    "subject_code": "MICB",
+    "course_code": "212",
+    "credit": "3",
+    "course_name": "Introductory Immunology & Virology",
+    "faculty": "Faculty of Science",
+    "description": "Innate and adaptive immune responses to bacterial and viral pathogens, autoimmunity, allergies and graft rejection; virus structure, replication cycles, pathogenesis and vaccines; data analysis of foundational immunology and virology experiments. [3-0-1] Prerequisite: One of BIOL 112, BIOL 200, BMEG 245, SCIE 001."
+  },
+  "MICB 301": {
+    "subject_code": "MICB",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Microbial Ecophysiology",
+    "faculty": "Faculty of Science",
+    "description": "Dynamics and control of prokaryotic cellular processes in response to the biotic and abiotic environment including metabolic interactions and metabolic cooperation between microorganisms. [3-0-1] Prerequisite: Either (a) one of MICB 211, MICB 201 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380."
+  },
+  "MICB 302": {
+    "subject_code": "MICB",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Immunology",
+    "faculty": "Faculty of Science",
+    "description": "Mechanisms of innate and adaptive immune responses. Hematopoiesis, development of T and B lymphocytes, leukocyte migration, antigen processing/presentation and the major histocompatibility complex, immune responses against pathogens, and diseases associated with aberrant immune responses. [3-0-1] Prerequisite: One of MICB 212, MICB 202."
+  },
+  "MICB 305": {
+    "subject_code": "MICB",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Data Science in Microbiology and Immunology Research",
+    "faculty": "Faculty of Science",
+    "description": "A team-based data science research experience in microbiology and immunology. [3-0-1] Prerequisite: MICB_V 205 and 3rd-year class standing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 306": {
+    "subject_code": "MICB",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Molecular Virology",
+    "faculty": "Faculty of Science",
+    "description": "Cellular and molecular virology of select human viral pathogens, emphasizing host–virus interactions and antiviral strategies. [3-0-1] Prerequisites: a) One of BIOL_V 200, BMEG_V 245, BIOT_V 380 and b) one of MICB_V 212, MICB_V 202."
+  },
+  "MICB 308": {
+    "subject_code": "MICB",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Paradigms in Bacterial Pathogenesis",
+    "faculty": "Faculty of Science",
+    "description": "Mechanisms of bacterial pathogenesis including adherence, invasion, intracellular survival, toxins, host defenses and microbial evasion strategies, antibiotics, and vaccines. Introduction to experimental approaches used to study bacterial pathogens. [3-0-0] Prerequisite: Either (a) one of MICB 211, MICB 202 and one of BIOL 201, BIOC 202, BIOC 203; or (b) BIOT 380."
+  },
+  "MICB 322": {
+    "subject_code": "MICB",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Molecular Microbiology Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Application of foundational skills to common techniques used in classical and molecular microbiology. Restricted to students in Microbiology and Immunology specializations. [2-4-0] Prerequisites: MICB_V 211 (or 201)."
+  },
+  "MICB 323": {
+    "subject_code": "MICB",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "Molecular Immunology and Virology Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Genetic manipulations of bacteria, introductory immunological and virological procedures, tissue culture. Restricted to students in Microbiology and Immunology specializations. [2-4-0] Prerequisite: [MICB322]"
+  },
+  "MICB 325": {
+    "subject_code": "MICB",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Analysis of Microbial Genes and Genomes",
+    "faculty": "Faculty of Science",
+    "description": "Genetic, molecular biological and bioinformatic approaches for the analysis of microbial genomes, gene structure-function and gene expression with emphasis on bacteria. [3-0-0] Prerequisite: One of MICB 211, MICB 201, BIOL 234."
+  },
+  "MICB 353": {
+    "subject_code": "MICB",
+    "course_code": "353",
+    "credit": "1",
+    "course_name": "Food Microbiology Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Procedures and principles associated with isolation, enumeration, characterization and handling of microorganisms. Restricted to students registered in the Food Science program. [1-2-0] Prerequisite: One of BIOL 112, MICB 211, MICB 201, SCIE 001."
+  },
+  "MICB 398": {
+    "subject_code": "MICB",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Science",
+    "description": "Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail. Prerequisite: Either (a) one of MICB_V 211, MICB_V 201 and one of MICB_V 212, MICB_V 202; or (b) BIOT_V 380. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 399": {
+    "subject_code": "MICB",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Science",
+    "description": "Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail. Prerequisite: MICB_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 401": {
+    "subject_code": "MICB",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Environmental Microbiology Laboratory",
+    "faculty": "Faculty of Science",
+    "description": "Microbiological analysis of environmental samples using culture-dependent and culture-independent methods. [2-4-0] Prerequisite: MICB 322 and MICB 301."
+  },
+  "MICB 402": {
+    "subject_code": "MICB",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Advanced Immunology",
+    "faculty": "Faculty of Science",
+    "description": "Molecular basis of lymphocyte development, activation and adhesion; immunogenetics and the major histocompatibility complex. Consult the credit exclusion list within the Faculty of Science section of the calendar. [3-0-1] Prerequisite: One of MICB 302, BIOT 380. If MICB 302 is used as the prerequisite for MICB 402, students are required to take one of the following as a corequisite: BIOL 234, BIOL 335, MICB 325."
+  },
+  "MICB 404": {
+    "subject_code": "MICB",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Topics in Molecular Bacterial Pathogenesis",
+    "faculty": "Faculty of Science",
+    "description": "A lecture/discussion/library research course. Topics such as antibiotic resistance, pathogen genomics; host-pathogen interactions; evolution of pathogens; host responses to infection, invasive mechanisms, resistance mechanisms. [1-0-4] Prerequisite: MICB 302 and one of MICB 308, MICB 408."
+  },
+  "MICB 405": {
+    "subject_code": "MICB",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "Bioinformatics",
+    "faculty": "Faculty of Science",
+    "description": "Computational methods to analyze genome and protein sequences to derive structural and functional information. Related topics in functional genomics. [3-0-1] Prerequisite: One of MICB 301, MICB 325, BIOC 302, BIOC 303, BIOL 335, BIOT 380."
+  },
+  "MICB 406": {
+    "subject_code": "MICB",
+    "course_code": "406",
+    "credit": "3",
+    "course_name": "Topics in Molecular Virology",
+    "faculty": "Faculty of Science",
+    "description": "Presentations, library research, paper reviews, class discussions about current research in virology. Topics such as molecular targets in viral therapy; chronic viral infection; virus-host cell interaction. [1-0-4] Prerequisite: MICB 306."
+  },
+  "MICB 407": {
+    "subject_code": "MICB",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Viral Infections in Humans.",
+    "faculty": "Faculty of Science",
+    "description": "Interactions between viruses and humans; pathogenesis; persistence and viral oncogenesis; virological diagnosis and treatment. (Consult the Credit Exclusion list within the Faculty of Science section of the Calendar.) [3-0-0] Prerequisite: MICB306"
+  },
+  "MICB 408": {
+    "subject_code": "MICB",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Advanced Bacterial Pathogenesis",
+    "faculty": "Faculty of Science",
+    "description": "Current and emerging themes in bacterial pathogenesis including cellular microbiology, bacterial cell biology processes and their role in virulence including secretion systems to deliver virulence factors and immune evasion strategies employed by pathogens. Development of antibiotics and resistance to antibiotics. [3-0-0] Prerequisite: MICB 308."
+  },
+  "MICB 412": {
+    "subject_code": "MICB",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Topics in Immunological Research",
+    "faculty": "Faculty of Science",
+    "description": "Presentations, library research, paper reviews and class discussion on selected areas of advanced molecular and cellular immunological research. [1-0-4] Prerequisite: MICB_V 302."
+  },
+  "MICB 413": {
+    "subject_code": "MICB",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Topics in Microbiome Research",
+    "faculty": "Faculty of Science",
+    "description": "Critical examination and discussion of contemporary research literature concerning the impact of host-associated microbiomes on host development, health and disease with a focus on humans. Priority given to students in Microbiology and Immunology specializations. [3-0-0] Prerequisite: Either (a) MICB 302 and one of MICB 308, MICB 325, BIOL 335; or (b) BIOT 380. And fourth-year standing in Science."
+  },
+  "MICB 418": {
+    "subject_code": "MICB",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Industrial Microbiology and Biotechnology",
+    "faculty": "Faculty of Science",
+    "description": "Exploitation of microbial and animal cells for the industrial production of chemicals ranging from alcohol to therapeutic proteins. Genetic manipulation of cellular characteristics, fermentation methods, patenting and governmental approval processes. [3-0-0] Corequisite: One of BIOL 335, MICB 325, BIOT 380."
+  },
+  "MICB 421": {
+    "subject_code": "MICB",
+    "course_code": "421",
+    "credit": "3",
+    "course_name": "Experimental Microbiology",
+    "faculty": "Faculty of Science",
+    "description": "Research in microbial physiology and molecular genetics. Guided and independent laboratory projects are developed. [2-4-0] Prerequisite: One of MICB 323, BIOT 380."
+  },
+  "MICB 425": {
+    "subject_code": "MICB",
+    "course_code": "425",
+    "credit": "3",
+    "course_name": "Microbial Ecological Genomics",
+    "faculty": "Faculty of Science",
+    "description": "Intrinsic and extrinsic forces driving prokaryotic genome evolution. Gene transfer; microbial species concepts; community genome structure, function and dynamics; ecological impacts of microbial genome diversity. Emphasis on problem solving and experimental design. [3-3-0] Prerequisite: One of BIOL 335, MICB 325, BIOT 380."
+  },
+  "MICB 430": {
+    "subject_code": "MICB",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Seminar in Microbiological Literature",
+    "faculty": "Faculty of Science",
+    "description": "Student seminars on selected papers from the microbiological literature."
+  },
+  "MICB 447": {
+    "subject_code": "MICB",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Experimental Molecular Biology",
+    "faculty": "Faculty of Science",
+    "description": "A laboratory course with a choice of independent, supervised research projects. Students develop protocols to carry out investigation of selected molecular biology problems. [2-4-0] Prerequisite: Either (a) BIOT 380 or (b) MICB 323 or (c) all of MICB 322, MICB 398."
+  },
+  "MICB 448": {
+    "subject_code": "MICB",
+    "course_code": "448",
+    "credit": "3-6",
+    "course_name": "Directed Research",
+    "faculty": "Faculty of Science",
+    "description": "A library (3 credits) or laboratory (3 or 6 credits) project. Requires permission of the Undergraduate Advisor. The results are presented in a written report to be reviewed by oral examination. Prerequisite: Either (a) MICB_V 323 or (b) all of MICB_V 322, MICB_V 399."
+  },
+  "MICB 449": {
+    "subject_code": "MICB",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Research Problem",
+    "faculty": "Faculty of Science",
+    "description": "A laboratory investigation in the final year of the Honours program. The results are presented in a written report, to be reviewed by oral examination. Prerequisite: Either (a) MICB 323 or (b) all of MICB 322, MICB 399."
+  },
+  "MICB 471": {
+    "subject_code": "MICB",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Laboratory Research in Microbiology and Immunology",
+    "faculty": "Faculty of Science",
+    "description": "A team-based laboratory research experience in microbiology and immunology. [2-4-0] Prerequisite: One of MICB 323, BIOT 380."
+  },
+  "MICB 475": {
+    "subject_code": "MICB",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Data Science Research in Microbiology and Immunology",
+    "faculty": "Faculty of Science",
+    "description": "A team-based data science research experience in microbiology and immunology. [3-0-0] Prerequisite: Either (a) MICB 322 and one of MICB 325, BIOL 335; or (b) BIOT 380."
+  },
+  "MICB 498": {
+    "subject_code": "MICB",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Science",
+    "description": "Work experience. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail. Prerequisite: Either (a) MICB_V 399 or (b) BIOT_V 380. And completion of two co-op work terms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 499": {
+    "subject_code": "MICB",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Science",
+    "description": "Work experience in an industrial research setting, taken during the Winter Session (Term 1) of fifth year. Restricted to students admitted to the Co-operative Education Program in the Biotechnology or Microbiology and Immunology specializations. Pass/Fail. Prerequisite: MICB_V 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 502": {
+    "subject_code": "MICB",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Advanced Immunogenetics",
+    "faculty": "Faculty of Science",
+    "description": "Consult the Credit Exclusion List in the Faculty of Science section of the Calendar. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 505": {
+    "subject_code": "MICB",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Molecular Microbiology",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 506": {
+    "subject_code": "MICB",
+    "course_code": "506",
+    "credit": "3-6",
+    "course_name": "Microbiological and Immunological Research",
+    "faculty": "Faculty of Science",
+    "description": "Developing, discussing, and undertaking research projects. Oral communication skills, peer review skills, scientific ethics, and the ability to critically evaluate papers in the literature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 507": {
+    "subject_code": "MICB",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Topics in Molecular Pathogenesis and Immunology",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 520": {
+    "subject_code": "MICB",
+    "course_code": "520",
+    "credit": "1-6",
+    "course_name": "Topics in Microbiology, Immunology and Virology",
+    "faculty": "Faculty of Science",
+    "description": "Selected topics in a specific area within Microbiology, Immunology and Virology. May be taken more than once for credit with permission of the department. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 530": {
+    "subject_code": "MICB",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Student Seminars in Microbiology, Immunology and Virology",
+    "faculty": "Faculty of Science",
+    "description": "Student seminars on selected papers from the microbiology, immunology and virology literature. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 548": {
+    "subject_code": "MICB",
+    "course_code": "548",
+    "credit": "6",
+    "course_name": "Directed Studies on an Approved Problem",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 549": {
+    "subject_code": "MICB",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 575": {
+    "subject_code": "MICB",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Data Science Research in Microbiology and Immunology",
+    "faculty": "Faculty of Science",
+    "description": "A team-based data science research experience in microbiology and immunology. Please consult the Faculty of Science Credit Exclusion List: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MICB 649": {
+    "subject_code": "MICB",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

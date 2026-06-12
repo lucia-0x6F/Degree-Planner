@@ -1,0 +1,114 @@
+{
+  "FOPE 500": {
+    "subject_code": "FOPE",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Sustainable Forest Management in a Changing World",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Origins of sustainable forest management; criteria and indicators of sustainable forest management used globally and how these will need to be adapted to our changing climate. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 501": {
+    "subject_code": "FOPE",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Geomatics in Forestry: Data Collection and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Fundamental concepts of spatial technologies and geo-spatial analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 502": {
+    "subject_code": "FOPE",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Introduction to Urban Forestry in the Asian Pacific Region",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles behind urban forest governance, urban forest planning and green-space management, and their role in human health and wellbeing in the Asia-Pacific Region. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 503": {
+    "subject_code": "FOPE",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Climate Modelling and Forest Applications",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Potential impacts of climate change on global forest systems. Concepts and techniques of climate change modelling; adaptive management strategies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 504": {
+    "subject_code": "FOPE",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Structure and Composition of Tropical Forest Ecosystems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ecological characteristics of tropical forests including their structure and composition. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 505": {
+    "subject_code": "FOPE",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Ecological Processes in Tropical Forests",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The ecological processes found in tropical humid and dry forests, including a series of case studies drawn from tropical forests around the world. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 507": {
+    "subject_code": "FOPE",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "International Forestry Issues, Institutions, and Multilateral Agreements",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Major contemporary global natural resources management issues emphasis on Forestry. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 508": {
+    "subject_code": "FOPE",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Forest Ecosystem Services and Community Livelihoods",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Interdependence and dynamics of different forest ecosystem services and how they contribute to sustainable forest management and community livelihoods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 509": {
+    "subject_code": "FOPE",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Introduction to Intensive Plantation Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Case studies of plantation forestry systems from around the world; advantages and challenges of intensively managed forests. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 510": {
+    "subject_code": "FOPE",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Plantation Silviculture",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Science of cultivating forest stands, including influence of climate and soil, characteristics of tree growth and stand development, and forest types and plantation designs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 511": {
+    "subject_code": "FOPE",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Wood Properties and Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Manufacturing processes, applications and supply chains of solid wood, composite, and engineered wood products; pulp and paper, bio-based materials and bioenergy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 512": {
+    "subject_code": "FOPE",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Forest Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "General and forestry-specific economic principles and concepts, including role of forests in sustainable development. Prerequisite: All of FOPE_V 509, FOPE_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 513": {
+    "subject_code": "FOPE",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Forest Finance",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theoretical and technical skills to analyze corporate financial management in the forest industry, including analytical tools to analyze cost and benefit, evaluate risk, and identify optimum investment. Prerequisite: All of FOPE_V 509, FOPE_V 510. Corequisite: FOPE_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOPE 514": {
+    "subject_code": "FOPE",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Forest Business Enterprise",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Foundations of forest business enterprises (FBEs), including their role in forest management, interactions with stakeholders, and the drivers of successes and failures in FBEs. This course is not eligible for Credit/D/Fail grading."
+  }
+}

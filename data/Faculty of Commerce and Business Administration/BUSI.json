@@ -1,0 +1,426 @@
+{
+  "BUSI 100": {
+    "subject_code": "BUSI",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Micro Foundations of Real Estate Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Basic principles of microeconomics and application to current economic problems."
+  },
+  "BUSI 101": {
+    "subject_code": "BUSI",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Capital Markets and Real Estate",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Basic principles of macroeconomics and application to current economic problems. Prerequisite: BUSI_V 100."
+  },
+  "BUSI 111": {
+    "subject_code": "BUSI",
+    "course_code": "111",
+    "credit": "3",
+    "course_name": "British Columbia Real Estate Law and Real Estate Ethics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Canadian legal system and contract law and detailed aspects of real estate law as it applies in British Columbia."
+  },
+  "BUSI 112": {
+    "subject_code": "BUSI",
+    "course_code": "112",
+    "credit": "3",
+    "course_name": "Canadian Real Property Law and Real Estate Ethics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Canadian legal system and contract law and detailed aspects of real estate law as it applies across Canada."
+  },
+  "BUSI 121": {
+    "subject_code": "BUSI",
+    "course_code": "121",
+    "credit": "3",
+    "course_name": "Foundations of Real Estate Mathematics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to mathematics of real estate finance and statistical measures and methods and their application to practical real estate concepts."
+  },
+  "BUSI 221": {
+    "subject_code": "BUSI",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Real Estate Finance in a Canadian Context",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "History, function and mechanics of Canadian mortgage markets. Prerequisite: BUSI_V 121."
+  },
+  "BUSI 290": {
+    "subject_code": "BUSI",
+    "course_code": "290",
+    "credit": "3",
+    "course_name": "Introduction to Quantitative Decision Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to decision models in business, including basic optimization, linear programming, probability, decision analysis, random variables, simulation, and solving decision problems using spreadsheet tools."
+  },
+  "BUSI 291": {
+    "subject_code": "BUSI",
+    "course_code": "291",
+    "credit": "3",
+    "course_name": "Application of Statistics in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Methods and applications of statistics in business; data analysis, descriptive regression; data generation; sampling distributions; hypothesis testing; confidence intervals; two sample problems; inference in regression. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 293": {
+    "subject_code": "BUSI",
+    "course_code": "293",
+    "credit": "3",
+    "course_name": "Introductory Financial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to the construction and interpretation of financial reports prepared primarily for external use. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 294": {
+    "subject_code": "BUSI",
+    "course_code": "294",
+    "credit": "3",
+    "course_name": "Introductory Management Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to the development and use of accounting information for management planning and control, and the development of cost information for financial reports. Prerequisite: BUSI_V 293. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 295": {
+    "subject_code": "BUSI",
+    "course_code": "295",
+    "credit": "3",
+    "course_name": "Business Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to microeconomics and macroeconomics principles with applications to accounting and business decision making. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 299": {
+    "subject_code": "BUSI",
+    "course_code": "299",
+    "credit": "1",
+    "course_name": "Business Communications",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Basic communication theory, communications in organizations. Includes written and oral practice in lab sessions."
+  },
+  "BUSI 300": {
+    "subject_code": "BUSI",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Urban and Real Estate Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Comprehensive treatment of urban and real estate economics; introduction to study of cities and real estate market; analytical microeconomic principles. Prerequisite: All of BUSI_V 100, BUSI_V 101."
+  },
+  "BUSI 329": {
+    "subject_code": "BUSI",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Principles of Organizational Behaviour",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An introductory examination of work organizations and the behaviour of individuals within them. Phenomena to be studied include organizational structure, environments, group processes, motivation and leadership. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 330": {
+    "subject_code": "BUSI",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Foundations of Real Estate Appraisal",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to concepts and techniques for appraising the value of real estate. Recommended prerequisite: BUSI_V 121."
+  },
+  "BUSI 331": {
+    "subject_code": "BUSI",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Real Estate Investment Analysis and Advanced Income Appraisal",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Valuation techniques for income real estate, including income method of appraisal, tax consequences of real property ownership, and portfolio analysis methodology. Prerequisite: All of BUSI_V 121, BUSI_V 330."
+  },
+  "BUSI 335": {
+    "subject_code": "BUSI",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Information Systems",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to information technology related to business use: design, implementation, and application of information systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 344": {
+    "subject_code": "BUSI",
+    "course_code": "344",
+    "credit": "3",
+    "course_name": "Statistical and Computer Applications in Valuation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Explores creative, practical uses of statistical and computer applications in determining and analyzing real estate value. Through case studies and hands-on computer work, students will learn the fundamentals of exploratory data analysis and appraisal valuation modelling."
+  },
+  "BUSI 352": {
+    "subject_code": "BUSI",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Case Studies in Residential Valuation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Examines common issues that affect the practice of residential real estate valuation. Credit will be granted for only one of BUSI_V 352 or both BUSI_V 442 and BUSI_V 452. Prerequisite: BUSI_V 330. BUSI_V 121, BUSI_V 344 are recommended."
+  },
+  "BUSI 353": {
+    "subject_code": "BUSI",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Intermediate Financial Accounting I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An examination of accounting as a means of measurement and as an information system for external reporting purposes. Prerequisite: BUSI_V 293 or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 354": {
+    "subject_code": "BUSI",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "Cost Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The provision and analysis of cost accounting information that will assist management in making operating decisions and in evaluating operational performance. Prerequisite: BUSI_V 294. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 355": {
+    "subject_code": "BUSI",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Introduction to Income Tax",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "A study of income tax from the standpoint of the individual and business enterprise. Prerequisite: BUSI_V 293 or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 370": {
+    "subject_code": "BUSI",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Business Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An introduction to the basic principles of financial valuation and an examination of corporate enterprise decisions including working capital management; capital budgeting; capital structures and dividend policy. Prerequisite: BUSI_V 293 or equivalent. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 391": {
+    "subject_code": "BUSI",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Introduction to Management Information Systems",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Overview of computer technology and terminology; use of computers as managerial and administrative tools; the management of computer resources and the influence of information technology within the organization. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 393": {
+    "subject_code": "BUSI",
+    "course_code": "393",
+    "credit": "3",
+    "course_name": "Introduction to Business Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduction to the law of contracts, with particular reference to contracts for sale of goods and related law of personal property, principles of agency, partnership, and company law. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 398": {
+    "subject_code": "BUSI",
+    "course_code": "398",
+    "credit": "4",
+    "course_name": "Residential Property Guided Case Study",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The residential property appraisal process, focusing both on valuation techniques as well as general research and report writing skills."
+  },
+  "BUSI 399": {
+    "subject_code": "BUSI",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Logistics and Operations Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The design and management of systems to make products, provide services and deliver them to the end user. Prerequisite: All of BUSI_V 290, BUSI_V 291 or equivalents. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 400": {
+    "subject_code": "BUSI",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Residential Property Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Underlying theory and techniques used in design, construction, and inspection of residential properties."
+  },
+  "BUSI 401": {
+    "subject_code": "BUSI",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Commercial Property Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Underlying theory and techniques used in the design and construction of commercial properties."
+  },
+  "BUSI 414": {
+    "subject_code": "BUSI",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Data Visualization and Business Analytics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Builds critical thinking and data skills by identifying statistical pitfalls, cleaning data with Power Query, creating financial models, and crafting impactful visualizations using Power BI and Excel to support decision-making through practical applications. Prerequisite: All of BUSI_V 291, BUSI_V 335. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 433": {
+    "subject_code": "BUSI",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Real Estate Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "General business skills for real estate practitioners."
+  },
+  "BUSI 441": {
+    "subject_code": "BUSI",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Real Estate Management I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Examines the day-to-day issues which affect the practice of property management. Prerequisite: BUSI_V 330. BUSI_V 331 is recommended."
+  },
+  "BUSI 442": {
+    "subject_code": "BUSI",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Case Studies in Appraisal I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Examines the day-to-day issues that affect the practice of real estate appraisal. Prerequisite: All of BUSI_V 121, BUSI_V 330, BUSI_V 331."
+  },
+  "BUSI 443": {
+    "subject_code": "BUSI",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "Assessment Administration",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Introduces the practice of real property assessment, including the nature of the techniques used, the required duties of assessors, and how an assessment office is administrated. Recommended prerequisite: BUSI_V 330."
+  },
+  "BUSI 444": {
+    "subject_code": "BUSI",
+    "course_code": "444",
+    "credit": "6",
+    "course_name": "Computer Aided Mass Property Assessment",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course develops and applies the major techniques for valuing real property. Recommended prerequisites: All of BUSI_V 121, BUSI_V 330, BUSI_V 443."
+  },
+  "BUSI 445": {
+    "subject_code": "BUSI",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Real Estate Development I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Real estate development process from the project idea to the cursory feasibility stage. Steps in development planning, including analysis, design and evaluation. Evaluating development potential, land acquisition, and site planning. Prerequisite: All of BUSI_V 330, BUSI_V 331."
+  },
+  "BUSI 446": {
+    "subject_code": "BUSI",
+    "course_code": "446",
+    "credit": "3",
+    "course_name": "Real Estate Development II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Analysis of real estate development process with an examination of economic feasibility studies, approval processes, project financing, construction, project management, and marketing phases. Prerequisite: BUSI_V 445."
+  },
+  "BUSI 447": {
+    "subject_code": "BUSI",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Applied Project Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Project management methodology based on the practices defined by the Project Management Institute, including planning, execution, monitoring, control, and completion. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 450": {
+    "subject_code": "BUSI",
+    "course_code": "450",
+    "credit": "3",
+    "course_name": "Intermediate Financial Accounting II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "A continuation of the examination of accounting as a means of measurement and as an information system for external reporting purposes. Prerequisite: All of BUSI_V 293, BUSI_V 370. Corequisite: BUSI_V 353. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 451": {
+    "subject_code": "BUSI",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Real Estate Management II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Continuation of BUSI_V 441."
+  },
+  "BUSI 452": {
+    "subject_code": "BUSI",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Case Studies in Appraisal II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Continuation of BUSI_V 442. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 453": {
+    "subject_code": "BUSI",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Advanced Financial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An examination of advanced financial accounting topics. Prerequisite: All of BUSI_V 353, BUSI_V 450. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 454": {
+    "subject_code": "BUSI",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Accounting for Management Control and Incentives",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Design of accounting systems for facilitating and influencing management decisions, with emphasis on performance evaluation in organizations. Prerequisite: BUSI_V 294."
+  },
+  "BUSI 455": {
+    "subject_code": "BUSI",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Principles of Auditing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Principles of internal control; audit evidence; sampling and testing; audit reports; standards and responsibilities of the external audit. Prerequisite: BUSI_V 353. Corequisite: BUSI_V 450. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 460": {
+    "subject_code": "BUSI",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Critical Analysis and Forecasting in Real Estate",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Delves into two quantitative decision-making methodologies--decision analysis and forecasting--and explores them using a problem-solving framework. Prerequisite: BUSI_V 121. BUSI_V 331 and BUSI_V 444 are also recommended."
+  },
+  "BUSI 465": {
+    "subject_code": "BUSI",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Marketing Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Basic considerations affecting the domestic and international marketing of goods and services. Prerequisite: All of BUSI_V 293, BUSI_V 295. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 470": {
+    "subject_code": "BUSI",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Financial Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Prerequisite: One of BUSI_V 370, COMM_V 473. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 485": {
+    "subject_code": "BUSI",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Taxes and Decision Making",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Analysis of business and financial decisions in the presence of taxes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 486": {
+    "subject_code": "BUSI",
+    "course_code": "486",
+    "credit": "1-9",
+    "course_name": "Special Topics in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": ""
+  },
+  "BUSI 493": {
+    "subject_code": "BUSI",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Strategic Management in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "A conceptual and practical introduction to the major areas of business strategy with an integrative perspective on managing a business. Includes the analysis of a business and its environment, the development and evaluation of strategic alternatives, and implementation of change. Prerequisite: All of BUSI_V 291, BUSI_V 293, BUSI_V 294, BUSI_V 295, BUSI_V 335, BUSI_V 353, BUSI_V 370, BUSI_V 393, BUSI_V 450. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BUSI 497": {
+    "subject_code": "BUSI",
+    "course_code": "497",
+    "credit": "6",
+    "course_name": "Guided Case Study in Agricultural Real Estate",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "An agriculturally-focused version of BUSI_V 499. Prerequisite: All of BUSI_V 330, BUSI_V 331, BUSI_V 442, BUSI_V 452."
+  },
+  "BUSI 498": {
+    "subject_code": "BUSI",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "International Business Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Development of general environmental framework for international business studies by drawing on international and development economics, research into government-business relations and studies in comparative socio-cultural systems and political systems. Prerequisite: BUSI_V 293 and either (a) all of ECON_V 101, ECON_V 102 or (b) ECON_V 309. Corequisite: Two of BUSI_V 294, BUSI_V 329, BUSI_V 370, BUSI_V 465."
+  },
+  "BUSI 499": {
+    "subject_code": "BUSI",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Income Property Guided Case Study",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "The income property appraisal process, focusing both on valuation techniques as well as general research and report writing skills. All of BUSI_V 330, BUSI_V 331, BUSI_V 442, BUSI_V 452."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "ACAM 100": {
+    "subject_code": "ACAM",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Asian Canadian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Asian Canadian identity, communities, histories, politics, and cultural production, with attention to the diverse approaches and methods that animate Asian Canadian Studies."
+  },
+  "ACAM 250": {
+    "subject_code": "ACAM",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Asian Canadians in Popular Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Popular culture's role in the production of Asian Canadian and diasporic communities, with emphasis on race, gender, sexuality, and other identity categories."
+  },
+  "ACAM 300": {
+    "subject_code": "ACAM",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Dis/Orienting Asian Canada",
+    "faculty": "Faculty of Arts",
+    "description": "The histories, cultures, social dynamics, and life experiences of Asian communities in Canada in the context of global migrations. Restricted to students with second year status or higher."
+  },
+  "ACAM 310": {
+    "subject_code": "ACAM",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Asian Canadian Cultural Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Examines Asian Canadian communities and cultural production in relation to local activism, organizing, and cultural politics in historical and contemporary contexts. Restricted to students with second year standing or higher."
+  },
+  "ACAM 320": {
+    "subject_code": "ACAM",
+    "course_code": "320",
+    "credit": "3-6",
+    "course_name": "Selected Topics in ACAM Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Selected Asian Canadian Asian Migration topics. Consult acam.arts.ubc.ca for this year's offerings. Prerequisite: Restricted to students with at least Second year standing; a previous course in Asian Canadian and Asian Migration Studies is recommended."
+  },
+  "ACAM 330": {
+    "subject_code": "ACAM",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Understanding Asian Diasporic Health and Well-Being",
+    "faculty": "Faculty of Arts",
+    "description": "Social issues that impact the health of Asian Canadian communities, with emphasis on race, colonialism, migration, community diversity, and intersectional identities."
+  },
+  "ACAM 350": {
+    "subject_code": "ACAM",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Asian Canadian Community-Based Media",
+    "faculty": "Faculty of Arts",
+    "description": "Digital media production in the context of community engagement. Includes critical media literacy, community-based research ethics, project design, training in media forms such audio, video, photography, and web publishing."
+  },
+  "ACAM 390": {
+    "subject_code": "ACAM",
+    "course_code": "390",
+    "credit": "3-6",
+    "course_name": "Asian Migrations in a Global Context",
+    "faculty": "Faculty of Arts",
+    "description": "Transpacific, migratory and socio-cultural connections of Asian migrations in a global context. Prerequisite: Minimum 2nd year standing, 3rd year standing recommended."
+  },
+  "ACAM 400": {
+    "subject_code": "ACAM",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Asian Canadian Research and Community Engagement",
+    "faculty": "Faculty of Arts",
+    "description": "Principles and practices of knowledge production in Asian Canadian and Asian migration studies. Emphasis on ethics, skills, and issues in research and engagement, including reciprocity, respect, and knowledge mobilization. It is recommended students complete a course in Asian Canadian and Asian Migration studies or another course on immigration, race or social difference from another unit before enrolling in this course. Restricted to students with third-year standing or higher."
+  },
+  "ACAM 447": {
+    "subject_code": "ACAM",
+    "course_code": "447",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Asian Canadian and Asian Migration",
+    "faculty": "Faculty of Arts",
+    "description": "General reading and/or a research undertaking within the scope of Asian Canadian and Asian Migration. Prerequisite: Permission of the Chair of the ACAM program."
+  }
+}

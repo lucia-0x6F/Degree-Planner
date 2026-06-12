@@ -1,0 +1,42 @@
+{
+  "AI 100": {
+    "subject_code": "AI",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Artificial Intelligence",
+    "faculty": "Faculty of Science",
+    "description": "Core methodological paradigms in AI. Strengths and limitations of modern AI systems. Social impacts of AI technologies: economic, cultural, scientific, environmental, political. Philosophical implications and plausible future trajectories for AI. [3-0-1]"
+  },
+  "AI 240": {
+    "subject_code": "AI",
+    "course_code": "240",
+    "credit": "4",
+    "course_name": "Introduction to Machine Learning",
+    "faculty": "Faculty of Science",
+    "description": "Core methodological paradigms in machine learning. Models for supervised prediction and unsupervised analysis. Deep learning techniques using differentiable programming. [3-2-0] Prerequisite: Both (a) one of CPSC_V 107, CPSC_V 110 and (b) one of MATH_V 111, MATH_V 131, MATH_V 152, MATH_V 221, MATH_V 223."
+  },
+  "AI 322": {
+    "subject_code": "AI",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Foundations of Artificial Intelligence",
+    "faculty": "Faculty of Science",
+    "description": "Introduction to representation and reasoning via topics such as Search, problem-solving and planning, logic, probabilistic graphical models, preference models, Markov decision processes and reinforcement learning, as well as multi-agent decision making [3-0-0] Prerequisites: Either CPSC_V 340 or all of (a) one of AI_V 240, CPSC_V 330 and (b) one of CPSC_V 221, DSCI_V 221 and (c) one of STAT_V 251, ECON_V 325, ECON_V 327, MATH_V 302, STAT_V 302, MATH_V 318. Equivalency: CPSC_V 322."
+  },
+  "AI 360": {
+    "subject_code": "AI",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Deep Learning",
+    "faculty": "Faculty of Science",
+    "description": "Advanced machine learning focused on deep learning in practice: mathematical foundations, models for unstructured, sequential, spatial, and graph data, methods for prediction, generative modeling, and reinforcement learning, and hands-on experience designing, optimizing, tuning, and applying deep models. [3-0-1] Prerequisites: Either CPSC_V 340 or all of (a) one of AI_V 240, CPEN_V 355 and (b) MATH_V 200 and (c) one of STAT_V 251, ECON_V 325, ECON_V 327, MATH_V 302, STAT_V 302, MATH_V 318."
+  },
+  "AI 422": {
+    "subject_code": "AI",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Intelligent Systems",
+    "faculty": "Faculty of Science",
+    "description": "Principles and techniques underlying the design, implementation and evaluation of intelligent computational systems. Applications of artificial intelligence to natural language understanding, image understanding and computer-based expert and advisor systems. Advanced symbolic programming methodology. [3-0-0] Prerequisite: One of AI_V 322, CPSC_V 322. Equivalency: CPSC_V 422."
+  }
+}

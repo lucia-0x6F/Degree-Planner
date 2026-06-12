@@ -1,0 +1,202 @@
+{
+  "ANAT 392": {
+    "subject_code": "ANAT",
+    "course_code": "392",
+    "credit": "4",
+    "course_name": "Gross Anatomy of the Limbs and Trunk",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures and laboratory sessions on the human gross and functional anatomy of the limbs and trunk. The course includes the study of predissected specimens. For credit only in the Department of Physical Therapy."
+  },
+  "ANAT 393": {
+    "subject_code": "ANAT",
+    "course_code": "393",
+    "credit": "4",
+    "course_name": "Human Anatomy for Physical Therapy Students",
+    "faculty": "Faculty of Medicine",
+    "description": "Microscopic systems anatomy and regional anatomy of the nervous system. [3-0-0] Prerequisite: Registration in Rehabilitation Sciences (RSPT) is required."
+  },
+  "ANAT 400": {
+    "subject_code": "ANAT",
+    "course_code": "400",
+    "credit": "16",
+    "course_name": "Human Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "A correlated course of study for medical and dental students of the structure of the human body including gross and radiological anatomy and embryology. Clinics are held in cooperation with the Departments of Medicine, Orthopaedics, Surgery and Family Practice. Both terms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 401": {
+    "subject_code": "ANAT",
+    "course_code": "401",
+    "credit": "8",
+    "course_name": "Microscopic Human Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "A survey course for medical and dental students of the microscopic structure of the human body as studied by light and electron microscopy. Lectures and laboratory sessions. Both terms. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 425": {
+    "subject_code": "ANAT",
+    "course_code": "425",
+    "credit": "4",
+    "course_name": "Elements of Neuroanatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "An introduction to the structure of the human nervous system. Given only in conjunction with PHYL 425. (Open to Medical and Dental students only.)"
+  },
+  "ANAT 448": {
+    "subject_code": "ANAT",
+    "course_code": "448",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "Permission of the Head and supervisor required."
+  },
+  "ANAT 500": {
+    "subject_code": "ANAT",
+    "course_code": "500",
+    "credit": "12",
+    "course_name": "Gross Human Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "An advanced laboratory course in the structure of the human body. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 501": {
+    "subject_code": "ANAT",
+    "course_code": "501",
+    "credit": "6",
+    "course_name": "Microscopic Human Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "An advanced lecture and laboratory course in the microscopic structure of the human body. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 502": {
+    "subject_code": "ANAT",
+    "course_code": "502",
+    "credit": "8",
+    "course_name": "Microscopic Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "The microscopic anatomy of tissues and organs in man. Prerequisite: ANAT_V 401 This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 504": {
+    "subject_code": "ANAT",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Cell Structure and Function",
+    "faculty": "Faculty of Medicine",
+    "description": "Seminar discussions of current topics in vertebrate cell biology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 505": {
+    "subject_code": "ANAT",
+    "course_code": "505",
+    "credit": "6",
+    "course_name": "General Cytological Biophysics",
+    "faculty": "Faculty of Medicine",
+    "description": "An examination of selected properties of the cell and underlying mechanisms based on the ultrastructure of the cell and on the physical chemistry of open systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 510": {
+    "subject_code": "ANAT",
+    "course_code": "510",
+    "credit": "4",
+    "course_name": "Neuroanatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "The gross and microscopic study of the nervous system in man. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 511": {
+    "subject_code": "ANAT",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Fundamentals of Body Design: Basic Principles in Human Anatomy as Illustrated by the Organization of the Back and Upper Limb",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 512": {
+    "subject_code": "ANAT",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Functional Human Anatomy of Head and Neck Systems",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 513": {
+    "subject_code": "ANAT",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Functional Human Anatomy of the Respiratory, Cardiovascular and Gastrointestinal Systems of the Thorax and Abdomen",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 514": {
+    "subject_code": "ANAT",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Functional Human Anatomy of the Urogenital Systems: Pelvis and Perineum",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 515": {
+    "subject_code": "ANAT",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Functional Human Anatomy of the Musculoskeletal Systems: Back, Limbs and Joints",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 516": {
+    "subject_code": "ANAT",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Functional Human Neuroanatomy: Central Nervous System",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 517": {
+    "subject_code": "ANAT",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Functional Human Microscopic Anatomy: Basic Tissues, Organs and Systems",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 527": {
+    "subject_code": "ANAT",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Muscle Biophysics",
+    "faculty": "Faculty of Medicine",
+    "description": "Selected topics in muscle contraction at an advanced level Permission of Head required. Equivalency: PHYL_V 530 This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 548": {
+    "subject_code": "ANAT",
+    "course_code": "548",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Anatomy & Cell Biology",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 549": {
+    "subject_code": "ANAT",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 550": {
+    "subject_code": "ANAT",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Current Topics in the Morphological Sciences",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures, demonstrations, discussions and student seminars on selected and current topics in cell biology and the anatomical sciences. Attendance is required of all M.Sc. and Ph.D. students in Anatomy & Cell Biology. [1-0-0] Prerequisite: Students must be registered in graduate-level studies in Anatomy & Cell Biology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 590": {
+    "subject_code": "ANAT",
+    "course_code": "590",
+    "credit": "6",
+    "course_name": "Introduction to Functional Human Anatomy: Survey of Microscopic Anatomy, Neuroanatomy and Gross Anatomy",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANAT 649": {
+    "subject_code": "ANAT",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

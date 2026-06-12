@@ -1,0 +1,122 @@
+{
+  "BAHR 501": {
+    "subject_code": "BAHR",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Power, Politics and Corporate Culture",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 502": {
+    "subject_code": "BAHR",
+    "course_code": "502",
+    "credit": "1.5",
+    "course_name": "Business Ethics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 505": {
+    "subject_code": "BAHR",
+    "course_code": "505",
+    "credit": "1.5",
+    "course_name": "Leadership",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 507": {
+    "subject_code": "BAHR",
+    "course_code": "507",
+    "credit": "1.5",
+    "course_name": "Two-Party Negotiations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 508": {
+    "subject_code": "BAHR",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Managing Change",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 509": {
+    "subject_code": "BAHR",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Managing the Family Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 512": {
+    "subject_code": "BAHR",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Managing Diversity",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 516": {
+    "subject_code": "BAHR",
+    "course_code": "516",
+    "credit": "1.5",
+    "course_name": "Leading Teams",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Techniques and approaches for building effective teams, handling decision-making in teams, creating reward structures, and developing appropriate leadership models. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 517": {
+    "subject_code": "BAHR",
+    "course_code": "517",
+    "credit": "1.5",
+    "course_name": "Business Communications",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 520": {
+    "subject_code": "BAHR",
+    "course_code": "520",
+    "credit": "1.5",
+    "course_name": "Managing the Employment Relationship",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 531": {
+    "subject_code": "BAHR",
+    "course_code": "531",
+    "credit": "1.5",
+    "course_name": "International Human Resource Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Credit will be granted for only one of BAHR_V 531 or BAIM_V 524. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 550": {
+    "subject_code": "BAHR",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Organizational Behavior",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 560": {
+    "subject_code": "BAHR",
+    "course_code": "560",
+    "credit": "1.5",
+    "course_name": "Building High Performance Teams and Organizations",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Frameworks and processes for effectively leading high performance organizations. Emphasizes the key factors that can motivate high performance as individuals and teams. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 580": {
+    "subject_code": "BAHR",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Human Resources",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAHR 590": {
+    "subject_code": "BAHR",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Human Resources",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

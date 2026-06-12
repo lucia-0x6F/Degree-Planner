@@ -1,0 +1,178 @@
+{
+  "FOOD 500": {
+    "subject_code": "FOOD",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "M.Sc. Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 510": {
+    "subject_code": "FOOD",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Advances in Food Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 511": {
+    "subject_code": "FOOD",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Master of Food Science Workshops",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Honours/Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 512": {
+    "subject_code": "FOOD",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Hazard Analysis and Critical Control Point and Food Safety Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 515": {
+    "subject_code": "FOOD",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Fundamentals of Agri-Food Business",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Credit will be granted for only one of FNH_V 415, FOOD_V 515 or FRE_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 516": {
+    "subject_code": "FOOD",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Advanced Food Safety and Quality Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Recommended pre-requisites: all of FNH_V 301, FNH_V 313, FNH_V 403. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 519": {
+    "subject_code": "FOOD",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Interfacial Phenomena",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Credit will be granted for only one of FNH_V 419 and FOOD_V 519. Strongly recommended: MATH_V 101, PHYS_V 108, and CHEM_V 154. Equivalency: CHBE_V 587. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 520": {
+    "subject_code": "FOOD",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Advances in Food Analysis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 521": {
+    "subject_code": "FOOD",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Advances in Food Biotechnology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 522": {
+    "subject_code": "FOOD",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Advances in Food Chemistry",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 523": {
+    "subject_code": "FOOD",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Advances in Food Microbiology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 524": {
+    "subject_code": "FOOD",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Advances in Food Processing",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 525": {
+    "subject_code": "FOOD",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Advances in Food Toxicology",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 526": {
+    "subject_code": "FOOD",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Research Methods in Food Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 527": {
+    "subject_code": "FOOD",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Special Topics in Food Science",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 528": {
+    "subject_code": "FOOD",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "International Food Laws and Regulations",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 529": {
+    "subject_code": "FOOD",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Laboratory Methods in Sensory Evaluation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 530": {
+    "subject_code": "FOOD",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 531": {
+    "subject_code": "FOOD",
+    "course_code": "531",
+    "credit": "6",
+    "course_name": "Master of Food Science Practicum Project",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Honours/Pass/Fail. Prerequisite: FOOD_V 511. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 549": {
+    "subject_code": "FOOD",
+    "course_code": "549",
+    "credit": "12-18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 600": {
+    "subject_code": "FOOD",
+    "course_code": "600",
+    "credit": "3",
+    "course_name": "Ph.D. Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FOOD 649": {
+    "subject_code": "FOOD",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

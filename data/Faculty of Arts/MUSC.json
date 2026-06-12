@@ -1,0 +1,1842 @@
+{
+  "MUSC 100": {
+    "subject_code": "MUSC",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Principles of Musical Form",
+    "faculty": "Faculty of Arts",
+    "description": "Explain rhythmic, melodic, textural, and harmonic materials and processes of music, and how they create small-scale structures. Fluency with music notation advised. B.Mus. and B.A. Music students with a strong background in music theory may test into MUSC_V 101."
+  },
+  "MUSC 101": {
+    "subject_code": "MUSC",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Diatonic Harmony and Voice Leading",
+    "faculty": "Faculty of Arts",
+    "description": "Harmonic and linear functions of diatonic chords; common progressions and sequences; introduction to tonal hierarchy and prolongation; simple modulation. Compositional and analytical exercises. Prerequisite: One of MUSC 100, MUSC 110."
+  },
+  "MUSC 103": {
+    "subject_code": "MUSC",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Introduction to the Theory of Music",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts of rhythm, pitch, timbre, and texture. Notation and aural recognition of rhythmic and pitch patterns. Basic principles of melody and form. Background in Western music theory or notation unnecessary. This course is inapplicable to the B.Mus. or B.A. Music."
+  },
+  "MUSC 104": {
+    "subject_code": "MUSC",
+    "course_code": "104",
+    "credit": "3",
+    "course_name": "Introduction to Diatonic Harmony",
+    "faculty": "Faculty of Arts",
+    "description": "Triads, key and elementary harmony in Western music. Elements of musical form. Aural training and exercises in composition, modeled on historical styles. Not for credit in the B.Mus. Prerequisite: [MUSC103] or permission of the instructor."
+  },
+  "MUSC 105": {
+    "subject_code": "MUSC",
+    "course_code": "105",
+    "credit": "2",
+    "course_name": "Aural Skills I",
+    "faculty": "Faculty of Arts",
+    "description": "Sight singing; melodic and harmonic dictation; rhythm production; error detection; tuning; perception of harmony, form, and tonality; improvisation in set idioms. Restricted to B.Mus. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 106": {
+    "subject_code": "MUSC",
+    "course_code": "106",
+    "credit": "2",
+    "course_name": "Aural Skills II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 105. Restricted to B.Mus. students. Prerequisite: a score of 68% or higher in MUSC_V 105. Students may register for MUSC_V 106 prior to meeting the pre-requisite but will be required to withdraw if the pre-requisite is not met by the first day of class. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 107": {
+    "subject_code": "MUSC",
+    "course_code": "107",
+    "credit": "3-6",
+    "course_name": "Composition I",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to musical composition."
+  },
+  "MUSC 108": {
+    "subject_code": "MUSC",
+    "course_code": "108",
+    "credit": "3",
+    "course_name": "Introduction to Contemporary Art Music",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary music repertoire, emphasizing music from the past fifty years. Required of undergraduate Composition majors; open to other Bachelor of Music students by permission of instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 112": {
+    "subject_code": "MUSC",
+    "course_code": "112",
+    "credit": "3",
+    "course_name": "Class Brasses and Percussion",
+    "faculty": "Faculty of Arts",
+    "description": "Group instruction in music performance. Restricted to B.Mus. students."
+  },
+  "MUSC 119": {
+    "subject_code": "MUSC",
+    "course_code": "119",
+    "credit": "3",
+    "course_name": "Introduction to Music Technology",
+    "faculty": "Faculty of Arts",
+    "description": "Practical and theoretical training in technologies that support current artistic and academic practice, such as MIDI, podcasts/videocasts, websites, social media, and software for score notation, music education, and basic audio/video editing. [2-0-1]"
+  },
+  "MUSC 120": {
+    "subject_code": "MUSC",
+    "course_code": "120",
+    "credit": "3",
+    "course_name": "History of Music I",
+    "faculty": "Faculty of Arts",
+    "description": "An overview of Western music from antiquity through the Middle Ages and Renaissance, providing a framework for understanding musical styles and practices, and examining selected compositions in greater analytical and historical depth."
+  },
+  "MUSC 121": {
+    "subject_code": "MUSC",
+    "course_code": "121",
+    "credit": "3",
+    "course_name": "History of Music II",
+    "faculty": "Faculty of Arts",
+    "description": "The development of Western music from circa 1600 to circa 1800. Prerequisite: MUSC 120. Or permission of the instructor"
+  },
+  "MUSC 122": {
+    "subject_code": "MUSC",
+    "course_code": "122",
+    "credit": "3",
+    "course_name": "Class Woodwinds",
+    "faculty": "Faculty of Arts",
+    "description": "Group instruction in music performance. Restricted to B.Mus. students."
+  },
+  "MUSC 128": {
+    "subject_code": "MUSC",
+    "course_code": "128",
+    "credit": "3",
+    "course_name": "Music and Human Experience",
+    "faculty": "Faculty of Arts",
+    "description": "A multi-disciplinary survey of music in selected world traditions and genres, connecting it to ideas of time, evolution, history, anthropology, philosophy, and contemporary globalised culture."
+  },
+  "MUSC 131": {
+    "subject_code": "MUSC",
+    "course_code": "131",
+    "credit": "2",
+    "course_name": "Class Voice",
+    "faculty": "Faculty of Arts",
+    "description": "Group instruction in music performance. Required of all first-time secondary voice students. Restricted to B.Mus. students."
+  },
+  "MUSC 135": {
+    "subject_code": "MUSC",
+    "course_code": "135",
+    "credit": "4",
+    "course_name": "Opera Repertoire I",
+    "faculty": "Faculty of Arts",
+    "description": "A musico-dramatic study and analysis of representative works in the international operatic theatre from 1600 to the present, through musical, literary and graphic sources. Each sequential year of study, the student is expected to show increased facility in musical and dramatic analysis as well as a greater understanding of the works under examination. Open to students outside the B.Mus. program by permission of the instructor."
+  },
+  "MUSC 136": {
+    "subject_code": "MUSC",
+    "course_code": "136",
+    "credit": "2-4",
+    "course_name": "Piano Repertoire I",
+    "faculty": "Faculty of Arts",
+    "description": "Performance and discussion of the repertoire for string-keyboard instruments essential to the performer and teacher. Special attention to matters of structure, style, and performance practices. Required of piano performance majors and open to piano concentrators, space permitting. First term prerequisite to second term."
+  },
+  "MUSC 141": {
+    "subject_code": "MUSC",
+    "course_code": "141",
+    "credit": "3",
+    "course_name": "Class Piano I",
+    "faculty": "Faculty of Arts",
+    "description": "Required of all first-time secondary piano students."
+  },
+  "MUSC 149": {
+    "subject_code": "MUSC",
+    "course_code": "149",
+    "credit": "2",
+    "course_name": "Collaborative Piano I",
+    "faculty": "Faculty of Arts",
+    "description": "Skills and performance practice with primary emphasis on voice/piano partnership principles and repertoire. Strong sight-reading skills essential. For Piano majors; open to others by audition."
+  },
+  "MUSC 150": {
+    "subject_code": "MUSC",
+    "course_code": "150",
+    "credit": "4-8",
+    "course_name": "Large Instrumental Ensemble (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 151": {
+    "subject_code": "MUSC",
+    "course_code": "151",
+    "credit": "2-4",
+    "course_name": "University Chamber Orchestra (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 153": {
+    "subject_code": "MUSC",
+    "course_code": "153",
+    "credit": "4-8",
+    "course_name": "University Singers (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 154": {
+    "subject_code": "MUSC",
+    "course_code": "154",
+    "credit": "3-6",
+    "course_name": "University Choral Union (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 156": {
+    "subject_code": "MUSC",
+    "course_code": "156",
+    "credit": "3-6",
+    "course_name": "Vocal Chamber Ensembles (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 157": {
+    "subject_code": "MUSC",
+    "course_code": "157",
+    "credit": "2-4",
+    "course_name": "Early Music Ensemble (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Performance of early Western instrumental and vocal ensemble music. May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 159": {
+    "subject_code": "MUSC",
+    "course_code": "159",
+    "credit": "2-4",
+    "course_name": "University Chamber Strings (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 160": {
+    "subject_code": "MUSC",
+    "course_code": "160",
+    "credit": "2-4",
+    "course_name": "String Chamber Ensembles (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 161": {
+    "subject_code": "MUSC",
+    "course_code": "161",
+    "credit": "2",
+    "course_name": "Piano Chamber Ensembles (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 162": {
+    "subject_code": "MUSC",
+    "course_code": "162",
+    "credit": "2-4",
+    "course_name": "Wind and Percussion Chamber Ensembles (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 163": {
+    "subject_code": "MUSC",
+    "course_code": "163",
+    "credit": "2-4",
+    "course_name": "Contemporary Players (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Performance of contemporary music. An ensemble of variable size, including both instrumentalists and singers, will be formed to present several concerts of 20th-century music during the academic year. May be taken twice for credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 164": {
+    "subject_code": "MUSC",
+    "course_code": "164",
+    "credit": "2-4",
+    "course_name": "Jazz Ensemble (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Performance techniques and repertoire. May be taken twice for credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 165": {
+    "subject_code": "MUSC",
+    "course_code": "165",
+    "credit": "3-6",
+    "course_name": "World Music Ensembles (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be taken twice for credit. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 167": {
+    "subject_code": "MUSC",
+    "course_code": "167",
+    "credit": "2",
+    "course_name": "Introduction to Piano Chamber Music",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of repertoire and performance issues."
+  },
+  "MUSC 169": {
+    "subject_code": "MUSC",
+    "course_code": "169",
+    "credit": "1-2",
+    "course_name": "Intensive Chamber Ensemble (Lower Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive coaching in chamber ensemble for advanced players. Performance of works prepared is expected. May be taken twice for credit. Corequisite: Any small ensemble (MUSC 156-166) and permission of the instructor."
+  },
+  "MUSC 170": {
+    "subject_code": "MUSC",
+    "course_code": "170",
+    "credit": "2",
+    "course_name": "Lyric Diction",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the basic phonetics and accepted principles of lyric diction of the four languages most commonly used in concert and operatic repertoire: French, German, Italian, and English."
+  },
+  "MUSC 171": {
+    "subject_code": "MUSC",
+    "course_code": "171",
+    "credit": "2",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 172": {
+    "subject_code": "MUSC",
+    "course_code": "172",
+    "credit": "4",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 181": {
+    "subject_code": "MUSC",
+    "course_code": "181",
+    "credit": "2",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 182": {
+    "subject_code": "MUSC",
+    "course_code": "182",
+    "credit": "4",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 183": {
+    "subject_code": "MUSC",
+    "course_code": "183",
+    "credit": "6",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 191": {
+    "subject_code": "MUSC",
+    "course_code": "191",
+    "credit": "2",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 192": {
+    "subject_code": "MUSC",
+    "course_code": "192",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 193": {
+    "subject_code": "MUSC",
+    "course_code": "193",
+    "credit": "6",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental."
+  },
+  "MUSC 200": {
+    "subject_code": "MUSC",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Chromatic Harmony and Voice Leading",
+    "faculty": "Faculty of Arts",
+    "description": "Harmonic and linear functions of common chromatic chords; mixture; chords and progressions of linear origin; tonal plans. Compositional and analytical exercises. Prerequisite: [MUSC101]"
+  },
+  "MUSC 201": {
+    "subject_code": "MUSC",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Musical Forms",
+    "faculty": "Faculty of Arts",
+    "description": "Study of various forms in tonal music and the rhythmic, melodic, textural, and harmonic processes that create them on small and large scales. Compositional and analytical exercises. Prerequisite: One of MUSC 111, MUSC 200."
+  },
+  "MUSC 205": {
+    "subject_code": "MUSC",
+    "course_code": "205",
+    "credit": "1.5",
+    "course_name": "Aural Skills III",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 106. Restricted to B.Mus. students. Prerequisite: One of (a) a score of 68% or higher in MUSC_V 106, or (b) pass the MUSC_V 106 Challenge Test. Students may register for MUSC_V 205 prior to meeting the pre-requisite but will be required to withdraw if the prerequisite is not met by the first day of class."
+  },
+  "MUSC 206": {
+    "subject_code": "MUSC",
+    "course_code": "206",
+    "credit": "1.5",
+    "course_name": "Aural Skills IV",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 205. Restricted to B.Mus. students. Prerequisite: One of (a) a score of 68% or higher in MUSC_V 205, or (b) pass the MUSC_V 205 Challenge Test. Students may register for MUSC_V 206 prior to meeting the pre-requisite but will be required to withdraw if the prerequisite is not met by the first day of class. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 207": {
+    "subject_code": "MUSC",
+    "course_code": "207",
+    "credit": "3-6",
+    "course_name": "Composition II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 107. Prerequisite: MUSC_V 107 and permission of Composition Division based on submission of scores."
+  },
+  "MUSC 220": {
+    "subject_code": "MUSC",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "History of Music III",
+    "faculty": "Faculty of Arts",
+    "description": "The development of Western music from circa 1800 to circa 1900. Prerequisite: All of MUSC 121, MUSC 100."
+  },
+  "MUSC 221": {
+    "subject_code": "MUSC",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "History of Music IV",
+    "faculty": "Faculty of Arts",
+    "description": "The development of Western music from circa 1900; an introduction to jazz and popular music and to music of selected non-Western societies. Prerequisite: All of MUSC 220, MUSC 100."
+  },
+  "MUSC 235": {
+    "subject_code": "MUSC",
+    "course_code": "235",
+    "credit": "4",
+    "course_name": "Opera Repertoire II",
+    "faculty": "Faculty of Arts",
+    "description": "See MUSC_V 135."
+  },
+  "MUSC 236": {
+    "subject_code": "MUSC",
+    "course_code": "236",
+    "credit": "2-4",
+    "course_name": "Piano Repertoire II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC 136."
+  },
+  "MUSC 241": {
+    "subject_code": "MUSC",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Class Piano II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 141."
+  },
+  "MUSC 249": {
+    "subject_code": "MUSC",
+    "course_code": "249",
+    "credit": "2",
+    "course_name": "Collaborative Piano II",
+    "faculty": "Faculty of Arts",
+    "description": "Further development of skills and performance practice with primary emphasis on voice/piano partnership principles and repertoire. Strong sight-reading skills essential. For Piano majors; open to others by audition. Prerequisite: [MUSC149]"
+  },
+  "MUSC 271": {
+    "subject_code": "MUSC",
+    "course_code": "271",
+    "credit": "2",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 272": {
+    "subject_code": "MUSC",
+    "course_code": "272",
+    "credit": "4",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 281": {
+    "subject_code": "MUSC",
+    "course_code": "281",
+    "credit": "2",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 282": {
+    "subject_code": "MUSC",
+    "course_code": "282",
+    "credit": "4",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 283": {
+    "subject_code": "MUSC",
+    "course_code": "283",
+    "credit": "6",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 291": {
+    "subject_code": "MUSC",
+    "course_code": "291",
+    "credit": "2",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 292": {
+    "subject_code": "MUSC",
+    "course_code": "292",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 293": {
+    "subject_code": "MUSC",
+    "course_code": "293",
+    "credit": "6",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 171, MUSC 172, MUSC 181, MUSC 182, MUSC 183, MUSC 191, MUSC 192, MUSC 193."
+  },
+  "MUSC 300": {
+    "subject_code": "MUSC",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Compositional and Analytical Approaches to Post-Tonal Music",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts essential to understanding and performing art music, since 1900, in which functional triadic harmony is absent or subsidiary to other musical processes. Detailed consideration of works of major composers up to the present, through analysis, composition, and musicianship exercises. Prerequisite: MUSC 200."
+  },
+  "MUSC 305": {
+    "subject_code": "MUSC",
+    "course_code": "305",
+    "credit": "2-4",
+    "course_name": "Readings in Orchestral Repertoire",
+    "faculty": "Faculty of Arts",
+    "description": "Laboratory course for orchestral performance majors. Emphasis on reading a large cross-section of standard orchestral repertoire, especially music currently being programmed by local professional orchestras. Restricted to Orchestral Instruments majors, except by permission of the instructor."
+  },
+  "MUSC 307": {
+    "subject_code": "MUSC",
+    "course_code": "307",
+    "credit": "3-6",
+    "course_name": "Composition III",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 207. Prerequisite: MUSC_V 207 and permission of Composition Division based on submission of scores."
+  },
+  "MUSC 309": {
+    "subject_code": "MUSC",
+    "course_code": "309",
+    "credit": "2",
+    "course_name": "Instrumentation",
+    "faculty": "Faculty of Arts",
+    "description": "The study of string, woodwind, brass and percussion instruments; orchestral sections and scoring for various small ensembles. Activities include demonstrations of instruments, scoring projects, analysis and listening. For credit towards the B.Mus. and the B.A. in Music; not open to other students. Prerequisite: MUSC 200. and completion of the second-year piano requirement."
+  },
+  "MUSC 310": {
+    "subject_code": "MUSC",
+    "course_code": "310",
+    "credit": "2",
+    "course_name": "Orchestration",
+    "faculty": "Faculty of Arts",
+    "description": "The study of orchestration through the analysis of orchestral works, listening and scoring projects. Activities also include choral arranging and scoring for stage band and wind ensemble. Prerequisite: [MUSC309]"
+  },
+  "MUSC 311": {
+    "subject_code": "MUSC",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Fundamentals of Conducting",
+    "faculty": "Faculty of Arts",
+    "description": "Basic conducting techniques: patterns, cueing, dynamic shading, and physical presentation. Prerequisite: MUSC_V 200 and completion of the second-year piano requirement."
+  },
+  "MUSC 312": {
+    "subject_code": "MUSC",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Instrumental Conducting",
+    "faculty": "Faculty of Arts",
+    "description": "The relation of conducting gestures to instrumental sound; development of practical skills in directing ensembles and reading scores, considering instruments' special characteristics. Prerequisite: MUSC_V 311."
+  },
+  "MUSC 313": {
+    "subject_code": "MUSC",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Choral Conducting",
+    "faculty": "Faculty of Arts",
+    "description": "The relation of conducting gestures to choral sound; development of practical skills in directing ensembles and reading scores; attendant issues of vocal technique and pedagogy. Prerequisite: MUSC_V 311."
+  },
+  "MUSC 319": {
+    "subject_code": "MUSC",
+    "course_code": "319",
+    "credit": "3-6",
+    "course_name": "Electroacoustic Music",
+    "faculty": "Faculty of Arts",
+    "description": "Study of acoustics, audio technology, and electroacoustic composition. Composition of original works using the UBC Electroacoustic Music Studio or students' own software/hardware. Prerequisite: MUSC 119 and one of MUSC 100, MUSC 103. Permission of instructor is also required."
+  },
+  "MUSC 320": {
+    "subject_code": "MUSC",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Computer Music",
+    "faculty": "Faculty of Arts",
+    "description": "The study of computer applications to music, focusing on digital synthesis techniques and languages, methods of algorithmic composition, and the design of music editors. Prerequisite: [MUSC319] or permission of instructor."
+  },
+  "MUSC 321": {
+    "subject_code": "MUSC",
+    "course_code": "321",
+    "credit": "3-6",
+    "course_name": "Music Appreciation, Twentieth-Century",
+    "faculty": "Faculty of Arts",
+    "description": "Designed for students with little or no musical background. Not for credit toward the B.Mus. or B.A. in Music."
+  },
+  "MUSC 322": {
+    "subject_code": "MUSC",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Topics in Western Music",
+    "faculty": "Faculty of Arts",
+    "description": "Study in one major genre of Western music (e.g., The Symphony, Women in Opera, History of the Song Cycle). No musical knowledge is required. Not for credit toward the B.Mus. or B.A. in Music."
+  },
+  "MUSC 323": {
+    "subject_code": "MUSC",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "History of Popular Music",
+    "faculty": "Faculty of Arts",
+    "description": "Genres of popular music from 1950 to the present and their changing aesthetic, social, cultural, and historical dimensions. Prior experience with music notation and terminology is not required. This course is not acceptable for credit toward the B.Mus., or toward the B.A. major, honours, or minor in Music."
+  },
+  "MUSC 324": {
+    "subject_code": "MUSC",
+    "course_code": "324",
+    "credit": "3-6",
+    "course_name": "The Guitar in History and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to guitar performance and repertoire for non-majors. Lectures explore guitar repertoires from selected regions and eras. Not for credit toward the B.Mus. or the Major/Minor in Music (B.A., B.F.A., B.Sc.). Students are expected to provide their own guitars."
+  },
+  "MUSC 326": {
+    "subject_code": "MUSC",
+    "course_code": "326",
+    "credit": "3-6",
+    "course_name": "Music Appreciation",
+    "faculty": "Faculty of Arts",
+    "description": "An introductory course for which previous musical background is helpful, but not required. Contents include a discussion of musical concepts, evolution of forms, style, and media and detailed study of selected works from the concert repertoire. Popular forms of music (jazz, folk, rock, etc) not included. Not for credit towards the B.Mus. or B.A. in Music."
+  },
+  "MUSC 327": {
+    "subject_code": "MUSC",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Cantonese Music",
+    "faculty": "Faculty of Arts",
+    "description": "A history of musical genres with Cantonese lyrics from the nineteenth century to the present. Topics include music and text relationships, major singers, major genres (narrative songs, Cantonese opera, Cantopop). Credit will be granted for only one of MUSC_V 327 or ASIA_V 335. Equivalency: ASIA_V 335."
+  },
+  "MUSC 328": {
+    "subject_code": "MUSC",
+    "course_code": "328",
+    "credit": "3-6",
+    "course_name": "World Music Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the principles of ethnomusicology and an examination of at least two contrasting musical traditions. May be repeated once for credit if different traditions are covered."
+  },
+  "MUSC 330": {
+    "subject_code": "MUSC",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Music in Vancouver's Ethnic Communities",
+    "faculty": "Faculty of Arts",
+    "description": "Examination of music within the ethnic context as found in the urban environment of Vancouver. The musics of several traditions (e.g., Chinese, Jewish, English folk) will be studied together with the social issues surrounding their preservation. For credit toward the B.Mus. and the B.A. in Music, but open to students not majoring in music."
+  },
+  "MUSC 331": {
+    "subject_code": "MUSC",
+    "course_code": "331",
+    "credit": "2",
+    "course_name": "Workshop in World Rhythm",
+    "faculty": "Faculty of Arts",
+    "description": "Theory and practice of selected rhythmic systems of world music cultures, focusing on West African drumming, and including other systems such as Indian Tala and Peking opera percussion. Prerequisite: MUSC 200."
+  },
+  "MUSC 333": {
+    "subject_code": "MUSC",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Accompanying on the Harpsichord I",
+    "faculty": "Faculty of Arts",
+    "description": "Basic techniques and styles of continuo playing. Open to keyboard players with no previous harpsichord experience."
+  },
+  "MUSC 336": {
+    "subject_code": "MUSC",
+    "course_code": "336",
+    "credit": "4",
+    "course_name": "Opera Theatre Techniques I",
+    "faculty": "Faculty of Arts",
+    "description": "Performance techniques associated with the musical theatre of various historical periods. Basic dance. Most operatic excerpts will be in English."
+  },
+  "MUSC 339": {
+    "subject_code": "MUSC",
+    "course_code": "339",
+    "credit": "3-6",
+    "course_name": "Opera Workshop I",
+    "faculty": "Faculty of Arts",
+    "description": "Participation in performances by the School. Open also to students outside Music without credit, after audition."
+  },
+  "MUSC 340": {
+    "subject_code": "MUSC",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Piano Pedagogy I: Theory and Studio Management",
+    "faculty": "Faculty of Arts",
+    "description": "Basic principles of teaching piano. Business aspects of establishing and maintaining a music studio. For Piano Performance majors; open to other Bachelor of Music students by permission of the instructor."
+  },
+  "MUSC 345": {
+    "subject_code": "MUSC",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Aesthetics and Practice of Film Music",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "MUSC 349": {
+    "subject_code": "MUSC",
+    "course_code": "349",
+    "credit": "2",
+    "course_name": "Keyboard Harmony and Transposition",
+    "faculty": "Faculty of Arts",
+    "description": "Designed for the keyboard performance major and keyboard concentrator in General Studies."
+  },
+  "MUSC 350": {
+    "subject_code": "MUSC",
+    "course_code": "350",
+    "credit": "4-8",
+    "course_name": "Large Instrumental Ensemble (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Symphony Orchestra, Symphonic Wind Ensemble, or Concert Winds. May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 351": {
+    "subject_code": "MUSC",
+    "course_code": "351",
+    "credit": "2-4",
+    "course_name": "University Chamber Orchestra (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 151. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 352": {
+    "subject_code": "MUSC",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "History of Medieval Music",
+    "faculty": "Faculty of Arts",
+    "description": "Sacred and secular music, vocal and instrumental. Prerequisite: All of MUSC 120, MUSC 121."
+  },
+  "MUSC 353": {
+    "subject_code": "MUSC",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "History of Renaissance Music",
+    "faculty": "Faculty of Arts",
+    "description": "Sacred and secular music, vocal and instrumental. Prerequisite: MUSC 120."
+  },
+  "MUSC 354": {
+    "subject_code": "MUSC",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "Baroque Music",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: MUSC 121."
+  },
+  "MUSC 355": {
+    "subject_code": "MUSC",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Classical Music",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: MUSC 121."
+  },
+  "MUSC 356": {
+    "subject_code": "MUSC",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "Romantic Music",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: MUSC 220."
+  },
+  "MUSC 357": {
+    "subject_code": "MUSC",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "History of Music Since 1900",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: [MUSC221]"
+  },
+  "MUSC 358": {
+    "subject_code": "MUSC",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "History of Jazz",
+    "faculty": "Faculty of Arts",
+    "description": "Jazz styles and their cultural contexts; the relationship of performers and audiences; issues of race and gender; non-Western influences. Prerequisite: MUSC 221."
+  },
+  "MUSC 359": {
+    "subject_code": "MUSC",
+    "course_code": "359",
+    "credit": "2-4",
+    "course_name": "University Chamber Strings (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 159. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 360": {
+    "subject_code": "MUSC",
+    "course_code": "360",
+    "credit": "2-4",
+    "course_name": "String Chamber Ensembles (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC_V 160. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 361": {
+    "subject_code": "MUSC",
+    "course_code": "361",
+    "credit": "2-4",
+    "course_name": "Piano Chamber Ensembles (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to other students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 161. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 362": {
+    "subject_code": "MUSC",
+    "course_code": "362",
+    "credit": "2-4",
+    "course_name": "Wind and Percussion Chamber Ensembles (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 162. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 363": {
+    "subject_code": "MUSC",
+    "course_code": "363",
+    "credit": "4",
+    "course_name": "History and Repertoire of the Guitar and Related Instruments",
+    "faculty": "Faculty of Arts",
+    "description": "A chronological survey, from the Renaissance to the present day, of music for the guitar and related instruments and of the development of the instruments themselves. Instruments considered include Renaissance and Baroque lutes, the vihuela, and early types of guitar as well as the modern six-string guitar. Musical forms and genres, national schools and the works of principal composers of every period are explored and attention is given to national systems, continuo realization, historical ornamentation and pedagogical systems. Prerequisite: [MUSC221]"
+  },
+  "MUSC 365": {
+    "subject_code": "MUSC",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Song Repertoire I",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of the solo art song repertoire from 1600 to the Romantic period. Repertoire essential to the performer and teacher will be studied through live and recorded performance with special attention given to poetic content and musical style. Prerequisite: MUSC_V 221. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 366": {
+    "subject_code": "MUSC",
+    "course_code": "366",
+    "credit": "3-6",
+    "course_name": "University Choral Union (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 154. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 369": {
+    "subject_code": "MUSC",
+    "course_code": "369",
+    "credit": "1-2",
+    "course_name": "Intensive Chamber Ensemble (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive coaching in chamber ensemble for advanced players. Performance of works prepared is expected. May be taken twice for credit. Restricted to students with 3rd year standing or above. Corequisite: One of MUSC 350, MUSC 351, MUSC 359, MUSC 360, MUSC 361, MUSC 362, MUSC 366, MUSC 453, MUSC 456, MUSC 457, MUSC 463, MUSC 466. and permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 371": {
+    "subject_code": "MUSC",
+    "course_code": "371",
+    "credit": "2",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 372": {
+    "subject_code": "MUSC",
+    "course_code": "372",
+    "credit": "4",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 381": {
+    "subject_code": "MUSC",
+    "course_code": "381",
+    "credit": "2",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 382": {
+    "subject_code": "MUSC",
+    "course_code": "382",
+    "credit": "4",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 383": {
+    "subject_code": "MUSC",
+    "course_code": "383",
+    "credit": "6",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 391": {
+    "subject_code": "MUSC",
+    "course_code": "391",
+    "credit": "2",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 392": {
+    "subject_code": "MUSC",
+    "course_code": "392",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 271, MUSC 272, MUSC 281, MUSC 283, MUSC 291, MUSC 292, MUSC 293."
+  },
+  "MUSC 393": {
+    "subject_code": "MUSC",
+    "course_code": "393",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC_V 271, MUSC_V 272, MUSC_V 281, MUSC_V 283, MUSC_V 291, MUSC_V 292, MUSC_V 293."
+  },
+  "MUSC 394": {
+    "subject_code": "MUSC",
+    "course_code": "394",
+    "credit": "6",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC_V 271, MUSC _V 272, MUSC_V 281, MUSC_V 283, MUSC_V 291, MUSC_V 292, MUSC_V 293. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 402": {
+    "subject_code": "MUSC",
+    "course_code": "402",
+    "credit": "2-6",
+    "course_name": "Special Projects",
+    "faculty": "Faculty of Arts",
+    "description": "For fourth-year students who receive permission of the Director of the School of Music to do advanced studies in their major field."
+  },
+  "MUSC 403": {
+    "subject_code": "MUSC",
+    "course_code": "403",
+    "credit": "3-12",
+    "course_name": "Selected Topics in Music",
+    "faculty": "Faculty of Arts",
+    "description": "See School of Music schedule for description and prerequisites. Restricted to B. Mus. and B.A. in Music students."
+  },
+  "MUSC 407": {
+    "subject_code": "MUSC",
+    "course_code": "407",
+    "credit": "3-6",
+    "course_name": "Composition IV",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 307."
+  },
+  "MUSC 409": {
+    "subject_code": "MUSC",
+    "course_code": "409",
+    "credit": "3-6",
+    "course_name": "Jazz Theory and Arranging",
+    "faculty": "Faculty of Arts",
+    "description": "Jazz scales, chord relationships, substitutions, orchestration, listening, and score analysis. Restricted to B.Mus. and B.A. in Music students. Prerequisite: MUSC 200."
+  },
+  "MUSC 410": {
+    "subject_code": "MUSC",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "Introduction to Schenkerian Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "The key concepts of Schenker's theory of tonality. Applications to the analysis of short pieces in various tonal styles, emphasizing clear and correct graphing. Issues of interpretive scope. Prerequisite: MUSC 200."
+  },
+  "MUSC 411": {
+    "subject_code": "MUSC",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Analysis of Tonal Music",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical approaches that complement Schenkerian analysis, including motivic construction, harmonic rhythm and phrase rhythm, chromaticism and enharmonicism, features of musical form, aspects of structure and hierarchy at the small and large scale. Prerequisite: MUSC 200."
+  },
+  "MUSC 412": {
+    "subject_code": "MUSC",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Analytical Studies in the Development of Musical Modernism (1860 - 1940)",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of late- and post-romantic works within a theoretical framework that bridges earlier to later works. Assignments in various formats, emphasizing analysis but possibly including composition. Prerequisite: MUSC 200."
+  },
+  "MUSC 413": {
+    "subject_code": "MUSC",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Contemporary Art Music: Theory and Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "A technical approach to the diverse concert-music repertoire since 1950, including orchestral, chamber, solo, and electro-acoustic genres. Applicable theories of pitch and rhythm, with reference to composers' own writings. Prerequisite: MUSC 300."
+  },
+  "MUSC 414": {
+    "subject_code": "MUSC",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Counterpoint",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis and composition of pieces that rely on the control and development of imitative, polyphonic textures. Models to be taken from one or more European historical repertoires. Prerequisite: MUSC 200."
+  },
+  "MUSC 415": {
+    "subject_code": "MUSC",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Imagining Musical Performances",
+    "faculty": "Faculty of Arts",
+    "description": "How performance and analysis engage the musical imagination, as complementary activities; how analytical observations can stimulate performance, and vice versa. Selected topics, with special emphasis on temporal factors. Prerequisite: MUSC 200."
+  },
+  "MUSC 417": {
+    "subject_code": "MUSC",
+    "course_code": "417",
+    "credit": "3-6",
+    "course_name": "Musical Scoring for Film",
+    "faculty": "Faculty of Arts",
+    "description": "Addresses the practical aspects of composing music for film through assignments of written scores. Prerequisite: [MUSC319] Permission of instructor is required."
+  },
+  "MUSC 419": {
+    "subject_code": "MUSC",
+    "course_code": "419",
+    "credit": "3-6",
+    "course_name": "Interactive Performance Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Collaborative projects developing new connections between sound and gestures in live concert performance or responsive environments using multiple digital technologies. May be repeated once for credit. Prerequisite: MUSC 320."
+  },
+  "MUSC 420": {
+    "subject_code": "MUSC",
+    "course_code": "420",
+    "credit": "3",
+    "course_name": "Music Technology Capstone Project",
+    "faculty": "Faculty of Arts",
+    "description": "Supervised individual music technology project on an approved topic. Restricted to students in the Minor in Applied Music Technology Prerequisite: MUSC 419. And permission of the Instructor."
+  },
+  "MUSC 428": {
+    "subject_code": "MUSC",
+    "course_code": "428",
+    "credit": "3-6",
+    "course_name": "Topics in World Music",
+    "faculty": "Faculty of Arts",
+    "description": "The history, theory, style, organology, and forms of the music of a particular culture in its aesthetic and cultural context. Students should consult the School as to which music culture will be covered in a particular year. May be repeated once for credit if different cultures are covered. Prerequisite: [MUSC328] or instructor's permission."
+  },
+  "MUSC 430": {
+    "subject_code": "MUSC",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Major Composers",
+    "faculty": "Faculty of Arts",
+    "description": "The musical works of no more than two significant composers will be examined. Specific topics will be announced; may be repeated for credit. Prerequisite: All of MUSC 120, MUSC 121, MUSC 220, MUSC 221."
+  },
+  "MUSC 433": {
+    "subject_code": "MUSC",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Accompanying on the Harpsichord II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 333 with emphasis on more advanced continuo and obbligato techniques. Prerequisite: MUSC_V 333."
+  },
+  "MUSC 436": {
+    "subject_code": "MUSC",
+    "course_code": "436",
+    "credit": "4",
+    "course_name": "Opera Theatre Techniques II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced studies in acting, movement, gesture, dance and stage combat. Emphasis on communication and the art of singing and acting recitative in foreign languages."
+  },
+  "MUSC 439": {
+    "subject_code": "MUSC",
+    "course_code": "439",
+    "credit": "3-6",
+    "course_name": "Opera Workshop II",
+    "faculty": "Faculty of Arts",
+    "description": "A continuation of MUSC 339."
+  },
+  "MUSC 440": {
+    "subject_code": "MUSC",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Piano Pedagogy II: Applications",
+    "faculty": "Faculty of Arts",
+    "description": "Teaching musical concepts and keyboard skills; observation of group and private lessons; supervised practicum. For Piano Performance majors; open to other Bachelor of Music students by permission of the instructor. Recommended pre-requisite: MUSC 340."
+  },
+  "MUSC 441": {
+    "subject_code": "MUSC",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Vocal Techniques",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the scientific principles related to vocal performance: acoustical, physiological and psychological. Restricted to B.Mus. students."
+  },
+  "MUSC 442": {
+    "subject_code": "MUSC",
+    "course_code": "442",
+    "credit": "4-8",
+    "course_name": "Song Interpretation",
+    "faculty": "Faculty of Arts",
+    "description": "Interpretation and performance practice of Art Song repertoire for voice and piano collaborations. Restricted to MMus and BMus in Piano Performance, Opera, Voice Performance, and students in the Diploma in Collaborative Piano Studies program."
+  },
+  "MUSC 443": {
+    "subject_code": "MUSC",
+    "course_code": "443",
+    "credit": "3-6",
+    "course_name": "Opera Coaching",
+    "faculty": "Faculty of Arts",
+    "description": "Principles and practice, focusing on current Opera Workshop repertoire. Reproducing orchestrations on the piano; preparing scores; study of the voice and the rehearsal process; coaching languages; related conducting skills. Prerequisite: [MUSC249]"
+  },
+  "MUSC 444": {
+    "subject_code": "MUSC",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Establishing a Career in Music",
+    "faculty": "Faculty of Arts",
+    "description": "Best practices of the contemporary business of music, focusing on understanding present market conditions, and on targeting specific opportunities through grant-writing, resums, press kits, publicity, recordings, and marketing. Restricted to fourth-year B.Mus. students."
+  },
+  "MUSC 448": {
+    "subject_code": "MUSC",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Historical Performance Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Principles and practical application of the historically-informed performance of music. Philosophy, aesthetics, and key performance conventions of Western music before ca. 1800. Recommended: concurrent registration in MUSC 157 (Early Music Ensemble)."
+  },
+  "MUSC 449": {
+    "subject_code": "MUSC",
+    "course_code": "449",
+    "credit": "6",
+    "course_name": "Graduating Essay",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "MUSC 450": {
+    "subject_code": "MUSC",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Selected Topics in Vocal or Instrumental Genres",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive study of one genre of music (e.g., orchestral music 17601849; the Lied in Austria and Germany) through analysis and the consideration of cultural milieu and historical development. Specific topics will be announced. May be repeated for credit to a maximum of 6 credits."
+  },
+  "MUSC 453": {
+    "subject_code": "MUSC",
+    "course_code": "453",
+    "credit": "4-8",
+    "course_name": "University Singers (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC_V 153. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 454": {
+    "subject_code": "MUSC",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "History of Opera I",
+    "faculty": "Faculty of Arts",
+    "description": "The development of opera between 1600 and 1800. Prerequisite: All of MUSC 121, MUSC 220."
+  },
+  "MUSC 455": {
+    "subject_code": "MUSC",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "History of Opera II",
+    "faculty": "Faculty of Arts",
+    "description": "The development of opera between 1800 and the present. Prerequisite: All of MUSC 220, MUSC 221."
+  },
+  "MUSC 456": {
+    "subject_code": "MUSC",
+    "course_code": "456",
+    "credit": "3-6",
+    "course_name": "Vocal Chamber Ensembles (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC_V 156. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 457": {
+    "subject_code": "MUSC",
+    "course_code": "457",
+    "credit": "2-4",
+    "course_name": "Early Music Ensemble (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Performance of early Western instrumental and vocal ensemble music. May be taken twice for credit. Open to students by audition, with credit, as stipulated by their faculties. Restricted to students with 3rd year standing or above. Prerequisite: MUSC_V 157. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 463": {
+    "subject_code": "MUSC",
+    "course_code": "463",
+    "credit": "2-4",
+    "course_name": "Contemporary Players (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Performance of contemporary music. An ensemble of variable size, including both instrumentalists and singers, will be formed to present several concerts of 20th-century music during the academic year. May be taken twice for credit. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 163. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 464": {
+    "subject_code": "MUSC",
+    "course_code": "464",
+    "credit": "2-4",
+    "course_name": "Jazz Ensemble (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Performance techniques and repertoire. May be taken twice for credit. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 164."
+  },
+  "MUSC 465": {
+    "subject_code": "MUSC",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Song Repertoire II",
+    "faculty": "Faculty of Arts",
+    "description": "A sequel to MUSC_V 365, exploring the solo art song repertoire from the Romantic era to the present. Prerequisite: MUSC_V 221."
+  },
+  "MUSC 466": {
+    "subject_code": "MUSC",
+    "course_code": "466",
+    "credit": "3-6",
+    "course_name": "World Music Ensembles (Upper Years)",
+    "faculty": "Faculty of Arts",
+    "description": "Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. May be taken twice for credit. Restricted to students with 3rd year standing or above. Prerequisite: MUSC 165. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 468": {
+    "subject_code": "MUSC",
+    "course_code": "468",
+    "credit": "2",
+    "course_name": "Chamber Music Master Class",
+    "faculty": "Faculty of Arts",
+    "description": "Enrolment by audition only."
+  },
+  "MUSC 469": {
+    "subject_code": "MUSC",
+    "course_code": "469",
+    "credit": "3-6",
+    "course_name": "Interdisciplinary Projects",
+    "faculty": "Faculty of Arts",
+    "description": "Group projects and workshops with students majoring in other creative arts. Prerequisite: Permission of instructor. Credit will be granted for only one of MUSC_V 469 or THTR_V 469 or VISA_V 469 or CRWR_V 440. Equivalency: THTR_V 469, VISA_V 469, CRWR_V 440."
+  },
+  "MUSC 471": {
+    "subject_code": "MUSC",
+    "course_code": "471",
+    "credit": "2",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 472": {
+    "subject_code": "MUSC",
+    "course_code": "472",
+    "credit": "4",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 481": {
+    "subject_code": "MUSC",
+    "course_code": "481",
+    "credit": "2",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 482": {
+    "subject_code": "MUSC",
+    "course_code": "482",
+    "credit": "4",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 483": {
+    "subject_code": "MUSC",
+    "course_code": "483",
+    "credit": "6",
+    "course_name": "Music Performance (Concentration)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 491": {
+    "subject_code": "MUSC",
+    "course_code": "491",
+    "credit": "2",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 492": {
+    "subject_code": "MUSC",
+    "course_code": "492",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC 371, MUSC 372, MUSC 381, MUSC 382, MUSC 383, MUSC 391, MUSC 392, MUSC 393, MUSC 394."
+  },
+  "MUSC 493": {
+    "subject_code": "MUSC",
+    "course_code": "493",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUS_V 371, MUSC_V 372, MUSC_V 381, MUSC_V 382, MUSC_V 383, MUSC_V 391, MUSC_V 392, MUSC_V 393, MUSC_V 394."
+  },
+  "MUSC 494": {
+    "subject_code": "MUSC",
+    "course_code": "494",
+    "credit": "6",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. Prerequisite: One of MUSC_V 371, MUSC_V 372, MUSC_V 381, MUSC_V 382, MUSC_V 383, MUSC_V 391, MUSC_V 392, MUSC_V 393, MUSC_V 394. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 500": {
+    "subject_code": "MUSC",
+    "course_code": "500",
+    "credit": "3-6",
+    "course_name": "Advanced Musical Analysis",
+    "faculty": "Faculty of Arts",
+    "description": "Recommended pre-requisite: one of MUSC_V 410, MUSC_V 411, MUSC_V 412, MUSC_V 413. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 501": {
+    "subject_code": "MUSC",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Readings in Schenkerian Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Recommended pre-requisite: MUSC_V 410. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 502": {
+    "subject_code": "MUSC",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "The Structure and Function of Music Theories",
+    "faculty": "Faculty of Arts",
+    "description": "Recommended pre-requisites: one of MUSC_V 410, MUSC_V 411, MUSC_V 412, or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 503": {
+    "subject_code": "MUSC",
+    "course_code": "503",
+    "credit": "3-6",
+    "course_name": "Topics in the History of Music Theory",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 504": {
+    "subject_code": "MUSC",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Theories of Non-Tonal Pitch Relationships",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 506": {
+    "subject_code": "MUSC",
+    "course_code": "506",
+    "credit": "2-6",
+    "course_name": "Readings in Orchestral Repertoire",
+    "faculty": "Faculty of Arts",
+    "description": "Standard repertoire for orchestral instrumentalists. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 507": {
+    "subject_code": "MUSC",
+    "course_code": "507",
+    "credit": "3-6",
+    "course_name": "Composition",
+    "faculty": "Faculty of Arts",
+    "description": "The composition of original music for conventional instruments and/or electronic media. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 508": {
+    "subject_code": "MUSC",
+    "course_code": "508",
+    "credit": "3-6",
+    "course_name": "Composition",
+    "faculty": "Faculty of Arts",
+    "description": "A continuation of MUSC_V 507. Prerequisite: MUSC_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 509": {
+    "subject_code": "MUSC",
+    "course_code": "509",
+    "credit": "3-6",
+    "course_name": "Advanced Orchestration and Arranging",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 511": {
+    "subject_code": "MUSC",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Topics in Musical Aesthetics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 512": {
+    "subject_code": "MUSC",
+    "course_code": "512",
+    "credit": "3-6",
+    "course_name": "Directed Individual Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Approval by the Director, School of Music, is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 520": {
+    "subject_code": "MUSC",
+    "course_code": "520",
+    "credit": "3-6",
+    "course_name": "Introduction to Music Research",
+    "faculty": "Faculty of Arts",
+    "description": "Principal resources of the research library. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 521": {
+    "subject_code": "MUSC",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Seminar in Performance Practices",
+    "faculty": "Faculty of Arts",
+    "description": "Studies in the theoretical and practical problems of musical interpretation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 522": {
+    "subject_code": "MUSC",
+    "course_code": "522",
+    "credit": "3-6",
+    "course_name": "Seminar in Notation of Polyphonic Music",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 523": {
+    "subject_code": "MUSC",
+    "course_code": "523",
+    "credit": "3-6",
+    "course_name": "Seminar in Medieval Music",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 524": {
+    "subject_code": "MUSC",
+    "course_code": "524",
+    "credit": "3-6",
+    "course_name": "Seminar in Renaissance Music",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 525": {
+    "subject_code": "MUSC",
+    "course_code": "525",
+    "credit": "3-6",
+    "course_name": "Seminar in Baroque Music",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 526": {
+    "subject_code": "MUSC",
+    "course_code": "526",
+    "credit": "3-6",
+    "course_name": "Seminar in Classical Period Music",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 527": {
+    "subject_code": "MUSC",
+    "course_code": "527",
+    "credit": "3-6",
+    "course_name": "Seminar in Nineteenth-Century Music",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 528": {
+    "subject_code": "MUSC",
+    "course_code": "528",
+    "credit": "3-6",
+    "course_name": "Seminar in Music Since 1900",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 529": {
+    "subject_code": "MUSC",
+    "course_code": "529",
+    "credit": "3-6",
+    "course_name": "Introduction to Ethnomusicology",
+    "faculty": "Faculty of Arts",
+    "description": "Preliminary studies in the discipline of ethnomusicology, with an emphasis on history and orientations. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 530": {
+    "subject_code": "MUSC",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Topics in Ethnomusicology",
+    "faculty": "Faculty of Arts",
+    "description": "Topics involving methodology and fieldwork in non-Western traditions. Topics will vary and students should consult the School as to areas of focus in any given term. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 531": {
+    "subject_code": "MUSC",
+    "course_code": "531",
+    "credit": "3-12",
+    "course_name": "Seminar in Ethnomusicology",
+    "faculty": "Faculty of Arts",
+    "description": "Research studies in selected areas or regions of world music cultures. May be repeated to a maximum of 12 credits if different topics are covered. Prerequisite: MUSC_V 529. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 532": {
+    "subject_code": "MUSC",
+    "course_code": "532",
+    "credit": "3-12",
+    "course_name": "Advanced Studies in Music History and Musicology",
+    "faculty": "Faculty of Arts",
+    "description": "Research seminar on a core or emerging topic in music history or musicology. May be repeated to a maximum of 12 credits if different topics are covered. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 533": {
+    "subject_code": "MUSC",
+    "course_code": "533",
+    "credit": "3-12",
+    "course_name": "Advanced Studies in Music Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Research seminar on a core or emerging topic in music theory. May be repeated to a maximum of 12 credits if different topics are covered. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 535": {
+    "subject_code": "MUSC",
+    "course_code": "535",
+    "credit": "4",
+    "course_name": "Art Song: Interpretation, Collaboration, and Performance",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 537": {
+    "subject_code": "MUSC",
+    "course_code": "537",
+    "credit": "3-6",
+    "course_name": "Seminar in the Literature of Opera",
+    "faculty": "Faculty of Arts",
+    "description": "Special topics related to the bibliography, history, repertoire and pedagogy of operatic music. Prerequisite: All of MUSC_V 221, MUSC_V 301, MUSC_V 454, MUSC_V 455, MUSC_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 538": {
+    "subject_code": "MUSC",
+    "course_code": "538",
+    "credit": "3-6",
+    "course_name": "Staging and Directing Opera",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: Permission of instructor is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 539": {
+    "subject_code": "MUSC",
+    "course_code": "539",
+    "credit": "6-12",
+    "course_name": "Opera Production",
+    "faculty": "Faculty of Arts",
+    "description": "Stylistic and technical studies and participation in the production of opera performances. May be repeated for credit, in accordance with program requirements. Prerequisite: MUSC_V 439. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 544": {
+    "subject_code": "MUSC",
+    "course_code": "544",
+    "credit": "4-8",
+    "course_name": "Seminar in Conducting and Repertoire I",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of conducting techniques and of representative major compositions and literature (earlier historical periods). Emphasis on knowledge and conducting skills that can communicate a thorough understanding of genre, idiom, form, texture, and style, in rehearsal and performance. Prerequisite: Restricted to M.Mus. Conducting (Choral, Orchestral, Wind) or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 545": {
+    "subject_code": "MUSC",
+    "course_code": "545",
+    "credit": "4-8",
+    "course_name": "Seminar in Conducting and Repertoire II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of conducting techniques and of representative major compositions and literature (later historical periods). Emphasis on knowledge and conducting skills that can communicate a thorough understanding of genre, idiom, form, texture, and style, in rehearsal and performance. Prerequisite: Restricted to M.Mus. Conducting (Choral, Orchestral, Wind) or permission of the instructor. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 547": {
+    "subject_code": "MUSC",
+    "course_code": "547",
+    "credit": "3-6",
+    "course_name": "Seminar in the Literature of Song",
+    "faculty": "Faculty of Arts",
+    "description": "Special topics related to the bibliography, history, repertoire and pedagogy of song. Prerequisite: All of MUSC_V 221, MUSC_V 301, MUSC_V 365, MUSC_V 465, MUSC_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 548": {
+    "subject_code": "MUSC",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Historical Performance Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Principles and practical application of the historically-informed performance of music. The philosophy, aesthetics, and key performance conventions of Western music before ca. 1800. Concurrent registration in MUSC 557 is required for students in the Historical Performance Practice MMUS specialization and is recommended for other students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 549": {
+    "subject_code": "MUSC",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 550": {
+    "subject_code": "MUSC",
+    "course_code": "550",
+    "credit": "4-12",
+    "course_name": "Large Instrumental Ensemble",
+    "faculty": "Faculty of Arts",
+    "description": "Symphony Orchestra or Wind Ensemble. Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 551": {
+    "subject_code": "MUSC",
+    "course_code": "551",
+    "credit": "2",
+    "course_name": "University Chamber Orchestra",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 553": {
+    "subject_code": "MUSC",
+    "course_code": "553",
+    "credit": "4-12",
+    "course_name": "University Singers",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 554": {
+    "subject_code": "MUSC",
+    "course_code": "554",
+    "credit": "3-9",
+    "course_name": "University Choral Union",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 555": {
+    "subject_code": "MUSC",
+    "course_code": "555",
+    "credit": "4",
+    "course_name": "University Chamber Singers",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 556": {
+    "subject_code": "MUSC",
+    "course_code": "556",
+    "credit": "2-6",
+    "course_name": "Vocal Chamber Ensemble",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 557": {
+    "subject_code": "MUSC",
+    "course_code": "557",
+    "credit": "2-6",
+    "course_name": "Early Music Ensemble",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 559": {
+    "subject_code": "MUSC",
+    "course_code": "559",
+    "credit": "2-6",
+    "course_name": "University Chamber Strings",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 560": {
+    "subject_code": "MUSC",
+    "course_code": "560",
+    "credit": "2-6",
+    "course_name": "String Chamber Ensembles",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 561": {
+    "subject_code": "MUSC",
+    "course_code": "561",
+    "credit": "2-6",
+    "course_name": "Piano Chamber Ensembles",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 562": {
+    "subject_code": "MUSC",
+    "course_code": "562",
+    "credit": "2-6",
+    "course_name": "Wind and Percussion Chamber Ensembles",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 563": {
+    "subject_code": "MUSC",
+    "course_code": "563",
+    "credit": "2-6",
+    "course_name": "Contemporary Players",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 564": {
+    "subject_code": "MUSC",
+    "course_code": "564",
+    "credit": "2-6",
+    "course_name": "Jazz Ensemble",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to graduate students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 565": {
+    "subject_code": "MUSC",
+    "course_code": "565",
+    "credit": "2-8",
+    "course_name": "World Music Ensembles",
+    "faculty": "Faculty of Arts",
+    "description": "Training on traditional instruments and their techniques, with emphasis on ensemble performance. Different sections focus on the music of different cultures, e.g., Bali, China, Ghana, Korea. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 566": {
+    "subject_code": "MUSC",
+    "course_code": "566",
+    "credit": "1",
+    "course_name": "Intensive Chamber Ensemble",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive coaching. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 569": {
+    "subject_code": "MUSC",
+    "course_code": "569",
+    "credit": "1-3",
+    "course_name": "Intensive Specialized Chamber Ensemble",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive coaching. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 571": {
+    "subject_code": "MUSC",
+    "course_code": "571",
+    "credit": "2",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 572": {
+    "subject_code": "MUSC",
+    "course_code": "572",
+    "credit": "4",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 573": {
+    "subject_code": "MUSC",
+    "course_code": "573",
+    "credit": "6",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 591": {
+    "subject_code": "MUSC",
+    "course_code": "591",
+    "credit": "2",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 592": {
+    "subject_code": "MUSC",
+    "course_code": "592",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 593": {
+    "subject_code": "MUSC",
+    "course_code": "593",
+    "credit": "6-12",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. May be repeated for credit, in accordance with program requirements. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 594": {
+    "subject_code": "MUSC",
+    "course_code": "594",
+    "credit": "8",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 595": {
+    "subject_code": "MUSC",
+    "course_code": "595",
+    "credit": "10",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 600": {
+    "subject_code": "MUSC",
+    "course_code": "600",
+    "credit": "3",
+    "course_name": "Seminar in Analytical Techniques",
+    "faculty": "Faculty of Arts",
+    "description": "Not open to Master's students or to Ph.D. students in Music Theory. Prerequisite: One of MUSC_V 500, MUSC_V 410, MUSC_V 411, MUSC_V 412, MUSC_V 413. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 606": {
+    "subject_code": "MUSC",
+    "course_code": "606",
+    "credit": "2-4",
+    "course_name": "Readings in Orchestral Repertoire",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of MUSC_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 607": {
+    "subject_code": "MUSC",
+    "course_code": "607",
+    "credit": "3-6",
+    "course_name": "Composition",
+    "faculty": "Faculty of Arts",
+    "description": "Further study for doctoral candidates in Composition. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 609": {
+    "subject_code": "MUSC",
+    "course_code": "609",
+    "credit": "3-6",
+    "course_name": "Advanced Orchestration and Arranging",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: MUSC_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 649": {
+    "subject_code": "MUSC",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Ph.D. Dissertation or D.M.A. Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 671": {
+    "subject_code": "MUSC",
+    "course_code": "671",
+    "credit": "2",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 672": {
+    "subject_code": "MUSC",
+    "course_code": "672",
+    "credit": "4",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 673": {
+    "subject_code": "MUSC",
+    "course_code": "673",
+    "credit": "6",
+    "course_name": "Music Performance (Secondary)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 691": {
+    "subject_code": "MUSC",
+    "course_code": "691",
+    "credit": "2",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 692": {
+    "subject_code": "MUSC",
+    "course_code": "692",
+    "credit": "4",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 693": {
+    "subject_code": "MUSC",
+    "course_code": "693",
+    "credit": "6",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 694": {
+    "subject_code": "MUSC",
+    "course_code": "694",
+    "credit": "8",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MUSC 695": {
+    "subject_code": "MUSC",
+    "course_code": "695",
+    "credit": "10",
+    "course_name": "Music Performance (Major)",
+    "faculty": "Faculty of Arts",
+    "description": "Private instruction, vocal or instrumental. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "PCTH 201": {
+    "subject_code": "PCTH",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Drugs and Society",
+    "faculty": "Faculty of Medicine",
+    "description": "Introductory principles of drug action. Historical and present day medical and non-medical use of drugs. [3-0] Prerequisite: One of BIOL 12, BIOL 111, BIOL 112, BIOL 153, BIOL 155, SCIE 001. Second-year standing is required."
+  },
+  "PCTH 300": {
+    "subject_code": "PCTH",
+    "course_code": "300",
+    "credit": "6",
+    "course_name": "Introduction to Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "The concepts, language and techniques of scientific pharmacology. Intended primarily for Honours and Major students in Pharmacology. [3-3-0] Prerequisite: Either(a) all of BIOL 200, BIOL 201, CHEM 233, CHEM 235 or (b) all of BIOL 200, BIOL 201, CHEM 203, CHEM 204; and CHEM 211 and one of CHEM 205, CHEM 201. Permission of the undergraduate advisor is required."
+  },
+  "PCTH 301": {
+    "subject_code": "PCTH",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Introduction to Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "Fundamental concepts of drug-receptor interactions in the context of autonomic, autacoid, and psychoactive pharmacology. [3-0-0] Prerequisite: All of CAPS 205, CAPS 206. or CAPS 301 as a co-requisite."
+  },
+  "PCTH 302": {
+    "subject_code": "PCTH",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Introductory Pharmacology Laboratory",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of experimental demonstrations and individual laboratory experiments illustrating the basic principles of pharmacology. [1-3-0;1-3-0] Corequisite: One of PCTH 300, PCTH 301."
+  },
+  "PCTH 303": {
+    "subject_code": "PCTH",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Pharmacology in Health and Disease",
+    "faculty": "Faculty of Medicine",
+    "description": "Pharmacological modulation of physiological systems in health and disease. [3-0-0] Prerequisite: PCTH_V 301."
+  },
+  "PCTH 305": {
+    "subject_code": "PCTH",
+    "course_code": "305",
+    "credit": "6",
+    "course_name": "Basic Human Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures and assigned reading on the effects, mechanisms of action, absorption, distribution, fate and excretion of major classes of therapeutic agents. Indications for the use of particular drugs will be discussed in terms of risk versus benefit for the individual and for society. [3-0-0; 3-0-0] Prerequisite: One of BIOL 201, BIOC 202, BIOC 203. Corequisite: CAPS 301."
+  },
+  "PCTH 325": {
+    "subject_code": "PCTH",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Rational Basis of Drug Therapy",
+    "faculty": "Faculty of Medicine",
+    "description": "The principles and applications underlying the action and disposition of therapeutic agents (including alternative medicines) in the body. Use of drugs as tools in experimental research. [3-0] Prerequisite: One of BIOL 201, BIOC 202, BIOC 203, BIOC 300."
+  },
+  "PCTH 398": {
+    "subject_code": "PCTH",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Co-operative Education Program in Pharmacology. Prerequisite: One of PCTH_V 300, PCTH_V 303. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 399": {
+    "subject_code": "PCTH",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Co-operative Education Program in Pharmacology. Prerequisite: PCTH_V 398. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 400": {
+    "subject_code": "PCTH",
+    "course_code": "400",
+    "credit": "6",
+    "course_name": "Systematic Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures and discussions in scientific pharmacology, with a concentration on the scientific aspects of the pharmacology of neurohumoral transmission; mathematics of pharmacology; cardiovascular, respiratory and clinical pharmacology; and to a lesser extent on the pharmacology of various organs and tissues. [3-0-0; 3-0-0] Prerequisite: Either (a) PCTH 303 or (b) one of PCTH 300, PCTH 305."
+  },
+  "PCTH 402": {
+    "subject_code": "PCTH",
+    "course_code": "402",
+    "credit": "6",
+    "course_name": "Systematic Pharmacology Laboratory",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of demonstrated, group, and individual laboratory experiments designed to illustrate the concepts and hypotheses of pharmacology. The course is restricted to Honours students in Pharmacology, but may be taken by others with permission of the department head. [0-7-0;0-7-0] Prerequisite: All of PCTH 302, PCTH 303."
+  },
+  "PCTH 404": {
+    "subject_code": "PCTH",
+    "course_code": "404",
+    "credit": "3",
+    "course_name": "Drug Assay and Pharmacometrics",
+    "faculty": "Faculty of Medicine",
+    "description": "The techniques, including methods of statistical analysis, used to detect and measure the actions of endogenous or exogenous chemicals, using chemical assays and bioassays as appropriate. Enrolment limited to students in Pharmacology and others with permission of the department head. [1-0; 2-0] Prerequisite: Either (a) PCTH 303 or (b) one of PCTH 300, PCTH 305; and one of BIOL 300, STAT 200."
+  },
+  "PCTH 448": {
+    "subject_code": "PCTH",
+    "course_code": "448",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "Advanced investigation of a specific topic in Pharmacology."
+  },
+  "PCTH 449": {
+    "subject_code": "PCTH",
+    "course_code": "449",
+    "credit": "3-6",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "A research problem directed by a faculty member. Restricted to Honours Pharmacology students."
+  },
+  "PCTH 498": {
+    "subject_code": "PCTH",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Technical report required. Restricted to students admitted to the Co-operative Education Program in Pharmacology. Prerequisite: PCTH_V 399. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 499": {
+    "subject_code": "PCTH",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement IV",
+    "faculty": "Faculty of Medicine",
+    "description": "Approved and supervised technical work experience in an industrial research setting for a minimum of 3.5 months. Normally taken during the summer after fourth year. Technical report required. Restricted to students admitted to the Co-operative Education Program in Pharmacology. Prerequisite: PCTH_V 498. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 500": {
+    "subject_code": "PCTH",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Molecular Aspects of Drug Action at the Membrane Level",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures, discussions and assigned reading on actions of drugs on ion channels, receptors and intracellular processes and the methodologies used including electrophysiology, fluorescence measurements, molecular neurobiology and microdialysis. Given in even-numbered and alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 501": {
+    "subject_code": "PCTH",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Structure-Activity Relationships in Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures, discussions and assigned reading on physicochemical approaches to drug design - the relationship between molecular structure and pharmacological activity in various representative classes of drugs. Given in odd-numbered and alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 502": {
+    "subject_code": "PCTH",
+    "course_code": "502",
+    "credit": "4",
+    "course_name": "Drugs and Intercellular Communication (including Neuropharmacology)",
+    "faculty": "Faculty of Medicine",
+    "description": "Lectures, discussions and assigned reading on the actions of drugs on the production, release and cellular effects of hormones and neurotransmitters. Given in odd-numbered and alternate years. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 512": {
+    "subject_code": "PCTH",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Experimental Design and Analysis in Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "A series of lectures, tutorials and exercises designed to improve student skills in the design and statistical analyses of pharmacological experiments. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 513": {
+    "subject_code": "PCTH",
+    "course_code": "513",
+    "credit": "4",
+    "course_name": "Pharmacology of Anesthesia",
+    "faculty": "Faculty of Medicine",
+    "description": "Pharmacology of drugs used in anesthesia. Conferences, assigned reading and laboratory exercises demonstrating the actions of drugs as currently applied in the practice of anesthesia. Prerequisite: Permission of the department head is required. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 514": {
+    "subject_code": "PCTH",
+    "course_code": "514",
+    "credit": "1",
+    "course_name": "Seminar in Pharmacology or Therapeutics",
+    "faculty": "Faculty of Medicine",
+    "description": "To give students experience in the presentation of data and to enhance communication skills in the discussion of scientific topics. All students will present at least one seminar during their graduate work and would be expected to attend all seminars. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 548": {
+    "subject_code": "PCTH",
+    "course_code": "548",
+    "credit": "2-6",
+    "course_name": "Directed Studies in Pharmacology",
+    "faculty": "Faculty of Medicine",
+    "description": "In special cases, with the approval of the department head, advanced courses may be arranged. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 549": {
+    "subject_code": "PCTH",
+    "course_code": "549",
+    "credit": "12",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "PCTH 649": {
+    "subject_code": "PCTH",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Medicine",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

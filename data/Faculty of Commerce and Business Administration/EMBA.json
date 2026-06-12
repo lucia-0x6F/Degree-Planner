@@ -1,0 +1,298 @@
+{
+  "EMBA 500": {
+    "subject_code": "EMBA",
+    "course_code": "500",
+    "credit": "6-20",
+    "course_name": "EMBA Core",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BA_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 501": {
+    "subject_code": "EMBA",
+    "course_code": "501",
+    "credit": "1.5",
+    "course_name": "Business Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BALA_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 508": {
+    "subject_code": "EMBA",
+    "course_code": "508",
+    "credit": "1.5",
+    "course_name": "Topics in Business Law",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BALA_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 511": {
+    "subject_code": "EMBA",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Application of Statistics in Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 512": {
+    "subject_code": "EMBA",
+    "course_code": "512",
+    "credit": "1.5",
+    "course_name": "Operations and Logistics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 513": {
+    "subject_code": "EMBA",
+    "course_code": "513",
+    "credit": "1.5",
+    "course_name": "Supply Chain Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BASC_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 518": {
+    "subject_code": "EMBA",
+    "course_code": "518",
+    "credit": "1.5",
+    "course_name": "Topics in Operations and Logistics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BASC_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 521": {
+    "subject_code": "EMBA",
+    "course_code": "521",
+    "credit": "1.5",
+    "course_name": "Organizational Behaviour",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 522": {
+    "subject_code": "EMBA",
+    "course_code": "522",
+    "credit": "1.5",
+    "course_name": "Leadership",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 523": {
+    "subject_code": "EMBA",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "Negotiation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAHR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 524": {
+    "subject_code": "EMBA",
+    "course_code": "524",
+    "credit": "1.5",
+    "course_name": "Business Ethics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAHR_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 525": {
+    "subject_code": "EMBA",
+    "course_code": "525",
+    "credit": "1.5",
+    "course_name": "Managing Change",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAHR_V 508. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 526": {
+    "subject_code": "EMBA",
+    "course_code": "526",
+    "credit": "1.5",
+    "course_name": "International Health Care Systems",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 528": {
+    "subject_code": "EMBA",
+    "course_code": "528",
+    "credit": "1.5",
+    "course_name": "Topics in Human Resources",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAHR_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 531": {
+    "subject_code": "EMBA",
+    "course_code": "531",
+    "credit": "1.5",
+    "course_name": "Informational Technology",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 532": {
+    "subject_code": "EMBA",
+    "course_code": "532",
+    "credit": "1.5",
+    "course_name": "Survey of Information Technology Applications in Business",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAIT_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 538": {
+    "subject_code": "EMBA",
+    "course_code": "538",
+    "credit": "1.5",
+    "course_name": "Topics in Management Information Systems",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAIT_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 551": {
+    "subject_code": "EMBA",
+    "course_code": "551",
+    "credit": "1.5",
+    "course_name": "Managerial Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 552": {
+    "subject_code": "EMBA",
+    "course_code": "552",
+    "credit": "1.5",
+    "course_name": "Financial Reporting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAAC_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 558": {
+    "subject_code": "EMBA",
+    "course_code": "558",
+    "credit": "1.5",
+    "course_name": "Topics in Accounting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAAC_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 561": {
+    "subject_code": "EMBA",
+    "course_code": "561",
+    "credit": "1.5",
+    "course_name": "Marketing Strategy",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAMA_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 562": {
+    "subject_code": "EMBA",
+    "course_code": "562",
+    "credit": "1.5",
+    "course_name": "Creative Marketing Strategies",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAMA_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 568": {
+    "subject_code": "EMBA",
+    "course_code": "568",
+    "credit": "1.5",
+    "course_name": "Topics in Marketing",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAMA_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 571": {
+    "subject_code": "EMBA",
+    "course_code": "571",
+    "credit": "1.5",
+    "course_name": "Basic Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAFI_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 572": {
+    "subject_code": "EMBA",
+    "course_code": "572",
+    "credit": "1.5",
+    "course_name": "Financial Strategies",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAFI_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 578": {
+    "subject_code": "EMBA",
+    "course_code": "578",
+    "credit": "1.5",
+    "course_name": "Topics in Finance",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAFI_V 580. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 586": {
+    "subject_code": "EMBA",
+    "course_code": "586",
+    "credit": "1.5-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 587": {
+    "subject_code": "EMBA",
+    "course_code": "587",
+    "credit": "1.5-6",
+    "course_name": "Executive Project",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 588": {
+    "subject_code": "EMBA",
+    "course_code": "588",
+    "credit": "1-6",
+    "course_name": "Prior Learning Assessment and Recognition",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 591": {
+    "subject_code": "EMBA",
+    "course_code": "591",
+    "credit": "1.5",
+    "course_name": "Foundations of Managerial Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 592": {
+    "subject_code": "EMBA",
+    "course_code": "592",
+    "credit": "1.5",
+    "course_name": "Strategic Management",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 593": {
+    "subject_code": "EMBA",
+    "course_code": "593",
+    "credit": "1.5",
+    "course_name": "Strategic Decision Making",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BASM_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 594": {
+    "subject_code": "EMBA",
+    "course_code": "594",
+    "credit": "1.5",
+    "course_name": "Economic Evaluation",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. Equivalency: BAPA_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 595": {
+    "subject_code": "EMBA",
+    "course_code": "595",
+    "credit": "1.5",
+    "course_name": "Economics Ethics and Health Care Priority Setting",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 596": {
+    "subject_code": "EMBA",
+    "course_code": "596",
+    "credit": "1.5",
+    "course_name": "Management Consulting Processes and Tools",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 597": {
+    "subject_code": "EMBA",
+    "course_code": "597",
+    "credit": "1.5",
+    "course_name": "Health Care Strategy and Structure: An Economic Framework",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "EMBA 598": {
+    "subject_code": "EMBA",
+    "course_code": "598",
+    "credit": "1.5-6",
+    "course_name": "Topics in Strategy and Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Restricted to Executive M.B.A. students. This course is not eligible for Credit/D/Fail grading."
+  }
+}

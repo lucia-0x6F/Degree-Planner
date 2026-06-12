@@ -1,0 +1,450 @@
+{
+  "SPAN 101": {
+    "subject_code": "SPAN",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginners' Spanish I",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamentals of the Spanish language. Communicate with basic vocabulary in common tasks and situations related to present and future events. Aligned with CEFR level A1 objectives. Credit will be granted for either SPAN 103 or both SPAN 101, SPAN 102."
+  },
+  "SPAN 102": {
+    "subject_code": "SPAN",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginners' Spanish II",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of foundational elements of the language. Communicate using essential vocabulary in common tasks and situations related to past, present and future events. Aligned with CEFR level A1 objectives. This course is recommended for students who have completed SPAN_V 101. Credit will be granted for either SPAN_V 103 or both SPAN_V 101, SPAN_V 102."
+  },
+  "SPAN 103": {
+    "subject_code": "SPAN",
+    "course_code": "103",
+    "credit": "3",
+    "course_name": "Intensive Beginners' Spanish",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamentals of the Spanish language. Ideal for students with Spanish 12 or expertise in another Romance language. Aligned with CEFR level A1 objectives. This course is recommended for students who have completed Grade 12 Spanish or for native or near-native speakers of other Romance languages. Credit will be granted for SPAN_V 103 or both SPAN_V 101, SPAN_V 102."
+  },
+  "SPAN 201": {
+    "subject_code": "SPAN",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Elementary Spanish I",
+    "faculty": "Faculty of Arts",
+    "description": "Expansion of fundamentals. Enhanced ability to exchange information, discuss the past and future, and express wishes, hopes and feelings in common personal and social contexts. Aligned with CEFR level A1-A2 objectives. This course is recommended for students who have completed one of Grade 11 Spanish, SPAN_V 102, or SPAN_V 103. Credit will be granted for either SPAN_V 203 or both SPAN_V 201, SPAN_V 202."
+  },
+  "SPAN 202": {
+    "subject_code": "SPAN",
+    "course_code": "202",
+    "credit": "3",
+    "course_name": "Elementary Spanish II",
+    "faculty": "Faculty of Arts",
+    "description": "Expansion of fundamental notions and presentation of more elaborate structures in a variety of tenses and modes. Communicate to explore Hispanic culture and to hypothesize about present and past situations. Aligned with CEFR level A2 objectives. This course is recommended for students who have completed SPAN_V 201. Credit will be granted for either SPAN_V 203 or both SPAN_V 201, SPAN_V 202."
+  },
+  "SPAN 203": {
+    "subject_code": "SPAN",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Intensive Elementary Spanish",
+    "faculty": "Faculty of Arts",
+    "description": "Continuation of SPAN_V 103. Aligned with CEFR level A2 objectives. This course is recommended for students who have completed one of SPAN_V 102, SPAN_V 103, or placement test for native or near-native speakers of other Romance Languages. Credits will be granted for SPAN_V 203 or both SPAN_V 201, SPAN_V 202."
+  },
+  "SPAN 206": {
+    "subject_code": "SPAN",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Conversational Spanish I",
+    "faculty": "Faculty of Arts",
+    "description": "Emphasizes communication skills through discussion, debate, and presentations; developing oral fluency and listening comprehension, through discussion of written texts and films. May include experiential learning projects involving native speakers from the Hispanic community. Prerequisite: One of BC High School Spanish Grade 12, SPAN 202, or SPAN 203."
+  },
+  "SPAN 207": {
+    "subject_code": "SPAN",
+    "course_code": "207",
+    "credit": "3",
+    "course_name": "Conversational Spanish II",
+    "faculty": "Faculty of Arts",
+    "description": "Builds on communication skills through discussion, debate, and presentations; exploration of cultural topics through discussion of written texts and other media. May include experiential learning projects involving native speakers from the Hispanic community. Aligned with CEFR A2 objectives. Prerequisite: One of BC High School Spanish Grade 12, SPAN 202, SPAN 203 or SPAN 206."
+  },
+  "SPAN 210": {
+    "subject_code": "SPAN",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Conversational Spanish and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of cultural topics, concepts, and practices and how they frame and relate to the diverse geographies and cultural traditions from Spain, Latin America, and the diaspora through oral and written expressions. This course is recommended for students who have completed SPAN_V 202 or SPAN_V 203."
+  },
+  "SPAN 221": {
+    "subject_code": "SPAN",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Introduction to Literature in Spanish",
+    "faculty": "Faculty of Arts",
+    "description": "Major texts, authors, periods, and genres of Hispanic literature; key concepts, terminology, and practices of literary analysis that serve as a foundation for higher-level Spanish literature courses. This course is recommended for students who have completed SPAN_V 202, SPAN_V 203 or successful completion of language placement exam."
+  },
+  "SPAN 222": {
+    "subject_code": "SPAN",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Introduction to Hispanic Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Media, figures, periods, and genres of Hispanic culture; key concepts, theories, and practices of cultural analysis that serve as a foundation for higher-level Spanish culture courses. Prerequisite: One of BC High School Spanish Grade 12, SPAN 202, SPAN 203 or successful completion of language placement exam or an assessment interview."
+  },
+  "SPAN 301": {
+    "subject_code": "SPAN",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Intermediate Spanish I",
+    "faculty": "Faculty of Arts",
+    "description": "Complex grammatical structures in context to enhance proficiency. Explores relevant cultural topics through reading, writing, and discussion. Aligned with CEFR level B1 objectives. This course is recommended for students who have completed one of Grade 12 Spanish, SPAN_V 202, SPAN_V 203, SPAN_V 206, SPAN_V 207 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 302": {
+    "subject_code": "SPAN",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Intermediate Spanish II",
+    "faculty": "Faculty of Arts",
+    "description": "Expansion of and reflection on the use of complex grammatical structures in context to broaden lexical repertoire. Enhances proficiency through reading, writing, and discussion of relevant cultural topics. Aligned with CEFR level B1 objectives. This course is recommended for students who have completed SPAN_V 301 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 303": {
+    "subject_code": "SPAN",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Intensive Intermediate Spanish",
+    "faculty": "Faculty of Arts",
+    "description": "Expands the comprehension and communicative skills of upper-level students and heritage speakers through topics drawn from Hispanic culture and current events. Aligned with CEFR B1 objectives. This course is recommended for students who have completed SPAN_V 202, SPAN_V 203, and for native and near-native speakers of other Romance languages."
+  },
+  "SPAN 308": {
+    "subject_code": "SPAN",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Spanish for Business",
+    "faculty": "Faculty of Arts",
+    "description": "Language of commerce, finance, marketing, and economics. Competence in business practices of the Hispanic world. This course is recommended for students who have completed SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 309": {
+    "subject_code": "SPAN",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Business Spanish of International Trade in the Hispanic World (in Spanish)",
+    "faculty": "Faculty of Arts",
+    "description": "Language of international commerce through real world business practices in the Hispanic world; key issues concerning business practices, engaging with real-world materials, and interacting with professionals specializing in trade with the Hispanic world. Pre-requisites: One of SPAN 206, 207, 301, 302, 308. Or successful completion of a language placement exam or an assessment interview."
+  },
+  "SPAN 310": {
+    "subject_code": "SPAN",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Literatures and Cultures of Spain: From Medieval to Present",
+    "faculty": "Faculty of Arts",
+    "description": "Spanish Literature from the Middle Ages to Present. Literary analysis of narrative, poetic, dramatic, essay and other texts by considering the main literary genres and trends as well as historical and cultural context. This course is recommended for students who have completed SPAN_V 221 or SPAN_V 301."
+  },
+  "SPAN 320": {
+    "subject_code": "SPAN",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Literatures and Cultures of Latin America: From Pre-Columbian to Present",
+    "faculty": "Faculty of Arts",
+    "description": "Explore a diverse range of texts, themes and genres of Latin American literature from pre-Columbian times to present day. This course is recommended for students who have completed SPAN_V 221 or SPAN_V 301."
+  },
+  "SPAN 321": {
+    "subject_code": "SPAN",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Tradition and Diversity in Spanish History and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Conservation and progress on the Iberian Peninsula, from the Middle Ages to the present. Includes the first modern European state and its diverse cultures. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 322": {
+    "subject_code": "SPAN",
+    "course_code": "322",
+    "credit": "3",
+    "course_name": "Dependency and Revolution in Latin American History and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Continuities and changes in the Americas from before Columbus to the present. Includes the first modern global empire and its ambivalent legacies. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 340": {
+    "subject_code": "SPAN",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "Hispanic Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Explores the rich and diverse cinematic landscape of the Global Hispanic World analyzing films, writers, and directors within their historical, social, and cultural contexts. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/. Credit will only be granted for one of SPAN_V 340 or SPAN_V 404. Equivalency: SPAN_V 404."
+  },
+  "SPAN 360": {
+    "subject_code": "SPAN",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Gender Representation(s) in Hispanic Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Gender and sexuality in Spain and Latin America. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/. Credit will only be granted for one of SPAN_V 360 or SPAN_V 406. Equivalency: SPAN_V 406."
+  },
+  "SPAN 390": {
+    "subject_code": "SPAN",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Hispanic Theatre",
+    "faculty": "Faculty of Arts",
+    "description": "Explores areas of study relating to Hispanic Theatre, focusing on the diverse historical, cultural, and performance aspects of the genre. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/. Credit will only be granted for one of SPAN_V 390 or SPAN_V 409. Equivalency: SPAN_V 409."
+  },
+  "SPAN 395": {
+    "subject_code": "SPAN",
+    "course_code": "395",
+    "credit": "3-6",
+    "course_name": "Special Topics Abroad",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Hispanic literature, history, culture, or communities in an authentic context. Topics and locations may vary. Consult Department for current offerings. Recommendation: CEFR A2 Spanish proficiency level"
+  },
+  "SPAN 401": {
+    "subject_code": "SPAN",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "Upper Intermediate Spanish I: Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Strengthening fluency and accuracy in spoken and written communication. Emphasis on mediation, interpretation, and metalinguistic competencies through translation and comparative stylistics. Aligned with CEFR level B2 objectives. This course is recommended for students who have completed SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 402": {
+    "subject_code": "SPAN",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Upper Intermediate Spanish II: Spanish for Community",
+    "faculty": "Faculty of Arts",
+    "description": "Continued strengthening of fluency, accuracy, and spontaneity in spoken and written communication. Emphasis on contextualized grammar and vocabulary; critical reading and discussion of texts. Aligned with CEFR level B2 objectives. This course is recommended for students who have completed SPAN_V 401."
+  },
+  "SPAN 403": {
+    "subject_code": "SPAN",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "History of the Spanish Language",
+    "faculty": "Faculty of Arts",
+    "description": "Major features of the development of the Spanish language, from its origins to the present. Includes the history of Spanish phonetics, phonology, morphology, syntax, semantics, and dialectology. This course is recommended for students who have completed SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 405": {
+    "subject_code": "SPAN",
+    "course_code": "405",
+    "credit": "3-6",
+    "course_name": "Topics in Hispanic Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics relating to the diversity of cultural production in Peninsular and Latin American Culture. Consult the Department for this year's offerings. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 410": {
+    "subject_code": "SPAN",
+    "course_code": "410",
+    "credit": "3-6",
+    "course_name": "Multicultural Beginnings: Topics in Medieval Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected areas of study relating to literature and culture of the Iberian Peninsula to the 15th century. Consult the Department for this year's offerings. Recommended pre-requisites: SPAN 221; and SPAN 301 or equivalent expertise in written and spoken Spanish."
+  },
+  "SPAN 411": {
+    "subject_code": "SPAN",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Hispanic Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Spanish as a linguistic system. Includes the structure of Spanish words and sentences, dialectal varieties in both Spain and Latin America, and linguistic theory. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 415": {
+    "subject_code": "SPAN",
+    "course_code": "415",
+    "credit": "3-6",
+    "course_name": "Topics in Peninsular Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Peninsular literatures, cultures, languages, or communities. Topics vary from section to section. Consult Department for current offerings. May be taken twice on different subjects for credit. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of language placement exam."
+  },
+  "SPAN 420": {
+    "subject_code": "SPAN",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "Ascent and Decline: Topics in Golden-Age Peninsular Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected areas of study relating to sixteenth- and seventeenth-century Spain. Consult the Department for this year's offerings. Recommended pre-requisites: SPAN 221; and SPAN 301 or equivalent expertise in written and spoken Spanish."
+  },
+  "SPAN 425": {
+    "subject_code": "SPAN",
+    "course_code": "425",
+    "credit": "3-6",
+    "course_name": "Topics in Latin American Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Study of Latin American literatures, cultures, languages, or communities. Topics vary from section to section. Consult Department for current offerings. May be taken twice on different subjects for credit. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of language placement exam."
+  },
+  "SPAN 430": {
+    "subject_code": "SPAN",
+    "course_code": "430",
+    "credit": "3-6",
+    "course_name": "Modernization and Autonomy: Topics in Peninsular Literature and Culture since the 18th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Selected areas of study relating to the literature and culture of modern Spain. Consult the Department for this year's offerings. Recommended pre-requisites: SPAN 221; and SPAN 301 or equivalent expertise in written and spoken Spanish."
+  },
+  "SPAN 435": {
+    "subject_code": "SPAN",
+    "course_code": "435",
+    "credit": "3-6",
+    "course_name": "Topics in Global Hispanism",
+    "faculty": "Faculty of Arts",
+    "description": "Study of the dynamic and evolving nature of Hispanic identities, literatures, and cultures within a global context. Topics vary from section to section. Consult Department for current offerings. May be taken twice on different subjects for credit. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of language placement exam."
+  },
+  "SPAN 450": {
+    "subject_code": "SPAN",
+    "course_code": "450",
+    "credit": "3-6",
+    "course_name": "Topics in Spanish Language",
+    "faculty": "Faculty of Arts",
+    "description": "Selected areas of study relating to Spanish linguistics or its relation to other languages spoken in the Hispanic world. Consult the Department for this year's offerings. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 470": {
+    "subject_code": "SPAN",
+    "course_code": "470",
+    "credit": "3-6",
+    "course_name": "Imperial Eyes and Foundational Fictions: Topics in Spanish-American Colonial and Nineteenth-Century Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected areas of study relating to colonial and/or nineteenth-century Spanish America. Consult the Department for this year's offerings. Recommended pre-requisites: SPAN 221; and SPAN 301 or equivalent expertise in written and spoken Spanish."
+  },
+  "SPAN 490": {
+    "subject_code": "SPAN",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Peoples and Nations: Topics in Twentieth- and Twenty-First Century Spanish-American Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected areas of study relating to modern and/or contemporary Spanish America. Consult the Department for this year's offerings. Recommended pre-requisites: SPAN 221; and SPAN 301 or equivalent expertise in written and spoken Spanish."
+  },
+  "SPAN 495": {
+    "subject_code": "SPAN",
+    "course_code": "495",
+    "credit": "3-6",
+    "course_name": "Research Intensive Seminar in Hispanic Literature and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Theories and methodologies of the discipline. Consult the Department for this year's offering. Recommended pre-requisites: SPAN_V 221; and SPAN_V 301 or equivalent expertise in written and spoken Spanish."
+  },
+  "SPAN 498": {
+    "subject_code": "SPAN",
+    "course_code": "498",
+    "credit": "3-6",
+    "course_name": "Directed Reading",
+    "faculty": "Faculty of Arts",
+    "description": "Focus on a topic agreed on by both Faculty Supervisor and student. Restricted to students with 4th year standing and permission from both the Department Head and Faculty Supervisor. This course may be taught as a Student Directed Seminar. This course is recommended for students who have completed SPAN_V 221, SPAN_V 302, SPAN_V 303 or successful completion of the language placement test: https://fhis.air.arts.ubc.ca/spanish-placement-questionnaire-tool/."
+  },
+  "SPAN 499": {
+    "subject_code": "SPAN",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Honours Essay",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "SPAN 501": {
+    "subject_code": "SPAN",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Studies in Literary Criticism",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 502": {
+    "subject_code": "SPAN",
+    "course_code": "502",
+    "credit": "3-6",
+    "course_name": "Gender Representations in Hispanic Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 504": {
+    "subject_code": "SPAN",
+    "course_code": "504",
+    "credit": "3-6",
+    "course_name": "Hispanic Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 505": {
+    "subject_code": "SPAN",
+    "course_code": "505",
+    "credit": "3-6",
+    "course_name": "Transatlantic Hispanic Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 520": {
+    "subject_code": "SPAN",
+    "course_code": "520",
+    "credit": "3-6",
+    "course_name": "Golden-Age Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 527": {
+    "subject_code": "SPAN",
+    "course_code": "527",
+    "credit": "3-6",
+    "course_name": "Medieval Hispanic Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 530": {
+    "subject_code": "SPAN",
+    "course_code": "530",
+    "credit": "3-6",
+    "course_name": "Peninsular Literature of the Eighteenth, Nineteenth and Twentieth Centuries",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 549": {
+    "subject_code": "SPAN",
+    "course_code": "549",
+    "credit": "6",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 550": {
+    "subject_code": "SPAN",
+    "course_code": "550",
+    "credit": "3-6",
+    "course_name": "Hispanic Languages, Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 570": {
+    "subject_code": "SPAN",
+    "course_code": "570",
+    "credit": "3-6",
+    "course_name": "Colonial Latin-American Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 580": {
+    "subject_code": "SPAN",
+    "course_code": "580",
+    "credit": "3-6",
+    "course_name": "Nineteenth-Century Latin-American Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 590": {
+    "subject_code": "SPAN",
+    "course_code": "590",
+    "credit": "3-6",
+    "course_name": "Contemporary Latin-American Literatures and Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 591": {
+    "subject_code": "SPAN",
+    "course_code": "591",
+    "credit": "1.5",
+    "course_name": "Proseminar I: Research Skills and Scholarly Practices",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for only one of SPAN_V 591 or FREN_V 591. Equivalency: FREN_V 591. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 592": {
+    "subject_code": "SPAN",
+    "course_code": "592",
+    "credit": "1.5",
+    "course_name": "Proseminar II: Literary and Cultural Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for only one of SPAN_V 592 or FREN_V 592. Prerequisite: SPAN_V 591. Equivalency: FREN_V 592. This course is not eligible for Credit/D/Fail grading."
+  },
+  "SPAN 649": {
+    "subject_code": "SPAN",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

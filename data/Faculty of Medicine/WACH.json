@@ -1,0 +1,154 @@
+{
+  "WACH 501": {
+    "subject_code": "WACH",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Team Science in Women+ and Children's Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Interdisciplinary approaches across the four health research pillars (biomedical, clinical, health services, population health); principles of team science; design of collaborative and equitable health research. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 502": {
+    "subject_code": "WACH",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Seminars in Women+ and Children's Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Biological and social determinants of health, health equity and inclusion. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 503": {
+    "subject_code": "WACH",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Perinatal Epidemiology",
+    "faculty": "Faculty of Medicine",
+    "description": "Indicators of maternal/newborn well-being across population subgroups, changing trends in obstetrical intervention, perinatal morbidity, and the analysis of perinatal data. Equivalency: SPPH_V 537, OBST_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 504": {
+    "subject_code": "WACH",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Critical Appraisal of Research in Reproductive and Children's Health Sciences",
+    "faculty": "Faculty of Medicine",
+    "description": "Principles of critical thinking and appraisal of medical literature with respect to study design and causal inference. Credit will be granted for only one of OBST_V 509 or WACH_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 505": {
+    "subject_code": "WACH",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Fundamentals of Magnetic Resonance Imaging",
+    "faculty": "Faculty of Medicine",
+    "description": "Physics behind MRI and basic principles. Image weighting/contrast, special encoding and image formation, pulse sequences, and hardware. Advanced techniques (functional, diffusion, quantitative, phase- based, spectroscopy) and their applications in women+ and children's health. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 506": {
+    "subject_code": "WACH",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Knowledge Translation and Implementation Sciences",
+    "faculty": "Faculty of Medicine",
+    "description": "Strategies to promote uptake of innovations and evidence in healthcare from bench to bedside to populations. Credit will be granted for only one of OBST_V 581 or WACH_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 511": {
+    "subject_code": "WACH",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Women+ Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Sexual development, transgender medicine, reproduction and pregnancy, chronic and acute diseases, and social determinants of health. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 512": {
+    "subject_code": "WACH",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Women's Mental Health Across Their Lifecycle",
+    "faculty": "Faculty of Medicine",
+    "description": "Multidisciplinary approach; interactions with reproductive health and concepts in women's mental health research. Credit will be granted for only one of OBST_V 511 or WACH_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 513": {
+    "subject_code": "WACH",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Gynecologic Pathologies: Benign and Malignant",
+    "faculty": "Faculty of Medicine",
+    "description": "Focus on genomics and pathophysiology. Credit will be granted for only one of OBST_V 510 or WACH_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 514": {
+    "subject_code": "WACH",
+    "course_code": "514",
+    "credit": "3",
+    "course_name": "Overview of Gynecologic Oncology",
+    "faculty": "Faculty of Medicine",
+    "description": "Molecular biology, epidemiology, prevention, and treatment of gynecologic cancers, including uterine cancer, vulvar/vaginal cancer, cervical cancer, ovarian cancer, and how to incorporate the patient experience into research. Credit will be granted for only one of OBST_V 512 or WACH_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 521": {
+    "subject_code": "WACH",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Child Health Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Biology of human development, child growth and puberty, adolescent health, childhood chronic and acute diseases, gender diversity in pediatrics, social environment and child health, and pediatric research in partnership with Indigenous communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 522": {
+    "subject_code": "WACH",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Pediatric Nutrition",
+    "faculty": "Faculty of Medicine",
+    "description": "Dietary assessment and nutrient requirements in children and youth, assessment of growth and adiposity, application of nutritional biochemistry and animal models, energy balance, macronutrient and micronutrient metabolism and research, restricted diets in children, nutritional interventions in children. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 531": {
+    "subject_code": "WACH",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Reproductive Endocrinology",
+    "faculty": "Faculty of Medicine",
+    "description": "Neuroendocrine regulation of reproduction, regulation of the ovarian and testicular function. Equivalency: OBST_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 532": {
+    "subject_code": "WACH",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Physiology of the Mother, Fetus and Newborn",
+    "faculty": "Faculty of Medicine",
+    "description": "Functional development of the placenta and major organ systems in the fetal and newborn period in man and animals. Equivalency: OBST_V 502. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 533": {
+    "subject_code": "WACH",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Fetal and Perinatal Metabolism",
+    "faculty": "Faculty of Medicine",
+    "description": "Nutrient metabolism and requirements during fetal and perinatal development and research methods used to assess requirements; developmental origins of health and disease; gestational obesity and diabetes; nutritional supplements during pregnancy. Equivalency: OBST_V 503. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 540": {
+    "subject_code": "WACH",
+    "course_code": "540",
+    "credit": "1.5-3",
+    "course_name": "Emerging Topics in Experimental Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Restricted to students in Master of Science in Women+ and Children's Health Sciences or Doctor of Philosophy in Women+ and Children's Health Sciences. Equivalency: MEDI_V 504. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 548": {
+    "subject_code": "WACH",
+    "course_code": "548",
+    "credit": "1.5-6",
+    "course_name": "Directed Studies in Women+ and Children's Health",
+    "faculty": "Faculty of Medicine",
+    "description": "Student-directed literature-based or experimental investigation of a topic. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 549": {
+    "subject_code": "WACH",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WACH 649": {
+    "subject_code": "WACH",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Ph.D. Thesis",
+    "faculty": "Faculty of Medicine",
+    "description": "Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,202 @@
+{
+  "UFOR 100": {
+    "subject_code": "UFOR",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Greening the City",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Roles played by urban forestry and greenspace systems in a rapidly changing world; topics include urban ecology, urban forest conservation, urban forest management, climate change, society and human well-being, design and planning, urban/rural interface issues, and urban forest policy. [2-0-2]"
+  },
+  "UFOR 110": {
+    "subject_code": "UFOR",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Introduction to Urban Forest Design",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic concepts of landscape design as it relates to urban forestry."
+  },
+  "UFOR 200": {
+    "subject_code": "UFOR",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Urban Forests and Well-Being",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic relationships between urban residents' mental and physical well-being and their urban forest environment. [2-0-2]"
+  },
+  "UFOR 220": {
+    "subject_code": "UFOR",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Urban Forest Inventory and Assessment",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Overview of urban forest resources: structure and composition, extent, and ecosystem services and benefits provided; introduces methods and tools for urban forest inventory, monitoring, and assessment, and how they are integrated into the planning and management of urban forests. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 231": {
+    "subject_code": "UFOR",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Introductory Statistical Methods for Urban Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic theories and practice of statistical methods in an urban forestry context. Intended only for students in the Bachelor of Urban Forestry program. Students in the Bachelor of Science, Natural Resources should take NRES 231."
+  },
+  "UFOR 300": {
+    "subject_code": "UFOR",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Arboriculture Principles and Practice",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Principles and practices of individual urban tree management with emphasis on underlying biological and ecological concepts, plant-environment interactions above and below ground and implications for establishment, evaluation, and conservation of individual trees in a variety of urban situations. [3-1-0] Prerequisite: Pre-req or co-req: UFOR 316 and Third-year standing."
+  },
+  "UFOR 316": {
+    "subject_code": "UFOR",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Trees and Shrubs in Landscape",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Identification and suitability of woody plants used in the urban environment, with a focus on biological characteristics for plant identification, criteria for species selection, and other considerations for urban woody plant cultivation. Prerequisite: One of FRST 200, NRES 200. Corequisite: All of UFOR 316, UFOR 300."
+  },
+  "UFOR 320": {
+    "subject_code": "UFOR",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "Urban Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The nature and dynamics of urban ecosystems with emphasis on urban forests and greenspaces. The role of green infrastructure in urban sustainability with particular focus on the ecological impact of urban forest management, design, and policy decisions. [3-0-1]."
+  },
+  "UFOR 330": {
+    "subject_code": "UFOR",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Environmental Justice and Urban Green Equity",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theory, concepts and applications of urban green equity and urban environmental justice with particular focus on implications for urban forest policy, planning, management, and design. [3-0-1] Prerequisite: Third-year standing."
+  },
+  "UFOR 400": {
+    "subject_code": "UFOR",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Urban Forestry Field School",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Development of field skills, professional judgment, critical reflection, and integration of theory, practice, and policy. Offered at Malcolm Knapp Research Forest over a 7-day period in April. Prerequisite: All of UFOR_V 300, UFOR_V 316. And third year standing in the B.U.F. program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 401": {
+    "subject_code": "UFOR",
+    "course_code": "401",
+    "credit": "9",
+    "course_name": "Integrated Urban Forestry Capstone Studio",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Integration of biophysical and socio-economic components of urban greenspace management and planning through within a collaborative holistic group project linked to a real-world urban forestry situation. [3-6-0]. Prerequisite: All of UFOR_V 300, UFOR_V 400. And fourth year standing in the B.U.F. program. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 402": {
+    "subject_code": "UFOR",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Urban Forestry Administration, Policy and Law",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The administrative, legal, policy, and business environments for urban forestry governance, management, and planning. [3-1-0] Prerequisite: UFOR 300. And third year standing."
+  },
+  "UFOR 403": {
+    "subject_code": "UFOR",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Ecological Restoration",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Perspectives and practices of ecological restoration in diverse ecosystems worldwide. Prerequisite: One of FRST_V 201, NRES_V 201, BIOL_V 230. And third-year standing. Equivalency: APBI_V 423. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 415": {
+    "subject_code": "UFOR",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "Planting Design",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An introduction to the design of enhanced environments through the use of plants. Prerequisites: Third-year standing"
+  },
+  "UFOR 444": {
+    "subject_code": "UFOR",
+    "course_code": "444",
+    "credit": "3",
+    "course_name": "Green Network Planning",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theory and methods of long-range green space planning for urban areas."
+  },
+  "UFOR 449": {
+    "subject_code": "UFOR",
+    "course_code": "449",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Urban Forestry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "In special cases and with the approval of the instructor concerned, a student may carry out directed studies on a specific topic/problems in Urban Forestry and related greenspace planning, management, or governance."
+  },
+  "UFOR 495": {
+    "subject_code": "UFOR",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Biodiversity in Urban Areas",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Urban centres can be designed and managed to contribute to biodiversity conservation commitments. Topics include designing human-dominated landscapes to promote biodiversity, the tools required, assessing outcomes, and the benefits and negatives of nature in the city. Prerequisite: One of FRST 201, NRES 201, BIOL 230. or permission of the instructor."
+  },
+  "UFOR 500": {
+    "subject_code": "UFOR",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Developing Green and Resilient Cities - The Urban Forestry Approach",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Online course on the importance of urban green space and urban trees for cities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 511": {
+    "subject_code": "UFOR",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Geomatics Principles and Applications",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Use and application of remote sensing, GIS, GPS and spatial data analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 512": {
+    "subject_code": "UFOR",
+    "course_code": "512",
+    "credit": "3",
+    "course_name": "Urban Forest Governance",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Governance theory and ways of applying a governance perspective to strategic decision-making in urban forestry. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 520": {
+    "subject_code": "UFOR",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Ecology of Urban Green Infrastructure",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The nature and dynamics of urban ecosystems with emphasis on urban forests and greenspaces. The role of green infrastructure in urban sustainability with particular focus on the ecological impact of urban forest management, design, and policy decisions. Credit may be granted for only one of UFOR_V 420 or UFOR_V 520. [3-0-1]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 521": {
+    "subject_code": "UFOR",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Advances in Arboriculture and Urban Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Overview of the field and current state-of-art of arboriculture, with emphasis on current research and good practices. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 522": {
+    "subject_code": "UFOR",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Urban Forest Resources and Benefits Assessment",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Overview of the state of the art assessment of urban forest resources and their benefits. Prerequisite: UFOR_V 511. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 523": {
+    "subject_code": "UFOR",
+    "course_code": "523",
+    "credit": "1.5",
+    "course_name": "Strategic Urban Forest Planning and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Application of urban forestry concepts to strategic urban forest planning and management. Prerequisite: All of UFOR_V 500, UFOR_V 511, UFOR_V 512. This course is not eligible for Credit/D/Fail grading."
+  },
+  "UFOR 531": {
+    "subject_code": "UFOR",
+    "course_code": "531",
+    "credit": "6",
+    "course_name": "Master of Urban Forestry Leadership Capstone Course",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Application of urban forestry concepts and skills in a project-based learning experience. Prerequisite: FCOR_V 599. This course is not eligible for Credit/D/Fail grading."
+  }
+}

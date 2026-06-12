@@ -1,0 +1,42 @@
+{
+  "CCST 500": {
+    "subject_code": "CCST",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Seminar in Interdisciplinary Frameworks in Museum and Curatorial Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Theoretical and historical foundations of visual representations and expressive culture. It explores the history of museums and galleries, and changes in the meaning of art and material culture as debates about cultural property intensify. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCST 501": {
+    "subject_code": "CCST",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Seminar in Contemporary Contextual Issues for Museums and Curatorial Practice",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of broad social and political issues that confront curators and museum professionals who construct representations in museums, art galleries and other sites of public display. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCST 502": {
+    "subject_code": "CCST",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Case Studies in Museum and Gallery Exhibitions",
+    "faculty": "Faculty of Arts",
+    "description": "A case study approach to analyzing museum and gallery exhibitions that are historically significant either because they raised issues and stimulated public debate, or because of radical features that proved influential on subsequent exhibitions. Course not offered every year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCST 503": {
+    "subject_code": "CCST",
+    "course_code": "503",
+    "credit": "6",
+    "course_name": "Graduate Practicum in Critical and Curatorial Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Practical on-site teamwork to produce exhibitions or other public displays in a museum, gallery, or alternative situation, offering opportunities for comparison, collaboration, and interdisciplinarity. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CCST 504": {
+    "subject_code": "CCST",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Major Paper in Critical and Curatorial Studies",
+    "faculty": "Faculty of Arts",
+    "description": "To graduate, students must produce a major paper from the ideas and research which generate the exhibition in the practicum. This course is not eligible for Credit/D/Fail grading."
+  }
+}

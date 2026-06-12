@@ -1,0 +1,290 @@
+{
+  "HGSE 310": {
+    "subject_code": "HGSE",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "First Nations and Canada: (Re)writing History",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "A survey of the history of Indigenous peoples in relation to the Canadian colonial state contrasting the Indigenous historical experience with conventional accounts of Canadian history."
+  },
+  "HGSE 311": {
+    "subject_code": "HGSE",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Law and Governance: Indigenous and European Traditions",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Background on sources of Aboriginal and Canadian law; detail on section 35 of the Constitution Act; a review of relevant Canadian case law; insight on the importance of international law; and literature on governance."
+  },
+  "HGSE 312": {
+    "subject_code": "HGSE",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Perspectives on Reconciliation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Notions of reconciliation and restitution that have emerged in Canada across space and time; key principles, discourses, legal and Constitutional mechanisms, actions and actors."
+  },
+  "HGSE 313": {
+    "subject_code": "HGSE",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Reconciliation and Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Relationships and reconciliation processes between Indigenous peoples and other governments in the context of land and sea governance."
+  },
+  "HGSE 314": {
+    "subject_code": "HGSE",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Reconciliation and Communities",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "In-depth exploration of the communities of Haida Gwaii through community-based experiences and community service learning."
+  },
+  "HGSE 320": {
+    "subject_code": "HGSE",
+    "course_code": "320",
+    "credit": "1-12",
+    "course_name": "Special Topics on Ecology and Society",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course will be offered, as opportunities arise, by instructors teaching with the Haida Gwaii Institute. The course is expected to be of a specialized nature and be at a level appropriate for upper level students."
+  },
+  "HGSE 330": {
+    "subject_code": "HGSE",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Social Ecological Change: An Introduction to Systems Thinking and Resilience",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Conceptual tools of systems thinking, complexity and trans-systemics to aid understanding the dynamics of socialecological transformation and social innovation. These tools will be presented and complemented by experiences on Haida Gwaii that will foster an understanding of social change and system transformation for reconciliation. Complex problems. Prerequisite: Third-year Standing."
+  },
+  "HGSE 331": {
+    "subject_code": "HGSE",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Environmental Assessment in Cross-Cultural and Indigenous Contexts",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An introduction to the field and practice of environmental assessment (EA) in Canada with specific reference to EA processes in cross-cultural and Indigenous contexts. Includes cases specific to Haida Gwaii and engagement with local, community educators from Haida Gwaii. Prerequisite: Third-year Standing."
+  },
+  "HGSE 332": {
+    "subject_code": "HGSE",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Plant Ecology and Diversity",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Examination of global vegetation, incorporating distribution, abundance, interactions between plants and other organisms, and the role of plants in different environments. Concepts will be addressed the ecosystems of the coastal temperate rainforest in general, and of Haida Gwaii in particular. Prerequisite: Third-year Standing."
+  },
+  "HGSE 333": {
+    "subject_code": "HGSE",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Indigenous Plant Knowledge: Ethnoecology and Ethnobotany",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ethnoecology and ethnobotany within the context of Haida culture and language and the ecosystems of Haida Gwaii, along with examples from other Indigenous communities in British Columbia and the Yukon. Prerequisite: Third-year Standing."
+  },
+  "HGSE 350": {
+    "subject_code": "HGSE",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Case Studies in Haida Gwaii",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Integration of concepts of history, politics, First Nations, rural development, and forest ecology in natural resources management in Haida Gwaii. A core element of the Haida Gwaii Semester."
+  },
+  "HGSE 351": {
+    "subject_code": "HGSE",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "History and Politics of Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Historical examination of resource management in Canada and conflicts arising therefrom, with emphasis on forests."
+  },
+  "HGSE 352": {
+    "subject_code": "HGSE",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Indigenous Governance and Land Stewardship",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The political, economic, and legal environment of Aboriginal-Canadian relations and its influence on resource use and management; review of historic relationships, emerging case law, and new reconciliation frameworks."
+  },
+  "HGSE 353": {
+    "subject_code": "HGSE",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Rainforest Ecology and Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Ecology of the temperate rainforests of Haida Gwaii. A core element of the Haida Gwaii Semester."
+  },
+  "HGSE 354": {
+    "subject_code": "HGSE",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "Diversifying Resource-Dependent Communities",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Examination of the forces that restructure local economies, both historically and contemporarily; link between rural economic development and the legacy of resource development in Aboriginal communities across British Columbia. A core element of the Haida Gwaii Semester."
+  },
+  "HGSE 355": {
+    "subject_code": "HGSE",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "Applied Ecology of Coastal Terrestrial Ecosystems",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Processes that shape coastal terrestrial ecosystems through time and applications to current ecological reality. Part of the Haida Gwaii Fall Semester. Prerequisite: Third-year standing."
+  },
+  "HGSE 356": {
+    "subject_code": "HGSE",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "Marine-Terrestrial Interactions",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Nutrient cycling between the marine environment and coastal forest ecosystems, how the physical characteristics of this interface can affect these inputs, and which species play a pivotal role in driving interactions."
+  },
+  "HGSE 357": {
+    "subject_code": "HGSE",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "Ecology and Management of Island Wildlife",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Unique biological attributes of island wildlife, such as subspecies, isolated populations, and distinct evolutionary pathways, with a focus on endemic species on Haida Gwaii. Part of the Haida Gwaii Fall Semester. Credit will be granted for only one of FRST 395 or HGSE 357. Prerequisite: Third-year standing."
+  },
+  "HGSE 358": {
+    "subject_code": "HGSE",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "Systems Thinking for Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to systems thinking and resilience to understand dynamics of social change and innovation; use of case studies to demonstrate applications of different types of ecological knowledge, including traditional knowledge and experiential knowledge. Part of the Haida Gwaii Fall Semester. Prerequisite: Third-year standing."
+  },
+  "HGSE 359": {
+    "subject_code": "HGSE",
+    "course_code": "359",
+    "credit": "3",
+    "course_name": "Ecosystem-Based Management Seminar",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "History, definitions, and applications of EBM; challenges of achieving both economic and environmental well-being with a focus on resource use and management on Haida Gwaii. Part of the Haida Gwaii Fall Semester. Prerequisite: Third-year standing."
+  },
+  "HGSE 360": {
+    "subject_code": "HGSE",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Ocean People, Culture and Tradition",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The relationship between the culture of the Haida people and their marine environment; and traditional and modern approaches to management of marine resources."
+  },
+  "HGSE 361": {
+    "subject_code": "HGSE",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Fisheries Co-Management of the North Pacific Coast",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Concepts of fisheries co-management with a focus on the North Pacific Coast; examples of other comanagement structures regionally and internationally."
+  },
+  "HGSE 362": {
+    "subject_code": "HGSE",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "Marine Protected Areas",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Key elements inherent in MPA and MPA network design, governance, implementation, management, compliance and monitoring."
+  },
+  "HGSE 363": {
+    "subject_code": "HGSE",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Applications in Marine Conservation",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Exposure to field settings and research techniques in local marine environments."
+  },
+  "HGSE 364": {
+    "subject_code": "HGSE",
+    "course_code": "364",
+    "credit": "3",
+    "course_name": "Ocean Governance",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to key marine conservation and management issues, pairing broad topics with examples on Haida Gwaii to bring theory into practice."
+  },
+  "HGSE 370": {
+    "subject_code": "HGSE",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "Introduction to Resilience Theory in Community",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theory of social-ecological resilience as applied to cross-cultural community settings, using case studies from communities on Haida Gwaii and other exceptional cases of community resilience."
+  },
+  "HGSE 371": {
+    "subject_code": "HGSE",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Re-Storying History: Indigenous Perspective",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Exploration of the diversity of Indigenous peoples of British Columbia and Canada and their unique histories, beginning with origin stories and oral histories and moving on to the histories and relationships that Indigenous groups have with the federal, provincial and territorial governments."
+  },
+  "HGSE 372": {
+    "subject_code": "HGSE",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Language and Cultural Continuity",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An exploration of language as a means of looking at culture, and cultural continuity. Using Xaad Kilthe Haida language as a framing device, students will explore the integral connections between language, culture, history, land, health and resilience."
+  },
+  "HGSE 373": {
+    "subject_code": "HGSE",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Community Planning and Development for Resilience",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An examination of the challenges and opportunities of developing and diversifying resilient resource dependent cross-cultural, rural communities using Haida Gwaii's comprehensive community planning as a case study."
+  },
+  "HGSE 374": {
+    "subject_code": "HGSE",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Community Resilience Seminar",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The application of theory, concepts, stories, and histories of community resilience through focused readings, group discussions and engagement with local speakers to provide the opportunity to engage deeply and work at the theory-practice interface."
+  },
+  "HGSE 380": {
+    "subject_code": "HGSE",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Systems Thinking and Social-Ecological Change",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Theories of systems change, including complex systems thinking, resilience/transformation, transition management and other social science-based change theories."
+  },
+  "HGSE 381": {
+    "subject_code": "HGSE",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Ecological Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Underlying philosophy and principles of ecological economics, including the cascading effects of change, unintended consequences of change, and why it might be difficult to separate our ecological goals from our political realities."
+  },
+  "HGSE 382": {
+    "subject_code": "HGSE",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Political and Legal Aspects of Systems Change",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An examination of the emergence of Aboriginal Law in Canada, with a focus on the development of Aboriginal law as an innovation in shaping new contexts for Federal-, Provincial- and Corporate-Indigenous relations and its implications for systems transformation."
+  },
+  "HGSE 383": {
+    "subject_code": "HGSE",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Social Innovation and Entrepreneurship",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An examination of the relationships between culture, ingenuity, creativity, entrepreneurship and innovation required to understand and foster systems change through Indigenous and cross-cultural examples."
+  },
+  "HGSE 384": {
+    "subject_code": "HGSE",
+    "course_code": "384",
+    "credit": "3",
+    "course_name": "Case Studies in Social-Ecological Change",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "An exploration of complex issues of social-ecological change in the current social-economic-political context of reconciliation initiatives and Indigenous governance, highlighting the Haida worldview and Haida ways of knowing and being with western understandings of social-ecological systems."
+  },
+  "HGSE 394": {
+    "subject_code": "HGSE",
+    "course_code": "394",
+    "credit": "3",
+    "course_name": "Marine Conservation in British Columbia",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Perspectives and methodologies applied to the conservation of marine environments in British Columbia."
+  }
+}

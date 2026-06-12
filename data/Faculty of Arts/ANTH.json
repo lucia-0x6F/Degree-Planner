@@ -1,0 +1,906 @@
+{
+  "ANTH 100": {
+    "subject_code": "ANTH",
+    "course_code": "100",
+    "credit": "3-4",
+    "course_name": "Introduction to Cultural Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Basic concepts and methods of anthropology; culture and race; comparative study of social systems, religion, symbolism, art, and other institutions. Examples are drawn from a variety of cultures."
+  },
+  "ANTH 200": {
+    "subject_code": "ANTH",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Problems in Method and Theory in Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of basic concepts and procedures in the cross-cultural study of human societies."
+  },
+  "ANTH 201": {
+    "subject_code": "ANTH",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Culture, Race and Inequality",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological critiques of racism, colonialism and ongoing structural inequalities."
+  },
+  "ANTH 202": {
+    "subject_code": "ANTH",
+    "course_code": "202",
+    "credit": "3-6",
+    "course_name": "Contemporary Social Problems",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural background to contemporary events; problems of nationalism and regional conflicts, economic and social development, gender, religion and social change. Course may stress a different region of the world in different years."
+  },
+  "ANTH 203": {
+    "subject_code": "ANTH",
+    "course_code": "203",
+    "credit": "3",
+    "course_name": "Anthropology of Drugs",
+    "faculty": "Faculty of Arts",
+    "description": "Illicit and/or licit drugs through historical, political, cultural and societal examples."
+  },
+  "ANTH 205": {
+    "subject_code": "ANTH",
+    "course_code": "205",
+    "credit": "3",
+    "course_name": "The Anthropology of Insurrections and Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of insurrections and revolutions from a comparative perspective."
+  },
+  "ANTH 206": {
+    "subject_code": "ANTH",
+    "course_code": "206",
+    "credit": "3",
+    "course_name": "Witches, Vampires, and Zombies: Anthropology of the Supernatural",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological approaches to supernatural beliefs in both traditional and contemporary societies."
+  },
+  "ANTH 210": {
+    "subject_code": "ANTH",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Eating Culture",
+    "faculty": "Faculty of Arts",
+    "description": "An anthropological exploration of how the collection, cultivation and consumption of food shapes human society and culture. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 213": {
+    "subject_code": "ANTH",
+    "course_code": "213",
+    "credit": "3",
+    "course_name": "Sex, Gender, and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "An anthropological exploration of how understandings of sex and gender are culturally and historically shaped."
+  },
+  "ANTH 214": {
+    "subject_code": "ANTH",
+    "course_code": "214",
+    "credit": "3-6",
+    "course_name": "The Family in Cross-Cultural Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "A cross-cultural comparison of family and kinship to provide an understanding of variations in the structure and meaning of marriage relations; forms of domestic organization; and the sexual division of labour, property, and inheritance."
+  },
+  "ANTH 215": {
+    "subject_code": "ANTH",
+    "course_code": "215",
+    "credit": "3",
+    "course_name": "Japanese Popular Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Television shows, dramas, movies, advertising, marketing, manga (Japanese style comics), anime (Japanese animation), theatrical forms, popular literature, popular music, fashion fads, tourism, toys, and sports."
+  },
+  "ANTH 217": {
+    "subject_code": "ANTH",
+    "course_code": "217",
+    "credit": "3",
+    "course_name": "Culture and Communication",
+    "faculty": "Faculty of Arts",
+    "description": "The study of communication; the relation between communication and its cultural context with emphasis on verbal and non-verbal communication, cross-cultural communication, and cultural differences in the use of oral, literate, and electronic media."
+  },
+  "ANTH 220": {
+    "subject_code": "ANTH",
+    "course_code": "220",
+    "credit": "3",
+    "course_name": "Contemporary Indigenous Issues in British Columbia",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological perspectives on contemporary Indigenous issues in British Columbia."
+  },
+  "ANTH 221": {
+    "subject_code": "ANTH",
+    "course_code": "221",
+    "credit": "3",
+    "course_name": "Contemporary Indigenous Cultural Expressions",
+    "faculty": "Faculty of Arts",
+    "description": "Forms and styles of indigenous expressive arts, and their current place in the lives of Indigenous Peoples. It is recommended students complete ANTH_V 220 before enrolling in this course."
+  },
+  "ANTH 227": {
+    "subject_code": "ANTH",
+    "course_code": "227",
+    "credit": "3",
+    "course_name": "Introduction to Medical Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of health and illness, in their social and cultural contexts."
+  },
+  "ANTH 240": {
+    "subject_code": "ANTH",
+    "course_code": "240",
+    "credit": "3",
+    "course_name": "Sport in Society and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Sport within the context of historic and contemporary society."
+  },
+  "ANTH 241": {
+    "subject_code": "ANTH",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Introduction to Museums and Museology",
+    "faculty": "Faculty of Arts",
+    "description": "The critical study of anthropology museums as social institutions and material culture research and classification from the late 19th century to the present day."
+  },
+  "ANTH 242": {
+    "subject_code": "ANTH",
+    "course_code": "242",
+    "credit": "3",
+    "course_name": "Visions of the Sacred: Introduction to the Anthropology of Religion",
+    "faculty": "Faculty of Arts",
+    "description": "Comparative, cross-cultural approach to human engagement with the sacred. Examines religions as complex systems that share certain fundamental common features."
+  },
+  "ANTH 275": {
+    "subject_code": "ANTH",
+    "course_code": "275",
+    "credit": "3",
+    "course_name": "Migration and (Im)mobilities: Anthropological Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to foundational topics in the anthropological study of migration, asylum, border-crossing, and (im)mobilities. Recommended: At least one 100-level or 200-level social science course (e.g. ANTH, SOCI, GEOG, POLI)."
+  },
+  "ANTH 300": {
+    "subject_code": "ANTH",
+    "course_code": "300",
+    "credit": "3-6",
+    "course_name": "Contemporary Anthropological Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary approaches to society and culture in anthropology. Prerequisite: ANTH 200 is recommended."
+  },
+  "ANTH 301": {
+    "subject_code": "ANTH",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Ethnography of Eurasia",
+    "faculty": "Faculty of Arts",
+    "description": "Eurasia, including the Russian Federation, Central Asia, and Mongolia, with an emphasis on issues of power, identities, and transnational mobility in the region."
+  },
+  "ANTH 302": {
+    "subject_code": "ANTH",
+    "course_code": "302",
+    "credit": "3-6",
+    "course_name": "Ethnography of South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A specialized study of ethnographic and theoretical problems relating to South Asia."
+  },
+  "ANTH 303": {
+    "subject_code": "ANTH",
+    "course_code": "303",
+    "credit": "3-6",
+    "course_name": "Ethnography of Special Areas",
+    "faculty": "Faculty of Arts",
+    "description": "A specialized study of ethnographic and theoretical problems in one area. Different culture areas or regions may be selected each term. Consult the Department for this year's offerings."
+  },
+  "ANTH 304": {
+    "subject_code": "ANTH",
+    "course_code": "304",
+    "credit": "3-6",
+    "course_name": "Ethnography of the Northwest Coast",
+    "faculty": "Faculty of Arts",
+    "description": "Specialized study of ethnographic and theoretical problems of the region."
+  },
+  "ANTH 307": {
+    "subject_code": "ANTH",
+    "course_code": "307",
+    "credit": "3-6",
+    "course_name": "Ethnography of Korea",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of ethnographic, topical, and theoretical issues."
+  },
+  "ANTH 308": {
+    "subject_code": "ANTH",
+    "course_code": "308",
+    "credit": "3-6",
+    "course_name": "Ethnography of Sub-Saharan Africa",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of ethnographic, topical, and theoretical issues."
+  },
+  "ANTH 309": {
+    "subject_code": "ANTH",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "Ethnography of the Himalaya: Diversity & Development",
+    "faculty": "Faculty of Arts",
+    "description": "Ethnographic engagement with lives of people in and from the Himalayan region: including parts of Bhutan, China, India, Nepal, Pakistan; Tibetan cultural zones traversing these countries; and diasporas."
+  },
+  "ANTH 311": {
+    "subject_code": "ANTH",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Ethnography of the Middle East",
+    "faculty": "Faculty of Arts",
+    "description": "Critical analysis of colonial experience and cultural representations of the Middle East, particularly visions of orientalism and geopolitical discourses. Draws on ethnographic literature to consider contemporary life and subjectivities."
+  },
+  "ANTH 312": {
+    "subject_code": "ANTH",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Anthropology of Gender & Sexuality",
+    "faculty": "Faculty of Arts",
+    "description": "Ethnographic and theoretical approaches to gender and sexuality, in cross-cultural context."
+  },
+  "ANTH 313": {
+    "subject_code": "ANTH",
+    "course_code": "313",
+    "credit": "3-6",
+    "course_name": "The Anthropology of Social and Cultural Relationships",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the social and cultural bases of relationships including changing family, kinship, social networks, groups, and organizations, based on theoretical analysis and case studies."
+  },
+  "ANTH 314": {
+    "subject_code": "ANTH",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Anthropology of Childhood",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the life stage of childhood through various anthropological perspectives, and the evolutionary and social factors that shape human childhood. Explores childhood activities and culture to critically engage with reasons behind distinct patterns in human upbringing."
+  },
+  "ANTH 315": {
+    "subject_code": "ANTH",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Japanese Culture and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Japanese culture and society: patterns of organization, value systems, family, education, work, minorities and diversity, harmony and conflict, urban/rural differences, gender, sexuality, youth, tradition, continuity, change, and future prospects."
+  },
+  "ANTH 316": {
+    "subject_code": "ANTH",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Culture, Power & Politics",
+    "faculty": "Faculty of Arts",
+    "description": "Topics in political anthropology; ethnographic and theoretical approaches to nationalism, globalization, political systems, international movements and organizations; anthropology of the state."
+  },
+  "ANTH 317": {
+    "subject_code": "ANTH",
+    "course_code": "317",
+    "credit": "3-6",
+    "course_name": "Linguistic Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the ethnographic uses of language data and the techniques of linguistic analysis."
+  },
+  "ANTH 329": {
+    "subject_code": "ANTH",
+    "course_code": "329",
+    "credit": "3-6",
+    "course_name": "Contemporary Indigenous Issues in a Global Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological perspectives on contemporary issues of public policy, law, and political activity, as they affect Indigenous Peoples in Canada and globally. Prerequisite: ANTH 220 is recommended."
+  },
+  "ANTH 330": {
+    "subject_code": "ANTH",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Anthropology of Rural Peoples and the Global Economy",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative study of rural peoples (such as small-scale horticulturists, artisans and craft workers, peasants, fisherfolk, or industrial/manufacturing workers) in the global economy."
+  },
+  "ANTH 331": {
+    "subject_code": "ANTH",
+    "course_code": "331",
+    "credit": "3-6",
+    "course_name": "Art, Aesthetics and Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological perspectives on art, aesthetics, and expressive culture."
+  },
+  "ANTH 332": {
+    "subject_code": "ANTH",
+    "course_code": "332",
+    "credit": "3-6",
+    "course_name": "Oral Tradition",
+    "faculty": "Faculty of Arts",
+    "description": "An ethnographic perspective on the dynamics of oral tradition in various oral and literate cultures; the characteristics and roles of oral genres including folktale, genealogy, oral history, autobiography, and myth in these societies; and the relationship between orality and literacy."
+  },
+  "ANTH 333": {
+    "subject_code": "ANTH",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Language and Power",
+    "faculty": "Faculty of Arts",
+    "description": "A sociolinguistic examination of the role of language in articulating, maintaining, and subverting power relations in society."
+  },
+  "ANTH 341": {
+    "subject_code": "ANTH",
+    "course_code": "341",
+    "credit": "3-6",
+    "course_name": "Museums, Heritage and Memory",
+    "faculty": "Faculty of Arts",
+    "description": "Museums, galleries, monuments, and other cultural institutions' relations to our perception of history and geography."
+  },
+  "ANTH 350": {
+    "subject_code": "ANTH",
+    "course_code": "350",
+    "credit": "3-6",
+    "course_name": "Ethnography of the Pacific Islands: Polynesia and Micronesia",
+    "faculty": "Faculty of Arts",
+    "description": "Major cultural groupings in Polynesia and Micronesia, emphasizing both traditional cultures and the incorporation of the region into modern international institutions."
+  },
+  "ANTH 351": {
+    "subject_code": "ANTH",
+    "course_code": "351",
+    "credit": "3-6",
+    "course_name": "Ethnography of the Pacific Islands: Melanesia",
+    "faculty": "Faculty of Arts",
+    "description": "Major cultural groupings in Melanesia, emphasizing both traditional cultures and the incorporation of the region into modern international institutions."
+  },
+  "ANTH 353": {
+    "subject_code": "ANTH",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Ethnography of Latin America",
+    "faculty": "Faculty of Arts",
+    "description": "Indigenous peoples of Latin America, emphasizing both pre-Columbian cultural traditions and socioeconomic and cultural changes from the Colonial period to the present."
+  },
+  "ANTH 360": {
+    "subject_code": "ANTH",
+    "course_code": "360",
+    "credit": "3",
+    "course_name": "Introduction to Ecological Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the relations between human societies and the ecological aspects of their environment (including technology, society, and ideology). Previously ANTH 460."
+  },
+  "ANTH 362": {
+    "subject_code": "ANTH",
+    "course_code": "362",
+    "credit": "3",
+    "course_name": "The Anthropology of Energy and Sustainability",
+    "faculty": "Faculty of Arts",
+    "description": "Human dimensions of energy resource extraction, production and consumption, emphasizing ethnographic case studies. Critical debates around alternative energy transitions in the context of changing climates, with attention to cultural and historical settings, community perspectives and social justice."
+  },
+  "ANTH 375": {
+    "subject_code": "ANTH",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Refugees, Resistance, and Activism",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the movements around refugee and immigrant rights in various geographic contexts, through the lens of ethnographic texts and media. Explores how migrants and refugees are taking an active role in transforming the global system of borders. Recommended pre-requisite: at least one 200-level social science course (e.g. ANTH, SOCI, GEOG, POLI)"
+  },
+  "ANTH 376": {
+    "subject_code": "ANTH",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "Diasporas and Belonging: Anthropological Perspectives",
+    "faculty": "Faculty of Arts",
+    "description": "Examines how multiple generations of migrants find, build, and reimagine what community and belonging are beyond the confines of the nation-state. Centres ethnographies of diasporic identity and personhood. Recommended: at least one 200-level social science course (e.g. ANTH, SOCI, GEOG, POLI)."
+  },
+  "ANTH 378": {
+    "subject_code": "ANTH",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Anthropology of Media",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of contemporary mass media and of the anthropological use of media (photography, film, digital audio and video, etc.)."
+  },
+  "ANTH 400": {
+    "subject_code": "ANTH",
+    "course_code": "400",
+    "credit": "3-6",
+    "course_name": "History of Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "The development of anthropological theory and practice in institutional contexts. It is recommended students complete ANTH_V 300 before enrolling in this course."
+  },
+  "ANTH 401": {
+    "subject_code": "ANTH",
+    "course_code": "401",
+    "credit": "3",
+    "course_name": "First Peoples of North America",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological perspectives of indigenous cultures and societies of North America. Prerequisite: ANTH 329 is recommended."
+  },
+  "ANTH 402": {
+    "subject_code": "ANTH",
+    "course_code": "402",
+    "credit": "3-6",
+    "course_name": "Ethnography of China",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced studies in the ethnography of China, premodern and contemporary. Topics may include kinship, rural and urban social structure, stratification and mobility, religion, national power structures, and social change in Chinese society."
+  },
+  "ANTH 403": {
+    "subject_code": "ANTH",
+    "course_code": "403",
+    "credit": "3-6",
+    "course_name": "Ethnography of Special Areas",
+    "faculty": "Faculty of Arts",
+    "description": "An advanced study of ethnographic and theoretical problems. A different region may be studied each term."
+  },
+  "ANTH 404": {
+    "subject_code": "ANTH",
+    "course_code": "404",
+    "credit": "3-6",
+    "course_name": "Ethnography in Circumpolar North: Comparative Perspectives.",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of relationships between indigenous people and nation states in Greenland, Canada, Alaska and Siberia, using ethnographic methods."
+  },
+  "ANTH 407": {
+    "subject_code": "ANTH",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "Principles of Field Work",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of field work as the basic setting for ethnographic research. Research design; relationships with study participants, field techniques, and data analysis and presentation."
+  },
+  "ANTH 408": {
+    "subject_code": "ANTH",
+    "course_code": "408",
+    "credit": "3-6",
+    "course_name": "Field Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Intensive examination and application of selected methods of ethnographic data-collection, e.g., visual anthropology, anthropological interviewing, genealogies, ethnographic semantics, life histories, oral traditions. Consult department for current description."
+  },
+  "ANTH 409": {
+    "subject_code": "ANTH",
+    "course_code": "409",
+    "credit": "3-6",
+    "course_name": "Topics in Applied Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of the theory and practice of applied, action, and consultancy anthropology. Topics may include the application of anthropology to questions of aboriginal rights and title, education, medicine, development, women and development, tourism, and other social issues."
+  },
+  "ANTH 412": {
+    "subject_code": "ANTH",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Advanced Topics in the Anthropology of Gender",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary theory employed in the anthropological study of gender."
+  },
+  "ANTH 414": {
+    "subject_code": "ANTH",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Anthropology of Globalization",
+    "faculty": "Faculty of Arts",
+    "description": "Theories on the global flow of people, commodities, images, and ideas with critical ethnographic attention to the different ways people respond to globalization."
+  },
+  "ANTH 415": {
+    "subject_code": "ANTH",
+    "course_code": "415",
+    "credit": "3-6",
+    "course_name": "Religion and Society",
+    "faculty": "Faculty of Arts",
+    "description": "Comparative study of religious beliefs, practices, and movements; relations between religious, social, and political institutions; religion as a force for stability and change; anthropological/sociological theories of religion."
+  },
+  "ANTH 416": {
+    "subject_code": "ANTH",
+    "course_code": "416",
+    "credit": "3",
+    "course_name": "The Ethnography of Japan",
+    "faculty": "Faculty of Arts",
+    "description": "Ethnographies about Japan and processes of conducting fieldwork on Japan, covering topics such as work, leisure, identity, tradition, popular culture, rural/urban lifestyles, gender, sexuality, internationalization. Recommended pre-requisites: one of ANTH 215, ANTH 315."
+  },
+  "ANTH 417": {
+    "subject_code": "ANTH",
+    "course_code": "417",
+    "credit": "3-6",
+    "course_name": "Language, Culture, and Cognition",
+    "faculty": "Faculty of Arts",
+    "description": "The relationships between linguistic and cultural phenomena; how language affects normative and cognitive systems of thought and behaviour."
+  },
+  "ANTH 418": {
+    "subject_code": "ANTH",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Anthropological Statistics",
+    "faculty": "Faculty of Arts",
+    "description": "Applications of statistical techniques to quantitative and qualitative data in Anthropology."
+  },
+  "ANTH 421": {
+    "subject_code": "ANTH",
+    "course_code": "421",
+    "credit": "3-6",
+    "course_name": "The Anthropology of Place and Space",
+    "faculty": "Faculty of Arts",
+    "description": "An anthropological understanding of the spatial dimensions of social practice, and the relationships of space to culture, history, and power."
+  },
+  "ANTH 422": {
+    "subject_code": "ANTH",
+    "course_code": "422",
+    "credit": "3",
+    "course_name": "Modes of Subsistence",
+    "faculty": "Faculty of Arts",
+    "description": "The nature of subsistence systems antedating or alternative to modern commercial systems. Introductory survey with basic readings; focus on problems such as the development of complex cultures without agriculture, the ambiguity of hunting and gathering, agricultural and other intensification, orchestration of the use of adjacent microenvironments. Of interest to students of archaeology, anthropology and cultural geography."
+  },
+  "ANTH 423": {
+    "subject_code": "ANTH",
+    "course_code": "423",
+    "credit": "3",
+    "course_name": "Ethnography of East Africa and the Swahili Coast",
+    "faculty": "Faculty of Arts",
+    "description": "The everyday lives of people who inhabit East Africa and the Swahili Coast, and consideration of slave trade, long distance migration, colonialism, nationalism, independence movements, religion, identity politics, music, gender, sexuality, health, ecotourism and conservation. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 427": {
+    "subject_code": "ANTH",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Topics in Medical Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological perspectives on health, illness, and disability as represented by classic and contemporary research in selected topics in medical anthropology including disease and human evolution, illness and human ecology, culture and epidemiology, ethnomedical systems, the relationship between folk and biomedicine and the cultural construction and social organization of health care, illness and disability. Specific content will vary from year to year. Consult the Department brochure."
+  },
+  "ANTH 428": {
+    "subject_code": "ANTH",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Medicine, Technology, Culture, and Society",
+    "faculty": "Faculty of Arts",
+    "description": "A medical anthropological perspective on medical science, technology, translational research, and clinical practice, in laboratory, clinic, family, social, and cultural contexts. Topics include explanatory models of health, acute and chronic illness, disability; social and cultural dimensions genetics; clinical interaction."
+  },
+  "ANTH 429": {
+    "subject_code": "ANTH",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Global Health in Cross-Cultural Contexts",
+    "faculty": "Faculty of Arts",
+    "description": "Includes examination of the social and cultural dimensions of specific life-threatening emerging and re-emerging infectious diseases, the political economy of health, cultural interpretations of illness and healing, medical pluralism, therapy management, and the cultural construction of efficacy."
+  },
+  "ANTH 430": {
+    "subject_code": "ANTH",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Indigenous Governance, British Columbia",
+    "faculty": "Faculty of Arts",
+    "description": "Indigenous perspectives on governance, authority, and jurisdiction as applied to British Columbia First Nations. Recommended: ANTH 220."
+  },
+  "ANTH 431": {
+    "subject_code": "ANTH",
+    "course_code": "431",
+    "credit": "3-6",
+    "course_name": "Museum Practice and Curatorship",
+    "faculty": "Faculty of Arts",
+    "description": "Management of museum collections and their public presentation, addressing questions of access, collaboration, and cultural property. The public interpretation of anthropological concepts and materials utilizing the programs and facilities of the Museum of Anthropology. Prerequisite: [ANTH341]"
+  },
+  "ANTH 432": {
+    "subject_code": "ANTH",
+    "course_code": "432",
+    "credit": "3-6",
+    "course_name": "The Anthropology of Public Representation",
+    "faculty": "Faculty of Arts",
+    "description": "The public presentation and interpretation of anthropological concepts and materials utilizing the programs and facilities of the Museum of Anthropology. Prerequisite: [ANTH341] Permission of the department is also acceptable."
+  },
+  "ANTH 433": {
+    "subject_code": "ANTH",
+    "course_code": "433",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "General reading and/or a research undertaking, with the agreement, and under the supervision, of a Department faculty member selected by the student. No more than six credits of Directed Studies may be taken for credit toward the Major or Honours program."
+  },
+  "ANTH 435": {
+    "subject_code": "ANTH",
+    "course_code": "435",
+    "credit": "3",
+    "course_name": "The Japanese Tea Ceremony: Ethnography of Performance, Practice, and Ritual",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of Chanoyu, Japanese Tea Practice, as a culturally embedded ritual, performance, and aesthetic form, and as a way of understanding underlying elements of Japanese culture. This course has a studio component and a nominal fee may be charged."
+  },
+  "ANTH 437": {
+    "subject_code": "ANTH",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Gardens of Culture: The Anthropology of Food Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Anthropological approaches to foodways and agricultural sustainability, particularly small-scale producers and communities. Includes ethnographic analysis of food movements, food systems and the socio-economic contexts of food provisioning and food production. Recommended: Third year status."
+  },
+  "ANTH 448": {
+    "subject_code": "ANTH",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Anthropology Horizons: Navigating Careers and Shaping Research Futures",
+    "faculty": "Faculty of Arts",
+    "description": "Essential research and writing skills for graduate school preparation and anthropology career paths. Restricted to students in Anthropology honours, major, and minor programs with 3rd year standing or higher (or permission of instructor)."
+  },
+  "ANTH 449": {
+    "subject_code": "ANTH",
+    "course_code": "449",
+    "credit": "6-12",
+    "course_name": "Honours Tutorial",
+    "faculty": "Faculty of Arts",
+    "description": "Will usually require the presentation of at least one research paper."
+  },
+  "ANTH 451": {
+    "subject_code": "ANTH",
+    "course_code": "451",
+    "credit": "3-6",
+    "course_name": "Conservation of Organic Materials",
+    "faculty": "Faculty of Arts",
+    "description": "Conservation of organic materials within a museum environment; the nature of materials, mechanisms of deterioration and principles of preventive conservation. Recommended for students intending to work with cultural materials. Prerequisite: Permission of instructor required."
+  },
+  "ANTH 452": {
+    "subject_code": "ANTH",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Conservation of Inorganic Materials",
+    "faculty": "Faculty of Arts",
+    "description": "Conservation of inorganic materials within a museum environment; the nature of materials, mechanisms of deterioration and principles of preventive conservation. Recommended for students intending to work with cultural materials. Prerequisite: Permission of instructor is required."
+  },
+  "ANTH 461": {
+    "subject_code": "ANTH",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Anthropological Study of Local Ecological Knowledge",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of the concepts of ecological anthropology via the medium of local ecological knowledge. ANTH 360 is recommended as background."
+  },
+  "ANTH 462": {
+    "subject_code": "ANTH",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Special Topics in Ecological Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "May include environmental discourse and social movements, anthropological contributions to ecological management systems, or examination of emerging issues in the field. ANTH 360 is recommended as background."
+  },
+  "ANTH 470": {
+    "subject_code": "ANTH",
+    "course_code": "470",
+    "credit": "3-6",
+    "course_name": "Topics in Contemporary Theory",
+    "faculty": "Faculty of Arts",
+    "description": "Selected topics in contemporary social and cultural theory which contribute to anthropological analyses. Topics may include Marxist anthropology, critical theory, theories of culture, phenomenology, behavioural ecology, structuralism, hermeneutics, formal theory and examination of specific social theorists."
+  },
+  "ANTH 471": {
+    "subject_code": "ANTH",
+    "course_code": "471",
+    "credit": "3",
+    "course_name": "Anthropology of Law",
+    "faculty": "Faculty of Arts",
+    "description": "Cross-cultural study of the operation of law within contested systems of meaning, the social organization of law, and forms of consciousness of the participants in legal/justice practices."
+  },
+  "ANTH 472": {
+    "subject_code": "ANTH",
+    "course_code": "472",
+    "credit": "3",
+    "course_name": "Anthropological Study of Social Inequality",
+    "faculty": "Faculty of Arts",
+    "description": "An anthropological perspective on the historical origins and theoretical explanations of social inequality."
+  },
+  "ANTH 475": {
+    "subject_code": "ANTH",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Racial and Sexual Politics of (Im)mobility",
+    "faculty": "Faculty of Arts",
+    "description": "Combined anthropological approaches with interdisciplinary theories to understand experiences of mobilities and immobilities shaped by race, gender, sexuality, citizenship and class. Recommended: ANTH 375 or 376, or other upper-level courses focused on migration, gender and sexuality, or social inequality."
+  },
+  "ANTH 478": {
+    "subject_code": "ANTH",
+    "course_code": "478",
+    "credit": "3-6",
+    "course_name": "Ethnographic Film Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Ethnographic digital video production, including methods of ethnographic fieldwork, creation of field notes, and research design; basics of digital video planning, production, and editing. Production fees are charged for this course. Prerequisite: ANTH 378 is recommended."
+  },
+  "ANTH 480": {
+    "subject_code": "ANTH",
+    "course_code": "480",
+    "credit": "3-6",
+    "course_name": "Urban Ethnographic Field School (UEFS)",
+    "faculty": "Faculty of Arts",
+    "description": "Volunteering and fieldwork based in community organizations with theoretical approaches to urban spaces. Students will engage in collaborative research while considering a range of theoretical and methodological approaches. Students may earn a maximum of 6 credits from ANTH_V 480 and SOCI_V 480."
+  },
+  "ANTH 495": {
+    "subject_code": "ANTH",
+    "course_code": "495",
+    "credit": "3-6",
+    "course_name": "Advanced Studies in Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "An intensive examination of selected topics in Anthropology. Consult the Department for this year's offerings."
+  },
+  "ANTH 500": {
+    "subject_code": "ANTH",
+    "course_code": "500",
+    "credit": "6",
+    "course_name": "History of Anthropological Thought",
+    "faculty": "Faculty of Arts",
+    "description": "Various approaches to anthropology, from classical to contemporary. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 501": {
+    "subject_code": "ANTH",
+    "course_code": "501",
+    "credit": "2-6",
+    "course_name": "Social Structure and Kinship",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 502": {
+    "subject_code": "ANTH",
+    "course_code": "502",
+    "credit": "2-18",
+    "course_name": "Advanced Ethnography of a Special Area",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 505": {
+    "subject_code": "ANTH",
+    "course_code": "505",
+    "credit": "2-6",
+    "course_name": "Religion and Society",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 506": {
+    "subject_code": "ANTH",
+    "course_code": "506",
+    "credit": "3-6",
+    "course_name": "Current Research in Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "The relationship between current theoretical issues and research methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 510": {
+    "subject_code": "ANTH",
+    "course_code": "510",
+    "credit": "3-6",
+    "course_name": "Comparative and Developmental Studies in Archaeology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 512": {
+    "subject_code": "ANTH",
+    "course_code": "512",
+    "credit": "2-6",
+    "course_name": "Language and Culture",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 513": {
+    "subject_code": "ANTH",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Advanced Studies in Feminist Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "Feminist approaches to ethnography, theory, methodology; current issues in feminist anthropology; gender relations; feminist anthropology and postmodernism. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 515": {
+    "subject_code": "ANTH",
+    "course_code": "515",
+    "credit": "2-6",
+    "course_name": "Cultural Evolution and Cultural Ecology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 516": {
+    "subject_code": "ANTH",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Qualitative Methods in Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "A discussion of selected methods used to observe, describe, and interpret cultural phenomena and social organization, including participant observation, interviewing, ethnographic semantics, life histories, componential analysis, and photography. Attention will also be given to ethics in anthropological research and writing and to such analytic matters as the nature of description, conceptualization, generalization, and content analysis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 517": {
+    "subject_code": "ANTH",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Archaeological Methods",
+    "faculty": "Faculty of Arts",
+    "description": "A discussion of selected basic data-gathering methods in their relation to the development of ideas about the archaeological record. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 518": {
+    "subject_code": "ANTH",
+    "course_code": "518",
+    "credit": "3-6",
+    "course_name": "Museum Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical approaches to the study of museums and collections. Methods of field collecting, collections research, laboratory procedures, visitor studies, social organization of museum and related cultural industries, exhibit and program evaluation techniques and the ethics of museum research and practice. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 519": {
+    "subject_code": "ANTH",
+    "course_code": "519",
+    "credit": "3-6",
+    "course_name": "Seminar in Medical Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 520": {
+    "subject_code": "ANTH",
+    "course_code": "520",
+    "credit": "2-6",
+    "course_name": "Advanced Prehistory of a Special Area",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 527": {
+    "subject_code": "ANTH",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Advanced Archaeological Methods",
+    "faculty": "Faculty of Arts",
+    "description": "An intensive review of analytical approaches to the study of archaeological data and their applications. Includes research design; sampling strategies; analytical lab procedures; classification and typology; and multivariate analysis and other statistical procedures. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 528": {
+    "subject_code": "ANTH",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Advanced Quantitative Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the anthropological application of a variety of quantitative techniques: sampling designs, analysis of variance and regression, multi-way contingency tables, multivariate analysis. A series of lectures will outline the logic and exhibit applications that have been made. Students will then generate their own application and presentation. Access to data files specific to the substantive field of cultural anthropology, archaeology, physical anthropology is provided. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 530": {
+    "subject_code": "ANTH",
+    "course_code": "530",
+    "credit": "2-6",
+    "course_name": "Social Change",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 532": {
+    "subject_code": "ANTH",
+    "course_code": "532",
+    "credit": "2-6",
+    "course_name": "Field Methods",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 534": {
+    "subject_code": "ANTH",
+    "course_code": "534",
+    "credit": "2-6",
+    "course_name": "Special Advanced Courses",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 540": {
+    "subject_code": "ANTH",
+    "course_code": "540",
+    "credit": "2-6",
+    "course_name": "Advanced Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 541": {
+    "subject_code": "ANTH",
+    "course_code": "541",
+    "credit": "3-6",
+    "course_name": "Advanced Seminar in Critical Museum Anthropology",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 545": {
+    "subject_code": "ANTH",
+    "course_code": "545",
+    "credit": "2-6",
+    "course_name": "Graduate Research Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 548": {
+    "subject_code": "ANTH",
+    "course_code": "548",
+    "credit": "0",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 549": {
+    "subject_code": "ANTH",
+    "course_code": "549",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 551": {
+    "subject_code": "ANTH",
+    "course_code": "551",
+    "credit": "3-6",
+    "course_name": "Cultural Studies in Communication and Interpretation",
+    "faculty": "Faculty of Arts",
+    "description": "History, theories, principles and techniques of communication and interpretation of cultural materials. Topics include examination of how various media (script, objects, film, video) are used to interpret histories, society, and culture in museums, art galleries, historic sites and related areas; and how communication programs are planned, implemented and assessed. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ANTH 649": {
+    "subject_code": "ANTH",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

@@ -1,0 +1,434 @@
+{
+  "WOOD 220": {
+    "subject_code": "WOOD",
+    "course_code": "220",
+    "credit": "2",
+    "course_name": "Introduction to Wood Products and Global Trade",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to forestry, wood products industry, processes, products, markets and global trade policy issues affecting the wood industry. Students may only receive credit for one of: WOOD 120, WOOD 220. Not available for credit to students in the Forest Science Major of the B.Sc. Natural Resources degree."
+  },
+  "WOOD 225": {
+    "subject_code": "WOOD",
+    "course_code": "225",
+    "credit": "3",
+    "course_name": "Communications Strategies",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry, particularly in Wood Products Processing. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills. [3-0-0]. Prerequisite: One of FRST_V 150, NRES_V 150, LFS_V 150, WRDS_V 150. Or ENGL 1st or WRCM 1st. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 244": {
+    "subject_code": "WOOD",
+    "course_code": "244",
+    "credit": "3",
+    "course_name": "Quantitative Methods in the Wood Industry",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Solving practical problems in the wood industry using computer-based mathematical tools including spreadsheets, visual basic programming and relational database systems. [3-2-0] Prerequisite: One of MATH 101, MATH 121."
+  },
+  "WOOD 245": {
+    "subject_code": "WOOD",
+    "course_code": "245",
+    "credit": "3",
+    "course_name": "Programming for Wood Products Manufacturing Applications",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Practical computer and problem solving cases taken from wood products manufacturing industrial applications. [2-4-0] Prerequisite: WOOD 244."
+  },
+  "WOOD 249": {
+    "subject_code": "WOOD",
+    "course_code": "249",
+    "credit": "1",
+    "course_name": "Contemporary Topics in Forestry and Wood Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Seminars on current forestry and wood products topics. [1-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 271": {
+    "subject_code": "WOOD",
+    "course_code": "271",
+    "credit": "4",
+    "course_name": "Wood Products Chemistry I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Chemistry relating to wood and wood products: chemistry of lignin, cellulose, hemicelluloses, extractives, and biological degradation of lignocellulosics; wood pressure impregnation procedures. [3-3-0] Prerequisite: WOOD_V 280 and one of CHEM_V 113, CHEM_V 123."
+  },
+  "WOOD 276": {
+    "subject_code": "WOOD",
+    "course_code": "276",
+    "credit": "3",
+    "course_name": "Mechanics of Wood Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to the strength of materials with emphasis on the elastic properties and ultimate strength of wood and wood products. [3-2-0] Prerequisite: One of PHYS 117, PHYS 131, PHYS 170 and one of MATH 101, MATH 121."
+  },
+  "WOOD 280": {
+    "subject_code": "WOOD",
+    "course_code": "280",
+    "credit": "3",
+    "course_name": "Wood Anatomy and Identification",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to tree growth; macroscopic and microscopic anatomy and identification of softwoods and hardwoods; descriptions of cell wall ultra-structure, wood variability and wood quality. [3-2-0]"
+  },
+  "WOOD 282": {
+    "subject_code": "WOOD",
+    "course_code": "282",
+    "credit": "3",
+    "course_name": "Wood Physics and Mechanics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Wood-moisture relationships, transport phenomena, acoustical and electrical properties of wood. Effects of wood attributes at macro- and micro-levels on the strength properties of solid wood. [3-2-0] Prerequisite: [WOOD280]"
+  },
+  "WOOD 290": {
+    "subject_code": "WOOD",
+    "course_code": "290",
+    "credit": "3",
+    "course_name": "Secondary Wood Products Manufacturing",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic secondary wood products manufacturing. Focus on producing and joining lumber, edging, drilling, veneers and CNC equipment. [2-3-0] Prerequisite: [WOOD120]"
+  },
+  "WOOD 292": {
+    "subject_code": "WOOD",
+    "course_code": "292",
+    "credit": "2",
+    "course_name": "Two-Dimensional and Solid Computer-Aided Graphics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Computer-aided graphics software used in the wood products sector. Visualization of product designs and specifications in two and three dimensions. [0-4]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 300": {
+    "subject_code": "WOOD",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students admitted to the Co-operative Education Program in Wood Products Processing who have completed the co-op orientation workshops. Prerequisite: WOOD_V 305. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 305": {
+    "subject_code": "WOOD",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Wood Machining Skills",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Safe working procedures for wood processing machinery, explanation of various manufacturing equipment, product documentation, product development and manufacturing processes. Prerequisite: WOOD290"
+  },
+  "WOOD 310": {
+    "subject_code": "WOOD",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing. Prerequisite: Permission of the Co-op Coordinator. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 311": {
+    "subject_code": "WOOD",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement II",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing. Prerequisite: WOOD_V 300. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 312": {
+    "subject_code": "WOOD",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement III",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks full-time. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing. Prerequisite: WOOD_V 311. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 330": {
+    "subject_code": "WOOD",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Industrial Engineering",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Use of industrial engineering concepts and methods to analyze and improve organizations, including operations strategy and competitiveness, quality control, work measurement, inventory management, linear programming, sensitivity analysis, transportation problems, and capacity planning. [3-2-0] Prerequisite: One of ECON 101, FRST 101 and one of FRST 231, NRES 231."
+  },
+  "WOOD 335": {
+    "subject_code": "WOOD",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Quality Improvement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Modern techniques for improving quality in the workplace with particular emphasis on the forest products industry. Topics include quality control management, control charting, continuous improvement and analysis of variance techniques. [2-2-0] Prerequisite: One of FRST 231, NRES 231."
+  },
+  "WOOD 353": {
+    "subject_code": "WOOD",
+    "course_code": "353",
+    "credit": "2",
+    "course_name": "Mill Site Visits",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "One week of on-site study of forest products manufacturing plants immediately following Spring examinations of second or third year. Representative sawmills, plywood mills, remanufacturing plants, particleboard manufacturers, pulp mills, laminated timber plants and wood preservation facilities in the Interior are studied. Fees will be assessed to meet expenses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 356": {
+    "subject_code": "WOOD",
+    "course_code": "356",
+    "credit": "2",
+    "course_name": "Machine Components",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Machines used for wood products manufacturing, design, maintenance, purchasing. Selection of components including drives, bearings, brakes, clutches, fasteners, springs. [2-2-0]. Prerequisite: WOOD_V. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 365": {
+    "subject_code": "WOOD",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Wood Industry Business Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Business management concepts common in the forest products industry including marketing, customer research, product development and design. [3-0-2]"
+  },
+  "WOOD 373": {
+    "subject_code": "WOOD",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "Wood Adhesives and Coatings",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to structure and properties of polymers and wood finishes; chemistry of adhesives and preservatives. [2-3-0] Prerequisite: One of CHEM 113, CHEM 123."
+  },
+  "WOOD 384": {
+    "subject_code": "WOOD",
+    "course_code": "384",
+    "credit": "3",
+    "course_name": "Wood Sawmilling and Drying",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to primary log breakdown systems and lumber material flow in modern sawmills and planermills. Lumber drying equipment and methods. [3-2] Prerequisite: WOOD 282."
+  },
+  "WOOD 386": {
+    "subject_code": "WOOD",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Applied Mechanics of Materials",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Beam analysis, shaft analysis, columns, stress/strain transformations, thin-walled pressure vessels, material strength failure, criteria, fatigue, design and sizing, ISO standards. [2-2-0] Prerequisite: WOOD 276."
+  },
+  "WOOD 390": {
+    "subject_code": "WOOD",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "Wood Products Performance and Building Applications",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction of mechanical properties of solid sawn lumber/timber and engineered wood products, common connection technologies using mechanical fasteners and adhesives, and typical applications to wood buildings. Prerequisites: WOOD_V 386"
+  },
+  "WOOD 391": {
+    "subject_code": "WOOD",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Fire Safety for Timber Buildings",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Fire safety context, origin and application for wood in the built environment. Fire science principles from ignition to compartment fires. Application of fire resistance and fire protection. Implicit and explicit fire safety solutions. Prerequisites: Third-year standing"
+  },
+  "WOOD 395": {
+    "subject_code": "WOOD",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Sustainable Timber-Built Technologies",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Critical technologies and standards used to construct sustainable and contemporary timber products and buildings, including: Sustainable timber products and systems, Low-carbon timber products and buildings and building LCA, 3D design for timber products and buildings, and digital technologies for timber-built sustainability. Prerequisites: Third-year standing"
+  },
+  "WOOD 400": {
+    "subject_code": "WOOD",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for a minimum of 13 weeks fulltime. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing. Prerequisite: Permission of the Co-op Coordinator. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 411": {
+    "subject_code": "WOOD",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Cooperative Work Placement IV",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for minimum of 13 weeks full-time. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing. Prerequisite: WOOD_V 312. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 412": {
+    "subject_code": "WOOD",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Co-operative Work Placement V",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Approved and supervised work experience with a public or private organization for minimum of 13 weeks full-time. Final work term assignment required. Restricted to students in the Co-operative Education Program in Wood Products Processing. Prerequisite: WOOD_V 411. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 430": {
+    "subject_code": "WOOD",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "Plant Layout and Design",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Techniques for developing a plan, setting goals, and evaluating the impact of changes in the design, layout and operation of the factory with an emphasis on computer simulation. Prerequisite: All of WOOD_V 290, WOOD_V 330, WOOD_V 485."
+  },
+  "WOOD 440": {
+    "subject_code": "WOOD",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Engineering Economics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Use of engineering economics to evaluate investment proposals of an engineering nature, including decision making processes, time value of money, cash flow analysis, comparison methods, depreciation, replacement analysis, taxes, inflation and sensitivity analysis. [3-1] Prerequisite: [WOOD330]"
+  },
+  "WOOD 449": {
+    "subject_code": "WOOD",
+    "course_code": "449",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Wood Products Processing",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "In special cases and with the approval of the instructor concerned, a student may carry on directed studies of specific problems in wood products processing."
+  },
+  "WOOD 461": {
+    "subject_code": "WOOD",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Globalization and Sustainability",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Examination of globalization and its impact on sustainability, including social, economic, and environmental aspects. [3-1] Prerequisite: At least third-year standing."
+  },
+  "WOOD 464": {
+    "subject_code": "WOOD",
+    "course_code": "464",
+    "credit": "4",
+    "course_name": "Wood Finishing and Protection",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to polymeric coatings and finishes used in the wood products industry; surface preparation, application equipment and properties of various coatings; wood deterioration and its protection for external applications. [1-3-2] Prerequisite: All of WOOD 282, WOOD 373."
+  },
+  "WOOD 475": {
+    "subject_code": "WOOD",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Wood Properties, Identification and Uses",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Elementary chemical, physical and mechanical properties of wood and their variations in relation to structure; identification by hand lens features; manufacture of lumber, pulp and composite wood products. Not available for credit to Wood Products Processing students. [3-2]"
+  },
+  "WOOD 476": {
+    "subject_code": "WOOD",
+    "course_code": "476",
+    "credit": "3",
+    "course_name": "Design of Timber Structures",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Design of timber structural elements using limit states design principles; joints and fasteners, sawn lumber and engineered wood products, light frame systems and shear walls. [3-0-0]. Prerequisite: One of WOOD_V 276, CIVL_V 230. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 478": {
+    "subject_code": "WOOD",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "Building Science",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Building enclosure design considering heat and moisture transmission, air flow and ventilation, condensation, acoustics; roofing systems; diagnostic evaluations; fire protection. [3-0-0] Equivalency: CIVL478"
+  },
+  "WOOD 482": {
+    "subject_code": "WOOD",
+    "course_code": "482",
+    "credit": "4",
+    "course_name": "CAD/CAM",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to computer assisted design and manufacturing with a focus on the fundamental issues of geometry and machine tools including an understanding of standard computer tools. Applications to secondary wood products manufacturing. [3-4-0]. Prerequisite: All of WOOD_V 290, WOOD_V 292. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 485": {
+    "subject_code": "WOOD",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Furniture Construction",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The theory and practice of modern construction techniques used in the manufacture of furniture and cabinets. [3-1] Prerequisite: All of WOOD 292, WOOD 305."
+  },
+  "WOOD 487": {
+    "subject_code": "WOOD",
+    "course_code": "487",
+    "credit": "3",
+    "course_name": "Wood Composites",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Physical, chemical and mechanical variables involved in adhesive bonding of composite wood products; characteristics of adhesives; plywood, composite wood panels, hardboard, medium density fibreboard, laminated wood and engineered lumber composites manufacturing processes; important physical and chemical properties of products. [2-3-0] Prerequisite: WOOD 373."
+  },
+  "WOOD 488": {
+    "subject_code": "WOOD",
+    "course_code": "488",
+    "credit": "3",
+    "course_name": "Wood Products Design and Development I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to wood products design, from the product idea to the production-ready design. [2-2-0]. Prerequisite: All of WOOD_V 305, WOOD_V 482, WOOD_V 485. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 489": {
+    "subject_code": "WOOD",
+    "course_code": "489",
+    "credit": "3",
+    "course_name": "Wood Products Design and Development II",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Design and fabrication of wood products. [2-2-0]. Prerequisite: WOOD_V 488. And a portfolio demonstrating competence in the operation of woodworking machinery. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 491": {
+    "subject_code": "WOOD",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "Environmental Facilities Design",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to pneumatic and hydraulic power, design and selection of waste recycling systems, boilers, energy generation and environmental legislation. [3-2] Prerequisite: Fourth-year standing."
+  },
+  "WOOD 492": {
+    "subject_code": "WOOD",
+    "course_code": "492",
+    "credit": "3",
+    "course_name": "Modelling for Decision Support",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Applications of mathematical modelling, optimization, and simulation in forest planning and manufacturing; formulating models and interpreting results for decision support. [3-3] Prerequisite: One of FRST 232, NRES 232, WOOD 245."
+  },
+  "WOOD 493": {
+    "subject_code": "WOOD",
+    "course_code": "493",
+    "credit": "3",
+    "course_name": "Project in Program Major",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "A report (approved by a faculty supervisor and the Program Director) based on either a technical description of a study, an extension of the senior co-op report, a detailed literature review, a research-based project, or a guided independent study developed by the student. Prerequisite: Fourth-year standing"
+  },
+  "WOOD 494": {
+    "subject_code": "WOOD",
+    "course_code": "494",
+    "credit": "3",
+    "course_name": "Principles of Wood Cutting and Tooling",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Wood cutting fundamentals, chip formation, cutting conditions, cutting edge maintenance, sawing, planing and molding, veneer cutting, chipping, turning. [2-3-0] Prerequisite: WOOD 356."
+  },
+  "WOOD 495": {
+    "subject_code": "WOOD",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Net-Zero Carbon Solutions for Timber Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Cutting-edge knowledge to develop emerging sustainable timber products and systems towards net-zero carbon. Strategies and solutions adapted to promote net-zero carbon emissions throughout timber product life cycle from harvesting, manufacturing, design, use and disposal. Prerequisites: Fourth-year standing."
+  },
+  "WOOD 499": {
+    "subject_code": "WOOD",
+    "course_code": "499",
+    "credit": "6",
+    "course_name": "Wood Products Capstone",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Development of a wood products manufacturing start-up company. Development of comprehensive business plan, marketing strategy, product design, equipment selection and justification, manufacturing plant layout, and economic analyses. [4-2-3]. Prerequisite: All of WOOD_V 365, WOOD_V 440. And fourth-year standing in Wood Products Processing. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 563": {
+    "subject_code": "WOOD",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Globalization and the Marketing of Wood Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Globalization's impact on developing and developed countries and what this means to world trade in forest products. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 570": {
+    "subject_code": "WOOD",
+    "course_code": "570",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Wood Science and Forest Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 572": {
+    "subject_code": "WOOD",
+    "course_code": "572",
+    "credit": "1-6",
+    "course_name": "Topics in Wood Science and Forest Products",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 573": {
+    "subject_code": "WOOD",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Advanced Wood Physics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Thermo-physical and mechano-sorptive properties of wood and their effect on service performance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "WOOD 576": {
+    "subject_code": "WOOD",
+    "course_code": "576",
+    "credit": "3",
+    "course_name": "Advanced Wood Mechanics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Analysis and design of structural wood products. Effect of material structure and variability on performance of wood products. This course is not eligible for Credit/D/Fail grading."
+  }
+}

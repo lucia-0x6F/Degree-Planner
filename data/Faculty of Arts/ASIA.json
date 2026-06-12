@@ -1,0 +1,1866 @@
+{
+  "ASIA 100": {
+    "subject_code": "ASIA",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Traditional Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the histories and cultures of Asia before 1600 and the coming of the Europeans. Emphasis will be given to parallel themes in the development of the civilizations of South, Southeast and East Asia."
+  },
+  "ASIA 101": {
+    "subject_code": "ASIA",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to Modern Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the emergence of modern Asia. Aims at an understanding of how the various peoples of Asia have maintained distinctive cultural identities despite centuries of political, economic, social and cultural change."
+  },
+  "ASIA 110": {
+    "subject_code": "ASIA",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Introduction to Religions in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of religious traditions of Asia, including communities, professionals, practices and beliefs of small-scale and large-scale societies. Approaches and theories drawn from the field of religious studies."
+  },
+  "ASIA 150": {
+    "subject_code": "ASIA",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Asian Internets",
+    "faculty": "Faculty of Arts",
+    "description": "The cultures of contemporary Asia through an exploration of the uses, form, and content of online media from and about Asia."
+  },
+  "ASIA 200": {
+    "subject_code": "ASIA",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Cultural Foundations of East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative survey of the beliefs, assumptions and values which have shaped the civilizations of East Asia in both traditional and modern times."
+  },
+  "ASIA 208": {
+    "subject_code": "ASIA",
+    "course_code": "208",
+    "credit": "3",
+    "course_name": "Cultural Foundations of South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of South Asian cultures, including language and literature, art, religion, polity and society, as they developed in the past and have been transformed in the modern period."
+  },
+  "ASIA 209": {
+    "subject_code": "ASIA",
+    "course_code": "209",
+    "credit": "3",
+    "course_name": "Cultural Foundations of Southeast Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative survey of the different cultures found in the communities of Southeast Asia. Focus will be on language and literature, arts, religion, society and polity, ideologies and belief systems in the past as well as in modern times."
+  },
+  "ASIA 210": {
+    "subject_code": "ASIA",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Traditions of Yoga",
+    "faculty": "Faculty of Arts",
+    "description": "Philosophical, religious, and cultural development of yoga in classical and medieval South Asia and its relation to contemporary globalized practice."
+  },
+  "ASIA 211": {
+    "subject_code": "ASIA",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Sex, Sexual Ethics, and Asian Religions",
+    "faculty": "Faculty of Arts",
+    "description": "Sex and sexual ethics in the scriptures, monastic rules, rituals, and narratives of Asian religions, such as Sikhism, Hinduism, Buddhism, and Confucianism."
+  },
+  "ASIA 212": {
+    "subject_code": "ASIA",
+    "course_code": "212",
+    "credit": "3",
+    "course_name": "Writing About Japan",
+    "faculty": "Faculty of Arts",
+    "description": "Literary, historiographic, religious, and feminist approaches to Japanese myths, legal tracts, religious tales, fiction, and poetry."
+  },
+  "ASIA 213": {
+    "subject_code": "ASIA",
+    "course_code": "213",
+    "credit": "3",
+    "course_name": "Myth, Literature, and Film in North India",
+    "faculty": "Faculty of Arts",
+    "description": "Indian literary and mythological texts, in genres from epic to lyric, as recast in contemporary Hindi film."
+  },
+  "ASIA 222": {
+    "subject_code": "ASIA",
+    "course_code": "222",
+    "credit": "3",
+    "course_name": "Encountering Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the literary, religious, and philosophical traditions of at least two Asian cultures using foundational texts. Students will learn about these traditions by encountering them historically as well as through the lenses of their own diverse identities and contexts."
+  },
+  "ASIA 223": {
+    "subject_code": "ASIA",
+    "course_code": "223",
+    "credit": "3",
+    "course_name": "Writing Asia",
+    "faculty": "Faculty of Arts",
+    "description": "This writing-intensive course is to be taken concurrently with ASIA 222. The seminar builds on the materials of ASIA 222. Students must have knowledge of or be enrolled in the study of one of the languages offered in Asian Studies."
+  },
+  "ASIA 250": {
+    "subject_code": "ASIA",
+    "course_code": "250",
+    "credit": "3",
+    "course_name": "Introduction to Buddhism",
+    "faculty": "Faculty of Arts",
+    "description": "Origins, basic teachings, development of Theravada, Mahayana, and Tantric traditions, historical spread first through Asia and later the world, and Buddhism in contemporary societies."
+  },
+  "ASIA 254": {
+    "subject_code": "ASIA",
+    "course_code": "254",
+    "credit": "3",
+    "course_name": "Sex, Gender, and Sexuality in Japanese Literature and Film",
+    "faculty": "Faculty of Arts",
+    "description": "The integral role that sex, gender, and sexuality play in literary and cinematic works from Japan. Literary works will be read in translation, movies will be subtitled."
+  },
+  "ASIA 258": {
+    "subject_code": "ASIA",
+    "course_code": "258",
+    "credit": "3",
+    "course_name": "Religion in South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The major religious traditions of South Asia, including Hinduism, Islam, Sikhism, and Buddhism; the significance of religious thought and practice in premodern India, as well as the continuing impact of religion in today's globalized South Asia."
+  },
+  "ASIA 270": {
+    "subject_code": "ASIA",
+    "course_code": "270",
+    "credit": "3-6",
+    "course_name": "China in World History",
+    "faculty": "Faculty of Arts",
+    "description": "The history of China in a global context, from the earliest times to the most recent past; how China has changed the world and how engagement with the world has changed China. Credit will be granted for only one of ASIA_V 270 or HIST_V 270. Equivalency: HIST_V 270."
+  },
+  "ASIA 300": {
+    "subject_code": "ASIA",
+    "course_code": "300",
+    "credit": "3",
+    "course_name": "Writing and Culture in East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Practical, aesthetic, historical, technological and political issues pertaining to the use of Chinese characters - hanzi (Chinese), kanji (Japanese), or hanccha (Korean) - throughout the region."
+  },
+  "ASIA 301": {
+    "subject_code": "ASIA",
+    "course_code": "301",
+    "credit": "3",
+    "course_name": "Buddhism in the Modern Era",
+    "faculty": "Faculty of Arts",
+    "description": "Buddhism from the nineteenth century to present day with special emphasis on its history and character in local settings, including specific traditions such as Tibetan Nyingma and Japanese Zen, as well as the development of a modern and global Buddhism."
+  },
+  "ASIA 302": {
+    "subject_code": "ASIA",
+    "course_code": "302",
+    "credit": "3",
+    "course_name": "Theravada Buddhism",
+    "faculty": "Faculty of Arts",
+    "description": "History, story, and culture of the major form of Buddhism primarily focused on the regions of Sri Lanka, and mainland Southeast Asia, including southern Vietnam, parts of southern China, spread to Nepal, and modern global diffusion."
+  },
+  "ASIA 303": {
+    "subject_code": "ASIA",
+    "course_code": "303",
+    "credit": "3",
+    "course_name": "Mahayana Buddhism",
+    "faculty": "Faculty of Arts",
+    "description": "Historical and philosophical development of Mahayana Buddhism."
+  },
+  "ASIA 304": {
+    "subject_code": "ASIA",
+    "course_code": "304",
+    "credit": "3",
+    "course_name": "Survey of South and Southeast Asian Performing Arts",
+    "faculty": "Faculty of Arts",
+    "description": "An historical perspective of the performing arts of South and Southeast Asia, highlighting the role of music, dance, and the dramatic arts in the lives of actors and audiences. Option to complete a practicum performance."
+  },
+  "ASIA 305": {
+    "subject_code": "ASIA",
+    "course_code": "305",
+    "credit": "3",
+    "course_name": "Asian Horror Cinema: National Nightmares and Specters of Trauma",
+    "faculty": "Faculty of Arts",
+    "description": "Engaging with the ideologies, industrial histories, socio-cultural contexts, and aesthetics of horror films - and the genre itself - from various Asian cinemas."
+  },
+  "ASIA 306": {
+    "subject_code": "ASIA",
+    "course_code": "306",
+    "credit": "3",
+    "course_name": "Esoteric Buddhism",
+    "faculty": "Faculty of Arts",
+    "description": "Overview of Buddhism's rich and complex esoteric traditions in the Himalayan region and South, Southeast, and East Asia, with particular emphasis on texts, commentaries, and practices from a variety of traditions, locales and time periods."
+  },
+  "ASIA 307": {
+    "subject_code": "ASIA",
+    "course_code": "307",
+    "credit": "3",
+    "course_name": "Korean Language and Writing in Culture and Society",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of Korean language and writing using approaches from sociolinguistics, the sociology of language, and linguistic anthropology."
+  },
+  "ASIA 308": {
+    "subject_code": "ASIA",
+    "course_code": "308",
+    "credit": "3",
+    "course_name": "Myth, Ritual and Epic in Ancient India",
+    "faculty": "Faculty of Arts",
+    "description": "Myths of creation Gods and goddesses of the Vedic pantheon. Connections with myths in other parts of the world, particularly in the Indo-European tradition. Literary representations of the myths."
+  },
+  "ASIA 309": {
+    "subject_code": "ASIA",
+    "course_code": "309",
+    "credit": "3",
+    "course_name": "South Asian Beyond South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A history of South Asian peoples and communities that emigrated overseas, including Indo-Canadians."
+  },
+  "ASIA 310": {
+    "subject_code": "ASIA",
+    "course_code": "310",
+    "credit": "3-6",
+    "course_name": "Studies in the History of a Major Asian Civilization",
+    "faculty": "Faculty of Arts",
+    "description": "Study of an Asian culture area different from those covered in existing courses. Not given every year. Consult Department for details. May be taken multiple times on different subjects for credit."
+  },
+  "ASIA 311": {
+    "subject_code": "ASIA",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "Tibetan Buddhism",
+    "faculty": "Faculty of Arts",
+    "description": "Religious terrain of the Tibetan cultural realm, looking at the history and development of Tibetan Buddhism and key ideas of the four main Tibetan Buddhist traditions."
+  },
+  "ASIA 312": {
+    "subject_code": "ASIA",
+    "course_code": "312",
+    "credit": "3",
+    "course_name": "Buddhism in Korea",
+    "faculty": "Faculty of Arts",
+    "description": "Historical, cultural and philosophical development of Korean Buddhism."
+  },
+  "ASIA 313": {
+    "subject_code": "ASIA",
+    "course_code": "313",
+    "credit": "3",
+    "course_name": "Tibetan and Himalayan Culture and Society",
+    "faculty": "Faculty of Arts",
+    "description": "History and culture of the Himalayan regions, including India, China, Tibet, Nepal, and Bhutan."
+  },
+  "ASIA 314": {
+    "subject_code": "ASIA",
+    "course_code": "314",
+    "credit": "3",
+    "course_name": "Premodern Japan",
+    "faculty": "Faculty of Arts",
+    "description": "Japanese history (political, economic, social and cultural) to 1600."
+  },
+  "ASIA 315": {
+    "subject_code": "ASIA",
+    "course_code": "315",
+    "credit": "3",
+    "course_name": "Japan from Feudal to Modern State",
+    "faculty": "Faculty of Arts",
+    "description": "Japanese history from 1600 to the Meiji Restoration. Political, economic, social and cultural forces which were involved in transforming Japan."
+  },
+  "ASIA 316": {
+    "subject_code": "ASIA",
+    "course_code": "316",
+    "credit": "3",
+    "course_name": "Race and Ethnicity in Japanese Literature and Film",
+    "faculty": "Faculty of Arts",
+    "description": "Examines relations between majority and minority groups in Japanese society and changing definitions of Japan through literature and film from Japan."
+  },
+  "ASIA 317": {
+    "subject_code": "ASIA",
+    "course_code": "317",
+    "credit": "3",
+    "course_name": "The Rise of Korean Civilization",
+    "faculty": "Faculty of Arts",
+    "description": "The evolution of a distinctive Korean civilization within the East Asian cultural sphere. Primary focus on cultural, social and political development from the earliest times to the sixteenth century."
+  },
+  "ASIA 318": {
+    "subject_code": "ASIA",
+    "course_code": "318",
+    "credit": "3",
+    "course_name": "Premodern India",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the history and culture of India from the earliest historic period to 1200 and the coming of Islam, with emphasis on the evolution of classical Hindu civilization."
+  },
+  "ASIA 319": {
+    "subject_code": "ASIA",
+    "course_code": "319",
+    "credit": "3",
+    "course_name": "Contemporary Chinese Popular Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "Chinese popular cultures of the late twentieth and early twenty-first centuries, in relation to social changes, national policies, individual choices, everyday experience, and globalization."
+  },
+  "ASIA 320": {
+    "subject_code": "ASIA",
+    "course_code": "320",
+    "credit": "3",
+    "course_name": "History of Early China",
+    "faculty": "Faculty of Arts",
+    "description": "History of China from the earliest times to the disintegration of the Tang empire. Students will acquire the analytical skills and tools to understand the origins and foundations of Chinese society. Credit will be granted for only one of ASIA_V 320 or HIST_V 378. Equivalency: HIST_V 378."
+  },
+  "ASIA 321": {
+    "subject_code": "ASIA",
+    "course_code": "321",
+    "credit": "3",
+    "course_name": "Celebrity Culture in Chinese Societies",
+    "faculty": "Faculty of Arts",
+    "description": "Histories, controversies, and implications of celebrity culture in Chinese societies, with a focus on the entanglement of author, audience, and media across different sociopolitical contexts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 323": {
+    "subject_code": "ASIA",
+    "course_code": "323",
+    "credit": "3",
+    "course_name": "History of Cantonese Worlds",
+    "faculty": "Faculty of Arts",
+    "description": "The history, culture, languages, and identities of the multi-faceted Cantonese worlds, in the context of Chinese history and the Cantonese diaspora. Credit will be granted for only one of ASIA_V 323 or HIST_V 377. Equivalency: HIST_V 377."
+  },
+  "ASIA 324": {
+    "subject_code": "ASIA",
+    "course_code": "324",
+    "credit": "3",
+    "course_name": "Literature of Hong Kong",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the literature of Hong Kong, from classical times to the present. Important periods in literary history (imperial, colonial, post-colonial), major authors (locals, visitors, and writers elsewhere), and important genres, including poetry, essays, and fiction."
+  },
+  "ASIA 325": {
+    "subject_code": "ASIA",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "Hong Kong Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of the cinema of Hong Kong from the post-war period to the present. The influence of Hong Kong on global cinema, and the forces (artists, studios, audiences, etc.) that have given rise to filmmaking styles and genres perceived as distinctively Hong Kong."
+  },
+  "ASIA 326": {
+    "subject_code": "ASIA",
+    "course_code": "326",
+    "credit": "3",
+    "course_name": "Critical Approaches to Manga and Anime",
+    "faculty": "Faculty of Arts",
+    "description": "A critical introduction to Japanese manga and anime in the 20th and 21st centuries."
+  },
+  "ASIA 327": {
+    "subject_code": "ASIA",
+    "course_code": "327",
+    "credit": "3",
+    "course_name": "Korean Popular Music in Context",
+    "faculty": "Faculty of Arts",
+    "description": "History, contexts, and the genres of Korean popular music. Students will analyze specific artists and songs using a range of approaches. While an understanding of basic concepts of music will be helpful, no previous exposure to ethnomusicology or music performance is required."
+  },
+  "ASIA 328": {
+    "subject_code": "ASIA",
+    "course_code": "328",
+    "credit": "3",
+    "course_name": "Modern Islam",
+    "faculty": "Faculty of Arts",
+    "description": "History, culture, values, and sociopolitical movements of the Islamic world from 1500 to the modern day; interconnections between power, politics, gender, and the arts in modern Islamic societies. Recommended as a basis for all other Islamic studies courses."
+  },
+  "ASIA 329": {
+    "subject_code": "ASIA",
+    "course_code": "329",
+    "credit": "3",
+    "course_name": "Gender in South and Southeast Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A critical examination of what it means to be a woman or a man within the social and cultural context of South and Southeast Asia. What masculinity and femininity signify in these societies; how these concepts are reaffirmed or challenged."
+  },
+  "ASIA 330": {
+    "subject_code": "ASIA",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Muslims in Modern South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The history of Muslims in modern South Asia from colonialism to the present."
+  },
+  "ASIA 331": {
+    "subject_code": "ASIA",
+    "course_code": "331",
+    "credit": "3",
+    "course_name": "Islam in South Asia (750-1750)",
+    "faculty": "Faculty of Arts",
+    "description": "The history of Islam in South Asia beginning with the first Indo-Islamic interactions, the crystallization of Sufi traditions and sultanates, through the rise of European colonialism."
+  },
+  "ASIA 332": {
+    "subject_code": "ASIA",
+    "course_code": "332",
+    "credit": "3",
+    "course_name": "Confucianism in China and Beyond: Reinventions of Tradition",
+    "faculty": "Faculty of Arts",
+    "description": "Key ideas and trends in Confucian thought and practice from its origins to modern times through primary sources in translation and secondary scholarship."
+  },
+  "ASIA 333": {
+    "subject_code": "ASIA",
+    "course_code": "333",
+    "credit": "3",
+    "course_name": "Contemporary South Asian Gender and Sexuality Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Main theories and key concepts with a particular focus on the changing status of women, and gender and sexual minorities."
+  },
+  "ASIA 334": {
+    "subject_code": "ASIA",
+    "course_code": "334",
+    "credit": "3",
+    "course_name": "Writing Women in Premodern East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The construction of gender in literary writings by and about women in select areas of premodern East Asia."
+  },
+  "ASIA 335": {
+    "subject_code": "ASIA",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "Cantonese Music",
+    "faculty": "Faculty of Arts",
+    "description": "A history of musical genres with Cantonese lyrics from the nineteenth century to the present. Topics include music and text relationships, major singers, major genres (narrative songs, Cantonese opera, Cantopop). Credit will be granted for only one of ASIA_V 335 or MUSC_V 327. Equivalency: MUSC_V 327."
+  },
+  "ASIA 336": {
+    "subject_code": "ASIA",
+    "course_code": "336",
+    "credit": "3",
+    "course_name": "Sufi and Bhakti Devotional Literatures",
+    "faculty": "Faculty of Arts",
+    "description": "Sufi and Bhakti thought and tradition in South Asia through literary works in translation."
+  },
+  "ASIA 337": {
+    "subject_code": "ASIA",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "The Korean People in Modern Times (1600 to the present)",
+    "faculty": "Faculty of Arts",
+    "description": "The transformation of Korea from a Confucian state into an industrial nation. The rise of nationalism and modern ideologies in Korea. Cultural, social and economic changes Korea has undergone as it has entered the modern world."
+  },
+  "ASIA 338": {
+    "subject_code": "ASIA",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "India in the Age of Empire and Revolution",
+    "faculty": "Faculty of Arts",
+    "description": "History of India from the rise of the British East India Company to the beginnings of Indian nationalism and anti-colonial rebellion in the 19thcentury."
+  },
+  "ASIA 339": {
+    "subject_code": "ASIA",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "The Construction of South Asian Communities in the Diaspora",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of contemporary South Asian communities in the diaspora. Topics of particular importance are family life, religious life, notions of space, communal memory, literary and visual representation."
+  },
+  "ASIA 340": {
+    "subject_code": "ASIA",
+    "course_code": "340",
+    "credit": "3",
+    "course_name": "History of Later Imperial China",
+    "faculty": "Faculty of Arts",
+    "description": "History of China from the end of Tang to the eve of its modern transformation. Students will acquire the analytical skills and tools to understand the political, socio-economic, and cultural changes in imperial China. Credit will be granted for only one of ASIA_V 340 or HIST_V 379. Equivalency: HIST_V 379."
+  },
+  "ASIA 341": {
+    "subject_code": "ASIA",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Classical Chinese Literature in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Poetry, historical and philosophic prose writings and the earliest genres of fiction in classical Chinese (ca. 1100 BC ca. 750 AD)."
+  },
+  "ASIA 342": {
+    "subject_code": "ASIA",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Chinese Literature in Translation: The Vernacular Tradition",
+    "faculty": "Faculty of Arts",
+    "description": "Readings in drama and fiction, 800 to 1800 AD. The emergence of vernacular genres as distinct from and sometimes opposed to the existing classical genres."
+  },
+  "ASIA 343": {
+    "subject_code": "ASIA",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Film in South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Social and cultural history of South Asian film."
+  },
+  "ASIA 344": {
+    "subject_code": "ASIA",
+    "course_code": "344",
+    "credit": "3-9",
+    "course_name": "Topics in Japanese Cultural History I: Aristocrats and Warriors",
+    "faculty": "Faculty of Arts",
+    "description": "Focuses each year on a specific topic related to the courtly or warrior culture of Japan."
+  },
+  "ASIA 345": {
+    "subject_code": "ASIA",
+    "course_code": "345",
+    "credit": "3",
+    "course_name": "Chinese Film Classics",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to and analysis of artistically significant films made in mainland China during the first half century of Chinese film history."
+  },
+  "ASIA 346": {
+    "subject_code": "ASIA",
+    "course_code": "346",
+    "credit": "3-9",
+    "course_name": "Topics in Japanese Cultural History II: The Early Modern Age",
+    "faculty": "Faculty of Arts",
+    "description": "Focuses each year on a specific topic related to the culture of early modern Japan."
+  },
+  "ASIA 347": {
+    "subject_code": "ASIA",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Traditional Korean Literature in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to Korean literature from ancient times to 1900."
+  },
+  "ASIA 348": {
+    "subject_code": "ASIA",
+    "course_code": "348",
+    "credit": "3",
+    "course_name": "Poetic Life in Classical India",
+    "faculty": "Faculty of Arts",
+    "description": "Cultural explorations in the poetry, theatre, and ornate prose writings of India in the classical period (c. 300-1300 CE)."
+  },
+  "ASIA 349": {
+    "subject_code": "ASIA",
+    "course_code": "349",
+    "credit": "3",
+    "course_name": "Ecoculture and Literature in Japan",
+    "faculty": "Faculty of Arts",
+    "description": "Ecocultural approach to reading, analyzing, and writing about narratives written in Japan from premodern times to the present."
+  },
+  "ASIA 350": {
+    "subject_code": "ASIA",
+    "course_code": "350",
+    "credit": "3",
+    "course_name": "Asian Literature in Translation: A Comparative Approach",
+    "faculty": "Faculty of Arts",
+    "description": "A comparative approach to the literatures of East, South and Southeast Asia focusing on a specific theme."
+  },
+  "ASIA 351": {
+    "subject_code": "ASIA",
+    "course_code": "351",
+    "credit": "3",
+    "course_name": "Modern Chinese Fiction in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Reading of selected novels and stories written between 1750 and the present."
+  },
+  "ASIA 352": {
+    "subject_code": "ASIA",
+    "course_code": "352",
+    "credit": "3",
+    "course_name": "Topics in Traditional Chinese Vernacular Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Traditional Chinese culture as seen through reading and discussion of exemplary literary works in the vernacular language."
+  },
+  "ASIA 353": {
+    "subject_code": "ASIA",
+    "course_code": "353",
+    "credit": "3",
+    "course_name": "Introduction to Hindi Film",
+    "faculty": "Faculty of Arts",
+    "description": "History, aesthetics, politics, and social roles of Bollywood films. Films will be subtitled."
+  },
+  "ASIA 354": {
+    "subject_code": "ASIA",
+    "course_code": "354",
+    "credit": "3",
+    "course_name": "Introduction to Japanese Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Students will be introduced to the work of the major directors (e.g., Ozu, Mizoguchi, Kurosawa, Itami, Oshima, Shinoda). Ideological uses of literary texts and period pieces (e.g., Ugetsu, Life of Oharu, Double Suicide). Impact of depiction of Japanese in American film."
+  },
+  "ASIA 355": {
+    "subject_code": "ASIA",
+    "course_code": "355",
+    "credit": "3",
+    "course_name": "History of Chinese Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the work of major directors."
+  },
+  "ASIA 356": {
+    "subject_code": "ASIA",
+    "course_code": "356",
+    "credit": "3",
+    "course_name": "Korean Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the work of the major film makers."
+  },
+  "ASIA 357": {
+    "subject_code": "ASIA",
+    "course_code": "357",
+    "credit": "3",
+    "course_name": "Modern Korean Literature in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Selected fiction and poetry written between 1917 and the present."
+  },
+  "ASIA 358": {
+    "subject_code": "ASIA",
+    "course_code": "358",
+    "credit": "3",
+    "course_name": "Literature of Medieval India in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Devotional, mystic, and erotic poetry of medieval Hinduism, Islam, and Sikhism."
+  },
+  "ASIA 359": {
+    "subject_code": "ASIA",
+    "course_code": "359",
+    "credit": "3",
+    "course_name": "Afghan History",
+    "faculty": "Faculty of Arts",
+    "description": "Afghan history as it unfolded from the Eurasian empires to the modern era of nation-building and internationalism."
+  },
+  "ASIA 360": {
+    "subject_code": "ASIA",
+    "course_code": "360",
+    "credit": "3-9",
+    "course_name": "A Specific Asian Literature in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the literature of a linguistic area of Asia not covered in existing courses. Not given every year. Consult the Department for details. May be taken multiple times on different subjects for credit."
+  },
+  "ASIA 361": {
+    "subject_code": "ASIA",
+    "course_code": "361",
+    "credit": "3",
+    "course_name": "Modern Chinese Fiction in Translation II",
+    "faculty": "Faculty of Arts",
+    "description": "A thematic survey of modern Chinese fiction and film in translation."
+  },
+  "ASIA 362": {
+    "subject_code": "ASIA",
+    "course_code": "362",
+    "credit": "3-6",
+    "course_name": "Pre-Modern Japanese Fiction (in translation)",
+    "faculty": "Faculty of Arts",
+    "description": "The influential genre of early tales and fiction in pre-modern Japan."
+  },
+  "ASIA 363": {
+    "subject_code": "ASIA",
+    "course_code": "363",
+    "credit": "3",
+    "course_name": "Fiction and Film from Modern Taiwan",
+    "faculty": "Faculty of Arts",
+    "description": "A reading-intensive survey of literary and cinematic culture in Taiwan since the early 20th century: colonialism, the national divide, nativism, trauma, cosmopolitanism, and utopian imaginings."
+  },
+  "ASIA 364": {
+    "subject_code": "ASIA",
+    "course_code": "364",
+    "credit": "3-9",
+    "course_name": "Modern Japanese Literature in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the literature and cultural history of modern Japan, with readings drawn from various literary genres, from 1868 to the present."
+  },
+  "ASIA 365": {
+    "subject_code": "ASIA",
+    "course_code": "365",
+    "credit": "3",
+    "course_name": "Punjabi Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Punjabi culture, history, and social values through films. The class includes film viewings and seminar discussions. Films will be subtitled."
+  },
+  "ASIA 366": {
+    "subject_code": "ASIA",
+    "course_code": "366",
+    "credit": "3-9",
+    "course_name": "Topics in Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Thematically-organized topics in Asian literature, history, visual culture, religion, or communities. Topics vary from section to section. Consult Department for current offerings."
+  },
+  "ASIA 367": {
+    "subject_code": "ASIA",
+    "course_code": "367",
+    "credit": "3",
+    "course_name": "Contemporary Korean Culture",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the literature, drama, music, and art of Korea today. Particular attention will be paid to the continuing influence of traditional themes and forms."
+  },
+  "ASIA 368": {
+    "subject_code": "ASIA",
+    "course_code": "368",
+    "credit": "3-9",
+    "course_name": "Modern Literatures of South Asia in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Fiction, drama, and/or poetry of modern India, Pakistan, Bangladesh, and/or Sri Lanka, including works in translation and/or originally written in English."
+  },
+  "ASIA 369": {
+    "subject_code": "ASIA",
+    "course_code": "369",
+    "credit": "3",
+    "course_name": "Asian Folklore",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of oral and expressive traditions in Asia, including jokes, superstitions, fairy tales, myths, music, and foodways; practical training in collecting and archiving folklore."
+  },
+  "ASIA 370": {
+    "subject_code": "ASIA",
+    "course_code": "370",
+    "credit": "3",
+    "course_name": "The Sanskrit Cosmopolis: India and the World, 200-1500 CE",
+    "faculty": "Faculty of Arts",
+    "description": "Languages, religions, art forms, and political structures of Asian societies shaped by creative encounters with Sanskrit."
+  },
+  "ASIA 371": {
+    "subject_code": "ASIA",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Foundations of Chinese Thought",
+    "faculty": "Faculty of Arts",
+    "description": "Early (pre 221 BCE) Chinese thought (Confucianism, Daoism, Mohism, Legalism), its contemporary implications, and the role of philosophy and religion in human flourishing./Credit will only be granted for one of PHIL 371 or ASIA 371. Equivalency: PHIL371"
+  },
+  "ASIA 372": {
+    "subject_code": "ASIA",
+    "course_code": "372",
+    "credit": "3",
+    "course_name": "Development of Traditional Chinese Thought",
+    "faculty": "Faculty of Arts",
+    "description": "Chinese thought from the Han dynasty (206 BCE to 220 CE) to Wang Yangming (1472-1529) in its historical and cultural contexts."
+  },
+  "ASIA 373": {
+    "subject_code": "ASIA",
+    "course_code": "373",
+    "credit": "3",
+    "course_name": "History of Hong Kong",
+    "faculty": "Faculty of Arts",
+    "description": "History, culture, and identities of Hong Kong from the early 1800s to the present. Credit will be granted for only one of ASIA_V 373 or HIST_V 373. Equivalency: HIST_V 373."
+  },
+  "ASIA 374": {
+    "subject_code": "ASIA",
+    "course_code": "374",
+    "credit": "3",
+    "course_name": "Imagining Punjab",
+    "faculty": "Faculty of Arts",
+    "description": "The cultural and linguistic region of Punjab as it has been imagined in different times and places, in South Asia and beyond, in literature, scholarship, film, and popular culture."
+  },
+  "ASIA 375": {
+    "subject_code": "ASIA",
+    "course_code": "375",
+    "credit": "3",
+    "course_name": "Global Chinese Cinemas",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of Chinese cinemas in global perspective, covering films, filmmakers, producers, audiences, markets, industries, and critical discourse since the early twentieth century. Covers both cinematic culture and filmmaking technique."
+  },
+  "ASIA 376": {
+    "subject_code": "ASIA",
+    "course_code": "376",
+    "credit": "3",
+    "course_name": "The Sikhs: Formations, Contexts, and Historical Development",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to the historical development of Sikh traditions in India and Diaspora, from the 15th century to the present, with attention to broader historical contexts."
+  },
+  "ASIA 377": {
+    "subject_code": "ASIA",
+    "course_code": "377",
+    "credit": "3",
+    "course_name": "History of Korean Thought",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of Korean religious, philosophical, and scientific thought from the earliest written records to the present day, with particular focus on the interaction of Shamanism, Buddhism, Confucianism, and, in the present century, Christianity."
+  },
+  "ASIA 378": {
+    "subject_code": "ASIA",
+    "course_code": "378",
+    "credit": "3",
+    "course_name": "Philosophical Wisdom of Early India",
+    "faculty": "Faculty of Arts",
+    "description": "Epistemological and ontological thought from the Vedic period to the period of the rise of philosophical schools or systems Philosophy in the Mahabharata, Gita; early Buddhist and Jain views on knowledge and reality; views on language. Credit will be granted for only one of ASIA_V 378 or PHIL_V 378. Equivalency: PHIL_V 378."
+  },
+  "ASIA 379": {
+    "subject_code": "ASIA",
+    "course_code": "379",
+    "credit": "3",
+    "course_name": "The Persian Book of Kings",
+    "faculty": "Faculty of Arts",
+    "description": "The Persian Shahnameh (the Book of Kings) and its context in Iranian myth and history. Analysis of the poem through lenses of gender and sexuality, race/ethnicity, and religion."
+  },
+  "ASIA 380": {
+    "subject_code": "ASIA",
+    "course_code": "380",
+    "credit": "3",
+    "course_name": "Modern Arabic Literature from the Middle East and North Africa in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis and critique of 20th and 21st century Modern Arabic prose writing emerging from the Middle East and North Africa in translation."
+  },
+  "ASIA 381": {
+    "subject_code": "ASIA",
+    "course_code": "381",
+    "credit": "3",
+    "course_name": "Daoist (Taoist) Religion and Its Philosophical Background",
+    "faculty": "Faculty of Arts",
+    "description": "A study of the Daoist religious traditions from their beginnings in the second century CE in their cultural, intellectual and social contexts."
+  },
+  "ASIA 382": {
+    "subject_code": "ASIA",
+    "course_code": "382",
+    "credit": "3",
+    "course_name": "Buddhism in China",
+    "faculty": "Faculty of Arts",
+    "description": "History, thought, and practices of Chinese Buddhism from its beginnings until the twentieth century."
+  },
+  "ASIA 383": {
+    "subject_code": "ASIA",
+    "course_code": "383",
+    "credit": "3",
+    "course_name": "Korean History Through Film",
+    "faculty": "Faculty of Arts",
+    "description": "Modern Korea's historic moments through a cultural lens. Examines how film as cultural product reflects, challenges, and distorts history. Emphasis on formations of gender, class, and national identities."
+  },
+  "ASIA 384": {
+    "subject_code": "ASIA",
+    "course_code": "384",
+    "credit": "3",
+    "course_name": "The Zhuangzi (Chuang-Tzu)",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to a foundational text of East Asian thought. Both the primary text and its reception in traditional and modern contexts will be examined."
+  },
+  "ASIA 385": {
+    "subject_code": "ASIA",
+    "course_code": "385",
+    "credit": "3",
+    "course_name": "Chan/Zen Buddhism: Doctrine and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "The history, doctrines, and practices of Chan Buddhism, particularly the profound influence of Chan Buddhism on various aspects of East Asian culture."
+  },
+  "ASIA 386": {
+    "subject_code": "ASIA",
+    "course_code": "386",
+    "credit": "3",
+    "course_name": "Chinese Grammar and Usage I",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of modern Chinese grammar and its usage in various discourses, situating its form and function in relation to social and cultural contexts. Recommended pre-requisites: One of CHIN 207, CHIN 337, CHIN 208, CHIN 338, CHIN 217, CHIN 347, CHIN 218, CHIN 348, or a higher level of Chinese language proficiency."
+  },
+  "ASIA 387": {
+    "subject_code": "ASIA",
+    "course_code": "387",
+    "credit": "3",
+    "course_name": "Japanese Religions",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to traditional Japanese religions including Shinto, Buddhism, Shugendo, Confucianism, new religions and folklore, and their roles in Japanese history, culture and society."
+  },
+  "ASIA 388": {
+    "subject_code": "ASIA",
+    "course_code": "388",
+    "credit": "3",
+    "course_name": "Classical South Asian Philosophy",
+    "faculty": "Faculty of Arts",
+    "description": "Debates on issues of epistemology, language and ontology among the philosophical traditions of classical South Asia. ASIA 378/PHIL 378 is recommended. Credit will be granted for only one of ASIA_V 388 or PHIL_V 388. Equivalency: PHIL_V 388."
+  },
+  "ASIA 389": {
+    "subject_code": "ASIA",
+    "course_code": "389",
+    "credit": "3",
+    "course_name": "Life Writings of South Asian Diasporic Women",
+    "faculty": "Faculty of Arts",
+    "description": "Auto/biographies and life writings of South Asian women in the Diaspora. Emphasizes theories of representation, subjectivity, agency, difference, and memory."
+  },
+  "ASIA 390": {
+    "subject_code": "ASIA",
+    "course_code": "390",
+    "credit": "3",
+    "course_name": "History of the Indian Ocean World",
+    "faculty": "Faculty of Arts",
+    "description": "Societies and empires shaped by voyages of exploration, religious pilgrimages, trading diasporas and forced migration in the world of the Indian Ocean."
+  },
+  "ASIA 391": {
+    "subject_code": "ASIA",
+    "course_code": "391",
+    "credit": "3",
+    "course_name": "Classical Islam",
+    "faculty": "Faculty of Arts",
+    "description": "History and culture, values, and achievements of Islamic societies from 700-1500; interconnections between power, politics, gender, and the arts in Islamic societies. Recommended as a basis for all other Islamic studies courses."
+  },
+  "ASIA 392": {
+    "subject_code": "ASIA",
+    "course_code": "392",
+    "credit": "3",
+    "course_name": "Classical Persian Literature in English Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Works of classical Persian literature dating from the tenth to the seventeenth century."
+  },
+  "ASIA 393": {
+    "subject_code": "ASIA",
+    "course_code": "393",
+    "credit": "3",
+    "course_name": "History of Iran from the Sasanians to the Safavids",
+    "faculty": "Faculty of Arts",
+    "description": "Iranian history from the fall of the Sasanian empire and the Arab conquest of Iran to the rise of Iranian dynasties in the east, the reign of Turkic and Turko-Mongolian rulers, and the formation of a Shi'ite Iran under the Safavids."
+  },
+  "ASIA 394": {
+    "subject_code": "ASIA",
+    "course_code": "394",
+    "credit": "3",
+    "course_name": "Post-Revolutionary Iranian Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Gender politics, family relationships, and women's social, economic, and political roles in post-revolutionary Iran as shown through Iranian cinema."
+  },
+  "ASIA 395": {
+    "subject_code": "ASIA",
+    "course_code": "395",
+    "credit": "3",
+    "course_name": "Modern Persian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Modern Persian literature, including fiction, drama, and/or poetry, of Iran, Afghanistan, and/or Tajikistan dating from the mid-19th to the 21st century (in English translation)."
+  },
+  "ASIA 396": {
+    "subject_code": "ASIA",
+    "course_code": "396",
+    "credit": "3",
+    "course_name": "Chinese Grammar and Usage II",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of modern Chinese grammar and its usage in various discourses, situating its form and function in relation to social and cultural contexts. Continuation of ASIA 386. Recommended pre-requisite: ASIA 386 or higher level of Chinese language proficiency."
+  },
+  "ASIA 397": {
+    "subject_code": "ASIA",
+    "course_code": "397",
+    "credit": "3",
+    "course_name": "The Idea of India",
+    "faculty": "Faculty of Arts",
+    "description": "History of cultural ideas that led to India's transformation from a traditional, colonial society tied to the British empire to a postcolonial, pluralistic, development oriented parliamentary democracy."
+  },
+  "ASIA 398": {
+    "subject_code": "ASIA",
+    "course_code": "398",
+    "credit": "3",
+    "course_name": "Narrative Literature in Premodern India",
+    "faculty": "Faculty of Arts",
+    "description": "Stories of gods, goddesses and religious heroes from the Ramayana, Mahabharata, Puranas, Avadanas and in classical poetry and drama."
+  },
+  "ASIA 399": {
+    "subject_code": "ASIA",
+    "course_code": "399",
+    "credit": "3",
+    "course_name": "Films of the South Asian Diaspora",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary films of the South Asian Diaspora, with a focus on Canada, US, and UK. Emphasizes theories of representation, visual and cultural analysis."
+  },
+  "ASIA 400": {
+    "subject_code": "ASIA",
+    "course_code": "400",
+    "credit": "3",
+    "course_name": "Chinese Characters: Script, Languages, and Civilizations",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced study of the structure of the Chinese characters in their graphic, phonetic, and semantic aspects. Recommended pre-requisites: ASIA 300 and one of CHIN 207, CHIN 208, CHIN 337, CHIN 338, CHIN 217, CHIN 218, CHIN 347, CHIN 348, JAPN 213, JAPN 251, JAPN 323, JAPN 361, KORN 300, KORN 301, KORN 302."
+  },
+  "ASIA 402": {
+    "subject_code": "ASIA",
+    "course_code": "402",
+    "credit": "3",
+    "course_name": "Language, Writing, and Linguistic Thought in the History of the Sinographic Cosmopolis",
+    "faculty": "Faculty of Arts",
+    "description": "History of language, writing and linguistic thought in China, Japan, Korea and Vietnam from a comparative perspective and focusing on the dissolution of this translocal cultural formation with the onset of modernity. Restricted to fourth-year Asian Studies majors only. Recommended: At least 12 credits of any level of CHIN_V, JAPN_V, or KORN_V or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 403": {
+    "subject_code": "ASIA",
+    "course_code": "403",
+    "credit": "3",
+    "course_name": "Language and Colonialism in East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Classic works on language and colonialism in British India and imperial Japan. Emphasis on language policies, linguistic thought, language ideology, questions of assimilation and identity, and the consequences of colonialism for Asian languages today. Prerequisite: Prerequisites: 4th year standing. 400-level standing (or equivalent) in Chinese, Japanese or Korean (can be concurrent)."
+  },
+  "ASIA 405": {
+    "subject_code": "ASIA",
+    "course_code": "405",
+    "credit": "3",
+    "course_name": "The Interaction of Science, Religion, and Philosophy in East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The influence of Confucianism, Buddhism, Daoism, and Christianity on the way peoples of East Asia understood and manipulated the natural world, focusing on the natural sciences."
+  },
+  "ASIA 407": {
+    "subject_code": "ASIA",
+    "course_code": "407",
+    "credit": "3",
+    "course_name": "North Korea in Historical Context",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical overview of North Korea's politics, society, and economy. Restricted to fourth-year Asian Studies majors."
+  },
+  "ASIA 408": {
+    "subject_code": "ASIA",
+    "course_code": "408",
+    "credit": "3",
+    "course_name": "Religion, Society, and Secularism in Modern India",
+    "faculty": "Faculty of Arts",
+    "description": "The postcolonial nation-state and the challenge of a multi-religious society. Religious and secular discourse in colonial India, the partition, the modern constitution, secularism, Hindu and Muslim mobilization, and religious radicalism and communal violence Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 410": {
+    "subject_code": "ASIA",
+    "course_code": "410",
+    "credit": "3",
+    "course_name": "International Relations in Premodern East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "International relations, particularly between Korea and Japan in the premodern East Asian context, focusing on migration, trade, diplomacy, war, collective memory, mutual perceptions, and the context of the Sinocentric international order."
+  },
+  "ASIA 411": {
+    "subject_code": "ASIA",
+    "course_code": "411",
+    "credit": "3",
+    "course_name": "Chinese Political Thought and Institutions",
+    "faculty": "Faculty of Arts",
+    "description": "Chinese theories and practices of government and administration from earliest times to 1949."
+  },
+  "ASIA 412": {
+    "subject_code": "ASIA",
+    "course_code": "412",
+    "credit": "3",
+    "course_name": "Pre-Modern Chinese Poetry (Pre-Qin to Tang)",
+    "faculty": "Faculty of Arts",
+    "description": "Features and evolution of major pre-Chinese poetry from the 11th century B.C.E. to the 10th century C.E.; analytical reading of signature poems by selected poets in English translation in the pre-modern Chinese poetic tradition during this historical period."
+  },
+  "ASIA 413": {
+    "subject_code": "ASIA",
+    "course_code": "413",
+    "credit": "3",
+    "course_name": "Pre-Modern Chinese Poetry (Tang to Qing)",
+    "faculty": "Faculty of Arts",
+    "description": "The features and evolution of pre-Chinese poetry from the 10th century to the 19th century; analytical reading of signature poems by selected poets in English translation in the pre-modern Chinese poetic tradition during this historical period."
+  },
+  "ASIA 414": {
+    "subject_code": "ASIA",
+    "course_code": "414",
+    "credit": "3",
+    "course_name": "Architecture and Urbanism in Islamic South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Historical factors shaping Indian architecture from the 13th to the 19th centuries."
+  },
+  "ASIA 418": {
+    "subject_code": "ASIA",
+    "course_code": "418",
+    "credit": "3",
+    "course_name": "Social History of India",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental institutions including family, caste and religious organizations, with emphasis on the early modern and British periods."
+  },
+  "ASIA 419": {
+    "subject_code": "ASIA",
+    "course_code": "419",
+    "credit": "3",
+    "course_name": "Economic History of India",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the material foundations of Indian history. Considers India's place in the premodern world, different phases of globalization, processes and legacies of European colonial rule, and the development of India's modern economy."
+  },
+  "ASIA 427": {
+    "subject_code": "ASIA",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Topics in Korean Popular Culture (Hallyu)",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of one of the primary areas of Korean popular culture, such as television dramas, film, K-Pop music, graphic novels and webtoons, or Hanshik cuisine. Recommended pre-requisites: one of ASIA_V 327, ASIA_V 347, ASIA_V 357, ASIA_V 447, ASIA_V 452, ASIA_V 457, or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 428": {
+    "subject_code": "ASIA",
+    "course_code": "428",
+    "credit": "3",
+    "course_name": "Mughal India",
+    "faculty": "Faculty of Arts",
+    "description": "History of the politics, economy, society, and culture of South Asia from the Great Mughals to the British conquest."
+  },
+  "ASIA 429": {
+    "subject_code": "ASIA",
+    "course_code": "429",
+    "credit": "3",
+    "course_name": "Rebels, Martyrs, and Outlaws in Early Modern Japan",
+    "faculty": "Faculty of Arts",
+    "description": "The social history of early modern Japan with a particular focus on the patterns of organized protests, rebellions, and movements under samurai rule."
+  },
+  "ASIA 430": {
+    "subject_code": "ASIA",
+    "course_code": "430",
+    "credit": "3",
+    "course_name": "International Relations in Modern East Asia: Korea and Japan",
+    "faculty": "Faculty of Arts",
+    "description": "Trade, diplomacy, war, imperialism, militarism, colonialism, collective memory, mutual perceptions Korean-Japanese relations are examined as an exemplary case for exploring the dimensions of international conflict and partnership."
+  },
+  "ASIA 431": {
+    "subject_code": "ASIA",
+    "course_code": "431",
+    "credit": "3",
+    "course_name": "Tibetan Literature, Genres, and Book Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Tibetan literature, textual genres, and book and printing culture from the seventh century to the present."
+  },
+  "ASIA 433": {
+    "subject_code": "ASIA",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Representations of Muslims in Hindi/Urdu Films",
+    "faculty": "Faculty of Arts",
+    "description": "Depictions of Muslims in relation to the majoritarian community as well as other minorities in South Asian cinema, with a particular focus on the Hindi/Urdu film industry. Prerequisite: Second-year standing and above."
+  },
+  "ASIA 436": {
+    "subject_code": "ASIA",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "The Partition of India in Film and Narrative",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis and critique of how the partition of India is depicted in fictional literary works and feature films. Prerequisite: Second-year standing and above"
+  },
+  "ASIA 438": {
+    "subject_code": "ASIA",
+    "course_code": "438",
+    "credit": "3",
+    "course_name": "Twentieth Century South Asia",
+    "faculty": "Faculty of Arts",
+    "description": ""
+  },
+  "ASIA 440": {
+    "subject_code": "ASIA",
+    "course_code": "440",
+    "credit": "3",
+    "course_name": "Cultural History of Imperial China",
+    "faculty": "Faculty of Arts",
+    "description": "An in-depth examination of the construction, transmission, and transformation of Chinese culture(s) prior to 1800. Credit will be granted for only one of ASIA_V 440 or HIST_V 479. Restricted to fourth-year Asian Studies majors. Equivalency: HIST_V 479. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 441": {
+    "subject_code": "ASIA",
+    "course_code": "441",
+    "credit": "3-6",
+    "course_name": "Masterworks of Chinese Fiction and Drama in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Reading of a classic novel or play, with attention to intellectual, social, and political subtexts as well as aesthetic dimensions and problems of interpretation."
+  },
+  "ASIA 442": {
+    "subject_code": "ASIA",
+    "course_code": "442",
+    "credit": "3",
+    "course_name": "Lives of Chinese Books",
+    "faculty": "Faculty of Arts",
+    "description": "Concepts and methods for understanding the lives of books across time, through an examination of both the material forms of a text and its cultural reception. Focus on one major work from pre-modern China. Restricted to fourth-year Asian Studies majors."
+  },
+  "ASIA 443": {
+    "subject_code": "ASIA",
+    "course_code": "443",
+    "credit": "3",
+    "course_name": "National Narratives in Chinese Literature and Film",
+    "faculty": "Faculty of Arts",
+    "description": "Nationhood as it is constructed, deconstructed, and continuously contested in Chinese literature, film, and other media from the late imperial period to the 21st century in mainland China, Hong Kong, Taiwan, and the Chinese diaspora. Restricted to fourth-year Asian Studies."
+  },
+  "ASIA 444": {
+    "subject_code": "ASIA",
+    "course_code": "444",
+    "credit": "3-9",
+    "course_name": "Topics in Modern Japanese Fiction and Cultural History",
+    "faculty": "Faculty of Arts",
+    "description": "Focuses on a limited time period or particular aspect of modern Japanese literature."
+  },
+  "ASIA 445": {
+    "subject_code": "ASIA",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Japanese Crime Fiction",
+    "faculty": "Faculty of Arts",
+    "description": "Examines representations of crime and criminality in modern and contemporary Japanese literature. Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 447": {
+    "subject_code": "ASIA",
+    "course_code": "447",
+    "credit": "3",
+    "course_name": "Korean Women's Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Women's voices and issues in the Korean literary tradition, from earliest times to the new millennium, in translation. Recommended pre-requisites: one of ASIA 347, ASIA 357. Permission of instructor is also acceptable."
+  },
+  "ASIA 448": {
+    "subject_code": "ASIA",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Narrative and Performance in South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Key theoretical issues in the production and enactment of folk narratives in traditional and modern South Asian cultures. Intended for advanced undergraduates in Asian folklore studies. Credit will be granted for only one of ASIA 448 or ASIA 547. Recommended pre-requisite: ASIA 369."
+  },
+  "ASIA 450": {
+    "subject_code": "ASIA",
+    "course_code": "450",
+    "credit": "3-12",
+    "course_name": "Special Topics in Buddhist Studies",
+    "faculty": "Faculty of Arts",
+    "description": "For upcoming offerings, including course descriptions, please see section information in the UBC course schedule at https://courses.students.ubc.ca/cs/main."
+  },
+  "ASIA 451": {
+    "subject_code": "ASIA",
+    "course_code": "451",
+    "credit": "3",
+    "course_name": "Modern Chinese Authors in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Study of one influential modern Chinese author, such as Lu Xun, Shen Congwen, Eileen Chang, Yu Hua, Mo Yan, or Wang Anyi. Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 452": {
+    "subject_code": "ASIA",
+    "course_code": "452",
+    "credit": "3",
+    "course_name": "Literature of the Korean Diaspora",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of literature, in translation, from the Korean diaspora, focusing on writing by ethnic Koreans in North America, Europe, and Japan. Recommended pre-requisites: one of ASIA 347, ASIA 357, ASIA 447, ASIA 457."
+  },
+  "ASIA 453": {
+    "subject_code": "ASIA",
+    "course_code": "453",
+    "credit": "3",
+    "course_name": "Japanese Travel Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Japanese travel literature (myths, legends, poetry, tales, diaries, illustrated guides, satiric sermons, haiku, comic fiction, colonial reporting, and ethnography) from the 8th century to present. Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 454": {
+    "subject_code": "ASIA",
+    "course_code": "454",
+    "credit": "3",
+    "course_name": "Japanese Poetry in Translation",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to Japanese poetry from its origins in song and myth, to its development from a courtly art (waka) to a popular pastime (haiku). Influences on prose, autobiography, and theatre will also be considered."
+  },
+  "ASIA 455": {
+    "subject_code": "ASIA",
+    "course_code": "455",
+    "credit": "3",
+    "course_name": "Adaptations of Japanese Classics",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to literary, stage, and film adaptations of Japanese classics and legends and the ways in which these new works appropriate the past to comment on the present."
+  },
+  "ASIA 456": {
+    "subject_code": "ASIA",
+    "course_code": "456",
+    "credit": "3",
+    "course_name": "History and Culture of Taiwan",
+    "faculty": "Faculty of Arts",
+    "description": "The major social, economic, political, and cultural changes in Taiwan since the seventeenth century; the post-World War II process of democratization and Taiwan's place in the contemporary world."
+  },
+  "ASIA 457": {
+    "subject_code": "ASIA",
+    "course_code": "457",
+    "credit": "3",
+    "course_name": "The Modern Korean Novel",
+    "faculty": "Faculty of Arts",
+    "description": "Survey of major single-volume novels, ranging from Yi Kwang-su's Heartlessness to Ch'oe Yun's There a Petal Silently Falls, in translation. Recommended pre-requisite: ASIA 357, or permission of instructor."
+  },
+  "ASIA 458": {
+    "subject_code": "ASIA",
+    "course_code": "458",
+    "credit": "3",
+    "course_name": "Gender and Sexuality in Classical Persian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Premodern Persian texts (in translation) and construction of femininities, masculinities, and sexuality. Restricted to students with third-year standing or above."
+  },
+  "ASIA 459": {
+    "subject_code": "ASIA",
+    "course_code": "459",
+    "credit": "3",
+    "course_name": "Gender, Sexuality, and Feminism in Sikhi (the Sikh Religion)",
+    "faculty": "Faculty of Arts",
+    "description": "Gender, sexuality, and feminism in the Sikh religious tradition, surveying early modern, colonial, and post-colonial readings through Sikh religious text, ritual, and life. This course is recommended for students who have some knowledge of Sikh Studies, religious studies, and/or gender and sexuality studies. Restricted to students with second-year standing or above."
+  },
+  "ASIA 460": {
+    "subject_code": "ASIA",
+    "course_code": "460",
+    "credit": "3",
+    "course_name": "Modern Asian Women in Narrative",
+    "faculty": "Faculty of Arts",
+    "description": "Experience of women in the context of a particular Asian culture, as seen through literature, popular culture, film and folklore. Narrative as a medium for the representation and constitution of gender."
+  },
+  "ASIA 461": {
+    "subject_code": "ASIA",
+    "course_code": "461",
+    "credit": "3",
+    "course_name": "Gender and Sexuality in Modern Iranian Narratives",
+    "faculty": "Faculty of Arts",
+    "description": "Literary, cinematic, folk, and/or popular culture texts from modern Iran. Emphasis on constructions and contestations of masculinities and femininities, as they intersect with sexuality, race, ethnicity, ability, and/or religion."
+  },
+  "ASIA 462": {
+    "subject_code": "ASIA",
+    "course_code": "462",
+    "credit": "3",
+    "course_name": "Japanese Cinema and Genre",
+    "faculty": "Faculty of Arts",
+    "description": "An exploration of Japanese cinema and the relationship between film genre theories discursive constructed conventions and sociocultural norms, as well as how artists challenge those norms. Prerequisite: 3rd year standing or above. A minimum of 6 credits of 300-level ASIA coursework, particularly ASIA 354, recommended."
+  },
+  "ASIA 463": {
+    "subject_code": "ASIA",
+    "course_code": "463",
+    "credit": "3",
+    "course_name": "Japanese Documentary Media",
+    "faculty": "Faculty of Arts",
+    "description": "Historical survey of Japanese documentary film and media, including press, photography, reality TV shows, and social media. Prerequisite: Restricted to students with 2nd year standing or above."
+  },
+  "ASIA 464": {
+    "subject_code": "ASIA",
+    "course_code": "464",
+    "credit": "3",
+    "course_name": "Japanese Women's Self-Writing",
+    "faculty": "Faculty of Arts",
+    "description": "Selected aspects of the more than 1000 years of self-writing (diary, autobiography, personal fiction). Theory and criticism about the use of writing as a medium of self-expression."
+  },
+  "ASIA 465": {
+    "subject_code": "ASIA",
+    "course_code": "465",
+    "credit": "3",
+    "course_name": "Japanese Horror",
+    "faculty": "Faculty of Arts",
+    "description": "The genre of Japanese visual horror explored through formal visual literacy, genre theory, and textual analysis. Prerequisite: Second-year standing and above. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 466": {
+    "subject_code": "ASIA",
+    "course_code": "466",
+    "credit": "3",
+    "course_name": "The History of Christianity in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "A survey of Christian proselytizing drives in South, Southeast, and East Asia, focusing on the period since 1500 and the reasons for successes (the Philippines and Korea, for example) and failures (Japan). Credit will be granted for only one of ASIA_V 466 or 566."
+  },
+  "ASIA 468": {
+    "subject_code": "ASIA",
+    "course_code": "468",
+    "credit": "3",
+    "course_name": "Approaches to the Study of Asian Religions",
+    "faculty": "Faculty of Arts",
+    "description": "The Western genealogy and problematics of religion, issues in its application to non-Western cultures and traditions, and the practical study of Asian religions, in Asia and its diasporas. Restricted to fourth-year Asian Studies majors. Recommended pre-requisites: one of ASIA_V 376, ASIA_V 381, ASIA_V 382, ASIA_V 383, ASIA_V 387. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 470": {
+    "subject_code": "ASIA",
+    "course_code": "470",
+    "credit": "3",
+    "course_name": "Comparative Conceptions of the Self",
+    "faculty": "Faculty of Arts",
+    "description": "Ways in which the self has been portrayed in eastern and western religious traditions. Thinkers to be considered include Aristotle, Mencius, Freud, Xunzi (Hsn-tzu), Nietzsche, and Zhuangzi (Chuang-tzu). Credit will be granted for only one of ASIA_V 470 or PHIL_V 470. Equivalency: PHIL_V 470."
+  },
+  "ASIA 474": {
+    "subject_code": "ASIA",
+    "course_code": "474",
+    "credit": "3",
+    "course_name": "From the Chronicle to the Archive: Cultures of History in South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Examines how South Asian pasts have been memorialized in writing, from medieval chronicles to the development of history as a modern academic discipline in the nineteenth century. Credit cannot be granted for both ASIA 474 and ASIA 574."
+  },
+  "ASIA 475": {
+    "subject_code": "ASIA",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "Documenting Punjabi Canada",
+    "faculty": "Faculty of Arts",
+    "description": "Exploration of the history of the Punjabi Canadian community through traditional text-based methods and oral history collection. Credit will be granted for only one of ASIA_V 475 or HIST_V 475. Equivalency: HIST_V 475."
+  },
+  "ASIA 476": {
+    "subject_code": "ASIA",
+    "course_code": "476",
+    "credit": "3-9",
+    "course_name": "Topics in South Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Seminar class designed to explore current scholarly debates in South Asian and Sikh Studies. May be repeated for credit with permission of instructor. Credit will be granted for only one of ASIA 476 or ASIA 576. Prerequisite: Restricted to students with 2nd year standing or above."
+  },
+  "ASIA 477": {
+    "subject_code": "ASIA",
+    "course_code": "477",
+    "credit": "3",
+    "course_name": "New Religious Movements of East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Examines the rise of new religious movements in China, Japan, and Korea over the last two centuries, from the Taiping, Tonghak, and Tenri-kyo to the Unification Church, SGI International, and Falun Gong. Credit will be granted for only one of ASIA_V 477 or ASIA_V 577. Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 478": {
+    "subject_code": "ASIA",
+    "course_code": "478",
+    "credit": "3",
+    "course_name": "The Religious Image in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "The religious image and related material culture within Buddhism, Islam, Jainism, Hinduism, Christianity, and Sikhism with special attention to methodological concerns. Credit will be granted for only one of ASIA 478 or ASIA 578. Prerequisite: Restricted to students with 2nd year standing or above."
+  },
+  "ASIA 484": {
+    "subject_code": "ASIA",
+    "course_code": "484",
+    "credit": "3",
+    "course_name": "The History of the Choson Dynasty",
+    "faculty": "Faculty of Arts",
+    "description": "Political, social, and cultural history of Korea's Choson Dynasty, focusing on how it lasted from 1392 to 1910 and why it collapsed so quickly at the beginning of the twentieth century. Credit will be granted for only one of ASIA 484 or ASIA 587."
+  },
+  "ASIA 485": {
+    "subject_code": "ASIA",
+    "course_code": "485",
+    "credit": "3",
+    "course_name": "Inventing Asian Religions in the West/East Encounter",
+    "faculty": "Faculty of Arts",
+    "description": "An examination of how western imperial expansion transformed the descriptions and practices of Asian traditions through systems of classification, missionaries, discovery of languages, modernity, and fragmentation."
+  },
+  "ASIA 488": {
+    "subject_code": "ASIA",
+    "course_code": "488",
+    "credit": "3",
+    "course_name": "Religion, Society and State in Modern India",
+    "faculty": "Faculty of Arts",
+    "description": "History of secular and religious discourse in post-independent India. Partition, state policy of secularism, religious mobilization among Hindus and Muslims, communal violence and religious radicalism."
+  },
+  "ASIA 490": {
+    "subject_code": "ASIA",
+    "course_code": "490",
+    "credit": "3",
+    "course_name": "Asian Classics - Fourth Year Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Focus changes from year to year. Restricted to fourth-year Asian Studies majors."
+  },
+  "ASIA 491": {
+    "subject_code": "ASIA",
+    "course_code": "491",
+    "credit": "3",
+    "course_name": "India and the Persianate World",
+    "faculty": "Faculty of Arts",
+    "description": "Histories of Muslim Empires, spanning Iran, India and Central Asia, from 1000-1800 CE. Examined through the conceptual lens of the Persianate World with emphasis on Persianate culture and power in South Asia. Restricted to fourth-year Asian Studies majors."
+  },
+  "ASIA 495": {
+    "subject_code": "ASIA",
+    "course_code": "495",
+    "credit": "3",
+    "course_name": "Folk Cultures in the Asian Diaspora",
+    "faculty": "Faculty of Arts",
+    "description": "The mediation of folklore (e.g. slang, songs, games, dance, foodways) in the everyday lives of immigrant and transnational Asian communities. Emphasis on Asian-Canadian folklore in Greater Vancouver through digital documentary media production and archival folklore research. Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 498": {
+    "subject_code": "ASIA",
+    "course_code": "498",
+    "credit": "3",
+    "course_name": "Asia in Museums and Beyond",
+    "faculty": "Faculty of Arts",
+    "description": "Museological representations of Asia and Asian forms of museological representation in colonial and post-colonial contexts. Credit will be granted for only one of ASIA_V 498 or ASIA_V 598. Restricted to fourth-year Asian Studies majors. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 499": {
+    "subject_code": "ASIA",
+    "course_code": "499",
+    "credit": "3",
+    "course_name": "Honours Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "Restricted to fourth-year students admitted to the Honours Program in Asian Studies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 501": {
+    "subject_code": "ASIA",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Research Methods and Source Materials in Classical Chinese Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 502": {
+    "subject_code": "ASIA",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Modern Chinese Fiction in Global Perspective",
+    "faculty": "Faculty of Arts",
+    "description": "Modern Chinese literature in relation to concepts such as world literature, the Sinophone, nationalism, cosmopolitanism, globalization, and critical theory. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 503": {
+    "subject_code": "ASIA",
+    "course_code": "503",
+    "credit": "3-6",
+    "course_name": "Problems in the History of the Chinese Language",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 504": {
+    "subject_code": "ASIA",
+    "course_code": "504",
+    "credit": "3-18",
+    "course_name": "Texts in Ancient Chinese Scripts",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 505": {
+    "subject_code": "ASIA",
+    "course_code": "505",
+    "credit": "3-9",
+    "course_name": "Critical Approaches to Hong Kong Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 506": {
+    "subject_code": "ASIA",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Topics in Chinese Linguistics and Sociolinguistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 507": {
+    "subject_code": "ASIA",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Topics in Chinese Applied Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 508": {
+    "subject_code": "ASIA",
+    "course_code": "508",
+    "credit": "3-18",
+    "course_name": "Topics in Pre-modern Chinese History and Institutions",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 509": {
+    "subject_code": "ASIA",
+    "course_code": "509",
+    "credit": "3-18",
+    "course_name": "Aspects of Chinese Popular Thought and Religion",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 510": {
+    "subject_code": "ASIA",
+    "course_code": "510",
+    "credit": "3-6",
+    "course_name": "Monastic Biography and Hagiography in East Asian Buddhism",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 511": {
+    "subject_code": "ASIA",
+    "course_code": "511",
+    "credit": "3-18",
+    "course_name": "Readings in Chinese Religious Texts",
+    "faculty": "Faculty of Arts",
+    "description": "Selected readings from primary texts in Confucianism, Taoism and Buddhism, and popular religion. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 512": {
+    "subject_code": "ASIA",
+    "course_code": "512",
+    "credit": "3-18",
+    "course_name": "Advanced Readings in Classical Chinese",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 513": {
+    "subject_code": "ASIA",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Topics in Classical Chinese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 514": {
+    "subject_code": "ASIA",
+    "course_code": "514",
+    "credit": "3-18",
+    "course_name": "Topics in Modern Chinese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 515": {
+    "subject_code": "ASIA",
+    "course_code": "515",
+    "credit": "3-18",
+    "course_name": "Topics in Early Vernacular Modern Chinese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 516": {
+    "subject_code": "ASIA",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Race and Ethnicity in Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 517": {
+    "subject_code": "ASIA",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Chinese Media Studies: Theories and Histories",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 518": {
+    "subject_code": "ASIA",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "New Media and Asia",
+    "faculty": "Faculty of Arts",
+    "description": "New media theory, technologies, industries, cultures, and analytical practices with a focus on transnational Asian interactive media such as video games, mobile apps, social media, video streaming sites and services, and online fan networks. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 519": {
+    "subject_code": "ASIA",
+    "course_code": "519",
+    "credit": "3",
+    "course_name": "Popular Cultures in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Critical engagement with different disciplinary approaches to the study of Asian popular cultures. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 521": {
+    "subject_code": "ASIA",
+    "course_code": "521",
+    "credit": "3-6",
+    "course_name": "Research Methods and Source Materials in Japanese Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 522": {
+    "subject_code": "ASIA",
+    "course_code": "522",
+    "credit": "3-6",
+    "course_name": "Readings in Kambun Kundoku",
+    "faculty": "Faculty of Arts",
+    "description": "Recommended pre-requisite: one of JAPN_V 423, JAPN_V 312, or placement approval. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 523": {
+    "subject_code": "ASIA",
+    "course_code": "523",
+    "credit": "3-18",
+    "course_name": "Topics in the History and Structure of the Japanese Language",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 524": {
+    "subject_code": "ASIA",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Japanese for Specialists of China and Korea",
+    "faculty": "Faculty of Arts",
+    "description": "Reading seminar in Japanese scholarly material dealing with China and/or Korea for graduate students who have a reading knowledge of Chinese and/or Korean and some knowledge of Japanese. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 525": {
+    "subject_code": "ASIA",
+    "course_code": "525",
+    "credit": "3-18",
+    "course_name": "Topics in the Social History of Japanese Religions",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 528": {
+    "subject_code": "ASIA",
+    "course_code": "528",
+    "credit": "3-18",
+    "course_name": "Problems of Japanese Intellectual History",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 532": {
+    "subject_code": "ASIA",
+    "course_code": "532",
+    "credit": "3-18",
+    "course_name": "Topics in Traditional Japanese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 533": {
+    "subject_code": "ASIA",
+    "course_code": "533",
+    "credit": "3-18",
+    "course_name": "Topics in Modern Japanese Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 535": {
+    "subject_code": "ASIA",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Japanese Cinema Studies: Theory and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 541": {
+    "subject_code": "ASIA",
+    "course_code": "541",
+    "credit": "3-18",
+    "course_name": "Research Methods and Source Materials in South Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 543": {
+    "subject_code": "ASIA",
+    "course_code": "543",
+    "credit": "3-18",
+    "course_name": "Topics in the History and Structure of Indian Languages",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 546": {
+    "subject_code": "ASIA",
+    "course_code": "546",
+    "credit": "3-18",
+    "course_name": "Topics in South Asian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 547": {
+    "subject_code": "ASIA",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Narrative Theory and South Asian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 550": {
+    "subject_code": "ASIA",
+    "course_code": "550",
+    "credit": "3-18",
+    "course_name": "Topics in Early South Asian Civilizations",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 551": {
+    "subject_code": "ASIA",
+    "course_code": "551",
+    "credit": "3-18",
+    "course_name": "Topics in Asian Religions",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 552": {
+    "subject_code": "ASIA",
+    "course_code": "552",
+    "credit": "3-18",
+    "course_name": "Topics in Asian Visual and Material Culture",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 553": {
+    "subject_code": "ASIA",
+    "course_code": "553",
+    "credit": "3-9",
+    "course_name": "Topics in Indigenous Asia",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 561": {
+    "subject_code": "ASIA",
+    "course_code": "561",
+    "credit": "3-18",
+    "course_name": "Problems of Modernization in Eastern and Southern Asia",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 562": {
+    "subject_code": "ASIA",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Buddhism, Modernity, and the Nation-State in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 566": {
+    "subject_code": "ASIA",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "History of Christianity in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 570": {
+    "subject_code": "ASIA",
+    "course_code": "570",
+    "credit": "3-18",
+    "course_name": "Approaches to Asian Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 574": {
+    "subject_code": "ASIA",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "From the Chronicle to the Archive: Cultures of History in South Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Examines how South Asian pasts have been memorialized in writing, from medieval chronicles to the development of history as a modern academic discipline in the nineteenth century. Credit will be granted for only one of ASIA_V 474 or ASIA_V 574. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 576": {
+    "subject_code": "ASIA",
+    "course_code": "576",
+    "credit": "3-9",
+    "course_name": "Topics in South Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 577": {
+    "subject_code": "ASIA",
+    "course_code": "577",
+    "credit": "3",
+    "course_name": "New Religious Movements Of East Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ASIA_V 477 or ASIA_V 577. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 578": {
+    "subject_code": "ASIA",
+    "course_code": "578",
+    "credit": "3",
+    "course_name": "The Religious Image in Asia - Graduate Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ASIA_V 478 or ASIA_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 580": {
+    "subject_code": "ASIA",
+    "course_code": "580",
+    "credit": "3-6",
+    "course_name": "Directed Readings",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 581": {
+    "subject_code": "ASIA",
+    "course_code": "581",
+    "credit": "3-18",
+    "course_name": "Research Methods and Source Materials in Korean Studies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 582": {
+    "subject_code": "ASIA",
+    "course_code": "582",
+    "credit": "3-6",
+    "course_name": "History and Structure of the Korean Language",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 583": {
+    "subject_code": "ASIA",
+    "course_code": "583",
+    "credit": "3-12",
+    "course_name": "Topics in Modern Korean Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 584": {
+    "subject_code": "ASIA",
+    "course_code": "584",
+    "credit": "3-12",
+    "course_name": "Topics in Traditional Korean Literature",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 587": {
+    "subject_code": "ASIA",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "The Choson Dynasty",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ASIA_V 587 or ASIA_V 484. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 590": {
+    "subject_code": "ASIA",
+    "course_code": "590",
+    "credit": "3-12",
+    "course_name": "Theories & Methods Thinking with the Body Embodied Cognition and the Study of Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Focus changes from year to year, please check the Department website for current course syllabi. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 591": {
+    "subject_code": "ASIA",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Critical Issues in Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Proseminar introducing major methodological and conceptual themes in the contemporary study of Asia, modern and pre-modern. Required of all Asian Studies Ph.D. students, normally in their first year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 592": {
+    "subject_code": "ASIA",
+    "course_code": "592",
+    "credit": "3",
+    "course_name": "The Profession of Asian Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to essential skills for academic and professional work in Asian Studies. Outlines career trajectories in the Ph.D. and beyond, including grant applications, cv-writing, and job searches. Required of Asian Studies Ph.D. students, normally in their first year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 598": {
+    "subject_code": "ASIA",
+    "course_code": "598",
+    "credit": "3",
+    "course_name": "Asia in Museums and Beyond",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of ASIA_V 498 or ASIA_V 598. This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 599": {
+    "subject_code": "ASIA",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "ASIA 699": {
+    "subject_code": "ASIA",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "In Chinese, Japanese, Korean, or South Asian Studies only. This course is not eligible for Credit/D/Fail grading."
+  }
+}

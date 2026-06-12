@@ -1,0 +1,42 @@
+{
+  "GSAT 502": {
+    "subject_code": "GSAT",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Advanced Concepts in Genome Science and Technology",
+    "faculty": "Faculty of Science",
+    "description": "Current approaches to high-throughput, system-wide analysis, and manipulation of biological systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GSAT 503": {
+    "subject_code": "GSAT",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Directed Studies in Genome Science and Technology",
+    "faculty": "Faculty of Science",
+    "description": "Advanced study under the direction of a faculty member composed of laboratory sessions and/or directed readings related to selected areas of genome science and technology. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GSAT 540": {
+    "subject_code": "GSAT",
+    "course_code": "540",
+    "credit": "1-3",
+    "course_name": "Statistical Methods for High Dimensional Biology",
+    "faculty": "Faculty of Science",
+    "description": "Equivalency: STAT_V 540, BIOF_V 540. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GSAT 599": {
+    "subject_code": "GSAT",
+    "course_code": "599",
+    "credit": "18",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "GSAT 699": {
+    "subject_code": "GSAT",
+    "course_code": "699",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

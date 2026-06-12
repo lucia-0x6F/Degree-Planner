@@ -1,0 +1,114 @@
+{
+  "NRES 100": {
+    "subject_code": "NRES",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Pursuing Innovative Solutions to Big Questions",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Multidisciplinary approaches to solving pressing challenges in natural resources. Diversifying perspectives of natural resources and land stewardship. Skill-building in written and verbal communication, collaboration, and critical thinking."
+  },
+  "NRES 103": {
+    "subject_code": "NRES",
+    "course_code": "103",
+    "credit": "1",
+    "course_name": "Pathways in Natural Resources",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Exploration of disciplines within natural resources, including majors in the B.Sc. in Natural Resources degree, potential career pathways, and post-graduate education options."
+  },
+  "NRES 110": {
+    "subject_code": "NRES",
+    "course_code": "110",
+    "credit": "4",
+    "course_name": "Land One: First-year Integrative Seminar",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Current issues and cases in Forestry and Land and Food Systems are examined with a focus on integration of first-year subjects and exposure to both First Nations and Western perspectives. [2-0-1;2-0-1] Equivalency: LFS_V 110, FRST_V 110. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRES 150": {
+    "subject_code": "NRES",
+    "course_code": "150",
+    "credit": "3",
+    "course_name": "Scholarly Writing and Argumentation in Natural Resources",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Communicating concepts of forestry and links to human and environmental activities through writing, elements of argumentation, evaluating evidence, and searching for and citing references to back up claims; small-class experience. Credit will be granted for only one of NRES_V 150 or FRST_V 150 or LFS_V 150. [3-0-0]. Equivalency: FRST_V 150, LFS_V 150. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRES 200": {
+    "subject_code": "NRES",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Forest Plant Biology I",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The structure, diversity and development of trees and other plants, with emphasis on the angiosperms. Credit will be granted for only one of NRES_V 200 or FRST_V 200. [3-2-0] Prerequisite: BIOL_V 121. Equivalency: FRST_V 200"
+  },
+  "NRES 201": {
+    "subject_code": "NRES",
+    "course_code": "201",
+    "credit": "3",
+    "course_name": "Forest Ecology",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The structure and function of forest ecosystems, including: energetics; productivity; nutrient, carbon and water cycling; soils; the physical environment; population and community ecology; disturbance ecology; ecological succession; biological diversity and ecological resilience. Credit will be granted for only one of NRES_V 201 or FRST_V 201. [3-2-0] Corequisite: One of NRES_V 200, FRST_V 200. Equivalency: FRST_V 201"
+  },
+  "NRES 210": {
+    "subject_code": "NRES",
+    "course_code": "210",
+    "credit": "3",
+    "course_name": "Forest Plant Biology II",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "The functional biology of trees and other forest plants in their environment, with an emphasis on gymnosperms. Credit will be granted for only one of NRES_V 210 or FRST_V 210. [3-2-0] Prerequisite: One of NRES_V 200, FRST_V 200. Equivalency: FRST_V 210"
+  },
+  "NRES 211": {
+    "subject_code": "NRES",
+    "course_code": "211",
+    "credit": "3",
+    "course_name": "Forest Classification and Silvics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Forest classification and the application of silvics in forest management, including world forest classification systems, the Biogeoclimactic Ecosystem Classification system, and ecosystem diagnosis in the field. Credit will be granted for only one of NRES_V 211 or FRST_V 211. [3-2-0] Prerequisite: One of NRES_V 201, FRST_V 201. Equivalency: FRST_V 211"
+  },
+  "NRES 225": {
+    "subject_code": "NRES",
+    "course_code": "225",
+    "credit": "3",
+    "course_name": "Communications Strategies",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Strategies for thinking critically and writing effectively about topics that engage practitioners in Forestry. Planning, drafting and editing of professional-quality documents for specialists and other stakeholders. Developing oral presentation skills. Credit will be granted for only one of NRES_V 225 or WOOD_V 225. [3-0-0]. Prerequisite: Three credits of first-year English. Equivalency: WOOD_V 225. This course is not eligible for Credit/D/Fail grading."
+  },
+  "NRES 231": {
+    "subject_code": "NRES",
+    "course_code": "231",
+    "credit": "3",
+    "course_name": "Introduction to Biometrics",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Basic theories of probability and statistics. Sampling distribution, methods of estimation and hypothesis testing; goodness of fit and tests for independence; analysis of variance, regression and correlation. Consult the Faculty of Science Credit Exclusion Lists: https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult…. Credit will be granted for only one of NRES_V 231 or FRST_V 231. [3-2-0] Corequisite: One of MATH_V 100, MATH_V 180, MATH_V 184, MATH_V 190. Equivalency: FRST_V 231"
+  },
+  "NRES 232": {
+    "subject_code": "NRES",
+    "course_code": "232",
+    "credit": "3",
+    "course_name": "Computer Applications in Natural Resources",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Techniques involved in solving forestry problems with microcomputers using word processing, spreadsheet, procedural language, and database management tools. Credit will be granted for only one of NRES_V 232 or FRST_V 232. [3-2] Equivalency: FRST_V 232"
+  },
+  "NRES 241": {
+    "subject_code": "NRES",
+    "course_code": "241",
+    "credit": "3",
+    "course_name": "Introduction to Geomatics for Natural Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Introduction to spatial thinking and principles of Geographic Information Systems (GIS) and remote sensing for natural resource management. Priority enrolment to students in the Faculty of Forestry and Environmental Stewardship. Prerequisite: Second-year standing."
+  },
+  "NRES 341": {
+    "subject_code": "NRES",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Intermediate Geomatics for Natural Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Applications of remote sensing, image analysis, advanced spatial analysis and geoprocessing for natural resource management. Priority enrolment to students in the Faculty of Forestry and Environmental Stewardship. Students may receive credit for only one of NRES_V 341 or FRST_V 443. Third-year standing. Prerequisite: NRES_V 241."
+  },
+  "NRES 441": {
+    "subject_code": "NRES",
+    "course_code": "441",
+    "credit": "3",
+    "course_name": "Advanced Geomatics for Natural Resource Management",
+    "faculty": "Faculty of Forestry and Environmental Stewardship",
+    "description": "Advanced applications of remote sensing, image analysis, spatial analysis and geoprocessing for natural resource management. Priority enrolment to students in the Faculty of Forestry and Environmental Stewardship. Fourth-year standing. Prerequisite: One of FRST_V 443 or NRES_V 341."
+  }
+}

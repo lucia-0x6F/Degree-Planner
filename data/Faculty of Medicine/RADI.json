@@ -1,0 +1,42 @@
+{
+  "RADI 702": {
+    "subject_code": "RADI",
+    "course_code": "702",
+    "credit": "0",
+    "course_name": "Clinical Investigation or Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Each resident is encouraged to complete an investigative project in each of the four years in Radiology, under the supervision of a faculty member, for possible presentation at an annual department meeting. Average 80 hours each year. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RADI 710": {
+    "subject_code": "RADI",
+    "course_code": "710",
+    "credit": "0",
+    "course_name": "Clinical Nuclear Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Daily discussions of the clinical applications of nuclear medicine. See PATH 730. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RADI 711": {
+    "subject_code": "RADI",
+    "course_code": "711",
+    "credit": "0",
+    "course_name": "Progress in Nuclear Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Weekly reviews of current literature topics in nuclear medicine. See PATH 731. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RADI 712": {
+    "subject_code": "RADI",
+    "course_code": "712",
+    "credit": "0",
+    "course_name": "Clinical Investigation/Research",
+    "faculty": "Faculty of Medicine",
+    "description": "Participation in ongoing research projects within the division. See PATH 732. This course is not eligible for Credit/D/Fail grading."
+  },
+  "RADI 713": {
+    "subject_code": "RADI",
+    "course_code": "713",
+    "credit": "0",
+    "course_name": "Audit in Nuclear Medicine",
+    "faculty": "Faculty of Medicine",
+    "description": "Review of diagnostic nuclear medicine procedure, correlation with other diagnostic tests, and final patient diagnosis. Also offered as PATH 733. This course is not eligible for Credit/D/Fail grading."
+  }
+}

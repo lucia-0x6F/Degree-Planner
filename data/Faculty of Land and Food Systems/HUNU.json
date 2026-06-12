@@ -1,0 +1,218 @@
+{
+  "HUNU 500": {
+    "subject_code": "HUNU",
+    "course_code": "500",
+    "credit": "3",
+    "course_name": "Research Methods in Human Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Experimental design, methods of survey research, nutritional epidemiology, clinical research, and laboratory animal research. Issues such as animal models, ethics in animal and human research, statistical methods, and preparation of written reports and manuscripts, etc., will be addressed. Required of all M.Sc. and Ph.D. students in Human Nutrition. [3-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 503": {
+    "subject_code": "HUNU",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Current Issues in Nutrition and Metabolism",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 505": {
+    "subject_code": "HUNU",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Current Issues in Applied Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 510": {
+    "subject_code": "HUNU",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "Nutrition Assessment Across the Lifespan",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 515": {
+    "subject_code": "HUNU",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Business & Entrepreneurship in Dietetics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 525": {
+    "subject_code": "HUNU",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Indigenous Health in Dietetics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 531": {
+    "subject_code": "HUNU",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "M.Sc. Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 540": {
+    "subject_code": "HUNU",
+    "course_code": "540",
+    "credit": "4.5",
+    "course_name": "Advances in Food Theory and Applications",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics graduate program. [1.5-3-0]. Corequisite: All of HUNU_V 545, HUNU_V 573. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 541": {
+    "subject_code": "HUNU",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Food Provision and Management in Dietetics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics graduate program. [3-0-0]. Prerequisite: All of HUNU_V 540, HUNU_V 573, HUNU_V 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 542": {
+    "subject_code": "HUNU",
+    "course_code": "542",
+    "credit": "6",
+    "course_name": "Dietetics Practice Education Placement III.I Management",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placement in management and leadership settings across British Columbia. Restricted to students in the Master of Nutrition and Dietetics program. Pass/fail. Prerequisite: All of HUNU_V 541, HUNU_V 578, HUNU_V 580, HUNU_V 581. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 545": {
+    "subject_code": "HUNU",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Counselling Skills in Dietetics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics graduate program. [3-0-0]. Prerequisite: HUNU_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 547": {
+    "subject_code": "HUNU",
+    "course_code": "547",
+    "credit": "2-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "In special cases, directed studies on certain aspects of nutrition may be arranged for graduate students in attendance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 549": {
+    "subject_code": "HUNU",
+    "course_code": "549",
+    "credit": "18",
+    "course_name": "M.Sc. Thesis",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 550": {
+    "subject_code": "HUNU",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Advances in Human Nutrition",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "[3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 560": {
+    "subject_code": "HUNU",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Leadership in Dietetics and Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics graduate program. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 573": {
+    "subject_code": "HUNU",
+    "course_code": "573",
+    "credit": "3",
+    "course_name": "Population and Public Health Dietetics",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics graduate program. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 575": {
+    "subject_code": "HUNU",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Nutrition Care I",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics graduate program. [3-0-0] Prerequisite: All of HUNU_V 500, HUNU_V 510, HUNU_V 550. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 576": {
+    "subject_code": "HUNU",
+    "course_code": "576",
+    "credit": "4",
+    "course_name": "Nutrition Care II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics program. [3-0-1] Prerequisite: All of HUNU_V 500, HUNU_V 575, HUNU_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 577": {
+    "subject_code": "HUNU",
+    "course_code": "577",
+    "credit": "4",
+    "course_name": "Nutrition Care III",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics program. [3-0-1] Prerequisite: All of HUNU_V 545, HUNU_V 573, HUNU_V 575, HUNU_V 576, HUNU_V 578. Corequisite: HUNU_V 525. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 578": {
+    "subject_code": "HUNU",
+    "course_code": "578",
+    "credit": "6",
+    "course_name": "Dietetics Practice Education Placement I.I Introduction to Nutrition Care",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "First practice education placement in clinical settings across British Columbia. Restricted to students in the Master of Nutrition and Dietetics program. Pass/fail. Prerequisite: All of HUNU_V 545, HUNU_V 575. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 579": {
+    "subject_code": "HUNU",
+    "course_code": "579",
+    "credit": "6",
+    "course_name": "Dietetics Practice Education Placement I.II Population Health",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placement in public health and/or community settings across British Columbia. Restricted to students in the Master of Nutrition and Dietetics program. Pass/fail. Prerequisite: All of HUNU_V 540, HUNU_V 573. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 580": {
+    "subject_code": "HUNU",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Professional Dietetic Practice II",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics program. Pass/fail. Prerequisite: All of FNH_V 380, HUNU_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 581": {
+    "subject_code": "HUNU",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Dietetics Practice Education Placement II Research Capstone",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Restricted to students in the Master of Nutrition and Dietetics program. Prerequisite: All of HUNU_V 500, HUNU_V 578. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 582": {
+    "subject_code": "HUNU",
+    "course_code": "582",
+    "credit": "6",
+    "course_name": "Dietetics Practice Education Placement III.II Nutrition Care",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Practice education placement in clinical settings across British Columbia. Restricted to students in the Master of Nutrition and Dietetics program. Pass/fail. Prerequisite: All of HUNU_V 578, HUNU_V 580, HUNU_V 581. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 583": {
+    "subject_code": "HUNU",
+    "course_code": "583",
+    "credit": "12",
+    "course_name": "Dietetics Practice Education Placement IV Nutrition Care",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "Final clinical practice education placements in clinical settings across British Columbia. Restricted to students in the Master of Nutrition and Dietetics program. Pass/fail. Prerequisite: HUNU_V 582. This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 631": {
+    "subject_code": "HUNU",
+    "course_code": "631",
+    "credit": "3",
+    "course_name": "Ph.D. Seminar",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "HUNU 649": {
+    "subject_code": "HUNU",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Land and Food Systems",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

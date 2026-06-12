@@ -1,0 +1,18 @@
+{
+  "SWAH 101": {
+    "subject_code": "SWAH",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Beginners' Swahili I",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in listening to and speaking Swahili, a major language of Africa and one of the most widely spoken languages in the world. Emphasizes everyday vocabulary, core grammar, use in context, and connections between the language and African cultures."
+  },
+  "SWAH 102": {
+    "subject_code": "SWAH",
+    "course_code": "102",
+    "credit": "3",
+    "course_name": "Beginners' Swahili II",
+    "faculty": "Faculty of Arts",
+    "description": "Skills in using Swahili in a range of social contexts. Training in grammar and vocabulary that builds fluency, and in using the language appropriately for meaningful interactions with native speakers. Prerequisite: SWAH 101. or equivalent."
+  }
+}

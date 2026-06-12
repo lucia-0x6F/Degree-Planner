@@ -1,0 +1,378 @@
+{
+  "PPGA 310": {
+    "subject_code": "PPGA",
+    "course_code": "310",
+    "credit": "3",
+    "course_name": "Designing for Global Community Development",
+    "faculty": "Faculty of Arts",
+    "description": "Design methodologies for exploring global community development processes relating to achieving the global Sustainable Development Goals. Prerequisite: Second year standing or higher."
+  },
+  "PPGA 391": {
+    "subject_code": "PPGA",
+    "course_code": "391",
+    "credit": "1.5-9",
+    "course_name": "Topics in Public Policy and Global Affairs",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Offerings respond to current policy debates, topics of emerging interest, and interest in specific regions or countries."
+  },
+  "PPGA 500": {
+    "subject_code": "PPGA",
+    "course_code": "500",
+    "credit": "3-6",
+    "course_name": "Economics for Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental principles of economics applied to public policy and global affairs. Credit will be granted for only one of PPGA_V 500 or both PPGA_V 501, PPGA_V 502 or both GPP_V 501, GPP_V 502. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 503": {
+    "subject_code": "PPGA",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Measurement and Data Analysis for Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental quantitative tools for policy analysis and program evaluation, including measurement, data visualization, and regression analysis. Introduction of skills for the design and implementation of quantitative policy analysis. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 504": {
+    "subject_code": "PPGA",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Policy Analysis and Evaluation",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamentals of policy analysis and program evaluation for a professional context. Standard tools of policy analysis, risk assessment, and evaluation to design policy interventions and implement monitoring and evaluation systems for effectiveness. Case studies for government, international organizations, and NGOs. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 505": {
+    "subject_code": "PPGA",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Domestic and Global Policy Processes",
+    "faculty": "Faculty of Arts",
+    "description": "Theories and frameworks related to policy-making processes at both the domestic and global levels. Agenda setting, policy formulation and stakeholder engagement, decision-making, policy implementation, and policy evaluation. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 506": {
+    "subject_code": "PPGA",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Public Management",
+    "faculty": "Faculty of Arts",
+    "description": "Governmental implementation and delivery of public policy. Variations in international practice, the growing interdependence of governments, firms and non-government organizations. Complexities of multi-level governance including control and accountability of governments. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 507": {
+    "subject_code": "PPGA",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Environmental Law and Policy Frameworks",
+    "faculty": "Faculty of Arts",
+    "description": "Environmental law and policy creation, implementation, and enforcement at the international, national, and sub-national levels. Evolution of environmental law and policy, legal institutions, and major areas of law relating to ecological sustainability. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 508": {
+    "subject_code": "PPGA",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Policy in Context",
+    "faculty": "Faculty of Arts",
+    "description": "Analytical tools for assessing policy in different cultural contexts, inter-cultural communication skills, ethics, and effective community engagement in policy work. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 509": {
+    "subject_code": "PPGA",
+    "course_code": "509",
+    "credit": "1.5",
+    "course_name": "Communicating Policy",
+    "faculty": "Faculty of Arts",
+    "description": "The role of media, especially new media, in effectively communicating policy to stakeholders. Focus on communications formats including written, oral, and multimedia policy communications. Examples include policy briefs, presentations, and intercultural communications. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 510": {
+    "subject_code": "PPGA",
+    "course_code": "510",
+    "credit": "1.5",
+    "course_name": "Professional Practice in Public Policy and Global Affairs",
+    "faculty": "Faculty of Arts",
+    "description": "Analysis of professional practice in policy and global affairs, including potential alignment with personal values, strengths, and education. Development of essential professional skills including teamwork and project management. Pass/Fail. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 511": {
+    "subject_code": "PPGA",
+    "course_code": "511",
+    "credit": "1.5",
+    "course_name": "Leadership for Policy Professionals",
+    "faculty": "Faculty of Arts",
+    "description": "Practical leadership skills and competencies for policy professionals bridging theory to principles and practices in an interactive studio setting. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 514": {
+    "subject_code": "PPGA",
+    "course_code": "514",
+    "credit": "1.5-3",
+    "course_name": "Research Design and Qualitative Methods",
+    "faculty": "Faculty of Arts",
+    "description": "Research design principles and ethics. Methods for qualitative data collection and analysis to inform policy decision making. Focus on participant-observation, interviewing, focus groups, content and gender-based analysis. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 520": {
+    "subject_code": "PPGA",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Economics of Poverty",
+    "faculty": "Faculty of Arts",
+    "description": "Micro-scale processes of development, including the challenges posed by persistent poverty, and ground-level development solutions. Measurement and empirical evaluation of development interventions and outcomes. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 521": {
+    "subject_code": "PPGA",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "Development and Institutions",
+    "faculty": "Faculty of Arts",
+    "description": "Introduction to macro-level long-term development processes by which societies improve their standards of living. Development theories, historical drivers; present debates; when and how public policies can best enable economic development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 522": {
+    "subject_code": "PPGA",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Development Discourses and Practices",
+    "faculty": "Faculty of Arts",
+    "description": "The meaning of development and micro/macro aspects of policy planning and implementation for development. The rise of development thought; assessment of the outcomes of development for different countries and communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 523": {
+    "subject_code": "PPGA",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Economic Change and Reforms in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Trajectories and current puzzles in East Asian political economy in Japan, Korea, China, and South East Asia. Political economic institutions, dynamics and sustainability; integration of China and India into the world economy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 524": {
+    "subject_code": "PPGA",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Legal Change and Sustainability Challenges in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Impact of legal reform efforts on political, socio-economic and cultural change in selected economies of Asia. Relationships between changes in legal institutions, doctrines, and processes. Addressing sustainability challenges in human, natural and built environments. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 525": {
+    "subject_code": "PPGA",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Social Policy Responses to Rapid Development",
+    "faculty": "Faculty of Arts",
+    "description": "Prevalent social issues in Asia. Policy responses in Asian countries have been formulated in education, housing, welfare, and public health in response to the social dislocation that accompanies rapid development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 526": {
+    "subject_code": "PPGA",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Challenges of Urbanization",
+    "faculty": "Faculty of Arts",
+    "description": "Spatial development, housing, infrastructure and local environments and the administrative and regulatory implications of urbanization. Interactions between bio-physical requisites of urbanization and structures and processes of governance which shape their provision. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 527": {
+    "subject_code": "PPGA",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Corporate Social Responsibility",
+    "faculty": "Faculty of Arts",
+    "description": "Policy debates surrounding Corporate Social Responsibility including: voluntary regulation initiatives; responsibility to stakeholders in global supply chains; public-private partnerships; socially responsible investing; transparency; and protection of human rights. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 528": {
+    "subject_code": "PPGA",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Emerging Powers",
+    "faculty": "Faculty of Arts",
+    "description": "Contemporary power shifts in the global political economy, and the agendas and impact of emerging powers in global politics, economics and governance. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 540": {
+    "subject_code": "PPGA",
+    "course_code": "540",
+    "credit": "3",
+    "course_name": "Tools and Techniques for Sustainability Assessment",
+    "faculty": "Faculty of Arts",
+    "description": "Environmental and socio-economic outcomes of projects and policies including: systems modelling and dynamics; life-cycle and risk assessment; cost-benefit and decision analysis; valuation of ecosystem services; and critical appraisals of socio-economic valuation approaches that form the basis of policy assessments. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 541": {
+    "subject_code": "PPGA",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "Policy Dimensions of Energy Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Energy sources, markets, and impacts critical to energy policy, including oil, natural gas and coal markets; electricity and utilities policy; local and global environmental impacts; renewable energy; nuclear power and security; energy efficiency; technological innovation; and energy poverty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 542": {
+    "subject_code": "PPGA",
+    "course_code": "542",
+    "credit": "3",
+    "course_name": "Science, Technology, and Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Role and influence of science and technology in society, and its relationship to public policy development including: history and economics of technological change. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 543": {
+    "subject_code": "PPGA",
+    "course_code": "543",
+    "credit": "3",
+    "course_name": "Sustainable Water Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Valuing, managing and sustaining water systems for agriculture, industry, the built environment, recreation and ecosystems including: service delivery, government intervention and policy responses; interrelationship between water and sanitation, resource recovery, and relationships between water systems and human development. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 544": {
+    "subject_code": "PPGA",
+    "course_code": "544",
+    "credit": "3",
+    "course_name": "Economic Foundations of Environmental Policies",
+    "faculty": "Faculty of Arts",
+    "description": "Environmental and natural resource economics: externalities, property rights, public goods, market failure, inter-generational trade-offs, and optimal extraction of biological and depletable resources. Environmental regulation, industrial competitiveness, and distribution of income and welfare. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 545": {
+    "subject_code": "PPGA",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Ecology for Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Ecological systems for diverse policy contexts including: health, agriculture, water, resource management, tourism, spatial planning, and conservation. Innovative progress from policies and policy frameworks that better reflect ecological dynamics, and the design of appropriate policy and governance responses. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 555": {
+    "subject_code": "PPGA",
+    "course_code": "555",
+    "credit": "1-3",
+    "course_name": "Asia Policy Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Practice-oriented course focused on current topics affecting policy in Asia. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 560": {
+    "subject_code": "PPGA",
+    "course_code": "560",
+    "credit": "3",
+    "course_name": "Global Governance: Frameworks and Policy Debates",
+    "faculty": "Faculty of Arts",
+    "description": "Policy-making at the global level, including theories and frameworks of global coordination and global governance. Global, regional, and sub-regional mechanisms. Trade, finance, climate, food regulation, developmental norms, and security. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 561": {
+    "subject_code": "PPGA",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Impact of Globalization on Societies",
+    "faculty": "Faculty of Arts",
+    "description": "Definitions of globalization and overview globalization theories; specific causes, effects, and responses of globalization in various Asian countries. Globalization in its political, social, and economic dimensions in migration and norm diffusion. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 562": {
+    "subject_code": "PPGA",
+    "course_code": "562",
+    "credit": "3",
+    "course_name": "Resource Governance, Environment and Human Security",
+    "faculty": "Faculty of Arts",
+    "description": "International policy processes associated with themes of environmental security: disaster prevention; resource curse; institution building and conflict minerals and global expropriation. Issues to be considered include human rights advocacy and peacekeeping, food security and food sovereignty. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 563": {
+    "subject_code": "PPGA",
+    "course_code": "563",
+    "credit": "3",
+    "course_name": "Asia Pacific Human Migration and Social Change",
+    "faculty": "Faculty of Arts",
+    "description": "Key concepts and theories of migration and social change. The role of the nation state and regulatory systems considering international institutions relevant to migration as concerns Asian demography and migration; connections between Asia and the Pacific Rim. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 564": {
+    "subject_code": "PPGA",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Security Challenges for Asian States and People",
+    "faculty": "Faculty of Arts",
+    "description": "Asian state policies on security threats that impact their national and human security including: civil-military relations, intrastate conflict, transnational crime, spread of disease, and environmental and natural disasters, geo-political power shift, defence modernization, resurgent nationalism, and historical legacies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 565": {
+    "subject_code": "PPGA",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Nationalism, Religion, and Ethnic Conflict in Asia",
+    "faculty": "Faculty of Arts",
+    "description": "Ethnic and religious conflict in Asia related to historical and dialectic development of different forms of nationalism; the confluence between religion, ethnicity, and nationalist ideologies in the escalation of conflicts in different Asian societies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 566": {
+    "subject_code": "PPGA",
+    "course_code": "566",
+    "credit": "3",
+    "course_name": "Asia Diplomacy and International Relations",
+    "faculty": "Faculty of Arts",
+    "description": "Comprehensive and systematic assessments and analyses of political dynamics, policy behaviors, and diplomatic interactions of Asian countries. Major diplomatic issues, cross-cutting diplomatic challenges, and opportunities facing countries in the region. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 567": {
+    "subject_code": "PPGA",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Human Rights and Justice",
+    "faculty": "Faculty of Arts",
+    "description": "Linkages between human rights, development and justice and the policy interventions which flow from them. Human rights policy including: international organizations, national actors, non-governmental organizations and communities. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 568": {
+    "subject_code": "PPGA",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Global Economic Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Key issues, institutions and debates in global economic policymaking. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 569": {
+    "subject_code": "PPGA",
+    "course_code": "569",
+    "credit": "3",
+    "course_name": "Global Health Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Actors, processes and contexts shaping global health policy; politics and policy processes at the global and related levels; impact and influence of dynamics within and between different levels on health disparities and inequitable access to health services and technologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 580": {
+    "subject_code": "PPGA",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Internet and Global Affairs",
+    "faculty": "Faculty of Arts",
+    "description": "The impact of Internet on policy and global affairs structural changes to: economy with reduced transaction costs; media through new publishing forms; politics through new structures for collective action; law through limits of privacy and confidentiality; governance through e-government. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 581": {
+    "subject_code": "PPGA",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Behavioural Foundations for Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Basic concepts in social and cognitive psychology, judgment and decision-making and behavioral economics in shaping policy formation and implementation. Application of experimental findings and concepts emanating from behavioral research to the design and implementation of policy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 582": {
+    "subject_code": "PPGA",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "Public Engagement in Policy Decisions",
+    "faculty": "Faculty of Arts",
+    "description": "Public engagement in policy-making processes including: stakeholder engagement in diverse sustainability policy debates; outcomes and how they influence policy; best practices and lessons learned in North America and Europe. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 583": {
+    "subject_code": "PPGA",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "Food Security",
+    "faculty": "Faculty of Arts",
+    "description": "Global food security challenges including: biophysical, economic, nutritional, socio-political, and institutional aspects. Geography of agricultural production, role of price and supply shocks, causes of malnutrition, and environmental impacts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 584": {
+    "subject_code": "PPGA",
+    "course_code": "584",
+    "credit": "3",
+    "course_name": "Policy Responses to Global Climate Change",
+    "faculty": "Faculty of Arts",
+    "description": "Climate science and impacts including: carbon management options; mitigation and energy system changes; efficiency options; 'end-of-pipe' solutions; vulnerability and adaptation to climate change; carbon economics and organization-level strategies in a carbon-constrained world. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 590": {
+    "subject_code": "PPGA",
+    "course_code": "590",
+    "credit": "1-6",
+    "course_name": "Global Policy Project",
+    "faculty": "Faculty of Arts",
+    "description": "Professional team-based project that incorporates training, feedback on project proposals, possible field work, engagement with client organizations, data gathering and analysis, and a major deliverable such as a policy report. Restricted to students in the Master of Public and Global Affairs. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 591": {
+    "subject_code": "PPGA",
+    "course_code": "591",
+    "credit": "1-9",
+    "course_name": "Special Topics in Public Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Offerings respond to current policy debates, topics of emerging interest, availability of visiting scholars, and interest in non-traditional courses incorporating practitioner expertise, interest in particular disciplinary perspectives missing from core courses and electives, and interest in specific regions or countries. This course is not eligible for Credit/D/Fail grading."
+  },
+  "PPGA 592": {
+    "subject_code": "PPGA",
+    "course_code": "592",
+    "credit": "1.5-7.5",
+    "course_name": "Professional Skills in Public Policy and Global Affairs",
+    "faculty": "Faculty of Arts",
+    "description": "Topics will vary from year to year. Offerings will respond to evolving skills required for working in the field of public policy and global affairs. Restricted to students in the MPPGA program. This course is not eligible for Credit/D/Fail grading."
+  }
+}

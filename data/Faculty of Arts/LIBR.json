@@ -1,0 +1,546 @@
+{
+  "LIBR 504": {
+    "subject_code": "LIBR",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Management of Information Organizations",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 504 or ARST_V 570. Equivalency: ARST_V 570. Prerequisite: LIBR_V 506. Corequisite: LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 506": {
+    "subject_code": "LIBR",
+    "course_code": "506",
+    "credit": "3",
+    "course_name": "Human-Information Interaction",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 507": {
+    "subject_code": "LIBR",
+    "course_code": "507",
+    "credit": "3",
+    "course_name": "Methods of Research and Evaluation in Information Organizations",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 508": {
+    "subject_code": "LIBR",
+    "course_code": "508",
+    "credit": "3",
+    "course_name": "Information Practices in Contemporary Society",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 509": {
+    "subject_code": "LIBR",
+    "course_code": "509",
+    "credit": "3",
+    "course_name": "Foundations of Resource Description and Knowledge Organization",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 511": {
+    "subject_code": "LIBR",
+    "course_code": "511",
+    "credit": "3",
+    "course_name": "Cataloguing and Classification",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LIBR_V 509. Corequisite: LIBR_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 513": {
+    "subject_code": "LIBR",
+    "course_code": "513",
+    "credit": "3",
+    "course_name": "Metadata",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 513 or ARST_V 562. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 514": {
+    "subject_code": "LIBR",
+    "course_code": "514",
+    "credit": "1-13",
+    "course_name": "Topics in the Bibliographic Control of Information",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 515": {
+    "subject_code": "LIBR",
+    "course_code": "515",
+    "credit": "3",
+    "course_name": "Information Visualization and Visual Analytics",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 515 or INFO_V 419. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 516": {
+    "subject_code": "LIBR",
+    "course_code": "516",
+    "credit": "3",
+    "course_name": "Information Asset Management",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 517": {
+    "subject_code": "LIBR",
+    "course_code": "517",
+    "credit": "3",
+    "course_name": "Administering Records under Freedom of Information and Protection of Privacy Legislation",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of LIBR_V 517 or ARST_V 565. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 518": {
+    "subject_code": "LIBR",
+    "course_code": "518",
+    "credit": "3",
+    "course_name": "Cybersecurity, Information Assurance, and Risk Management for Library, Archival and Information Professionals",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of LIBR_V 518 or ARST_V 518. Prerequisite: LIBR_V 516. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 520": {
+    "subject_code": "LIBR",
+    "course_code": "520",
+    "credit": "3",
+    "course_name": "Survey of Literature and Other Materials for Children",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 522": {
+    "subject_code": "LIBR",
+    "course_code": "522",
+    "credit": "1-13",
+    "course_name": "Literature and Other Materials for Children",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 523": {
+    "subject_code": "LIBR",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Canadian Literature and other Materials for Children",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 524": {
+    "subject_code": "LIBR",
+    "course_code": "524",
+    "credit": "3",
+    "course_name": "Writing, Publishing and the Book Trade for Children",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 525": {
+    "subject_code": "LIBR",
+    "course_code": "525",
+    "credit": "3",
+    "course_name": "Illustrated Literature and Other Materials for Children",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 526": {
+    "subject_code": "LIBR",
+    "course_code": "526",
+    "credit": "3",
+    "course_name": "Literature and Other Materials for Young Adults",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 527": {
+    "subject_code": "LIBR",
+    "course_code": "527",
+    "credit": "3",
+    "course_name": "Early Childhood Librarianship",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 528": {
+    "subject_code": "LIBR",
+    "course_code": "528",
+    "credit": "3",
+    "course_name": "Services for Tweens and Teens",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 529": {
+    "subject_code": "LIBR",
+    "course_code": "529",
+    "credit": "3",
+    "course_name": "Services for Families and Early Literacy in the Preschool Years",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 530": {
+    "subject_code": "LIBR",
+    "course_code": "530",
+    "credit": "3",
+    "course_name": "Information Services in Libraries",
+    "faculty": "Faculty of Arts",
+    "description": "Corequisites: LIBR_V 506 and LIBR_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 531": {
+    "subject_code": "LIBR",
+    "course_code": "531",
+    "credit": "3",
+    "course_name": "Client-Centred Services for Adults",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 532": {
+    "subject_code": "LIBR",
+    "course_code": "532",
+    "credit": "3",
+    "course_name": "Science and Technology Information Sources and Services",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 533": {
+    "subject_code": "LIBR",
+    "course_code": "533",
+    "credit": "3",
+    "course_name": "Legal Information Sources and Services",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LIBR_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 534": {
+    "subject_code": "LIBR",
+    "course_code": "534",
+    "credit": "3",
+    "course_name": "Health Information Sources and Services",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: All of LIBR_V 506 and LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 535": {
+    "subject_code": "LIBR",
+    "course_code": "535",
+    "credit": "3",
+    "course_name": "Instructional Role of the Librarian",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: LIBR_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 538": {
+    "subject_code": "LIBR",
+    "course_code": "538",
+    "credit": "1-13",
+    "course_name": "Specialized Literatures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 539": {
+    "subject_code": "LIBR",
+    "course_code": "539",
+    "credit": "1-13",
+    "course_name": "Specialized Materials",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 541": {
+    "subject_code": "LIBR",
+    "course_code": "541",
+    "credit": "3",
+    "course_name": "New Media for Children and Young Adults",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 541 or INFO_V 441. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 542": {
+    "subject_code": "LIBR",
+    "course_code": "542",
+    "credit": "1-13",
+    "course_name": "Services for Youth",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 544": {
+    "subject_code": "LIBR",
+    "course_code": "544",
+    "credit": "1-13",
+    "course_name": "Services for Adults",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 545": {
+    "subject_code": "LIBR",
+    "course_code": "545",
+    "credit": "3",
+    "course_name": "Adult Popular Reading & Media Interests",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 547": {
+    "subject_code": "LIBR",
+    "course_code": "547",
+    "credit": "3",
+    "course_name": "Learning by Making with Digital Technologies",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 548": {
+    "subject_code": "LIBR",
+    "course_code": "548",
+    "credit": "1-13",
+    "course_name": "Issues in Information Services",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 551": {
+    "subject_code": "LIBR",
+    "course_code": "551",
+    "credit": "3",
+    "course_name": "Computer Programming for Information Professionals",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 553": {
+    "subject_code": "LIBR",
+    "course_code": "553",
+    "credit": "3",
+    "course_name": "Understanding Information Users in Diverse Environments",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: All of LIBR_V 506 and LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 554": {
+    "subject_code": "LIBR",
+    "course_code": "554",
+    "credit": "3",
+    "course_name": "Database Design",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 554 or ARST_V 554. Equivalency: ARST_V 554. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 555": {
+    "subject_code": "LIBR",
+    "course_code": "555",
+    "credit": "3",
+    "course_name": "Information Design I - Systems",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 555 or INFO_V 300. Corequisites: All of LIBR_V 506 and LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 556": {
+    "subject_code": "LIBR",
+    "course_code": "556",
+    "credit": "3",
+    "course_name": "Information Design II - Documents",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 557": {
+    "subject_code": "LIBR",
+    "course_code": "557",
+    "credit": "3",
+    "course_name": "Information Retrieval Systems: Concepts and Practice",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisites: All of LIBR_V 506 and LIBR_V 509. Corequisite: LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 559": {
+    "subject_code": "LIBR",
+    "course_code": "559",
+    "credit": "1-13",
+    "course_name": "Topics in Computer-Based Information Systems",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 561": {
+    "subject_code": "LIBR",
+    "course_code": "561",
+    "credit": "3",
+    "course_name": "Information Policy",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 561 or INFO_V 456. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 564": {
+    "subject_code": "LIBR",
+    "course_code": "564",
+    "credit": "3",
+    "course_name": "Information Practice and Protocol in Support of Indigenous Initiatives",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 564 and ARST_V 585. Equivalency: ARST_V 585. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 565": {
+    "subject_code": "LIBR",
+    "course_code": "565",
+    "credit": "3",
+    "course_name": "Progressive and Radical Information Work",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 565 or ARST_V 586. Equivalency: ARST_V 586. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 567": {
+    "subject_code": "LIBR",
+    "course_code": "567",
+    "credit": "3",
+    "course_name": "Scholarly Communication and Knowledge Mobilization",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 568": {
+    "subject_code": "LIBR",
+    "course_code": "568",
+    "credit": "3",
+    "course_name": "Social Media and Digital Information Cultures",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 569": {
+    "subject_code": "LIBR",
+    "course_code": "569",
+    "credit": "1-13",
+    "course_name": "Current Issues and Trends in Library Services and Information Science",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 570": {
+    "subject_code": "LIBR",
+    "course_code": "570",
+    "credit": "3",
+    "course_name": "Marketing in Information Organizations",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 571": {
+    "subject_code": "LIBR",
+    "course_code": "571",
+    "credit": "3",
+    "course_name": "Human Resources Management",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 574": {
+    "subject_code": "LIBR",
+    "course_code": "574",
+    "credit": "3",
+    "course_name": "Project Management in Information Organizations",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 575": {
+    "subject_code": "LIBR",
+    "course_code": "575",
+    "credit": "3",
+    "course_name": "Academic Libraries",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisites: All of LIBR_V 506 and LIBR_V 509. Corequisite: LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 576": {
+    "subject_code": "LIBR",
+    "course_code": "576",
+    "credit": "3",
+    "course_name": "Public Libraries",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 579": {
+    "subject_code": "LIBR",
+    "course_code": "579",
+    "credit": "1-13",
+    "course_name": "Topics in the Management of Libraries and Archives",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 580": {
+    "subject_code": "LIBR",
+    "course_code": "580",
+    "credit": "3",
+    "course_name": "Collection Management",
+    "faculty": "Faculty of Arts",
+    "description": "Corequisites: All of LIBR_V 506 and LIBR_V 509. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 581": {
+    "subject_code": "LIBR",
+    "course_code": "581",
+    "credit": "3",
+    "course_name": "Digital Libraries",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisites: All of LIBR_V 506 and LIBR_V 509. Corequisite: LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 582": {
+    "subject_code": "LIBR",
+    "course_code": "582",
+    "credit": "3",
+    "course_name": "Digital Image and Text Collections",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisites: All of LIBR_V 506 and LIBR_V 509. Corequisite: LIBR_V 507. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 583": {
+    "subject_code": "LIBR",
+    "course_code": "583",
+    "credit": "3",
+    "course_name": "History of the Book to 1500",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 587": {
+    "subject_code": "LIBR",
+    "course_code": "587",
+    "credit": "3",
+    "course_name": "Preservation",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will only be granted for one of LIBR_V 587 or ARST_V 587. Equivalency: ARST_V 587. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 589": {
+    "subject_code": "LIBR",
+    "course_code": "589",
+    "credit": "3",
+    "course_name": "Foundations of Intellectual Freedom in Librarianship",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 591": {
+    "subject_code": "LIBR",
+    "course_code": "591",
+    "credit": "3",
+    "course_name": "Topics in Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 592": {
+    "subject_code": "LIBR",
+    "course_code": "592",
+    "credit": "3",
+    "course_name": "Directed Research Project",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 594": {
+    "subject_code": "LIBR",
+    "course_code": "594",
+    "credit": "3",
+    "course_name": "Directed Study",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 595": {
+    "subject_code": "LIBR",
+    "course_code": "595",
+    "credit": "0",
+    "course_name": "Practicum",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 596": {
+    "subject_code": "LIBR",
+    "course_code": "596",
+    "credit": "3",
+    "course_name": "Professional Experience",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: All of LIBR_V 506, LIBR_V 507, and LIBR_V 509 This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 597": {
+    "subject_code": "LIBR",
+    "course_code": "597",
+    "credit": "3",
+    "course_name": "Research Collaboration",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 598": {
+    "subject_code": "LIBR",
+    "course_code": "598",
+    "credit": "3",
+    "course_name": "Program Synthesis Portfolio",
+    "faculty": "Faculty of Arts",
+    "description": "For students enrolled in the M.L.I.S. program with a minimum of 36 credits. For students enrolled in the M.A.S./M.L.I.S. dual program with a minimum of 69 credits. This course is not eligible for Credit/D/Fail grading."
+  },
+  "LIBR 599": {
+    "subject_code": "LIBR",
+    "course_code": "599",
+    "credit": "6-12",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

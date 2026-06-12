@@ -1,0 +1,50 @@
+{
+  "IWME 501": {
+    "subject_code": "IWME",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Environmental Fluid Mechanics",
+    "faculty": "Faculty of Applied Science",
+    "description": "Governing equations for incompressible, non-rotating flows of variable density; equations of motion for stratified fluids; selective withdrawal; flow over topography; estuarine and exchange flows; hydrodynamic stability. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IWME 502": {
+    "subject_code": "IWME",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Engineering Hydrology",
+    "faculty": "Faculty of Applied Science",
+    "description": "Water cycle and role of water in the environment and environmental engineering. Physical and statistical prediction methods for design related to hydrologic systems; precipitation; evaporation; snow hydrology; infiltration and base flow; surface runoff; channel and storage routing; unit hydrograph methods. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IWME 503": {
+    "subject_code": "IWME",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Chemical and Biological Industrial Water Treatment Design",
+    "faculty": "Faculty of Applied Science",
+    "description": "Fundamental principles of process design for chemical and biological systems to treat water used in and effluents generated from industrial processes. Industry application examples: mining, oil sands, oil and gas, pulp and paper, agriculture, food and beverage. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IWME 504": {
+    "subject_code": "IWME",
+    "course_code": "504",
+    "credit": "3",
+    "course_name": "Water and Wastewater Management Strategies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Chemical and microbiological quality and contaminations, techniques and analytical procedures for assessing and monitoring chemical and microbiological water quality; water and wastewater quality standards, pollution prevention strategies and policies; risk analysis; asset management. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IWME 505": {
+    "subject_code": "IWME",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "Water Resources Systems Planning and Management",
+    "faculty": "Faculty of Applied Science",
+    "description": "Art and science of modelling for integrated water resources planning and management; practice of developing and deploying simulation and optimization models to solve water problems; risk informed decision making frameworks and stakeholder processes for analysis of water resources systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "IWME 506": {
+    "subject_code": "IWME",
+    "course_code": "506",
+    "credit": "4",
+    "course_name": "Water Infrastructure Capstone",
+    "faculty": "Faculty of Applied Science",
+    "description": "Delivery of major water infrastructure projects from policies to planning and implementation, including schedule, cost, scope, impacts, performance and risk management, indigenous participation and innovative project financing and delivery approaches. Credit will be granted for only one of: IWME_V 506 or CIVL_V 523. [3-0-1]. This course is not eligible for Credit/D/Fail grading."
+  }
+}

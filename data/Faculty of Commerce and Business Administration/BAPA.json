@@ -1,0 +1,42 @@
+{
+  "BAPA 550": {
+    "subject_code": "BAPA",
+    "course_code": "550",
+    "credit": "1.5",
+    "course_name": "Managerial Economics I",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAPA 551": {
+    "subject_code": "BAPA",
+    "course_code": "551",
+    "credit": "1.5",
+    "course_name": "Managerial Economics II",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAPA 560": {
+    "subject_code": "BAPA",
+    "course_code": "560",
+    "credit": "1.5",
+    "course_name": "Foundations of Managerial and Business Economics",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "Framework for analyzing economic and managerial problems, fundamental market forces of supply and demand, and the drivers of firms' production and pricing choices. This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAPA 580": {
+    "subject_code": "BAPA",
+    "course_code": "580",
+    "credit": "1.5",
+    "course_name": "Topics in Policy Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "BAPA 590": {
+    "subject_code": "BAPA",
+    "course_code": "590",
+    "credit": "1.5-3",
+    "course_name": "Directed Studies in Policy Analysis",
+    "faculty": "Faculty of Commerce and Business Administration",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

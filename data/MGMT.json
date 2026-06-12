@@ -1,0 +1,26 @@
+{
+  "MGMT 100": {
+    "subject_code": "MGMT",
+    "course_code": "100",
+    "credit": "3",
+    "course_name": "Introduction to Business",
+    "faculty": "",
+    "description": "Introduction to the Faculty of Management and traditional areas of business including accounting, economics, finance, marketing, organizational behaviour, operations, business policy, information systems and entrepreneurship. Identifies the steps needed to build and manage successful local, national, and international competitive businesses and organizations. Introduces ethical and policy decisions faced by businesses, organizations and governments. [3-0-0]. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MGMT 110": {
+    "subject_code": "MGMT",
+    "course_code": "110",
+    "credit": "3",
+    "course_name": "Introduction to Management Thought and Social Responsibility",
+    "faculty": "",
+    "description": "Introduces management thought in business and organizations. Utilizes critical thinking in socially and ethically responsible decisions at a corporate and personal level. Includes managing responsibly through people, mass production, ethical and socially-responsible practices. Covers start-ups, entrepreneurs, family business, non-profit/for-profit organizations and governments in global regions. Credit will be granted for only one of MGMT_V 110 or MGMT_V 200. [3-0-0]. Equivalency: MGMT_V 200. This course is not eligible for Credit/D/Fail grading."
+  },
+  "MGMT 200": {
+    "subject_code": "MGMT",
+    "course_code": "200",
+    "credit": "3",
+    "course_name": "Introduction to Management Thought and Social Responsibility",
+    "faculty": "",
+    "description": "Introduces management thought in business and organizations. Utilizes critical thinking in socially and ethically responsible decisions at a corporate and personal level. Includes managing responsibly through people, mass production, ethical and socially-responsible practices. Covers start-ups, entrepreneurs, family business, non-profit/for-profit organizations and governments in global regions. Credit will be granted for only one of MGMT_V 200 or MGMT_V 110. [3-0-0]. Equivalency: MGMT_V 110. This course is not eligible for Credit/D/Fail grading."
+  }
+}

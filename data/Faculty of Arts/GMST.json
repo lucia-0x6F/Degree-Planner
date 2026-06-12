@@ -1,0 +1,378 @@
+{
+  "GMST 121": {
+    "subject_code": "GMST",
+    "course_code": "121",
+    "credit": "3",
+    "course_name": "Fairy Tales and Popular Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Explore folk and fairy tales from the German-speaking tradition and their adaptations. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 121 or GMST 121. Equivalency: GERM121"
+  },
+  "GMST 229": {
+    "subject_code": "GMST",
+    "course_code": "229",
+    "credit": "3",
+    "course_name": "Exile, Flight and Migration",
+    "faculty": "Faculty of Arts",
+    "description": "Transnational narratives about exile, migration and integration in the German-speaking countries. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 206 or GMST 229. Equivalency: GERM206"
+  },
+  "GMST 274": {
+    "subject_code": "GMST",
+    "course_code": "274",
+    "credit": "3",
+    "course_name": "The Frankfurt School",
+    "faculty": "Faculty of Arts",
+    "description": "Foundations of critical theory, and key media and cultural studies concepts developed by the members of the Frankfurt Institute of Social Research (1923 -), their collaborators and followers. Credit will be granted for only one of GERM 207 or GMST 274. Equivalency: GERM207"
+  },
+  "GMST 311": {
+    "subject_code": "GMST",
+    "course_code": "311",
+    "credit": "3",
+    "course_name": "German Linguistics",
+    "faculty": "Faculty of Arts",
+    "description": "Basic theories and methodologies of modern German linguistics. Credit will be granted for only one of GERM 318 or GMST 311. Equivalency: GERM318"
+  },
+  "GMST 325": {
+    "subject_code": "GMST",
+    "course_code": "325",
+    "credit": "3",
+    "course_name": "The Culture of Nazism",
+    "faculty": "Faculty of Arts",
+    "description": "Literature, film and ideology in the Third Reich. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 305 or GMST 325. Equivalency: GERM305"
+  },
+  "GMST 335": {
+    "subject_code": "GMST",
+    "course_code": "335",
+    "credit": "3",
+    "course_name": "German Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Screening, discussion, and critical analysis of influential cinema from German-speaking societies from the silent era to the 21st century. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 304 or GMST 335. Equivalency: GERM304"
+  },
+  "GMST 341": {
+    "subject_code": "GMST",
+    "course_code": "341",
+    "credit": "3",
+    "course_name": "Germanophone Literature before 1900",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and discussion of selected works from German-speaking societies from the Middle Ages to 1900. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 303 or GMST 341. Equivalency: GERM303"
+  },
+  "GMST 342": {
+    "subject_code": "GMST",
+    "course_code": "342",
+    "credit": "3",
+    "course_name": "Heaven and Earth: Germanophone Culture and Literature before 1700",
+    "faculty": "Faculty of Arts",
+    "description": "Germanophone literature of the Middle Ages, Renaissance, and Baroque against the larger background of the political and social developments of the period. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 360 or GMST 342. Equivalency: GERM360"
+  },
+  "GMST 343": {
+    "subject_code": "GMST",
+    "course_code": "343",
+    "credit": "3",
+    "course_name": "Reason and Revolution: Studies in the 18th Century",
+    "faculty": "Faculty of Arts",
+    "description": "Eighteenth-century Germanophone literature against the larger background of the political and social developments of the period. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 370 or GMST 343. Equivalency: GERM370"
+  },
+  "GMST 346": {
+    "subject_code": "GMST",
+    "course_code": "346",
+    "credit": "3",
+    "course_name": "Germanophone Literature 1900-1945",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and discussion of selected works against the background of literary, social, and political developments in twentieth-century German-speaking societies. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 301 or GMST 346. Equivalency: GERM301"
+  },
+  "GMST 347": {
+    "subject_code": "GMST",
+    "course_code": "347",
+    "credit": "3",
+    "course_name": "Germanophone Literature after 1945",
+    "faculty": "Faculty of Arts",
+    "description": "Reading and discussion of selected literary works from German-speaking societies. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 302 or GMST 347. Equivalency: GERM302"
+  },
+  "GMST 371": {
+    "subject_code": "GMST",
+    "course_code": "371",
+    "credit": "3",
+    "course_name": "Marx, Nietzsche and Freud in Cultural Context",
+    "faculty": "Faculty of Arts",
+    "description": "Explore the impact of the writings of Karl Marx, Friedrich Nietzsche and Sigmund Freud on the cultures of the German-speaking world and draw connections to contemporary debates about identity, family, gender, class, social justice and the philosophy of history."
+  },
+  "GMST 399": {
+    "subject_code": "GMST",
+    "course_code": "399",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Investigation of readings and research undertaking topics of German Studies, with the agreement and under the supervision of a faculty member with relevant expertise. Restricted to German Studies students with approval from the Director of Undergraduate Studies."
+  },
+  "GMST 415": {
+    "subject_code": "GMST",
+    "course_code": "415",
+    "credit": "3",
+    "course_name": "German Literary Translation",
+    "faculty": "Faculty of Arts",
+    "description": "Theory, methodology and practice of translating literary texts between English and German. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 425 or GMST 415. Prerequisite: One of GERM 325, GERN 315. Equivalency: GERM425"
+  },
+  "GMST 420": {
+    "subject_code": "GMST",
+    "course_code": "420",
+    "credit": "3-6",
+    "course_name": "Studies in Modern German-speaking Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Topics of special interest, varying from year to year. Find out more at https://cenes.ubc.ca/courses/. A maximum of 6 credits will be granted for GERM 403 or GMST 420. Equivalency: GERM403"
+  },
+  "GMST 424": {
+    "subject_code": "GMST",
+    "course_code": "424",
+    "credit": "3",
+    "course_name": "Selected Issues in German-speaking Culture",
+    "faculty": "Faculty of Arts",
+    "description": "In depth study of one topic from German-speaking cultural history, varying from year to year. Find out which topic/s will be explored in the current or coming year at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 408 or GMST 424. Equivalency: GERM408"
+  },
+  "GMST 427": {
+    "subject_code": "GMST",
+    "course_code": "427",
+    "credit": "3",
+    "course_name": "Major Controversies in German-speaking Culture",
+    "faculty": "Faculty of Arts",
+    "description": "Selected debates and controversies in the German-speaking societies. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 411 or GMST 427. Equivalency: GERM411"
+  },
+  "GMST 433": {
+    "subject_code": "GMST",
+    "course_code": "433",
+    "credit": "3",
+    "course_name": "Germanophone Representations of the Holocaust",
+    "faculty": "Faculty of Arts",
+    "description": "The Holocaust in German literature and film. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 426 or GMST 433. Prerequisite: Restricted to students with Second Year Standing or above. Equivalency: GERM426"
+  },
+  "GMST 436": {
+    "subject_code": "GMST",
+    "course_code": "436",
+    "credit": "3",
+    "course_name": "Special Topics in Germanophone Cinema",
+    "faculty": "Faculty of Arts",
+    "description": "Themes, traditions, and techniques specific to cinema from German-speaking societies. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 409 or GMST 436. Equivalency: GERM409"
+  },
+  "GMST 440": {
+    "subject_code": "GMST",
+    "course_code": "440",
+    "credit": "3-6",
+    "course_name": "Selected topics in Germanophone Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Topics of special interest, varying from year to year. Find out which topic/s will be explored in the current or coming year at https://cenes.ubc.ca/courses/. A maximum of 6 credits will be granted for GERM 406 or GMST 440. Equivalency: GERM406"
+  },
+  "GMST 445": {
+    "subject_code": "GMST",
+    "course_code": "445",
+    "credit": "3",
+    "course_name": "Words and Music in Germanophone Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Individual works and genres in which words and music together form a whole. Possible topics include the Lutheran Hymn, the Volkslied, the Romantic Lied and Brecht songs, operas by Mozart, Wagner and Strauss, and music and the musician as a subject in literature. No musical training is necessary. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 402 or GMST 445. Equivalency: GERM402"
+  },
+  "GMST 448": {
+    "subject_code": "GMST",
+    "course_code": "448",
+    "credit": "3",
+    "course_name": "Religion and Germanophone Literature",
+    "faculty": "Faculty of Arts",
+    "description": "Religion and literature in German-speaking cultural history. Find out more at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 404 or GMST 448. Equivalency: GERM404"
+  },
+  "GMST 475": {
+    "subject_code": "GMST",
+    "course_code": "475",
+    "credit": "3",
+    "course_name": "German Media Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Major themes and methods in German media studies. Find out which themes will be explored in the current or coming year at https://cenes.ubc.ca/courses/. Credit will be granted for only one of GERM 412 or GMST 475. Equivalency: GERM412"
+  },
+  "GMST 490": {
+    "subject_code": "GMST",
+    "course_code": "490",
+    "credit": "3-6",
+    "course_name": "Honours Seminar",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GERM 439 or GMST 490. Equivalency: GERM439"
+  },
+  "GMST 492": {
+    "subject_code": "GMST",
+    "course_code": "492",
+    "credit": "6",
+    "course_name": "Honours Research Capstone",
+    "faculty": "Faculty of Arts",
+    "description": "Conception and execution of research study with the goal of publication, peer-review, and application to graduate study in relevant field. Find out more at https://cenes.ubc.ca/courses/. Credit be granted for only one of GERM 449 or GMST 492. Equivalency: GERM449"
+  },
+  "GMST 499": {
+    "subject_code": "GMST",
+    "course_code": "499",
+    "credit": "3-6",
+    "course_name": "Directed Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced research undertaking topics of German Studies, with the agreement and under the supervision, of a faculty member with relevant expertise. Restricted to German Studies students with approval from the Director of Undergraduate Studies."
+  },
+  "GMST 500": {
+    "subject_code": "GMST",
+    "course_code": "500",
+    "credit": "3-6",
+    "course_name": "German Studies Research Methods",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 500 or GMST_V 500. Equivalency: GERM_V 500. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 501": {
+    "subject_code": "GMST",
+    "course_code": "501",
+    "credit": "3-6",
+    "course_name": "Literary Theories",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 501 or GMST_V 501. Equivalency: GERM_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 505": {
+    "subject_code": "GMST",
+    "course_code": "505",
+    "credit": "3",
+    "course_name": "The Acquisition of German as an Additional Language",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GERM_V 505 or GMST_V 505. Equivalency: GERM_V 505. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 506": {
+    "subject_code": "GMST",
+    "course_code": "506",
+    "credit": "3-6",
+    "course_name": "Intercultural Competence",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 506 or GMST_V 506. Equivalency: GERM_V 506. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 510": {
+    "subject_code": "GMST",
+    "course_code": "510",
+    "credit": "3",
+    "course_name": "German Literary History",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GERM_V 510 or GMST_V 510. Equivalency: GERM_V 510. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 513": {
+    "subject_code": "GMST",
+    "course_code": "513",
+    "credit": "3-6",
+    "course_name": "Studies in Baroque Literature",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 513 or GMST_V 513. Equivalency: GERM_V 513. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 514": {
+    "subject_code": "GMST",
+    "course_code": "514",
+    "credit": "3-6",
+    "course_name": "Studies in the Literature of the 18th Century",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 514 or GMST_V 514. Equivalency: GERM_V 514. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 515": {
+    "subject_code": "GMST",
+    "course_code": "515",
+    "credit": "3-6",
+    "course_name": "Studies in the Classical Period",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 515 or GMST_V 515. Equivalency: GERM_V 515. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 516": {
+    "subject_code": "GMST",
+    "course_code": "516",
+    "credit": "3-6",
+    "course_name": "Studies in Romanticism",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 516 or GMST_V 516. Equivalency: GERM_V 516. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 517": {
+    "subject_code": "GMST",
+    "course_code": "517",
+    "credit": "3-6",
+    "course_name": "Studies in the Literature of the 19th Century",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 517 or GMST_V 517. Equivalency: GERM_V 517. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 518": {
+    "subject_code": "GMST",
+    "course_code": "518",
+    "credit": "3-6",
+    "course_name": "Studies in Expressionism",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 518 or GMST_V 518. Equivalency: GERM_V 518. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 519": {
+    "subject_code": "GMST",
+    "course_code": "519",
+    "credit": "3-6",
+    "course_name": "Studies in the Literature of the Early 20th Century",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 519 or GMST_V 519. Equivalency: GERM_V 519. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 520": {
+    "subject_code": "GMST",
+    "course_code": "520",
+    "credit": "3-6",
+    "course_name": "Studies in Literature after 1945",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 520 or GMST_V 520. Equivalency: GERM_V 520. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 521": {
+    "subject_code": "GMST",
+    "course_code": "521",
+    "credit": "3",
+    "course_name": "German Cultural Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GERM_V 521 or GMST_V 521. Equivalency: GERM_V 521. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 522": {
+    "subject_code": "GMST",
+    "course_code": "522",
+    "credit": "3",
+    "course_name": "Topics in Media Studies",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GERM_V 522 or GMST_V 522. Equivalency: GERM_V 522 This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 531": {
+    "subject_code": "GMST",
+    "course_code": "531",
+    "credit": "3-6",
+    "course_name": "Special Topics",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 531 or GMST_V 531. Equivalency: GERM_V 531. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 532": {
+    "subject_code": "GMST",
+    "course_code": "532",
+    "credit": "3-6",
+    "course_name": "Genre Studies",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 532 or GMST_V 532. Equivalency: GERM_V 532. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 547": {
+    "subject_code": "GMST",
+    "course_code": "547",
+    "credit": "3-6",
+    "course_name": "Guided Research",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 6 credits will be granted for GERM_V 547 or GMST_V 547. Equivalency: GERM_V 547. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 548": {
+    "subject_code": "GMST",
+    "course_code": "548",
+    "credit": "3",
+    "course_name": "Major Essay",
+    "faculty": "Faculty of Arts",
+    "description": "Credit will be granted for only one of GERM_V 548 or GMST_V 548. Equivalency: GERM_V 548. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 549": {
+    "subject_code": "GMST",
+    "course_code": "549",
+    "credit": "9",
+    "course_name": "Master's Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "A maximum of 9 credits will be granted for GERM_V 549 or GMST_V 549. Equivalency: GERM_V 549. This course is not eligible for Credit/D/Fail grading."
+  },
+  "GMST 649": {
+    "subject_code": "GMST",
+    "course_code": "649",
+    "credit": "0",
+    "course_name": "Doctoral Dissertation",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

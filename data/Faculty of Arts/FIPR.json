@@ -1,0 +1,226 @@
+{
+  "FIPR 101": {
+    "subject_code": "FIPR",
+    "course_code": "101",
+    "credit": "3",
+    "course_name": "Introduction to the History of Film Production",
+    "faculty": "Faculty of Arts",
+    "description": "The history of film and film production by decade with a strong emphasis on filmmakers and advances in production technology."
+  },
+  "FIPR 131": {
+    "subject_code": "FIPR",
+    "course_code": "131",
+    "credit": "3",
+    "course_name": "Introduction to Screen Acting",
+    "faculty": "Faculty of Arts",
+    "description": "Fundamental techniques used to create emotionally engaged and narratively effective performances for film and digital media."
+  },
+  "FIPR 133": {
+    "subject_code": "FIPR",
+    "course_code": "133",
+    "credit": "3",
+    "course_name": "Introduction to Film and Media Production",
+    "faculty": "Faculty of Arts",
+    "description": "A hands-on introduction to Film and Multi/New Media production, focusing on fundamental techniques for creating effective presentations."
+  },
+  "FIPR 230": {
+    "subject_code": "FIPR",
+    "course_code": "230",
+    "credit": "3",
+    "course_name": "Introduction to Motion Picture Directing",
+    "faculty": "Faculty of Arts",
+    "description": "The role and methods of the motion picture director."
+  },
+  "FIPR 233": {
+    "subject_code": "FIPR",
+    "course_code": "233",
+    "credit": "3-6",
+    "course_name": "Film and Media Production I",
+    "faculty": "Faculty of Arts",
+    "description": "Camera operation, lighting, sounds, and editing for film and media production."
+  },
+  "FIPR 234": {
+    "subject_code": "FIPR",
+    "course_code": "234",
+    "credit": "3",
+    "course_name": "Production Planning and Professional Practices",
+    "faculty": "Faculty of Arts",
+    "description": "Planning of film productions from concept to completion."
+  },
+  "FIPR 235": {
+    "subject_code": "FIPR",
+    "course_code": "235",
+    "credit": "3",
+    "course_name": "Image Concepts for Filmmakers",
+    "faculty": "Faculty of Arts",
+    "description": "The theory and practice involved in creating images for film and media."
+  },
+  "FIPR 269": {
+    "subject_code": "FIPR",
+    "course_code": "269",
+    "credit": "3-6",
+    "course_name": "Special Topics in Film Production",
+    "faculty": "Faculty of Arts",
+    "description": "A topic of current interest in film production. Topic will change from year to year."
+  },
+  "FIPR 299": {
+    "subject_code": "FIPR",
+    "course_code": "299",
+    "credit": "3",
+    "course_name": "Directed Studies: On-Campus Research",
+    "faculty": "Faculty of Arts",
+    "description": "On-campus film production field research. Based on film project work on campus productions. Restricted to Film Production students except with permission. Contact department."
+  },
+  "FIPR 330": {
+    "subject_code": "FIPR",
+    "course_code": "330",
+    "credit": "3",
+    "course_name": "Intermediate Motion Picture Directing",
+    "faculty": "Faculty of Arts",
+    "description": "Prerequisite: FIPR 230."
+  },
+  "FIPR 333": {
+    "subject_code": "FIPR",
+    "course_code": "333",
+    "credit": "9",
+    "course_name": "Film and Media Production II",
+    "faculty": "Faculty of Arts",
+    "description": "Intermediate film and media production. Open only to students in the Film Production BFA Program. Students who have not already completed FIPR 337, FIPR 338 must complete them at the same time as FIPR 333. Prerequisite: FIPR 233. Corequisite: All of FIPR 337, FIPR 338. Equivalency: FILM333"
+  },
+  "FIPR 337": {
+    "subject_code": "FIPR",
+    "course_code": "337",
+    "credit": "3",
+    "course_name": "Cinematography and Lighting I",
+    "faculty": "Faculty of Arts",
+    "description": "Introductory cinematography and lighting techniques and aesthetics for 16mm film and digital media."
+  },
+  "FIPR 338": {
+    "subject_code": "FIPR",
+    "course_code": "338",
+    "credit": "3",
+    "course_name": "Motion Picture Sound",
+    "faculty": "Faculty of Arts",
+    "description": "An introduction to the technique and aesthetics of creating production and post-production sound for film and media."
+  },
+  "FIPR 339": {
+    "subject_code": "FIPR",
+    "course_code": "339",
+    "credit": "3",
+    "course_name": "Post-Production Techniques I",
+    "faculty": "Faculty of Arts",
+    "description": "Open only to students in the Film Production BFA Program. Credit will be granted for only one of FIPR 339 or FILM 339. Equivalency: FILM 339"
+  },
+  "FIPR 399": {
+    "subject_code": "FIPR",
+    "course_code": "399",
+    "credit": "3-6",
+    "course_name": "Directed Studies: Off-Campus Research",
+    "faculty": "Faculty of Arts",
+    "description": "Off-campus film production field research. Based on film project work outside the university."
+  },
+  "FIPR 433": {
+    "subject_code": "FIPR",
+    "course_code": "433",
+    "credit": "9",
+    "course_name": "Film and Media Production III",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced film and media production. Prerequisite: One of FIPR 333, FILM 333. Equivalency: FILM433"
+  },
+  "FIPR 434": {
+    "subject_code": "FIPR",
+    "course_code": "434",
+    "credit": "3-6",
+    "course_name": "Producing for Film and Television",
+    "faculty": "Faculty of Arts",
+    "description": "The creative and business aspects of producing for film and television."
+  },
+  "FIPR 435": {
+    "subject_code": "FIPR",
+    "course_code": "435",
+    "credit": "3-6",
+    "course_name": "Alternative Cinema Production",
+    "faculty": "Faculty of Arts",
+    "description": "Experimental approaches to content, structure, technology and style in film and media production. Students who have not yet completed FIPR 233, 234, 337, 339, must complete them at the same time as FIPR 333. Corequisite: All of FIPR 233, FIPR 234, FIPR 337, FIPR 339."
+  },
+  "FIPR 436": {
+    "subject_code": "FIPR",
+    "course_code": "436",
+    "credit": "3-6",
+    "course_name": "Documentary Development and Production",
+    "faculty": "Faculty of Arts",
+    "description": "Documentary concept development, essential production techniques, and marketing."
+  },
+  "FIPR 437": {
+    "subject_code": "FIPR",
+    "course_code": "437",
+    "credit": "3",
+    "course_name": "Cinematography II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced camera operation, lighting, and shot design. Open only to students in the FILM BFA Program. Prerequisite: FIPR 337. Equivalency: FILM437"
+  },
+  "FIPR 439": {
+    "subject_code": "FIPR",
+    "course_code": "439",
+    "credit": "3",
+    "course_name": "Post-Production Techniques II",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced instruction in motion picture and sound editing practice. Open only to students in FILM BFA Production Program. Prerequisite: One of FIPR 333, FILM 333. Equivalency: FILM439"
+  },
+  "FIPR 469": {
+    "subject_code": "FIPR",
+    "course_code": "469",
+    "credit": "3-12",
+    "course_name": "Special Projects",
+    "faculty": "Faculty of Arts",
+    "description": "Advanced film production, including interdisciplinary projects."
+  },
+  "FIPR 533": {
+    "subject_code": "FIPR",
+    "course_code": "533",
+    "credit": "3-6",
+    "course_name": "Advanced Problems in Directing",
+    "faculty": "Faculty of Arts",
+    "description": "Problems in directing narrative film. Explores problems in scripting, performance, shot design, and editing through seminars, workshops with acting students, and production exercises. This course is not eligible for Credit/D/Fail grading."
+  },
+  "FIPR 534": {
+    "subject_code": "FIPR",
+    "course_code": "534",
+    "credit": "3-6",
+    "course_name": "Advanced Production for Film and Television",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FIPR 535": {
+    "subject_code": "FIPR",
+    "course_code": "535",
+    "credit": "3-6",
+    "course_name": "Advanced Alternative Cinema Production",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FIPR 536": {
+    "subject_code": "FIPR",
+    "course_code": "536",
+    "credit": "3-6",
+    "course_name": "Advanced Documentary Development and Production",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FIPR 547": {
+    "subject_code": "FIPR",
+    "course_code": "547",
+    "credit": "3-6",
+    "course_name": "Directed Studies in Film Production",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "FIPR 549": {
+    "subject_code": "FIPR",
+    "course_code": "549",
+    "credit": "6-18",
+    "course_name": "Thesis",
+    "faculty": "Faculty of Arts",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  }
+}

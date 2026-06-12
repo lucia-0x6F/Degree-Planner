@@ -1,0 +1,90 @@
+{
+  "CEEN 501": {
+    "subject_code": "CEEN",
+    "course_code": "501",
+    "credit": "3",
+    "course_name": "Energy System Fundamentals",
+    "faculty": "Faculty of Applied Science",
+    "description": "Thermodynamic analysis of energy conversion processes, power cycles and refrigeration cycles. Exergy analysis of conventional energy systems. Thermal conversion technologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 502": {
+    "subject_code": "CEEN",
+    "course_code": "502",
+    "credit": "3",
+    "course_name": "Alternative Energy Technologies",
+    "faculty": "Faculty of Applied Science",
+    "description": "Factors affecting energy source adoption. Solar, wind, small-scale hydro, tidal, geothermal, electrochemical (batteries, capacitators, and fuel cells), and biochemical energy, electromechanical conversion processes. Energy storage, microgrids, interfacing with main transmissions grids. Techno-economic assessment of alternative energy technologies. Prerequisite: CEEN_V 501. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 503": {
+    "subject_code": "CEEN",
+    "course_code": "503",
+    "credit": "3",
+    "course_name": "Sustainable Energy Systems",
+    "faculty": "Faculty of Applied Science",
+    "description": "Planetary thermodynamics, energy system evolution, role of renewable energy sources. Alternative energy technologies. Solar, wind, small-scale hydro, tidal, geothermal, and biochemical energy, electromechanical conversion processes. Techno-economic assessment of alternative energy technologies. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 504": {
+    "subject_code": "CEEN",
+    "course_code": "504",
+    "credit": "2",
+    "course_name": "Energy Storage and Transmission",
+    "faculty": "Faculty of Applied Science",
+    "description": "Analysis of energy transportation systems from resource extraction to energy services. Thermal, mechanical and electrochemical storage and transport components of electrical and thermal energy systems. Transmission and distribution systems. Distributed generation systems. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 523": {
+    "subject_code": "CEEN",
+    "course_code": "523",
+    "credit": "3",
+    "course_name": "Energy and the Environment",
+    "faculty": "Faculty of Applied Science",
+    "description": "Energy/environment/society interactions; development of energy resources; energy demand and its determinants; policy dimension of energy and climate change; impacts on ecosystems; life cycle analysis; impact assessment and other tools for quantitative and qualitative evaluation of alternative energy sources. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 525": {
+    "subject_code": "CEEN",
+    "course_code": "525",
+    "credit": "2",
+    "course_name": "Energy Policy",
+    "faculty": "Faculty of Applied Science",
+    "description": "Energy policy process and governance. Sustainable energy as a social and political challenge, formal government structures and process, actors in the policy, policy analysis, policy instrument, and energy planning and approval processes, including environmental assessment. Introduction to demand-side energy policy. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 550": {
+    "subject_code": "CEEN",
+    "course_code": "550",
+    "credit": "3",
+    "course_name": "Energy Efficiency and Conservation",
+    "faculty": "Faculty of Applied Science",
+    "description": "Engineering concepts of demand side management (DSM), energy auditing, analysis of buildings and industrial equipment, measurement & verification, and system data analysis. Energy efficient technologies for green buildings and industrial processes. Behavior and energy use. DSM policy concepts. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 580": {
+    "subject_code": "CEEN",
+    "course_code": "580",
+    "credit": "1-6",
+    "course_name": "Directed Studies in Clean Energy Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "Work not related to project or thesis. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 590": {
+    "subject_code": "CEEN",
+    "course_code": "590",
+    "credit": "1-6",
+    "course_name": "Topics in Clean Energy Engineering",
+    "faculty": "Faculty of Applied Science",
+    "description": "This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 596": {
+    "subject_code": "CEEN",
+    "course_code": "596",
+    "credit": "6",
+    "course_name": "Project and Report",
+    "faculty": "Faculty of Applied Science",
+    "description": "For M.Eng. students. Carry out a project and prepare an engineering report under the supervision of a faculty member. This course is not eligible for Credit/D/Fail grading."
+  },
+  "CEEN 597": {
+    "subject_code": "CEEN",
+    "course_code": "597",
+    "credit": "1",
+    "course_name": "Seminar",
+    "faculty": "Faculty of Applied Science",
+    "description": "Presentations and discussions of current topics in the area of Clean Energy Engineering. Pass/Fail. This course is not eligible for Credit/D/Fail grading."
+  }
+}
