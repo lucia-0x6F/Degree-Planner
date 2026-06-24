@@ -1,0 +1,267 @@
+{
+  "NSCI 200": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "CHEM",
+      "min_credits": 8
+    },
+    "coreq": null
+  },
+  "NSCI 201": {
+    "prereq": {
+      "type": "course",
+      "code": "NSCI 200"
+    },
+    "coreq": null
+  },
+  "NSCI 210": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NSCI 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "STAT 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 218"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NSCI 300": {
+    "prereq": {
+      "type": "course",
+      "code": "NSCI 201"
+    },
+    "coreq": null
+  },
+  "NSCI 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NSCI 201"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 344"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 370"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 371"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NSCI 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NSCI 201"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 344"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 371"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NSCI 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "NSCI 201"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 371"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 371"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "DSCI 100"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NSCI 311": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NSCI 200"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 371"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 371"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NSCI 398": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "NSCI 399": {
+    "prereq": {
+      "type": "course",
+      "code": "NSCI 398"
+    },
+    "coreq": null
+  },
+  "NSCI 400": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to students in the neuroscience specialization"
+    },
+    "coreq": null
+  },
+  "NSCI 448": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "At least a 70% average in the preceding 30 credits, permission of the supervisor, and permission of the director of the neuroscience specialization"
+    },
+    "coreq": null
+  },
+  "NSCI 486": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "NSCI 487": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "NSCI 488": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "NSCI 498": {
+    "prereq": {
+      "type": "course",
+      "code": "NSCI 399"
+    },
+    "coreq": null
+  },
+  "NSCI 499": {
+    "prereq": {
+      "type": "course",
+      "code": "NSCI 498"
+    },
+    "coreq": null
+  }
+}

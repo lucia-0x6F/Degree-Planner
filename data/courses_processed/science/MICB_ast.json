@@ -1,0 +1,747 @@
+{
+  "MICB 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 202": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "course",
+          "code": "MICB 201"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 203": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 205": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 100"
+    },
+    "coreq": null
+  },
+  "MICB 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 121"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 245"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 212": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MICB 211"
+                },
+                {
+                  "type": "course",
+                  "code": "MICB 201"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 201"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOC 202"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOC 203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 212"
+        },
+        {
+          "type": "course",
+          "code": "MICB 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 305": {
+    "prereq": {
+      "type": "course",
+      "code": "MICB 205"
+    },
+    "coreq": null
+  },
+  "MICB 308": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MICB 211"
+                },
+                {
+                  "type": "course",
+                  "code": "MICB 202"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 201"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOC 202"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOC 203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 325": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 211"
+        },
+        {
+          "type": "course",
+          "code": "MICB 201"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 353": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "MICB 211"
+        },
+        {
+          "type": "course",
+          "code": "MICB 201"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 398": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MICB 211"
+                },
+                {
+                  "type": "course",
+                  "code": "MICB 201"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MICB 212"
+                },
+                {
+                  "type": "course",
+                  "code": "MICB 202"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 399": {
+    "prereq": {
+      "type": "course",
+      "code": "MICB 398"
+    },
+    "coreq": null
+  },
+  "MICB 401": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 322"
+        },
+        {
+          "type": "course",
+          "code": "MICB 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 302"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        },
+        {
+          "type": "course",
+          "code": "MICB 302"
+        },
+        {
+          "type": "course",
+          "code": "MICB 402"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "MICB 325"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 404": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 302"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MICB 308"
+            },
+            {
+              "type": "course",
+              "code": "MICB 408"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 405": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 301"
+        },
+        {
+          "type": "course",
+          "code": "MICB 325"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 302"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 303"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 406": {
+    "prereq": {
+      "type": "course",
+      "code": "MICB 306"
+    },
+    "coreq": null
+  },
+  "MICB 407": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "MICB306"
+    },
+    "coreq": null
+  },
+  "MICB 408": {
+    "prereq": {
+      "type": "course",
+      "code": "MICB 308"
+    },
+    "coreq": null
+  },
+  "MICB 412": {
+    "prereq": {
+      "type": "course",
+      "code": "MICB 302"
+    },
+    "coreq": null
+  },
+  "MICB 413": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MICB 302"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MICB 308"
+                },
+                {
+                  "type": "course",
+                  "code": "MICB 325"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOT 380"
+            },
+            {
+              "type": "standing",
+              "min_year": 4
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 418": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "MICB 325"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    }
+  },
+  "MICB 421": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 323"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 425": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "MICB 325"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 447": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MICB 323"
+            },
+            {
+              "type": "course",
+              "code": "MICB 322"
+            },
+            {
+              "type": "course",
+              "code": "MICB 398"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 448": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 323"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MICB 322"
+            },
+            {
+              "type": "course",
+              "code": "MICB 399"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 449": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 323"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MICB 322"
+            },
+            {
+              "type": "course",
+              "code": "MICB 399"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 471": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 323"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 475": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MICB 322"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MICB 325"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 335"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 498": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 399"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOT 380"
+            },
+            {
+              "type": "unknown",
+              "raw": "completion of two co-op work terms"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MICB 499": {
+    "prereq": {
+      "type": "course",
+      "code": "MICB 498"
+    },
+    "coreq": null
+  }
+}

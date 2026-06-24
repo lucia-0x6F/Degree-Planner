@@ -1,0 +1,74 @@
+{
+  "MRNE 411": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "course in invertebrates or embryology"
+    },
+    "coreq": null
+  },
+  "MRNE 412": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A course in comparative vertebrate anatomy"
+    },
+    "coreq": null
+  },
+  "MRNE 415": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "MRNE 425": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "MRNE 435": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 320"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 205"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MRNE 437": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "MRNE 440": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Completion of a course in vertebrate zoology or permission of the instructor"
+    },
+    "coreq": null
+  },
+  "MRNE 445": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Introductory vertebrate zoology"
+    },
+    "coreq": null
+  },
+  "MRNE 480": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  }
+}

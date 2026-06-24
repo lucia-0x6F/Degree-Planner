@@ -1,0 +1,51 @@
+{
+  "ANTH 300": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "ANTH"
+    },
+    "coreq": null
+  },
+  "ANTH 329": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "ANTH"
+    },
+    "coreq": null
+  },
+  "ANTH 401": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "ANTH"
+    },
+    "coreq": null
+  },
+  "ANTH 432": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the department is also acceptable"
+    },
+    "coreq": null
+  },
+  "ANTH 451": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor required"
+    },
+    "coreq": null
+  },
+  "ANTH 452": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor is required"
+    },
+    "coreq": null
+  },
+  "ANTH 478": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "ANTH"
+    },
+    "coreq": null
+  }
+}

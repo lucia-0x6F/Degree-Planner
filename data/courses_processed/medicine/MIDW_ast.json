@@ -1,0 +1,30 @@
+{
+  "MIDW 310": {
+    "prereq": {
+      "type": "course",
+      "code": "MIDW 115"
+    },
+    "coreq": null
+  },
+  "MIDW 328": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MIDW 326"
+    }
+  },
+  "MIDW 355": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MIDW 365"
+    }
+  },
+  "MIDW 365": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MIDW 355"
+    }
+  }
+}

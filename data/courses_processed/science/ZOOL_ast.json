@@ -1,0 +1,16 @@
+{
+  "ZOOL 522": {
+    "prereq": {
+      "type": "course",
+      "code": "ZOOL 502"
+    },
+    "coreq": null
+  },
+  "ZOOL 527": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "ZOOL 502"
+    }
+  }
+}

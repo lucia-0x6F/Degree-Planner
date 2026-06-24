@@ -1,0 +1,37 @@
+{
+  "RHSC 583": {
+    "prereq": {
+      "type": "course",
+      "code": "RHSC 501"
+    },
+    "coreq": null
+  },
+  "RHSC 585": {
+    "prereq": {
+      "type": "course",
+      "code": "RHSC 501"
+    },
+    "coreq": null
+  },
+  "RHSC 587": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the project coordinator is required"
+    },
+    "coreq": null
+  },
+  "RHSC 589": {
+    "prereq": {
+      "type": "course",
+      "code": "RHSC 587"
+    },
+    "coreq": null
+  },
+  "RHSC 591": {
+    "prereq": {
+      "type": "course",
+      "code": "RHSC 501"
+    },
+    "coreq": null
+  }
+}

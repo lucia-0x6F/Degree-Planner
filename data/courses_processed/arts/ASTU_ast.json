@@ -1,0 +1,63 @@
+{
+  "ASTU 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ASTU 210"
+        },
+        {
+          "type": "course",
+          "code": "EDUC 210"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ASTU 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "6 credits first-year English or Arts I"
+        },
+        {
+          "type": "unknown",
+          "raw": "6 credits of science"
+        },
+        {
+          "type": "unknown",
+          "raw": "6 credits of literature"
+        },
+        {
+          "type": "unknown",
+          "raw": "satisfaction of Faculty language requirement"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ASTU 360": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ASTU 402": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "ASTU 460": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to students in the Sciences Po-UBC Dual Degree"
+    },
+    "coreq": null
+  }
+}

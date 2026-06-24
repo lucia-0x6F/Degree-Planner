@@ -1,0 +1,9 @@
+{
+  "ARBM 102": {
+    "prereq": {
+      "type": "course",
+      "code": "ARBM 101"
+    },
+    "coreq": null
+  }
+}

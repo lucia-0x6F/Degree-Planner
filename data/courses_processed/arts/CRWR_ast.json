@@ -1,0 +1,298 @@
+{
+  "CRWR 301": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 201"
+    },
+    "coreq": null
+  },
+  "CRWR 303": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 203"
+    },
+    "coreq": null
+  },
+  "CRWR 305": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 205"
+    },
+    "coreq": null
+  },
+  "CRWR 306": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 206"
+    },
+    "coreq": null
+  },
+  "CRWR 307": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 200"
+    },
+    "coreq": null
+  },
+  "CRWR 308": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 208"
+    },
+    "coreq": null
+  },
+  "CRWR 309": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 209"
+    },
+    "coreq": null
+  },
+  "CRWR 310": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 210"
+    },
+    "coreq": null
+  },
+  "CRWR 311": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 200"
+    },
+    "coreq": null
+  },
+  "CRWR 312": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 213"
+    },
+    "coreq": null
+  },
+  "CRWR 316": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 206"
+    },
+    "coreq": null
+  },
+  "CRWR 319": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 209"
+    },
+    "coreq": null
+  },
+  "CRWR 330": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 230"
+    },
+    "coreq": null
+  },
+  "CRWR 351": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 301"
+    },
+    "coreq": null
+  },
+  "CRWR 353": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 303"
+    },
+    "coreq": null
+  },
+  "CRWR 355": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 305"
+    },
+    "coreq": null
+  },
+  "CRWR 356": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 306"
+    },
+    "coreq": null
+  },
+  "CRWR 358": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 308"
+    },
+    "coreq": null
+  },
+  "CRWR 359": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 309"
+    },
+    "coreq": null
+  },
+  "CRWR 415": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Proficiency in a language other than English"
+    },
+    "coreq": null
+  },
+  "CRWR 417": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Manuscript submission or equivalent theatre experience"
+    },
+    "coreq": null
+  },
+  "CRWR 451": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 401"
+    },
+    "coreq": null
+  },
+  "CRWR 452": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 402"
+    },
+    "coreq": null
+  },
+  "CRWR 453": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 403"
+    },
+    "coreq": null
+  },
+  "CRWR 454": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 404"
+    },
+    "coreq": null
+  },
+  "CRWR 455": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 405"
+    },
+    "coreq": null
+  },
+  "CRWR 456": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 406"
+    },
+    "coreq": null
+  },
+  "CRWR 457": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to Majors in Creative Writing"
+    },
+    "coreq": null
+  },
+  "CRWR 458": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 408"
+    },
+    "coreq": null
+  },
+  "CRWR 459": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 409"
+    },
+    "coreq": null
+  },
+  "CRWR 460": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CRWR 415"
+        },
+        {
+          "type": "unknown",
+          "raw": "proficiency in a language other than English"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CRWR 461": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 411"
+    },
+    "coreq": null
+  },
+  "CRWR 466": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 416"
+    },
+    "coreq": null
+  },
+  "CRWR 515": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Proficiency in a language other than English"
+    },
+    "coreq": null
+  },
+  "CRWR 517": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Manuscript submission or equivalent theatre experience"
+    },
+    "coreq": null
+  },
+  "CRWR 520": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the instructor is required"
+    },
+    "coreq": null
+  },
+  "CRWR 553": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 503"
+    },
+    "coreq": null
+  },
+  "CRWR 554": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 504"
+    },
+    "coreq": null
+  },
+  "CRWR 555": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 505"
+    },
+    "coreq": null
+  },
+  "CRWR 560": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 515"
+    },
+    "coreq": null
+  },
+  "CRWR 566": {
+    "prereq": {
+      "type": "course",
+      "code": "CRWR 514"
+    },
+    "coreq": null
+  }
+}

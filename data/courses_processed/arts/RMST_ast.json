@@ -1,0 +1,23 @@
+{
+  "RMST 300": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A beginners' knowledge (A1) in at least of one of the Romance languages is"
+    },
+    "coreq": null
+  },
+  "RMST 400": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "RMST 417": {
+    "prereq": {
+      "type": "course",
+      "code": "RMST 317"
+    },
+    "coreq": null
+  }
+}

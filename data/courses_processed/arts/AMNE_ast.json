@@ -1,0 +1,94 @@
+{
+  "AMNE 300": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "AMNE 316": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CLST 231"
+        },
+        {
+          "type": "course",
+          "code": "AMNE 215"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "AMNE 317": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CLST 231"
+        },
+        {
+          "type": "course",
+          "code": "AMNE 215"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "AMNE 318": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CLST 232"
+        },
+        {
+          "type": "course",
+          "code": "AMNE 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "AMNE 319": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CLST 232"
+        },
+        {
+          "type": "course",
+          "code": "AMNE 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "AMNE 345": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "AMNE 346": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "AMNE 347": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  }
+}

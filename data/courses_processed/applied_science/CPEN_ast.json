@@ -1,0 +1,662 @@
+{
+  "CPEN 211": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 160"
+    },
+    "coreq": null
+  },
+  "CPEN 212": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 211"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 223"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 259"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 221": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 160"
+    },
+    "coreq": null
+  },
+  "CPEN 223": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 160"
+    },
+    "coreq": null
+  },
+  "CPEN 281": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 291": {
+    "prereq": {
+      "type": "course",
+      "code": "CPEN 211"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "ELEC 201"
+    }
+  },
+  "CPEN 311": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 211"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 312"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 312": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 204"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 203"
+        },
+        {
+          "type": "course",
+          "code": "MECH 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 221"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 321": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "CPEN 322"
+    }
+  },
+  "CPEN 331": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 212"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 333": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPSC 259"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 355": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 318"
+            },
+            {
+              "type": "course",
+              "code": "MATH 302"
+            },
+            {
+              "type": "course",
+              "code": "STAT 302"
+            },
+            {
+              "type": "course",
+              "code": "STAT 321"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 321"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 223"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 259"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 355"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "CPSC 340"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 391": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 212"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 221"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 411": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 211"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 212"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 412": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 311"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 211"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 312"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 416": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 223"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 259"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 221"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 421": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 321"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 422": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 221"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 321"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 210"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 423": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 221"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 321"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 431": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 331"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 313"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 432": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 333"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 331"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 313"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 441": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPSC 221"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 333"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 442": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 333"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 331"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 313"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 455": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 318"
+            },
+            {
+              "type": "course",
+              "code": "MATH 302"
+            },
+            {
+              "type": "course",
+              "code": "STAT 302"
+            },
+            {
+              "type": "course",
+              "code": "STAT 321"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 321"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 223"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 259"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 491": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 331"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 320"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 311"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 322"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 291"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 391"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CPEN 497": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CPEN 642": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "by permission of the instructor"
+    },
+    "coreq": null
+  }
+}

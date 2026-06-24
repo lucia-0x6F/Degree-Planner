@@ -1,0 +1,57 @@
+{
+  "ARST 592": {
+    "prereq": {
+      "type": "course",
+      "code": "ARST 591"
+    },
+    "coreq": null
+  },
+  "ARST 596": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ARST 500"
+            },
+            {
+              "type": "course",
+              "code": "ARST 510"
+            },
+            {
+              "type": "course",
+              "code": "ARST 520"
+            },
+            {
+              "type": "course",
+              "code": "ARST 515"
+            },
+            {
+              "type": "course",
+              "code": "ARST 516"
+            },
+            {
+              "type": "course",
+              "code": "ARST 555"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "ARST 573"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARST 599": {
+    "prereq": {
+      "type": "course",
+      "code": "ARST 591"
+    },
+    "coreq": null
+  }
+}

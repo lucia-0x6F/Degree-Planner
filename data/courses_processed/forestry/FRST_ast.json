@@ -1,0 +1,812 @@
+{
+  "FRST 200": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "FRST 203": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "FRST202"
+    },
+    "coreq": null
+  },
+  "FRST 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 200"
+        },
+        {
+          "type": "course",
+          "code": "NRES 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "NRES 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 231": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        },
+        {
+          "type": "course",
+          "code": "MATH 190"
+        }
+      ]
+    }
+  },
+  "FRST 239": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "NRES 231"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 232"
+            },
+            {
+              "type": "course",
+              "code": "NRES 232"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 305": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "NRES 201"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 350"
+            },
+            {
+              "type": "course",
+              "code": "FRST 351"
+            },
+            {
+              "type": "course",
+              "code": "UFOR 400"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 307": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 210"
+            },
+            {
+              "type": "course",
+              "code": "NRES 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 211"
+            },
+            {
+              "type": "course",
+              "code": "NRES 211"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 310": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "FRST 318": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 210"
+            },
+            {
+              "type": "course",
+              "code": "NRES 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 211"
+            },
+            {
+              "type": "course",
+              "code": "NRES 211"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 339": {
+    "prereq": {
+      "type": "course",
+      "code": "FRST 239"
+    },
+    "coreq": null
+  },
+  "FRST 350": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 211"
+            },
+            {
+              "type": "course",
+              "code": "NRES 211"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "NRES 201"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 351": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 210"
+        },
+        {
+          "type": "course",
+          "code": "NRES 210"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 211"
+        },
+        {
+          "type": "course",
+          "code": "NRES 211"
+        }
+      ]
+    }
+  },
+  "FRST 385": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 386": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 395": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 306"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 399": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 225"
+        },
+        {
+          "type": "course",
+          "code": "NRES 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 402": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 403": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "NRES 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 404": {
+    "prereq": {
+      "type": "course",
+      "code": "FRST 305"
+    },
+    "coreq": null
+  },
+  "FRST 408": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 307"
+        },
+        {
+          "type": "course",
+          "code": "APBI 327"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 327"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 410": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 411": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "FRST 413": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 200"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 201"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 209"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 210"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "FRST 200"
+                },
+                {
+                  "type": "course",
+                  "code": "NRES 200"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "FRST 210"
+                },
+                {
+                  "type": "course",
+                  "code": "NRES 210"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 415": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 422": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 423": {
+    "prereq": {
+      "type": "course",
+      "code": "FRST 422"
+    },
+    "coreq": null
+  },
+  "FRST 430": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "NRES 231"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "FRST 399"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 436": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "FRST339"
+    },
+    "coreq": null
+  },
+  "FRST 444": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "NRES 201"
+        },
+        {
+          "type": "course",
+          "code": "APBI 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 452": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 350"
+        },
+        {
+          "type": "course",
+          "code": "FRST 305"
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 456": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "FRST 470": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 475": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BEST 203"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            },
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "APBI 260"
+            },
+            {
+              "type": "course",
+              "code": "GEOS 207"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 485": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "FRST385"
+    },
+    "coreq": null
+  },
+  "FRST 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "FRST 491": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 492": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "FRST 495": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "NRES 201"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "FRST 395"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 497": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "FRST 509": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 231"
+        },
+        {
+          "type": "course",
+          "code": "NRES 231"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 513": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 335"
+    },
+    "coreq": null
+  },
+  "FRST 516": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 311"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 351"
+        },
+        {
+          "type": "course",
+          "code": "APBI 351"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 529": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 301"
+    },
+    "coreq": null
+  },
+  "FRST 530": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 430"
+        },
+        {
+          "type": "course",
+          "code": "FRST 509"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRST 575": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A second-year or higher ecology course"
+    },
+    "coreq": null
+  },
+  "FRST 595": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Graduate-level standing"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "ASIC 200": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ASIC 220": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  }
+}

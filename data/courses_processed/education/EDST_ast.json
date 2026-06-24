@@ -1,0 +1,34 @@
+{
+  "EDST 529": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EDUC 500"
+        },
+        {
+          "type": "course",
+          "code": "EDST 545"
+        },
+        {
+          "type": "course",
+          "code": "EDST 571"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 595"
+        },
+        {
+          "type": "course",
+          "code": "ETEC 500"
+        },
+        {
+          "type": "course",
+          "code": "KIN 571"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

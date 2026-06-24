@@ -1,0 +1,61 @@
+{
+  "SPAN 206": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPAN 202"
+        },
+        {
+          "type": "course",
+          "code": "SPAN 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPAN 207": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPAN 202"
+        },
+        {
+          "type": "course",
+          "code": "SPAN 203"
+        },
+        {
+          "type": "course",
+          "code": "SPAN 206"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPAN 222": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPAN 202"
+        },
+        {
+          "type": "course",
+          "code": "SPAN 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPAN 592": {
+    "prereq": {
+      "type": "course",
+      "code": "SPAN 591"
+    },
+    "coreq": null
+  }
+}

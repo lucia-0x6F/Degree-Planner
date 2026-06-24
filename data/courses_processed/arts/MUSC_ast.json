@@ -1,0 +1,1786 @@
+{
+  "MUSC 101": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 100"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 110"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 104": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "or permission of the instructor"
+    },
+    "coreq": null
+  },
+  "MUSC 106": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 105"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 106"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 121": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 120"
+    },
+    "coreq": null
+  },
+  "MUSC 169": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MUSC 156"
+    }
+  },
+  "MUSC 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 111"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 205": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 106"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 106"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 205"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 206": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 205"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 205"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 206"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 207": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 107"
+    },
+    "coreq": null
+  },
+  "MUSC 220": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 121"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 221": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 220"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 271": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 272": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 281": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 282": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 283": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 291": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 292": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 293": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 171"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 172"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 181"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 182"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 183"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 191"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 192"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 193"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 300": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 307": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 207"
+    },
+    "coreq": null
+  },
+  "MUSC 309": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 200"
+        },
+        {
+          "type": "unknown",
+          "raw": "completion of the second-year piano requirement"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 311": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 312": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 311"
+    },
+    "coreq": null
+  },
+  "MUSC 313": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 311"
+    },
+    "coreq": null
+  },
+  "MUSC 319": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 119"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MUSC 100"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 103"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 320": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "or permission of instructor"
+    },
+    "coreq": null
+  },
+  "MUSC 331": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 350": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 150"
+    },
+    "coreq": null
+  },
+  "MUSC 351": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 151"
+    },
+    "coreq": null
+  },
+  "MUSC 352": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 120"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 353": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 120"
+    },
+    "coreq": null
+  },
+  "MUSC 354": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 121"
+    },
+    "coreq": null
+  },
+  "MUSC 355": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 121"
+    },
+    "coreq": null
+  },
+  "MUSC 356": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 220"
+    },
+    "coreq": null
+  },
+  "MUSC 358": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 221"
+    },
+    "coreq": null
+  },
+  "MUSC 359": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 159"
+    },
+    "coreq": null
+  },
+  "MUSC 360": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 160"
+    },
+    "coreq": null
+  },
+  "MUSC 361": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 161"
+    },
+    "coreq": null
+  },
+  "MUSC 362": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 162"
+    },
+    "coreq": null
+  },
+  "MUSC 365": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 221"
+    },
+    "coreq": null
+  },
+  "MUSC 366": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 154"
+    },
+    "coreq": null
+  },
+  "MUSC 369": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MUSC 350"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 351"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 359"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 360"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 361"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 362"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 366"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 453"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 456"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 457"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 463"
+            },
+            {
+              "type": "course",
+              "code": "MUSC 466"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "permission of the instructor"
+        }
+      ]
+    }
+  },
+  "MUSC 371": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 372": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 381": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 382": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 383": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 391": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 392": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 393": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 272"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 394": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 271"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 281"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 283"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 291"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 292"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 409": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 410": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 411": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 412": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 413": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 300"
+    },
+    "coreq": null
+  },
+  "MUSC 414": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 415": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 200"
+    },
+    "coreq": null
+  },
+  "MUSC 417": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor is required"
+    },
+    "coreq": null
+  },
+  "MUSC 419": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 320"
+    },
+    "coreq": null
+  },
+  "MUSC 420": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 419"
+        },
+        {
+          "type": "unknown",
+          "raw": "permission of the Instructor"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 428": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "or instructor's permission"
+    },
+    "coreq": null
+  },
+  "MUSC 430": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 120"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 121"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 220"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 433": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 333"
+    },
+    "coreq": null
+  },
+  "MUSC 453": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 153"
+    },
+    "coreq": null
+  },
+  "MUSC 454": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 121"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 220"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 455": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 220"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 456": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 156"
+    },
+    "coreq": null
+  },
+  "MUSC 457": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 157"
+    },
+    "coreq": null
+  },
+  "MUSC 463": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 163"
+    },
+    "coreq": null
+  },
+  "MUSC 464": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 164"
+    },
+    "coreq": null
+  },
+  "MUSC 465": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 221"
+    },
+    "coreq": null
+  },
+  "MUSC 466": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 165"
+    },
+    "coreq": null
+  },
+  "MUSC 469": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor"
+    },
+    "coreq": null
+  },
+  "MUSC 471": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 472": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 481": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 482": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 483": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 491": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 492": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 493": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUS 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 494": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 371"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 372"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 381"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 382"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 383"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 391"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 392"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 393"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 394"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 508": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 507"
+    },
+    "coreq": null
+  },
+  "MUSC 531": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 529"
+    },
+    "coreq": null
+  },
+  "MUSC 537": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 221"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 301"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 454"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 455"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 520"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 538": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor is required"
+    },
+    "coreq": null
+  },
+  "MUSC 539": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 439"
+    },
+    "coreq": null
+  },
+  "MUSC 544": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to M.Mus. Conducting (Choral, Orchestral, Wind) or permission of the instructor"
+    },
+    "coreq": null
+  },
+  "MUSC 545": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to M.Mus. Conducting (Choral, Orchestral, Wind) or permission of the instructor"
+    },
+    "coreq": null
+  },
+  "MUSC 547": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 221"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 301"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 365"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 465"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 520"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 600": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 500"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 410"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 411"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 412"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 413"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MUSC 609": {
+    "prereq": {
+      "type": "course",
+      "code": "MUSC 509"
+    },
+    "coreq": null
+  }
+}

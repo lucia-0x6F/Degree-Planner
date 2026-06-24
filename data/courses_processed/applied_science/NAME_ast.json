@@ -1,0 +1,52 @@
+{
+  "NAME 501": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 435"
+    },
+    "coreq": null
+  },
+  "NAME 502": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 488"
+    },
+    "coreq": null
+  },
+  "NAME 581": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 488"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 435"
+        },
+        {
+          "type": "course",
+          "code": "NAME 524"
+        }
+      ]
+    }
+  },
+  "NAME 592": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NAME 522"
+        },
+        {
+          "type": "course",
+          "code": "NAME 566"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

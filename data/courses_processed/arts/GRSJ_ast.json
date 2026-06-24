@@ -1,0 +1,34 @@
+{
+  "GRSJ 480": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "GRSJ 101"
+        },
+        {
+          "type": "course",
+          "code": "GRSJ 102"
+        },
+        {
+          "type": "course",
+          "code": "GRSJ 325"
+        },
+        {
+          "type": "course",
+          "code": "GRSJ 326"
+        },
+        {
+          "type": "course",
+          "code": "GRSJ 327"
+        },
+        {
+          "type": "course",
+          "code": "GRSJ 328"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,193 @@
+{
+  "UFOR 300": {
+    "prereq": {
+      "type": "course",
+      "code": "UFOR 316"
+    },
+    "coreq": null
+  },
+  "UFOR 316": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 200"
+        },
+        {
+          "type": "course",
+          "code": "NRES 200"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "UFOR 316"
+        },
+        {
+          "type": "course",
+          "code": "UFOR 300"
+        }
+      ]
+    }
+  },
+  "UFOR 330": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "UFOR 400": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "UFOR 300"
+            },
+            {
+              "type": "course",
+              "code": "UFOR 316"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "UFOR 401": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "UFOR 300"
+            },
+            {
+              "type": "course",
+              "code": "UFOR 400"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "UFOR 402": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "UFOR 300"
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "UFOR 403": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "NRES 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "UFOR 495": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "NRES 201"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "UFOR 522": {
+    "prereq": {
+      "type": "course",
+      "code": "UFOR 511"
+    },
+    "coreq": null
+  },
+  "UFOR 523": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "UFOR 500"
+        },
+        {
+          "type": "course",
+          "code": "UFOR 511"
+        },
+        {
+          "type": "course",
+          "code": "UFOR 512"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "UFOR 531": {
+    "prereq": {
+      "type": "course",
+      "code": "FCOR 599"
+    },
+    "coreq": null
+  }
+}

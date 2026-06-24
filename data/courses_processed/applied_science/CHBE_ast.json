@@ -1,0 +1,988 @@
+{
+  "CHBE 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHBE 220"
+    }
+  },
+  "CHBE 220": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 154"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 221": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 220"
+    },
+    "coreq": null
+  },
+  "CHBE 230": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 160"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 241": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 154"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 244": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 241"
+    },
+    "coreq": null
+  },
+  "CHBE 251": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 170"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    }
+  },
+  "CHBE 262": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 154"
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 251"
+        }
+      ]
+    }
+  },
+  "CHBE 263": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 220"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 250"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 260"
+        }
+      ]
+    }
+  },
+  "CHBE 264": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 263"
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 244"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 251"
+        }
+      ]
+    }
+  },
+  "CHBE 344": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHBE 251"
+            },
+            {
+              "type": "course",
+              "code": "CIVL 215"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 345": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 346"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 352"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 346": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 244"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 352": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHBE 251"
+            },
+            {
+              "type": "course",
+              "code": "CIVL 215"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 355": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 230"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 346"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 352"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 356": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 362": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 201"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 230"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 264"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHBE 352"
+    }
+  },
+  "CHBE 364": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 373"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 406"
+        }
+      ]
+    }
+  },
+  "CHBE 365": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 221"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 362"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHBE 381"
+    }
+  },
+  "CHBE 366": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 251"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 362"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 356"
+        }
+      ]
+    }
+  },
+  "CHBE 370": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 244"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 373": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 251"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 215"
+        },
+        {
+          "type": "course",
+          "code": "MECH 280"
+        },
+        {
+          "type": "course",
+          "code": "MTRL 263"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 376": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 241"
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 355"
+        }
+      ]
+    }
+  },
+  "CHBE 381": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHBE 221"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 245"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 431": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 365"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 451": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 346"
+        },
+        {
+          "type": "course",
+          "code": "MTRL 350"
+        },
+        {
+          "type": "course",
+          "code": "MECH 327"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 452": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 356"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 376"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 471"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 481"
+        }
+      ]
+    }
+  },
+  "CHBE 453": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 356"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 376"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 381"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHBE 481"
+    }
+  },
+  "CHBE 454": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 356"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 376"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHBE 471"
+    }
+  },
+  "CHBE 455": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 251"
+    },
+    "coreq": null
+  },
+  "CHBE 456": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 230"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 352"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 355"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 459": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third-year or higher standing in BASc or BSc"
+    },
+    "coreq": null
+  },
+  "CHBE 464": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 362"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHBE 365"
+            },
+            {
+              "type": "course",
+              "code": "CHBE 366"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 465": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 221"
+    },
+    "coreq": null
+  },
+  "CHBE 470": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 221"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 471": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 355"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 473": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 370"
+    },
+    "coreq": null
+  },
+  "CHBE 474": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 356"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 341"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 476": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 376"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 477": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 220"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 346"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 480": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third-year or higher standing in BASc or BSc"
+    },
+    "coreq": null
+  },
+  "CHBE 481": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 345"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 381"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 482": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 376"
+    },
+    "coreq": null
+  },
+  "CHBE 483": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CHBE 485": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third-year or higher standing in BASc. or BSc"
+    },
+    "coreq": null
+  },
+  "CHBE 488": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHBE 244"
+            },
+            {
+              "type": "course",
+              "code": "MTRL 252"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHBE 251"
+            },
+            {
+              "type": "course",
+              "code": "CIVL 215"
+            },
+            {
+              "type": "course",
+              "code": "MTRL 263"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 491": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 366"
+    },
+    "coreq": null
+  },
+  "CHBE 492": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 491"
+    },
+    "coreq": null
+  },
+  "CHBE 493": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 364"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 365"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 366"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHBE 494": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 493"
+    },
+    "coreq": null
+  },
+  "CHBE 495": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 365"
+    },
+    "coreq": null
+  },
+  "CHBE 496": {
+    "prereq": {
+      "type": "course",
+      "code": "CHBE 495"
+    },
+    "coreq": null
+  },
+  "CHBE 498": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third-year Chemical and Biological Engineering"
+    },
+    "coreq": null
+  },
+  "CHBE 505": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Supervisor and instructor approval required"
+    },
+    "coreq": null
+  },
+  "CHBE 566": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 112"
+    },
+    "coreq": null
+  },
+  "CHBE 570": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 112"
+    },
+    "coreq": null
+  }
+}

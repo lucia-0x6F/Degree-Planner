@@ -1,0 +1,70 @@
+{
+  "LAIS 620": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "LAIS 605"
+            },
+            {
+              "type": "course",
+              "code": "LAIS 607"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "LAIS 608"
+            },
+            {
+              "type": "course",
+              "code": "LAIS 609"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LAIS 621": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "LAIS 605"
+            },
+            {
+              "type": "course",
+              "code": "LAIS 607"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "LAIS 608"
+            },
+            {
+              "type": "course",
+              "code": "LAIS 609"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

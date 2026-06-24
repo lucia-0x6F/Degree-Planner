@@ -1,0 +1,368 @@
+{
+  "BUSI 101": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 100"
+    },
+    "coreq": null
+  },
+  "BUSI 221": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 121"
+    },
+    "coreq": null
+  },
+  "BUSI 294": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 293"
+    },
+    "coreq": null
+  },
+  "BUSI 300": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 100"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 331": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 121"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 330"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 352": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 330"
+    },
+    "coreq": null
+  },
+  "BUSI 353": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 293"
+    },
+    "coreq": null
+  },
+  "BUSI 354": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 294"
+    },
+    "coreq": null
+  },
+  "BUSI 355": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 293"
+    },
+    "coreq": null
+  },
+  "BUSI 370": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 293"
+    },
+    "coreq": null
+  },
+  "BUSI 399": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 290"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 291"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 414": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 291"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 335"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 441": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 330"
+    },
+    "coreq": null
+  },
+  "BUSI 442": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 121"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 330"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 331"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 445": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 330"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 331"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 446": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 445"
+    },
+    "coreq": null
+  },
+  "BUSI 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 293"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 370"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BUSI 353"
+    }
+  },
+  "BUSI 453": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 353"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 450"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 454": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 294"
+    },
+    "coreq": null
+  },
+  "BUSI 455": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 353"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BUSI 450"
+    }
+  },
+  "BUSI 460": {
+    "prereq": {
+      "type": "course",
+      "code": "BUSI 121"
+    },
+    "coreq": null
+  },
+  "BUSI 465": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 293"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 470": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 370"
+        },
+        {
+          "type": "course",
+          "code": "COMM 473"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 493": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 291"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 293"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 294"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 295"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 335"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 353"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 370"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 393"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 450"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 497": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 330"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 331"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 442"
+        },
+        {
+          "type": "course",
+          "code": "BUSI 452"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BUSI 498": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BUSI 293"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ECON 101"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 102"
+                }
+              ]
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "unknown",
+      "raw": "Two of BUSI 294, BUSI 329, BUSI 370, BUSI 465"
+    }
+  }
+}

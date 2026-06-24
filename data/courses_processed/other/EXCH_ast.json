@@ -1,0 +1,16 @@
+{
+  "EXCH 371": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "EXCH 375": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "for BEDN, DEDU, BEDS, BEDE, BEDM"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "AI 240": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPSC 107"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 111"
+        },
+        {
+          "type": "course",
+          "code": "MATH 131"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "AI 422": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "AI 322"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 322"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

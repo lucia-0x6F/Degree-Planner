@@ -1,0 +1,25 @@
+{
+  "OBST 503": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Knowledge of fetal growth and development, physiology, pathology of labour"
+    },
+    "coreq": null
+  },
+  "OBST 507": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "OBST 502"
+        },
+        {
+          "type": "course",
+          "code": "OBST 504"
+        }
+      ]
+    }
+  }
+}

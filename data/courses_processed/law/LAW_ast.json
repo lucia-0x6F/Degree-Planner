@@ -1,0 +1,16 @@
+{
+  "LAW 429": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "LAW 431"
+    }
+  },
+  "LAW 431": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "LAW 429"
+    }
+  }
+}

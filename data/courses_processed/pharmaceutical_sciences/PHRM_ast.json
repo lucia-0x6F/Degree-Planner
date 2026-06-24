@@ -1,0 +1,805 @@
+{
+  "PHRM 111": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 100"
+    },
+    "coreq": null
+  },
+  "PHRM 171": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 100"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 111"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 131"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 141"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 161"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 211": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHRM 231"
+    }
+  },
+  "PHRM 212": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 211"
+    },
+    "coreq": null
+  },
+  "PHRM 221": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": null
+  },
+  "PHRM 231": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHRM 211"
+    }
+  },
+  "PHRM 241": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": null
+  },
+  "PHRM 251": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": null
+  },
+  "PHRM 252": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": null
+  },
+  "PHRM 261": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": null
+  },
+  "PHRM 270": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 171"
+    },
+    "coreq": null
+  },
+  "PHRM 271": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 211"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 212"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 221"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 231"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 241"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 251"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 252"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 261"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 270"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 272": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 211"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 212"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 221"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 231"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 241"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 251"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 252"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 261"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 270"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 311": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 312": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 311"
+    },
+    "coreq": null
+  },
+  "PHRM 322": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 323": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 324": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 325": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 326": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 327": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 328": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 329": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 330": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 211"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 212"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHRM 271"
+            },
+            {
+              "type": "course",
+              "code": "PHRM 272"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 331": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 332": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 333": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 334": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 340": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 341": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 346": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 351": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 271"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 272"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 371": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 311"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 312"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 341"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 351"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 441": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 371"
+    },
+    "coreq": null
+  },
+  "PHRM 462": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 463": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 464": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 465": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 466": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 467": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 468": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 469": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 461"
+    },
+    "coreq": null
+  },
+  "PHRM 471": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 371"
+    },
+    "coreq": null
+  },
+  "PHRM 472": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 371"
+    },
+    "coreq": null
+  },
+  "PHRM 473": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 371"
+    },
+    "coreq": null
+  },
+  "PHRM 481": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 371"
+    },
+    "coreq": null
+  },
+  "PHRM 491": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 451"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 452"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 453"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 461"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 492": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 451"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 452"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 453"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 461"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 493": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 451"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 452"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 453"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 461"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 494": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 451"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 452"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 453"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 461"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 495": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 451"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 452"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 453"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 461"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 496": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHRM 451"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 452"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 453"
+        },
+        {
+          "type": "course",
+          "code": "PHRM 461"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHRM 499": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Successful completion of all other coursework"
+    },
+    "coreq": null
+  },
+  "PHRM 521": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "PHRM 520"
+    }
+  },
+  "PHRM 522": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 521"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHRM 520"
+    }
+  },
+  "PHRM 523": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 522"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHRM 520"
+    }
+  },
+  "PHRM 524": {
+    "prereq": {
+      "type": "course",
+      "code": "PHRM 523"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHRM 520"
+    }
+  }
+}

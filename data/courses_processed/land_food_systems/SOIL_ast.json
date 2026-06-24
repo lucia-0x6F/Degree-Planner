@@ -1,0 +1,9 @@
+{
+  "SOIL 524": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the instructor is required"
+    },
+    "coreq": null
+  }
+}

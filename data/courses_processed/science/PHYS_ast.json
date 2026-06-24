@@ -1,0 +1,2434 @@
+{
+  "PHYS 100": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Not open to students with credit for PHYS 12"
+    },
+    "coreq": null
+  },
+  "PHYS 101": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 102": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 101"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 107"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        }
+      ]
+    }
+  },
+  "PHYS 106": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "a score more than 85% in all of PHYS 12, MATH 12"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 100"
+            },
+            {
+              "type": "unknown",
+              "raw": "MATH 12 = Principles of Mathematics 12"
+            },
+            {
+              "type": "unknown",
+              "raw": "PREC 12 = Pre-Calculus 12"
+            },
+            {
+              "type": "unknown",
+              "raw": "CALC 12 = Calculus 12"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 107": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "a score of 85% or higher in all of PHYS 12, MATH 12"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 100"
+            },
+            {
+              "type": "unknown",
+              "raw": "PREC 12 = Pre-Calculus 12"
+            },
+            {
+              "type": "unknown",
+              "raw": "CALC 12 = Calculus 12"
+            },
+            {
+              "type": "unknown",
+              "raw": "PHYS 12 = Physics 12"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 108": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 106"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 107"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 131"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        }
+      ]
+    }
+  },
+  "PHYS 109": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 107"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 108"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 118"
+        }
+      ]
+    }
+  },
+  "PHYS 117": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 118": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 106"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 107"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 131"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        }
+      ]
+    }
+  },
+  "PHYS 119": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 129": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 107"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 119"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 131": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 153": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 157": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    }
+  },
+  "PHYS 158": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 157"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        }
+      ]
+    }
+  },
+  "PHYS 159": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 100"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 157"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 158"
+        }
+      ]
+    }
+  },
+  "PHYS 200": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 102"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 108"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 118"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 158"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 203": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 102"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 108"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 118"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 158"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 153"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    }
+  },
+  "PHYS 209": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 109"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 153"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 119"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 119"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 258"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PHYS 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 102"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 108"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 118"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 158"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 153"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    }
+  },
+  "PHYS 216": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 106"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 107"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    }
+  },
+  "PHYS 219": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 108"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 118"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 109"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 119"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        }
+      ]
+    }
+  },
+  "PHYS 229": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 219"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MATH 215"
+    }
+  },
+  "PHYS 250": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 102"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 108"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 118"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 158"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 153"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 298": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 200"
+    },
+    "coreq": null
+  },
+  "PHYS 299": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 298"
+    },
+    "coreq": null
+  },
+  "PHYS 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 153"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 227"
+            },
+            {
+              "type": "course",
+              "code": "MATH 317"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 304": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 200"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 250"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 257"
+        },
+        {
+          "type": "course",
+          "code": "MATH 316"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 312"
+        }
+      ]
+    }
+  },
+  "PHYS 305": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 153"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 203"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 201"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 205"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 302"
+            },
+            {
+              "type": "course",
+              "code": "MATH 318"
+            },
+            {
+              "type": "course",
+              "code": "STAT 241"
+            },
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "STAT 302"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 306": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 216"
+            },
+            {
+              "type": "course",
+              "code": "ENPH 270"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 258"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 309": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 209"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 229"
+        },
+        {
+          "type": "course",
+          "code": "ENPH 259"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "STAT 203"
+            },
+            {
+              "type": "course",
+              "code": "STAT 241"
+            },
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "MATH 318"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 210"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "APSC 160"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 314": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 215"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHYS 203"
+    }
+  },
+  "PHYS 315": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 203"
+            },
+            {
+              "type": "course",
+              "code": "ENPH 257"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 201"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 205"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 304"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 200"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 250"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 318": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ENPH 259"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 209"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 229"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 319": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 209"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 219"
+        },
+        {
+          "type": "course",
+          "code": "ENPH 259"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 330": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 100"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 102"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 104"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 110"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 180"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 184"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 333": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 102"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 108"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 118"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 158"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 343": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Secondary school algebra"
+    },
+    "coreq": null
+  },
+  "PHYS 348": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "PHYS 354": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 153"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 227"
+            },
+            {
+              "type": "course",
+              "code": "MATH 317"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 399": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 299"
+    },
+    "coreq": null
+  },
+  "PHYS 400": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 304"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 450"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 401": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 301"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 354"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 304"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 450"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 403": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 203"
+            },
+            {
+              "type": "course",
+              "code": "ENPH 257"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 257"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 201"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 304"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 304"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 450"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 404": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "PHYS 405": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 153"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 407": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 227"
+            },
+            {
+              "type": "course",
+              "code": "MATH 317"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 408": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 301"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 354"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 409": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 309"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 319"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 410": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 312"
+            },
+            {
+              "type": "course",
+              "code": "MATH 257"
+            },
+            {
+              "type": "course",
+              "code": "MATH 316"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 210"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "APSC 160"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 412": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 215"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 437": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 313"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 403"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 455"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 304"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 438": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 101"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 106"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 107"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 117"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 131"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 157"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 450": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 200"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 250"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 454": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 301"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 354"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 455": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 257"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 203"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 313"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 304"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 450"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 458": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 250"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 354"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 473": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 304"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 450"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 474": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 450"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 304"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 498": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 399"
+    },
+    "coreq": null
+  },
+  "PHYS 499": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 498"
+    },
+    "coreq": null
+  },
+  "PHYS 502": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 474"
+    },
+    "coreq": null
+  },
+  "PHYS 503": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 502"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHYS 500"
+    }
+  },
+  "PHYS 504": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 401"
+    },
+    "coreq": null
+  },
+  "PHYS 508": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 526"
+    },
+    "coreq": null
+  },
+  "PHYS 521": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 500"
+    },
+    "coreq": null
+  },
+  "PHYS 525": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 500"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 503"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 527": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 501"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 505"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHYS 528": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 505"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHYS 508"
+    }
+  },
+  "PHYS 530": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 504"
+    },
+    "coreq": null
+  },
+  "PHYS 573": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 474"
+    },
+    "coreq": null
+  }
+}

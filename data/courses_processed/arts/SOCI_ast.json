@@ -1,0 +1,422 @@
+{
+  "SOCI 217": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 310": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 328": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 370": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 371": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 372": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 380": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 217"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 381": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SOCI 100"
+            },
+            {
+              "type": "course",
+              "code": "SOCI 101"
+            },
+            {
+              "type": "course",
+              "code": "SOCI 102"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SOCI 217"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 382": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SOCI 100"
+            },
+            {
+              "type": "course",
+              "code": "SOCI 101"
+            },
+            {
+              "type": "course",
+              "code": "SOCI 102"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SOCI 217"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 383": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SOCI 100"
+            },
+            {
+              "type": "course",
+              "code": "SOCI 101"
+            },
+            {
+              "type": "course",
+              "code": "SOCI 102"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SOCI 217"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 414": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 415": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 416": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 418": {
+    "prereq": {
+      "type": "course",
+      "code": "SOCI 328"
+    },
+    "coreq": null
+  },
+  "SOCI 449": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 100"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 101"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 469": {
+    "prereq": {
+      "type": "course",
+      "code": "SOCI 369"
+    },
+    "coreq": null
+  },
+  "SOCI 505": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 500"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 501"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 506": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 502"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 503"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 507": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 500"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 501"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 508": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 502"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 503"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 514": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SOCI 502"
+        },
+        {
+          "type": "course",
+          "code": "SOCI 502"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SOCI 515": {
+    "prereq": {
+      "type": "course",
+      "code": "SOCI 503"
+    },
+    "coreq": null
+  }
+}

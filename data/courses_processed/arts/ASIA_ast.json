@@ -1,0 +1,58 @@
+{
+  "ASIA 403": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "ASIA 433": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ASIA 436": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ASIA 462": {
+    "prereq": {
+      "type": "course",
+      "code": "ASIA 354"
+    },
+    "coreq": null
+  },
+  "ASIA 463": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ASIA 465": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ASIA 476": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ASIA 478": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  }
+}

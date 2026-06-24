@@ -1,0 +1,18 @@
+{
+  "MES 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MES 300"
+        },
+        {
+          "type": "unknown",
+          "raw": "permission of instructor"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

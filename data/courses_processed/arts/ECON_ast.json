@@ -1,0 +1,4588 @@
+{
+  "ECON 210": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 211": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 221": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 226": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            },
+            {
+              "type": "course",
+              "code": "ECON 102"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "ECON 311"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 234": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 241": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 255": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 303": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 304": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 305": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "ECON 102"
+        },
+        {
+          "type": "course",
+          "code": "ECON 311"
+        },
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 306": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 304"
+    },
+    "coreq": null
+  },
+  "ECON 307": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 305"
+    },
+    "coreq": null
+  },
+  "ECON 309": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 310": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 100"
+    },
+    "coreq": null
+  },
+  "ECON 311": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 100"
+    },
+    "coreq": null
+  },
+  "ECON 315": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 316": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 317": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 318": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 319": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 323": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 325": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 326": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 325"
+            },
+            {
+              "type": "course",
+              "code": "ECON 327"
+            },
+            {
+              "type": "course",
+              "code": "COMM 191"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "STAT 241"
+            },
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "LFS 252"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 327": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 328": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 325"
+        },
+        {
+          "type": "course",
+          "code": "ECON 327"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 333": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 334": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 335": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 336": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 337": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 339": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 345": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 350": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 351": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 355": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 356": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 360": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 364": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 365": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 367": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 370": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 371": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 374": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 384": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 390": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 392": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 398": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ECON 101"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 310"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 102"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 311"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "STAT 200"
+                },
+                {
+                  "type": "course",
+                  "code": "STAT 201"
+                },
+                {
+                  "type": "course",
+                  "code": "STAT 241"
+                },
+                {
+                  "type": "course",
+                  "code": "STAT 251"
+                },
+                {
+                  "type": "course",
+                  "code": "COMM 191"
+                },
+                {
+                  "type": "course",
+                  "code": "FRST 231"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ECON 226"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 325"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 326"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 327"
+                }
+              ]
+            },
+            {
+              "type": "unknown",
+              "raw": "or (c) permission of the instructor"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 406": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 303"
+            },
+            {
+              "type": "course",
+              "code": "ECON 306"
+            },
+            {
+              "type": "course",
+              "code": "ECON 316"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 407": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 408": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 323"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 107"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 301"
+            },
+            {
+              "type": "course",
+              "code": "MATH 210"
+            },
+            {
+              "type": "course",
+              "code": "COMM 337"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 210"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            },
+            {
+              "type": "course",
+              "code": "APSC 160"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 420": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 421": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 425": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 326"
+        },
+        {
+          "type": "course",
+          "code": "ECON 328"
+        },
+        {
+          "type": "course",
+          "code": "STAT 306"
+        },
+        {
+          "type": "course",
+          "code": "LFS 252"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 441": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 442": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 447": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 451": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 455": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 456": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 302"
+        },
+        {
+          "type": "course",
+          "code": "ECON 305"
+        },
+        {
+          "type": "course",
+          "code": "ECON 309"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 457": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 460": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 465": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 466": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 467": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 326"
+            },
+            {
+              "type": "course",
+              "code": "ECON 328"
+            },
+            {
+              "type": "course",
+              "code": "STAT 306"
+            },
+            {
+              "type": "course",
+              "code": "LFS 252"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 471": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 472": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 482": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 304"
+        },
+        {
+          "type": "course",
+          "code": "ECON 315"
+        },
+        {
+          "type": "course",
+          "code": "COMM 295"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 485": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 326"
+            },
+            {
+              "type": "course",
+              "code": "ECON 328"
+            },
+            {
+              "type": "course",
+              "code": "STAT 306"
+            },
+            {
+              "type": "course",
+              "code": "LFS 252"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 490": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 326"
+            },
+            {
+              "type": "course",
+              "code": "ECON 328"
+            },
+            {
+              "type": "course",
+              "code": "STAT 306"
+            },
+            {
+              "type": "course",
+              "code": "FRE 326"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 301"
+            },
+            {
+              "type": "course",
+              "code": "ECON 304"
+            },
+            {
+              "type": "course",
+              "code": "ECON 315"
+            },
+            {
+              "type": "course",
+              "code": "COMM 295"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 302"
+            },
+            {
+              "type": "course",
+              "code": "ECON 305"
+            },
+            {
+              "type": "course",
+              "code": "ECON 309"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 493": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 328"
+    },
+    "coreq": null
+  },
+  "ECON 494": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 493"
+    },
+    "coreq": null
+  },
+  "ECON 515": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 516": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 522": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 523": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 531": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 532": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 541": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            },
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 542": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 543": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 544": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 546": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 550": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 551": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 555": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 556": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 560": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 561": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 562": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 565": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 566": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 567": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 573": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 574": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 580": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 581": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 590": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 594": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 500"
+            },
+            {
+              "type": "course",
+              "code": "ECON 502"
+            },
+            {
+              "type": "course",
+              "code": "ECON 526"
+            },
+            {
+              "type": "course",
+              "code": "ECON 527"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 600"
+            },
+            {
+              "type": "course",
+              "code": "ECON 601"
+            },
+            {
+              "type": "course",
+              "code": "ECON 602"
+            },
+            {
+              "type": "course",
+              "code": "ECON 603"
+            },
+            {
+              "type": "course",
+              "code": "ECON 626"
+            },
+            {
+              "type": "course",
+              "code": "ECON 627"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 595": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 500"
+        },
+        {
+          "type": "course",
+          "code": "ECON 502"
+        },
+        {
+          "type": "course",
+          "code": "ECON 526"
+        },
+        {
+          "type": "course",
+          "code": "ECON 527"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 601": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 600"
+    },
+    "coreq": null
+  },
+  "ECON 603": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 602"
+    },
+    "coreq": null
+  },
+  "ECON 622": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 627"
+    },
+    "coreq": null
+  },
+  "ECON 627": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 626"
+    },
+    "coreq": null
+  },
+  "ECON 628": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 500"
+        },
+        {
+          "type": "course",
+          "code": "ECON 502"
+        },
+        {
+          "type": "course",
+          "code": "ECON 526"
+        },
+        {
+          "type": "course",
+          "code": "ECON 527"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECON 629": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 500"
+        },
+        {
+          "type": "course",
+          "code": "ECON 502"
+        },
+        {
+          "type": "course",
+          "code": "ECON 526"
+        },
+        {
+          "type": "course",
+          "code": "ECON 527"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

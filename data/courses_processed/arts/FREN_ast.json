@@ -1,0 +1,263 @@
+{
+  "FREN 353": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FREN 223"
+        },
+        {
+          "type": "course",
+          "code": "FREN 352"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FREN 407": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 408": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 409": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 410": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 413": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 414": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 415": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 416": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 417": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 418": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 419": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 420": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 427": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 428": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 430": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 431": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 440": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 441": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 442": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 443": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 450": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 451": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 455": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 460": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 470": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 472": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 474": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 476": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 477": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 480": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 484": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 485": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 495": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 311"
+    },
+    "coreq": null
+  },
+  "FREN 496": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 352"
+    },
+    "coreq": null
+  },
+  "FREN 592": {
+    "prereq": {
+      "type": "course",
+      "code": "FREN 591"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "SOWK 201": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "SOWK200"
+    },
+    "coreq": null
+  },
+  "SOWK 315": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "SOWK 310"
+    }
+  },
+  "SOWK 450": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  }
+}

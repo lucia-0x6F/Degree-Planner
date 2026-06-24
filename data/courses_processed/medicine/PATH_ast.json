@@ -1,0 +1,138 @@
+{
+  "PATH 314": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 313"
+    },
+    "coreq": null
+  },
+  "PATH 375": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "a) 6 credits of first year BIOL and 6 credits of first year CHEM;"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PATH 398": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two terms in BMLSc"
+    },
+    "coreq": null
+  },
+  "PATH 399": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 398"
+    },
+    "coreq": null
+  },
+  "PATH 409": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 307"
+    },
+    "coreq": null
+  },
+  "PATH 410": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 307"
+    },
+    "coreq": null
+  },
+  "PATH 411": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 307"
+    },
+    "coreq": null
+  },
+  "PATH 417": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3 credits of second year MICB (MICB"
+    },
+    "coreq": null
+  },
+  "PATH 457": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Departmental approval required"
+    },
+    "coreq": null
+  },
+  "PATH 498": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 399"
+    },
+    "coreq": null
+  },
+  "PATH 499": {
+    "prereq": {
+      "type": "course",
+      "code": "PATH 498"
+    },
+    "coreq": null
+  },
+  "PATH 518": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYL 301"
+        },
+        {
+          "type": "course",
+          "code": "PHYL 303"
+        },
+        {
+          "type": "course",
+          "code": "PHYL 400"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PATH 521": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor"
+    },
+    "coreq": null
+  },
+  "PATH 523": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 200"
+        },
+        {
+          "type": "course",
+          "code": "PATH 427"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PATH 530": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to students registered in the Pathology Graduate Program or instructor approval required"
+    },
+    "coreq": null
+  }
+}

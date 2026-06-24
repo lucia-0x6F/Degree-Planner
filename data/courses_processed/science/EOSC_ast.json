@@ -1,0 +1,1733 @@
+{
+  "EOSC 210": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 215"
+        },
+        {
+          "type": "course",
+          "code": "MINE 200"
+        }
+      ]
+    }
+  },
+  "EOSC 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 212": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "EOSC 213": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 111"
+            },
+            {
+              "type": "course",
+              "code": "MATH 131"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 160"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 220": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 110"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 111"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 120"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 141"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 222": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "EOSC 223": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "EOSC 221"
+    }
+  },
+  "EOSC 240": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 210"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CIVL 210"
+    }
+  },
+  "EOSC 250": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 106"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 107"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 131"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 256": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 270": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 110"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 111"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 120"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 141"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 310": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "2nd-year class standing or higher"
+    },
+    "coreq": null
+  },
+  "EOSC 311": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Class standing 2"
+    },
+    "coreq": null
+  },
+  "EOSC 314": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Class standing 2"
+    },
+    "coreq": null
+  },
+  "EOSC 315": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Class standing 2"
+    },
+    "coreq": null
+  },
+  "EOSC 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 221"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 210"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 222"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 321": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 221"
+    },
+    "coreq": null
+  },
+  "EOSC 322": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 221"
+    },
+    "coreq": null
+  },
+  "EOSC 323": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 221"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 210"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 222"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 325": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "standing",
+          "min_year": 3
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 326": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 100"
+    },
+    "coreq": null
+  },
+  "EOSC 327": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 205"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHEM 205"
+    }
+  },
+  "EOSC 328": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 323"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 330"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 321"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 322"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 329": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 330": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GEOB 103"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 110"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 210"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 331": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 221"
+    },
+    "coreq": null
+  },
+  "EOSC 332": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "or permission of the instructor"
+    },
+    "coreq": null
+  },
+  "EOSC 333": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 221"
+    },
+    "coreq": null
+  },
+  "EOSC 340": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 110"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 111"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 120"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 121"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 141"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 154"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 345": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd year class standing"
+    },
+    "coreq": null
+  },
+  "EOSC 350": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 352": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 250"
+        },
+        {
+          "type": "course",
+          "code": "MATH 317"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 354": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 355": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 110"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 111"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 120"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 121"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 141"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 154"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 372": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 110"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 111"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 120"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 121"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 141"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 154"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 373": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 372"
+    },
+    "coreq": null
+  },
+  "EOSC 410": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 111"
+            },
+            {
+              "type": "course",
+              "code": "MATH 131"
+            },
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 250"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 203"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 417": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "3rd-year class standing or higher"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 111"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 121"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 141"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 154"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 420": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 220"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 421": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "or permission of instructor"
+    },
+    "coreq": null
+  },
+  "EOSC 424": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 331"
+    },
+    "coreq": null
+  },
+  "EOSC 425": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 222"
+    },
+    "coreq": null
+  },
+  "EOSC 426": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 111"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 110"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 111"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 120"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 141"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 110"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 112"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 428": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 325"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 329"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 429": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 325"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 329"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 430": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 325"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 329"
+        }
+      ]
+    }
+  },
+  "EOSC 432": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "EOSC 320"
+    }
+  },
+  "EOSC 433": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 329"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 210"
+        },
+        {
+          "type": "course",
+          "code": "MINE 303"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 434": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 329"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 330"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 210"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 442": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 340"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 345"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            },
+            {
+              "type": "course",
+              "code": "MATH 210"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "STAT 201"
+            },
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 445": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 323"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 330"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 316"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 433"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 410"
+        }
+      ]
+    }
+  },
+  "EOSC 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 312"
+            },
+            {
+              "type": "course",
+              "code": "MATH 316"
+            },
+            {
+              "type": "course",
+              "code": "MATH 257"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 453": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 312"
+        },
+        {
+          "type": "course",
+          "code": "MATH 316"
+        },
+        {
+          "type": "course",
+          "code": "MATH 257"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 454": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 111"
+            },
+            {
+              "type": "course",
+              "code": "MATH 131"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 203"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 316"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 312"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 350"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 352"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 470": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 372"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 373"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 471": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 211"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ATSC 201"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 372"
+            },
+            {
+              "type": "course",
+              "code": "GEOB 200"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 106"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 107"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 131"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 472": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 373"
+    },
+    "coreq": null
+  },
+  "EOSC 473": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 372"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 373"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 474": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "EOSC 475": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A minimum of 6 credits of third-year level life science courses"
+    },
+    "coreq": null
+  },
+  "EOSC 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "EOSC 532": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 533"
+    },
+    "coreq": null
+  },
+  "EOSC 539": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Completion of a course in Economic Geology"
+    },
+    "coreq": null
+  },
+  "EOSC 541": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EOSC 430"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 540"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 533"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EOSC 579": {
+    "prereq": {
+      "type": "course",
+      "code": "EOSC 512"
+    },
+    "coreq": null
+  }
+}

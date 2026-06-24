@@ -1,0 +1,35 @@
+{
+  "FOPR 362": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "FRST 318"
+    }
+  },
+  "FOPR 388": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "FOPR 264"
+    }
+  },
+  "FOPR 464": {
+    "prereq": {
+      "type": "course",
+      "code": "FOPR 362"
+    },
+    "coreq": null
+  }
+}

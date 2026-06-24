@@ -1,0 +1,9 @@
+{
+  "ARTC 100": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Completion of Writing Component of Arts Writing and Research"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "GERN 303": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GERM 210"
+        },
+        {
+          "type": "course",
+          "code": "GERN 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GERN 309": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GERM 210"
+        },
+        {
+          "type": "course",
+          "code": "GERN 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GERN 315": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GERM 210"
+        },
+        {
+          "type": "course",
+          "code": "GERN 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GERN 404": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GERM 433"
+        },
+        {
+          "type": "course",
+          "code": "GERN 304"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

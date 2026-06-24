@@ -1,0 +1,918 @@
+{
+  "KIN 205": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "KIN 206": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "KIN 211": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 216": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 220": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "KIN 110"
+            },
+            {
+              "type": "course",
+              "code": "KIN 120"
+            },
+            {
+              "type": "course",
+              "code": "KIN 131"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 232": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 235": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 120"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 262": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 160"
+    },
+    "coreq": null
+  },
+  "KIN 272": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 120"
+    },
+    "coreq": null
+  },
+  "KIN 300": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "KIN 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 311": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 211"
+        },
+        {
+          "type": "course",
+          "code": "KIN 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 313": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 316": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 211"
+        },
+        {
+          "type": "course",
+          "code": "KIN 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 318": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 211"
+        },
+        {
+          "type": "course",
+          "code": "KIN 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 120"
+        },
+        {
+          "type": "course",
+          "code": "KIN 205"
+        },
+        {
+          "type": "course",
+          "code": "KIN 206"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 324": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 110"
+    },
+    "coreq": null
+  },
+  "KIN 330": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 120"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        },
+        {
+          "type": "course",
+          "code": "KIN 235"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 335": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 120"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        },
+        {
+          "type": "course",
+          "code": "KIN 235"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 342": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 140"
+    },
+    "coreq": null
+  },
+  "KIN 344": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 345": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 150"
+    },
+    "coreq": null
+  },
+  "KIN 351": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 150"
+    },
+    "coreq": null
+  },
+  "KIN 353": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 150"
+    },
+    "coreq": null
+  },
+  "KIN 355": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 140"
+    },
+    "coreq": null
+  },
+  "KIN 360": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 160"
+    },
+    "coreq": null
+  },
+  "KIN 363": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 160"
+    },
+    "coreq": null
+  },
+  "KIN 364": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "KIN 368": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 411": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 211"
+        },
+        {
+          "type": "course",
+          "code": "KIN 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 413": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 211"
+        },
+        {
+          "type": "course",
+          "code": "KIN 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 415": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 418": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 206"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "KIN 318"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "DSCI 100"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 419": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 211"
+        },
+        {
+          "type": "course",
+          "code": "KIN 216"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 421": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 320"
+    },
+    "coreq": null
+  },
+  "KIN 423": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "KIN 424": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 428": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 235"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 432": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        },
+        {
+          "type": "course",
+          "code": "KIN 232"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 434": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 232"
+        },
+        {
+          "type": "course",
+          "code": "KIN 235"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 435": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 120"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        },
+        {
+          "type": "course",
+          "code": "KIN 235"
+        },
+        {
+          "type": "course",
+          "code": "KIN 335"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 438": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 110"
+        },
+        {
+          "type": "course",
+          "code": "KIN 120"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        },
+        {
+          "type": "course",
+          "code": "KIN 235"
+        },
+        {
+          "type": "course",
+          "code": "KIN 335"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 442": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 140"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 444": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 140"
+    },
+    "coreq": null
+  },
+  "KIN 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 150"
+        },
+        {
+          "type": "course",
+          "code": "KINIV 160"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 453": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 150"
+    },
+    "coreq": null
+  },
+  "KIN 459": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 150"
+        },
+        {
+          "type": "course",
+          "code": "KIN 205"
+        },
+        {
+          "type": "course",
+          "code": "KIN 206"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 460": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 463": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 160"
+    },
+    "coreq": null
+  },
+  "KIN 464": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 150"
+        },
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 205"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 465": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 469": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 160"
+        },
+        {
+          "type": "course",
+          "code": "KIN 262"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KIN 471": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "KIN 320"
+        },
+        {
+          "type": "course",
+          "code": "KIN 411"
+        }
+      ]
+    }
+  },
+  "KIN 475": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 320"
+    },
+    "coreq": null
+  },
+  "KIN 482": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of KIN 311, KIN 313, KIN 316, KIN 411, 413, 415, KIN 419"
+    },
+    "coreq": null
+  },
+  "KIN 483": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of KIN 320, KIN 335, KIN 420, KIN 424, KIN 432, KIN 434, KIN 435, KIN 438"
+    },
+    "coreq": null
+  },
+  "KIN 484": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "KIN 485": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "KIN 486": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "KIN 487": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of KIN 360, KIN 363, KIN 368, KIN 460, KIN 464, KIN 465, KIN 468"
+    },
+    "coreq": null
+  },
+  "KIN 488": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "KIN 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "KIN 492": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "KIN 596": {
+    "prereq": {
+      "type": "course",
+      "code": "KIN 572"
+    },
+    "coreq": null
+  }
+}

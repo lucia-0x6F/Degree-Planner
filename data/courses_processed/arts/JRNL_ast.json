@@ -1,0 +1,64 @@
+{
+  "JRNL 320": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "JRNL 200"
+        },
+        {
+          "type": "course",
+          "code": "JRNL 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "JRNL 325": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "JRNL 200"
+        },
+        {
+          "type": "course",
+          "code": "JRNL 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "JRNL 420": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to fourth-year students"
+    },
+    "coreq": null
+  },
+  "JRNL 425": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "JRNL 200"
+        },
+        {
+          "type": "course",
+          "code": "JRNL 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "JRNL 440": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to fourth-year BMS students. Credit cannot be granted for both JRNL 440 and JRNL 540"
+    },
+    "coreq": null
+  }
+}

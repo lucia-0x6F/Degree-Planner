@@ -1,0 +1,9 @@
+{
+  "AUDI 402": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "As indicated on the website at www.audiospeech.ubc.ca or by permission of the instructor"
+    },
+    "coreq": null
+  }
+}

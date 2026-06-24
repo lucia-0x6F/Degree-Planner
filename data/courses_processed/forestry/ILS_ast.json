@@ -1,0 +1,167 @@
+{
+  "ILS 106": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 100"
+        },
+        {
+          "type": "course",
+          "code": "ILS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ILS 107": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 102"
+    },
+    "coreq": null
+  },
+  "ILS 200": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 100"
+    },
+    "coreq": null
+  },
+  "ILS 201": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 100"
+        },
+        {
+          "type": "course",
+          "code": "ILS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ILS 204": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 201"
+    },
+    "coreq": null
+  },
+  "ILS 300": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 100"
+        },
+        {
+          "type": "course",
+          "code": "ILS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ILS 302": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 102"
+    },
+    "coreq": null
+  },
+  "ILS 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 200"
+        },
+        {
+          "type": "course",
+          "code": "ILS 204"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ILS 304": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 201"
+    },
+    "coreq": null
+  },
+  "ILS 306": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 305"
+        },
+        {
+          "type": "course",
+          "code": "ILS 307"
+        }
+      ]
+    }
+  },
+  "ILS 307": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 305"
+        },
+        {
+          "type": "course",
+          "code": "ILS 306"
+        }
+      ]
+    }
+  },
+  "ILS 400": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 203"
+    },
+    "coreq": null
+  },
+  "ILS 402": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ILS 100"
+        },
+        {
+          "type": "course",
+          "code": "ILS 200"
+        },
+        {
+          "type": "course",
+          "code": "ILS 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ILS 403": {
+    "prereq": {
+      "type": "course",
+      "code": "ILS 402"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "FOPE 512": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "FOPE 509"
+        },
+        {
+          "type": "course",
+          "code": "FOPE 510"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FOPE 513": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "FOPE 509"
+        },
+        {
+          "type": "course",
+          "code": "FOPE 510"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "FOPE 512"
+    }
+  }
+}

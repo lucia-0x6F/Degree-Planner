@@ -1,0 +1,98 @@
+{
+  "CNPS 508": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Appropriate senior undergraduate introductory or methods course"
+    },
+    "coreq": null
+  },
+  "CNPS 566": {
+    "prereq": {
+      "type": "course",
+      "code": "CNPS 564"
+    },
+    "coreq": null
+  },
+  "CNPS 578": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CNPS 362"
+        },
+        {
+          "type": "course",
+          "code": "CNPS 365"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CNPS 579": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EDUC 500"
+            },
+            {
+              "type": "course",
+              "code": "EPSE 481"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EPSE 482"
+            },
+            {
+              "type": "course",
+              "code": "EPSE 483"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CNPS 632": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 303"
+            },
+            {
+              "type": "course",
+              "code": "EPSE 528"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "CNPS 532"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CNPS 679": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A course in Computer Science"
+    },
+    "coreq": null
+  }
+}

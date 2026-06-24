@@ -1,0 +1,16 @@
+{
+  "VANT 149": {
+    "prereq": {
+      "type": "course",
+      "code": "VANT 148"
+    },
+    "coreq": null
+  },
+  "VANT 151": {
+    "prereq": {
+      "type": "course",
+      "code": "VANT 150"
+    },
+    "coreq": null
+  }
+}

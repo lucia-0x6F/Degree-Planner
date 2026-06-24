@@ -1,0 +1,9 @@
+{
+  "FMPR 562": {
+    "prereq": {
+      "type": "course",
+      "code": "HCEP 502"
+    },
+    "coreq": null
+  }
+}

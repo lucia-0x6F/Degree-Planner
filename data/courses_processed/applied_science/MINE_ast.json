@@ -1,0 +1,354 @@
+{
+  "MINE 201": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 200"
+    },
+    "coreq": null
+  },
+  "MINE 202": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 154"
+    },
+    "coreq": null
+  },
+  "MINE 292": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 224"
+    },
+    "coreq": null
+  },
+  "MINE 302": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 303": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 260"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MINE 304": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 310": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 331": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 333": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 350": {
+    "prereq": {
+      "type": "course",
+      "code": "STAT 251"
+    },
+    "coreq": null
+  },
+  "MINE 380": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 210"
+    },
+    "coreq": null
+  },
+  "MINE 393": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 395": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 200"
+    },
+    "coreq": null
+  },
+  "MINE 396": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "MINE 402": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "MINE 403": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 303"
+    },
+    "coreq": null
+  },
+  "MINE 404": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 405": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 406": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 396"
+    },
+    "coreq": null
+  },
+  "MINE 420": {
+    "prereq": {
+      "type": "course",
+      "code": "STAT 251"
+    },
+    "coreq": null
+  },
+  "MINE 434": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 331"
+    },
+    "coreq": null
+  },
+  "MINE 435": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 331"
+    },
+    "coreq": null
+  },
+  "MINE 436": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 280"
+            },
+            {
+              "type": "course",
+              "code": "CIVL 215"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MINE 438": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 331"
+    },
+    "coreq": null
+  },
+  "MINE 444": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 447": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 455": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 462": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 331"
+    },
+    "coreq": null
+  },
+  "MINE 465": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 470": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MINE 482": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "MINE 485": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 303"
+    },
+    "coreq": null
+  },
+  "MINE 488": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 310"
+    },
+    "coreq": null
+  },
+  "MINE 491": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MINE 302"
+        },
+        {
+          "type": "course",
+          "code": "MINE 303"
+        },
+        {
+          "type": "course",
+          "code": "MINE 310"
+        },
+        {
+          "type": "course",
+          "code": "MINE 331"
+        },
+        {
+          "type": "course",
+          "code": "MINE 333"
+        },
+        {
+          "type": "course",
+          "code": "MINE 350"
+        },
+        {
+          "type": "course",
+          "code": "MINE 396"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MINE 493": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "MINE 527": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MINE 526"
+        },
+        {
+          "type": "course",
+          "code": "MINE 575"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MINE 533": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor is required"
+    },
+    "coreq": null
+  },
+  "MINE 581": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor is required"
+    },
+    "coreq": null
+  },
+  "MINE 585": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 581"
+    },
+    "coreq": null
+  },
+  "MINE 590": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor is required"
+    },
+    "coreq": null
+  },
+  "MINE 592": {
+    "prereq": {
+      "type": "course",
+      "code": "MINE 591"
+    },
+    "coreq": null
+  }
+}

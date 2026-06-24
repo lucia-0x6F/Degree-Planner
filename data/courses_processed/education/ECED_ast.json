@@ -1,0 +1,86 @@
+{
+  "ECED 490": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECED 400"
+        },
+        {
+          "type": "course",
+          "code": "ECED 438"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECED 491": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECED 400"
+        },
+        {
+          "type": "course",
+          "code": "ECED 401"
+        },
+        {
+          "type": "course",
+          "code": "ECED 438"
+        },
+        {
+          "type": "course",
+          "code": "ECED 490"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 406"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ECED 495": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECED 400"
+        },
+        {
+          "type": "course",
+          "code": "ECED 401"
+        },
+        {
+          "type": "course",
+          "code": "ECED 406"
+        },
+        {
+          "type": "course",
+          "code": "ECED 407"
+        },
+        {
+          "type": "course",
+          "code": "ECED 438"
+        },
+        {
+          "type": "course",
+          "code": "ECED 490"
+        },
+        {
+          "type": "course",
+          "code": "ECED 491"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 406"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

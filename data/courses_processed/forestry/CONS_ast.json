@@ -1,0 +1,346 @@
+{
+  "CONS 302": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "One of BIOL 11, BIOL 12"
+    },
+    "coreq": null
+  },
+  "CONS 310": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 207"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 314": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 260"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "NRES 201"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 207"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 327": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CONS 127"
+        },
+        {
+          "type": "course",
+          "code": "NRES 241"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 328": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "ILS 108"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 330": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 102"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 103"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 412": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "CONS 415": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CONS 425": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "Third- or fouth-year standing"
+        },
+        {
+          "type": "unknown",
+          "raw": "100-level MATH course"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 451": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CONS 330"
+        },
+        {
+          "type": "course",
+          "code": "CONS 340"
+        },
+        {
+          "type": "course",
+          "code": "CONS 440"
+        },
+        {
+          "type": "course",
+          "code": "CONS 481"
+        },
+        {
+          "type": "course",
+          "code": "FRST 385"
+        },
+        {
+          "type": "course",
+          "code": "FRST 386"
+        },
+        {
+          "type": "course",
+          "code": "FRST 395"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 452": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CONS 330"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "NRES 231"
+            },
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "NRES 241"
+            },
+            {
+              "type": "course",
+              "code": "CONS 340"
+            },
+            {
+              "type": "course",
+              "code": "NRES 340"
+            },
+            {
+              "type": "course",
+              "code": "GEOS 270"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NRES 341"
+        },
+        {
+          "type": "course",
+          "code": "FRST 443"
+        },
+        {
+          "type": "course",
+          "code": "NRES 443"
+        }
+      ]
+    }
+  },
+  "CONS 453": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "NRES 231"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 210"
+            },
+            {
+              "type": "course",
+              "code": "NRES 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 211"
+            },
+            {
+              "type": "course",
+              "code": "NRES 211"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 306"
+            },
+            {
+              "type": "course",
+              "code": "APBI 260"
+            },
+            {
+              "type": "course",
+              "code": "APBI 360"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CONS 454": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CONS 486": {
+    "prereq": {
+      "type": "course",
+      "code": "FRST 386"
+    },
+    "coreq": null
+  },
+  "CONS 488": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CONS 491": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CONS 495": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CONS 496": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  }
+}

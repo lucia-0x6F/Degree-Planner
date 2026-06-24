@@ -1,0 +1,549 @@
+{
+  "CAPS 200": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": null
+  },
+  "CAPS 205": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 100"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 206": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 100"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 112"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 100"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 101"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 131"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 203"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 233"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 260"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 205"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 206"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 305": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CAPS 205"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 206"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 306": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 205"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 206"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 335"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 338"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 100"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 100"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 390": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 391": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "KIN 131"
+        },
+        {
+          "type": "course",
+          "code": "KIN 132"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 398": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 205"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 303"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 206"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 301"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 399": {
+    "prereq": {
+      "type": "course",
+      "code": "CAPS 398"
+    },
+    "coreq": null
+  },
+  "CAPS 420": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CAPS 306"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 421": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 306"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 301"
+            },
+            {
+              "type": "course",
+              "code": "NSCI 300"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 422": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "A cumulative average of 75% over at least 90 credits attempted in the first three years of a student's program"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 301"
+            },
+            {
+              "type": "course",
+              "code": "PHYL 301"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 423": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 305"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 306"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 424": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "A cumulative average of 75% over at least 90 credits attempted in the first three years of a student's program"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CAPS 301"
+            },
+            {
+              "type": "course",
+              "code": "PHYL 301"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 426": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CAPS 305"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        },
+        {
+          "type": "course",
+          "code": "NSCI 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CAPS 427": {
+    "prereq": {
+      "type": "course",
+      "code": "CAPS 391"
+    },
+    "coreq": null
+  },
+  "CAPS 431": {
+    "prereq": {
+      "type": "course",
+      "code": "CAPS 303"
+    },
+    "coreq": null
+  },
+  "CAPS 498": {
+    "prereq": {
+      "type": "course",
+      "code": "CAPS 399"
+    },
+    "coreq": null
+  },
+  "CAPS 499": {
+    "prereq": {
+      "type": "course",
+      "code": "CAPS 498"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "JAPN 462": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "6 credits of 200- or 300-level courses in Asian religions"
+        },
+        {
+          "type": "unknown",
+          "raw": "3 credit writing-intensive course in Asian Studies"
+        },
+        {
+          "type": "unknown",
+          "raw": "ability to read modern Japanese or 18 credits of Japanese language courses and permission of instructor"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

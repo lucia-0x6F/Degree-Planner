@@ -1,0 +1,38 @@
+{
+  "ENST 314": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GEOG 211"
+        },
+        {
+          "type": "course",
+          "code": "GEOB 102"
+        },
+        {
+          "type": "course",
+          "code": "GEOB 103"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 102"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 103"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 110"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 112"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

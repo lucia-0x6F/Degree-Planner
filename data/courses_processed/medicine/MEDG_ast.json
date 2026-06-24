@@ -1,0 +1,178 @@
+{
+  "MEDG 410": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MICB 302"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 334"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 335"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 419": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 233"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 331"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 335"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 420": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 338"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 421": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 302"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 303"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 525": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 550": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Acceptance into M.Sc. Genetic Counselling program"
+    },
+    "coreq": null
+  },
+  "MEDG 560": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Acceptance into M.Sc. Genetic Counselling program"
+    },
+    "coreq": null
+  },
+  "MEDG 565": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MEDG 560"
+        },
+        {
+          "type": "unknown",
+          "raw": "acceptance into M.Sc. Genetic Counselling program"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 570": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Acceptance into M.Sc. Genetic Counselling program"
+    },
+    "coreq": null
+  },
+  "MEDG 575": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MEDG 570"
+        },
+        {
+          "type": "unknown",
+          "raw": "acceptance into M.Sc. Genetic Counselling program"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MEDG 585": {
+    "prereq": {
+      "type": "course",
+      "code": "MEDG 580"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "GRS 290": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Open only to students in the B.Sc. (GRS) program"
+    },
+    "coreq": null
+  },
+  "GRS 300": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 111"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 121"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 140"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GRS 390": {
+    "prereq": {
+      "type": "course",
+      "code": "GRS 290"
+    },
+    "coreq": null
+  },
+  "GRS 490": {
+    "prereq": {
+      "type": "course",
+      "code": "GRS 390"
+    },
+    "coreq": null
+  },
+  "GRS 497": {
+    "prereq": {
+      "type": "course",
+      "code": "GRS 397"
+    },
+    "coreq": null
+  }
+}

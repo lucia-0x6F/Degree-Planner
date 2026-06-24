@@ -1,0 +1,23 @@
+{
+  "ITAL 103": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Language placement test"
+    },
+    "coreq": null
+  },
+  "ITAL 342": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "proficiency in another Romance language or Latin"
+    },
+    "coreq": null
+  },
+  "ITAL 343": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Proficiency in another Romance language or Latin"
+    },
+    "coreq": null
+  }
+}

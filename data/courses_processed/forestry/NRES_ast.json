@@ -1,0 +1,118 @@
+{
+  "NRES 200": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "NRES 201": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NRES 200"
+        },
+        {
+          "type": "course",
+          "code": "FRST 200"
+        }
+      ]
+    }
+  },
+  "NRES 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NRES 200"
+        },
+        {
+          "type": "course",
+          "code": "FRST 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NRES 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NRES 201"
+        },
+        {
+          "type": "course",
+          "code": "FRST 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NRES 225": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Three credits of first-year English"
+    },
+    "coreq": null
+  },
+  "NRES 231": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        },
+        {
+          "type": "course",
+          "code": "MATH 190"
+        }
+      ]
+    }
+  },
+  "NRES 241": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "NRES 341": {
+    "prereq": {
+      "type": "course",
+      "code": "NRES 241"
+    },
+    "coreq": null
+  },
+  "NRES 441": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 443"
+        },
+        {
+          "type": "course",
+          "code": "NRES 341"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

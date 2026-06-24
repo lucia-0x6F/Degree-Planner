@@ -1,0 +1,924 @@
+{
+  "PSYC 217": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 100"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 101"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 102"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "PSYC 218": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 217"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 277"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 240": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 101"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 278": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 217"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 277"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 303": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 218"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 278"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 344": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 324"
+    },
+    "coreq": null
+  },
+  "PSYC 348": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 217"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 218"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 349": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 348"
+    },
+    "coreq": null
+  },
+  "PSYC 359": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 218"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 278"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 361": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NSCI 201"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 344"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 363": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 324"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 361"
+        },
+        {
+          "type": "course",
+          "code": "NSCI 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 365": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 304"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 309"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 344"
+            },
+            {
+              "type": "course",
+              "code": "NSCI 201"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "COGS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 367": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 101"
+            },
+            {
+              "type": "course",
+              "code": "NSCI 201"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "COGS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 370": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NSCI 201"
+        },
+        {
+          "type": "course",
+          "code": "COGS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 371": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 370"
+    },
+    "coreq": null
+  },
+  "PSYC 398": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Co-op Workshops"
+    },
+    "coreq": null
+  },
+  "PSYC 399": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 398"
+    },
+    "coreq": null
+  },
+  "PSYC 400": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 217"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 277"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 217"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 277"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 403": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 305"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 307"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 308"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 358"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 404": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 305"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 307"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 308"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 358"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 407": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 307"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 308"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 358"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 408": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 305"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 307"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 308"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 358"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 409": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 304"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 309"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 344"
+            },
+            {
+              "type": "course",
+              "code": "NSCI 201"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "COGS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 412": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 302"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 315"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 319"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 322"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 325"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 414": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 302"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 315"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 319"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 322"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 325"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 415": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 305"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 307"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 308"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 358"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 417": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 218"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 278"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 418": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 305"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 307"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 308"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 358"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 420": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PSYC 217"
+                },
+                {
+                  "type": "course",
+                  "code": "PSYC 277"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PSYC 300"
+                },
+                {
+                  "type": "course",
+                  "code": "PSYC 308"
+                },
+                {
+                  "type": "course",
+                  "code": "PSYC 314"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "PSYC 319"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 427": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 217"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 277"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PSYC 218"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 278"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 448": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 349"
+    },
+    "coreq": null
+  },
+  "PSYC 449": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 448"
+    },
+    "coreq": null
+  },
+  "PSYC 460": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 344"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 371"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 461": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 344"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 371"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 462": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 344"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 371"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 472": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PSYC 361"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 365"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PSYC 498": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 399"
+    },
+    "coreq": null
+  },
+  "PSYC 499": {
+    "prereq": {
+      "type": "course",
+      "code": "PSYC 498"
+    },
+    "coreq": null
+  }
+}

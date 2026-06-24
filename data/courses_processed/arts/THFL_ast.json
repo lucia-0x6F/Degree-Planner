@@ -1,0 +1,74 @@
+{
+  "THFL 304": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 205"
+        },
+        {
+          "type": "course",
+          "code": "THTR 305"
+        },
+        {
+          "type": "course",
+          "code": "FIPR 233"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THFL 312": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 241"
+        },
+        {
+          "type": "course",
+          "code": "VISA 210"
+        },
+        {
+          "type": "course",
+          "code": "FIPR 133"
+        },
+        {
+          "type": "course",
+          "code": "FIPR 233"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THFL 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 305"
+        },
+        {
+          "type": "course",
+          "code": "THTR 306"
+        },
+        {
+          "type": "course",
+          "code": "THTR 307"
+        },
+        {
+          "type": "course",
+          "code": "THTR 308"
+        },
+        {
+          "type": "course",
+          "code": "FIPR 333"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

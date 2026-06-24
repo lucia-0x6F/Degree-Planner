@@ -1,0 +1,128 @@
+{
+  "LIBR 504": {
+    "prereq": {
+      "type": "course",
+      "code": "LIBR 506"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "LIBR 507"
+    }
+  },
+  "LIBR 511": {
+    "prereq": {
+      "type": "course",
+      "code": "LIBR 509"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "LIBR 506"
+    }
+  },
+  "LIBR 518": {
+    "prereq": {
+      "type": "course",
+      "code": "LIBR 516"
+    },
+    "coreq": null
+  },
+  "LIBR 533": {
+    "prereq": {
+      "type": "course",
+      "code": "LIBR 506"
+    },
+    "coreq": null
+  },
+  "LIBR 534": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LIBR 506"
+        },
+        {
+          "type": "course",
+          "code": "LIBR 507"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LIBR 535": {
+    "prereq": {
+      "type": "course",
+      "code": "LIBR 506"
+    },
+    "coreq": null
+  },
+  "LIBR 553": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LIBR 506"
+        },
+        {
+          "type": "course",
+          "code": "LIBR 507"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LIBR 557": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "LIBR 507"
+    }
+  },
+  "LIBR 575": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "LIBR 507"
+    }
+  },
+  "LIBR 581": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "LIBR 507"
+    }
+  },
+  "LIBR 582": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "LIBR 507"
+    }
+  },
+  "LIBR 596": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "LIBR 506"
+            },
+            {
+              "type": "course",
+              "code": "LIBR 507"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "LIBR 509"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

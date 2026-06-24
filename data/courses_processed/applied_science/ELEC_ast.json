@@ -1,0 +1,1079 @@
+{
+  "ELEC 201": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    }
+  },
+  "ELEC 202": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ELEC 201"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 203"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 203": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    }
+  },
+  "ELEC 204": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        }
+      ]
+    }
+  },
+  "ELEC 205": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "ELEC 204"
+    }
+  },
+  "ELEC 211": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 178"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MATH 264"
+    }
+  },
+  "ELEC 221": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 271": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "ELEC 202"
+    }
+  },
+  "ELEC 281": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 291": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 211"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 292": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 211"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 221"
+        }
+      ]
+    }
+  },
+  "ELEC 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ELEC 201"
+                },
+                {
+                  "type": "course",
+                  "code": "ELEC 203"
+                }
+              ]
+            },
+            {
+              "type": "course",
+              "code": "ELEC 202"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "ELEC 204"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 203"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 204"
+        },
+        {
+          "type": "course",
+          "code": "MECH 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 311": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ELEC 211"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 264"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 321": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 221"
+        },
+        {
+          "type": "course",
+          "code": "STAT 305"
+        },
+        {
+          "type": "course",
+          "code": "STAT 305"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 331": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 221"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 212"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 331"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 341": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 202"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 204"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 342": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 170"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 343": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 202"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 344": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 203"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 204"
+        },
+        {
+          "type": "course",
+          "code": "MECH 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 352": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 202"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 342"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 371": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ELEC 202"
+                },
+                {
+                  "type": "course",
+                  "code": "ELEC 292"
+                }
+              ]
+            },
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BMEG 220"
+                },
+                {
+                  "type": "course",
+                  "code": "BMEG 257"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 391": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 291"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 291"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 292"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 301"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 341"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 311"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 342"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 401": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 202"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 204"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 402": {
+    "prereq": {
+      "type": "course",
+      "code": "CPEN 311"
+    },
+    "coreq": null
+  },
+  "ELEC 403": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 402"
+    },
+    "coreq": null
+  },
+  "ELEC 404": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 221"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "ELEC 401"
+    }
+  },
+  "ELEC 411": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 311"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 301"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 354"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 415": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 315"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 304"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 421": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 221"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 221"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 223"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 259"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 422": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ELEC 371"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 341"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 221"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 260"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 259"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "MATH 318"
+            },
+            {
+              "type": "course",
+              "code": "MATH 302"
+            },
+            {
+              "type": "course",
+              "code": "STAT 302"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 431": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 221"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 302"
+            },
+            {
+              "type": "course",
+              "code": "MATH 318"
+            },
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "STAT 302"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 432": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 431"
+    },
+    "coreq": null
+  },
+  "ELEC 434": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 221"
+    },
+    "coreq": null
+  },
+  "ELEC 441": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 341"
+    },
+    "coreq": null
+  },
+  "ELEC 442": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 170"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 451": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 301"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 344"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 342"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 452": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 342"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 343"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 453": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 342"
+    },
+    "coreq": null
+  },
+  "ELEC 454": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 453"
+    },
+    "coreq": null
+  },
+  "ELEC 455": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 453"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 342"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 461": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 312"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 315"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 250"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 304"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 201"
+        },
+        {
+          "type": "course",
+          "code": "MTRL 478"
+        }
+      ]
+    }
+  },
+  "ELEC 463": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 315"
+    },
+    "coreq": null
+  },
+  "ELEC 471": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 371"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 341"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 311"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 472": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 201"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 202"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 211"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 341"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 491": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 391"
+    },
+    "coreq": null
+  },
+  "ELEC 494": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 391"
+    },
+    "coreq": null
+  },
+  "ELEC 497": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ELEC 572": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 466"
+        },
+        {
+          "type": "course",
+          "code": "MECH 468"
+        },
+        {
+          "type": "course",
+          "code": "EECE 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ELEC 584": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 582"
+    },
+    "coreq": null
+  },
+  "ELEC 585": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ELEC 582"
+        },
+        {
+          "type": "course",
+          "code": "EECE 582"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 584"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

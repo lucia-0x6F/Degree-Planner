@@ -1,0 +1,424 @@
+{
+  "BIOC 202": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 203"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 223"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 203": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 203"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHEM 213"
+    }
+  },
+  "BIOC 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 245"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 235"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 302"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 303"
+        }
+      ]
+    }
+  },
+  "BIOC 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 203"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 223"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 213"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 304": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 213"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BIOC 303"
+    }
+  },
+  "BIOC 398": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Completion of academic third year in Biochemistry major or honours program is required"
+    },
+    "coreq": null
+  },
+  "BIOC 399": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOC 398"
+    },
+    "coreq": null
+  },
+  "BIOC 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 302"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 303"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 403": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "BIOC402 A minimum standing of 65%"
+    },
+    "coreq": null
+  },
+  "BIOC 410": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 303"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 335"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 420": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 404"
+        },
+        {
+          "type": "course",
+          "code": "FSCT 480"
+        }
+      ]
+    }
+  },
+  "BIOC 421": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 301"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 410"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 440": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 303"
+            },
+            {
+              "type": "course",
+              "code": "BIOT 380"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 402"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 410"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 448": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the Department Head is required"
+    },
+    "coreq": null
+  },
+  "BIOC 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 303"
+            },
+            {
+              "type": "course",
+              "code": "BIOT 380"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 402"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 410"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 460": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 303"
+            },
+            {
+              "type": "course",
+              "code": "BIOT 380"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 402"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 410"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 470": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 302"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 303"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOC 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 302"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 303"
+        }
+      ]
+    }
+  },
+  "BIOC 498": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOC 399"
+    },
+    "coreq": null
+  },
+  "BIOC 499": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOC 498"
+    },
+    "coreq": null
+  }
+}

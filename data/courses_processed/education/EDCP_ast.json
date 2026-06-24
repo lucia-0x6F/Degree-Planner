@@ -1,0 +1,244 @@
+{
+  "EDCP 302": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A concentration in art or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 303": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of introductory art studio or art history courses"
+    },
+    "coreq": null
+  },
+  "EDCP 304": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of introductory art studio or art history courses"
+    },
+    "coreq": null
+  },
+  "EDCP 312": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 311"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 312"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 313"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDCP 313": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MUSC 311"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 312"
+        },
+        {
+          "type": "course",
+          "code": "MUSC 313"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDCP 317": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 316"
+    },
+    "coreq": null
+  },
+  "EDCP 322": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in physical education or permission of the head"
+    },
+    "coreq": null
+  },
+  "EDCP 342": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in mathematics or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 352": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in agricultural sciences, biological sciences, chemistry, earth and space science, or physics, or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 353": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in Agricultural Sciences or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 354": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in biological sciences or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 355": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in chemistry or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 356": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in earth and space science or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 357": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A completed concentration in physics or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 409": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Art education as a major or minor and completion of a practicum in Art Education"
+    },
+    "coreq": null
+  },
+  "EDCP 410": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "An introductory course in music education or permission of the Head"
+    },
+    "coreq": null
+  },
+  "EDCP 411": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 410"
+    },
+    "coreq": null
+  },
+  "EDCP 412": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 311A"
+    },
+    "coreq": null
+  },
+  "EDCP 414": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 308"
+    },
+    "coreq": null
+  },
+  "EDCP 415": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 312"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 317"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDCP 417": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EDCP 308"
+        },
+        {
+          "type": "course",
+          "code": "EDCP 309"
+        },
+        {
+          "type": "course",
+          "code": "EDCP 410"
+        },
+        {
+          "type": "course",
+          "code": "EDCP 411"
+        },
+        {
+          "type": "course",
+          "code": "EDCP 414"
+        },
+        {
+          "type": "course",
+          "code": "EDCP 416"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDCP 418": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 417"
+    },
+    "coreq": null
+  },
+  "EDCP 419": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 418"
+    },
+    "coreq": null
+  },
+  "EDCP 491": {
+    "prereq": {
+      "type": "course",
+      "code": "EDCP 391"
+    },
+    "coreq": null
+  },
+  "EDCP 510": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A qualitative research methods course"
+    },
+    "coreq": null
+  },
+  "EDCP 513": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A qualitative research methods course"
+    },
+    "coreq": null
+  }
+}

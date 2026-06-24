@@ -1,0 +1,32 @@
+{
+  "KORN 351": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "KORN 200"
+        },
+        {
+          "type": "course",
+          "code": "KORN 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "KORN 352": {
+    "prereq": {
+      "type": "course",
+      "code": "KORN 351"
+    },
+    "coreq": null
+  },
+  "KORN 420": {
+    "prereq": {
+      "type": "course",
+      "code": "KORN 410"
+    },
+    "coreq": null
+  }
+}

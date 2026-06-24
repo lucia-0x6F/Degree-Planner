@@ -1,0 +1,474 @@
+{
+  "FRE 290": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 295": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 102"
+            },
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            },
+            {
+              "type": "course",
+              "code": "FRST 101"
+            },
+            {
+              "type": "course",
+              "code": "LFS 101"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 306": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 326": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LFS 252"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        },
+        {
+          "type": "course",
+          "code": "FRST 231"
+        },
+        {
+          "type": "course",
+          "code": "ECON 325"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 340": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 374": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 385": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            },
+            {
+              "type": "course",
+              "code": "FRST 101"
+            },
+            {
+              "type": "course",
+              "code": "LFS 101"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "LFS 252"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "ECON 325"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 394": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 420": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 426": {
+    "prereq": {
+      "type": "course",
+      "code": "FRE 326"
+    },
+    "coreq": null
+  },
+  "FRE 460": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 474": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "LFS 252"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "ECON 325"
+            },
+            {
+              "type": "course",
+              "code": "COMM 291"
+            },
+            {
+              "type": "course",
+              "code": "FRST 231"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 310"
+            },
+            {
+              "type": "course",
+              "code": "FRST 101"
+            },
+            {
+              "type": "course",
+              "code": "LFS 101"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 490": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "ECON 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FRE 497": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Approval of program advisor"
+    },
+    "coreq": null
+  },
+  "FRE 499": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Approval of a program advisor; consult before the end of classes in third year"
+    },
+    "coreq": null
+  },
+  "FRE 522": {
+    "prereq": {
+      "type": "course",
+      "code": "FRE 502"
+    },
+    "coreq": null
+  },
+  "FRE 601": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 500"
+    },
+    "coreq": null
+  },
+  "FRE 602": {
+    "prereq": {
+      "type": "course",
+      "code": "ECON 527"
+    },
+    "coreq": null
+  },
+  "FRE 603": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRE 523"
+        },
+        {
+          "type": "course",
+          "code": "FRE 524"
+        },
+        {
+          "type": "course",
+          "code": "ECON 573"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

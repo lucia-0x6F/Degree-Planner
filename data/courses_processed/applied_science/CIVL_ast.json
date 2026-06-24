@@ -1,0 +1,666 @@
+{
+  "CIVL 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CIVL 203"
+    }
+  },
+  "CIVL 203": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CIVL 201"
+    }
+  },
+  "CIVL 204": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 154"
+    },
+    "coreq": null
+  },
+  "CIVL 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 230"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 276"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 215": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 170"
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 230": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 170"
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 231": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 201"
+        },
+        {
+          "type": "course",
+          "code": "STAT 251"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 302": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 201"
+    },
+    "coreq": null
+  },
+  "CIVL 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 201"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 305": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 204"
+    },
+    "coreq": null
+  },
+  "CIVL 311": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 210"
+    },
+    "coreq": null
+  },
+  "CIVL 315": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 201"
+            },
+            {
+              "type": "course",
+              "code": "ENVE 201"
+            },
+            {
+              "type": "course",
+              "code": "CIVL 203"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CIVL 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 316": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 215"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 201"
+            },
+            {
+              "type": "course",
+              "code": "CIVL 203"
+            },
+            {
+              "type": "course",
+              "code": "ENVE 201"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 278"
+        },
+        {
+          "type": "course",
+          "code": "APSC 279"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 331": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 231"
+    },
+    "coreq": null
+  },
+  "CIVL 332": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 231"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 340": {
+    "prereq": {
+      "type": "course",
+      "code": "STAT 251"
+    },
+    "coreq": null
+  },
+  "CIVL 404": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 204"
+    },
+    "coreq": null
+  },
+  "CIVL 406": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 305"
+    },
+    "coreq": null
+  },
+  "CIVL 407": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 154"
+    },
+    "coreq": null
+  },
+  "CIVL 408": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 316"
+    },
+    "coreq": null
+  },
+  "CIVL 409": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 315"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 316"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 410": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 311"
+    },
+    "coreq": null
+  },
+  "CIVL 411": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 410"
+    },
+    "coreq": null
+  },
+  "CIVL 413": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "CIVL 415": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 315"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 316"
+        },
+        {
+          "type": "course",
+          "code": "STAT 251"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 416": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 316"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 417": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 316"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 213"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 418": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 316"
+    },
+    "coreq": null
+  },
+  "CIVL 420": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 320"
+    },
+    "coreq": null
+  },
+  "CIVL 422": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 320"
+    },
+    "coreq": null
+  },
+  "CIVL 427": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 300"
+    },
+    "coreq": null
+  },
+  "CIVL 430": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 231"
+    },
+    "coreq": null
+  },
+  "CIVL 432": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 331"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 332"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 433": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 430"
+    },
+    "coreq": null
+  },
+  "CIVL 435": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 332"
+    },
+    "coreq": null
+  },
+  "CIVL 436": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 332"
+    },
+    "coreq": null
+  },
+  "CIVL 437": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 332"
+        },
+        {
+          "type": "course",
+          "code": "MECH 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 439": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 331"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 386"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 440": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 340"
+    },
+    "coreq": null
+  },
+  "CIVL 441": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 340"
+    },
+    "coreq": null
+  },
+  "CIVL 445": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 303"
+    },
+    "coreq": null
+  },
+  "CIVL 446": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 445"
+    },
+    "coreq": null
+  },
+  "CIVL 466": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 305"
+    },
+    "coreq": null
+  },
+  "CIVL 475": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 261"
+        },
+        {
+          "type": "course",
+          "code": "APSC 262"
+        },
+        {
+          "type": "course",
+          "code": "APSC 263"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 250"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CIVL 478": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "CIVL 498": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "CIVL 528": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 420"
+    },
+    "coreq": null
+  },
+  "CIVL 538": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 537"
+    },
+    "coreq": null
+  },
+  "CIVL 570": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 311"
+    },
+    "coreq": null
+  },
+  "CIVL 574": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 570"
+    },
+    "coreq": null
+  },
+  "CIVL 579": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 311"
+    },
+    "coreq": null
+  },
+  "CIVL 581": {
+    "prereq": {
+      "type": "course",
+      "code": "CIVL 570"
+    },
+    "coreq": null
+  }
+}

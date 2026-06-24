@@ -1,0 +1,9 @@
+{
+  "SWAH 102": {
+    "prereq": {
+      "type": "course",
+      "code": "SWAH 101"
+    },
+    "coreq": null
+  }
+}

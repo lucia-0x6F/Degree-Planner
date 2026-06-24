@@ -1,0 +1,9 @@
+{
+  "CSPW 100": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Registration in Coordinated Science Program"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,455 @@
+{
+  "WOOD 225": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 244": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 245": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 244"
+    },
+    "coreq": null
+  },
+  "WOOD 271": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 280"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 113"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 276": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 131"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 300": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 305"
+    },
+    "coreq": null
+  },
+  "WOOD 305": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "WOOD290"
+    },
+    "coreq": null
+  },
+  "WOOD 310": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the Co-op Coordinator"
+    },
+    "coreq": null
+  },
+  "WOOD 311": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 300"
+    },
+    "coreq": null
+  },
+  "WOOD 312": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 311"
+    },
+    "coreq": null
+  },
+  "WOOD 330": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "FRST 101"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "NRES 231"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 335": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 231"
+        },
+        {
+          "type": "course",
+          "code": "NRES 231"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 356": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "WOOD"
+    },
+    "coreq": null
+  },
+  "WOOD 373": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 113"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 384": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 282"
+    },
+    "coreq": null
+  },
+  "WOOD 386": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 276"
+    },
+    "coreq": null
+  },
+  "WOOD 400": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the Co-op Coordinator"
+    },
+    "coreq": null
+  },
+  "WOOD 411": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 312"
+    },
+    "coreq": null
+  },
+  "WOOD 412": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 411"
+    },
+    "coreq": null
+  },
+  "WOOD 430": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 290"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 330"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 485"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 461": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "WOOD 464": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 282"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 373"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 476": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 276"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 482": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 290"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 292"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 485": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 292"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 305"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 487": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 373"
+    },
+    "coreq": null
+  },
+  "WOOD 488": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 305"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 482"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 485"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 489": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WOOD 488"
+        },
+        {
+          "type": "unknown",
+          "raw": "a portfolio demonstrating competence in the operation of woodworking machinery"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 491": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "WOOD 492": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 232"
+        },
+        {
+          "type": "course",
+          "code": "NRES 232"
+        },
+        {
+          "type": "course",
+          "code": "WOOD 245"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WOOD 493": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "WOOD 494": {
+    "prereq": {
+      "type": "course",
+      "code": "WOOD 356"
+    },
+    "coreq": null
+  },
+  "WOOD 499": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "WOOD 365"
+            },
+            {
+              "type": "course",
+              "code": "WOOD 440"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

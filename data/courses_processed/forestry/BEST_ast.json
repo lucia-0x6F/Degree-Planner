@@ -1,0 +1,165 @@
+{
+  "BEST 201": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "unknown",
+          "raw": "BIOL _V 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BEST 203": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BEST 201"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BEST 300": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 203"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BEST 301": {
+    "prereq": {
+      "type": "course",
+      "code": "BEST 202"
+    },
+    "coreq": null
+  },
+  "BEST 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BEST 200"
+        },
+        {
+          "type": "course",
+          "code": "BEST 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BEST 303": {
+    "prereq": {
+      "type": "course",
+      "code": "BEST 300"
+    },
+    "coreq": null
+  },
+  "BEST 304": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BEST 300"
+        },
+        {
+          "type": "course",
+          "code": "BEST 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BEST 308": {
+    "prereq": {
+      "type": "course",
+      "code": "BEST 203"
+    },
+    "coreq": null
+  },
+  "BEST 400": {
+    "prereq": {
+      "type": "course",
+      "code": "BEST 300"
+    },
+    "coreq": null
+  },
+  "BEST 401": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "FRST 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BEST 402": {
+    "prereq": {
+      "type": "course",
+      "code": "BEST 200"
+    },
+    "coreq": null
+  },
+  "BEST 403": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "BEST 404": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BEST 302"
+        },
+        {
+          "type": "course",
+          "code": "BEST 303"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

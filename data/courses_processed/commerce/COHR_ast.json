@@ -1,0 +1,192 @@
+{
+  "COHR 301": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 203"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 191"
+            },
+            {
+              "type": "course",
+              "code": "COMM 291"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COHR 303": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 304": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 305": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 307": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 308": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 310": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 311": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 401": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 402": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 403": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 404": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 405": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 406": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 407": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 203"
+        },
+        {
+          "type": "course",
+          "code": "COHR 307"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COHR 408": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 409": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 410": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 411": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 412": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COHR 433": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 203"
+        },
+        {
+          "type": "course",
+          "code": "COMM 393"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

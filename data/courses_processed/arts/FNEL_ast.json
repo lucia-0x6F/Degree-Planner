@@ -1,0 +1,256 @@
+{
+  "FNEL 102": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 101"
+    },
+    "coreq": null
+  },
+  "FNEL 112": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 111"
+    },
+    "coreq": null
+  },
+  "FNEL 122": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 121"
+    },
+    "coreq": null
+  },
+  "FNEL 132": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 131"
+    },
+    "coreq": null
+  },
+  "FNEL 142": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 141"
+    },
+    "coreq": null
+  },
+  "FNEL 152": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 151"
+    },
+    "coreq": null
+  },
+  "FNEL 162": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 161"
+    },
+    "coreq": null
+  },
+  "FNEL 192": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "FNEL",
+      "min_credits": 3
+    },
+    "coreq": null
+  },
+  "FNEL 201": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 102"
+    },
+    "coreq": null
+  },
+  "FNEL 202": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 201"
+    },
+    "coreq": null
+  },
+  "FNEL 211": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 112"
+    },
+    "coreq": null
+  },
+  "FNEL 212": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 211"
+    },
+    "coreq": null
+  },
+  "FNEL 221": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 122"
+    },
+    "coreq": null
+  },
+  "FNEL 222": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 221"
+    },
+    "coreq": null
+  },
+  "FNEL 231": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 132"
+    },
+    "coreq": null
+  },
+  "FNEL 232": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 231"
+    },
+    "coreq": null
+  },
+  "FNEL 241": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 142"
+    },
+    "coreq": null
+  },
+  "FNEL 242": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 241"
+    },
+    "coreq": null
+  },
+  "FNEL 251": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 152"
+    },
+    "coreq": null
+  },
+  "FNEL 252": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 251"
+    },
+    "coreq": null
+  },
+  "FNEL 261": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 162"
+    },
+    "coreq": null
+  },
+  "FNEL 262": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 261"
+    },
+    "coreq": null
+  },
+  "FNEL 291": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 192"
+    },
+    "coreq": null
+  },
+  "FNEL 292": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 291"
+    },
+    "coreq": null
+  },
+  "FNEL 301": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 202"
+    },
+    "coreq": null
+  },
+  "FNEL 302": {
+    "prereq": {
+      "type": "course",
+      "code": "FNEL 301"
+    },
+    "coreq": null
+  },
+  "FNEL 389": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "FNEL 281"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 282"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 389"
+        }
+      ]
+    }
+  },
+  "FNEL 448": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Agreement of Supervisor and approval of Director of the Institute for Critical Indigenous Studies"
+    },
+    "coreq": null
+  },
+  "FNEL 481": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FNEL 180"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 281"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 282"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "FNEL 482": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "FNEL 281"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 282"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 389"
+        },
+        {
+          "type": "course",
+          "code": "FNEL 482"
+        }
+      ]
+    }
+  }
+}

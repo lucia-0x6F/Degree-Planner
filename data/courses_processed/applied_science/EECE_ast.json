@@ -1,0 +1,16 @@
+{
+  "EECE 500": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Enrolment in the Ph.D. degree program in ECE"
+    },
+    "coreq": null
+  },
+  "EECE 502": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "by permission of the instructor"
+    },
+    "coreq": null
+  }
+}

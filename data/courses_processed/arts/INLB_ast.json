@@ -1,0 +1,16 @@
+{
+  "INLB 310": {
+    "prereq": {
+      "type": "course",
+      "code": "INLB 210"
+    },
+    "coreq": null
+  },
+  "INLB 320": {
+    "prereq": {
+      "type": "course",
+      "code": "INLB 220"
+    },
+    "coreq": null
+  }
+}

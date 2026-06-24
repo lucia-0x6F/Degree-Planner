@@ -1,0 +1,9 @@
+{
+  "CCFI 508": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Appropriate senior undergraduate introductory or methods course is required"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "ARCL 325": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCL 140"
+    },
+    "coreq": null
+  },
+  "ARCL 326": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCL 140"
+    },
+    "coreq": null
+  },
+  "ARCL 419": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCL 203"
+    },
+    "coreq": null
+  },
+  "ARCL 435": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCL 103"
+    },
+    "coreq": null
+  }
+}

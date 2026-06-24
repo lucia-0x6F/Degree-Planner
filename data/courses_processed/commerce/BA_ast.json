@@ -1,0 +1,16 @@
+{
+  "BA 502": {
+    "prereq": {
+      "type": "course",
+      "code": "BA 501"
+    },
+    "coreq": null
+  },
+  "BA 503": {
+    "prereq": {
+      "type": "course",
+      "code": "BA 502"
+    },
+    "coreq": null
+  }
+}

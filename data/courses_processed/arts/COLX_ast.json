@@ -1,0 +1,95 @@
+{
+  "COLX 523": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "COLX 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COLX 527": {
+    "prereq": {
+      "type": "course",
+      "code": "COLX 525"
+    },
+    "coreq": null
+  },
+  "COLX 531": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "DSC_VI 571"
+    },
+    "coreq": null
+  },
+  "COLX 533": {
+    "prereq": {
+      "type": "course",
+      "code": "COLX 531"
+    },
+    "coreq": null
+  },
+  "COLX 535": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 551"
+        },
+        {
+          "type": "course",
+          "code": "COLX 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COLX 561": {
+    "prereq": {
+      "type": "course",
+      "code": "COLX 535"
+    },
+    "coreq": null
+  },
+  "COLX 563": {
+    "prereq": {
+      "type": "course",
+      "code": "COLX 561"
+    },
+    "coreq": null
+  },
+  "COLX 565": {
+    "prereq": {
+      "type": "course",
+      "code": "COLX 563"
+    },
+    "coreq": null
+  },
+  "COLX 581": {
+    "prereq": {
+      "type": "course",
+      "code": "COLX 535"
+    },
+    "coreq": null
+  },
+  "COLX 595": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "DSCI",
+      "min_credits": 24
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "MTRL 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MTRL 251": {
+    "prereq": {
+      "type": "course",
+      "code": "MTRL 250"
+    },
+    "coreq": null
+  },
+  "MTRL 320": {
+    "prereq": {
+      "type": "course",
+      "code": "MTRL 201"
+    },
+    "coreq": null
+  },
+  "MTRL 359": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MTRL 358"
+    }
+  },
+  "MTRL 381": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MTRL 365"
+        },
+        {
+          "type": "course",
+          "code": "MTRL 378"
+        }
+      ]
+    }
+  }
+}

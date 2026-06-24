@@ -1,0 +1,23 @@
+{
+  "ANAT 393": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Registration in Rehabilitation Sciences (RSPT) is required"
+    },
+    "coreq": null
+  },
+  "ANAT 502": {
+    "prereq": {
+      "type": "course",
+      "code": "ANAT 401"
+    },
+    "coreq": null
+  },
+  "ANAT 550": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Students must be registered in graduate-level studies in Anatomy & Cell Biology"
+    },
+    "coreq": null
+  }
+}

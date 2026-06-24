@@ -1,0 +1,2878 @@
+{
+  "MATH 100": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A score of 80% or higher in BC Pre-calculus 12"
+    },
+    "coreq": null
+  },
+  "MATH 101": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 102": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12"
+    },
+    "coreq": null
+  },
+  "MATH 103": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 104": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "High-school calculus and a score of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12"
+    },
+    "coreq": null
+  },
+  "MATH 105": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 110": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A grade of 65% or higher in BC Principles of Mathematics 12 or Pre-calculus 12"
+    },
+    "coreq": null
+  },
+  "MATH 111": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 120": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "High-school calculus"
+        },
+        {
+          "type": "unknown",
+          "raw": "one of (a) a score of 95% or higher in BC Principles of Mathematics 12 or Pre-calculus 12"
+        },
+        {
+          "type": "unknown",
+          "raw": "or (b) permission from the Mathematics Department Head"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 121": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "a) a score of 68%"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 131": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 111"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 152": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MATH 101"
+    }
+  },
+  "MATH 180": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12"
+    },
+    "coreq": null
+  },
+  "MATH 184": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A grade of 80% or higher in BC Principles of Mathematics 12 or Pre-calculus 12"
+    },
+    "coreq": null
+  },
+  "MATH 190": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Principles of Mathematics 12 or Pre-calculus 12 and registration in the B.S.F. or B.Sc.N. programs"
+    },
+    "coreq": null
+  },
+  "MATH 200": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 258"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "MATH 215": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    }
+  },
+  "MATH 217": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 102"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 108"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 118"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 153"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 158"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    }
+  },
+  "MATH 220": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 121"
+            },
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 221": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 102"
+            },
+            {
+              "type": "course",
+              "code": "MATH 104"
+            },
+            {
+              "type": "course",
+              "code": "MATH 110"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            },
+            {
+              "type": "course",
+              "code": "MATH 184"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 223": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        },
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 111"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 226": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    }
+  },
+  "MATH 227": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 226"
+    },
+    "coreq": null
+  },
+  "MATH 253": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 103"
+        },
+        {
+          "type": "course",
+          "code": "MATH 105"
+        },
+        {
+          "type": "course",
+          "code": "MATH 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 254": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 222"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    }
+  },
+  "MATH 255": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    }
+  },
+  "MATH 256": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        }
+      ]
+    }
+  },
+  "MATH 257": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 215"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 258"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 258": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 221"
+        },
+        {
+          "type": "course",
+          "code": "MECH 224"
+        }
+      ]
+    }
+  },
+  "MATH 264": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 220"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 211"
+        }
+      ]
+    }
+  },
+  "MATH 300": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 227"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        },
+        {
+          "type": "course",
+          "code": "MATH 317"
+        }
+      ]
+    }
+  },
+  "MATH 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 300"
+        },
+        {
+          "type": "course",
+          "code": "MATH 305"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 257"
+        },
+        {
+          "type": "course",
+          "code": "MATH 316"
+        },
+        {
+          "type": "course",
+          "code": "MATH 358"
+        },
+        {
+          "type": "course",
+          "code": "MECH 358"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 312"
+        }
+      ]
+    }
+  },
+  "MATH 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 303": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 302"
+        },
+        {
+          "type": "course",
+          "code": "STAT 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 305": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 217"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 254"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 257"
+        },
+        {
+          "type": "course",
+          "code": "MATH 316"
+        },
+        {
+          "type": "course",
+          "code": "MATH 358"
+        },
+        {
+          "type": "course",
+          "code": "MECH 358"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 312"
+        }
+      ]
+    }
+  },
+  "MATH 307": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 308": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 152"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 221"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 220"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 226"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 309": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 152"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 221"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 220"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 226"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 220"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 312": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 220"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 121"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "9 additional credits of mathematics courses"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 313": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 312"
+    },
+    "coreq": null
+  },
+  "MATH 316": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 215"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 258"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 317": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 200"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 318": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 257"
+        },
+        {
+          "type": "course",
+          "code": "MATH 316"
+        },
+        {
+          "type": "course",
+          "code": "MATH 358"
+        },
+        {
+          "type": "course",
+          "code": "MECH 358"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 312"
+        }
+      ]
+    }
+  },
+  "MATH 319": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 220"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 320": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            },
+            {
+              "type": "course",
+              "code": "MATH 220"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 321": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 320"
+    },
+    "coreq": null
+  },
+  "MATH 322": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "MATH 310"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "MATH 220"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 323": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 322"
+    },
+    "coreq": null
+  },
+  "MATH 329": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 152"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 221"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 220"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 226"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 340": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "MATH 221"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 341": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 220"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 342": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 152"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 221"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 220"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 226"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 344": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 152"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 221"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 220"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 226"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 121"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 345": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 215"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 258"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 358": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 360": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 210"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 203"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 258"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 361": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 301"
+        },
+        {
+          "type": "course",
+          "code": "MATH 215"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 258"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 399": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 398"
+    },
+    "coreq": null
+  },
+  "MATH 400": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 300"
+            },
+            {
+              "type": "course",
+              "code": "MATH 305"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 257"
+            },
+            {
+              "type": "course",
+              "code": "MATH 316"
+            },
+            {
+              "type": "course",
+              "code": "MATH 358"
+            },
+            {
+              "type": "course",
+              "code": "MECH 358"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 312"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 401": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 257"
+            },
+            {
+              "type": "course",
+              "code": "MATH 316"
+            },
+            {
+              "type": "course",
+              "code": "MATH 358"
+            },
+            {
+              "type": "course",
+              "code": "MECH 358"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 312"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "MATH 400"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 404": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 300"
+        },
+        {
+          "type": "course",
+          "code": "MATH 321"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MATH 420"
+    }
+  },
+  "MATH 405": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 257"
+        },
+        {
+          "type": "course",
+          "code": "MATH 316"
+        },
+        {
+          "type": "course",
+          "code": "MATH 358"
+        },
+        {
+          "type": "course",
+          "code": "MECH 358"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 312"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 406": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 307"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 302"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 256"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 257"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 316"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 358"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 358"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 312"
+                }
+              ]
+            },
+            {
+              "type": "course",
+              "code": "MATH 400"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 412": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 322"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 320"
+            },
+            {
+              "type": "course",
+              "code": "MATH 319"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 414": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "24 credits in MATH"
+    },
+    "coreq": null
+  },
+  "MATH 418": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 321"
+    },
+    "coreq": null
+  },
+  "MATH 419": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 418"
+    },
+    "coreq": null
+  },
+  "MATH 420": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 321"
+    },
+    "coreq": null
+  },
+  "MATH 421": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 420"
+    },
+    "coreq": null
+  },
+  "MATH 422": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 323"
+    },
+    "coreq": null
+  },
+  "MATH 423": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 323"
+        },
+        {
+          "type": "course",
+          "code": "MATH 412"
+        },
+        {
+          "type": "course",
+          "code": "MATH 422"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 424": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 223"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 152"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 221"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 227"
+                },
+                {
+                  "type": "or",
+                  "items": [
+                    {
+                      "type": "course",
+                      "code": "MATH 217"
+                    },
+                    {
+                      "type": "course",
+                      "code": "MATH 254"
+                    },
+                    {
+                      "type": "course",
+                      "code": "MATH 264"
+                    },
+                    {
+                      "type": "course",
+                      "code": "MATH 317"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 425": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 227"
+            },
+            {
+              "type": "course",
+              "code": "MATH 254"
+            },
+            {
+              "type": "course",
+              "code": "MATH 264"
+            },
+            {
+              "type": "course",
+              "code": "MATH 317"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 319"
+            },
+            {
+              "type": "course",
+              "code": "MATH 320"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 426": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 321"
+        },
+        {
+          "type": "course",
+          "code": "MATH 322"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 427": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 426"
+    },
+    "coreq": null
+  },
+  "MATH 428": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 215"
+            },
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "course",
+              "code": "MATH 258"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 216"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 306"
+            },
+            {
+              "type": "course",
+              "code": "ENPH 270"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 320"
+        },
+        {
+          "type": "course",
+          "code": "MATH 319"
+        }
+      ]
+    }
+  },
+  "MATH 437": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 320"
+        },
+        {
+          "type": "course",
+          "code": "MATH 319"
+        },
+        {
+          "type": "course",
+          "code": "MATH 322"
+        }
+      ]
+    }
+  },
+  "MATH 440": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 300"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 320"
+            },
+            {
+              "type": "course",
+              "code": "MATH 319"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 441": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 340"
+    },
+    "coreq": null
+  },
+  "MATH 442": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "standing",
+          "min_year": 3
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 220"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 221"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 443": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 220"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 121"
+            }
+          ]
+        },
+        {
+          "type": "credits_from",
+          "subject": "MATH",
+          "min_credits": 6
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 444": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 220"
+        },
+        {
+          "type": "course",
+          "code": "MATH 223"
+        },
+        {
+          "type": "course",
+          "code": "MATH 226"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 446": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "MATH",
+      "min_credits": 21
+    },
+    "coreq": null
+  },
+  "MATH 448": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third- or fourth-year class standing and permission of the Department Head"
+    },
+    "coreq": null
+  },
+  "MATH 449": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the Department Head"
+    },
+    "coreq": null
+  },
+  "MATH 450": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 400"
+    },
+    "coreq": null
+  },
+  "MATH 461": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 360"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 210"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 203"
+                },
+                {
+                  "type": "course",
+                  "code": "CPSC 210"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 345"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 361"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 462": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 361"
+        },
+        {
+          "type": "course",
+          "code": "MATH 345"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 498": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 399"
+    },
+    "coreq": null
+  },
+  "MATH 499": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 498"
+    },
+    "coreq": null
+  },
+  "MATH 546": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 544"
+        },
+        {
+          "type": "course",
+          "code": "MATH 545"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 548": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 544"
+        },
+        {
+          "type": "course",
+          "code": "MATH 545"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 551": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 550"
+        },
+        {
+          "type": "course",
+          "code": "MATH 400"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MATH 553": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 552"
+    },
+    "coreq": null
+  }
+}

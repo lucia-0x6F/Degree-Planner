@@ -1,0 +1,16 @@
+{
+  "MEDI 503": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of Experimental Medicine Program Director"
+    },
+    "coreq": null
+  },
+  "MEDI 590": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A third-year or higher Biochemistry course"
+    },
+    "coreq": null
+  }
+}

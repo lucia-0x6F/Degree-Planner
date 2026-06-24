@@ -1,0 +1,9 @@
+{
+  "PPGA 310": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  }
+}

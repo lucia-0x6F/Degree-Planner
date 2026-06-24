@@ -1,0 +1,535 @@
+{
+  "WRDS 250": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 340": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 350": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "WRDS 370": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 380": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 390": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 400": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 200"
+        },
+        {
+          "type": "credits_from",
+          "subject": "WRDS",
+          "min_credits": 6,
+          "min_level": 400
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 450": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 498": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "WRDS 499": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 151"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 350"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 113"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 300"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 300"
+        },
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "LFS 150"
+        },
+        {
+          "type": "course",
+          "code": "FRST 150"
+        },
+        {
+          "type": "course",
+          "code": "NRES 150"
+        },
+        {
+          "type": "course",
+          "code": "COMM 196"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 100"
+        },
+        {
+          "type": "course",
+          "code": "ASTU 101"
+        },
+        {
+          "type": "course",
+          "code": "CAP 100"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,224 @@
+{
+  "ARCH 500": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "ARCH 502"
+    }
+  },
+  "ARCH 501": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 500"
+    },
+    "coreq": null
+  },
+  "ARCH 517": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 515"
+    },
+    "coreq": null
+  },
+  "ARCH 520": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 501"
+    },
+    "coreq": null
+  },
+  "ARCH 521": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 511"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 512"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 513"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 520"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 531"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 533"
+        }
+      ]
+    }
+  },
+  "ARCH 523": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "ARCH",
+      "min_credits": 6
+    },
+    "coreq": null
+  },
+  "ARCH 531": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 511"
+    },
+    "coreq": null
+  },
+  "ARCH 532": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 512"
+    },
+    "coreq": null
+  },
+  "ARCH 533": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 513"
+    },
+    "coreq": null
+  },
+  "ARCH 539": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 500"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 501"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARCH 540": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 521"
+    },
+    "coreq": null
+  },
+  "ARCH 548": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 521"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 523"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 531"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 532"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 533"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARCH 549": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 548"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 549"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARCH 551": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 511"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 512"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARCH 571": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 511"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 512"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARCH 572": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 512"
+    },
+    "coreq": null
+  },
+  "ARCH 573": {
+    "prereq": {
+      "type": "course",
+      "code": "ARCH 513"
+    },
+    "coreq": null
+  },
+  "ARCH 577": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARCH 515"
+        },
+        {
+          "type": "course",
+          "code": "ARCH 517"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

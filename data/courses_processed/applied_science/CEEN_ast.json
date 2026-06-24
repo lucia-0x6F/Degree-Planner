@@ -1,0 +1,9 @@
+{
+  "CEEN 502": {
+    "prereq": {
+      "type": "course",
+      "code": "CEEN 501"
+    },
+    "coreq": null
+  }
+}

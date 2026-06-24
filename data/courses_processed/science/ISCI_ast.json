@@ -1,0 +1,149 @@
+{
+  "ISCI 300": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Registration in Integrated Sciences Program"
+    },
+    "coreq": null
+  },
+  "ISCI 311": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 312": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 320": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 322": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 330": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 344": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 345": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 350": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 351": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third-year or higher standing in the Faculty of Science"
+    },
+    "coreq": null
+  },
+  "ISCI 360": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Third-year or higher standing in the Faculty of Science"
+    },
+    "coreq": null
+  },
+  "ISCI 398": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "One term in ISP"
+    },
+    "coreq": null
+  },
+  "ISCI 399": {
+    "prereq": {
+      "type": "course",
+      "code": "ISCI 398"
+    },
+    "coreq": null
+  },
+  "ISCI 400": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "ISCI 422": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 433": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 434": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 461": {
+    "prereq": {
+      "type": "course",
+      "code": "ISCI 361"
+    },
+    "coreq": null
+  },
+  "ISCI 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ISCI 498": {
+    "prereq": {
+      "type": "course",
+      "code": "ISCI 399"
+    },
+    "coreq": null
+  },
+  "ISCI 499": {
+    "prereq": {
+      "type": "course",
+      "code": "ISCI 498"
+    },
+    "coreq": null
+  }
+}

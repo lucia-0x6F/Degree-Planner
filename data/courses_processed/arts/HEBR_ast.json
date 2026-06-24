@@ -1,0 +1,57 @@
+{
+  "HEBR 205": {
+    "prereq": {
+      "type": "course",
+      "code": "HEBR 101"
+    },
+    "coreq": null
+  },
+  "HEBR 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "HEBR 102"
+        },
+        {
+          "type": "course",
+          "code": "HEBR 205"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HEBR 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "HEBR 201"
+        },
+        {
+          "type": "course",
+          "code": "HEBR 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HEBR 479": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "HEBR 202"
+        },
+        {
+          "type": "course",
+          "code": "HEBR 302"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

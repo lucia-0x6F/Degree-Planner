@@ -1,0 +1,272 @@
+{
+  "ENPH 253": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPH 259"
+    },
+    "coreq": null
+  },
+  "ENPH 257": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 200"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 217"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 226"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 254"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 255"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "and",
+                  "items": [
+                    {
+                      "type": "course",
+                      "code": "PHYS 108"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 109"
+                    }
+                  ]
+                },
+                {
+                  "type": "or",
+                  "items": [
+                    {
+                      "type": "course",
+                      "code": "PHYS 102"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 153"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 157"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 158"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 159"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 118"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 119"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 108"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 119"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ENPH 259": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 176"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 110"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 111"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 112"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 120"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 121"
+            },
+            {
+              "type": "course",
+              "code": "WRDS 150"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 108"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 109"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 102"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 153"
+                },
+                {
+                  "type": "course",
+                  "code": "SCIE 001"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 157"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 158"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 159"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 118"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 119"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 108"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 119"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ENPH 270": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 170"
+    },
+    "coreq": null
+  },
+  "ENPH 352": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "PHYS 301"
+    }
+  },
+  "ENPH 353": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ENPH 253"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 221"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ENPH 459": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPH 253"
+    },
+    "coreq": null
+  },
+  "ENPH 479": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPH 459"
+    },
+    "coreq": null
+  },
+  "ENPH 480": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPH 479"
+    },
+    "coreq": null
+  },
+  "ENPH 481": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPH 459"
+    },
+    "coreq": null
+  }
+}

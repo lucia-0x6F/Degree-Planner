@@ -1,0 +1,769 @@
+{
+  "VISA 210": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "VISA 110"
+            },
+            {
+              "type": "course",
+              "code": "VISA 180"
+            },
+            {
+              "type": "course",
+              "code": "VISA 183"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "or BMS student"
+        },
+        {
+          "type": "course",
+          "code": "VISA 110"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 220": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        },
+        {
+          "type": "course",
+          "code": "VISA 183"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 230": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        },
+        {
+          "type": "course",
+          "code": "VISA 183"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 240": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        },
+        {
+          "type": "course",
+          "code": "VISA 183"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 241": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "VISA 110"
+            },
+            {
+              "type": "course",
+              "code": "VISA 180"
+            },
+            {
+              "type": "course",
+              "code": "VISA 183"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "or BMS student"
+        },
+        {
+          "type": "course",
+          "code": "VISA 110"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 250": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        },
+        {
+          "type": "course",
+          "code": "VISA 183"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 260": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        },
+        {
+          "type": "course",
+          "code": "VISA 183"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 270": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        },
+        {
+          "type": "course",
+          "code": "VISA 183"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 280": {
+    "prereq": {
+      "type": "course",
+      "code": "VISA 183"
+    },
+    "coreq": null
+  },
+  "VISA 310": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 210"
+        },
+        {
+          "type": "course",
+          "code": "VISA 287"
+        },
+        {
+          "type": "course",
+          "code": "FINA 287"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 311": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 240"
+        },
+        {
+          "type": "course",
+          "code": "VISA 241"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 312": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 241"
+        },
+        {
+          "type": "course",
+          "code": "VISA 210"
+        },
+        {
+          "type": "course",
+          "code": "FIPR 133"
+        },
+        {
+          "type": "course",
+          "code": "FIPR 233"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 320": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 220"
+        },
+        {
+          "type": "course",
+          "code": "VISA 281"
+        },
+        {
+          "type": "course",
+          "code": "FINA 281"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 321": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 220"
+        },
+        {
+          "type": "course",
+          "code": "VISA 281"
+        },
+        {
+          "type": "course",
+          "code": "FINA 281"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 330": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 230"
+        },
+        {
+          "type": "course",
+          "code": "VISA 282"
+        },
+        {
+          "type": "course",
+          "code": "FINA 282"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 331": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 230"
+        },
+        {
+          "type": "course",
+          "code": "VISA 282"
+        },
+        {
+          "type": "course",
+          "code": "FINA 282"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 340": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 240"
+        },
+        {
+          "type": "course",
+          "code": "VISA 241"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 341": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 240"
+        },
+        {
+          "type": "course",
+          "code": "VISA 241"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 350": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 250"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "VISA 290"
+            },
+            {
+              "type": "course",
+              "code": "VISA 283"
+            },
+            {
+              "type": "course",
+              "code": "VISA 284"
+            },
+            {
+              "type": "course",
+              "code": "FINA 290"
+            },
+            {
+              "type": "course",
+              "code": "FINA 283"
+            },
+            {
+              "type": "course",
+              "code": "FINA 284"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 351": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 250"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "VISA 283"
+            },
+            {
+              "type": "course",
+              "code": "VISA 284"
+            },
+            {
+              "type": "course",
+              "code": "VISA 290"
+            },
+            {
+              "type": "course",
+              "code": "FINA 283"
+            },
+            {
+              "type": "course",
+              "code": "FINA 284"
+            },
+            {
+              "type": "course",
+              "code": "FINA 290"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 352": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "VISA 220"
+            },
+            {
+              "type": "course",
+              "code": "VISA 250"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "VISA 281"
+            },
+            {
+              "type": "course",
+              "code": "FINA 281"
+            },
+            {
+              "type": "course",
+              "code": "VISA 283"
+            },
+            {
+              "type": "course",
+              "code": "VISA 284"
+            },
+            {
+              "type": "course",
+              "code": "VISA 290"
+            },
+            {
+              "type": "course",
+              "code": "FINA 283"
+            },
+            {
+              "type": "course",
+              "code": "FINA 284"
+            },
+            {
+              "type": "course",
+              "code": "FINA 290"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 360": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 260"
+        },
+        {
+          "type": "course",
+          "code": "VISA 285"
+        },
+        {
+          "type": "course",
+          "code": "VISA 286"
+        },
+        {
+          "type": "course",
+          "code": "FINA 285"
+        },
+        {
+          "type": "course",
+          "code": "FINA 286"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 361": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 260"
+        },
+        {
+          "type": "course",
+          "code": "VISA 285"
+        },
+        {
+          "type": "course",
+          "code": "VISA 286"
+        },
+        {
+          "type": "course",
+          "code": "FINA 285"
+        },
+        {
+          "type": "course",
+          "code": "FINA 286"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 370": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 200-level VISA"
+    },
+    "coreq": null
+  },
+  "VISA 371": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 200 level VISA"
+    },
+    "coreq": null
+  },
+  "VISA 375": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "VISA 376": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3 credits of any 200-level VISA course"
+    },
+    "coreq": null
+  },
+  "VISA 381": {
+    "prereq": {
+      "type": "course",
+      "code": "VISA 380"
+    },
+    "coreq": null
+  },
+  "VISA 390": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 200-level VISA with an average of at least 72%"
+    },
+    "coreq": null
+  },
+  "VISA 401": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Three of VISA 310, VISA 311, VISA 320, VISA 321, VISA 330, VISA 331, VISA 340, VISA 341, VISA 350, VISA 351, VISA 352, VISA 360, VISA 361, VISA 370, VISA 375, VISA 390"
+    },
+    "coreq": null
+  },
+  "VISA 410": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 310"
+        },
+        {
+          "type": "course",
+          "code": "VISA 311"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 411": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 310"
+        },
+        {
+          "type": "course",
+          "code": "VISA 311"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 430": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of VISA 320, VISA 321, VISA 330, VISA 331"
+    },
+    "coreq": null
+  },
+  "VISA 431": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of VISA 320, VISA 321, VISA 330, VISA 331"
+    },
+    "coreq": null
+  },
+  "VISA 440": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of VISA 340, VISA 341, VISA 310"
+    },
+    "coreq": null
+  },
+  "VISA 441": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of VISA 340, VISA 341, VISA 440"
+    },
+    "coreq": null
+  },
+  "VISA 450": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 350"
+        },
+        {
+          "type": "course",
+          "code": "VISA 351"
+        },
+        {
+          "type": "course",
+          "code": "VISA 360"
+        },
+        {
+          "type": "course",
+          "code": "VISA 361"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 451": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "VISA 350"
+        },
+        {
+          "type": "course",
+          "code": "VISA 351"
+        },
+        {
+          "type": "course",
+          "code": "VISA 360"
+        },
+        {
+          "type": "course",
+          "code": "VISA 361"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VISA 469": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor"
+    },
+    "coreq": null
+  },
+  "VISA 470": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 300-level VISA"
+    },
+    "coreq": null
+  },
+  "VISA 471": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 300-level VISA"
+    },
+    "coreq": null
+  },
+  "VISA 480": {
+    "prereq": {
+      "type": "course",
+      "code": "VISA 380"
+    },
+    "coreq": null
+  },
+  "VISA 481": {
+    "prereq": {
+      "type": "course",
+      "code": "VISA 480"
+    },
+    "coreq": null
+  },
+  "VISA 490": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 300-level VISA and 3 credits of 400-level VISA"
+    },
+    "coreq": null
+  },
+  "VISA 491": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "6 credits of 300-level VISA and 3 credits of 400-level VISA"
+    },
+    "coreq": null
+  }
+}

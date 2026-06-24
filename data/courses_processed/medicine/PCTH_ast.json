@@ -1,0 +1,320 @@
+{
+  "PCTH 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 111"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 153"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 155"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 300": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 235"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 200"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 201"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 203"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 204"
+                }
+              ]
+            },
+            {
+              "type": "course",
+              "code": "CHEM 211"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 205"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 201"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CAPS 205"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 206"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 302": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PCTH 300"
+        },
+        {
+          "type": "course",
+          "code": "PCTH 301"
+        }
+      ]
+    }
+  },
+  "PCTH 303": {
+    "prereq": {
+      "type": "course",
+      "code": "PCTH 301"
+    },
+    "coreq": null
+  },
+  "PCTH 305": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 201"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 202"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 203"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CAPS 301"
+    }
+  },
+  "PCTH 325": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 201"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 202"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 203"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 398": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PCTH 300"
+        },
+        {
+          "type": "course",
+          "code": "PCTH 303"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 399": {
+    "prereq": {
+      "type": "course",
+      "code": "PCTH 398"
+    },
+    "coreq": null
+  },
+  "PCTH 400": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PCTH 303"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PCTH 300"
+            },
+            {
+              "type": "course",
+              "code": "PCTH 305"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 402": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PCTH 302"
+        },
+        {
+          "type": "course",
+          "code": "PCTH 303"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 404": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PCTH 303"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PCTH 300"
+                },
+                {
+                  "type": "course",
+                  "code": "PCTH 305"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 300"
+                },
+                {
+                  "type": "course",
+                  "code": "STAT 200"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PCTH 498": {
+    "prereq": {
+      "type": "course",
+      "code": "PCTH 399"
+    },
+    "coreq": null
+  },
+  "PCTH 499": {
+    "prereq": {
+      "type": "course",
+      "code": "PCTH 498"
+    },
+    "coreq": null
+  },
+  "PCTH 513": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the department head is required"
+    },
+    "coreq": null
+  }
+}

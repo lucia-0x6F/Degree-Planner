@@ -1,0 +1,1247 @@
+{
+  "POLI 220": {
+    "prereq": {
+      "type": "course",
+      "code": "POLI 100"
+    },
+    "coreq": null
+  },
+  "POLI 240": {
+    "prereq": {
+      "type": "course",
+      "code": "POLI 100"
+    },
+    "coreq": null
+  },
+  "POLI 260": {
+    "prereq": {
+      "type": "course",
+      "code": "POLI 100"
+    },
+    "coreq": null
+  },
+  "POLI 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 304": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 305": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 306": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 307": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 308": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 309": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 310": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 311": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 312": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 316": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 317": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI _V 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 321": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 322": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 323": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 324": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 325": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 326": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 327": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 328": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 329": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 330": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 331": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 332": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 333": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 334": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 335": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 336": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 337": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 338": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 340": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 341": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 342": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 343": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 344": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 345": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 346": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 347": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 348": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 350": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 351": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 352": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 353": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 360": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 361": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 362": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 363": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 364": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 365": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 366": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Two of POLI 100, POLI 101, POLI 110, POLI 240. Or third-year standing or higher"
+    },
+    "coreq": null
+  },
+  "POLI 367": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 368": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 372": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 373": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 374": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 375": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 376": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 377": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 378": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 379": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 110"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 380": {
+    "prereq": {
+      "type": "course",
+      "code": "POLI 110"
+    },
+    "coreq": null
+  },
+  "POLI 381": {
+    "prereq": {
+      "type": "course",
+      "code": "POLI 110"
+    },
+    "coreq": null
+  },
+  "POLI 385": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 100"
+        },
+        {
+          "type": "course",
+          "code": "POLI 101"
+        },
+        {
+          "type": "course",
+          "code": "POLI 240"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "POLI 482": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "POLI 310"
+        },
+        {
+          "type": "course",
+          "code": "POLI 380"
+        },
+        {
+          "type": "course",
+          "code": "POLI 381"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

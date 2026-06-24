@@ -1,0 +1,271 @@
+{
+  "MANU 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MANU 261": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 157"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MATH 255"
+    }
+  },
+  "MANU 265": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "MATH 152"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 170"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MATH 255"
+    }
+  },
+  "MANU 330": {
+    "prereq": {
+      "type": "course",
+      "code": "MANU 230"
+    },
+    "coreq": null
+  },
+  "MANU 370": {
+    "prereq": {
+      "type": "course",
+      "code": "MANU 270"
+    },
+    "coreq": null
+  },
+  "MANU 378": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 278"
+    },
+    "coreq": null
+  },
+  "MANU 380": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 278"
+            },
+            {
+              "type": "course",
+              "code": "APSC 279"
+            },
+            {
+              "type": "course",
+              "code": "MTRL 264"
+            },
+            {
+              "type": "course",
+              "code": "MECH 260"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 280"
+            },
+            {
+              "type": "course",
+              "code": "MTRL 263"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MANU 261"
+    }
+  },
+  "MANU 386": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MANU 265"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MANU 330"
+    }
+  },
+  "MANU 399": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MANU 430": {
+    "prereq": {
+      "type": "course",
+      "code": "MANU 330"
+    },
+    "coreq": null
+  },
+  "MANU 450": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MANU 453": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MANU 456": {
+    "prereq": {
+      "type": "course",
+      "code": "MANU 386"
+    },
+    "coreq": null
+  },
+  "MANU 457": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MANU 330"
+        },
+        {
+          "type": "course",
+          "code": "MANU 386"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MANU 458": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MANU 480": {
+    "prereq": {
+      "type": "course",
+      "code": "MANU 380"
+    },
+    "coreq": null
+  },
+  "MANU 481": {
+    "prereq": {
+      "type": "course",
+      "code": "MANU 380"
+    },
+    "coreq": null
+  },
+  "MANU 487": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MANU 265"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MECH 368"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MANU 430"
+    }
+  },
+  "MANU 499": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  }
+}

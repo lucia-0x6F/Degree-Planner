@@ -1,0 +1,49 @@
+{
+  "VRHC 503": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "VRHC 502"
+    }
+  },
+  "VRHC 511": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "VRHC 501"
+        },
+        {
+          "type": "course",
+          "code": "VRHC 502"
+        },
+        {
+          "type": "course",
+          "code": "VRHC 502"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "VRHC 512": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "VRHC 501"
+        },
+        {
+          "type": "course",
+          "code": "VRHC 502"
+        },
+        {
+          "type": "course",
+          "code": "VRHC 511"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,350 @@
+{
+  "ATSC 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "familiarity with a programming language"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ATSC 201"
+            },
+            {
+              "type": "course",
+              "code": "GEOB 200"
+            },
+            {
+              "type": "course",
+              "code": "GEOS 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 313": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 106"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 107"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 117"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 131"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 160"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "DSCI 100"
+            },
+            {
+              "type": "course",
+              "code": "EOSC 211"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 398": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ATSC 201"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "GEOB 300"
+            },
+            {
+              "type": "course",
+              "code": "GEOS 300"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 399": {
+    "prereq": {
+      "type": "course",
+      "code": "ATSC 398"
+    },
+    "coreq": null
+  },
+  "ATSC 404": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 352"
+            },
+            {
+              "type": "course",
+              "code": "MATH 316"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 312"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EOSC 250"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 317"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 405": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 215"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 203"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 304"
+        }
+      ]
+    }
+  },
+  "ATSC 409": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 215"
+        },
+        {
+          "type": "course",
+          "code": "MATH 255"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "course",
+          "code": "MATH 265"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 413": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ATSC 201"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ATSC 498": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "ATSC 399"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ATSC 303"
+            },
+            {
+              "type": "course",
+              "code": "GEOB 304"
+            },
+            {
+              "type": "course",
+              "code": "GEOS 304"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ATSC 499": {
+    "prereq": {
+      "type": "course",
+      "code": "ATSC 498"
+    },
+    "coreq": null
+  },
+  "ATSC 507": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "All of a fluid-dynamics course, a numerical-methods course, as well as computer-programming skills"
+    },
+    "coreq": null
+  },
+  "ATSC 598": {
+    "prereq": {
+      "type": "course",
+      "code": "ATSC 597"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "ARBC 205": {
+    "prereq": {
+      "type": "course",
+      "code": "ARBC 101"
+    },
+    "coreq": null
+  },
+  "ARBC 301": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARBC 205"
+        },
+        {
+          "type": "course",
+          "code": "ARBC 102"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARBC 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARBC 201"
+        },
+        {
+          "type": "course",
+          "code": "ARBC 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ARBC 420": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ARBC 202"
+        },
+        {
+          "type": "course",
+          "code": "ARBC 302"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

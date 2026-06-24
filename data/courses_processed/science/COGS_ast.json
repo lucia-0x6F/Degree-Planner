@@ -1,0 +1,55 @@
+{
+  "COGS 200": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "2nd-year class standing or higher in the Faculty of Arts or Science"
+    },
+    "coreq": null
+  },
+  "COGS 300": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COGS 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COGS 303": {
+    "prereq": {
+      "type": "course",
+      "code": "COGS 200"
+    },
+    "coreq": null
+  },
+  "COGS 401": {
+    "prereq": {
+      "type": "course",
+      "code": "COGS 300"
+    },
+    "coreq": null
+  },
+  "COGS 402": {
+    "prereq": {
+      "type": "course",
+      "code": "COGS 300"
+    },
+    "coreq": null
+  }
+}

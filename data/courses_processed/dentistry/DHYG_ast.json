@@ -1,0 +1,109 @@
+{
+  "DHYG 206": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 153"
+        },
+        {
+          "type": "course",
+          "code": "DHYG 108"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DHYG 208": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 108"
+    },
+    "coreq": null
+  },
+  "DHYG 210": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 110"
+    },
+    "coreq": null
+  },
+  "DHYG 308": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 208"
+    },
+    "coreq": null
+  },
+  "DHYG 310": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 210"
+    },
+    "coreq": null
+  },
+  "DHYG 406": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "DHYG 400"
+            },
+            {
+              "type": "course",
+              "code": "DHYG 401"
+            },
+            {
+              "type": "course",
+              "code": "DHYG 461"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "Faculty approval"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DHYG 410": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 310"
+    },
+    "coreq": null
+  },
+  "DHYG 412": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 462"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "DHYG 462"
+    }
+  },
+  "DHYG 461": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "DHYG 401"
+    }
+  },
+  "DHYG 462": {
+    "prereq": {
+      "type": "course",
+      "code": "DHYG 461"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "DHYG 401"
+    }
+  }
+}

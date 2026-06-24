@@ -1,0 +1,470 @@
+{
+  "THTR 271": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "At least one theatre course"
+    },
+    "coreq": null
+  },
+  "THTR 273": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "At least one theatre course"
+    },
+    "coreq": null
+  },
+  "THTR 299": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 205"
+        },
+        {
+          "type": "course",
+          "code": "THTR 250"
+        }
+      ]
+    }
+  },
+  "THTR 317": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "THTR 130"
+            },
+            {
+              "type": "course",
+              "code": "THTR 230"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "THTR 299"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 299"
+        },
+        {
+          "type": "course",
+          "code": "THTR 399"
+        }
+      ]
+    }
+  },
+  "THTR 330": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 130"
+        },
+        {
+          "type": "course",
+          "code": "THTR 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 335": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 130"
+        },
+        {
+          "type": "course",
+          "code": "THTR 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 339": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 130"
+        },
+        {
+          "type": "course",
+          "code": "THTR 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 350": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 250"
+    },
+    "coreq": null
+  },
+  "THTR 371": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 271"
+        },
+        {
+          "type": "course",
+          "code": "THTR 272"
+        },
+        {
+          "type": "course",
+          "code": "THTR 273"
+        },
+        {
+          "type": "course",
+          "code": "THTR 274"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 372": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 371"
+        },
+        {
+          "type": "course",
+          "code": "THTR 373"
+        },
+        {
+          "type": "course",
+          "code": "THTR 374"
+        }
+      ]
+    }
+  },
+  "THTR 373": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 271"
+        },
+        {
+          "type": "course",
+          "code": "THTR 272"
+        },
+        {
+          "type": "course",
+          "code": "THTR 273"
+        },
+        {
+          "type": "course",
+          "code": "THTR 274"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 374": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 371"
+        },
+        {
+          "type": "course",
+          "code": "THTR 372"
+        },
+        {
+          "type": "course",
+          "code": "THTR 373"
+        }
+      ]
+    }
+  },
+  "THTR 391": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 271"
+        },
+        {
+          "type": "course",
+          "code": "THTR 272"
+        },
+        {
+          "type": "course",
+          "code": "THTR 273"
+        },
+        {
+          "type": "course",
+          "code": "THTR 274"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 399": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 305"
+        },
+        {
+          "type": "course",
+          "code": "THTR 306"
+        },
+        {
+          "type": "course",
+          "code": "THTR 307"
+        },
+        {
+          "type": "course",
+          "code": "THTR 308"
+        },
+        {
+          "type": "course",
+          "code": "THTR 350"
+        },
+        {
+          "type": "course",
+          "code": "THTR 352"
+        },
+        {
+          "type": "course",
+          "code": "THTR 354"
+        },
+        {
+          "type": "course",
+          "code": "THTR 356"
+        }
+      ]
+    }
+  },
+  "THTR 406": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 306"
+    },
+    "coreq": null
+  },
+  "THTR 407": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 307"
+    },
+    "coreq": null
+  },
+  "THTR 417": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 317"
+    },
+    "coreq": null
+  },
+  "THTR 420": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 320"
+    },
+    "coreq": null
+  },
+  "THTR 440": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "THTR",
+      "min_credits": 6,
+      "min_level": 300
+    },
+    "coreq": null
+  },
+  "THTR 456": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 356"
+    },
+    "coreq": null
+  },
+  "THTR 469": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor"
+    },
+    "coreq": null
+  },
+  "THTR 471": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 371"
+        },
+        {
+          "type": "course",
+          "code": "THTR 372"
+        },
+        {
+          "type": "course",
+          "code": "THTR 373"
+        },
+        {
+          "type": "course",
+          "code": "THTR 374"
+        },
+        {
+          "type": "course",
+          "code": "THTR 391"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "THTR 472": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 471"
+        },
+        {
+          "type": "course",
+          "code": "THTR 473"
+        },
+        {
+          "type": "course",
+          "code": "THTR 474"
+        }
+      ]
+    }
+  },
+  "THTR 473": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Three of THTR 371, THTR 372, THTR 373, THTR 374, THTR 391"
+    },
+    "coreq": null
+  },
+  "THTR 474": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 471"
+        },
+        {
+          "type": "course",
+          "code": "THTR 472"
+        },
+        {
+          "type": "course",
+          "code": "THTR 473"
+        }
+      ]
+    }
+  },
+  "THTR 491": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Three of THTR 371, THTR 372, THTR 373, THTR 374, THTR 391"
+    },
+    "coreq": null
+  },
+  "THTR 499": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 399"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "THTR 405"
+        },
+        {
+          "type": "course",
+          "code": "THTR 406"
+        },
+        {
+          "type": "course",
+          "code": "THTR 407"
+        },
+        {
+          "type": "course",
+          "code": "THTR 408"
+        },
+        {
+          "type": "course",
+          "code": "THTR 450"
+        },
+        {
+          "type": "course",
+          "code": "THTR 452"
+        },
+        {
+          "type": "course",
+          "code": "THTR 454"
+        },
+        {
+          "type": "course",
+          "code": "THTR 456"
+        },
+        {
+          "type": "course",
+          "code": "THTR 470"
+        }
+      ]
+    }
+  },
+  "THTR 521": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 520"
+    },
+    "coreq": null
+  },
+  "THTR 556": {
+    "prereq": {
+      "type": "course",
+      "code": "THTR 555"
+    },
+    "coreq": null
+  }
+}

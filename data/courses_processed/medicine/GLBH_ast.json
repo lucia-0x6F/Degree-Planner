@@ -1,0 +1,41 @@
+{
+  "GLBH 502": {
+    "prereq": {
+      "type": "course",
+      "code": "GLBH 501"
+    },
+    "coreq": null
+  },
+  "GLBH 504": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "GLBH 501"
+        },
+        {
+          "type": "course",
+          "code": "GLBH 503"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GLBH 506": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "GLBH 501"
+        },
+        {
+          "type": "course",
+          "code": "GLBH 505"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

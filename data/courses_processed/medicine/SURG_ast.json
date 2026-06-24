@@ -1,0 +1,62 @@
+{
+  "SURG 516": {
+    "prereq": {
+      "type": "course",
+      "code": "SURG 510"
+    },
+    "coreq": null
+  },
+  "SURG 518": {
+    "prereq": {
+      "type": "course",
+      "code": "SURG 510"
+    },
+    "coreq": null
+  },
+  "SURG 542": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SURG 510"
+        },
+        {
+          "type": "course",
+          "code": "SURG 512"
+        },
+        {
+          "type": "course",
+          "code": "SURG 514"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "SURG 517"
+    }
+  },
+  "SURG 560": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SURG 510"
+        },
+        {
+          "type": "course",
+          "code": "SURG 514"
+        },
+        {
+          "type": "course",
+          "code": "SURG 516"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "SURG 517"
+    }
+  }
+}

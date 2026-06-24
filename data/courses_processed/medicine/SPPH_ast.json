@@ -1,0 +1,602 @@
+{
+  "SPPH 500": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 400"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 567"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 501": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 400"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 500"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 500"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 500"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 567"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 503": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 502"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 400"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 504": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "SPPH 500"
+                },
+                {
+                  "type": "course",
+                  "code": "SPPH 502"
+                },
+                {
+                  "type": "course",
+                  "code": "SPPH 503"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 509": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 502"
+    },
+    "coreq": null
+  },
+  "SPPH 510": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "course",
+          "code": "SPPH 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 511": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 502"
+    },
+    "coreq": null
+  },
+  "SPPH 512": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 502"
+        },
+        {
+          "type": "course",
+          "code": "SPPH 513"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 513": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 514": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 515": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 520": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 528": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "SPPH 500"
+    }
+  },
+  "SPPH 530": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 502"
+    },
+    "coreq": null
+  },
+  "SPPH 533": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of instructor"
+    },
+    "coreq": null
+  },
+  "SPPH 537": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "SPPH 500"
+    }
+  },
+  "SPPH 539": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 502"
+        },
+        {
+          "type": "course",
+          "code": "SPPH 524"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 540": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 541": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 543": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 502"
+    },
+    "coreq": null
+  },
+  "SPPH 549": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 541"
+    },
+    "coreq": null
+  },
+  "SPPH 551": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Previous coursework in statistics or biostatistics"
+    },
+    "coreq": null
+  },
+  "SPPH 553": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 400"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 562": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 535"
+    },
+    "coreq": null
+  },
+  "SPPH 563": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 535"
+    },
+    "coreq": null
+  },
+  "SPPH 564": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 502"
+        },
+        {
+          "type": "course",
+          "code": "SPPH 535"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "SPPH 522"
+    }
+  },
+  "SPPH 566": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 562"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "SPPH 563"
+    }
+  },
+  "SPPH 604": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 500"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 502"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 503"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SPPH 400"
+            },
+            {
+              "type": "course",
+              "code": "SPPH 521"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 610": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 500"
+        },
+        {
+          "type": "unknown",
+          "raw": "experience with differential and integral calculus and an analytic programming language such as SAS or R, and permission of the instructor"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SPPH 611": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "SPPH 500"
+        },
+        {
+          "type": "course",
+          "code": "SPPH 503"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "GREK 102": {
+    "prereq": {
+      "type": "course",
+      "code": "GREK 101"
+    },
+    "coreq": null
+  },
+  "GREK 201": {
+    "prereq": {
+      "type": "course",
+      "code": "GREK 102"
+    },
+    "coreq": null
+  },
+  "GREK 202": {
+    "prereq": {
+      "type": "course",
+      "code": "GREK 201"
+    },
+    "coreq": null
+  },
+  "GREK 351": {
+    "prereq": {
+      "type": "course",
+      "code": "GREK 202"
+    },
+    "coreq": null
+  },
+  "GREK 352": {
+    "prereq": {
+      "type": "course",
+      "code": "GREK 202"
+    },
+    "coreq": null
+  },
+  "GREK 401": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GREK 351"
+        },
+        {
+          "type": "course",
+          "code": "GREK 352"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GREK 402": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GREK 351"
+        },
+        {
+          "type": "course",
+          "code": "GREK 352"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GREK 403": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GREK 351"
+        },
+        {
+          "type": "course",
+          "code": "GREK 352"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

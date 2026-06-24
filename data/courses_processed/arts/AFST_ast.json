@@ -1,0 +1,9 @@
+{
+  "AFST 370": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "For ENGL courses at the 200- or 300- level, prior completion of at least one 100- level ENGL"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "GMST 415": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "GERM 325"
+        },
+        {
+          "type": "course",
+          "code": "GERN 315"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "GMST 433": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  }
+}

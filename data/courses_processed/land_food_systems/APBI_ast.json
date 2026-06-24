@@ -1,0 +1,745 @@
+{
+  "APBI 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 180"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 180"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 140"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 140"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 214": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "APBI 235": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 180"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 301": {
+    "prereq": {
+      "type": "course",
+      "code": "APBI 200"
+    },
+    "coreq": null
+  },
+  "APBI 311": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 204"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 260"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 361"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 312": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 204"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 313": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 314": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 315": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 319": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            },
+            {
+              "type": "course",
+              "code": "APBI 260"
+            },
+            {
+              "type": "course",
+              "code": "APBI 265"
+            },
+            {
+              "type": "course",
+              "code": "CONS 330"
+            },
+            {
+              "type": "course",
+              "code": "ENVR 200"
+            },
+            {
+              "type": "course",
+              "code": "ENVR 300"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 324": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "APBI 327": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "APBI 328": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "ILS 108"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 342": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "APBI 351": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 111"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 113"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 360": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "APBI 260"
+        },
+        {
+          "type": "course",
+          "code": "APBI 265"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 365": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APBI 260"
+            },
+            {
+              "type": "course",
+              "code": "APBI 265"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 398": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 401": {
+    "prereq": {
+      "type": "course",
+      "code": "APBI 200"
+    },
+    "coreq": null
+  },
+  "APBI 402": {
+    "prereq": {
+      "type": "course",
+      "code": "APBI 200"
+    },
+    "coreq": null
+  },
+  "APBI 403": {
+    "prereq": {
+      "type": "course",
+      "code": "APBI 200"
+    },
+    "coreq": null
+  },
+  "APBI 405": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 406": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 260"
+        },
+        {
+          "type": "course",
+          "code": "APBI 265"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 410": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 201"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 202"
+        },
+        {
+          "type": "course",
+          "code": "BIOC 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 411": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 201"
+    },
+    "coreq": null
+  },
+  "APBI 412": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "APBI 413": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 414": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 314"
+        },
+        {
+          "type": "course",
+          "code": "APBI 315"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 416": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 418": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 419": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 420": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "APBI 422": {
+    "prereq": {
+      "type": "course",
+      "code": "LFS 350"
+    },
+    "coreq": null
+  },
+  "APBI 423": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "APBI 260"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 426": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 233"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 260"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 427": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 205"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 327"
+        },
+        {
+          "type": "course",
+          "code": "APBI 327"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 428": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 121"
+    },
+    "coreq": null
+  },
+  "APBI 440": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "BIOL 335"
+    }
+  },
+  "APBI 442": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 443": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 112"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 444": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "APBI 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 460": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 462": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        },
+        {
+          "type": "course",
+          "code": "GEOG 374"
+        },
+        {
+          "type": "course",
+          "code": "FRST 231"
+        },
+        {
+          "type": "course",
+          "code": "LFS 252"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 463": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APBI 327"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 327"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "GEOG 374"
+            },
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "LFS 252"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 465": {
+    "prereq": {
+      "type": "course",
+      "code": "APBI 365"
+    },
+    "coreq": null
+  },
+  "APBI 475": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BEST 203"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "APBI 260"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 207"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APBI 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 495": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 496": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APBI 497": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Approval of program advisor"
+    },
+    "coreq": null
+  },
+  "APBI 499": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Approval of a program advisor; consult before the end of classes in third year"
+    },
+    "coreq": null
+  }
+}

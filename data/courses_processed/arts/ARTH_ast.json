@@ -1,0 +1,10 @@
+{
+  "ARTH 300": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "ARTH",
+      "min_credits": 3
+    },
+    "coreq": null
+  }
+}

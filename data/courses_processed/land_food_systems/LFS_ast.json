@@ -1,0 +1,103 @@
+{
+  "LFS 252": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LFS 303": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 101"
+        },
+        {
+          "type": "course",
+          "code": "LFS 101"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LFS 350": {
+    "prereq": {
+      "type": "course",
+      "code": "LFS 250"
+    },
+    "coreq": null
+  },
+  "LFS 398": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Must attend all Co-op pre-employment workshops"
+    },
+    "coreq": null
+  },
+  "LFS 399": {
+    "prereq": {
+      "type": "course",
+      "code": "LFS 398"
+    },
+    "coreq": null
+  },
+  "LFS 400": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "LFS 402": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "LFS 498": {
+    "prereq": {
+      "type": "course",
+      "code": "LFS 399"
+    },
+    "coreq": null
+  },
+  "LFS 499": {
+    "prereq": {
+      "type": "course",
+      "code": "LFS 498"
+    },
+    "coreq": null
+  }
+}

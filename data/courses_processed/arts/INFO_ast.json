@@ -1,0 +1,9 @@
+{
+  "INFO 300": {
+    "prereq": {
+      "type": "course",
+      "code": "INFO 200"
+    },
+    "coreq": null
+  }
+}

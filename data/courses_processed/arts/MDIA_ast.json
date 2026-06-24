@@ -1,0 +1,51 @@
+{
+  "MDIA 150": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 1
+    },
+    "coreq": null
+  },
+  "MDIA 300": {
+    "prereq": {
+      "type": "course",
+      "code": "ENGL 232"
+    },
+    "coreq": null
+  },
+  "MDIA 350": {
+    "prereq": {
+      "type": "course",
+      "code": "MDIA 290"
+    },
+    "coreq": null
+  },
+  "MDIA 450": {
+    "prereq": {
+      "type": "course",
+      "code": "MDIA 350"
+    },
+    "coreq": null
+  },
+  "MDIA 470": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "MDIA 490": {
+    "prereq": {
+      "type": "course",
+      "code": "MDIA 350"
+    },
+    "coreq": null
+  },
+  "MDIA 499": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to BMS students with approval from the Program Chair"
+    },
+    "coreq": null
+  }
+}

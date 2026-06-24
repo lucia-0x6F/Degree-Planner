@@ -1,0 +1,47 @@
+{
+  "URST 451": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "GEOG 250"
+            },
+            {
+              "type": "course",
+              "code": "URST 200"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PLAN 211"
+            },
+            {
+              "type": "course",
+              "code": "PLAN 231"
+            },
+            {
+              "type": "course",
+              "code": "GEOG 371"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "URST 452": {
+    "prereq": {
+      "type": "course",
+      "code": "GEOG 451"
+    },
+    "coreq": null
+  }
+}

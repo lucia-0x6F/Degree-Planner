@@ -1,0 +1,30 @@
+{
+  "FSCT 398": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Completion of academic third-year in Biochemistry and Forensic Science Honours program is required"
+    },
+    "coreq": null
+  },
+  "FSCT 399": {
+    "prereq": {
+      "type": "course",
+      "code": "FSCT 398"
+    },
+    "coreq": null
+  },
+  "FSCT 498": {
+    "prereq": {
+      "type": "course",
+      "code": "FSCT 399"
+    },
+    "coreq": null
+  },
+  "FSCT 499": {
+    "prereq": {
+      "type": "course",
+      "code": "FSCT 498"
+    },
+    "coreq": null
+  }
+}

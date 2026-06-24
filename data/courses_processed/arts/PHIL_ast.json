@@ -1,0 +1,140 @@
+{
+  "PHIL 326": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 201"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 220"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 222"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHIL 330": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "PHIL"
+    },
+    "coreq": null
+  },
+  "PHIL 338": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to second- or higher-year standing"
+    },
+    "coreq": null
+  },
+  "PHIL 340": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "PHIL"
+    },
+    "coreq": null
+  },
+  "PHIL 351": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHIL 211"
+        },
+        {
+          "type": "course",
+          "code": "COGS 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHIL 420": {
+    "prereq": {
+      "type": "course",
+      "code": "PHIL 320"
+    },
+    "coreq": null
+  },
+  "PHIL 427": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Philosophy or mathematics courses totaling 9 credits at the 200-level or above"
+    },
+    "coreq": null
+  },
+  "PHIL 431": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "PHIL",
+      "min_credits": 9,
+      "min_level": 200
+    },
+    "coreq": null
+  },
+  "PHIL 432": {
+    "prereq": {
+      "type": "credits_from",
+      "subject": "PHIL",
+      "min_credits": 9,
+      "min_level": 200
+    },
+    "coreq": null
+  },
+  "PHIL 450": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "9 credits in PHIL at the 200-level or above"
+    },
+    "coreq": null
+  },
+  "PHIL 455": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHIL 441"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 451"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 220"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 222"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 320"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHIL 461": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "9 credits at the 200-level or above from philosophy, anthropology, geography, economics, history, political science, psychology or sociology"
+    },
+    "coreq": null
+  },
+  "PHIL 464": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  }
+}

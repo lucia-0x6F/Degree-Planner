@@ -1,0 +1,231 @@
+{
+  "HUNU 540": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 545"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 573"
+        }
+      ]
+    }
+  },
+  "HUNU 541": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 540"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 573"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 575"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 542": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 541"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 578"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 580"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 581"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 545": {
+    "prereq": {
+      "type": "course",
+      "code": "HUNU 510"
+    },
+    "coreq": null
+  },
+  "HUNU 575": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 500"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 510"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 550"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 576": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 500"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 575"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 578"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 577": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 545"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 573"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 575"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 576"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 578"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "HUNU 525"
+    }
+  },
+  "HUNU 578": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 545"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 575"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 579": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 540"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 573"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 580": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "FNH 380"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 578"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 581": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 500"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 578"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 582": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "HUNU 578"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 580"
+        },
+        {
+          "type": "course",
+          "code": "HUNU 581"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "HUNU 583": {
+    "prereq": {
+      "type": "course",
+      "code": "HUNU 582"
+    },
+    "coreq": null
+  }
+}

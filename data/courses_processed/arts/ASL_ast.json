@@ -1,0 +1,9 @@
+{
+  "ASL 101": {
+    "prereq": {
+      "type": "course",
+      "code": "ASL 100"
+    },
+    "coreq": null
+  }
+}

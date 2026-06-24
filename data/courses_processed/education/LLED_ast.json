@@ -1,0 +1,23 @@
+{
+  "LLED 402": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "LLED 601": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Admission to the Ph.D. program in LLED"
+    },
+    "coreq": null
+  },
+  "LLED 602": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Admission to the Ph.D. program in LLED"
+    },
+    "coreq": null
+  }
+}

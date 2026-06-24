@@ -1,0 +1,82 @@
+{
+  "DENT 407": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DHYG 405"
+        },
+        {
+          "type": "course",
+          "code": "DHYG 435"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DENT 420": {
+    "prereq": {
+      "type": "course",
+      "code": "DENT 410"
+    },
+    "coreq": null
+  },
+  "DENT 430": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "DENT420"
+    },
+    "coreq": null
+  },
+  "DENT 440": {
+    "prereq": {
+      "type": "course",
+      "code": "DENT 430"
+    },
+    "coreq": null
+  },
+  "DENT 507": {
+    "prereq": {
+      "type": "course",
+      "code": "DENT 506"
+    },
+    "coreq": null
+  },
+  "DENT 508": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DENT 506"
+        },
+        {
+          "type": "course",
+          "code": "DENT 507"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DENT 509": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DENT 506"
+        },
+        {
+          "type": "course",
+          "code": "DENT 507"
+        },
+        {
+          "type": "course",
+          "code": "DENT 508"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

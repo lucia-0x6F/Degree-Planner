@@ -1,0 +1,508 @@
+{
+  "PHAR 202": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 155"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 111"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 120"
+            },
+            {
+              "type": "course",
+              "code": "MATH 180"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 203": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 202"
+    },
+    "coreq": null
+  },
+  "PHAR 204": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 202"
+    },
+    "coreq": null
+  },
+  "PHAR 280": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHAR 180"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 101"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 304": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 211"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 235"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 203"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 204"
+            },
+            {
+              "type": "course",
+              "code": "MICB 212"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 305": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 205"
+    },
+    "coreq": null
+  },
+  "PHAR 306": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 307": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 304"
+    },
+    "coreq": null
+  },
+  "PHAR 308": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHAR 202"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 309": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 308"
+    },
+    "coreq": null
+  },
+  "PHAR 370": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHAR 202"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 203"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 204"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "PHAR 205"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 380": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 280"
+    },
+    "coreq": null
+  },
+  "PHAR 399": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 398"
+    },
+    "coreq": null
+  },
+  "PHAR 421": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 203"
+    },
+    "coreq": null
+  },
+  "PHAR 422": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 305"
+    },
+    "coreq": null
+  },
+  "PHAR 423": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 305"
+    },
+    "coreq": null
+  },
+  "PHAR 425": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHAR 303"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 306"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "PHAR 307"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 426": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 308"
+    },
+    "coreq": null
+  },
+  "PHAR 427": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 202"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 431": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHAR 202"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 432": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 308"
+    },
+    "coreq": null
+  },
+  "PHAR 433": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 302"
+    },
+    "coreq": null
+  },
+  "PHAR 470": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 370"
+    },
+    "coreq": null
+  },
+  "PHAR 480": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 380"
+    },
+    "coreq": null
+  },
+  "PHAR 485": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHAR 302"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 303"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 304"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 305"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 306"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 307"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 308"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "PHAR 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 491": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 485"
+    },
+    "coreq": null
+  },
+  "PHAR 495": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHAR 302"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 303"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 304"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 305"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 306"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 307"
+            },
+            {
+              "type": "course",
+              "code": "PHAR 308"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "PHAR 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 496": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHAR 204"
+        },
+        {
+          "type": "course",
+          "code": "PHAR 398"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "PHAR 497": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 204"
+    },
+    "coreq": null
+  },
+  "PHAR 498": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 399"
+    },
+    "coreq": null
+  },
+  "PHAR 499": {
+    "prereq": {
+      "type": "course",
+      "code": "PHAR 498"
+    },
+    "coreq": null
+  },
+  "PHAR 560": {
+    "prereq": {
+      "type": "course",
+      "code": "SPPH 541"
+    },
+    "coreq": null
+  },
+  "PHAR 561": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Previous coursework in statistics or biostatistics"
+    },
+    "coreq": null
+  }
+}

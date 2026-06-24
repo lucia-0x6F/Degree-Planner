@@ -1,0 +1,197 @@
+{
+  "ENVR 200": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Open to all students with second-year, or higher, standing"
+    },
+    "coreq": null
+  },
+  "ENVR 240": {
+    "prereq": {
+      "type": "course",
+      "code": "MATH 101"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "STAT 200"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        }
+      ]
+    }
+  },
+  "ENVR 300": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Open to all students with third-year, or higher, standing in the Faculty of Science"
+    },
+    "coreq": null
+  },
+  "ENVR 301": {
+    "prereq": {
+      "type": "course",
+      "code": "ENVR 201"
+    },
+    "coreq": null
+  },
+  "ENVR 302": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd year class standing"
+    },
+    "coreq": null
+  },
+  "ENVR 305": {
+    "prereq": {
+      "type": "course",
+      "code": "ENVR 205"
+    },
+    "coreq": null
+  },
+  "ENVR 350": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd-year class standing"
+    },
+    "coreq": null
+  },
+  "ENVR 400": {
+    "prereq": {
+      "type": "course",
+      "code": "ENVR 300"
+    },
+    "coreq": null
+  },
+  "ENVR 401": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ENVR 301"
+        },
+        {
+          "type": "course",
+          "code": "ENVR 302"
+        }
+      ]
+    }
+  },
+  "ENVR 402": {
+    "prereq": {
+      "type": "course",
+      "code": "ENVR 401"
+    },
+    "coreq": null
+  },
+  "ENVR 410": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "ENVR 420": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "ENVR 430": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "Class standing 3,"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ENVR 300"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 230"
+                },
+                {
+                  "type": "course",
+                  "code": "FRST 201"
+                }
+              ]
+            },
+            {
+              "type": "unknown",
+              "raw": "(2) other demonstrated ecology background"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ENVR 440": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ENVR 200"
+        },
+        {
+          "type": "course",
+          "code": "ASIC 220"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 220"
+        },
+        {
+          "type": "course",
+          "code": "GEOG 211"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ENVR 448": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "ENVR 449": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "ENVR 450": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "4th-year class standing"
+    },
+    "coreq": null
+  },
+  "ENVR 490": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  }
+}

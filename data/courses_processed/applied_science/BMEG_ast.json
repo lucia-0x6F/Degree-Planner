@@ -1,0 +1,651 @@
+{
+  "BMEG 101": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 100"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BMEG 102"
+    }
+  },
+  "BMEG 102": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 100"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 101"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BMEG 101"
+    }
+  },
+  "BMEG 200": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 101"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 159"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BMEG 257"
+    }
+  },
+  "BMEG 210": {
+    "prereq": {
+      "type": "course",
+      "code": "PHYS 157"
+    },
+    "coreq": null
+  },
+  "BMEG 220": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 118"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 158"
+        },
+        {
+          "type": "course",
+          "code": "MATH 253"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MATH 264"
+    }
+  },
+  "BMEG 230": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 101"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 200"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 245": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 100"
+    },
+    "coreq": null
+  },
+  "BMEG 250": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "course",
+          "code": "MATH 256"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 257": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 101"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 102"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 101"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 200"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BMEG 201"
+    }
+  },
+  "BMEG 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 320": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 220"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ELEC 221"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 201"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 202"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 321": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 256"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 265"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 267"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BMEG 220"
+                },
+                {
+                  "type": "or",
+                  "items": [
+                    {
+                      "type": "course",
+                      "code": "ELEC 211"
+                    },
+                    {
+                      "type": "course",
+                      "code": "PHYS 301"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ELEC 201"
+                },
+                {
+                  "type": "course",
+                  "code": "ELEC 204"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 330": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 230"
+    },
+    "coreq": null
+  },
+  "BMEG 350": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 250"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 357": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 257"
+    },
+    "coreq": null
+  },
+  "BMEG 371": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 253"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 256"
+            },
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 255"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 257"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 372": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 250"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 374": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 245"
+    },
+    "coreq": null
+  },
+  "BMEG 420": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 220"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 250"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 321"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 371"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 421": {
+    "prereq": {
+      "type": "course",
+      "code": "ELEC 221"
+    },
+    "coreq": null
+  },
+  "BMEG 422": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 421"
+    },
+    "coreq": null
+  },
+  "BMEG 424": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 310"
+    },
+    "coreq": null
+  },
+  "BMEG 425": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 321"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ELEC 221"
+            },
+            {
+              "type": "course",
+              "code": "BMEG 320"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 426": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 245"
+    },
+    "coreq": null
+  },
+  "BMEG 427": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOC 202"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 371"
+            },
+            {
+              "type": "course",
+              "code": "CHBE 381"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 428": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 310"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 321"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 429": {
+    "prereq": {
+      "type": "course",
+      "code": "BMEG 373"
+    },
+    "coreq": null
+  },
+  "BMEG 457": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 350"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 357"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 470": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 250"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 350"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 474": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BMEG 245"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 250"
+        },
+        {
+          "type": "course",
+          "code": "BMEG 350"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BMEG 490": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Competitive GPA and permission from instructor"
+    },
+    "coreq": null
+  },
+  "BMEG 495": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 278"
+    },
+    "coreq": null
+  }
+}

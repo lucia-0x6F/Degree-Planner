@@ -1,0 +1,261 @@
+{
+  "CHIN 200": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHIN 131"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 133"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 134"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 141"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 143"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 144"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 231"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 233"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 234"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 241"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 243"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 244"
+        }
+      ]
+    }
+  },
+  "CHIN 300": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHIN 231"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 233"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 234"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 241"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 243"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 244"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 331"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 333"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 334"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 335"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 337"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 338"
+        },
+        {
+          "type": "course",
+          "code": "CNTO 301"
+        },
+        {
+          "type": "course",
+          "code": "CNTO 303"
+        },
+        {
+          "type": "course",
+          "code": "CNTO 311"
+        }
+      ]
+    }
+  },
+  "CHIN 400": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHIN 331"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 333"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 334"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 335"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 337"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 341"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 343"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 344"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 345"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 347"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 401"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 403"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 405"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 407"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 415"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 435"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 437"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 441"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 443"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 444"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 445"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 447"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 451"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 453"
+        }
+      ]
+    }
+  },
+  "CHIN 422": {
+    "prereq": {
+      "type": "course",
+      "code": "CHIN 300"
+    },
+    "coreq": null
+  },
+  "CHIN 445": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHIN 217"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 218"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 347"
+        },
+        {
+          "type": "course",
+          "code": "CHIN 348"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

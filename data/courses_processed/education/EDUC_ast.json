@@ -1,0 +1,136 @@
+{
+  "EDUC 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ASTU 210"
+        },
+        {
+          "type": "course",
+          "code": "EDUC 210"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDUC 321": {
+    "prereq": {
+      "type": "course",
+      "code": "EDUC 315"
+    },
+    "coreq": null
+  },
+  "EDUC 323": {
+    "prereq": {
+      "type": "course",
+      "code": "EDUC 315"
+    },
+    "coreq": null
+  },
+  "EDUC 344": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EDUC 143"
+        },
+        {
+          "type": "course",
+          "code": "EDUC 244"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDUC 395": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "12 credits of coursework approved by the Associate Dean (Teacher Education) as being appropriate to the particular study"
+    },
+    "coreq": null
+  },
+  "EDUC 418": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EDUC 315"
+        },
+        {
+          "type": "course",
+          "code": "EDUC 321"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDUC 419": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EDUC 315"
+        },
+        {
+          "type": "course",
+          "code": "EDUC 323"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EDUC 421": {
+    "prereq": {
+      "type": "course",
+      "code": "EDUC 315"
+    },
+    "coreq": null
+  },
+  "EDUC 451": {
+    "prereq": {
+      "type": "course",
+      "code": "EDUC 450"
+    },
+    "coreq": null
+  },
+  "EDUC 452": {
+    "prereq": {
+      "type": "course",
+      "code": "EDUC 451"
+    },
+    "coreq": null
+  },
+  "EDUC 495": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Completion of recent elementary teaching methods courses in the subjects to be taught"
+    },
+    "coreq": null
+  },
+  "EDUC 496": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Recent completion of secondary teaching methods courses in the subjects to be taught"
+    },
+    "coreq": null
+  },
+  "EDUC 503": {
+    "prereq": {
+      "type": "course",
+      "code": "EDUC 500"
+    },
+    "coreq": null
+  },
+  "EDUC 504": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Previous course in qualitative research"
+    },
+    "coreq": null
+  }
+}

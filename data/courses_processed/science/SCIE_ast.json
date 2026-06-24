@@ -1,0 +1,238 @@
+{
+  "SCIE 001": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "All of: CALC 12, ENGL 12, and Pre-calculus 12"
+        },
+        {
+          "type": "unknown",
+          "raw": "two of: CHEM 12, PHYS 12, High School Biology (either BIOL 11 or BIOL 12)"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SCIE 010": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "BIOL 11"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "unknown",
+              "raw": "BIOL 12"
+            },
+            {
+              "type": "unknown",
+              "raw": "all of CHEM 12, CALC 12, PHYS 12, ENGL 12"
+            },
+            {
+              "type": "unknown",
+              "raw": "Principles of Mathematics 12 or Pre-calculus 12"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SCIE 300": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        },
+        {
+          "type": "course",
+          "code": "STAT 241"
+        }
+      ]
+    }
+  },
+  "SCIE 320": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "SCIE 400": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "SCIE 420": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ASIC 200"
+        },
+        {
+          "type": "course",
+          "code": "ASIC 220"
+        },
+        {
+          "type": "course",
+          "code": "APBI 260"
+        },
+        {
+          "type": "course",
+          "code": "APBI 265"
+        },
+        {
+          "type": "course",
+          "code": "ARCL 309"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 301"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 302"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 341"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 200"
+        },
+        {
+          "type": "course",
+          "code": "CONS 330"
+        },
+        {
+          "type": "course",
+          "code": "ECON 210"
+        },
+        {
+          "type": "course",
+          "code": "ENDS 221"
+        },
+        {
+          "type": "course",
+          "code": "ENVR 200"
+        },
+        {
+          "type": "course",
+          "code": "ENVR 300"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 270"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 340"
+        },
+        {
+          "type": "course",
+          "code": "EOSC 345"
+        },
+        {
+          "type": "course",
+          "code": "FRST 100"
+        },
+        {
+          "type": "course",
+          "code": "GEOG 211"
+        },
+        {
+          "type": "course",
+          "code": "GEOG 310"
+        },
+        {
+          "type": "course",
+          "code": "HIST 106"
+        },
+        {
+          "type": "course",
+          "code": "ISCI 360"
+        },
+        {
+          "type": "course",
+          "code": "ISCI 361"
+        },
+        {
+          "type": "course",
+          "code": "LAW 386"
+        },
+        {
+          "type": "course",
+          "code": "LFS 250"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 333"
+        },
+        {
+          "type": "course",
+          "code": "POLI 351"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 321"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 421"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 120"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 320"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "SCIE 597": {
+    "prereq": {
+      "type": "course",
+      "code": "SCIE 596"
+    },
+    "coreq": null
+  },
+  "SCIE 598": {
+    "prereq": {
+      "type": "course",
+      "code": "SCIE 597"
+    },
+    "coreq": null
+  },
+  "SCIE 599": {
+    "prereq": {
+      "type": "course",
+      "code": "SCIE 598"
+    },
+    "coreq": null
+  }
+}

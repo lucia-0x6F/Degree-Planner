@@ -1,0 +1,445 @@
+{
+  "DSCI 200": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 100"
+    },
+    "coreq": null
+  },
+  "DSCI 220": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 103"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 110"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 221": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "DSCI 220"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 121"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 203"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "DSCI 221"
+            },
+            {
+              "type": "course",
+              "code": "DSCI 100"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 203"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "DSCI 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 210"
+            },
+            {
+              "type": "course",
+              "code": "ECON 323"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 107"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 320": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "STAT 201"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 203"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 210"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 221"
+            },
+            {
+              "type": "course",
+              "code": "DSCI 221"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 430": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPSC 330"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 340"
+        },
+        {
+          "type": "course",
+          "code": "STAT 301"
+        },
+        {
+          "type": "course",
+          "code": "STAT 406"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 512": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 522": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 523": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 521"
+        }
+      ]
+    }
+  },
+  "DSCI 524": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 522"
+    },
+    "coreq": null
+  },
+  "DSCI 525": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 522"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 523"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 531": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 532": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 531"
+    },
+    "coreq": null
+  },
+  "DSCI 552": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 551"
+    },
+    "coreq": null
+  },
+  "DSCI 553": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 552"
+    },
+    "coreq": null
+  },
+  "DSCI 554": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 553"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 561"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 561": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 552"
+    },
+    "coreq": null
+  },
+  "DSCI 562": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 561"
+    },
+    "coreq": null
+  },
+  "DSCI 563": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 571": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 511"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 521"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DSCI 572": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 571"
+    },
+    "coreq": null
+  },
+  "DSCI 573": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 571"
+    },
+    "coreq": null
+  },
+  "DSCI 574": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 572"
+    },
+    "coreq": null
+  },
+  "DSCI 575": {
+    "prereq": {
+      "type": "course",
+      "code": "DSCI 572"
+    },
+    "coreq": null
+  },
+  "DSCI 591": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DSCI 513"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 524"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 525"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 532"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 541"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 542"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 554"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 563"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 573"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 574"
+        },
+        {
+          "type": "course",
+          "code": "DSCI 575"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

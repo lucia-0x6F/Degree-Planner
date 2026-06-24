@@ -1,0 +1,1532 @@
+{
+  "CHEM 100": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Not open to students with credit for Chemistry 12. Permission of the department head"
+    },
+    "coreq": null
+  },
+  "CHEM 110": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Not open to students with credit for Chemistry 12. A satisfactory score on the UBC Chemistry Basic Skills Test"
+    },
+    "coreq": null
+  },
+  "CHEM 111": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Not open to students with credit for CHEM 12. A satisfactory score on the UBC Chemistry Basic Skills Test"
+    },
+    "coreq": null
+  },
+  "CHEM 115": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 110"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 120"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 120": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 100"
+    },
+    "coreq": null
+  },
+  "CHEM 121": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 100"
+    },
+    "coreq": null
+  },
+  "CHEM 123": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 111"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 141"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 130": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 110"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 111"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 120"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 141"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 135": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 111"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 115"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 121"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 141"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 141": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 100"
+    },
+    "coreq": null
+  },
+  "CHEM 154": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "CHEM 12"
+    },
+    "coreq": null
+  },
+  "CHEM 203": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 130"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 135"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 205": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 100"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 102"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 104"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 110"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 120"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 180"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 184"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 130"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 123"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 154"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 208": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 130"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 135"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 213": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 203"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 223"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 215": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 210"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 135"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 218": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 208"
+    },
+    "coreq": null
+  },
+  "CHEM 223": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 225": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 135"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 233": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 235": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 135"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 245": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 203"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 223"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 225"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 235"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "CHEM 213"
+    }
+  },
+  "CHEM 250": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 251": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 260": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 154"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 300": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CHEM 301": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 130"
+            },
+            {
+              "type": "course",
+              "code": "CHBE 220"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 302": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 130"
+            },
+            {
+              "type": "course",
+              "code": "CHBE 220"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 3
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 304": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 130"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 305": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 205"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 304"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 203"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 311": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 210"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 211"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 312": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 123"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 313": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 213"
+    },
+    "coreq": null
+  },
+  "CHEM 315": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 211"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 215"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 213"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 245"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 318": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 218"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 250"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 325": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 211"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 215"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 208"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 213"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 245"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 327": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 208"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 250"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 203"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 223"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 260"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 330": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 213"
+    },
+    "coreq": null
+  },
+  "CHEM 335": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 315"
+    },
+    "coreq": null
+  },
+  "CHEM 341": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 203"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 211"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 223"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 233"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 345": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 325"
+    },
+    "coreq": null
+  },
+  "CHEM 355": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 203"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 211"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 235"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 399": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 398"
+    },
+    "coreq": null
+  },
+  "CHEM 401": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 111"
+            },
+            {
+              "type": "course",
+              "code": "MATH 131"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 304"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 402": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 208"
+    },
+    "coreq": null
+  },
+  "CHEM 403": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 304"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 200"
+            },
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 226"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 404": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 123"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 130"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 154"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "PHYS 106"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 107"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 108"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 117"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 118"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 170"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 101"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 103"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 105"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 121"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 405": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 304"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 305"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 406": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 213"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 260"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 205"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 304"
+            },
+            {
+              "type": "course",
+              "code": "CHBE 220"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 407": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 304"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 203"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 408": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 304"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 203"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 304"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 409": {
+    "prereq": {
+      "type": "min_grade",
+      "code": "CHEM 205",
+      "min_percent": 76
+    },
+    "coreq": null
+  },
+  "CHEM 410": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 304"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 203"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 304"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 411": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 460"
+    },
+    "coreq": null
+  },
+  "CHEM 412": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 312"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 304"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 111"
+            },
+            {
+              "type": "course",
+              "code": "MATH 131"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "MATH 221"
+            },
+            {
+              "type": "course",
+              "code": "MATH 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 413": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 313"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 330"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 414": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 218"
+    },
+    "coreq": null
+  },
+  "CHEM 416": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 313"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 330"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 417": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 123"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 130"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 418": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 318"
+    },
+    "coreq": null
+  },
+  "CHEM 427": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 327"
+    },
+    "coreq": null
+  },
+  "CHEM 434": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 311"
+    },
+    "coreq": null
+  },
+  "CHEM 435": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 218"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 304"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 445": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 345"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 335"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 335"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 449": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Students will have completed their Year 3 laboratory requirements as outlined in their specialization"
+    },
+    "coreq": null
+  },
+  "CHEM 460": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 330"
+    },
+    "coreq": null
+  },
+  "CHEM 461": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 313"
+        },
+        {
+          "type": "course",
+          "code": "CHEM 330"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 473": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHEM 245"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 313"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 318"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 330"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "CHEM 488": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "CHEM 498": {
+    "prereq": {
+      "type": "course",
+      "code": "CHEM 399"
+    },
+    "coreq": null
+  }
+}

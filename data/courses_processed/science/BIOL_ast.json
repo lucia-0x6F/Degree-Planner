@@ -1,0 +1,2377 @@
+{
+  "BIOL 112": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 100"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 110"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 111"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOL 111"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 121": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 111"
+    },
+    "coreq": null
+  },
+  "BIOL 140": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 111"
+    },
+    "coreq": null
+  },
+  "BIOL 153": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 100"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 110"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 111"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOL 111"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 155": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 100"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 110"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 111"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOL 111"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 180": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 111"
+    },
+    "coreq": null
+  },
+  "BIOL 200": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 123"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 130"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 203"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 223"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 201": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 233"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 260"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 213"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 313"
+            },
+            {
+              "type": "course",
+              "code": "CHEM 330"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 203": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 204": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 205": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 209": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 210": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 230": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 233": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 203"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 223"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 112"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 121"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 234": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 203"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 223"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 112"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 121"
+                }
+              ]
+            },
+            {
+              "type": "unknown",
+              "raw": "or (d) 8 transfer credits of first-year BIOL"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 260": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 112"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 300": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    }
+  },
+  "BIOL 302": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 111"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 207"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 303": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd-year class standing or higher"
+    },
+    "coreq": null
+  },
+  "BIOL 306": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 230"
+    },
+    "coreq": null
+  },
+  "BIOL 310": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "3rd-year class standing or higher"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 311": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "BIOL 310"
+    }
+  },
+  "BIOL 314": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 260"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "FRST 201"
+        },
+        {
+          "type": "course",
+          "code": "GEOB 207"
+        },
+        {
+          "type": "course",
+          "code": "GEOS 207"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 320": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 321": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 322": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 323": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 324": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 325": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 326": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 205"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "STAT 200"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 300"
+        }
+      ]
+    }
+  },
+  "BIOL 327": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 328": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 329": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": null
+  },
+  "BIOL 330": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 201"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 200"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 260"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 233"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 234"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 331": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 201"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 200"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 260"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 233"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 234"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 332": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": null
+  },
+  "BIOL 335": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 233"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        },
+        {
+          "type": "course",
+          "code": "MICB 322"
+        },
+        {
+          "type": "course",
+          "code": "FRST 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 336": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 233"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 337": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 233"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        }
+      ]
+    }
+  },
+  "BIOL 338": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 234"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 233"
+        },
+        {
+          "type": "course",
+          "code": "FRST 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 340": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 180"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 140"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 341": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": null
+  },
+  "BIOL 342": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "standing",
+          "min_year": 3
+        },
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 180"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 140"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 348": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd-year class standing or higher"
+    },
+    "coreq": null
+  },
+  "BIOL 350": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "BIOL 351": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 123"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 130"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 352": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 233"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOL 234"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "FRST 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 361": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": null
+  },
+  "BIOL 362": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APBI 312"
+            },
+            {
+              "type": "course",
+              "code": "APBI 351"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 260"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 351"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 352"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 361"
+            },
+            {
+              "type": "course",
+              "code": "FRST 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 363": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 204"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 364": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 204"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 260"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 361"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 370": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 260"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 371": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 260"
+            },
+            {
+              "type": "course",
+              "code": "NSCI 200"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 270"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 271"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 304"
+            },
+            {
+              "type": "course",
+              "code": "CAPS 301"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 372": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 371"
+    },
+    "coreq": null
+  },
+  "BIOL 399": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 398"
+    },
+    "coreq": null
+  },
+  "BIOL 401": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 301"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 103"
+            },
+            {
+              "type": "course",
+              "code": "MATH 105"
+            },
+            {
+              "type": "course",
+              "code": "MATH 121"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 402": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 403": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "FRST 231"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 404": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 406": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 230"
+    },
+    "coreq": null
+  },
+  "BIOL 408": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 300"
+    },
+    "coreq": null
+  },
+  "BIOL 409": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 300"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 410": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 310"
+    },
+    "coreq": null
+  },
+  "BIOL 411": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 205"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 327"
+        },
+        {
+          "type": "course",
+          "code": "APBI 327"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 412": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 413": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 415": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 336"
+    },
+    "coreq": null
+  },
+  "BIOL 416": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        },
+        {
+          "type": "course",
+          "code": "FRST 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 417": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 233"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 418": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 336"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 230"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 420": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "BIOL 421": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 233"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 260"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 423": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 351"
+    },
+    "coreq": null
+  },
+  "BIOL 424": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 121"
+            },
+            {
+              "type": "course",
+              "code": "SCIE 001"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 230"
+            },
+            {
+              "type": "course",
+              "code": "FRST 201"
+            },
+            {
+              "type": "course",
+              "code": "GEOS 207"
+            },
+            {
+              "type": "course",
+              "code": "GEOB 207"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 425": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 325"
+    },
+    "coreq": null
+  },
+  "BIOL 426": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 204"
+    },
+    "coreq": null
+  },
+  "BIOL 427": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 121"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 428": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 205"
+    },
+    "coreq": null
+  },
+  "BIOL 430": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 336"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 338"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 431": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "BIOL 432": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 233"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 433": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 335"
+    },
+    "coreq": null
+  },
+  "BIOL 434": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 336"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 200"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 233"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 234"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "FRST 302"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 437": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 331"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 335"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 438": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "PHYS 101"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 106"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 107"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 117"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 131"
+        },
+        {
+          "type": "course",
+          "code": "PHYS 157"
+        },
+        {
+          "type": "course",
+          "code": "SCIE 001"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 439": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 200"
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 448"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 449"
+        }
+      ]
+    }
+  },
+  "BIOL 440": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 335"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 338"
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    }
+  },
+  "BIOL 441": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 340"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 341"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 361"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 362"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 370"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 371"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 445": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd-year class standing or higher in Science is required"
+    },
+    "coreq": null
+  },
+  "BIOL 446": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "4th-year class standing in any degree program"
+    },
+    "coreq": null
+  },
+  "BIOL 447": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "BIOL 449"
+    }
+  },
+  "BIOL 449": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "BIOL 447"
+    }
+  },
+  "BIOL 450": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APBI 311"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 361"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 362"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 364"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 370"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 371"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOC 203"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 451": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 371"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 367"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 453": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 204"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 205"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 327"
+            },
+            {
+              "type": "course",
+              "code": "APBI 327"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 361"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 364"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 370"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 371"
+            },
+            {
+              "type": "course",
+              "code": "APBI 311"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 454": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 311"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 362"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 364"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 455": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 361"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 362"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 364"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 456": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 311"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 364"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 457": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APBI 311"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 364"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 459": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 367"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 460": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 372"
+        },
+        {
+          "type": "course",
+          "code": "CAPS 301"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 304"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 367"
+        },
+        {
+          "type": "course",
+          "code": "PSYC 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 462": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 200"
+            },
+            {
+              "type": "course",
+              "code": "BIOL 201"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOC 202"
+            },
+            {
+              "type": "course",
+              "code": "BIOT 380"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 463": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "BIOL 335"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "BIOL 201"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOC 202"
+                },
+                {
+                  "type": "course",
+                  "code": "BIOC 203"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "BIOT 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 464": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 463"
+    },
+    "coreq": null
+  },
+  "BIOL 465": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 204"
+    },
+    "coreq": null
+  },
+  "BIOL 466": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 465"
+    },
+    "coreq": null
+  },
+  "BIOL 488": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "BIOL 490": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "3rd-year class standing or higher"
+    },
+    "coreq": null
+  },
+  "BIOL 499": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "BIOL 399"
+        },
+        {
+          "type": "course",
+          "code": "BIOL 498"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "BIOL 501": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 300"
+    },
+    "coreq": null
+  },
+  "BIOL 533": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 335"
+    },
+    "coreq": null
+  },
+  "BIOL 560": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "An introductory course in the mathematical treatment of population biology as well as a course in integral calculus"
+    },
+    "coreq": null
+  }
+}

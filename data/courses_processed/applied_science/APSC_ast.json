@@ -1,0 +1,180 @@
+{
+  "APSC 101": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 100"
+    },
+    "coreq": null
+  },
+  "APSC 173": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 172"
+    },
+    "coreq": null
+  },
+  "APSC 178": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 172"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "APSC 173"
+    }
+  },
+  "APSC 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APSC 202": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        },
+        {
+          "type": "course",
+          "code": "ENPH 259"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "APSC 203": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 202"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "ENPH 253"
+    }
+  },
+  "APSC 210": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 110"
+    },
+    "coreq": null
+  },
+  "APSC 279": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "APSC 278"
+    }
+  },
+  "APSC 332": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 331"
+    },
+    "coreq": null
+  },
+  "APSC 364": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APSC 367": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APSC 402": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "APSC 440": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "APSC 461": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 3
+    },
+    "coreq": null
+  },
+  "APSC 462": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 461"
+        },
+        {
+          "type": "unknown",
+          "raw": "registration with the Go Global ISL program and successful completion of Go Global program requirements"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

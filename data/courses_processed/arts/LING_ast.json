@@ -1,0 +1,501 @@
+{
+  "LING 242": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "LING 100"
+            },
+            {
+              "type": "course",
+              "code": "LING 101"
+            },
+            {
+              "type": "course",
+              "code": "LING 140"
+            },
+            {
+              "type": "course",
+              "code": "LING 170"
+            },
+            {
+              "type": "course",
+              "code": "LING 200"
+            },
+            {
+              "type": "course",
+              "code": "LING 201"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 330"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 331"
+            },
+            {
+              "type": "course",
+              "code": "LING 201"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CPSC 103"
+            },
+            {
+              "type": "course",
+              "code": "CPSC 110"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 270": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 100"
+        },
+        {
+          "type": "course",
+          "code": "LING 101"
+        },
+        {
+          "type": "course",
+          "code": "LING 140"
+        },
+        {
+          "type": "course",
+          "code": "LING 170"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 300": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 201"
+    },
+    "coreq": null
+  },
+  "LING 311": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 200"
+    },
+    "coreq": null
+  },
+  "LING 314": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 200"
+        },
+        {
+          "type": "course",
+          "code": "LING 313"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 315": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 200"
+        },
+        {
+          "type": "course",
+          "code": "LING 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 319": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 200"
+        },
+        {
+          "type": "course",
+          "code": "LING 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 327": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 201"
+    },
+    "coreq": null
+  },
+  "LING 333": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 200"
+        },
+        {
+          "type": "course",
+          "code": "LING 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 342": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 242"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "LING 201"
+            },
+            {
+              "type": "course",
+              "code": "ENGL 331"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "STAT 200"
+            },
+            {
+              "type": "course",
+              "code": "STAT 203"
+            },
+            {
+              "type": "course",
+              "code": "STAT 251"
+            },
+            {
+              "type": "course",
+              "code": "STAT 302"
+            },
+            {
+              "type": "course",
+              "code": "MATH 302"
+            },
+            {
+              "type": "course",
+              "code": "PSYC 218"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 345": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 201"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 331"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 220"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 222"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 405": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 300"
+        },
+        {
+          "type": "course",
+          "code": "LING 311"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 410": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 311"
+    },
+    "coreq": null
+  },
+  "LING 415": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 319"
+        },
+        {
+          "type": "course",
+          "code": "LING 315"
+        },
+        {
+          "type": "course",
+          "code": "LING 445"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 318"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 319"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 324"
+        },
+        {
+          "type": "course",
+          "code": "LING 300"
+        },
+        {
+          "type": "course",
+          "code": "LING 311"
+        },
+        {
+          "type": "course",
+          "code": "LING 313"
+        },
+        {
+          "type": "course",
+          "code": "LING 327"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 421": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 300"
+    },
+    "coreq": null
+  },
+  "LING 425": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 327"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 220"
+        },
+        {
+          "type": "course",
+          "code": "PHIL 222"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 431": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 300"
+        },
+        {
+          "type": "course",
+          "code": "LING 311"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 432": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 431"
+    },
+    "coreq": null
+  },
+  "LING 440": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 200"
+        },
+        {
+          "type": "course",
+          "code": "LING 201"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 451": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 222"
+        },
+        {
+          "type": "course",
+          "code": "LING 311"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 452": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 222"
+        },
+        {
+          "type": "course",
+          "code": "LING 300"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 502": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 520"
+    },
+    "coreq": null
+  },
+  "LING 507": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 508"
+    },
+    "coreq": null
+  },
+  "LING 511": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 510"
+    },
+    "coreq": null
+  },
+  "LING 512": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 508"
+        },
+        {
+          "type": "course",
+          "code": "LING 510"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 513": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 508"
+    },
+    "coreq": null
+  },
+  "LING 521": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 520"
+    },
+    "coreq": null
+  },
+  "LING 522": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LING 520"
+        },
+        {
+          "type": "course",
+          "code": "LING 525"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LING 527": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 525"
+    },
+    "coreq": null
+  },
+  "LING 532": {
+    "prereq": {
+      "type": "course",
+      "code": "LING 531"
+    },
+    "coreq": null
+  }
+}

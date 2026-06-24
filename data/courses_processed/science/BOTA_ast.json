@@ -1,0 +1,16 @@
+{
+  "BOTA 527": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 407"
+    },
+    "coreq": null
+  },
+  "BOTA 544": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "BIOL"
+    },
+    "coreq": null
+  }
+}

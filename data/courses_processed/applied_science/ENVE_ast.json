@@ -1,0 +1,128 @@
+{
+  "ENVE 200": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ENVE 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "APSC 176"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 110"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 111"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 120"
+        },
+        {
+          "type": "course",
+          "code": "ENGL 121"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "ENVE 203"
+    }
+  },
+  "ENVE 202": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CIVL 204"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 241"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "CHEM 154"
+            },
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHEM 121"
+                },
+                {
+                  "type": "course",
+                  "code": "CHEM 123"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "ENVE 203": {
+    "prereq": {
+      "type": "course",
+      "code": "ENVE 200"
+    },
+    "coreq": null
+  },
+  "ENVE 301": {
+    "prereq": {
+      "type": "course",
+      "code": "ENVE 203"
+    },
+    "coreq": null
+  },
+  "ENVE 401": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CHBE 244"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 373"
+        },
+        {
+          "type": "course",
+          "code": "ENVE 301"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 402"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 416"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

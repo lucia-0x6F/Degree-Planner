@@ -1,0 +1,19 @@
+{
+  "ENPP 502": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPP 501"
+    },
+    "coreq": null
+  },
+  "ENPP 503": {
+    "prereq": {
+      "type": "course",
+      "code": "ENPP 501"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "ENPP 502"
+    }
+  }
+}

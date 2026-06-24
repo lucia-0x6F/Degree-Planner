@@ -1,0 +1,9 @@
+{
+  "CELL 501": {
+    "prereq": {
+      "type": "course",
+      "code": "BIOL 530"
+    },
+    "coreq": null
+  }
+}

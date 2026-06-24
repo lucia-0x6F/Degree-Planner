@@ -1,0 +1,1791 @@
+{
+  "MECH 220": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 160"
+            },
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ENGL 112"
+            },
+            {
+              "type": "course",
+              "code": "WRDS 150"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MECH 221"
+    }
+  },
+  "MECH 221": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 100"
+            },
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ENGL 112"
+            },
+            {
+              "type": "course",
+              "code": "WRDS 150"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 220"
+        },
+        {
+          "type": "course",
+          "code": "MECH 224"
+        }
+      ]
+    }
+  },
+  "MECH 222": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 220"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MECH 225"
+    }
+  },
+  "MECH 223": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 220"
+    },
+    "coreq": null
+  },
+  "MECH 224": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MECH 221"
+    }
+  },
+  "MECH 225": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "MECH 222"
+    }
+  },
+  "MECH 226": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ENGL 112"
+        },
+        {
+          "type": "course",
+          "code": "WRDS 150"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 220"
+        },
+        {
+          "type": "course",
+          "code": "MECH 221"
+        },
+        {
+          "type": "course",
+          "code": "MECH 222"
+        },
+        {
+          "type": "course",
+          "code": "MECH 223"
+        },
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    }
+  },
+  "MECH 227": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 220"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ENGL 112"
+            },
+            {
+              "type": "course",
+              "code": "WRDS 150"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 230": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 160"
+            },
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 100"
+            },
+            {
+              "type": "course",
+              "code": "APSC 150"
+            },
+            {
+              "type": "course",
+              "code": "APSC 151"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ENGL 112"
+            },
+            {
+              "type": "course",
+              "code": "WRDS 150"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MECH 221"
+    }
+  },
+  "MECH 231": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 230"
+    },
+    "coreq": null
+  },
+  "MECH 232": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 160"
+            },
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 100"
+            },
+            {
+              "type": "course",
+              "code": "APSC 150"
+            },
+            {
+              "type": "course",
+              "code": "APSC 151"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "BMEG 102"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "ENGL 112"
+            },
+            {
+              "type": "course",
+              "code": "WRDS 150"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MECH 221"
+    }
+  },
+  "MECH 233": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 232"
+    },
+    "coreq": null
+  },
+  "MECH 234": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 230"
+    },
+    "coreq": null
+  },
+  "MECH 235": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 234"
+    },
+    "coreq": null
+  },
+  "MECH 260": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 101"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "all of APSC_O 172, APSC_O 173, APSC_O 180"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 280": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 152"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 170"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 217"
+            },
+            {
+              "type": "course",
+              "code": "MATH 253"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "PHYS 131"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 108"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 118"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "PHYS 153"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 157"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 158"
+            },
+            {
+              "type": "course",
+              "code": "PHYS 159"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 305": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 220"
+        },
+        {
+          "type": "course",
+          "code": "MECH 223"
+        },
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 306": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 220"
+        },
+        {
+          "type": "course",
+          "code": "MECH 223"
+        },
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 325": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 223"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 327": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 241"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 328": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 223"
+    },
+    "coreq": null
+  },
+  "MECH 329": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 278"
+            },
+            {
+              "type": "course",
+              "code": "MECH 260"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 358": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 359": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 360": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 366": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 220"
+        },
+        {
+          "type": "course",
+          "code": "MECH 223"
+        },
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 225"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 368": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "unknown",
+          "raw": "two of MECH 220, MECH 224, ELEC 203"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MANU 230"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 203"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 375": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 241"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 203"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 380": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 255"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 256"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 241"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                },
+                {
+                  "type": "course",
+                  "code": "PHYS 203"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 400": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "MECH 411": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "MECH 420": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 360"
+        },
+        {
+          "type": "course",
+          "code": "MECH 463"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 343"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 421": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 366"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MECH 420"
+    }
+  },
+  "MECH 422": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 224"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 204"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 360"
+            },
+            {
+              "type": "course",
+              "code": "MECH 368"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 423": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 366"
+            },
+            {
+              "type": "course",
+              "code": "ELEC 302"
+            },
+            {
+              "type": "course",
+              "code": "CPEN 312"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CPEN 333"
+        },
+        {
+          "type": "course",
+          "code": "MECH 421"
+        }
+      ]
+    }
+  },
+  "MECH 426": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 223"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "MECH 360"
+    }
+  },
+  "MECH 433": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "MATH 255"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 256"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 435": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 221"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "APSC 278"
+            },
+            {
+              "type": "course",
+              "code": "MECH 260"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 445": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 241"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 453": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 327"
+            },
+            {
+              "type": "course",
+              "code": "MECH 328"
+            },
+            {
+              "type": "course",
+              "code": "MECH 360"
+            },
+            {
+              "type": "course",
+              "code": "MECH 426"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 454": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 325"
+            },
+            {
+              "type": "course",
+              "code": "MECH 327"
+            },
+            {
+              "type": "course",
+              "code": "MECH 328"
+            },
+            {
+              "type": "course",
+              "code": "MECH 360"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 455": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 325"
+            },
+            {
+              "type": "course",
+              "code": "MECH 328"
+            },
+            {
+              "type": "course",
+              "code": "MECH 360"
+            },
+            {
+              "type": "course",
+              "code": "MECH 380"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 456": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 325"
+            },
+            {
+              "type": "course",
+              "code": "MECH 327"
+            },
+            {
+              "type": "course",
+              "code": "MECH 328"
+            },
+            {
+              "type": "course",
+              "code": "MECH 360"
+            }
+          ]
+        },
+        {
+          "type": "standing",
+          "min_year": 4
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 457": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 325"
+        },
+        {
+          "type": "course",
+          "code": "MECH 328"
+        },
+        {
+          "type": "course",
+          "code": "MECH 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 458": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 325"
+        },
+        {
+          "type": "course",
+          "code": "MECH 328"
+        },
+        {
+          "type": "course",
+          "code": "MECH 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 459": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 325"
+        },
+        {
+          "type": "course",
+          "code": "MECH 328"
+        },
+        {
+          "type": "course",
+          "code": "MECH 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 460": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 360"
+    },
+    "coreq": null
+  },
+  "MECH 462": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 463": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 466": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 220"
+            },
+            {
+              "type": "course",
+              "code": "MECH 224"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MATH 255"
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ELEC 201"
+                },
+                {
+                  "type": "course",
+                  "code": "ELEC 202"
+                },
+                {
+                  "type": "course",
+                  "code": "ELEC 204"
+                },
+                {
+                  "type": "course",
+                  "code": "EECE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "EECE 253"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ELEC 204"
+                },
+                {
+                  "type": "course",
+                  "code": "ELEC 221"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 270"
+                },
+                {
+                  "type": "course",
+                  "code": "MATH 255"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 467": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 366"
+        },
+        {
+          "type": "course",
+          "code": "MANU 386"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 468": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 466"
+        },
+        {
+          "type": "course",
+          "code": "ELEC 341"
+        },
+        {
+          "type": "course",
+          "code": "CHBE 356"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 470": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 241"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 473": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 375"
+    },
+    "coreq": null
+  },
+  "MECH 477": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 327"
+        },
+        {
+          "type": "course",
+          "code": "MECH 375"
+        },
+        {
+          "type": "course",
+          "code": "MECH 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 478": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 241"
+                },
+                {
+                  "type": "course",
+                  "code": "ENPH 257"
+                }
+              ]
+            },
+            {
+              "type": "or",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "CHBE 251"
+                },
+                {
+                  "type": "course",
+                  "code": "CIVL 215"
+                },
+                {
+                  "type": "course",
+                  "code": "MECH 280"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 481": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 380"
+    },
+    "coreq": null
+  },
+  "MECH 484": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 481"
+        },
+        {
+          "type": "course",
+          "code": "MECH 581"
+        }
+      ]
+    }
+  },
+  "MECH 485": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 486": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 380"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 315"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 488"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 435"
+        }
+      ]
+    }
+  },
+  "MECH 488": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 225"
+        },
+        {
+          "type": "course",
+          "code": "MECH 280"
+        },
+        {
+          "type": "course",
+          "code": "CIVL 215"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 489": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 375"
+        },
+        {
+          "type": "course",
+          "code": "MECH 380"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 490": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "MECH 325"
+            },
+            {
+              "type": "course",
+              "code": "MECH 328"
+            },
+            {
+              "type": "course",
+              "code": "MECH 360"
+            }
+          ]
+        },
+        {
+          "type": "unknown",
+          "raw": "This course is not eligible for Credit/D/Fail grading"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 491": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 224"
+        },
+        {
+          "type": "course",
+          "code": "MECH 260"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "MECH 493": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 4
+    },
+    "coreq": null
+  },
+  "MECH 494": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 493"
+    },
+    "coreq": null
+  },
+  "MECH 498": {
+    "prereq": {
+      "type": "course",
+      "code": "MECH 497"
+    },
+    "coreq": null
+  },
+  "MECH 588": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MECH 510"
+        },
+        {
+          "type": "course",
+          "code": "MECH 587"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}

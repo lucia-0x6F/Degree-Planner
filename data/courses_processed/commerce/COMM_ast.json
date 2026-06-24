@@ -1,0 +1,1215 @@
+{
+  "COMM 191": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 190"
+        },
+        {
+          "type": "course",
+          "code": "COMM 290"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 203": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 192"
+            },
+            {
+              "type": "course",
+              "code": "COMM 292"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "and",
+              "items": [
+                {
+                  "type": "course",
+                  "code": "ECON 101"
+                },
+                {
+                  "type": "course",
+                  "code": "ECON 102"
+                }
+              ]
+            },
+            {
+              "type": "course",
+              "code": "ECON 100"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 204": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 190"
+            },
+            {
+              "type": "course",
+              "code": "COMM 290"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 191"
+            },
+            {
+              "type": "course",
+              "code": "COMM 291"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 293": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "MATH 100"
+        },
+        {
+          "type": "course",
+          "code": "MATH 102"
+        },
+        {
+          "type": "course",
+          "code": "MATH 104"
+        },
+        {
+          "type": "course",
+          "code": "MATH 110"
+        },
+        {
+          "type": "course",
+          "code": "MATH 120"
+        },
+        {
+          "type": "course",
+          "code": "MATH 180"
+        },
+        {
+          "type": "course",
+          "code": "MATH 184"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 294": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COEC 293"
+        },
+        {
+          "type": "course",
+          "code": "COMM 293"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 295": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "ECON 100"
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "ECON 101"
+            },
+            {
+              "type": "course",
+              "code": "ECON 102"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 296": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 293"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 295"
+            },
+            {
+              "type": "course",
+              "code": "ECON 201"
+            },
+            {
+              "type": "course",
+              "code": "ECON 301"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "COMM 298": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 293"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 190"
+            },
+            {
+              "type": "course",
+              "code": "COMM 290"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "COMM 306": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 201"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 307": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 295"
+            },
+            {
+              "type": "course",
+              "code": "ECON 201"
+            },
+            {
+              "type": "course",
+              "code": "ECON 301"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "COMM 298"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 310": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 191"
+        },
+        {
+          "type": "course",
+          "code": "COMM 291"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 323": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 203"
+    },
+    "coreq": null
+  },
+  "COMM 324": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 191"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        },
+        {
+          "type": "course",
+          "code": "COMM 203"
+        },
+        {
+          "type": "course",
+          "code": "COMM 205"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 335": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 205"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 210"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 336": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 205"
+    },
+    "coreq": null
+  },
+  "COMM 337": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 205"
+    },
+    "coreq": null
+  },
+  "COMM 338": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 205"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 213"
+        },
+        {
+          "type": "course",
+          "code": "CPEN 212"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 340": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 204"
+    },
+    "coreq": null
+  },
+  "COMM 341": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 204"
+    },
+    "coreq": null
+  },
+  "COMM 349": {
+    "prereq": null,
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 204"
+        },
+        {
+          "type": "course",
+          "code": "COMM 296"
+        }
+      ]
+    }
+  },
+  "COMM 353": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 293"
+        },
+        {
+          "type": "course",
+          "code": "COMM 294"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "COMM 298"
+    }
+  },
+  "COMM 354": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 293"
+            },
+            {
+              "type": "course",
+              "code": "COMM 294"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 190"
+            },
+            {
+              "type": "course",
+              "code": "COMM 290"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 191"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 355": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 293"
+    },
+    "coreq": null
+  },
+  "COMM 362": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 296"
+    },
+    "coreq": null
+  },
+  "COMM 363": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 296"
+    },
+    "coreq": null
+  },
+  "COMM 365": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 296"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 190"
+            },
+            {
+              "type": "course",
+              "code": "COMM 290"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 191"
+            },
+            {
+              "type": "course",
+              "code": "COMM 291"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 295"
+            },
+            {
+              "type": "course",
+              "code": "ECON 201"
+            },
+            {
+              "type": "course",
+              "code": "ECON 301"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "COMM 205"
+    }
+  },
+  "COMM 370": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 298"
+    },
+    "coreq": null
+  },
+  "COMM 371": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 298"
+    },
+    "coreq": null
+  },
+  "COMM 374": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 370"
+        },
+        {
+          "type": "course",
+          "code": "COMM 371"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 376": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 298"
+    },
+    "coreq": null
+  },
+  "COMM 377": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 370"
+        },
+        {
+          "type": "course",
+          "code": "COMM 371"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 381": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 380"
+    },
+    "coreq": null
+  },
+  "COMM 394": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 201"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 396": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 196"
+    },
+    "coreq": null
+  },
+  "COMM 405": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 298"
+    },
+    "coreq": null
+  },
+  "COMM 407": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 201"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 408": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 307"
+        },
+        {
+          "type": "course",
+          "code": "COMM 405"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 411": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 191"
+        },
+        {
+          "type": "course",
+          "code": "COMM 291"
+        },
+        {
+          "type": "course",
+          "code": "STAT 200"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 414": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 204"
+    },
+    "coreq": null
+  },
+  "COMM 415": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 204"
+    },
+    "coreq": null
+  },
+  "COMM 425": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 327"
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 191"
+            },
+            {
+              "type": "course",
+              "code": "COMM 291"
+            },
+            {
+              "type": "course",
+              "code": "STAT 200"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 192"
+            },
+            {
+              "type": "course",
+              "code": "COMM 292"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 428": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 327"
+        },
+        {
+          "type": "course",
+          "code": "COMM 425"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 431": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 393"
+    },
+    "coreq": null
+  },
+  "COMM 434": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 393"
+    },
+    "coreq": null
+  },
+  "COMM 435": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 205"
+    },
+    "coreq": null
+  },
+  "COMM 436": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 335"
+        },
+        {
+          "type": "course",
+          "code": "CPSC 310"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 437": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 335"
+    },
+    "coreq": null
+  },
+  "COMM 438": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 205"
+    },
+    "coreq": null
+  },
+  "COMM 439": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 335"
+    },
+    "coreq": null
+  },
+  "COMM 441": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "COMM 204"
+    }
+  },
+  "COMM 444": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 201"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 446": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 201"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        },
+        {
+          "type": "course",
+          "code": "ECON 206"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 447": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 295"
+        },
+        {
+          "type": "course",
+          "code": "ECON 301"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 448": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 204"
+    },
+    "coreq": null
+  },
+  "COMM 450": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 353"
+    },
+    "coreq": null
+  },
+  "COMM 453": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 353"
+        },
+        {
+          "type": "course",
+          "code": "COMM 450"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 454": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 294"
+    },
+    "coreq": null
+  },
+  "COMM 455": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 353"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "COMM 450"
+    }
+  },
+  "COMM 456": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 335"
+    },
+    "coreq": null
+  },
+  "COMM 459": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 293"
+            },
+            {
+              "type": "course",
+              "code": "COMM 298"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "COMM 370"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 462": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 362"
+    },
+    "coreq": null
+  },
+  "COMM 464": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 296"
+    },
+    "coreq": null
+  },
+  "COMM 467": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 296"
+    },
+    "coreq": null
+  },
+  "COMM 468": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 362"
+        },
+        {
+          "type": "course",
+          "code": "COMM 363"
+        },
+        {
+          "type": "course",
+          "code": "COMM 365"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 469": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 296"
+    },
+    "coreq": null
+  },
+  "COMM 470": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 370"
+        },
+        {
+          "type": "course",
+          "code": "COMM 387"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 471": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 370"
+    },
+    "coreq": null
+  },
+  "COMM 474": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "COMM 374"
+    }
+  },
+  "COMM 475": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 371"
+    },
+    "coreq": null
+  },
+  "COMM 476": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 370"
+        },
+        {
+          "type": "course",
+          "code": "COMM 371"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 477": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 374"
+    },
+    "coreq": null
+  },
+  "COMM 479": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 370"
+        },
+        {
+          "type": "course",
+          "code": "COMM 371"
+        }
+      ]
+    }
+  },
+  "COMM 480": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 381"
+    },
+    "coreq": null
+  },
+  "COMM 481": {
+    "prereq": {
+      "type": "course",
+      "code": "COMM 480"
+    },
+    "coreq": null
+  },
+  "COMM 491": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 390"
+        },
+        {
+          "type": "course",
+          "code": "COMM 395"
+        },
+        {
+          "type": "course",
+          "code": "COMM 396"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 492": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 390"
+        },
+        {
+          "type": "course",
+          "code": "COMM 395"
+        },
+        {
+          "type": "course",
+          "code": "COMM 396"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 497": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "COMM 390"
+        },
+        {
+          "type": "course",
+          "code": "COMM 395"
+        },
+        {
+          "type": "course",
+          "code": "COMM 396"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 498": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "COMM 390"
+            },
+            {
+              "type": "course",
+              "code": "COMM 395"
+            }
+          ]
+        },
+        {
+          "type": "course",
+          "code": "COMM 396"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "COMM 633": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "At least nine graduate course credits in information system topics"
+    },
+    "coreq": null
+  }
+}

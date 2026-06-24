@@ -1,0 +1,408 @@
+{
+  "EPSE 342": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the department is required"
+    },
+    "coreq": null
+  },
+  "EPSE 481": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 482"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 481"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 482": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Proficiency in modern high school algebra"
+    },
+    "coreq": null
+  },
+  "EPSE 483": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Please consult the Faculty of Science Credit Exclusion Lists https://vancouver.calendar.ubc.ca/faculties-colleges-and-schools/facult… before registering"
+    },
+    "coreq": null
+  },
+  "EPSE 508": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 482"
+    },
+    "coreq": null
+  },
+  "EPSE 509": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 312"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 317"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 528": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 482"
+    },
+    "coreq": null
+  },
+  "EPSE 529": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 528"
+    },
+    "coreq": null
+  },
+  "EPSE 533": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 312"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 317"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 555": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 528"
+    },
+    "coreq": null
+  },
+  "EPSE 556": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 528"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 553"
+        }
+      ]
+    }
+  },
+  "EPSE 557": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "CNPS 362"
+            },
+            {
+              "type": "course",
+              "code": "EPSE 552"
+            }
+          ]
+        },
+        {
+          "type": "or",
+          "items": [
+            {
+              "type": "course",
+              "code": "EPSE 506"
+            },
+            {
+              "type": "course",
+              "code": "CNPS 535"
+            }
+          ]
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 563": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 512"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 562"
+        }
+      ]
+    }
+  },
+  "EPSE 571": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 501"
+    },
+    "coreq": null
+  },
+  "EPSE 572": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "EPSE 574"
+    }
+  },
+  "EPSE 577": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 576"
+    },
+    "coreq": null
+  },
+  "EPSE 578": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 572"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 574"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 579": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 572"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 574"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 578"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 581": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Courses appropriate to a specific special topic may be required"
+    },
+    "coreq": null
+  },
+  "EPSE 582": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A graduate or upper-level undergraduate course in Social and Emotional Learning (SEL)"
+    },
+    "coreq": null
+  },
+  "EPSE 588": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "A graduate course in SEL and/or a graduate level course in Indigenous Knowledge/Methods"
+    },
+    "coreq": null
+  },
+  "EPSE 589": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to students in the School and Applied Child Psychology Master's Program"
+    },
+    "coreq": null
+  },
+  "EPSE 592": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 482"
+    },
+    "coreq": null
+  },
+  "EPSE 594": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 596"
+    },
+    "coreq": null
+  },
+  "EPSE 596": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 482"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 483"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 597": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 596"
+    },
+    "coreq": null
+  },
+  "EPSE 628": {
+    "prereq": {
+      "type": "course",
+      "code": "EPSE 528"
+    },
+    "coreq": null
+  },
+  "EPSE 631": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Admission to the SACP Ph.D. program required"
+    },
+    "coreq": null
+  },
+  "EPSE 635": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "CNPS 362"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 552"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 557"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 681": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Courses appropriate to a specific advanced topic may be required"
+    },
+    "coreq": null
+  },
+  "EPSE 682": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 592"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 596"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 683": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 592"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 596"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 684": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "EPSE 592"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 596"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 528"
+        },
+        {
+          "type": "course",
+          "code": "EPSE 528"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "EPSE 687": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Admission to the School and Applied Child Psychology or Counselling Psychology Ph.D. Program"
+    },
+    "coreq": null
+  },
+  "EPSE 688": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to students in the School and Applied Child Psychology Ph.D. Program Corequisite: EPSE 661"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "EPSE 661"
+    }
+  },
+  "EPSE 689": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Restricted to students in the School and Applied Child Psychology Ph.D. Program"
+    },
+    "coreq": null
+  }
+}

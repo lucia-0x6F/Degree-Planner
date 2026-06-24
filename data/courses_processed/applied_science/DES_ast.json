@@ -1,0 +1,184 @@
+{
+  "DES 201": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "DES 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DES 202": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 201"
+    },
+    "coreq": null
+  },
+  "DES 211": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "DES 110"
+        },
+        {
+          "type": "course",
+          "code": "VISA 180"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DES 212": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 211"
+    },
+    "coreq": null
+  },
+  "DES 301": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 202"
+    },
+    "coreq": null
+  },
+  "DES 302": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 301"
+    },
+    "coreq": null
+  },
+  "DES 321": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 320"
+    },
+    "coreq": null
+  },
+  "DES 322": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 320"
+    },
+    "coreq": null
+  },
+  "DES 323": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 320"
+    },
+    "coreq": null
+  },
+  "DES 330": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DES 231"
+        },
+        {
+          "type": "course",
+          "code": "DES 232"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DES 341": {
+    "prereq": {
+      "type": "course",
+      "code": "APSC 107"
+    },
+    "coreq": null
+  },
+  "DES 350": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 302"
+    },
+    "coreq": null
+  },
+  "DES 401": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 302"
+    },
+    "coreq": null
+  },
+  "DES 402": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 401"
+    },
+    "coreq": null
+  },
+  "DES 403": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "DES 201"
+        },
+        {
+          "type": "course",
+          "code": "DES 401"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DES 422": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "DES 321"
+        },
+        {
+          "type": "course",
+          "code": "DES 322"
+        },
+        {
+          "type": "course",
+          "code": "DES 323"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "DES 442": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 341"
+    },
+    "coreq": null
+  },
+  "DES 443": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 442"
+    },
+    "coreq": null
+  },
+  "DES 444": {
+    "prereq": {
+      "type": "course",
+      "code": "DES 443"
+    },
+    "coreq": null
+  }
+}

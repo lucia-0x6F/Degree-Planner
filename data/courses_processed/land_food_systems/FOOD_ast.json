@@ -1,0 +1,9 @@
+{
+  "FOOD 531": {
+    "prereq": {
+      "type": "course",
+      "code": "FOOD 511"
+    },
+    "coreq": null
+  }
+}

@@ -1,0 +1,1099 @@
+{
+  "NURS 301": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Five of NURS 300, NURS 310, NURS 321, NURS 330, NURS 352, NURS 360"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 362"
+    }
+  },
+  "NURS 303": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 363"
+    }
+  },
+  "NURS 321": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    }
+  },
+  "NURS 322": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 323": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 330": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    }
+  },
+  "NURS 331": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 361"
+    }
+  },
+  "NURS 344": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 350"
+        },
+        {
+          "type": "course",
+          "code": "NURS 351"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 345": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 365"
+    }
+  },
+  "NURS 346": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 366"
+    }
+  },
+  "NURS 350": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 351": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 352": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    }
+  },
+  "NURS 353": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 354": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 360": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        }
+      ]
+    }
+  },
+  "NURS 361": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 331"
+    }
+  },
+  "NURS 362": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 301"
+    }
+  },
+  "NURS 363": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 303"
+    }
+  },
+  "NURS 365": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 345"
+    }
+  },
+  "NURS 366": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 346"
+    }
+  },
+  "NURS 401": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 322"
+        },
+        {
+          "type": "course",
+          "code": "NURS 323"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "NURS 345"
+            },
+            {
+              "type": "course",
+              "code": "NURS 365"
+            },
+            {
+              "type": "course",
+              "code": "NURS 346"
+            },
+            {
+              "type": "course",
+              "code": "NURS 366"
+            }
+          ]
+        },
+        {
+          "type": "and",
+          "items": [
+            {
+              "type": "course",
+              "code": "NURS 303"
+            },
+            {
+              "type": "course",
+              "code": "NURS 363"
+            },
+            {
+              "type": "course",
+              "code": "NURS 301"
+            },
+            {
+              "type": "course",
+              "code": "NURS 362"
+            }
+          ]
+        }
+      ]
+    }
+  },
+  "NURS 402": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 322"
+        },
+        {
+          "type": "course",
+          "code": "NURS 323"
+        },
+        {
+          "type": "course",
+          "code": "NURS 350"
+        },
+        {
+          "type": "course",
+          "code": "NURS 351"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 353"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        },
+        {
+          "type": "course",
+          "code": "NURS 361"
+        },
+        {
+          "type": "course",
+          "code": "NURS 362"
+        },
+        {
+          "type": "course",
+          "code": "NURS 363"
+        },
+        {
+          "type": "course",
+          "code": "NURS 365"
+        },
+        {
+          "type": "course",
+          "code": "NURS 366"
+        },
+        {
+          "type": "course",
+          "code": "NURS 401"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 430"
+    }
+  },
+  "NURS 427": {
+    "prereq": null,
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 344"
+        },
+        {
+          "type": "course",
+          "code": "NURS 402"
+        },
+        {
+          "type": "course",
+          "code": "NURS 430"
+        }
+      ]
+    }
+  },
+  "NURS 430": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 300"
+        },
+        {
+          "type": "course",
+          "code": "NURS 301"
+        },
+        {
+          "type": "course",
+          "code": "NURS 303"
+        },
+        {
+          "type": "course",
+          "code": "NURS 310"
+        },
+        {
+          "type": "course",
+          "code": "NURS 321"
+        },
+        {
+          "type": "course",
+          "code": "NURS 322"
+        },
+        {
+          "type": "course",
+          "code": "NURS 323"
+        },
+        {
+          "type": "course",
+          "code": "NURS 330"
+        },
+        {
+          "type": "course",
+          "code": "NURS 331"
+        },
+        {
+          "type": "course",
+          "code": "NURS 345"
+        },
+        {
+          "type": "course",
+          "code": "NURS 346"
+        },
+        {
+          "type": "course",
+          "code": "NURS 350"
+        },
+        {
+          "type": "course",
+          "code": "NURS 351"
+        },
+        {
+          "type": "course",
+          "code": "NURS 352"
+        },
+        {
+          "type": "course",
+          "code": "NURS 353"
+        },
+        {
+          "type": "course",
+          "code": "NURS 354"
+        },
+        {
+          "type": "course",
+          "code": "NURS 360"
+        },
+        {
+          "type": "course",
+          "code": "NURS 361"
+        },
+        {
+          "type": "course",
+          "code": "NURS 362"
+        },
+        {
+          "type": "course",
+          "code": "NURS 363"
+        },
+        {
+          "type": "course",
+          "code": "NURS 365"
+        },
+        {
+          "type": "course",
+          "code": "NURS 366"
+        },
+        {
+          "type": "course",
+          "code": "NURS 401"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 344"
+        },
+        {
+          "type": "course",
+          "code": "NURS 402"
+        }
+      ]
+    }
+  },
+  "NURS 520": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 512"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 530": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 540": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 541": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 540"
+        },
+        {
+          "type": "course",
+          "code": "NURS 531"
+        }
+      ]
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 548": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 552"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 549": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 552"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 552": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 504"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 554": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 580"
+        },
+        {
+          "type": "course",
+          "code": "NURS 548"
+        },
+        {
+          "type": "course",
+          "code": "NURS 549"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 560": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  },
+  "NURS 574": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 573"
+    },
+    "coreq": null
+  },
+  "NURS 575": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "NURS 573"
+        },
+        {
+          "type": "course",
+          "code": "NURS 574"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "NURS 580": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 511"
+    },
+    "coreq": null
+  },
+  "NURS 581": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 580"
+    },
+    "coreq": null
+  },
+  "NURS 590": {
+    "prereq": {
+      "type": "course",
+      "code": "NURS 511"
+    },
+    "coreq": null
+  },
+  "NURS 599": {
+    "prereq": null,
+    "coreq": {
+      "type": "course",
+      "code": "NURS 511"
+    }
+  }
+}

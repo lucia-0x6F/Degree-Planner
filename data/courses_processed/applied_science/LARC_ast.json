@@ -1,0 +1,67 @@
+{
+  "LARC 502": {
+    "prereq": {
+      "type": "and",
+      "items": [
+        {
+          "type": "course",
+          "code": "LARC 316"
+        },
+        {
+          "type": "course",
+          "code": "LARC 501"
+        }
+      ]
+    },
+    "coreq": null
+  },
+  "LARC 503": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 502"
+    },
+    "coreq": null
+  },
+  "LARC 504": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 502"
+    },
+    "coreq": null
+  },
+  "LARC 505": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 504"
+    },
+    "coreq": null
+  },
+  "LARC 515": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 316"
+    },
+    "coreq": null
+  },
+  "LARC 524": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 522"
+    },
+    "coreq": null
+  },
+  "LARC 532": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 531"
+    },
+    "coreq": null
+  },
+  "LARC 598": {
+    "prereq": {
+      "type": "course",
+      "code": "LARC 595"
+    },
+    "coreq": null
+  }
+}

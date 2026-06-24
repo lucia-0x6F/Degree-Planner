@@ -1,0 +1,22 @@
+{
+  "PHTH 580": {
+    "prereq": {
+      "type": "course",
+      "code": "RHSC 501"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHTH 581"
+    }
+  },
+  "PHTH 581": {
+    "prereq": {
+      "type": "course",
+      "code": "RHSC 501"
+    },
+    "coreq": {
+      "type": "course",
+      "code": "PHTH 580"
+    }
+  }
+}

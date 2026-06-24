@@ -1,0 +1,23 @@
+{
+  "ACAM 320": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ACAM 390": {
+    "prereq": {
+      "type": "standing",
+      "min_year": 2
+    },
+    "coreq": null
+  },
+  "ACAM 447": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "Permission of the Chair of the ACAM program"
+    },
+    "coreq": null
+  }
+}

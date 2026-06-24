@@ -1,0 +1,39 @@
+{
+  "LATN 102": {
+    "prereq": {
+      "type": "course",
+      "code": "LATN 101"
+    },
+    "coreq": null
+  },
+  "LATN 201": {
+    "prereq": {
+      "type": "course",
+      "code": "LATN 102"
+    },
+    "coreq": null
+  },
+  "LATN 350": {
+    "prereq": {
+      "type": "unknown",
+      "raw": "One of LATN _V 301, LATN _V 202, LATN _V 200"
+    },
+    "coreq": null
+  },
+  "LATN 403": {
+    "prereq": {
+      "type": "or",
+      "items": [
+        {
+          "type": "course",
+          "code": "LATN 350"
+        },
+        {
+          "type": "course",
+          "code": "LATN 351"
+        }
+      ]
+    },
+    "coreq": null
+  }
+}
