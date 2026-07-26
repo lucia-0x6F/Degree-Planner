@@ -28,4 +28,8 @@ export class Course {
         return this.faculty;
     }
 
+    public getDescription() {
+        return this.description;
+    }
+
 }
