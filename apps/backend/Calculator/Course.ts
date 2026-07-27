@@ -1,35 +1,13 @@
 export class Course {
     constructor(
-        public subject_code: string,    //mandatory property
-        public course_code: string,
-        public credit: number,
-        public course_name: string,
-        public faculty: string,
-        public description: string,
+        public readonly subject_code: string,    //mandatory property
+        public readonly course_code: string,
+        public readonly credit: number,
+        public readonly course_name: string,
+        public readonly faculty: string,
+        public readonly description: string,
     ){}
 
-    public getName() {
-        return this.course_code + this.course_name;
-    }
-
-    public getCredit() {
-        return this.credit;
-    }
-
-    public getCode(): string {
-        return this.course_code;
-    }
-
-    public getSubject() {
-        return this.subject_code;
-    }
-
-    public getFaculty() {
-        return this.faculty;
-    }
-
-    public getDescription() {
-        return this.description;
-    }
+   
 
 }

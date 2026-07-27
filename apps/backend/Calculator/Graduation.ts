@@ -1,26 +1,25 @@
 import { Course } from "./Course";
 
-export class graduation{
+export class Graduation{
     constructor(
         public credits: number,    
         public electiveCredit: number,
-        public mandatoryCourses : Course[] = [],
     ){}
 
     public progressCalculation() : number {
         return this.credits / 120;
     }
 
-    public courseValidityCheck(completedCourses : Course[]) { 
+    public courseValidityCheck(completedCourses : Course[], mandatoryCourses : Course[]) { 
 
         for (const c of completedCourses) {
-            if (this.mandatoryCourses.includes(c)) {
-                const index = this.mandatoryCourses.indexOf(c);
+            if (mandatoryCourses.includes(c)) {
+                const index = mandatoryCourses.indexOf(c);
                 if (index !== -1) {
-                    this.mandatoryCourses.splice(index, 1);     //if the course belongs to the mandatory courses, remove the corresponding course from the array
+                    mandatoryCourses.splice(index, 1);     //if the course belongs to the mandatory courses, remove the corresponding course from the array
                 }                                               //if not, add the elective credit
             } else {
-                this.electiveCredit += c.getCredit();
+                this.electiveCredit += c.credit;
             }
         }
     }   
@@ -28,8 +27,8 @@ export class graduation{
     public upper48Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (parseInt(c.getCode()) >= 300) {
-                count += c.getCredit();
+            if (parseInt(c.course_code) >= 300) {
+                count += c.credit;
             }
         }
         return count;
@@ -38,8 +37,8 @@ export class graduation{
     public science72Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (c.getFaculty() == "Science") {
-                count += c.getCredit();
+            if (c.faculty == "Science") {
+                count += c.credit;
             }
         }
         return count;
@@ -48,8 +47,8 @@ export class graduation{
      public scienceUpper30Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (c.getFaculty() == "Science" && parseInt(c.getCode()) >= 300) { 
-                count += c.getCredit();
+            if (c.faculty == "Science" && parseInt(c.course_code) >= 300) { 
+                count += c.credit;
             }
         }
         return count;
@@ -58,8 +57,8 @@ export class graduation{
     public arts12Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (c.getFaculty() == "Arts" || ["ASCI200", "ASCI220"].includes(c.getName())) { 
-                count += c.getCredit();
+            if (c.faculty == "Arts" || ["ASCI200", "ASCI220"].includes(c.course_name)) { 
+                count += c.credit;
             }
         }
         return count;
@@ -69,9 +68,9 @@ export class graduation{
         const breadth: string[] = [];
 
         for (const c of completedCourses) {
-            const subject = c.getSubject();
-            const code = c.getCode();
-            const name = c.getName();
+            const subject = c.subject_code;
+            const code = c.course_code;
+            const name = c.course_name;
             const courseNum = parseInt(code.substring(1));
 
             if (subject === "MATH") {
@@ -133,7 +132,7 @@ export class graduation{
     public communicationCheck(completedCourses : Course[]) : number{
         let count : number = 0;
          for (const c of completedCourses) {
-            let name : string = c.getName();
+            let name : string = c.course_name;
             if (["SCIE113", "SCIE001"].includes(name)) {
                 count++;
             } else if (["ENGL110", "ENGL111"].includes(name)) {
@@ -151,7 +150,7 @@ export class graduation{
         const labs : String[] = ["ASTR101", "ASTR102", "BIOL140", "CHEM111", "CHEM115", "CHEM121", "CHEM123", "CHEM135", "EOSC111", "PHYS101",
             "PHYS107" , "PHYS109" , "PHYS119", "PHYS159", "SCIE001"];
         for (const c of completedCourses) {
-            let name : string = c.getName();
+            let name : string = c.course_name;
             if (labs.includes(name)) {
                 return true;
             }
