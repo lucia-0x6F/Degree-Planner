@@ -1,4 +1,5 @@
 import { Course } from "./Course";
+import { Specialization } from "./Specialization";
 
 export class Graduation{
     constructor(
@@ -156,6 +157,21 @@ export class Graduation{
             }
         }
         return false;
+    }
+
+
+    public validElectiveCount(completedCourses : Course[], spec : Specialization) : number {
+        let count = 0;
+        let notSciArt = 0;
+        for (const c of completedCourses) {
+            if (!spec.checkMandatory(c)) {
+                count += c.credit;
+            }
+            if (c.faculty != "Science" && c.faculty != "Arts") {
+                notSciArt += c.credit;
+            }
+        }
+        return notSciArt > 24? count - (notSciArt - 24) : count; //if notSciArt > 24, then the exceeded credit would be reduced
     }
 
 // Foundational Requirement

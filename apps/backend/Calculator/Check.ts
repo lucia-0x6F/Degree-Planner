@@ -36,5 +36,8 @@ export class Check {
        return String(count / minCredit * 100) + "%";
     }
 
+    public findCourse(course : Course, courses : Course[]) : boolean {
+        return courses.includes(course);
+    }
 
 }

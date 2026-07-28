@@ -1,4 +1,5 @@
 export class Course {
+    
     constructor(
         public readonly subject_code: string,    //mandatory property
         public readonly course_code: string,
@@ -7,6 +8,8 @@ export class Course {
         public readonly faculty: string,
         public readonly description: string,
     ){}
+
+   
 
    
 
