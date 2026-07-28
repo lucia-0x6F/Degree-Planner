@@ -17,6 +17,7 @@
 
 ### Backend / Database
 - **Supabase**: PostgreSQL database and user authentication.
+- **SQLite**: Embedded database for instant course lookups, optimized for fast data access without external dependencies.
 
 ## Data Source
 UBC Vancouver Academic Calendar 2026/27
