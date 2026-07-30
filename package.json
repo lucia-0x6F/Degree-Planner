@@ -4,7 +4,9 @@
   "description": "*Degree Planner is an automatic course generator that helps you create a semester schedule. If you find it difficult to choose courses while fulfilling both major and graduation requirements, this tool can help you plan your path elegantly.*",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "coverage": "vitest run --coverage"
   },
   "repository": {
     "type": "git",
@@ -20,11 +22,15 @@
   "homepage": "https://github.com/lucia-0x6F/Degree-Planner#readme",
   "dependencies": {
     "better-sqlite3": "^13.0.1",
-    "playwright": "^1.60.0",
-    "ts-junit": "^1.0.18"
+    "playwright": "^1.60.0"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
-    "tsx": "^4.23.1"
+    "@types/node": "^26.1.2",
+    "@vitest/coverage-v8": "^4.1.10",
+    "ts-node": "^10.9.2",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2",
+    "vitest": "^4.1.10"
   }
 }

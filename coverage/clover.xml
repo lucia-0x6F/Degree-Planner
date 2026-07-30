@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1785432877990" clover="3.2.0">
+  <project timestamp="1785432877990" name="All files">
+    <metrics statements="26" coveredstatements="26" conditionals="10" coveredconditionals="10" methods="7" coveredmethods="7" elements="43" coveredelements="43" complexity="0" loc="26" ncloc="26" packages="1" files="2" classes="2"/>
+    <file name="Check.ts" path="/Users/lucia/Code/degree-planner/apps/backend/Calculator/Check.ts">
+      <metrics statements="20" coveredstatements="20" conditionals="10" coveredconditionals="10" methods="6" coveredmethods="6"/>
+      <line num="6" count="5" type="stmt"/>
+      <line num="10" count="3" type="stmt"/>
+      <line num="11" count="3" type="stmt"/>
+      <line num="12" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="13" count="3" type="stmt"/>
+      <line num="16" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="20" count="5" type="stmt"/>
+      <line num="21" count="5" type="stmt"/>
+      <line num="22" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="5" type="stmt"/>
+      <line num="26" count="5" type="stmt"/>
+      <line num="30" count="5" type="stmt"/>
+      <line num="31" count="5" type="stmt"/>
+      <line num="32" count="6" type="cond" truecount="2" falsecount="0"/>
+      <line num="33" count="5" type="stmt"/>
+      <line num="36" count="5" type="stmt"/>
+      <line num="40" count="2" type="stmt"/>
+      <line num="41" count="3" type="cond" truecount="2" falsecount="0"/>
+      <line num="42" count="1" type="stmt"/>
+      <line num="45" count="1" type="stmt"/>
+    </file>
+    <file name="Course.ts" path="/Users/lucia/Code/degree-planner/apps/backend/Calculator/Course.ts">
+      <metrics statements="6" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="4" count="3" type="stmt"/>
+      <line num="5" count="3" type="stmt"/>
+      <line num="6" count="3" type="stmt"/>
+      <line num="7" count="3" type="stmt"/>
+      <line num="8" count="3" type="stmt"/>
+      <line num="9" count="3" type="stmt"/>
+    </file>
+  </project>
+</coverage>
