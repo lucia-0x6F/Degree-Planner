@@ -22,3 +22,7 @@
 ## Data Source
 UBC Vancouver Academic Calendar 2026/27
 https://vancouver.calendar.ubc.ca/course-descriptions/courses-subject
+
+
+## Issues
+July 31, 2026: represent requirements (e.g. anyOf, allOf) in array

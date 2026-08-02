@@ -4,15 +4,15 @@ import { Check } from "./Check";
 export class Specialization {
    
     constructor(
-       public readonly name: string,
-       public readonly code: string,
-       public readonly validityCheck: Check,
-       public readonly requirements: Course[],
-       public readonly electiveCredit: number
+       public name: string,
+       public code: string,
+       public validityCheck: Check,
+       public requirements: String[],
+       public electiveCredit: number
     ){}
 
     public checkMandatory(course : Course) : boolean {
-        return this.validityCheck.findCourse(course, this.requirements);
+        return this.validityCheck.findCourse(course, this.requirements);  
     }
 
 

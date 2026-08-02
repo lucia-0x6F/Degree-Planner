@@ -1,4 +1,3 @@
-import assert from 'node:assert/strict';
 import { Check } from '../Calculator/Check';
 import { Course } from '../Calculator/Course';
 import { describe, it, expect, beforeEach } from 'vitest'

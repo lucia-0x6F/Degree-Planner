@@ -4,7 +4,7 @@ import { Specialization } from "./Specialization";
 export class Graduation{
     constructor(
         public credits: number,    
-        public electiveCredit: number,
+        public specialization: Specialization,
     ){}
 
     public progressCalculation() : number {
@@ -20,7 +20,7 @@ export class Graduation{
                     mandatoryCourses.splice(index, 1);     //if the course belongs to the mandatory courses, remove the corresponding course from the array
                 }                                               //if not, add the elective credit
             } else {
-                this.electiveCredit += c.credit;
+                this.specialization.electiveCredit += c.credit;
             }
         }
     }   
