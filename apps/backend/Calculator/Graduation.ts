@@ -164,9 +164,6 @@ export class Graduation{
         let count = 0;
         let notSciArt = 0;
         for (const c of completedCourses) {
-            if (!spec.checkMandatory(c)) {
-                count += c.credit;
-            }
             if (c.faculty != "Science" && c.faculty != "Arts") {
                 notSciArt += c.credit;
             }

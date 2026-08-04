@@ -3,9 +3,10 @@ import { Course } from '../Calculator/Course';
 import { Graduation } from '../Calculator/Graduation';
 import { describe, it, expect, beforeEach } from 'vitest'
 import { Specialization } from '../Calculator/Specialization';
+import { Requirement } from '../Calculator/Requirement';
 
 const check = new Check();
-const CompSci : Specialization = new Specialization("CS","0376", check,["requirement"],42);
+const CompSci : Specialization = new Specialization("CS","0376",[new Requirement("hasCourse",[])],42);
 
 let graduation: Graduation;
 
