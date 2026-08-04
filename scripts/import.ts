@@ -12,16 +12,7 @@ db.exec(`
     full_code TEXT PRIMARY KEY,
     subject_code TEXT,
     course_code TEXT,
-    credit REAL,
-    course_name TEXT,
-    faculty TEXT,
-    description TEXT
-  );
-  CREATE TABLE IF NOT EXISTS courses_processed (
-    full_code TEXT PRIMARY KEY,
-    subject_code TEXT,
-    course_code TEXT,
-    credit REAL,
+    credit TEXT,
     course_name TEXT,
     faculty TEXT,
     description TEXT
@@ -39,7 +30,7 @@ function importDir(baseDir: string, tableName: string) {
         code,
         c.subject_code || '',
         c.course_code || '',
-        c.credit !== undefined && c.credit !== null ? Number(c.credit) : 0,
+        c.credit || '',
         c.course_name || '',
         c.faculty || '',
         c.description || ''
@@ -73,15 +64,12 @@ function importDir(baseDir: string, tableName: string) {
 
 // output
 const rawDir = path.join(process.cwd(), 'data', 'courses');
-const processedDir = path.join(process.cwd(), 'data', 'courses_processed');
 
 if (fs.existsSync(rawDir)) importDir(rawDir, 'courses_raw');
-if (fs.existsSync(processedDir)) importDir(processedDir, 'courses_processed');
 
 // statistics
 const rawCount = db.prepare('SELECT COUNT(*) AS cnt FROM courses_raw').get() as any;
-const procCount = db.prepare('SELECT COUNT(*) AS cnt FROM courses_processed').get() as any;
-console.log(`Database: courses_raw = ${rawCount.cnt}, courses_processed = ${procCount.cnt}`);
+console.log(`Database: courses_raw = ${rawCount.cnt}`);
 
 db.close();
 console.log('Completed');
