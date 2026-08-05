@@ -4,18 +4,17 @@ import { Course } from "./Course";
     | "hasCourse"
     | "allOf"
     | "anyOf"
-    | "creditAtLeastFrom"
-    | "creditAtLeast";
+    | "creditAtLeastFrom";
 
 export class Requirement {
     constructor(
         public type: RequirementType,
         public courses: Course[],
-        public filter?: {
+        public filter: {
             subject?: string[],
             minLevel?: number
         },
-        public minCredits?: number
+        public result: boolean | number
     ) {}
    
 

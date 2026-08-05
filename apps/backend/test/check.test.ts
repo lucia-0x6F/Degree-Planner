@@ -39,23 +39,12 @@ describe('testCheck', () => {
     expect(check.allOf(c121p210, courses)).toBe(true);
   })
 
-  //numberProgress 
-   it('numberProgress', () => {
-    expect(check.numberProgress(completed121, courses,1)).toBe(100);
-    expect(check.numberProgress(completed121, courses,2)).toBe(50);
-    expect(check.numberProgress(completed121, courses,3)).toBe(33);
-    expect(check.numberProgress(completed110, courses,1)).toBe(0);
-    expect(check.numberProgress(c121p210, courses,2)).toBe(100);
-  })
-
 
   //creditProgress 
   it('creditProgress', () => {
-    expect(check.creditProgress(completed121, courses,4)).toBe(100);
-    expect(check.creditProgress(completed121, courses,8)).toBe(50);
-    expect(check.creditProgress(completed121, courses,12)).toBe(33);
-    expect(check.creditProgress(completed110, courses,4)).toBe(0);
-    expect(check.creditProgress(c121p210, courses,8)).toBe(100);
+    expect(check.electiveCount(completed121)).toBe(4);
+    expect(check.electiveCount(completed110)).toBe(4);
+    expect(check.electiveCount(c121p210)).toBe(8);
   })
 
    it('hasCourse', () => {
