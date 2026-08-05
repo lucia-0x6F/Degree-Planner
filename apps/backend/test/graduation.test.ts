@@ -5,14 +5,20 @@ import { describe, it, expect, beforeEach } from 'vitest'
 import { Specialization } from '../Calculator/Specialization';
 import { Requirement } from '../Calculator/Requirement';
 
-const check = new Check();
-const CompSci : Specialization = new Specialization("CS","0376",[new Requirement("hasCourse",[])],42);
-
 let graduation: Graduation;
+const requirements: Requirement[] = [];
 
+export const CompSci = new Specialization(
+    "Computer Science",
+    "0376",
+    requirements,
+    32,
+    88,
+    0
+);
 
 beforeEach(() => {
-  graduation = new Graduation(120, CompSci);
+    graduation = new Graduation(120, CompSci);
 });
 
 describe('testGraduation', () => {

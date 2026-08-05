@@ -10,11 +10,11 @@ export class Requirement {
     constructor(
         public type: RequirementType,
         public courses: Course[],
-        public filter: {
+        public result: boolean | number,
+        public filter?: {
             subject?: string[],
             minLevel?: number
-        },
-        public result: boolean | number
+        }
     ) {}
    
 

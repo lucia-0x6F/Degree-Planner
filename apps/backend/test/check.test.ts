@@ -13,12 +13,146 @@ const c121p210 = [CPSC121,CPSC210];
 const courses =  ["CPSC121", "CPSC210"];
 const courses2 =  ["CPSC121", "CPSC210","CPSC110"];
 
+import Database from 'better-sqlite3';
+import { CourseQuery } from '../../../data/CourseQuery';
+import { Graduation } from '../Calculator/Graduation';
+import { Requirement } from '../Calculator/Requirement';
+import { Specialization } from '../Calculator/Specialization';
+
+
+let graduation: Graduation;
+
+const db = new Database('data/courses.db');
+
+const courseQuery = new CourseQuery(db);
+
+const requirements: Requirement[] = [
+
+    new Requirement(
+        "hasCourse",
+        [courseQuery.getCourse("SCIE", "113")],
+        true
+    ),
+
+    new Requirement(
+        "hasCourse",
+        [courseQuery.getCourse("CPSC", "110")],
+        true
+    ),
+
+    new Requirement(
+        "hasCourse",
+        [courseQuery.getCourse("CPSC", "121")],
+        true
+    ),
+
+    new Requirement(
+        "anyOf",
+        [
+            courseQuery.getCourse("MATH", "100"),
+            courseQuery.getCourse("MATH", "102"),
+            courseQuery.getCourse("MATH", "104"),
+            courseQuery.getCourse("MATH", "110"),
+            courseQuery.getCourse("MATH", "120"),
+            courseQuery.getCourse("MATH", "180"),
+            courseQuery.getCourse("MATH", "184")
+        ],
+        true
+    ),
+
+    new Requirement(
+        "anyOf",
+        [
+            courseQuery.getCourse("MATH", "101"),
+            courseQuery.getCourse("MATH", "103"),
+            courseQuery.getCourse("MATH", "105"),
+            courseQuery.getCourse("MATH", "121")
+        ],
+        true
+    ),
+
+    new Requirement(
+        "hasCourse",
+        [courseQuery.getCourse("CPSC", "210")],
+        true
+    ),
+
+    new Requirement(
+        "allOf",
+        [
+            courseQuery.getCourse("CPSC", "213"),
+            courseQuery.getCourse("CPSC", "221")
+        ],
+        true
+    ),
+
+    new Requirement(
+        "anyOf",
+        [
+            courseQuery.getCourse("MATH", "111"),
+            courseQuery.getCourse("MATH", "221")
+        ],
+        true
+    ),
+
+    new Requirement(
+        "hasCourse",
+        [courseQuery.getCourse("MATH", "200")],
+        true
+    ),
+
+    new Requirement(
+        "hasCourse",
+        [courseQuery.getCourse("STAT", "251")],
+        true
+    ),
+
+    new Requirement(
+        "allOf",
+        [
+            courseQuery.getCourse("CPSC", "310"),
+            courseQuery.getCourse("CPSC", "313"),
+            courseQuery.getCourse("CPSC", "320")
+        ],
+        true
+    ),
+
+    new Requirement(
+        "creditAtLeastFrom",
+        [],
+        9,
+        {
+            subject: ["CPSC", "AI"],
+            minLevel: 300
+        }
+    ),
+
+    new Requirement(
+        "creditAtLeastFrom",
+        [],
+        9,
+        {
+            subject: ["CPSC", "AI"],
+            minLevel: 400
+        }
+    )
+];
+
+export const CompSci = new Specialization(
+    "Computer Science",
+    "0376",
+    requirements,
+    32,
+    88,
+    0
+);
 
 describe('testCheck', () => {
   let check: Check
 
   beforeEach(() => {
-    check = new Check()
+    check = new Check();
+    graduation = new Graduation(120, CompSci);
   })
   //anyOf 
   it('anyOfSingle', () => {

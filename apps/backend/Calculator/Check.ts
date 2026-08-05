@@ -53,9 +53,8 @@ export class Check {
          for (const r of map.get("creditAtLeastFrom")??[]) {
 
             available = available.filter(c => !usedCourses.includes(c.subject_code + c.course_code));
-            r.result = this.creditAtLeastFrom(available, r.filter, spec.electiveCredit);
             
-            if (r.result >= 100) {
+            if (typeof r.result === "number" && r.result >= 100) {
                 spec.mandatoryProgress++;
             }
         } 
