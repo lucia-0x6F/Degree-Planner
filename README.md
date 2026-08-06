@@ -1,29 +1,50 @@
 # Degree Planner
 
-*Degree Planner is an automatic course generator that helps you create a semester schedule. If you find it difficult to choose courses while fulfilling both major and graduation requirements, this tool can help you plan your path elegantly.*
+Degree Planner is a tool for planning UBC degrees by organizing course information and checking graduation requirements.
 
-## How to Use
-- **Choose a major** (e.g., Computer Science)
-- **Select the courses you have already completed**
-- **Use filters to generate the remaining schedule**
+The project parses course data from the UBC Academic Calendar and models courses, prerequisites, and program requirements to help students understand which requirements they have completed and what remains.
+
+## Features
+
+- Store and query UBC course information
+- Parse prerequisite and corequisite relationships
+- Represent graduation and specialization requirements
+- Check completed courses against degree requirements
+- Track remaining requirements for a selected program
+
+## Project Design
+
+The project separates different parts of the degree planning logic:
+
+- **Course Model**: Stores course information such as code, description, prerequisites, and corequisites
+- **Requirement Model**: Represents graduation and specialization requirements
+- **Check Module**: Determines whether completed courses satisfy specific requirements
+- **Database Layer**: Stores processed course data for querying
 
 ## Tech Stack
 
-### Frontend
-- **React + TypeScript**: Core framework with strong type safety.
-- **Next.js**: Routing and Server-Side Rendering (SSR).
-- **Tailwind CSS**: Utility-first styling and responsive design.
-- **shadcn/ui**: Accessible and consistent UI component library.
-
-### Backend / Database
-- **Supabase**: PostgreSQL database and user authentication.
-- **SQLite**: Embedded database for instant course lookups, optimized for fast data access without external dependencies.
+- TypeScript
+- React + Vite
+- SQLite
+- Tailwind CSS
 
 ## Data Source
-UBC Vancouver Academic Calendar 2026/27
+
+Course data is collected from the UBC Vancouver Academic Calendar:
+
 https://vancouver.calendar.ubc.ca/course-descriptions/courses-subject
 
+The current dataset contains **9,489 UBC courses**, including course information, prerequisites, and corequisites.
 
-## Issues
-July 31, 2026: represent requirements (e.g. anyOf, allOf) in array
-August 4, 2025: distinguish frontend and backend data, using courses_raw and courses_processed. And courses_processed only contians the courses that require prerequisite or corerequisite courses.
+## Development Progress
+
+- Built a course data extraction pipeline from UBC Calendar
+- Parsed prerequisite and corequisite relationships into structured data
+- Designed models for courses and degree requirements
+- Implemented requirement checking logic with automated tests
+
+## Future Work
+
+- Add a user interface for selecting completed courses and viewing degree progress
+- Support more UBC programs and specializations
+- Add semester planning features
