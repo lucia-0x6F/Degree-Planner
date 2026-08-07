@@ -3,15 +3,18 @@ import { Course } from "./Course";
 import { Requirement } from "./Requirement";
 import { Specialization } from "./Specialization";
 
-let usedCourses : String[] = []
-let available : Course[] = [];
+
 
 export class Check {
+
+    constructor(
+            public usedCourses : String[] = []
+        ) {}
 
     public evaluate(completed : Course[], spec: Specialization) : void { 
         const map = new Map<string, Requirement[]>();
 
-        available = completed;
+        let available : Course[] = completed;
 
         for (const r of spec.requirements) {
             const list = map.get(r.type);
@@ -34,7 +37,8 @@ export class Check {
 
         for (const r of map.get("anyOf")??[]) {
 
-            available = available.filter(c => !usedCourses.includes(c.subject_code + c.course_code));
+            available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
+            console.log(available.map(c => c.subject_code + c.course_code));
             r.result = this.anyOf(available, r.courses.map(c => c.subject_code + c.course_code));
              if (r.result) {
                 spec.mandatoryProgress++;
@@ -43,7 +47,7 @@ export class Check {
 
         for (const r of map.get("allOf")??[]) {
 
-            available = available.filter(c => !usedCourses.includes(c.subject_code + c.course_code));
+            available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
             r.result = this.allOf(available, r.courses.map(c => c.subject_code + c.course_code));
             if (r.result) {
                 spec.mandatoryProgress++;
@@ -52,8 +56,10 @@ export class Check {
 
          for (const r of map.get("creditAtLeastFrom")??[]) {
 
-            available = available.filter(c => !usedCourses.includes(c.subject_code + c.course_code));
+            available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
             
+            r.result = this.creditAtLeastFrom(available, r.filter??{}, r.minCredit??0);
+
             if (typeof r.result === "number" && r.result >= 100) {
                 spec.mandatoryProgress++;
             }
@@ -61,7 +67,7 @@ export class Check {
 
         for (const c of completed) {      //elective courses
 
-            available = available.filter(c => !usedCourses.includes(c.subject_code + c.course_code));
+            available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
             spec.electiveProgress = this.electiveCount(available) / spec.electiveCredit;
         }
      
@@ -72,7 +78,7 @@ export class Check {
      public hasCourse(completed: Course[], course: Course): boolean {
 
         if (completed.some(c => c.subject_code + c.course_code === course.subject_code + course.course_code)) {
-            usedCourses.push(course.subject_code + course.course_code);
+            this.usedCourses.push(course.subject_code + course.course_code);
             return true;
         }
         return false;
@@ -83,6 +89,7 @@ export class Check {
     public anyOf(completed : Course[], courses : String[]) : boolean{
         for (const c of completed) {
             if (courses.includes(c.subject_code + c.course_code)) {
+                this.usedCourses.push(c.course_code + c.course_code);
                 return true;
             }
         }
@@ -110,11 +117,11 @@ export class Check {
                 && (filter.minLevel === undefined || level >= filter.minLevel) ) {
 
                 count += c.credit;
-                usedCourses.push(c.subject_code + c.course_code);
+                this.usedCourses.push(c.subject_code + c.course_code);
 
             }
         }
-       return Math.round(Math.min(count / minCredit, 1) * 100);
+       return Math.min(count / minCredit, 1);
     } //test!!!
 
     //Elective
@@ -123,7 +130,7 @@ export class Check {
         let count : number = 0;
         for (const c of completed) {
                 count += c.credit;
-                usedCourses.push(c.subject_code + c.course_code);
+                this.usedCourses.push(c.subject_code + c.course_code);
         }
        return count;
     }

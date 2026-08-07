@@ -11,6 +11,7 @@ export class Requirement {
         public type: RequirementType,
         public courses: Course[],
         public result: boolean | number,
+        public minCredit? : number,
         public filter?: {
             subject?: string[],
             minLevel?: number

@@ -120,7 +120,8 @@ const requirements: Requirement[] = [
     new Requirement(
         "creditAtLeastFrom",
         [],
-        9,
+        0,
+        12,
         {
             subject: ["CPSC", "AI"],
             minLevel: 300
@@ -130,6 +131,7 @@ const requirements: Requirement[] = [
     new Requirement(
         "creditAtLeastFrom",
         [],
+        0,
         9,
         {
             subject: ["CPSC", "AI"],
@@ -165,6 +167,7 @@ const courseList: Course[] = [
 
 ];
 
+//start
 
 describe('testCheck', () => {
   let check: Check
@@ -174,7 +177,7 @@ describe('testCheck', () => {
     graduation = new Graduation(120, CompSci);
     
   })
-  //anyOf 
+  //anyOf
   it('anyOfSingle', () => {
     expect(check.anyOf(completed121, courses)).toBe(true);
     expect(check.anyOf(completed110, courses)).toBe(false);
@@ -200,17 +203,65 @@ describe('testCheck', () => {
     expect(CompSci.requirements[2].result).toBe(true);
   })
 
+
+  //bug!!!
     it('evaluate', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[3].result).toBe(true);
   })
 
-      it('evaluate', () => {
+        it('evaluate', () => {
     check.evaluate(courseList, CompSci);
-    expect(CompSci.mandatoryProgress).toBe(22);
+    expect(CompSci.requirements[4].result).toBe(true);
+
+  })
+
+  //bug!!!
+
+        it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[5].result).toBe(true);
+  })
+
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[6].result).toBe(false);
+  })
+
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[7].result).toBe(false);
   })
 
 
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[8].result).toBe(false);
+  })
+
+
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[9].result).toBe(false);
+  })
+
+
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[10].result).toBe(false);
+  })
+
+
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[11].result).toBe(0);
+  })
+
+
+   it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[12].result).toBe(0);
+  })
 
   //allOf   
    it('allOf', () => {

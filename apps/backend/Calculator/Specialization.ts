@@ -9,7 +9,6 @@ export class Specialization {
        public code: string,
        public requirements: Requirement[],
        public electiveCredit: number,
-       
        public mandatoryProgress: number,
        public electiveProgress: number
     ){}
