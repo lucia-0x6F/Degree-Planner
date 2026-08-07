@@ -30,23 +30,23 @@ const requirements: Requirement[] = [
 
     new Requirement(
         "hasCourse",
-        [courseQuery.getCourse("SCIE", "113")],
+        [courseQuery.getCourse("SCIE", "113")],  //re0
         true
     ),
 
     new Requirement(
         "hasCourse",
-        [courseQuery.getCourse("CPSC", "110")],
+        [courseQuery.getCourse("CPSC", "110")],  //re1
         true
     ),
 
     new Requirement(
         "hasCourse",
-        [courseQuery.getCourse("CPSC", "121")],
+        [courseQuery.getCourse("CPSC", "121")],  //re2
         true
     ),
 
-    new Requirement(
+    new Requirement(                            //re3
         "anyOf",
         [
             courseQuery.getCourse("MATH", "100"),
@@ -60,7 +60,7 @@ const requirements: Requirement[] = [
         true
     ),
 
-    new Requirement(
+    new Requirement(                           //re4
         "anyOf",
         [
             courseQuery.getCourse("MATH", "101"),
@@ -71,13 +71,13 @@ const requirements: Requirement[] = [
         true
     ),
 
-    new Requirement(
+    new Requirement(                           //re5
         "hasCourse",
         [courseQuery.getCourse("CPSC", "210")],
         true
     ),
 
-    new Requirement(
+    new Requirement(                           //re6
         "allOf",
         [
             courseQuery.getCourse("CPSC", "213"),
@@ -86,7 +86,7 @@ const requirements: Requirement[] = [
         true
     ),
 
-    new Requirement(
+    new Requirement(                             //re7
         "anyOf",
         [
             courseQuery.getCourse("MATH", "111"),
@@ -95,19 +95,21 @@ const requirements: Requirement[] = [
         true
     ),
 
-    new Requirement(
+    new Requirement(                              //re8
         "hasCourse",
         [courseQuery.getCourse("MATH", "200")],
         true
     ),
 
-    new Requirement(
-        "hasCourse",
-        [courseQuery.getCourse("STAT", "251")],
+    new Requirement(                              //re9
+        "anyOf",
+        [courseQuery.getCourse("STAT", "251"),
+        courseQuery.getCourse("STAT", "200"),
+        courseQuery.getCourse("STAT", "201")],
         true
     ),
 
-    new Requirement(
+    new Requirement(                              //re10
         "allOf",
         [
             courseQuery.getCourse("CPSC", "310"),
@@ -117,7 +119,7 @@ const requirements: Requirement[] = [
         true
     ),
 
-    new Requirement(
+    new Requirement(                              //re11
         "creditAtLeastFrom",
         [],
         0,
@@ -128,7 +130,7 @@ const requirements: Requirement[] = [
         }
     ),
 
-    new Requirement(
+    new Requirement(                            //re12
         "creditAtLeastFrom",
         [],
         0,
@@ -144,7 +146,7 @@ export const CompSci = new Specialization(
     "Computer Science",
     "0376",
     requirements,
-    0,
+    52,
 );
 
 
@@ -162,6 +164,15 @@ const courseList: Course[] = [
     courseQuery.getCourse("MATH", "100"),
     courseQuery.getCourse("MATH", "101"),
     courseQuery.getCourse("ECON", "101"),
+    courseQuery.getCourse("CPSC", "213"),
+    courseQuery.getCourse("MATH", "111"),
+    courseQuery.getCourse("CPSC", "221"),
+    courseQuery.getCourse("CPSC", "310"),
+    courseQuery.getCourse("STAT", "200"),
+    courseQuery.getCourse("MATH", "200"),
+    courseQuery.getCourse("BIOL", "112"),
+    courseQuery.getCourse("ASTR", "101"),
+    courseQuery.getCourse("PHIL", "120"),
 
 ];
 
@@ -171,7 +182,7 @@ describe('testCheck', () => {
   let check: Check
 
   beforeEach(() => {
-    check = new Check([],0,0,);
+    check = new Check([],0,0);
     graduation = new Graduation(120, CompSci);
     
   })
@@ -186,77 +197,83 @@ describe('testCheck', () => {
     expect(check.anyOf(c121p210, courses)).toBe(true);
   })
 
-  it('evaluate', () => {
+  //complete evaluation
+  it('evaluate result', () => {
+  check.evaluate(courseList, CompSci);
+  expect(check.mandatoryCount).toBe(10);
+  expect(check.electiveProgress).toBe(24);
+
+});
+
+  it('evaluate0', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[0].result).toBe(true);
   })
 
-    it('evaluate', () => {
+    it('evaluate1', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[1].result).toBe(true);
+
+
   })
 
-    it('evaluate', () => {
+    it('evaluate2', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[2].result).toBe(true);
   })
 
 
-  //bug!!!
-    it('evaluate', () => {
+    it('evaluate3', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[3].result).toBe(true);
   })
 
-        it('evaluate', () => {
+        it('evaluate4', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[4].result).toBe(true);
 
   })
-
-  //bug!!!
-
-        it('evaluate', () => {
+        it('evaluate5', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[5].result).toBe(true);
   })
 
-   it('evaluate', () => {
+   it('evaluate6', () => {
     check.evaluate(courseList, CompSci);
-    expect(CompSci.requirements[6].result).toBe(false);
+    expect(CompSci.requirements[6].result).toBe(true);
   })
 
-   it('evaluate', () => {
+   it('evaluate7', () => {
     check.evaluate(courseList, CompSci);
-    expect(CompSci.requirements[7].result).toBe(false);
-  })
-
-
-   it('evaluate', () => {
-    check.evaluate(courseList, CompSci);
-    expect(CompSci.requirements[8].result).toBe(false);
+    expect(CompSci.requirements[7].result).toBe(true);
   })
 
 
-   it('evaluate', () => {
+   it('evaluate8', () => {
     check.evaluate(courseList, CompSci);
-    expect(CompSci.requirements[9].result).toBe(false);
+    expect(CompSci.requirements[8].result).toBe(true);
   })
 
 
-   it('evaluate', () => {
+   it('evaluate9', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[9].result).toBe(true);
+  })
+
+
+   it('evaluate10', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[10].result).toBe(false);
   })
 
 
-   it('evaluate', () => {
+   it('evaluate11', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[11].result).toBe(0);
   })
 
 
-   it('evaluate', () => {
+   it('evaluate12', () => {
     check.evaluate(courseList, CompSci);
     expect(CompSci.requirements[12].result).toBe(0);
   })
@@ -266,14 +283,6 @@ describe('testCheck', () => {
     expect(check.allOf(completed121, courses)).toBe(false);
       expect(check.allOf(completed110, courses)).toBe(false);
     expect(check.allOf(c121p210, courses)).toBe(true);
-  })
-
-
-  //creditProgress 
-  it('creditProgress', () => {
-    expect(check.electiveCount(completed121)).toBe(4);
-    expect(check.electiveCount(completed110)).toBe(4);
-    expect(check.electiveCount(c121p210)).toBe(8);
   })
 
    it('hasCourse', () => {

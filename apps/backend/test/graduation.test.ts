@@ -12,7 +12,7 @@ export const CompSci = new Specialization(
     "Computer Science",
     "0376",
     requirements,
-    32
+    52
     
 );
 

@@ -9,8 +9,8 @@ export class Check {
 
     constructor(
             public usedCourses : String[] = [],
-            public mandatoryCount: number,  //mandatory requirements that have been finished
-            public electiveProgress: number  //elective credits that have been finished
+            public mandatoryCount: number = 0,  //mandatory requirements that have been finished
+            public electiveProgress: number = 0  //elective credits that have been finished
         ) {}
 
     public evaluate(completed : Course[], spec: Specialization) : void { 
@@ -31,6 +31,7 @@ export class Check {
 
 
         for (const r of map.get("hasCourse")??[]) {
+            available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
             r.result = this.hasCourse(completed, r.courses[0]);  //single course match
             if (r.result) {
                 this.mandatoryCount++;
@@ -40,7 +41,6 @@ export class Check {
         for (const r of map.get("anyOf")??[]) {
 
             available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
-            console.log(available.map(c => c.subject_code + c.course_code));
             r.result = this.anyOf(available, r.courses.map(c => c.subject_code + c.course_code));
              if (r.result) {
                 this.mandatoryCount++;
@@ -62,16 +62,13 @@ export class Check {
             
             r.result = this.creditAtLeastFrom(available, r.filter??{}, r.minCredit??0);
 
-            if (typeof r.result === "number" && r.result >= 100) {
+            if (typeof r.result === "number" && r.result >= 1) {
                 this.mandatoryCount++;
             }
         } 
-
-        for (const c of completed) {      //elective courses
-
             available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
-            this.electiveProgress = this.electiveCount(available) / spec.electiveCredit;
-        }
+            this.electiveCount(available);  //elective courses
+        
      
         }
 
@@ -91,7 +88,7 @@ export class Check {
     public anyOf(completed : Course[], courses : String[]) : boolean{
         for (const c of completed) {
             if (courses.includes(c.subject_code + c.course_code)) {
-                this.usedCourses.push(c.course_code + c.course_code);
+                this.usedCourses.push(c.subject_code + c.course_code);
                 return true;
             }
         }
@@ -103,6 +100,7 @@ export class Check {
         for (const c of completed) {
             if (courses.includes(c.subject_code + c.course_code)) {
                 count++;
+                this.usedCourses.push(c.subject_code + c.course_code);
             }
         }
         return count >= courses.length ? true : false;
@@ -123,18 +121,18 @@ export class Check {
 
             }
         }
-       return Math.min(count / minCredit, 1);
-    } //test!!!
+       return Number(Math.min(count / minCredit, 1).toFixed(2));
+    } 
 
     //Elective
 
-     public electiveCount(completed : Course[]) : number {
-        let count : number = 0;
+     public electiveCount(completed : Course[]) : void {
         for (const c of completed) {
-                count += c.credit;
+                this.electiveProgress += Number(c.credit);
+                //console.log(typeof this.electiveProgress);
+
                 this.usedCourses.push(c.subject_code + c.course_code);
         }
-       return count;
     }
 
 }
