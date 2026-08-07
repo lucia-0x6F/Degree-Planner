@@ -145,8 +145,6 @@ export const CompSci = new Specialization(
     "0376",
     requirements,
     0,
-    0,
-    0
 );
 
 
@@ -173,7 +171,7 @@ describe('testCheck', () => {
   let check: Check
 
   beforeEach(() => {
-    check = new Check();
+    check = new Check([],0,0,);
     graduation = new Graduation(120, CompSci);
     
   })

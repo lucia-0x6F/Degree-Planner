@@ -8,7 +8,9 @@ import { Specialization } from "./Specialization";
 export class Check {
 
     constructor(
-            public usedCourses : String[] = []
+            public usedCourses : String[] = [],
+            public mandatoryCount: number,  //mandatory requirements that have been finished
+            public electiveProgress: number  //elective credits that have been finished
         ) {}
 
     public evaluate(completed : Course[], spec: Specialization) : void { 
@@ -31,7 +33,7 @@ export class Check {
         for (const r of map.get("hasCourse")??[]) {
             r.result = this.hasCourse(completed, r.courses[0]);  //single course match
             if (r.result) {
-                spec.mandatoryProgress++;
+                this.mandatoryCount++;
             }
         }
 
@@ -41,7 +43,7 @@ export class Check {
             console.log(available.map(c => c.subject_code + c.course_code));
             r.result = this.anyOf(available, r.courses.map(c => c.subject_code + c.course_code));
              if (r.result) {
-                spec.mandatoryProgress++;
+                this.mandatoryCount++;
             }
         }
 
@@ -50,7 +52,7 @@ export class Check {
             available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
             r.result = this.allOf(available, r.courses.map(c => c.subject_code + c.course_code));
             if (r.result) {
-                spec.mandatoryProgress++;
+                this.mandatoryCount++;
             }
         }
 
@@ -61,14 +63,14 @@ export class Check {
             r.result = this.creditAtLeastFrom(available, r.filter??{}, r.minCredit??0);
 
             if (typeof r.result === "number" && r.result >= 100) {
-                spec.mandatoryProgress++;
+                this.mandatoryCount++;
             }
         } 
 
         for (const c of completed) {      //elective courses
 
             available = available.filter(c => !this.usedCourses.includes(c.subject_code + c.course_code));
-            spec.electiveProgress = this.electiveCount(available) / spec.electiveCredit;
+            this.electiveProgress = this.electiveCount(available) / spec.electiveCredit;
         }
      
         }

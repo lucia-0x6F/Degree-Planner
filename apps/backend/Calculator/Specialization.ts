@@ -8,9 +8,7 @@ export class Specialization {
        public name: string,
        public code: string,
        public requirements: Requirement[],
-       public electiveCredit: number,
-       public mandatoryProgress: number,
-       public electiveProgress: number
+       public electiveCredit: number,  //total elective credits on the academic calender
     ){}
 
 
