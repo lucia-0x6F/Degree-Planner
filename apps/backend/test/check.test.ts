@@ -142,10 +142,29 @@ export const CompSci = new Specialization(
     "Computer Science",
     "0376",
     requirements,
-    32,
-    88,
+    0,
+    0,
     0
 );
+
+
+
+const courseList: Course[] = [
+
+    courseQuery.getCourse("CPSC", "110"),
+    courseQuery.getCourse("CPSC", "121"),
+    courseQuery.getCourse("CPSC", "210"),
+    courseQuery.getCourse("CPSC", "100"),
+    courseQuery.getCourse("PHIL", "220"),
+    courseQuery.getCourse("SCIE", "113"),
+    courseQuery.getCourse("FREN", "101"),
+    courseQuery.getCourse("PHYS", "131"),
+    courseQuery.getCourse("MATH", "100"),
+    courseQuery.getCourse("MATH", "101"),
+    courseQuery.getCourse("ECON", "101"),
+
+];
+
 
 describe('testCheck', () => {
   let check: Check
@@ -153,6 +172,7 @@ describe('testCheck', () => {
   beforeEach(() => {
     check = new Check();
     graduation = new Graduation(120, CompSci);
+    
   })
   //anyOf 
   it('anyOfSingle', () => {
@@ -164,6 +184,32 @@ describe('testCheck', () => {
     expect(check.anyOf(c110p121, courses)).toBe(true);
     expect(check.anyOf(c121p210, courses)).toBe(true);
   })
+
+  it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[0].result).toBe(true);
+  })
+
+    it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[1].result).toBe(true);
+  })
+
+    it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[2].result).toBe(true);
+  })
+
+    it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.requirements[3].result).toBe(true);
+  })
+
+      it('evaluate', () => {
+    check.evaluate(courseList, CompSci);
+    expect(CompSci.mandatoryProgress).toBe(22);
+  })
+
 
 
   //allOf   

@@ -81,7 +81,12 @@ export class Check {
     }
 
     public anyOf(completed : Course[], courses : String[]) : boolean{
-        return completed.some(c => courses.includes(c.subject_code + c.course_code));
+        for (const c of completed) {
+            if (courses.includes(c.subject_code + c.course_code)) {
+                return true;
+            }
+        }
+        return false;
     }
 
     public allOf(completed : Course[], courses : String[]) : boolean{
