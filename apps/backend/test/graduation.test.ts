@@ -97,19 +97,11 @@ describe('testGraduation', () => {
 
   });
 
-  it('courseValidityCheck', () => {
-
-    const course = new Course("CPSC", "110", 4, "CPSC110", "Science", "");
-    const mandatory = [course];
-    graduation.courseValidityCheck([course], mandatory);
-    expect(mandatory.length).toBe(0);
-
-  });
 
   it('validElectiveCount', () => {
 
     const courses = [new Course("MATH", "100", 3, "MATH100", "Science", "")];
-    expect(graduation.validElectiveCount(courses, graduation.specialization)).toBeGreaterThanOrEqual(0);
+    expect(graduation.notSciArts(courses)).toBeGreaterThanOrEqual(0);
 
   });
 

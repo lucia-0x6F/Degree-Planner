@@ -8,28 +8,14 @@ export class Graduation{
     ){}
 
     public progressCalculation() : number {
-        return this.credits / 120;
+        return Number((this.credits / 120).toFixed(2));
     }
-
-    public courseValidityCheck(completedCourses : Course[], mandatoryCourses : Course[]) { 
-
-        for (const c of completedCourses) {
-            if (mandatoryCourses.includes(c)) {
-                const index = mandatoryCourses.indexOf(c);
-                if (index !== -1) {
-                    mandatoryCourses.splice(index, 1);     //if the course belongs to the mandatory courses, remove the corresponding course from the array
-                }                                               //if not, add the elective credit
-            } else {
-                this.specialization.electiveCredit += c.credit;
-            }
-        }
-    }   
 
     public upper48Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
             if (parseInt(c.course_code) >= 300) {
-                count += c.credit;
+                count += Number(c.credit);
             }
         }
         return count;
@@ -38,8 +24,8 @@ export class Graduation{
     public science72Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (c.faculty == "Science") {
-                count += c.credit;
+            if (c.faculty == "Faculty of Science") {
+                count += Number(c.credit);
             }
         }
         return count;
@@ -48,8 +34,8 @@ export class Graduation{
      public scienceUpper30Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (c.faculty == "Science" && parseInt(c.course_code) >= 300) { 
-                count += c.credit;
+            if (c.faculty == "Faculty of Science" && parseInt(c.course_code) >= 300) { 
+                count += Number(c.credit);
             }
         }
         return count;
@@ -58,8 +44,8 @@ export class Graduation{
     public arts12Check(completedCourses : Course[]) : number{ 
         let count = 0;
         for (const c of completedCourses) {
-            if (c.faculty == "Arts" || ["ASCI200", "ASCI220"].includes(c.course_name)) { 
-                count += c.credit;
+            if (c.faculty == "Faculty of Arts" || ["ASCI200", "ASCI220"].includes(c.course_name)) { 
+                count += Number(c.credit);
             }
         }
         return count;
@@ -133,7 +119,7 @@ export class Graduation{
     public communicationCheck(completedCourses : Course[]) : number{
         let count : number = 0;
          for (const c of completedCourses) {
-            let name : string = c.course_name;
+            let name : string = c.subject_code + c.course_code;
             if (["SCIE113", "SCIE001"].includes(name)) {
                 count++;
             } else if (["ENGL110", "ENGL111"].includes(name)) {
@@ -151,7 +137,7 @@ export class Graduation{
         const labs : String[] = ["ASTR101", "ASTR102", "BIOL140", "CHEM111", "CHEM115", "CHEM121", "CHEM123", "CHEM135", "EOSC111", "PHYS101",
             "PHYS107" , "PHYS109" , "PHYS119", "PHYS159", "SCIE001"];
         for (const c of completedCourses) {
-            let name : string = c.course_name;
+            let name : string = c.subject_code + c.course_code;
             if (labs.includes(name)) {
                 return true;
             }
@@ -160,15 +146,14 @@ export class Graduation{
     }
 
 
-    public validElectiveCount(completedCourses : Course[], spec : Specialization) : number {
-        let count = 0;
-        let notSciArt = 0;
+    public notSciArts(completedCourses : Course[]) : number {
+        let notSciArts = 0;
         for (const c of completedCourses) {
-            if (c.faculty != "Science" && c.faculty != "Arts") {
-                notSciArt += c.credit;
-            }
+            if (c.faculty != "Faculty of Science" && c.faculty != "Faculty of Arts") {
+                notSciArts += Number(c.credit);
+            } 
         }
-        return notSciArt > 24? count - (notSciArt - 24) : count; //if notSciArt > 24, then the exceeded credit would be reduced
+        return notSciArts > 24? notSciArts : 0; //if notSciArt > 24, then the exceeded credit would be reduced
     }
 
 // Foundational Requirement

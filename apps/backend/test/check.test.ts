@@ -173,6 +173,7 @@ const courseList: Course[] = [
     courseQuery.getCourse("BIOL", "112"),
     courseQuery.getCourse("ASTR", "101"),
     courseQuery.getCourse("PHIL", "120"),
+    courseQuery.getCourse("PHIL", "321"),
 
 ];
 
@@ -186,6 +187,64 @@ describe('testCheck', () => {
     graduation = new Graduation(120, CompSci);
     
   })
+
+  //Graduation.ts
+  it('progressCalculation', () => {
+    const graduation = new Graduation(69, CompSci);
+    expect(graduation.progressCalculation()).toBe(0.57);
+});
+
+
+it('upper48Check', () => {
+    expect(graduation.upper48Check(courseList)).toBe(7);
+});
+
+
+it('science72Check', () => {
+    expect(graduation.science72Check(courseList)).toBe(54);
+});
+
+it('scienceUpper30Check', () => {
+    expect(graduation.scienceUpper30Check(courseList)).toBe(4);
+});
+
+
+it('arts12Check', () => {
+    expect(graduation.arts12Check(courseList)).toBe(15);
+});
+
+
+it('communicationCheck', () => {
+    expect(graduation.communicationCheck(courseList)).toBe(1);
+});
+
+
+it('labCheck', () => {
+    expect(graduation.labCheck(courseList)).toBe(true);
+}); 
+
+
+it('scienceBreadthCheck', () => {
+    const result = graduation.scienceBreadthCheck(courseList);
+
+    expect(result).toContain("CPSC");
+    expect(result).toContain("MATH");
+    expect(result).toContain("STAT");
+    expect(result).toContain("PHYS");
+     expect(result).toContain("BIOL");
+    expect(result).toContain("ASTR");
+});
+
+
+
+it('notSciArts', () => {
+    expect(graduation.notSciArts(courseList)).toBe(0);
+});
+
+//fix
+
+
+  //Check.ts
   //anyOf
   it('anyOfSingle', () => {
     expect(check.anyOf(completed121, courses)).toBe(true);
