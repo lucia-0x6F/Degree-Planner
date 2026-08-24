@@ -1,5 +1,4 @@
-import { Course } from "./Course";
-import { Check } from "./Check";
+
 import { Requirement } from "./Requirement";
 
 export class Specialization {

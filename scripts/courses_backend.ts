@@ -6,6 +6,10 @@ const DB_PATH = path.join(process.cwd(), 'data', 'courses.db');
 
 const db = new Database(DB_PATH);
 
+type Course = {
+  prereq?: unknown;
+  coreq?: unknown;
+};
 
 db.exec(`
   CREATE TABLE IF NOT EXISTS courses_processed (
@@ -26,7 +30,7 @@ function importProcessedDir(baseDir: string) {
   );
 
 
-  const insertAll = db.transaction((entries: [string, any][]) => {
+  const insertAll = db.transaction((entries: [string, Course][]) => {
 
     for (const [code, course] of entries) {
 

@@ -119,7 +119,7 @@ export class Graduation{
     public communicationCheck(completedCourses : Course[]) : number{
         let count : number = 0;
          for (const c of completedCourses) {
-            let name : string = c.subject_code + c.course_code;
+            const name : string = c.subject_code + c.course_code;
             if (["SCIE113", "SCIE001"].includes(name)) {
                 count++;
             } else if (["ENGL110", "ENGL111"].includes(name)) {
@@ -131,13 +131,13 @@ export class Graduation{
     // TODO
     //- SCIE 300(Combined Major in Science specialization)
     //- CHEM 300(Chemistry specializations)
-    //- ENVR 200 (Environmental Sciences specializations)
+    //- ENVR 200(Environmental Sciences specializations)
 
     public labCheck(completedCourses : Course[]) : boolean {
-        const labs : String[] = ["ASTR101", "ASTR102", "BIOL140", "CHEM111", "CHEM115", "CHEM121", "CHEM123", "CHEM135", "EOSC111", "PHYS101",
+        const labs : string[] = ["ASTR101", "ASTR102", "BIOL140", "CHEM111", "CHEM115", "CHEM121", "CHEM123", "CHEM135", "EOSC111", "PHYS101",
             "PHYS107" , "PHYS109" , "PHYS119", "PHYS159", "SCIE001"];
         for (const c of completedCourses) {
-            let name : string = c.subject_code + c.course_code;
+            const name : string = c.subject_code + c.course_code;
             if (labs.includes(name)) {
                 return true;
             }

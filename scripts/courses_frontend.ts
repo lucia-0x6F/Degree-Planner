@@ -1,6 +1,7 @@
 import Database from 'better-sqlite3';
 import fs from 'fs';
 import path from 'path';
+import { Course } from '../apps/backend/Calculator/Course';
 
 const DB_PATH = path.join(process.cwd(), 'data', 'courses.db');
 
@@ -24,7 +25,7 @@ function importDir(baseDir: string, tableName: string) {
     `INSERT OR REPLACE INTO ${tableName} VALUES (?, ?, ?, ?, ?, ?, ?)`
   );
 
-  const insertAll = db.transaction((entries: [string, any][]) => {
+  const insertAll = db.transaction((entries: [string, Course][]) => {
     for (const [code, c] of entries) {
       insert.run(
         code,
@@ -68,7 +69,7 @@ const rawDir = path.join(process.cwd(), 'data', 'courses');
 if (fs.existsSync(rawDir)) importDir(rawDir, 'courses_raw');
 
 // statistics
-const rawCount = db.prepare('SELECT COUNT(*) AS cnt FROM courses_raw').get() as any;
+const rawCount = db.prepare('SELECT COUNT(*) AS cnt FROM courses_raw').get() as Course;
 console.log(`Database: courses_raw = ${rawCount.cnt}`);
 
 db.close();

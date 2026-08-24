@@ -1,4 +1,5 @@
 export class Course {
+    cnt: any;
     
     constructor(
         public readonly subject_code: string,    //mandatory property

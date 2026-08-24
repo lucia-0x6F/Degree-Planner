@@ -1,4 +1,4 @@
-import { availableMemory } from "node:process";
+
 import { Course } from "./Course";
 import { Requirement } from "./Requirement";
 import { Specialization } from "./Specialization";
@@ -8,7 +8,7 @@ import { Specialization } from "./Specialization";
 export class Check {
 
     constructor(
-            public usedCourses : String[] = [],
+            public usedCourses : string[] = [],
             public mandatoryCount: number = 0,  //mandatory requirements that have been finished
             public electiveProgress: number = 0  //elective credits that have been finished
         ) {}
@@ -85,7 +85,7 @@ export class Check {
 
     }
 
-    public anyOf(completed : Course[], courses : String[]) : boolean{
+    public anyOf(completed : Course[], courses : string[]) : boolean{
         for (const c of completed) {
             if (courses.includes(c.subject_code + c.course_code)) {
                 this.usedCourses.push(c.subject_code + c.course_code);
@@ -95,7 +95,7 @@ export class Check {
         return false;
     }
 
-    public allOf(completed : Course[], courses : String[]) : boolean{
+    public allOf(completed : Course[], courses : string[]) : boolean{
         let count : number = 0;
         for (const c of completed) {
             if (courses.includes(c.subject_code + c.course_code)) {

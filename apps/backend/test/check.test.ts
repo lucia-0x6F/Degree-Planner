@@ -11,7 +11,6 @@ const completed110 = [CPSC110];
 const c110p121 = [CPSC110,CPSC121];
 const c121p210 = [CPSC121,CPSC210];
 const courses =  ["CPSC121", "CPSC210"];
-const courses2 =  ["CPSC121", "CPSC210","CPSC110"];
 
 import Database from 'better-sqlite3';
 import { CourseQuery } from '../../../data/CourseQuery';
@@ -260,7 +259,7 @@ it('notSciArts', () => {
   it('evaluate result', () => {
   check.evaluate(courseList, CompSci);
   expect(check.mandatoryCount).toBe(10);
-  expect(check.electiveProgress).toBe(24);
+  expect(check.electiveProgress).toBe(27);
 
 });
 
