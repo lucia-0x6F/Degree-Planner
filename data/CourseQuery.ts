@@ -1,5 +1,5 @@
 import Database from "better-sqlite3";
-import { Course } from "../apps/backend/Calculator/Course";
+import { Course } from "../backend/Calculator/Course";
 
 export class CourseQuery {
 

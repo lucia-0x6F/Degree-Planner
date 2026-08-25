@@ -28,10 +28,14 @@ The project separates different parts of the degree planning logic:
 - Vite
 - Tailwind CSS
 
-**Backend / Data Processing**
+**Backend**
 - TypeScript
+- Node.js
+- Express.js
+- REST API
+
+**Database**
 - SQLite
-- Data parsing and validation
 
 ## Data Source
 

@@ -1,5 +1,5 @@
 export class Course {
-    cnt: any;
+    cnt: unknown;
     
     constructor(
         public readonly subject_code: string,    //mandatory property
@@ -9,6 +9,12 @@ export class Course {
         public readonly faculty: string,
         public readonly description: string,
     ){}
+
+    get code(): string {
+
+        return `${this.subject_code} ${this.course_code}`;
+
+    }
 
    
 

@@ -13,7 +13,7 @@ const c121p210 = [CPSC121,CPSC210];
 const courses =  ["CPSC121", "CPSC210"];
 
 import Database from 'better-sqlite3';
-import { CourseQuery } from '../../../data/CourseQuery';
+import { CourseQuery } from '../../data/CourseQuery';
 import { Graduation } from '../Calculator/Graduation';
 import { Requirement } from '../Calculator/Requirement';
 import { Specialization } from '../Calculator/Specialization';

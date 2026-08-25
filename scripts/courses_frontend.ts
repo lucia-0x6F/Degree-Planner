@@ -1,7 +1,7 @@
 import Database from 'better-sqlite3';
 import fs from 'fs';
 import path from 'path';
-import { Course } from '../apps/backend/Calculator/Course';
+import { Course } from '../backend/Calculator/Course';
 
 const DB_PATH = path.join(process.cwd(), 'data', 'courses.db');
 
