@@ -1,7 +1,8 @@
 /* eslint-disable react-refresh/only-export-components */
 import { CoursePanel } from "./CoursePanel";
 import { ProgressPanel } from "./ProgressPanel";
-import { Sidebar } from "./SideBar";
+import { Sidebar } from "./Sidebar";
+
 
 export const majors = [
   "Computer Science",
