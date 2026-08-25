@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { courses } from "./App";
+import Search from "./Search";
 
 export function CoursePanel() {
 
@@ -20,61 +20,21 @@ export function CoursePanel() {
     return (
         <main className="p-5 space-y-6">
 
-
             <div>
                 <h2 className="text-xl font-bold mb-3">
                     Course Search
                 </h2>
 
-                <input
-                    placeholder="Search course..."
-                    className="border rounded p-2 w-full" />
 
             </div>
 
+             <Search toggleCourse={toggleCourse}/>
 
 
             <div>
-
-                <h2 className="font-bold mb-3">
-                    Courses
-                </h2>
-
-
-                <div className="space-y-2">
-
-                    {courses.map(course => (
-
-                        <button
-                            key={course.code}
-                            onClick={() => toggleCourse(course.code)}
-                            className="border rounded p-3 w-full text-left hover:bg-gray-100"
-                        >
-
-                            <div className="font-medium">
-                                {course.code}
-                            </div>
-
-                            <div className="text-sm text-gray-500">
-                                {course.name}
-                            </div>
-
-                        </button>
-
-                    ))}
-
-                </div>
-
-            </div>
-
-
-
-            <div>
-
                 <h2 className="font-bold mb-3">
                     Selected Courses
                 </h2>
-
 
                 {selected.length === 0
                     ?
