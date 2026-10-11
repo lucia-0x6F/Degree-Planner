@@ -3,12 +3,50 @@ import { CoursePanel } from "./CoursePanel";
 import { ProgressPanel } from "./ProgressPanel";
 import { Sidebar } from "./Sidebar";
 
+export const faculties = [
+    "Faculty of Applied Science",
+    "Faculty of Arts",
+    "Faculty of Commerce and Business Administration",
+    "Faculty of Dentistry",
+    "Faculty of Education",
+    "Faculty of Forestry",
+    "Faculty of Graduate and Postdoctoral Studies",
+    "Faculty of Land and Food Systems",
+    "Faculty of Medicine",
+    "Faculty of Pharmaceutical Sciences",
+    "Faculty of Science",
+    "Peter A. Allard School of Law"
+];
 
 export const majors = [
-  "Computer Science",
-  "Mathematics",
-  "Biology",
-  "Physics",
+   "Astronomy",
+    "Atmospheric Science",
+    "Biochemistry",
+    "Biology",
+    "Biophysics",
+    "Biotechnology",
+    "Cellular, Anatomical and Physiological Sciences",
+    "Chemistry",
+    "Cognitive Systems",
+    "Combined Major in Science",
+    "Computer Science",
+    "Data Science",
+    "Earth and Ocean Sciences",
+    "Environmental Sciences",
+    "Forensic Science",
+    "Geographical Sciences",
+    "Geological Sciences",
+    "Geophysics",
+    "Integrated Sciences",
+    "Mathematics",
+    "Mathematics and Economics",
+    "Microbiology and Immunology",
+    "Neuroscience",
+    "Oceanography",
+    "Pharmacology",
+    "Physics",
+    "Statistics",
+    "Statistics and Economics",
 ];
 
 export const years = [
@@ -16,6 +54,7 @@ export const years = [
   "Year 2",
   "Year 3",
   "Year 4",
+  "Year 4+",
 ];
 
 export const courses = [

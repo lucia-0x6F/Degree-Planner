@@ -1,6 +1,6 @@
 import type { SpecializationConfig } from "../interfaces/SpecializationRequirements";
 
-export const CSRequirements0376: SpecializationConfig = {
+export const CSRequirements: SpecializationConfig = {
     name: "Computer Science",
     code: "0376",
     electiveCredit: 52,
