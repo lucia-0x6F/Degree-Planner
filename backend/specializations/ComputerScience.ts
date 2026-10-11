@@ -1,4 +1,4 @@
-import type { SpecializationConfig } from "../types/SpecializationRequirements";
+import type { SpecializationConfig } from "../interfaces/SpecializationRequirements";
 
 export const CSRequirements0376: SpecializationConfig = {
     name: "Computer Science",

@@ -1,5 +1,4 @@
-import { Check } from '../Calculator/Check';
-import { Course } from '../Calculator/Course';
+import { Course } from '../models/Course';
 import { describe, it, expect, beforeEach } from 'vitest'
 
 
@@ -14,12 +13,13 @@ const courses =  ["CPSC121", "CPSC210"];
 
 import Database from 'better-sqlite3';
 import { CourseQuery } from '../../data/CourseQuery';
-import { Graduation } from '../Calculator/Graduation';
-import { Requirement } from '../Calculator/Requirement';
-import { Specialization } from '../Calculator/Specialization';
+import { Requirement } from '../models/Requirement';
+import { Specialization } from '../models/Specialization';
+import { Science } from '../faculties/Science';
+import { Check } from '../Calculator/Check';
 
 
-let graduation: Graduation;
+let graduation: Science;
 
 const db = new Database('data/courses.db');
 
@@ -183,13 +183,13 @@ describe('testCheck', () => {
 
   beforeEach(() => {
     check = new Check([],0,0);
-    graduation = new Graduation(120, CompSci);
+    graduation = new Science(120, CompSci);
     
   })
 
   //Graduation.ts
   it('progressCalculation', () => {
-    const graduation = new Graduation(69, CompSci);
+    const graduation = new Science(69, CompSci);
     expect(graduation.progressCalculation()).toBe(0.57);
 });
 

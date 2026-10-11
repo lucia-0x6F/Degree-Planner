@@ -1,7 +1,7 @@
-import { Course } from "./Course";
-import { Specialization } from "./Specialization";
+import { Course } from "../models/Course";
+import { Specialization } from "../models/Specialization";
 
-export class Graduation{
+export class Science{
     constructor(
         public credits: number,    
         public specialization: Specialization,

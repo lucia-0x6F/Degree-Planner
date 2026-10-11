@@ -1,7 +1,7 @@
 
-import { Course } from "./Course";
-import { Requirement } from "./Requirement";
-import { Specialization } from "./Specialization";
+import { Course } from "../models/Course";
+import { Requirement } from "../models/Requirement";
+import { Specialization } from "../models/Specialization";
 
 
 
